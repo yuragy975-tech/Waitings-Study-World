@@ -1,6 +1,6 @@
 # 生词宝典 · ShengCi BaoDian
 
-我的个人英语学习网站，部署在 [www.waiting.com](https://www.waiting.com)。
+我的个人英语学习网站，部署在 [www.waiting66.com](https://www.waiting66.com)。
 
 ## 功能规划
 
