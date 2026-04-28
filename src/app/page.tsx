@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function Home() {
   return (
     <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 dark:bg-zinc-950 px-6">
@@ -13,19 +15,23 @@ export default function Home() {
 
         <section className="grid gap-4 sm:grid-cols-2 w-full">
           <FeatureCard
-            title="生词记忆笔记本"
-            description="输入陌生单词 → 中文 / 音标 / 词根 / 英文释义 / 例句 + 一键发音。每记一次自动累计复习次数。"
-            status="即将推出"
+            href="/notebook"
+            title="我的生词本"
+            description="输入陌生单词 → 加入笔记本，自动获取中文 / 音标 / 词形 + 美英双发音。每记一次自动累计。"
+            status="可用"
+            statusTone="ready"
           />
           <FeatureCard
+            href="/dictation"
             title="每日听写"
-            description="设定每日单词数，系统给中文、朗读英文，你来拼写，自动判分。"
-            status="即将推出"
+            description="从笔记本随机抽词，给中文、朗读英文，你来拼写，自动判分 + 错题回顾。"
+            status="可用"
+            statusTone="ready"
           />
         </section>
 
         <footer className="text-sm text-zinc-400 dark:text-zinc-600 pt-8">
-          搭建中 · v0.0.1
+          搭建中 · v0.1.0
         </footer>
       </main>
     </div>
@@ -36,18 +42,27 @@ function FeatureCard({
   title,
   description,
   status,
+  statusTone,
+  href,
 }: {
   title: string;
   description: string;
   status: string;
+  statusTone: "ready" | "upcoming";
+  href?: string;
 }) {
-  return (
-    <div className="flex flex-col gap-3 rounded-2xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-6 text-left transition-shadow hover:shadow-md">
+  const statusClass =
+    statusTone === "ready"
+      ? "bg-emerald-100 dark:bg-emerald-950 text-emerald-900 dark:text-emerald-200"
+      : "bg-zinc-100 dark:bg-zinc-800 text-zinc-600 dark:text-zinc-400";
+
+  const inner = (
+    <div className="flex flex-col gap-3 rounded-2xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-6 text-left transition-all hover:shadow-md hover:border-zinc-300 dark:hover:border-zinc-700 h-full">
       <div className="flex items-center justify-between">
         <h2 className="text-lg font-semibold text-zinc-900 dark:text-zinc-50">
           {title}
         </h2>
-        <span className="text-xs px-2 py-0.5 rounded-full bg-zinc-100 dark:bg-zinc-800 text-zinc-600 dark:text-zinc-400">
+        <span className={`text-xs px-2 py-0.5 rounded-full ${statusClass}`}>
           {status}
         </span>
       </div>
@@ -55,5 +70,13 @@ function FeatureCard({
         {description}
       </p>
     </div>
+  );
+
+  return href ? (
+    <Link href={href} className="block">
+      {inner}
+    </Link>
+  ) : (
+    inner
   );
 }
