@@ -97,22 +97,43 @@ function parseSrt(srt) {
 
 async function alignOne(dir, mp3Path) {
   const wavPath = path.join(dir, "_tmp.wav");
-  const outPrefix = path.join(dir, "_whisper");
+  const sentPrefix = path.join(dir, "_w_sent");
+  const wordPrefix = path.join(dir, "_w_word");
   await run("ffmpeg", ["-y", "-loglevel", "error", "-i", mp3Path, "-ar", "16000", "-ac", "1", wavPath]);
+
+  // Pass 1：句子级
   await run("whisper-cli", [
     "-m", MODEL_PATH,
     "-f", wavPath,
     "-l", "en",
     "-osrt",
-    "-of", outPrefix,
-    "-pp",  // print progress
+    "-of", sentPrefix,
   ]);
-  const srtPath = outPrefix + ".srt";
-  const srt = await fs.readFile(srtPath, "utf8");
-  const segments = parseSrt(srt);
+  const sentences = parseSrt(await fs.readFile(sentPrefix + ".srt", "utf8"));
+
+  // Pass 2：单词级（每个词独立一行）
+  await run("whisper-cli", [
+    "-m", MODEL_PATH,
+    "-f", wavPath,
+    "-l", "en",
+    "-ml", "1",
+    "--split-on-word",
+    "-osrt",
+    "-of", wordPrefix,
+  ]);
+  const words = parseSrt(await fs.readFile(wordPrefix + ".srt", "utf8"));
+
+  // 把单词归到对应句子里
+  for (const sent of sentences) {
+    sent.words = words
+      .filter((w) => w.startSec >= sent.startSec - 0.05 && w.startSec < sent.endSec + 0.05)
+      .map((w) => ({ startSec: w.startSec, endSec: w.endSec, text: w.text }));
+  }
+
   await fs.unlink(wavPath).catch(() => {});
-  await fs.unlink(srtPath).catch(() => {});
-  return segments;
+  await fs.unlink(sentPrefix + ".srt").catch(() => {});
+  await fs.unlink(wordPrefix + ".srt").catch(() => {});
+  return sentences;
 }
 
 async function main() {
@@ -165,7 +186,7 @@ async function main() {
       const closeCount =
         Math.abs(oldCount - aligned.length) / Math.max(oldCount, 1) < 0.2;
       if (keepText && closeCount) {
-        // 保留原文本，只覆盖时间戳（按索引配对）
+        // 保留原文本，只覆盖时间戳（按索引配对）。逐词高亮在这种模式下不可用。
         const minLen = Math.min(oldCount, aligned.length);
         segments = [];
         for (let j = 0; j < minLen; j++) {
@@ -176,7 +197,7 @@ async function main() {
           });
         }
       } else {
-        // 直接用 whisper 的分段（最准）
+        // 直接用 whisper 的分段（最准）+ 逐词时间戳
         segments = aligned;
       }
 

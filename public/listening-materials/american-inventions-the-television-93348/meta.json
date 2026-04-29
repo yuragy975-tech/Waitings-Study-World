@@ -9,177 +9,2862 @@
     {
       "startSec": 0,
       "endSec": 8.2,
-      "text": "Television has made it possible for people around the world to share in many different"
+      "text": "Television has made it possible for people around the world to share in many different",
+      "words": [
+        {
+          "startSec": 0.7,
+          "endSec": 1.2,
+          "text": "Television"
+        },
+        {
+          "startSec": 1.2,
+          "endSec": 1.5,
+          "text": "has"
+        },
+        {
+          "startSec": 1.5,
+          "endSec": 2,
+          "text": "made"
+        },
+        {
+          "startSec": 2,
+          "endSec": 2.2,
+          "text": "it"
+        },
+        {
+          "startSec": 2.2,
+          "endSec": 3.1,
+          "text": "possible"
+        },
+        {
+          "startSec": 3.1,
+          "endSec": 3.5,
+          "text": "for"
+        },
+        {
+          "startSec": 3.5,
+          "endSec": 4.2,
+          "text": "people"
+        },
+        {
+          "startSec": 4.2,
+          "endSec": 5.1,
+          "text": "around"
+        },
+        {
+          "startSec": 5.1,
+          "endSec": 5.4,
+          "text": "the"
+        },
+        {
+          "startSec": 5.4,
+          "endSec": 6.1,
+          "text": "world"
+        },
+        {
+          "startSec": 6.1,
+          "endSec": 6.2,
+          "text": "to"
+        },
+        {
+          "startSec": 6.2,
+          "endSec": 6.8,
+          "text": "share"
+        },
+        {
+          "startSec": 6.8,
+          "endSec": 6.9,
+          "text": "in"
+        },
+        {
+          "startSec": 6.9,
+          "endSec": 7.2,
+          "text": "many"
+        },
+        {
+          "startSec": 7.2,
+          "endSec": 8.2,
+          "text": "different"
+        },
+        {
+          "startSec": 8.2,
+          "endSec": 10,
+          "text": "experiences,"
+        }
+      ]
     },
     {
       "startSec": 8.2,
       "endSec": 17.8,
-      "text": "experiences, sports, music shows, films, and more. Yet many people would find it difficult"
+      "text": "experiences, sports, music shows, films, and more. Yet many people would find it difficult",
+      "words": [
+        {
+          "startSec": 8.2,
+          "endSec": 10,
+          "text": "experiences,"
+        },
+        {
+          "startSec": 10,
+          "endSec": 11.1,
+          "text": "sports,"
+        },
+        {
+          "startSec": 11.1,
+          "endSec": 11.7,
+          "text": "music"
+        },
+        {
+          "startSec": 11.7,
+          "endSec": 12.6,
+          "text": "shows,"
+        },
+        {
+          "startSec": 12.6,
+          "endSec": 13.6,
+          "text": "films,"
+        },
+        {
+          "startSec": 13.6,
+          "endSec": 14.3,
+          "text": "and"
+        },
+        {
+          "startSec": 14.3,
+          "endSec": 14.9,
+          "text": "more."
+        },
+        {
+          "startSec": 14.9,
+          "endSec": 15.2,
+          "text": "Yet"
+        },
+        {
+          "startSec": 15.2,
+          "endSec": 15.5,
+          "text": "many"
+        },
+        {
+          "startSec": 15.5,
+          "endSec": 15.9,
+          "text": "people"
+        },
+        {
+          "startSec": 15.9,
+          "endSec": 16.3,
+          "text": "would"
+        },
+        {
+          "startSec": 16.3,
+          "endSec": 16.6,
+          "text": "find"
+        },
+        {
+          "startSec": 16.6,
+          "endSec": 16.8,
+          "text": "it"
+        },
+        {
+          "startSec": 16.8,
+          "endSec": 17.8,
+          "text": "difficult"
+        },
+        {
+          "startSec": 17.8,
+          "endSec": 18.4,
+          "text": "to"
+        }
+      ]
     },
     {
       "startSec": 17.8,
       "endSec": 25,
-      "text": "to name the inventor of the television. They might also be surprised to learn that the"
+      "text": "to name the inventor of the television. They might also be surprised to learn that the",
+      "words": [
+        {
+          "startSec": 17.8,
+          "endSec": 18.4,
+          "text": "to"
+        },
+        {
+          "startSec": 18.4,
+          "endSec": 18.5,
+          "text": "name"
+        },
+        {
+          "startSec": 18.5,
+          "endSec": 18.8,
+          "text": "the"
+        },
+        {
+          "startSec": 18.8,
+          "endSec": 19.6,
+          "text": "inventor"
+        },
+        {
+          "startSec": 19.6,
+          "endSec": 19.9,
+          "text": "of"
+        },
+        {
+          "startSec": 19.9,
+          "endSec": 20.2,
+          "text": "the"
+        },
+        {
+          "startSec": 20.2,
+          "endSec": 21.7,
+          "text": "television."
+        },
+        {
+          "startSec": 21.7,
+          "endSec": 22,
+          "text": "They"
+        },
+        {
+          "startSec": 22,
+          "endSec": 22.5,
+          "text": "might"
+        },
+        {
+          "startSec": 22.5,
+          "endSec": 22.8,
+          "text": "also"
+        },
+        {
+          "startSec": 22.8,
+          "endSec": 23,
+          "text": "be"
+        },
+        {
+          "startSec": 23,
+          "endSec": 23.9,
+          "text": "surprised"
+        },
+        {
+          "startSec": 23.9,
+          "endSec": 24,
+          "text": "to"
+        },
+        {
+          "startSec": 24,
+          "endSec": 24.5,
+          "text": "learn"
+        },
+        {
+          "startSec": 24.5,
+          "endSec": 24.8,
+          "text": "that"
+        },
+        {
+          "startSec": 24.8,
+          "endSec": 25,
+          "text": "the"
+        }
+      ]
     },
     {
       "startSec": 25,
       "endSec": 32.6,
-      "text": "inventor came up with the idea when he was just fourteen years old."
+      "text": "inventor came up with the idea when he was just fourteen years old.",
+      "words": [
+        {
+          "startSec": 25.8,
+          "endSec": 26.1,
+          "text": "inventor"
+        },
+        {
+          "startSec": 26.1,
+          "endSec": 26.6,
+          "text": "came"
+        },
+        {
+          "startSec": 26.6,
+          "endSec": 26.9,
+          "text": "up"
+        },
+        {
+          "startSec": 26.9,
+          "endSec": 27.4,
+          "text": "with"
+        },
+        {
+          "startSec": 27.4,
+          "endSec": 27.8,
+          "text": "the"
+        },
+        {
+          "startSec": 27.8,
+          "endSec": 28.3,
+          "text": "idea"
+        },
+        {
+          "startSec": 28.3,
+          "endSec": 28.8,
+          "text": "when"
+        },
+        {
+          "startSec": 28.8,
+          "endSec": 29.1,
+          "text": "he"
+        },
+        {
+          "startSec": 29.1,
+          "endSec": 29.5,
+          "text": "was"
+        },
+        {
+          "startSec": 29.5,
+          "endSec": 30.1,
+          "text": "just"
+        },
+        {
+          "startSec": 30.1,
+          "endSec": 31.2,
+          "text": "fourteen"
+        },
+        {
+          "startSec": 31.2,
+          "endSec": 31.7,
+          "text": "years"
+        },
+        {
+          "startSec": 31.7,
+          "endSec": 32.6,
+          "text": "old."
+        },
+        {
+          "startSec": 32.6,
+          "endSec": 33.3,
+          "text": "Today"
+        }
+      ]
     },
     {
       "startSec": 32.6,
       "endSec": 40.6,
-      "text": "Today we explore the life of one of the great inventors of 20th century America,"
+      "text": "Today we explore the life of one of the great inventors of 20th century America,",
+      "words": [
+        {
+          "startSec": 32.6,
+          "endSec": 33.3,
+          "text": "Today"
+        },
+        {
+          "startSec": 33.3,
+          "endSec": 33.4,
+          "text": "we"
+        },
+        {
+          "startSec": 33.4,
+          "endSec": 34.2,
+          "text": "explore"
+        },
+        {
+          "startSec": 34.2,
+          "endSec": 34.5,
+          "text": "the"
+        },
+        {
+          "startSec": 34.5,
+          "endSec": 35,
+          "text": "life"
+        },
+        {
+          "startSec": 35,
+          "endSec": 35.2,
+          "text": "of"
+        },
+        {
+          "startSec": 35.2,
+          "endSec": 35.6,
+          "text": "one"
+        },
+        {
+          "startSec": 35.6,
+          "endSec": 35.8,
+          "text": "of"
+        },
+        {
+          "startSec": 35.8,
+          "endSec": 36.2,
+          "text": "the"
+        },
+        {
+          "startSec": 36.2,
+          "endSec": 36.7,
+          "text": "great"
+        },
+        {
+          "startSec": 36.7,
+          "endSec": 37.8,
+          "text": "inventors"
+        },
+        {
+          "startSec": 37.8,
+          "endSec": 38,
+          "text": "of"
+        },
+        {
+          "startSec": 38,
+          "endSec": 38.8,
+          "text": "20th"
+        },
+        {
+          "startSec": 38.8,
+          "endSec": 39.4,
+          "text": "century"
+        },
+        {
+          "startSec": 39.4,
+          "endSec": 40.6,
+          "text": "America,"
+        },
+        {
+          "startSec": 40.6,
+          "endSec": 41.3,
+          "text": "Phylo"
+        }
+      ]
     },
     {
       "startSec": 40.6,
       "endSec": 44.2,
-      "text": "Phylo Taylor Farnsworth."
+      "text": "Phylo Taylor Farnsworth.",
+      "words": [
+        {
+          "startSec": 40.6,
+          "endSec": 41.3,
+          "text": "Phylo"
+        },
+        {
+          "startSec": 41.3,
+          "endSec": 42.2,
+          "text": "Taylor"
+        },
+        {
+          "startSec": 42.2,
+          "endSec": 44.2,
+          "text": "Farnsworth."
+        },
+        {
+          "startSec": 44.2,
+          "endSec": 44.9,
+          "text": "Phylo"
+        }
+      ]
     },
     {
       "startSec": 44.2,
       "endSec": 54.6,
-      "text": "Phylo Farnsworth was born in August 1906 near Indian Creek in the western state of Utah."
+      "text": "Phylo Farnsworth was born in August 1906 near Indian Creek in the western state of Utah.",
+      "words": [
+        {
+          "startSec": 44.2,
+          "endSec": 44.9,
+          "text": "Phylo"
+        },
+        {
+          "startSec": 44.9,
+          "endSec": 46.1,
+          "text": "Farnsworth"
+        },
+        {
+          "startSec": 46.1,
+          "endSec": 46.5,
+          "text": "was"
+        },
+        {
+          "startSec": 46.5,
+          "endSec": 47,
+          "text": "born"
+        },
+        {
+          "startSec": 47,
+          "endSec": 47.3,
+          "text": "in"
+        },
+        {
+          "startSec": 47.3,
+          "endSec": 48.1,
+          "text": "August"
+        },
+        {
+          "startSec": 48.1,
+          "endSec": 49.7,
+          "text": "1906"
+        },
+        {
+          "startSec": 49.7,
+          "endSec": 50.3,
+          "text": "near"
+        },
+        {
+          "startSec": 50.3,
+          "endSec": 50.7,
+          "text": "Indian"
+        },
+        {
+          "startSec": 50.7,
+          "endSec": 51.3,
+          "text": "Creek"
+        },
+        {
+          "startSec": 51.3,
+          "endSec": 51.6,
+          "text": "in"
+        },
+        {
+          "startSec": 51.6,
+          "endSec": 51.7,
+          "text": "the"
+        },
+        {
+          "startSec": 51.7,
+          "endSec": 52.3,
+          "text": "western"
+        },
+        {
+          "startSec": 52.3,
+          "endSec": 52.9,
+          "text": "state"
+        },
+        {
+          "startSec": 52.9,
+          "endSec": 53,
+          "text": "of"
+        },
+        {
+          "startSec": 53,
+          "endSec": 54.6,
+          "text": "Utah."
+        },
+        {
+          "startSec": 54.6,
+          "endSec": 55.3,
+          "text": "The"
+        }
+      ]
     },
     {
       "startSec": 54.6,
       "endSec": 62.4,
-      "text": "The house he lived in for the first few years of his life had no electricity."
+      "text": "The house he lived in for the first few years of his life had no electricity.",
+      "words": [
+        {
+          "startSec": 54.6,
+          "endSec": 55.3,
+          "text": "The"
+        },
+        {
+          "startSec": 55.3,
+          "endSec": 55.5,
+          "text": "house"
+        },
+        {
+          "startSec": 55.5,
+          "endSec": 55.8,
+          "text": "he"
+        },
+        {
+          "startSec": 55.8,
+          "endSec": 56.4,
+          "text": "lived"
+        },
+        {
+          "startSec": 56.4,
+          "endSec": 56.6,
+          "text": "in"
+        },
+        {
+          "startSec": 56.6,
+          "endSec": 57,
+          "text": "for"
+        },
+        {
+          "startSec": 57,
+          "endSec": 57.4,
+          "text": "the"
+        },
+        {
+          "startSec": 57.4,
+          "endSec": 58,
+          "text": "first"
+        },
+        {
+          "startSec": 58,
+          "endSec": 58.3,
+          "text": "few"
+        },
+        {
+          "startSec": 58.3,
+          "endSec": 58.9,
+          "text": "years"
+        },
+        {
+          "startSec": 58.9,
+          "endSec": 59.2,
+          "text": "of"
+        },
+        {
+          "startSec": 59.2,
+          "endSec": 59.6,
+          "text": "his"
+        },
+        {
+          "startSec": 59.6,
+          "endSec": 60,
+          "text": "life"
+        },
+        {
+          "startSec": 60,
+          "endSec": 60.6,
+          "text": "had"
+        },
+        {
+          "startSec": 60.6,
+          "endSec": 60.7,
+          "text": "no"
+        },
+        {
+          "startSec": 60.7,
+          "endSec": 62.4,
+          "text": "electricity."
+        },
+        {
+          "startSec": 62.4,
+          "endSec": 62.7,
+          "text": "But"
+        }
+      ]
     },
     {
       "startSec": 62.4,
       "endSec": 69.9,
-      "text": "But Phylo read about electricity and quickly began to experiment with it."
+      "text": "But Phylo read about electricity and quickly began to experiment with it.",
+      "words": [
+        {
+          "startSec": 62.4,
+          "endSec": 62.7,
+          "text": "But"
+        },
+        {
+          "startSec": 62.7,
+          "endSec": 63.3,
+          "text": "Phylo"
+        },
+        {
+          "startSec": 63.3,
+          "endSec": 63.8,
+          "text": "read"
+        },
+        {
+          "startSec": 63.8,
+          "endSec": 64.4,
+          "text": "about"
+        },
+        {
+          "startSec": 64.4,
+          "endSec": 65.7,
+          "text": "electricity"
+        },
+        {
+          "startSec": 65.7,
+          "endSec": 66.1,
+          "text": "and"
+        },
+        {
+          "startSec": 66.1,
+          "endSec": 66.8,
+          "text": "quickly"
+        },
+        {
+          "startSec": 66.8,
+          "endSec": 67.5,
+          "text": "began"
+        },
+        {
+          "startSec": 67.5,
+          "endSec": 67.6,
+          "text": "to"
+        },
+        {
+          "startSec": 67.6,
+          "endSec": 68.8,
+          "text": "experiment"
+        },
+        {
+          "startSec": 68.8,
+          "endSec": 69.3,
+          "text": "with"
+        },
+        {
+          "startSec": 69.3,
+          "endSec": 69.9,
+          "text": "it."
+        },
+        {
+          "startSec": 69.9,
+          "endSec": 70.7,
+          "text": "One"
+        }
+      ]
     },
     {
       "startSec": 69.9,
       "endSec": 79.9,
-      "text": "One night Phylo read a magazine story about the idea of sending pictures and sound through the air."
+      "text": "One night Phylo read a magazine story about the idea of sending pictures and sound through the air.",
+      "words": [
+        {
+          "startSec": 69.9,
+          "endSec": 70.7,
+          "text": "One"
+        },
+        {
+          "startSec": 70.7,
+          "endSec": 70.9,
+          "text": "night"
+        },
+        {
+          "startSec": 70.9,
+          "endSec": 71.4,
+          "text": "Phylo"
+        },
+        {
+          "startSec": 71.4,
+          "endSec": 71.9,
+          "text": "read"
+        },
+        {
+          "startSec": 71.9,
+          "endSec": 72,
+          "text": "a"
+        },
+        {
+          "startSec": 72,
+          "endSec": 72.9,
+          "text": "magazine"
+        },
+        {
+          "startSec": 72.9,
+          "endSec": 73.5,
+          "text": "story"
+        },
+        {
+          "startSec": 73.5,
+          "endSec": 74.1,
+          "text": "about"
+        },
+        {
+          "startSec": 74.1,
+          "endSec": 74.4,
+          "text": "the"
+        },
+        {
+          "startSec": 74.4,
+          "endSec": 75,
+          "text": "idea"
+        },
+        {
+          "startSec": 75,
+          "endSec": 75.2,
+          "text": "of"
+        },
+        {
+          "startSec": 75.2,
+          "endSec": 76,
+          "text": "sending"
+        },
+        {
+          "startSec": 76,
+          "endSec": 76.8,
+          "text": "pictures"
+        },
+        {
+          "startSec": 76.8,
+          "endSec": 77.1,
+          "text": "and"
+        },
+        {
+          "startSec": 77.1,
+          "endSec": 77.9,
+          "text": "sound"
+        },
+        {
+          "startSec": 77.9,
+          "endSec": 78.2,
+          "text": "through"
+        },
+        {
+          "startSec": 78.2,
+          "endSec": 78.8,
+          "text": "the"
+        },
+        {
+          "startSec": 78.8,
+          "endSec": 79.9,
+          "text": "air."
+        },
+        {
+          "startSec": 79.9,
+          "endSec": 80.7,
+          "text": "The"
+        }
+      ]
     },
     {
       "startSec": 79.9,
       "endSec": 85.9,
-      "text": "The story said some of the world's best scientists were working on the idea."
+      "text": "The story said some of the world's best scientists were working on the idea.",
+      "words": [
+        {
+          "startSec": 79.9,
+          "endSec": 80.7,
+          "text": "The"
+        },
+        {
+          "startSec": 80.7,
+          "endSec": 80.7,
+          "text": "story"
+        },
+        {
+          "startSec": 80.7,
+          "endSec": 81,
+          "text": "said"
+        },
+        {
+          "startSec": 81,
+          "endSec": 81.4,
+          "text": "some"
+        },
+        {
+          "startSec": 81.4,
+          "endSec": 81.6,
+          "text": "of"
+        },
+        {
+          "startSec": 81.6,
+          "endSec": 81.9,
+          "text": "the"
+        },
+        {
+          "startSec": 81.9,
+          "endSec": 82.5,
+          "text": "world's"
+        },
+        {
+          "startSec": 82.5,
+          "endSec": 82.8,
+          "text": "best"
+        },
+        {
+          "startSec": 82.8,
+          "endSec": 83.8,
+          "text": "scientists"
+        },
+        {
+          "startSec": 83.8,
+          "endSec": 84.1,
+          "text": "were"
+        },
+        {
+          "startSec": 84.1,
+          "endSec": 84.7,
+          "text": "working"
+        },
+        {
+          "startSec": 84.7,
+          "endSec": 85,
+          "text": "on"
+        },
+        {
+          "startSec": 85,
+          "endSec": 85.2,
+          "text": "the"
+        },
+        {
+          "startSec": 85.2,
+          "endSec": 85.9,
+          "text": "idea."
+        },
+        {
+          "startSec": 85.9,
+          "endSec": 86.7,
+          "text": "It"
+        }
+      ]
     },
     {
       "startSec": 85.9,
       "endSec": 95,
-      "text": "It said these scientists were using special machines to try to make a kind of device"
+      "text": "It said these scientists were using special machines to try to make a kind of device",
+      "words": [
+        {
+          "startSec": 85.9,
+          "endSec": 86.7,
+          "text": "It"
+        },
+        {
+          "startSec": 86.7,
+          "endSec": 86.7,
+          "text": "said"
+        },
+        {
+          "startSec": 86.7,
+          "endSec": 87.3,
+          "text": "these"
+        },
+        {
+          "startSec": 87.3,
+          "endSec": 88.6,
+          "text": "scientists"
+        },
+        {
+          "startSec": 88.6,
+          "endSec": 89.1,
+          "text": "were"
+        },
+        {
+          "startSec": 89.1,
+          "endSec": 89.8,
+          "text": "using"
+        },
+        {
+          "startSec": 89.8,
+          "endSec": 90.6,
+          "text": "special"
+        },
+        {
+          "startSec": 90.6,
+          "endSec": 91.7,
+          "text": "machines"
+        },
+        {
+          "startSec": 91.7,
+          "endSec": 92,
+          "text": "to"
+        },
+        {
+          "startSec": 92,
+          "endSec": 92.3,
+          "text": "try"
+        },
+        {
+          "startSec": 92.3,
+          "endSec": 92.5,
+          "text": "to"
+        },
+        {
+          "startSec": 92.5,
+          "endSec": 92.9,
+          "text": "make"
+        },
+        {
+          "startSec": 92.9,
+          "endSec": 93,
+          "text": "a"
+        },
+        {
+          "startSec": 93,
+          "endSec": 93.6,
+          "text": "kind"
+        },
+        {
+          "startSec": 93.6,
+          "endSec": 93.9,
+          "text": "of"
+        },
+        {
+          "startSec": 93.9,
+          "endSec": 95,
+          "text": "device"
+        },
+        {
+          "startSec": 95,
+          "endSec": 95.2,
+          "text": "to"
+        }
+      ]
     },
     {
       "startSec": 95,
       "endSec": 102.3,
-      "text": "to send pictures. Fourteen-year-old Phylo decided these famous scientists were wrong."
+      "text": "to send pictures. Fourteen-year-old Phylo decided these famous scientists were wrong.",
+      "words": [
+        {
+          "startSec": 95,
+          "endSec": 95.2,
+          "text": "to"
+        },
+        {
+          "startSec": 95.2,
+          "endSec": 95.7,
+          "text": "send"
+        },
+        {
+          "startSec": 95.7,
+          "endSec": 96.7,
+          "text": "pictures."
+        },
+        {
+          "startSec": 96.7,
+          "endSec": 98.4,
+          "text": "Fourteen-year-old"
+        },
+        {
+          "startSec": 98.4,
+          "endSec": 98.9,
+          "text": "Phylo"
+        },
+        {
+          "startSec": 98.9,
+          "endSec": 99.5,
+          "text": "decided"
+        },
+        {
+          "startSec": 99.5,
+          "endSec": 100.1,
+          "text": "these"
+        },
+        {
+          "startSec": 100.1,
+          "endSec": 100.6,
+          "text": "famous"
+        },
+        {
+          "startSec": 100.6,
+          "endSec": 101.7,
+          "text": "scientists"
+        },
+        {
+          "startSec": 101.7,
+          "endSec": 101.9,
+          "text": "were"
+        },
+        {
+          "startSec": 101.9,
+          "endSec": 102.3,
+          "text": "wrong."
+        }
+      ]
     },
     {
       "startSec": 103.2,
       "endSec": 111.3,
-      "text": "He decided that mechanical devices would never work. Phylo believed such a device"
+      "text": "He decided that mechanical devices would never work. Phylo believed such a device",
+      "words": [
+        {
+          "startSec": 103.2,
+          "endSec": 103.9,
+          "text": "He"
+        },
+        {
+          "startSec": 103.9,
+          "endSec": 104.2,
+          "text": "decided"
+        },
+        {
+          "startSec": 104.2,
+          "endSec": 104.6,
+          "text": "that"
+        },
+        {
+          "startSec": 104.6,
+          "endSec": 105.8,
+          "text": "mechanical"
+        },
+        {
+          "startSec": 105.8,
+          "endSec": 106.5,
+          "text": "devices"
+        },
+        {
+          "startSec": 106.5,
+          "endSec": 107.1,
+          "text": "would"
+        },
+        {
+          "startSec": 107.1,
+          "endSec": 107.6,
+          "text": "never"
+        },
+        {
+          "startSec": 107.6,
+          "endSec": 108.4,
+          "text": "work."
+        },
+        {
+          "startSec": 108.4,
+          "endSec": 109.3,
+          "text": "Phylo"
+        },
+        {
+          "startSec": 109.3,
+          "endSec": 109.8,
+          "text": "believed"
+        },
+        {
+          "startSec": 109.8,
+          "endSec": 110.3,
+          "text": "such"
+        },
+        {
+          "startSec": 110.3,
+          "endSec": 110.4,
+          "text": "a"
+        },
+        {
+          "startSec": 110.4,
+          "endSec": 111.3,
+          "text": "device"
+        },
+        {
+          "startSec": 111.3,
+          "endSec": 112,
+          "text": "would"
+        }
+      ]
     },
     {
       "startSec": 111.3,
       "endSec": 119,
-      "text": "would have to be electronic. Phylo knew electrons could be made to move very fast."
+      "text": "would have to be electronic. Phylo knew electrons could be made to move very fast.",
+      "words": [
+        {
+          "startSec": 111.3,
+          "endSec": 112,
+          "text": "would"
+        },
+        {
+          "startSec": 112,
+          "endSec": 112.2,
+          "text": "have"
+        },
+        {
+          "startSec": 112.2,
+          "endSec": 112.4,
+          "text": "to"
+        },
+        {
+          "startSec": 112.4,
+          "endSec": 112.7,
+          "text": "be"
+        },
+        {
+          "startSec": 112.7,
+          "endSec": 114,
+          "text": "electronic."
+        },
+        {
+          "startSec": 114,
+          "endSec": 114.5,
+          "text": "Phylo"
+        },
+        {
+          "startSec": 114.5,
+          "endSec": 115,
+          "text": "knew"
+        },
+        {
+          "startSec": 115,
+          "endSec": 115.9,
+          "text": "electrons"
+        },
+        {
+          "startSec": 115.9,
+          "endSec": 116.4,
+          "text": "could"
+        },
+        {
+          "startSec": 116.4,
+          "endSec": 116.7,
+          "text": "be"
+        },
+        {
+          "startSec": 116.7,
+          "endSec": 117.4,
+          "text": "made"
+        },
+        {
+          "startSec": 117.4,
+          "endSec": 117.4,
+          "text": "to"
+        },
+        {
+          "startSec": 117.4,
+          "endSec": 118,
+          "text": "move"
+        },
+        {
+          "startSec": 118,
+          "endSec": 118.3,
+          "text": "very"
+        },
+        {
+          "startSec": 118.3,
+          "endSec": 119,
+          "text": "fast."
+        },
+        {
+          "startSec": 119,
+          "endSec": 119.3,
+          "text": "All"
+        }
+      ]
     },
     {
       "startSec": 119,
       "endSec": 125,
-      "text": "All he would have to do was find a way to make electrons do the work."
+      "text": "All he would have to do was find a way to make electrons do the work.",
+      "words": [
+        {
+          "startSec": 119,
+          "endSec": 119.3,
+          "text": "All"
+        },
+        {
+          "startSec": 119.3,
+          "endSec": 119.7,
+          "text": "he"
+        },
+        {
+          "startSec": 119.7,
+          "endSec": 120.1,
+          "text": "would"
+        },
+        {
+          "startSec": 120.1,
+          "endSec": 120.5,
+          "text": "have"
+        },
+        {
+          "startSec": 120.5,
+          "endSec": 120.7,
+          "text": "to"
+        },
+        {
+          "startSec": 120.7,
+          "endSec": 120.9,
+          "text": "do"
+        },
+        {
+          "startSec": 120.9,
+          "endSec": 121.2,
+          "text": "was"
+        },
+        {
+          "startSec": 121.2,
+          "endSec": 121.6,
+          "text": "find"
+        },
+        {
+          "startSec": 121.6,
+          "endSec": 121.7,
+          "text": "a"
+        },
+        {
+          "startSec": 121.7,
+          "endSec": 122.1,
+          "text": "way"
+        },
+        {
+          "startSec": 122.1,
+          "endSec": 122.3,
+          "text": "to"
+        },
+        {
+          "startSec": 122.3,
+          "endSec": 122.7,
+          "text": "make"
+        },
+        {
+          "startSec": 122.7,
+          "endSec": 123.7,
+          "text": "electrons"
+        },
+        {
+          "startSec": 123.7,
+          "endSec": 124,
+          "text": "do"
+        },
+        {
+          "startSec": 124,
+          "endSec": 124.2,
+          "text": "the"
+        },
+        {
+          "startSec": 124.2,
+          "endSec": 125,
+          "text": "work."
+        }
+      ]
     },
     {
       "startSec": 126.1,
       "endSec": 134.1,
-      "text": "Soon Phylo had an idea for such a receiver. It would trap light in a container"
+      "text": "Soon Phylo had an idea for such a receiver. It would trap light in a container",
+      "words": [
+        {
+          "startSec": 126.1,
+          "endSec": 126.8,
+          "text": "Soon"
+        },
+        {
+          "startSec": 126.8,
+          "endSec": 127.2,
+          "text": "Phylo"
+        },
+        {
+          "startSec": 127.2,
+          "endSec": 127.5,
+          "text": "had"
+        },
+        {
+          "startSec": 127.5,
+          "endSec": 127.8,
+          "text": "an"
+        },
+        {
+          "startSec": 127.8,
+          "endSec": 128.3,
+          "text": "idea"
+        },
+        {
+          "startSec": 128.3,
+          "endSec": 128.7,
+          "text": "for"
+        },
+        {
+          "startSec": 128.7,
+          "endSec": 129.1,
+          "text": "such"
+        },
+        {
+          "startSec": 129.1,
+          "endSec": 129.2,
+          "text": "a"
+        },
+        {
+          "startSec": 129.2,
+          "endSec": 130.6,
+          "text": "receiver."
+        },
+        {
+          "startSec": 130.6,
+          "endSec": 130.8,
+          "text": "It"
+        },
+        {
+          "startSec": 130.8,
+          "endSec": 131.4,
+          "text": "would"
+        },
+        {
+          "startSec": 131.4,
+          "endSec": 132.2,
+          "text": "trap"
+        },
+        {
+          "startSec": 132.2,
+          "endSec": 132.5,
+          "text": "light"
+        },
+        {
+          "startSec": 132.5,
+          "endSec": 132.8,
+          "text": "in"
+        },
+        {
+          "startSec": 132.8,
+          "endSec": 132.9,
+          "text": "a"
+        },
+        {
+          "startSec": 132.9,
+          "endSec": 134.1,
+          "text": "container"
+        },
+        {
+          "startSec": 134.1,
+          "endSec": 134.8,
+          "text": "and"
+        }
+      ]
     },
     {
       "startSec": 134.1,
       "endSec": 141.4,
-      "text": "and send the light on a line of electrons. Phylo called it light in a bottle."
+      "text": "and send the light on a line of electrons. Phylo called it light in a bottle.",
+      "words": [
+        {
+          "startSec": 134.1,
+          "endSec": 134.8,
+          "text": "and"
+        },
+        {
+          "startSec": 134.8,
+          "endSec": 134.8,
+          "text": "send"
+        },
+        {
+          "startSec": 134.8,
+          "endSec": 135.1,
+          "text": "the"
+        },
+        {
+          "startSec": 135.1,
+          "endSec": 135.6,
+          "text": "light"
+        },
+        {
+          "startSec": 135.6,
+          "endSec": 135.8,
+          "text": "on"
+        },
+        {
+          "startSec": 135.8,
+          "endSec": 135.9,
+          "text": "a"
+        },
+        {
+          "startSec": 135.9,
+          "endSec": 136.3,
+          "text": "line"
+        },
+        {
+          "startSec": 136.3,
+          "endSec": 136.5,
+          "text": "of"
+        },
+        {
+          "startSec": 136.5,
+          "endSec": 137.7,
+          "text": "electrons."
+        },
+        {
+          "startSec": 137.7,
+          "endSec": 138.3,
+          "text": "Phylo"
+        },
+        {
+          "startSec": 138.3,
+          "endSec": 139.1,
+          "text": "called"
+        },
+        {
+          "startSec": 139.1,
+          "endSec": 139.3,
+          "text": "it"
+        },
+        {
+          "startSec": 139.3,
+          "endSec": 140.2,
+          "text": "light"
+        },
+        {
+          "startSec": 140.2,
+          "endSec": 140.2,
+          "text": "in"
+        },
+        {
+          "startSec": 140.2,
+          "endSec": 140.3,
+          "text": "a"
+        },
+        {
+          "startSec": 140.3,
+          "endSec": 141.4,
+          "text": "bottle."
+        },
+        {
+          "startSec": 141.4,
+          "endSec": 142.4,
+          "text": "Several"
+        }
+      ]
     },
     {
       "startSec": 141.4,
       "endSec": 149.9,
-      "text": "Several days later Phylo told his teacher about a device that could capture pictures."
+      "text": "Several days later Phylo told his teacher about a device that could capture pictures.",
+      "words": [
+        {
+          "startSec": 141.4,
+          "endSec": 142.4,
+          "text": "Several"
+        },
+        {
+          "startSec": 142.4,
+          "endSec": 142.9,
+          "text": "days"
+        },
+        {
+          "startSec": 142.9,
+          "endSec": 143.5,
+          "text": "later"
+        },
+        {
+          "startSec": 143.5,
+          "endSec": 144.2,
+          "text": "Phylo"
+        },
+        {
+          "startSec": 144.2,
+          "endSec": 144.7,
+          "text": "told"
+        },
+        {
+          "startSec": 144.7,
+          "endSec": 145.1,
+          "text": "his"
+        },
+        {
+          "startSec": 145.1,
+          "endSec": 146,
+          "text": "teacher"
+        },
+        {
+          "startSec": 146,
+          "endSec": 146.7,
+          "text": "about"
+        },
+        {
+          "startSec": 146.7,
+          "endSec": 146.9,
+          "text": "a"
+        },
+        {
+          "startSec": 146.9,
+          "endSec": 147.7,
+          "text": "device"
+        },
+        {
+          "startSec": 147.7,
+          "endSec": 148,
+          "text": "that"
+        },
+        {
+          "startSec": 148,
+          "endSec": 148.5,
+          "text": "could"
+        },
+        {
+          "startSec": 148.5,
+          "endSec": 149.1,
+          "text": "capture"
+        },
+        {
+          "startSec": 149.1,
+          "endSec": 149.9,
+          "text": "pictures."
+        }
+      ]
     },
     {
       "startSec": 150.7,
       "endSec": 158.9,
-      "text": "He drew a plan for it and gave it to his teacher. Phylo's drawing seemed very simple,"
+      "text": "He drew a plan for it and gave it to his teacher. Phylo's drawing seemed very simple,",
+      "words": [
+        {
+          "startSec": 150.7,
+          "endSec": 151.5,
+          "text": "He"
+        },
+        {
+          "startSec": 151.5,
+          "endSec": 151.5,
+          "text": "drew"
+        },
+        {
+          "startSec": 151.5,
+          "endSec": 151.6,
+          "text": "a"
+        },
+        {
+          "startSec": 151.6,
+          "endSec": 152.1,
+          "text": "plan"
+        },
+        {
+          "startSec": 152.1,
+          "endSec": 152.4,
+          "text": "for"
+        },
+        {
+          "startSec": 152.4,
+          "endSec": 152.7,
+          "text": "it"
+        },
+        {
+          "startSec": 152.7,
+          "endSec": 153,
+          "text": "and"
+        },
+        {
+          "startSec": 153,
+          "endSec": 153.5,
+          "text": "gave"
+        },
+        {
+          "startSec": 153.5,
+          "endSec": 153.8,
+          "text": "it"
+        },
+        {
+          "startSec": 153.8,
+          "endSec": 154,
+          "text": "to"
+        },
+        {
+          "startSec": 154,
+          "endSec": 154.4,
+          "text": "his"
+        },
+        {
+          "startSec": 154.4,
+          "endSec": 155.6,
+          "text": "teacher."
+        },
+        {
+          "startSec": 155.6,
+          "endSec": 156.4,
+          "text": "Phylo's"
+        },
+        {
+          "startSec": 156.4,
+          "endSec": 157.3,
+          "text": "drawing"
+        },
+        {
+          "startSec": 157.3,
+          "endSec": 158.1,
+          "text": "seemed"
+        },
+        {
+          "startSec": 158.1,
+          "endSec": 158.5,
+          "text": "very"
+        },
+        {
+          "startSec": 158.5,
+          "endSec": 158.9,
+          "text": "simple,"
+        },
+        {
+          "startSec": 158.9,
+          "endSec": 159.2,
+          "text": "but"
+        }
+      ]
     },
     {
       "startSec": 158.9,
       "endSec": 165.3,
-      "text": "but it still clearly showed the information needed to build a television."
+      "text": "but it still clearly showed the information needed to build a television.",
+      "words": [
+        {
+          "startSec": 158.9,
+          "endSec": 159.2,
+          "text": "but"
+        },
+        {
+          "startSec": 159.2,
+          "endSec": 159.6,
+          "text": "it"
+        },
+        {
+          "startSec": 159.6,
+          "endSec": 159.9,
+          "text": "still"
+        },
+        {
+          "startSec": 159.9,
+          "endSec": 160.6,
+          "text": "clearly"
+        },
+        {
+          "startSec": 160.6,
+          "endSec": 161.2,
+          "text": "showed"
+        },
+        {
+          "startSec": 161.2,
+          "endSec": 161.5,
+          "text": "the"
+        },
+        {
+          "startSec": 161.5,
+          "endSec": 162.6,
+          "text": "information"
+        },
+        {
+          "startSec": 162.6,
+          "endSec": 163.1,
+          "text": "needed"
+        },
+        {
+          "startSec": 163.1,
+          "endSec": 163.3,
+          "text": "to"
+        },
+        {
+          "startSec": 163.3,
+          "endSec": 163.9,
+          "text": "build"
+        },
+        {
+          "startSec": 163.9,
+          "endSec": 163.9,
+          "text": "a"
+        },
+        {
+          "startSec": 163.9,
+          "endSec": 165.3,
+          "text": "television."
+        },
+        {
+          "startSec": 165.3,
+          "endSec": 166.1,
+          "text": "Phylo's"
+        }
+      ]
     },
     {
       "startSec": 165.3,
       "endSec": 175,
-      "text": "Phylo's teacher was Justin Tolman. Many years later Phylo would credit Mr. Tolman"
+      "text": "Phylo's teacher was Justin Tolman. Many years later Phylo would credit Mr. Tolman",
+      "words": [
+        {
+          "startSec": 165.3,
+          "endSec": 166.1,
+          "text": "Phylo's"
+        },
+        {
+          "startSec": 166.1,
+          "endSec": 166.9,
+          "text": "teacher"
+        },
+        {
+          "startSec": 166.9,
+          "endSec": 167.3,
+          "text": "was"
+        },
+        {
+          "startSec": 167.3,
+          "endSec": 168,
+          "text": "Justin"
+        },
+        {
+          "startSec": 168,
+          "endSec": 169.2,
+          "text": "Tolman."
+        },
+        {
+          "startSec": 169.2,
+          "endSec": 169.8,
+          "text": "Many"
+        },
+        {
+          "startSec": 169.8,
+          "endSec": 170.7,
+          "text": "years"
+        },
+        {
+          "startSec": 170.7,
+          "endSec": 171.5,
+          "text": "later"
+        },
+        {
+          "startSec": 171.5,
+          "endSec": 172.1,
+          "text": "Phylo"
+        },
+        {
+          "startSec": 172.1,
+          "endSec": 172.8,
+          "text": "would"
+        },
+        {
+          "startSec": 172.8,
+          "endSec": 173.6,
+          "text": "credit"
+        },
+        {
+          "startSec": 173.6,
+          "endSec": 174,
+          "text": "Mr."
+        },
+        {
+          "startSec": 174,
+          "endSec": 175,
+          "text": "Tolman"
+        },
+        {
+          "startSec": 175,
+          "endSec": 175.7,
+          "text": "with"
+        }
+      ]
     },
     {
       "startSec": 175,
       "endSec": 181.4,
-      "text": "with guiding his imagination and helping him open the doors of science."
+      "text": "with guiding his imagination and helping him open the doors of science.",
+      "words": [
+        {
+          "startSec": 175,
+          "endSec": 175.7,
+          "text": "with"
+        },
+        {
+          "startSec": 175.7,
+          "endSec": 176.1,
+          "text": "guiding"
+        },
+        {
+          "startSec": 176.1,
+          "endSec": 176.4,
+          "text": "his"
+        },
+        {
+          "startSec": 176.4,
+          "endSec": 177.6,
+          "text": "imagination"
+        },
+        {
+          "startSec": 177.6,
+          "endSec": 177.9,
+          "text": "and"
+        },
+        {
+          "startSec": 177.9,
+          "endSec": 178.7,
+          "text": "helping"
+        },
+        {
+          "startSec": 178.7,
+          "endSec": 178.9,
+          "text": "him"
+        },
+        {
+          "startSec": 178.9,
+          "endSec": 179.3,
+          "text": "open"
+        },
+        {
+          "startSec": 179.3,
+          "endSec": 179.6,
+          "text": "the"
+        },
+        {
+          "startSec": 179.6,
+          "endSec": 180.1,
+          "text": "doors"
+        },
+        {
+          "startSec": 180.1,
+          "endSec": 180.3,
+          "text": "of"
+        },
+        {
+          "startSec": 180.3,
+          "endSec": 181.4,
+          "text": "science."
+        },
+        {
+          "startSec": 181.4,
+          "endSec": 182.2,
+          "text": "In"
+        }
+      ]
     },
     {
       "startSec": 181.4,
       "endSec": 191.3,
-      "text": "In September 1927 Phylo turned on a device that was the first working television receiver."
+      "text": "In September 1927 Phylo turned on a device that was the first working television receiver.",
+      "words": [
+        {
+          "startSec": 181.4,
+          "endSec": 182.2,
+          "text": "In"
+        },
+        {
+          "startSec": 182.2,
+          "endSec": 183.1,
+          "text": "September"
+        },
+        {
+          "startSec": 183.1,
+          "endSec": 184.9,
+          "text": "1927"
+        },
+        {
+          "startSec": 184.9,
+          "endSec": 185.6,
+          "text": "Phylo"
+        },
+        {
+          "startSec": 185.6,
+          "endSec": 186.5,
+          "text": "turned"
+        },
+        {
+          "startSec": 186.5,
+          "endSec": 186.8,
+          "text": "on"
+        },
+        {
+          "startSec": 186.8,
+          "endSec": 187,
+          "text": "a"
+        },
+        {
+          "startSec": 187,
+          "endSec": 187.9,
+          "text": "device"
+        },
+        {
+          "startSec": 187.9,
+          "endSec": 188.3,
+          "text": "that"
+        },
+        {
+          "startSec": 188.3,
+          "endSec": 188.6,
+          "text": "was"
+        },
+        {
+          "startSec": 188.6,
+          "endSec": 189,
+          "text": "the"
+        },
+        {
+          "startSec": 189,
+          "endSec": 189.4,
+          "text": "first"
+        },
+        {
+          "startSec": 189.4,
+          "endSec": 190,
+          "text": "working"
+        },
+        {
+          "startSec": 190,
+          "endSec": 190.7,
+          "text": "television"
+        },
+        {
+          "startSec": 190.7,
+          "endSec": 191.3,
+          "text": "receiver."
+        },
+        {
+          "startSec": 191.3,
+          "endSec": 192,
+          "text": "In"
+        }
+      ]
     },
     {
       "startSec": 191.3,
       "endSec": 200.6,
-      "text": "In another room was the first television camera. Phylo had invented the special camera tube"
+      "text": "In another room was the first television camera. Phylo had invented the special camera tube",
+      "words": [
+        {
+          "startSec": 191.3,
+          "endSec": 192,
+          "text": "In"
+        },
+        {
+          "startSec": 192,
+          "endSec": 192.3,
+          "text": "another"
+        },
+        {
+          "startSec": 192.3,
+          "endSec": 192.7,
+          "text": "room"
+        },
+        {
+          "startSec": 192.7,
+          "endSec": 193,
+          "text": "was"
+        },
+        {
+          "startSec": 193,
+          "endSec": 193.3,
+          "text": "the"
+        },
+        {
+          "startSec": 193.3,
+          "endSec": 193.9,
+          "text": "first"
+        },
+        {
+          "startSec": 193.9,
+          "endSec": 195,
+          "text": "television"
+        },
+        {
+          "startSec": 195,
+          "endSec": 196,
+          "text": "camera."
+        },
+        {
+          "startSec": 196,
+          "endSec": 196.8,
+          "text": "Phylo"
+        },
+        {
+          "startSec": 196.8,
+          "endSec": 197.4,
+          "text": "had"
+        },
+        {
+          "startSec": 197.4,
+          "endSec": 198.6,
+          "text": "invented"
+        },
+        {
+          "startSec": 198.6,
+          "endSec": 198.8,
+          "text": "the"
+        },
+        {
+          "startSec": 198.8,
+          "endSec": 199.4,
+          "text": "special"
+        },
+        {
+          "startSec": 199.4,
+          "endSec": 199.8,
+          "text": "camera"
+        },
+        {
+          "startSec": 199.8,
+          "endSec": 200.6,
+          "text": "tube"
+        }
+      ]
     },
     {
       "startSec": 200.6,
       "endSec": 209,
-      "text": "earlier that year. While the image produced on the receiver was not very clear, the device worked."
+      "text": "earlier that year. While the image produced on the receiver was not very clear, the device worked.",
+      "words": [
+        {
+          "startSec": 201.2,
+          "endSec": 201.3,
+          "text": "earlier"
+        },
+        {
+          "startSec": 201.3,
+          "endSec": 201.7,
+          "text": "that"
+        },
+        {
+          "startSec": 201.7,
+          "endSec": 202.3,
+          "text": "year."
+        },
+        {
+          "startSec": 202.3,
+          "endSec": 202.8,
+          "text": "While"
+        },
+        {
+          "startSec": 202.8,
+          "endSec": 203.2,
+          "text": "the"
+        },
+        {
+          "startSec": 203.2,
+          "endSec": 203.6,
+          "text": "image"
+        },
+        {
+          "startSec": 203.6,
+          "endSec": 204.4,
+          "text": "produced"
+        },
+        {
+          "startSec": 204.4,
+          "endSec": 204.6,
+          "text": "on"
+        },
+        {
+          "startSec": 204.6,
+          "endSec": 204.8,
+          "text": "the"
+        },
+        {
+          "startSec": 204.8,
+          "endSec": 205.7,
+          "text": "receiver"
+        },
+        {
+          "startSec": 205.7,
+          "endSec": 206,
+          "text": "was"
+        },
+        {
+          "startSec": 206,
+          "endSec": 206.7,
+          "text": "not"
+        },
+        {
+          "startSec": 206.7,
+          "endSec": 206.7,
+          "text": "very"
+        },
+        {
+          "startSec": 206.7,
+          "endSec": 207.5,
+          "text": "clear,"
+        },
+        {
+          "startSec": 207.5,
+          "endSec": 207.9,
+          "text": "the"
+        },
+        {
+          "startSec": 207.9,
+          "endSec": 208.7,
+          "text": "device"
+        },
+        {
+          "startSec": 208.7,
+          "endSec": 209,
+          "text": "worked."
+        },
+        {
+          "startSec": 209,
+          "endSec": 209.8,
+          "text": "Within"
+        }
+      ]
     },
     {
       "startSec": 209,
       "endSec": 218.2,
-      "text": "Within a few months Phylo had found several people who wanted to invest money in his invention."
+      "text": "Within a few months Phylo had found several people who wanted to invest money in his invention.",
+      "words": [
+        {
+          "startSec": 209,
+          "endSec": 209.8,
+          "text": "Within"
+        },
+        {
+          "startSec": 209.8,
+          "endSec": 209.9,
+          "text": "a"
+        },
+        {
+          "startSec": 209.9,
+          "endSec": 210.3,
+          "text": "few"
+        },
+        {
+          "startSec": 210.3,
+          "endSec": 211.1,
+          "text": "months"
+        },
+        {
+          "startSec": 211.1,
+          "endSec": 211.7,
+          "text": "Phylo"
+        },
+        {
+          "startSec": 211.7,
+          "endSec": 212.1,
+          "text": "had"
+        },
+        {
+          "startSec": 212.1,
+          "endSec": 212.7,
+          "text": "found"
+        },
+        {
+          "startSec": 212.7,
+          "endSec": 213.6,
+          "text": "several"
+        },
+        {
+          "startSec": 213.6,
+          "endSec": 214.5,
+          "text": "people"
+        },
+        {
+          "startSec": 214.5,
+          "endSec": 215.2,
+          "text": "who"
+        },
+        {
+          "startSec": 215.2,
+          "endSec": 215.4,
+          "text": "wanted"
+        },
+        {
+          "startSec": 215.4,
+          "endSec": 215.6,
+          "text": "to"
+        },
+        {
+          "startSec": 215.6,
+          "endSec": 216.2,
+          "text": "invest"
+        },
+        {
+          "startSec": 216.2,
+          "endSec": 217,
+          "text": "money"
+        },
+        {
+          "startSec": 217,
+          "endSec": 217.2,
+          "text": "in"
+        },
+        {
+          "startSec": 217.2,
+          "endSec": 217.6,
+          "text": "his"
+        },
+        {
+          "startSec": 217.6,
+          "endSec": 218.2,
+          "text": "invention."
+        },
+        {
+          "startSec": 218.2,
+          "endSec": 219,
+          "text": "In"
+        }
+      ]
     },
     {
       "startSec": 218.2,
       "endSec": 228.5,
-      "text": "In August 1930 the United States government gave Phylo patent documents. These documents"
+      "text": "In August 1930 the United States government gave Phylo patent documents. These documents",
+      "words": [
+        {
+          "startSec": 218.2,
+          "endSec": 219,
+          "text": "In"
+        },
+        {
+          "startSec": 219,
+          "endSec": 219.1,
+          "text": "August"
+        },
+        {
+          "startSec": 219.1,
+          "endSec": 220.4,
+          "text": "1930"
+        },
+        {
+          "startSec": 220.4,
+          "endSec": 220.9,
+          "text": "the"
+        },
+        {
+          "startSec": 220.9,
+          "endSec": 221.4,
+          "text": "United"
+        },
+        {
+          "startSec": 221.4,
+          "endSec": 222.1,
+          "text": "States"
+        },
+        {
+          "startSec": 222.1,
+          "endSec": 223.3,
+          "text": "government"
+        },
+        {
+          "startSec": 223.3,
+          "endSec": 223.7,
+          "text": "gave"
+        },
+        {
+          "startSec": 223.7,
+          "endSec": 224.4,
+          "text": "Phylo"
+        },
+        {
+          "startSec": 224.4,
+          "endSec": 224.9,
+          "text": "patent"
+        },
+        {
+          "startSec": 224.9,
+          "endSec": 226.2,
+          "text": "documents."
+        },
+        {
+          "startSec": 226.2,
+          "endSec": 227,
+          "text": "These"
+        },
+        {
+          "startSec": 227,
+          "endSec": 228.5,
+          "text": "documents"
+        },
+        {
+          "startSec": 228.5,
+          "endSec": 229.2,
+          "text": "aimed"
+        }
+      ]
     },
     {
       "startSec": 228.5,
       "endSec": 237.8,
-      "text": "aimed to protect his invention from being copied by others. Still he became involved in legal"
+      "text": "aimed to protect his invention from being copied by others. Still he became involved in legal",
+      "words": [
+        {
+          "startSec": 228.5,
+          "endSec": 229.2,
+          "text": "aimed"
+        },
+        {
+          "startSec": 229.2,
+          "endSec": 229.2,
+          "text": "to"
+        },
+        {
+          "startSec": 229.2,
+          "endSec": 229.8,
+          "text": "protect"
+        },
+        {
+          "startSec": 229.8,
+          "endSec": 230.1,
+          "text": "his"
+        },
+        {
+          "startSec": 230.1,
+          "endSec": 231.1,
+          "text": "invention"
+        },
+        {
+          "startSec": 231.1,
+          "endSec": 231.4,
+          "text": "from"
+        },
+        {
+          "startSec": 231.4,
+          "endSec": 231.9,
+          "text": "being"
+        },
+        {
+          "startSec": 231.9,
+          "endSec": 232.5,
+          "text": "copied"
+        },
+        {
+          "startSec": 232.5,
+          "endSec": 232.7,
+          "text": "by"
+        },
+        {
+          "startSec": 232.7,
+          "endSec": 233.6,
+          "text": "others."
+        },
+        {
+          "startSec": 233.6,
+          "endSec": 235.6,
+          "text": "Still"
+        },
+        {
+          "startSec": 235.6,
+          "endSec": 235.8,
+          "text": "he"
+        },
+        {
+          "startSec": 235.8,
+          "endSec": 236.4,
+          "text": "became"
+        },
+        {
+          "startSec": 236.4,
+          "endSec": 237.2,
+          "text": "involved"
+        },
+        {
+          "startSec": 237.2,
+          "endSec": 237.4,
+          "text": "in"
+        },
+        {
+          "startSec": 237.4,
+          "endSec": 237.8,
+          "text": "legal"
+        },
+        {
+          "startSec": 237.8,
+          "endSec": 238.8,
+          "text": "disputes"
+        }
+      ]
     },
     {
       "startSec": 237.8,
       "endSec": 247.2,
-      "text": "disputes with a powerful company at the time known as RCA. Phylo won the disputes but faced"
+      "text": "disputes with a powerful company at the time known as RCA. Phylo won the disputes but faced",
+      "words": [
+        {
+          "startSec": 237.8,
+          "endSec": 238.8,
+          "text": "disputes"
+        },
+        {
+          "startSec": 238.8,
+          "endSec": 239.3,
+          "text": "with"
+        },
+        {
+          "startSec": 239.3,
+          "endSec": 239.5,
+          "text": "a"
+        },
+        {
+          "startSec": 239.5,
+          "endSec": 240.5,
+          "text": "powerful"
+        },
+        {
+          "startSec": 240.5,
+          "endSec": 241.3,
+          "text": "company"
+        },
+        {
+          "startSec": 241.3,
+          "endSec": 241.6,
+          "text": "at"
+        },
+        {
+          "startSec": 241.6,
+          "endSec": 242,
+          "text": "the"
+        },
+        {
+          "startSec": 242,
+          "endSec": 242.5,
+          "text": "time"
+        },
+        {
+          "startSec": 242.5,
+          "endSec": 243.1,
+          "text": "known"
+        },
+        {
+          "startSec": 243.1,
+          "endSec": 243.3,
+          "text": "as"
+        },
+        {
+          "startSec": 243.3,
+          "endSec": 244.1,
+          "text": "RCA."
+        },
+        {
+          "startSec": 244.1,
+          "endSec": 244.7,
+          "text": "Phylo"
+        },
+        {
+          "startSec": 244.7,
+          "endSec": 245,
+          "text": "won"
+        },
+        {
+          "startSec": 245,
+          "endSec": 245.4,
+          "text": "the"
+        },
+        {
+          "startSec": 245.4,
+          "endSec": 246.5,
+          "text": "disputes"
+        },
+        {
+          "startSec": 246.5,
+          "endSec": 246.7,
+          "text": "but"
+        },
+        {
+          "startSec": 246.7,
+          "endSec": 247.2,
+          "text": "faced"
+        },
+        {
+          "startSec": 247.2,
+          "endSec": 247.9,
+          "text": "many"
+        }
+      ]
     },
     {
       "startSec": 247.2,
       "endSec": 256.4,
-      "text": "many business and financial difficulties in his life. He developed more than 100 devices"
+      "text": "many business and financial difficulties in his life. He developed more than 100 devices",
+      "words": [
+        {
+          "startSec": 247.2,
+          "endSec": 247.9,
+          "text": "many"
+        },
+        {
+          "startSec": 247.9,
+          "endSec": 248.5,
+          "text": "business"
+        },
+        {
+          "startSec": 248.5,
+          "endSec": 248.8,
+          "text": "and"
+        },
+        {
+          "startSec": 248.8,
+          "endSec": 249.8,
+          "text": "financial"
+        },
+        {
+          "startSec": 249.8,
+          "endSec": 251,
+          "text": "difficulties"
+        },
+        {
+          "startSec": 251,
+          "endSec": 251.2,
+          "text": "in"
+        },
+        {
+          "startSec": 251.2,
+          "endSec": 251.5,
+          "text": "his"
+        },
+        {
+          "startSec": 251.5,
+          "endSec": 252.3,
+          "text": "life."
+        },
+        {
+          "startSec": 252.3,
+          "endSec": 252.5,
+          "text": "He"
+        },
+        {
+          "startSec": 252.5,
+          "endSec": 253.4,
+          "text": "developed"
+        },
+        {
+          "startSec": 253.4,
+          "endSec": 253.8,
+          "text": "more"
+        },
+        {
+          "startSec": 253.8,
+          "endSec": 254.3,
+          "text": "than"
+        },
+        {
+          "startSec": 254.3,
+          "endSec": 255.3,
+          "text": "100"
+        },
+        {
+          "startSec": 255.3,
+          "endSec": 256.4,
+          "text": "devices"
+        },
+        {
+          "startSec": 256.4,
+          "endSec": 257.1,
+          "text": "that"
+        }
+      ]
     },
     {
       "startSec": 256.4,
       "endSec": 265,
-      "text": "that helped make modern television possible. He also developed early radar, invented the first"
+      "text": "that helped make modern television possible. He also developed early radar, invented the first",
+      "words": [
+        {
+          "startSec": 256.4,
+          "endSec": 257.1,
+          "text": "that"
+        },
+        {
+          "startSec": 257.1,
+          "endSec": 257.2,
+          "text": "helped"
+        },
+        {
+          "startSec": 257.2,
+          "endSec": 257.5,
+          "text": "make"
+        },
+        {
+          "startSec": 257.5,
+          "endSec": 257.9,
+          "text": "modern"
+        },
+        {
+          "startSec": 257.9,
+          "endSec": 258.7,
+          "text": "television"
+        },
+        {
+          "startSec": 258.7,
+          "endSec": 259.5,
+          "text": "possible."
+        },
+        {
+          "startSec": 259.5,
+          "endSec": 259.9,
+          "text": "He"
+        },
+        {
+          "startSec": 259.9,
+          "endSec": 260.3,
+          "text": "also"
+        },
+        {
+          "startSec": 260.3,
+          "endSec": 261.3,
+          "text": "developed"
+        },
+        {
+          "startSec": 261.3,
+          "endSec": 261.9,
+          "text": "early"
+        },
+        {
+          "startSec": 261.9,
+          "endSec": 262.7,
+          "text": "radar,"
+        },
+        {
+          "startSec": 262.7,
+          "endSec": 264.2,
+          "text": "invented"
+        },
+        {
+          "startSec": 264.2,
+          "endSec": 264.4,
+          "text": "the"
+        },
+        {
+          "startSec": 264.4,
+          "endSec": 265,
+          "text": "first"
+        },
+        {
+          "startSec": 265,
+          "endSec": 265.9,
+          "text": "electronic"
+        }
+      ]
     },
     {
       "startSec": 265,
       "endSec": 274.2,
-      "text": "electronic microscope, and worked on developing peaceful uses of atomic energy. Phylo Farnsworth"
+      "text": "electronic microscope, and worked on developing peaceful uses of atomic energy. Phylo Farnsworth",
+      "words": [
+        {
+          "startSec": 265,
+          "endSec": 265.9,
+          "text": "electronic"
+        },
+        {
+          "startSec": 265.9,
+          "endSec": 267.1,
+          "text": "microscope,"
+        },
+        {
+          "startSec": 267.1,
+          "endSec": 267.4,
+          "text": "and"
+        },
+        {
+          "startSec": 267.4,
+          "endSec": 267.9,
+          "text": "worked"
+        },
+        {
+          "startSec": 267.9,
+          "endSec": 268.1,
+          "text": "on"
+        },
+        {
+          "startSec": 268.1,
+          "endSec": 269.1,
+          "text": "developing"
+        },
+        {
+          "startSec": 269.1,
+          "endSec": 270,
+          "text": "peaceful"
+        },
+        {
+          "startSec": 270,
+          "endSec": 270.2,
+          "text": "uses"
+        },
+        {
+          "startSec": 270.2,
+          "endSec": 270.4,
+          "text": "of"
+        },
+        {
+          "startSec": 270.4,
+          "endSec": 271.1,
+          "text": "atomic"
+        },
+        {
+          "startSec": 271.1,
+          "endSec": 271.9,
+          "text": "energy."
+        },
+        {
+          "startSec": 271.9,
+          "endSec": 272.7,
+          "text": "Phylo"
+        },
+        {
+          "startSec": 272.7,
+          "endSec": 274.2,
+          "text": "Farnsworth"
+        },
+        {
+          "startSec": 274.2,
+          "endSec": 274.9,
+          "text": "died"
+        }
+      ]
     },
     {
       "startSec": 274.2,
       "endSec": 284.2,
-      "text": "died in March of 1971. He is considered one of the most important inventors of the 20th century."
+      "text": "died in March of 1971. He is considered one of the most important inventors of the 20th century.",
+      "words": [
+        {
+          "startSec": 274.2,
+          "endSec": 274.9,
+          "text": "died"
+        },
+        {
+          "startSec": 274.9,
+          "endSec": 274.9,
+          "text": "in"
+        },
+        {
+          "startSec": 274.9,
+          "endSec": 275.4,
+          "text": "March"
+        },
+        {
+          "startSec": 275.4,
+          "endSec": 275.7,
+          "text": "of"
+        },
+        {
+          "startSec": 275.7,
+          "endSec": 277.4,
+          "text": "1971."
+        },
+        {
+          "startSec": 277.4,
+          "endSec": 277.6,
+          "text": "He"
+        },
+        {
+          "startSec": 277.6,
+          "endSec": 277.9,
+          "text": "is"
+        },
+        {
+          "startSec": 277.9,
+          "endSec": 279,
+          "text": "considered"
+        },
+        {
+          "startSec": 279,
+          "endSec": 279.3,
+          "text": "one"
+        },
+        {
+          "startSec": 279.3,
+          "endSec": 279.6,
+          "text": "of"
+        },
+        {
+          "startSec": 279.6,
+          "endSec": 280.3,
+          "text": "the"
+        },
+        {
+          "startSec": 280.3,
+          "endSec": 280.4,
+          "text": "most"
+        },
+        {
+          "startSec": 280.4,
+          "endSec": 281.4,
+          "text": "important"
+        },
+        {
+          "startSec": 281.4,
+          "endSec": 282.5,
+          "text": "inventors"
+        },
+        {
+          "startSec": 282.5,
+          "endSec": 282.7,
+          "text": "of"
+        },
+        {
+          "startSec": 282.7,
+          "endSec": 282.9,
+          "text": "the"
+        },
+        {
+          "startSec": 282.9,
+          "endSec": 284,
+          "text": "20th"
+        },
+        {
+          "startSec": 284,
+          "endSec": 284.2,
+          "text": "century."
+        }
+      ]
     },
     {
       "startSec": 285.8,
       "endSec": 287.5,
-      "text": "I'm John Russell."
+      "text": "I'm John Russell.",
+      "words": [
+        {
+          "startSec": 285.8,
+          "endSec": 286.5,
+          "text": "I'm"
+        },
+        {
+          "startSec": 286.5,
+          "endSec": 286.6,
+          "text": "John"
+        },
+        {
+          "startSec": 286.6,
+          "endSec": 287.5,
+          "text": "Russell."
+        }
+      ]
     }
   ],
   "cefr": "B2",

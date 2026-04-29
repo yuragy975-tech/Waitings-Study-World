@@ -9,297 +9,2620 @@
     {
       "startSec": 0,
       "endSec": 2.6,
-      "text": "(upbeat music)"
+      "text": "(upbeat music)",
+      "words": [
+        {
+          "startSec": 0,
+          "endSec": 1.4,
+          "text": "(upbeat"
+        },
+        {
+          "startSec": 1.4,
+          "endSec": 2.6,
+          "text": "music)"
+        },
+        {
+          "startSec": 2.6,
+          "endSec": 3.7,
+          "text": "And"
+        }
+      ]
     },
     {
       "startSec": 2.6,
       "endSec": 12.1,
-      "text": "And now words and their stories"
+      "text": "And now words and their stories",
+      "words": [
+        {
+          "startSec": 2.6,
+          "endSec": 3.7,
+          "text": "And"
+        },
+        {
+          "startSec": 3.7,
+          "endSec": 4.8,
+          "text": "now"
+        },
+        {
+          "startSec": 4.8,
+          "endSec": 6.6,
+          "text": "words"
+        },
+        {
+          "startSec": 6.6,
+          "endSec": 7.7,
+          "text": "and"
+        },
+        {
+          "startSec": 7.7,
+          "endSec": 9.5,
+          "text": "their"
+        },
+        {
+          "startSec": 9.5,
+          "endSec": 12.1,
+          "text": "stories"
+        },
+        {
+          "startSec": 12.1,
+          "endSec": 12.6,
+          "text": "from"
+        }
+      ]
     },
     {
       "startSec": 12.1,
       "endSec": 15.2,
-      "text": "from VOA Learning English."
+      "text": "from VOA Learning English.",
+      "words": [
+        {
+          "startSec": 12.1,
+          "endSec": 12.6,
+          "text": "from"
+        },
+        {
+          "startSec": 12.6,
+          "endSec": 13,
+          "text": "VOA"
+        },
+        {
+          "startSec": 13,
+          "endSec": 14.1,
+          "text": "Learning"
+        },
+        {
+          "startSec": 14.1,
+          "endSec": 15.2,
+          "text": "English."
+        },
+        {
+          "startSec": 15.2,
+          "endSec": 16.6,
+          "text": "(upbeat"
+        }
+      ]
     },
     {
       "startSec": 15.2,
       "endSec": 17.8,
-      "text": "(upbeat music)"
+      "text": "(upbeat music)",
+      "words": [
+        {
+          "startSec": 15.2,
+          "endSec": 16.6,
+          "text": "(upbeat"
+        },
+        {
+          "startSec": 16.6,
+          "endSec": 17.8,
+          "text": "music)"
+        },
+        {
+          "startSec": 17.8,
+          "endSec": 19.2,
+          "text": "Technology"
+        }
+      ]
     },
     {
       "startSec": 17.8,
       "endSec": 22.3,
-      "text": "Technology is always progressing."
+      "text": "Technology is always progressing.",
+      "words": [
+        {
+          "startSec": 17.8,
+          "endSec": 19.2,
+          "text": "Technology"
+        },
+        {
+          "startSec": 19.2,
+          "endSec": 19.5,
+          "text": "is"
+        },
+        {
+          "startSec": 19.5,
+          "endSec": 20.3,
+          "text": "always"
+        },
+        {
+          "startSec": 20.3,
+          "endSec": 22.3,
+          "text": "progressing."
+        },
+        {
+          "startSec": 22.3,
+          "endSec": 24,
+          "text": "Today,"
+        }
+      ]
     },
     {
       "startSec": 22.3,
       "endSec": 28,
-      "text": "Today, many modern devices can be controlled by touch"
+      "text": "Today, many modern devices can be controlled by touch",
+      "words": [
+        {
+          "startSec": 22.3,
+          "endSec": 24,
+          "text": "Today,"
+        },
+        {
+          "startSec": 24,
+          "endSec": 24.4,
+          "text": "many"
+        },
+        {
+          "startSec": 24.4,
+          "endSec": 25,
+          "text": "modern"
+        },
+        {
+          "startSec": 25,
+          "endSec": 25.7,
+          "text": "devices"
+        },
+        {
+          "startSec": 25.7,
+          "endSec": 25.9,
+          "text": "can"
+        },
+        {
+          "startSec": 25.9,
+          "endSec": 26,
+          "text": "be"
+        },
+        {
+          "startSec": 26,
+          "endSec": 26.8,
+          "text": "controlled"
+        },
+        {
+          "startSec": 26.8,
+          "endSec": 27.2,
+          "text": "by"
+        },
+        {
+          "startSec": 27.2,
+          "endSec": 28,
+          "text": "touch"
+        },
+        {
+          "startSec": 28,
+          "endSec": 28.8,
+          "text": "or"
+        }
+      ]
     },
     {
       "startSec": 28,
       "endSec": 33,
-      "text": "or voice. This has led to some traditional electronic"
+      "text": "or voice. This has led to some traditional electronic",
+      "words": [
+        {
+          "startSec": 28,
+          "endSec": 28.8,
+          "text": "or"
+        },
+        {
+          "startSec": 28.8,
+          "endSec": 29.1,
+          "text": "voice."
+        },
+        {
+          "startSec": 29.1,
+          "endSec": 29.8,
+          "text": "This"
+        },
+        {
+          "startSec": 29.8,
+          "endSec": 30.4,
+          "text": "has"
+        },
+        {
+          "startSec": 30.4,
+          "endSec": 31,
+          "text": "led"
+        },
+        {
+          "startSec": 31,
+          "endSec": 31.2,
+          "text": "to"
+        },
+        {
+          "startSec": 31.2,
+          "endSec": 31.5,
+          "text": "some"
+        },
+        {
+          "startSec": 31.5,
+          "endSec": 32.2,
+          "text": "traditional"
+        },
+        {
+          "startSec": 32.2,
+          "endSec": 33,
+          "text": "electronic"
+        },
+        {
+          "startSec": 33,
+          "endSec": 34.1,
+          "text": "controls"
+        }
+      ]
     },
     {
       "startSec": 33,
       "endSec": 38,
-      "text": "controls such as dials and switches being replaced"
+      "text": "controls such as dials and switches being replaced",
+      "words": [
+        {
+          "startSec": 33,
+          "endSec": 34.1,
+          "text": "controls"
+        },
+        {
+          "startSec": 34.1,
+          "endSec": 34.7,
+          "text": "such"
+        },
+        {
+          "startSec": 34.7,
+          "endSec": 35,
+          "text": "as"
+        },
+        {
+          "startSec": 35,
+          "endSec": 35.8,
+          "text": "dials"
+        },
+        {
+          "startSec": 35.8,
+          "endSec": 36.2,
+          "text": "and"
+        },
+        {
+          "startSec": 36.2,
+          "endSec": 37.4,
+          "text": "switches"
+        },
+        {
+          "startSec": 37.4,
+          "endSec": 37.8,
+          "text": "being"
+        },
+        {
+          "startSec": 37.8,
+          "endSec": 38,
+          "text": "replaced"
+        },
+        {
+          "startSec": 38,
+          "endSec": 38.7,
+          "text": "with"
+        }
+      ]
     },
     {
       "startSec": 38,
       "endSec": 40.3,
-      "text": "with new technologies."
+      "text": "with new technologies.",
+      "words": [
+        {
+          "startSec": 38,
+          "endSec": 38.7,
+          "text": "with"
+        },
+        {
+          "startSec": 38.7,
+          "endSec": 38.9,
+          "text": "new"
+        },
+        {
+          "startSec": 38.9,
+          "endSec": 40.3,
+          "text": "technologies."
+        },
+        {
+          "startSec": 40.3,
+          "endSec": 41.2,
+          "text": "Digital"
+        }
+      ]
     },
     {
       "startSec": 40.3,
       "endSec": 45.7,
-      "text": "Digital displays have also become increasingly common."
+      "text": "Digital displays have also become increasingly common.",
+      "words": [
+        {
+          "startSec": 40.3,
+          "endSec": 41.2,
+          "text": "Digital"
+        },
+        {
+          "startSec": 41.2,
+          "endSec": 42.3,
+          "text": "displays"
+        },
+        {
+          "startSec": 42.3,
+          "endSec": 42.8,
+          "text": "have"
+        },
+        {
+          "startSec": 42.8,
+          "endSec": 43.3,
+          "text": "also"
+        },
+        {
+          "startSec": 43.3,
+          "endSec": 44.1,
+          "text": "become"
+        },
+        {
+          "startSec": 44.1,
+          "endSec": 45,
+          "text": "increasingly"
+        },
+        {
+          "startSec": 45,
+          "endSec": 45.7,
+          "text": "common."
+        },
+        {
+          "startSec": 45.7,
+          "endSec": 46.6,
+          "text": "For"
+        }
+      ]
     },
     {
       "startSec": 45.7,
       "endSec": 51.3,
-      "text": "For example, digital number readouts have long replaced"
+      "text": "For example, digital number readouts have long replaced",
+      "words": [
+        {
+          "startSec": 45.7,
+          "endSec": 46.6,
+          "text": "For"
+        },
+        {
+          "startSec": 46.6,
+          "endSec": 47.3,
+          "text": "example,"
+        },
+        {
+          "startSec": 47.3,
+          "endSec": 48.2,
+          "text": "digital"
+        },
+        {
+          "startSec": 48.2,
+          "endSec": 48.9,
+          "text": "number"
+        },
+        {
+          "startSec": 48.9,
+          "endSec": 50,
+          "text": "readouts"
+        },
+        {
+          "startSec": 50,
+          "endSec": 50.3,
+          "text": "have"
+        },
+        {
+          "startSec": 50.3,
+          "endSec": 50.6,
+          "text": "long"
+        },
+        {
+          "startSec": 50.6,
+          "endSec": 51.3,
+          "text": "replaced"
+        },
+        {
+          "startSec": 51.3,
+          "endSec": 52.1,
+          "text": "the"
+        }
+      ]
     },
     {
       "startSec": 51.3,
       "endSec": 53.5,
-      "text": "the hands on many clocks."
+      "text": "the hands on many clocks.",
+      "words": [
+        {
+          "startSec": 51.3,
+          "endSec": 52.1,
+          "text": "the"
+        },
+        {
+          "startSec": 52.1,
+          "endSec": 52.2,
+          "text": "hands"
+        },
+        {
+          "startSec": 52.2,
+          "endSec": 52.3,
+          "text": "on"
+        },
+        {
+          "startSec": 52.3,
+          "endSec": 52.6,
+          "text": "many"
+        },
+        {
+          "startSec": 52.6,
+          "endSec": 53.5,
+          "text": "clocks."
+        }
+      ]
     },
     {
       "startSec": 54.6,
       "endSec": 59.1,
-      "text": "Many other devices also now operate purely"
+      "text": "Many other devices also now operate purely",
+      "words": [
+        {
+          "startSec": 54.6,
+          "endSec": 55.5,
+          "text": "Many"
+        },
+        {
+          "startSec": 55.5,
+          "endSec": 55.7,
+          "text": "other"
+        },
+        {
+          "startSec": 55.7,
+          "endSec": 56.6,
+          "text": "devices"
+        },
+        {
+          "startSec": 56.6,
+          "endSec": 57.1,
+          "text": "also"
+        },
+        {
+          "startSec": 57.1,
+          "endSec": 57.5,
+          "text": "now"
+        },
+        {
+          "startSec": 57.5,
+          "endSec": 58.3,
+          "text": "operate"
+        },
+        {
+          "startSec": 58.3,
+          "endSec": 59.1,
+          "text": "purely"
+        },
+        {
+          "startSec": 59.1,
+          "endSec": 60,
+          "text": "with"
+        }
+      ]
     },
     {
       "startSec": 59.1,
       "endSec": 63.2,
-      "text": "with digital tools instead of mechanical systems."
+      "text": "with digital tools instead of mechanical systems.",
+      "words": [
+        {
+          "startSec": 59.1,
+          "endSec": 60,
+          "text": "with"
+        },
+        {
+          "startSec": 60,
+          "endSec": 60.1,
+          "text": "digital"
+        },
+        {
+          "startSec": 60.1,
+          "endSec": 60.6,
+          "text": "tools"
+        },
+        {
+          "startSec": 60.6,
+          "endSec": 61.3,
+          "text": "instead"
+        },
+        {
+          "startSec": 61.3,
+          "endSec": 61.5,
+          "text": "of"
+        },
+        {
+          "startSec": 61.5,
+          "endSec": 62.4,
+          "text": "mechanical"
+        },
+        {
+          "startSec": 62.4,
+          "endSec": 63.2,
+          "text": "systems."
+        },
+        {
+          "startSec": 63.2,
+          "endSec": 64.1,
+          "text": "But"
+        }
+      ]
     },
     {
       "startSec": 63.2,
       "endSec": 69.4,
-      "text": "But some expressions and idioms used by English speakers"
+      "text": "But some expressions and idioms used by English speakers",
+      "words": [
+        {
+          "startSec": 63.2,
+          "endSec": 64.1,
+          "text": "But"
+        },
+        {
+          "startSec": 64.1,
+          "endSec": 64.3,
+          "text": "some"
+        },
+        {
+          "startSec": 64.3,
+          "endSec": 66.1,
+          "text": "expressions"
+        },
+        {
+          "startSec": 66.1,
+          "endSec": 66.6,
+          "text": "and"
+        },
+        {
+          "startSec": 66.6,
+          "endSec": 67.5,
+          "text": "idioms"
+        },
+        {
+          "startSec": 67.5,
+          "endSec": 68,
+          "text": "used"
+        },
+        {
+          "startSec": 68,
+          "endSec": 68.2,
+          "text": "by"
+        },
+        {
+          "startSec": 68.2,
+          "endSec": 68.6,
+          "text": "English"
+        },
+        {
+          "startSec": 68.6,
+          "endSec": 69.4,
+          "text": "speakers"
+        },
+        {
+          "startSec": 69.4,
+          "endSec": 70.3,
+          "text": "still"
+        }
+      ]
     },
     {
       "startSec": 69.4,
       "endSec": 72.7,
-      "text": "still describe older technologies."
+      "text": "still describe older technologies.",
+      "words": [
+        {
+          "startSec": 69.4,
+          "endSec": 70.3,
+          "text": "still"
+        },
+        {
+          "startSec": 70.3,
+          "endSec": 70.7,
+          "text": "describe"
+        },
+        {
+          "startSec": 70.7,
+          "endSec": 71.2,
+          "text": "older"
+        },
+        {
+          "startSec": 71.2,
+          "endSec": 72.7,
+          "text": "technologies."
+        },
+        {
+          "startSec": 72.7,
+          "endSec": 73.7,
+          "text": "First,"
+        }
+      ]
     },
     {
       "startSec": 72.7,
       "endSec": 76.5,
-      "text": "First, let's talk about dials."
+      "text": "First, let's talk about dials.",
+      "words": [
+        {
+          "startSec": 72.7,
+          "endSec": 73.7,
+          "text": "First,"
+        },
+        {
+          "startSec": 73.7,
+          "endSec": 74.3,
+          "text": "let's"
+        },
+        {
+          "startSec": 74.3,
+          "endSec": 74.8,
+          "text": "talk"
+        },
+        {
+          "startSec": 74.8,
+          "endSec": 75.5,
+          "text": "about"
+        },
+        {
+          "startSec": 75.5,
+          "endSec": 76.5,
+          "text": "dials."
+        },
+        {
+          "startSec": 76.5,
+          "endSec": 77.4,
+          "text": "These"
+        }
+      ]
     },
     {
       "startSec": 76.5,
       "endSec": 80.6,
-      "text": "These controls are used for changing settings"
+      "text": "These controls are used for changing settings",
+      "words": [
+        {
+          "startSec": 76.5,
+          "endSec": 77.4,
+          "text": "These"
+        },
+        {
+          "startSec": 77.4,
+          "endSec": 77.9,
+          "text": "controls"
+        },
+        {
+          "startSec": 77.9,
+          "endSec": 78.2,
+          "text": "are"
+        },
+        {
+          "startSec": 78.2,
+          "endSec": 78.6,
+          "text": "used"
+        },
+        {
+          "startSec": 78.6,
+          "endSec": 78.9,
+          "text": "for"
+        },
+        {
+          "startSec": 78.9,
+          "endSec": 79.8,
+          "text": "changing"
+        },
+        {
+          "startSec": 79.8,
+          "endSec": 80.6,
+          "text": "settings"
+        },
+        {
+          "startSec": 80.6,
+          "endSec": 80.8,
+          "text": "on"
+        }
+      ]
     },
     {
       "startSec": 80.6,
       "endSec": 85.2,
-      "text": "on a piece of equipment like a radio or old television."
+      "text": "on a piece of equipment like a radio or old television.",
+      "words": [
+        {
+          "startSec": 80.6,
+          "endSec": 80.8,
+          "text": "on"
+        },
+        {
+          "startSec": 80.8,
+          "endSec": 81.4,
+          "text": "a"
+        },
+        {
+          "startSec": 81.4,
+          "endSec": 81.5,
+          "text": "piece"
+        },
+        {
+          "startSec": 81.5,
+          "endSec": 81.6,
+          "text": "of"
+        },
+        {
+          "startSec": 81.6,
+          "endSec": 82.4,
+          "text": "equipment"
+        },
+        {
+          "startSec": 82.4,
+          "endSec": 82.8,
+          "text": "like"
+        },
+        {
+          "startSec": 82.8,
+          "endSec": 82.9,
+          "text": "a"
+        },
+        {
+          "startSec": 82.9,
+          "endSec": 83.4,
+          "text": "radio"
+        },
+        {
+          "startSec": 83.4,
+          "endSec": 83.6,
+          "text": "or"
+        },
+        {
+          "startSec": 83.6,
+          "endSec": 83.9,
+          "text": "old"
+        },
+        {
+          "startSec": 83.9,
+          "endSec": 85.2,
+          "text": "television."
+        },
+        {
+          "startSec": 85.2,
+          "endSec": 85.4,
+          "text": "We"
+        }
+      ]
     },
     {
       "startSec": 85.2,
       "endSec": 90,
-      "text": "We use the dial to tune in to a specific channel."
+      "text": "We use the dial to tune in to a specific channel.",
+      "words": [
+        {
+          "startSec": 85.2,
+          "endSec": 85.4,
+          "text": "We"
+        },
+        {
+          "startSec": 85.4,
+          "endSec": 86.1,
+          "text": "use"
+        },
+        {
+          "startSec": 86.1,
+          "endSec": 86.1,
+          "text": "the"
+        },
+        {
+          "startSec": 86.1,
+          "endSec": 86.6,
+          "text": "dial"
+        },
+        {
+          "startSec": 86.6,
+          "endSec": 86.8,
+          "text": "to"
+        },
+        {
+          "startSec": 86.8,
+          "endSec": 87.3,
+          "text": "tune"
+        },
+        {
+          "startSec": 87.3,
+          "endSec": 87.5,
+          "text": "in"
+        },
+        {
+          "startSec": 87.5,
+          "endSec": 87.7,
+          "text": "to"
+        },
+        {
+          "startSec": 87.7,
+          "endSec": 87.8,
+          "text": "a"
+        },
+        {
+          "startSec": 87.8,
+          "endSec": 88.8,
+          "text": "specific"
+        },
+        {
+          "startSec": 88.8,
+          "endSec": 90,
+          "text": "channel."
+        },
+        {
+          "startSec": 90,
+          "endSec": 90.9,
+          "text": "That's"
+        }
+      ]
     },
     {
       "startSec": 90,
       "endSec": 94.2,
-      "text": "That's where the expressions dialed in"
+      "text": "That's where the expressions dialed in",
+      "words": [
+        {
+          "startSec": 90,
+          "endSec": 90.9,
+          "text": "That's"
+        },
+        {
+          "startSec": 90.9,
+          "endSec": 91.4,
+          "text": "where"
+        },
+        {
+          "startSec": 91.4,
+          "endSec": 91.8,
+          "text": "the"
+        },
+        {
+          "startSec": 91.8,
+          "endSec": 93.2,
+          "text": "expressions"
+        },
+        {
+          "startSec": 93.2,
+          "endSec": 93.9,
+          "text": "dialed"
+        },
+        {
+          "startSec": 93.9,
+          "endSec": 94.2,
+          "text": "in"
+        },
+        {
+          "startSec": 94.2,
+          "endSec": 95.1,
+          "text": "and"
+        }
+      ]
     },
     {
       "startSec": 94.2,
       "endSec": 96.7,
-      "text": "and tuned in come from."
+      "text": "and tuned in come from.",
+      "words": [
+        {
+          "startSec": 94.2,
+          "endSec": 95.1,
+          "text": "and"
+        },
+        {
+          "startSec": 95.1,
+          "endSec": 95.2,
+          "text": "tuned"
+        },
+        {
+          "startSec": 95.2,
+          "endSec": 95.4,
+          "text": "in"
+        },
+        {
+          "startSec": 95.4,
+          "endSec": 95.9,
+          "text": "come"
+        },
+        {
+          "startSec": 95.9,
+          "endSec": 96.7,
+          "text": "from."
+        },
+        {
+          "startSec": 96.7,
+          "endSec": 97.5,
+          "text": "If"
+        }
+      ]
     },
     {
       "startSec": 96.7,
       "endSec": 101.5,
-      "text": "If we are dialed in or tuned in to a radio"
+      "text": "If we are dialed in or tuned in to a radio",
+      "words": [
+        {
+          "startSec": 96.7,
+          "endSec": 97.5,
+          "text": "If"
+        },
+        {
+          "startSec": 97.5,
+          "endSec": 97.6,
+          "text": "we"
+        },
+        {
+          "startSec": 97.6,
+          "endSec": 98,
+          "text": "are"
+        },
+        {
+          "startSec": 98,
+          "endSec": 99.1,
+          "text": "dialed"
+        },
+        {
+          "startSec": 99.1,
+          "endSec": 99.4,
+          "text": "in"
+        },
+        {
+          "startSec": 99.4,
+          "endSec": 99.7,
+          "text": "or"
+        },
+        {
+          "startSec": 99.7,
+          "endSec": 100.2,
+          "text": "tuned"
+        },
+        {
+          "startSec": 100.2,
+          "endSec": 100.5,
+          "text": "in"
+        },
+        {
+          "startSec": 100.5,
+          "endSec": 100.8,
+          "text": "to"
+        },
+        {
+          "startSec": 100.8,
+          "endSec": 100.9,
+          "text": "a"
+        },
+        {
+          "startSec": 100.9,
+          "endSec": 101.5,
+          "text": "radio"
+        },
+        {
+          "startSec": 101.5,
+          "endSec": 102.4,
+          "text": "or"
+        }
+      ]
     },
     {
       "startSec": 101.5,
       "endSec": 106,
-      "text": "or television program, we can hear it clearly."
+      "text": "or television program, we can hear it clearly.",
+      "words": [
+        {
+          "startSec": 101.5,
+          "endSec": 102.4,
+          "text": "or"
+        },
+        {
+          "startSec": 102.4,
+          "endSec": 102.7,
+          "text": "television"
+        },
+        {
+          "startSec": 102.7,
+          "endSec": 103.7,
+          "text": "program,"
+        },
+        {
+          "startSec": 103.7,
+          "endSec": 103.9,
+          "text": "we"
+        },
+        {
+          "startSec": 103.9,
+          "endSec": 104.2,
+          "text": "can"
+        },
+        {
+          "startSec": 104.2,
+          "endSec": 104.7,
+          "text": "hear"
+        },
+        {
+          "startSec": 104.7,
+          "endSec": 104.9,
+          "text": "it"
+        },
+        {
+          "startSec": 104.9,
+          "endSec": 106,
+          "text": "clearly."
+        },
+        {
+          "startSec": 106,
+          "endSec": 106.8,
+          "text": "There"
+        }
+      ]
     },
     {
       "startSec": 106,
       "endSec": 108.9,
-      "text": "There is no noise or static."
+      "text": "There is no noise or static.",
+      "words": [
+        {
+          "startSec": 106,
+          "endSec": 106.8,
+          "text": "There"
+        },
+        {
+          "startSec": 106.8,
+          "endSec": 106.9,
+          "text": "is"
+        },
+        {
+          "startSec": 106.9,
+          "endSec": 107,
+          "text": "no"
+        },
+        {
+          "startSec": 107,
+          "endSec": 107.6,
+          "text": "noise"
+        },
+        {
+          "startSec": 107.6,
+          "endSec": 107.9,
+          "text": "or"
+        },
+        {
+          "startSec": 107.9,
+          "endSec": 108.9,
+          "text": "static."
+        }
+      ]
     },
     {
       "startSec": 110.1,
       "endSec": 112.7,
-      "text": "The same can be said when using these terms"
+      "text": "The same can be said when using these terms",
+      "words": [
+        {
+          "startSec": 110.1,
+          "endSec": 110.3,
+          "text": "The"
+        },
+        {
+          "startSec": 110.3,
+          "endSec": 110.8,
+          "text": "same"
+        },
+        {
+          "startSec": 110.8,
+          "endSec": 111,
+          "text": "can"
+        },
+        {
+          "startSec": 111,
+          "endSec": 111,
+          "text": "be"
+        },
+        {
+          "startSec": 111,
+          "endSec": 111.3,
+          "text": "said"
+        },
+        {
+          "startSec": 111.3,
+          "endSec": 111.6,
+          "text": "when"
+        },
+        {
+          "startSec": 111.6,
+          "endSec": 111.9,
+          "text": "using"
+        },
+        {
+          "startSec": 111.9,
+          "endSec": 112.3,
+          "text": "these"
+        },
+        {
+          "startSec": 112.3,
+          "endSec": 112.7,
+          "text": "terms"
+        },
+        {
+          "startSec": 112.7,
+          "endSec": 113.6,
+          "text": "in"
+        }
+      ]
     },
     {
       "startSec": 112.7,
       "endSec": 115.4,
-      "text": "in personal conversations."
+      "text": "in personal conversations.",
+      "words": [
+        {
+          "startSec": 112.7,
+          "endSec": 113.6,
+          "text": "in"
+        },
+        {
+          "startSec": 113.6,
+          "endSec": 113.7,
+          "text": "personal"
+        },
+        {
+          "startSec": 113.7,
+          "endSec": 115.4,
+          "text": "conversations."
+        },
+        {
+          "startSec": 115.4,
+          "endSec": 116.3,
+          "text": "For"
+        }
+      ]
     },
     {
       "startSec": 115.4,
       "endSec": 119.2,
-      "text": "For example, if you are dialed in to a project"
+      "text": "For example, if you are dialed in to a project",
+      "words": [
+        {
+          "startSec": 115.4,
+          "endSec": 116.3,
+          "text": "For"
+        },
+        {
+          "startSec": 116.3,
+          "endSec": 116.5,
+          "text": "example,"
+        },
+        {
+          "startSec": 116.5,
+          "endSec": 116.7,
+          "text": "if"
+        },
+        {
+          "startSec": 116.7,
+          "endSec": 117,
+          "text": "you"
+        },
+        {
+          "startSec": 117,
+          "endSec": 117.3,
+          "text": "are"
+        },
+        {
+          "startSec": 117.3,
+          "endSec": 117.9,
+          "text": "dialed"
+        },
+        {
+          "startSec": 117.9,
+          "endSec": 118.1,
+          "text": "in"
+        },
+        {
+          "startSec": 118.1,
+          "endSec": 118.3,
+          "text": "to"
+        },
+        {
+          "startSec": 118.3,
+          "endSec": 118.4,
+          "text": "a"
+        },
+        {
+          "startSec": 118.4,
+          "endSec": 119.2,
+          "text": "project"
+        },
+        {
+          "startSec": 119.2,
+          "endSec": 120,
+          "text": "or"
+        }
+      ]
     },
     {
       "startSec": 119.2,
       "endSec": 123.2,
-      "text": "or problem, you know exactly what needs to be done."
+      "text": "or problem, you know exactly what needs to be done.",
+      "words": [
+        {
+          "startSec": 119.2,
+          "endSec": 120,
+          "text": "or"
+        },
+        {
+          "startSec": 120,
+          "endSec": 120.2,
+          "text": "problem,"
+        },
+        {
+          "startSec": 120.2,
+          "endSec": 120.4,
+          "text": "you"
+        },
+        {
+          "startSec": 120.4,
+          "endSec": 120.8,
+          "text": "know"
+        },
+        {
+          "startSec": 120.8,
+          "endSec": 121.4,
+          "text": "exactly"
+        },
+        {
+          "startSec": 121.4,
+          "endSec": 121.7,
+          "text": "what"
+        },
+        {
+          "startSec": 121.7,
+          "endSec": 122.2,
+          "text": "needs"
+        },
+        {
+          "startSec": 122.2,
+          "endSec": 122.4,
+          "text": "to"
+        },
+        {
+          "startSec": 122.4,
+          "endSec": 122.5,
+          "text": "be"
+        },
+        {
+          "startSec": 122.5,
+          "endSec": 123.2,
+          "text": "done."
+        },
+        {
+          "startSec": 123.2,
+          "endSec": 124,
+          "text": "You"
+        }
+      ]
     },
     {
       "startSec": 123.2,
       "endSec": 126.9,
-      "text": "You are thinking clearly about it"
+      "text": "You are thinking clearly about it",
+      "words": [
+        {
+          "startSec": 123.2,
+          "endSec": 124,
+          "text": "You"
+        },
+        {
+          "startSec": 124,
+          "endSec": 124.1,
+          "text": "are"
+        },
+        {
+          "startSec": 124.1,
+          "endSec": 125,
+          "text": "thinking"
+        },
+        {
+          "startSec": 125,
+          "endSec": 125.9,
+          "text": "clearly"
+        },
+        {
+          "startSec": 125.9,
+          "endSec": 126.6,
+          "text": "about"
+        },
+        {
+          "startSec": 126.6,
+          "endSec": 126.9,
+          "text": "it"
+        },
+        {
+          "startSec": 126.9,
+          "endSec": 127.8,
+          "text": "and"
+        }
+      ]
     },
     {
       "startSec": 126.9,
       "endSec": 129.4,
-      "text": "and remain very focused."
+      "text": "and remain very focused.",
+      "words": [
+        {
+          "startSec": 126.9,
+          "endSec": 127.8,
+          "text": "and"
+        },
+        {
+          "startSec": 127.8,
+          "endSec": 128,
+          "text": "remain"
+        },
+        {
+          "startSec": 128,
+          "endSec": 128.5,
+          "text": "very"
+        },
+        {
+          "startSec": 128.5,
+          "endSec": 129.4,
+          "text": "focused."
+        },
+        {
+          "startSec": 129.4,
+          "endSec": 130.3,
+          "text": "And"
+        }
+      ]
     },
     {
       "startSec": 129.4,
       "endSec": 134.8,
-      "text": "And when you are tuned in, you understand clearly"
+      "text": "And when you are tuned in, you understand clearly",
+      "words": [
+        {
+          "startSec": 129.4,
+          "endSec": 130.3,
+          "text": "And"
+        },
+        {
+          "startSec": 130.3,
+          "endSec": 130.7,
+          "text": "when"
+        },
+        {
+          "startSec": 130.7,
+          "endSec": 131.3,
+          "text": "you"
+        },
+        {
+          "startSec": 131.3,
+          "endSec": 131.9,
+          "text": "are"
+        },
+        {
+          "startSec": 131.9,
+          "endSec": 132.8,
+          "text": "tuned"
+        },
+        {
+          "startSec": 132.8,
+          "endSec": 133.3,
+          "text": "in,"
+        },
+        {
+          "startSec": 133.3,
+          "endSec": 133.5,
+          "text": "you"
+        },
+        {
+          "startSec": 133.5,
+          "endSec": 134.2,
+          "text": "understand"
+        },
+        {
+          "startSec": 134.2,
+          "endSec": 134.8,
+          "text": "clearly"
+        },
+        {
+          "startSec": 134.8,
+          "endSec": 135.2,
+          "text": "what"
+        }
+      ]
     },
     {
       "startSec": 134.8,
       "endSec": 136.9,
-      "text": "what is going on around you."
+      "text": "what is going on around you.",
+      "words": [
+        {
+          "startSec": 134.8,
+          "endSec": 135.2,
+          "text": "what"
+        },
+        {
+          "startSec": 135.2,
+          "endSec": 135.7,
+          "text": "is"
+        },
+        {
+          "startSec": 135.7,
+          "endSec": 135.7,
+          "text": "going"
+        },
+        {
+          "startSec": 135.7,
+          "endSec": 135.9,
+          "text": "on"
+        },
+        {
+          "startSec": 135.9,
+          "endSec": 136.4,
+          "text": "around"
+        },
+        {
+          "startSec": 136.4,
+          "endSec": 136.9,
+          "text": "you."
+        }
+      ]
     },
     {
       "startSec": 137.9,
       "endSec": 141.3,
-      "text": "Don't touch that dial and stay tuned"
+      "text": "Don't touch that dial and stay tuned",
+      "words": [
+        {
+          "startSec": 137.9,
+          "endSec": 138.8,
+          "text": "Don't"
+        },
+        {
+          "startSec": 138.8,
+          "endSec": 139,
+          "text": "touch"
+        },
+        {
+          "startSec": 139,
+          "endSec": 139.5,
+          "text": "that"
+        },
+        {
+          "startSec": 139.5,
+          "endSec": 139.9,
+          "text": "dial"
+        },
+        {
+          "startSec": 139.9,
+          "endSec": 140.3,
+          "text": "and"
+        },
+        {
+          "startSec": 140.3,
+          "endSec": 140.7,
+          "text": "stay"
+        },
+        {
+          "startSec": 140.7,
+          "endSec": 141.3,
+          "text": "tuned"
+        },
+        {
+          "startSec": 141.3,
+          "endSec": 141.5,
+          "text": "are"
+        }
+      ]
     },
     {
       "startSec": 141.3,
       "endSec": 144.2,
-      "text": "are two ways to tell someone to keep watching"
+      "text": "are two ways to tell someone to keep watching",
+      "words": [
+        {
+          "startSec": 141.3,
+          "endSec": 141.5,
+          "text": "are"
+        },
+        {
+          "startSec": 141.5,
+          "endSec": 142.1,
+          "text": "two"
+        },
+        {
+          "startSec": 142.1,
+          "endSec": 142.2,
+          "text": "ways"
+        },
+        {
+          "startSec": 142.2,
+          "endSec": 142.2,
+          "text": "to"
+        },
+        {
+          "startSec": 142.2,
+          "endSec": 142.5,
+          "text": "tell"
+        },
+        {
+          "startSec": 142.5,
+          "endSec": 143,
+          "text": "someone"
+        },
+        {
+          "startSec": 143,
+          "endSec": 143.2,
+          "text": "to"
+        },
+        {
+          "startSec": 143.2,
+          "endSec": 143.6,
+          "text": "keep"
+        },
+        {
+          "startSec": 143.6,
+          "endSec": 144.2,
+          "text": "watching"
+        },
+        {
+          "startSec": 144.2,
+          "endSec": 145.1,
+          "text": "or"
+        }
+      ]
     },
     {
       "startSec": 144.2,
       "endSec": 146.2,
-      "text": "or listening to a program."
+      "text": "or listening to a program.",
+      "words": [
+        {
+          "startSec": 144.2,
+          "endSec": 145.1,
+          "text": "or"
+        },
+        {
+          "startSec": 145.1,
+          "endSec": 145.1,
+          "text": "listening"
+        },
+        {
+          "startSec": 145.1,
+          "endSec": 145.3,
+          "text": "to"
+        },
+        {
+          "startSec": 145.3,
+          "endSec": 145.3,
+          "text": "a"
+        },
+        {
+          "startSec": 145.3,
+          "endSec": 146.2,
+          "text": "program."
+        },
+        {
+          "startSec": 146.2,
+          "endSec": 147.1,
+          "text": "Now"
+        }
+      ]
     },
     {
       "startSec": 146.2,
       "endSec": 150.5,
-      "text": "Now let's talk about switches."
+      "text": "Now let's talk about switches.",
+      "words": [
+        {
+          "startSec": 146.2,
+          "endSec": 147.1,
+          "text": "Now"
+        },
+        {
+          "startSec": 147.1,
+          "endSec": 147.4,
+          "text": "let's"
+        },
+        {
+          "startSec": 147.4,
+          "endSec": 148,
+          "text": "talk"
+        },
+        {
+          "startSec": 148,
+          "endSec": 148.8,
+          "text": "about"
+        },
+        {
+          "startSec": 148.8,
+          "endSec": 150.5,
+          "text": "switches."
+        },
+        {
+          "startSec": 150.5,
+          "endSec": 151.4,
+          "text": "These"
+        }
+      ]
     },
     {
       "startSec": 150.5,
       "endSec": 154.4,
-      "text": "These are built to either be off or on."
+      "text": "These are built to either be off or on.",
+      "words": [
+        {
+          "startSec": 150.5,
+          "endSec": 151.4,
+          "text": "These"
+        },
+        {
+          "startSec": 151.4,
+          "endSec": 151.5,
+          "text": "are"
+        },
+        {
+          "startSec": 151.5,
+          "endSec": 152,
+          "text": "built"
+        },
+        {
+          "startSec": 152,
+          "endSec": 152.3,
+          "text": "to"
+        },
+        {
+          "startSec": 152.3,
+          "endSec": 153,
+          "text": "either"
+        },
+        {
+          "startSec": 153,
+          "endSec": 153.2,
+          "text": "be"
+        },
+        {
+          "startSec": 153.2,
+          "endSec": 153.5,
+          "text": "off"
+        },
+        {
+          "startSec": 153.5,
+          "endSec": 153.8,
+          "text": "or"
+        },
+        {
+          "startSec": 153.8,
+          "endSec": 154.4,
+          "text": "on."
+        },
+        {
+          "startSec": 154.4,
+          "endSec": 155.1,
+          "text": "There"
+        }
+      ]
     },
     {
       "startSec": 154.4,
       "endSec": 158.4,
-      "text": "There are no in-between settings like with a dial."
+      "text": "There are no in-between settings like with a dial.",
+      "words": [
+        {
+          "startSec": 154.4,
+          "endSec": 155.1,
+          "text": "There"
+        },
+        {
+          "startSec": 155.1,
+          "endSec": 155.2,
+          "text": "are"
+        },
+        {
+          "startSec": 155.2,
+          "endSec": 155.3,
+          "text": "no"
+        },
+        {
+          "startSec": 155.3,
+          "endSec": 156.1,
+          "text": "in-between"
+        },
+        {
+          "startSec": 156.1,
+          "endSec": 156.8,
+          "text": "settings"
+        },
+        {
+          "startSec": 156.8,
+          "endSec": 157.1,
+          "text": "like"
+        },
+        {
+          "startSec": 157.1,
+          "endSec": 157.4,
+          "text": "with"
+        },
+        {
+          "startSec": 157.4,
+          "endSec": 157.5,
+          "text": "a"
+        },
+        {
+          "startSec": 157.5,
+          "endSec": 158.4,
+          "text": "dial."
+        },
+        {
+          "startSec": 158.4,
+          "endSec": 159.3,
+          "text": "So"
+        }
+      ]
     },
     {
       "startSec": 158.4,
       "endSec": 163.4,
-      "text": "So when we flip the switch, we make something happen"
+      "text": "So when we flip the switch, we make something happen",
+      "words": [
+        {
+          "startSec": 158.4,
+          "endSec": 159.3,
+          "text": "So"
+        },
+        {
+          "startSec": 159.3,
+          "endSec": 159.3,
+          "text": "when"
+        },
+        {
+          "startSec": 159.3,
+          "endSec": 159.6,
+          "text": "we"
+        },
+        {
+          "startSec": 159.6,
+          "endSec": 160.2,
+          "text": "flip"
+        },
+        {
+          "startSec": 160.2,
+          "endSec": 160.6,
+          "text": "the"
+        },
+        {
+          "startSec": 160.6,
+          "endSec": 161.7,
+          "text": "switch,"
+        },
+        {
+          "startSec": 161.7,
+          "endSec": 161.8,
+          "text": "we"
+        },
+        {
+          "startSec": 161.8,
+          "endSec": 162.2,
+          "text": "make"
+        },
+        {
+          "startSec": 162.2,
+          "endSec": 162.7,
+          "text": "something"
+        },
+        {
+          "startSec": 162.7,
+          "endSec": 163.4,
+          "text": "happen"
+        },
+        {
+          "startSec": 163.4,
+          "endSec": 164.3,
+          "text": "quickly"
+        }
+      ]
     },
     {
       "startSec": 163.4,
       "endSec": 165.4,
-      "text": "quickly and easily."
+      "text": "quickly and easily.",
+      "words": [
+        {
+          "startSec": 163.4,
+          "endSec": 164.3,
+          "text": "quickly"
+        },
+        {
+          "startSec": 164.3,
+          "endSec": 164.4,
+          "text": "and"
+        },
+        {
+          "startSec": 164.4,
+          "endSec": 165.4,
+          "text": "easily."
+        }
+      ]
     },
     {
       "startSec": 166.4,
       "endSec": 171.1,
-      "text": "It can also mean that we suddenly change something."
+      "text": "It can also mean that we suddenly change something.",
+      "words": [
+        {
+          "startSec": 166.4,
+          "endSec": 166.6,
+          "text": "It"
+        },
+        {
+          "startSec": 166.6,
+          "endSec": 167.3,
+          "text": "can"
+        },
+        {
+          "startSec": 167.3,
+          "endSec": 167.4,
+          "text": "also"
+        },
+        {
+          "startSec": 167.4,
+          "endSec": 167.8,
+          "text": "mean"
+        },
+        {
+          "startSec": 167.8,
+          "endSec": 168.2,
+          "text": "that"
+        },
+        {
+          "startSec": 168.2,
+          "endSec": 168.4,
+          "text": "we"
+        },
+        {
+          "startSec": 168.4,
+          "endSec": 169.2,
+          "text": "suddenly"
+        },
+        {
+          "startSec": 169.2,
+          "endSec": 169.8,
+          "text": "change"
+        },
+        {
+          "startSec": 169.8,
+          "endSec": 171.1,
+          "text": "something."
+        },
+        {
+          "startSec": 171.1,
+          "endSec": 172,
+          "text": "Let's"
+        }
+      ]
     },
     {
       "startSec": 171.1,
       "endSec": 173.8,
-      "text": "Let's listen to an example."
+      "text": "Let's listen to an example.",
+      "words": [
+        {
+          "startSec": 171.1,
+          "endSec": 172,
+          "text": "Let's"
+        },
+        {
+          "startSec": 172,
+          "endSec": 172.3,
+          "text": "listen"
+        },
+        {
+          "startSec": 172.3,
+          "endSec": 172.5,
+          "text": "to"
+        },
+        {
+          "startSec": 172.5,
+          "endSec": 172.7,
+          "text": "an"
+        },
+        {
+          "startSec": 172.7,
+          "endSec": 173.8,
+          "text": "example."
+        },
+        {
+          "startSec": 173.8,
+          "endSec": 174.7,
+          "text": "The"
+        }
+      ]
     },
     {
       "startSec": 173.8,
       "endSec": 178.1,
-      "text": "The restaurants change to all organic food"
+      "text": "The restaurants change to all organic food",
+      "words": [
+        {
+          "startSec": 173.8,
+          "endSec": 174.7,
+          "text": "The"
+        },
+        {
+          "startSec": 174.7,
+          "endSec": 175.1,
+          "text": "restaurants"
+        },
+        {
+          "startSec": 175.1,
+          "endSec": 175.6,
+          "text": "change"
+        },
+        {
+          "startSec": 175.6,
+          "endSec": 175.9,
+          "text": "to"
+        },
+        {
+          "startSec": 175.9,
+          "endSec": 176.4,
+          "text": "all"
+        },
+        {
+          "startSec": 176.4,
+          "endSec": 177.5,
+          "text": "organic"
+        },
+        {
+          "startSec": 177.5,
+          "endSec": 178.1,
+          "text": "food"
+        },
+        {
+          "startSec": 178.1,
+          "endSec": 179,
+          "text": "happened"
+        }
+      ]
     },
     {
       "startSec": 178.1,
       "endSec": 181,
-      "text": "happened slowly over time."
+      "text": "happened slowly over time.",
+      "words": [
+        {
+          "startSec": 178.1,
+          "endSec": 179,
+          "text": "happened"
+        },
+        {
+          "startSec": 179,
+          "endSec": 179.7,
+          "text": "slowly"
+        },
+        {
+          "startSec": 179.7,
+          "endSec": 180.2,
+          "text": "over"
+        },
+        {
+          "startSec": 180.2,
+          "endSec": 181,
+          "text": "time."
+        },
+        {
+          "startSec": 181,
+          "endSec": 181.2,
+          "text": "It"
+        }
+      ]
     },
     {
       "startSec": 181,
       "endSec": 184.2,
-      "text": "It wasn't a matter of flipping a switch."
+      "text": "It wasn't a matter of flipping a switch.",
+      "words": [
+        {
+          "startSec": 181,
+          "endSec": 181.2,
+          "text": "It"
+        },
+        {
+          "startSec": 181.2,
+          "endSec": 181.8,
+          "text": "wasn't"
+        },
+        {
+          "startSec": 181.8,
+          "endSec": 181.9,
+          "text": "a"
+        },
+        {
+          "startSec": 181.9,
+          "endSec": 182.4,
+          "text": "matter"
+        },
+        {
+          "startSec": 182.4,
+          "endSec": 182.5,
+          "text": "of"
+        },
+        {
+          "startSec": 182.5,
+          "endSec": 183.3,
+          "text": "flipping"
+        },
+        {
+          "startSec": 183.3,
+          "endSec": 183.4,
+          "text": "a"
+        },
+        {
+          "startSec": 183.4,
+          "endSec": 184.2,
+          "text": "switch."
+        },
+        {
+          "startSec": 184.2,
+          "endSec": 185.1,
+          "text": "Now"
+        }
+      ]
     },
     {
       "startSec": 184.2,
       "endSec": 189.7,
-      "text": "Now for our last expression, to move the needle."
+      "text": "Now for our last expression, to move the needle.",
+      "words": [
+        {
+          "startSec": 184.2,
+          "endSec": 185.1,
+          "text": "Now"
+        },
+        {
+          "startSec": 185.1,
+          "endSec": 185.1,
+          "text": "for"
+        },
+        {
+          "startSec": 185.1,
+          "endSec": 185.6,
+          "text": "our"
+        },
+        {
+          "startSec": 185.6,
+          "endSec": 186.2,
+          "text": "last"
+        },
+        {
+          "startSec": 186.2,
+          "endSec": 188,
+          "text": "expression,"
+        },
+        {
+          "startSec": 188,
+          "endSec": 188.2,
+          "text": "to"
+        },
+        {
+          "startSec": 188.2,
+          "endSec": 188.6,
+          "text": "move"
+        },
+        {
+          "startSec": 188.6,
+          "endSec": 188.8,
+          "text": "the"
+        },
+        {
+          "startSec": 188.8,
+          "endSec": 189.7,
+          "text": "needle."
+        },
+        {
+          "startSec": 189.7,
+          "endSec": 190.6,
+          "text": "Needles"
+        }
+      ]
     },
     {
       "startSec": 189.7,
       "endSec": 194.5,
-      "text": "Needles on measuring devices like a scale"
+      "text": "Needles on measuring devices like a scale",
+      "words": [
+        {
+          "startSec": 189.7,
+          "endSec": 190.6,
+          "text": "Needles"
+        },
+        {
+          "startSec": 190.6,
+          "endSec": 190.9,
+          "text": "on"
+        },
+        {
+          "startSec": 190.9,
+          "endSec": 192.1,
+          "text": "measuring"
+        },
+        {
+          "startSec": 192.1,
+          "endSec": 193.1,
+          "text": "devices"
+        },
+        {
+          "startSec": 193.1,
+          "endSec": 193.7,
+          "text": "like"
+        },
+        {
+          "startSec": 193.7,
+          "endSec": 193.8,
+          "text": "a"
+        },
+        {
+          "startSec": 193.8,
+          "endSec": 194.5,
+          "text": "scale"
+        },
+        {
+          "startSec": 194.5,
+          "endSec": 194.9,
+          "text": "move"
+        }
+      ]
     },
     {
       "startSec": 194.5,
       "endSec": 198.4,
-      "text": "move to show a desired level has been reached."
+      "text": "move to show a desired level has been reached.",
+      "words": [
+        {
+          "startSec": 194.5,
+          "endSec": 194.9,
+          "text": "move"
+        },
+        {
+          "startSec": 194.9,
+          "endSec": 195.4,
+          "text": "to"
+        },
+        {
+          "startSec": 195.4,
+          "endSec": 195.5,
+          "text": "show"
+        },
+        {
+          "startSec": 195.5,
+          "endSec": 195.6,
+          "text": "a"
+        },
+        {
+          "startSec": 195.6,
+          "endSec": 196.2,
+          "text": "desired"
+        },
+        {
+          "startSec": 196.2,
+          "endSec": 196.7,
+          "text": "level"
+        },
+        {
+          "startSec": 196.7,
+          "endSec": 197,
+          "text": "has"
+        },
+        {
+          "startSec": 197,
+          "endSec": 197.4,
+          "text": "been"
+        },
+        {
+          "startSec": 197.4,
+          "endSec": 198.4,
+          "text": "reached."
+        },
+        {
+          "startSec": 198.4,
+          "endSec": 199.2,
+          "text": "So"
+        }
+      ]
     },
     {
       "startSec": 198.4,
       "endSec": 202.2,
-      "text": "So when something moves the needle,"
+      "text": "So when something moves the needle,",
+      "words": [
+        {
+          "startSec": 198.4,
+          "endSec": 199.2,
+          "text": "So"
+        },
+        {
+          "startSec": 199.2,
+          "endSec": 199.3,
+          "text": "when"
+        },
+        {
+          "startSec": 199.3,
+          "endSec": 200.4,
+          "text": "something"
+        },
+        {
+          "startSec": 200.4,
+          "endSec": 201,
+          "text": "moves"
+        },
+        {
+          "startSec": 201,
+          "endSec": 201.4,
+          "text": "the"
+        },
+        {
+          "startSec": 201.4,
+          "endSec": 202.2,
+          "text": "needle,"
+        },
+        {
+          "startSec": 202.2,
+          "endSec": 203,
+          "text": "it"
+        }
+      ]
     },
     {
       "startSec": 202.2,
       "endSec": 205.9,
-      "text": "it causes a noticeable change in something,"
+      "text": "it causes a noticeable change in something,",
+      "words": [
+        {
+          "startSec": 202.2,
+          "endSec": 203,
+          "text": "it"
+        },
+        {
+          "startSec": 203,
+          "endSec": 203.1,
+          "text": "causes"
+        },
+        {
+          "startSec": 203.1,
+          "endSec": 203.1,
+          "text": "a"
+        },
+        {
+          "startSec": 203.1,
+          "endSec": 204.2,
+          "text": "noticeable"
+        },
+        {
+          "startSec": 204.2,
+          "endSec": 204.8,
+          "text": "change"
+        },
+        {
+          "startSec": 204.8,
+          "endSec": 205,
+          "text": "in"
+        },
+        {
+          "startSec": 205,
+          "endSec": 205.9,
+          "text": "something,"
+        },
+        {
+          "startSec": 205.9,
+          "endSec": 206.8,
+          "text": "usually"
+        }
+      ]
     },
     {
       "startSec": 205.9,
       "endSec": 207.8,
-      "text": "usually for the good."
+      "text": "usually for the good.",
+      "words": [
+        {
+          "startSec": 205.9,
+          "endSec": 206.8,
+          "text": "usually"
+        },
+        {
+          "startSec": 206.8,
+          "endSec": 206.9,
+          "text": "for"
+        },
+        {
+          "startSec": 206.9,
+          "endSec": 207.1,
+          "text": "the"
+        },
+        {
+          "startSec": 207.1,
+          "endSec": 207.8,
+          "text": "good."
+        },
+        {
+          "startSec": 207.8,
+          "endSec": 208.7,
+          "text": "And"
+        }
+      ]
     },
     {
       "startSec": 207.8,
       "endSec": 210.9,
-      "text": "And that's all the time we have"
+      "text": "And that's all the time we have",
+      "words": [
+        {
+          "startSec": 207.8,
+          "endSec": 208.7,
+          "text": "And"
+        },
+        {
+          "startSec": 208.7,
+          "endSec": 209,
+          "text": "that's"
+        },
+        {
+          "startSec": 209,
+          "endSec": 209.4,
+          "text": "all"
+        },
+        {
+          "startSec": 209.4,
+          "endSec": 209.8,
+          "text": "the"
+        },
+        {
+          "startSec": 209.8,
+          "endSec": 210.4,
+          "text": "time"
+        },
+        {
+          "startSec": 210.4,
+          "endSec": 210.6,
+          "text": "we"
+        },
+        {
+          "startSec": 210.6,
+          "endSec": 210.9,
+          "text": "have"
+        },
+        {
+          "startSec": 210.9,
+          "endSec": 211.2,
+          "text": "for"
+        }
+      ]
     },
     {
       "startSec": 210.9,
       "endSec": 213.6,
-      "text": "for this words and their stories."
+      "text": "for this words and their stories.",
+      "words": [
+        {
+          "startSec": 210.9,
+          "endSec": 211.2,
+          "text": "for"
+        },
+        {
+          "startSec": 211.2,
+          "endSec": 211.8,
+          "text": "this"
+        },
+        {
+          "startSec": 211.8,
+          "endSec": 212,
+          "text": "words"
+        },
+        {
+          "startSec": 212,
+          "endSec": 212.2,
+          "text": "and"
+        },
+        {
+          "startSec": 212.2,
+          "endSec": 212.7,
+          "text": "their"
+        },
+        {
+          "startSec": 212.7,
+          "endSec": 213.6,
+          "text": "stories."
+        },
+        {
+          "startSec": 213.6,
+          "endSec": 214.5,
+          "text": "Don't"
+        }
+      ]
     },
     {
       "startSec": 213.6,
       "endSec": 215.6,
-      "text": "Don't forget to tune in again"
+      "text": "Don't forget to tune in again",
+      "words": [
+        {
+          "startSec": 213.6,
+          "endSec": 214.5,
+          "text": "Don't"
+        },
+        {
+          "startSec": 214.5,
+          "endSec": 214.5,
+          "text": "forget"
+        },
+        {
+          "startSec": 214.5,
+          "endSec": 214.6,
+          "text": "to"
+        },
+        {
+          "startSec": 214.6,
+          "endSec": 215,
+          "text": "tune"
+        },
+        {
+          "startSec": 215,
+          "endSec": 215.2,
+          "text": "in"
+        },
+        {
+          "startSec": 215.2,
+          "endSec": 215.6,
+          "text": "again"
+        },
+        {
+          "startSec": 215.6,
+          "endSec": 216.5,
+          "text": "for"
+        }
+      ]
     },
     {
       "startSec": 215.6,
       "endSec": 220.2,
-      "text": "for another story about American English expressions."
+      "text": "for another story about American English expressions.",
+      "words": [
+        {
+          "startSec": 215.6,
+          "endSec": 216.5,
+          "text": "for"
+        },
+        {
+          "startSec": 216.5,
+          "endSec": 216.5,
+          "text": "another"
+        },
+        {
+          "startSec": 216.5,
+          "endSec": 217,
+          "text": "story"
+        },
+        {
+          "startSec": 217,
+          "endSec": 217.5,
+          "text": "about"
+        },
+        {
+          "startSec": 217.5,
+          "endSec": 218.2,
+          "text": "American"
+        },
+        {
+          "startSec": 218.2,
+          "endSec": 218.9,
+          "text": "English"
+        },
+        {
+          "startSec": 218.9,
+          "endSec": 220.2,
+          "text": "expressions."
+        },
+        {
+          "startSec": 220.2,
+          "endSec": 221.1,
+          "text": "Until"
+        }
+      ]
     },
     {
       "startSec": 220.2,
       "endSec": 222.8,
-      "text": "Until next time, I'm Anna Mateo."
+      "text": "Until next time, I'm Anna Mateo.",
+      "words": [
+        {
+          "startSec": 220.2,
+          "endSec": 221.1,
+          "text": "Until"
+        },
+        {
+          "startSec": 221.1,
+          "endSec": 221.1,
+          "text": "next"
+        },
+        {
+          "startSec": 221.1,
+          "endSec": 221.6,
+          "text": "time,"
+        },
+        {
+          "startSec": 221.6,
+          "endSec": 221.9,
+          "text": "I'm"
+        },
+        {
+          "startSec": 221.9,
+          "endSec": 222.3,
+          "text": "Anna"
+        },
+        {
+          "startSec": 222.3,
+          "endSec": 222.8,
+          "text": "Mateo."
+        }
+      ]
     },
     {
       "startSec": 224.5,
       "endSec": 226.8,
-      "text": "(whistling)"
+      "text": "(whistling)",
+      "words": [
+        {
+          "startSec": 224.5,
+          "endSec": 226.8,
+          "text": "(whistling)"
+        },
+        {
+          "startSec": 226.8,
+          "endSec": 228.1,
+          "text": "(upbeat"
+        }
+      ]
     },
     {
       "startSec": 226.8,
       "endSec": 229.3,
-      "text": "(upbeat music)"
+      "text": "(upbeat music)",
+      "words": [
+        {
+          "startSec": 226.8,
+          "endSec": 228.1,
+          "text": "(upbeat"
+        },
+        {
+          "startSec": 228.1,
+          "endSec": 229.3,
+          "text": "music)"
+        }
+      ]
     }
   ],
   "cefr": "B2",

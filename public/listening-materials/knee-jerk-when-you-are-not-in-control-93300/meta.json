@@ -9,232 +9,2669 @@
     {
       "startSec": 0,
       "endSec": 19.2,
-      "text": "And now, words and their stories, from VOA Learning English."
+      "text": "And now, words and their stories, from VOA Learning English.",
+      "words": [
+        {
+          "startSec": 0.9,
+          "endSec": 1.3,
+          "text": "And"
+        },
+        {
+          "startSec": 1.3,
+          "endSec": 3.4,
+          "text": "now,"
+        },
+        {
+          "startSec": 3.4,
+          "endSec": 5.6,
+          "text": "words"
+        },
+        {
+          "startSec": 5.6,
+          "endSec": 6.8,
+          "text": "and"
+        },
+        {
+          "startSec": 6.8,
+          "endSec": 9,
+          "text": "their"
+        },
+        {
+          "startSec": 9,
+          "endSec": 12.1,
+          "text": "stories,"
+        },
+        {
+          "startSec": 12.1,
+          "endSec": 12.6,
+          "text": "from"
+        },
+        {
+          "startSec": 12.6,
+          "endSec": 13,
+          "text": "VOA"
+        },
+        {
+          "startSec": 13,
+          "endSec": 14,
+          "text": "Learning"
+        },
+        {
+          "startSec": 14,
+          "endSec": 19.2,
+          "text": "English."
+        },
+        {
+          "startSec": 19.2,
+          "endSec": 20,
+          "text": "In"
+        }
+      ]
     },
     {
       "startSec": 19.2,
       "endSec": 26.6,
-      "text": "In life, some of our decisions and actions are well thought out."
+      "text": "In life, some of our decisions and actions are well thought out.",
+      "words": [
+        {
+          "startSec": 19.2,
+          "endSec": 20,
+          "text": "In"
+        },
+        {
+          "startSec": 20,
+          "endSec": 20.3,
+          "text": "life,"
+        },
+        {
+          "startSec": 20.3,
+          "endSec": 20.8,
+          "text": "some"
+        },
+        {
+          "startSec": 20.8,
+          "endSec": 21,
+          "text": "of"
+        },
+        {
+          "startSec": 21,
+          "endSec": 21.4,
+          "text": "our"
+        },
+        {
+          "startSec": 21.4,
+          "endSec": 22.6,
+          "text": "decisions"
+        },
+        {
+          "startSec": 22.6,
+          "endSec": 23,
+          "text": "and"
+        },
+        {
+          "startSec": 23,
+          "endSec": 23.9,
+          "text": "actions"
+        },
+        {
+          "startSec": 23.9,
+          "endSec": 24.3,
+          "text": "are"
+        },
+        {
+          "startSec": 24.3,
+          "endSec": 24.9,
+          "text": "well"
+        },
+        {
+          "startSec": 24.9,
+          "endSec": 25.8,
+          "text": "thought"
+        },
+        {
+          "startSec": 25.8,
+          "endSec": 26.6,
+          "text": "out."
+        },
+        {
+          "startSec": 26.6,
+          "endSec": 27.5,
+          "text": "They"
+        }
+      ]
     },
     {
       "startSec": 26.6,
       "endSec": 33.8,
-      "text": "They involve research, examination, and time for thought."
+      "text": "They involve research, examination, and time for thought.",
+      "words": [
+        {
+          "startSec": 26.6,
+          "endSec": 27.5,
+          "text": "They"
+        },
+        {
+          "startSec": 27.5,
+          "endSec": 28.1,
+          "text": "involve"
+        },
+        {
+          "startSec": 28.1,
+          "endSec": 29.5,
+          "text": "research,"
+        },
+        {
+          "startSec": 29.5,
+          "endSec": 31.3,
+          "text": "examination,"
+        },
+        {
+          "startSec": 31.3,
+          "endSec": 31.7,
+          "text": "and"
+        },
+        {
+          "startSec": 31.7,
+          "endSec": 32.2,
+          "text": "time"
+        },
+        {
+          "startSec": 32.2,
+          "endSec": 32.6,
+          "text": "for"
+        },
+        {
+          "startSec": 32.6,
+          "endSec": 33.8,
+          "text": "thought."
+        },
+        {
+          "startSec": 33.8,
+          "endSec": 34.7,
+          "text": "And"
+        }
+      ]
     },
     {
       "startSec": 33.8,
       "endSec": 39.8,
-      "text": "And other decisions and actions are not well thought out."
+      "text": "And other decisions and actions are not well thought out.",
+      "words": [
+        {
+          "startSec": 33.8,
+          "endSec": 34.7,
+          "text": "And"
+        },
+        {
+          "startSec": 34.7,
+          "endSec": 34.8,
+          "text": "other"
+        },
+        {
+          "startSec": 34.8,
+          "endSec": 35.8,
+          "text": "decisions"
+        },
+        {
+          "startSec": 35.8,
+          "endSec": 36.2,
+          "text": "and"
+        },
+        {
+          "startSec": 36.2,
+          "endSec": 37,
+          "text": "actions"
+        },
+        {
+          "startSec": 37,
+          "endSec": 37.4,
+          "text": "are"
+        },
+        {
+          "startSec": 37.4,
+          "endSec": 37.7,
+          "text": "not"
+        },
+        {
+          "startSec": 37.7,
+          "endSec": 38.2,
+          "text": "well"
+        },
+        {
+          "startSec": 38.2,
+          "endSec": 39,
+          "text": "thought"
+        },
+        {
+          "startSec": 39,
+          "endSec": 39.8,
+          "text": "out."
+        },
+        {
+          "startSec": 39.8,
+          "endSec": 40.5,
+          "text": "We"
+        }
+      ]
     },
     {
       "startSec": 39.8,
       "endSec": 47.9,
-      "text": "We make them quickly without thinking, almost like a pure physical reaction."
+      "text": "We make them quickly without thinking, almost like a pure physical reaction.",
+      "words": [
+        {
+          "startSec": 39.8,
+          "endSec": 40.5,
+          "text": "We"
+        },
+        {
+          "startSec": 40.5,
+          "endSec": 40.7,
+          "text": "make"
+        },
+        {
+          "startSec": 40.7,
+          "endSec": 41,
+          "text": "them"
+        },
+        {
+          "startSec": 41,
+          "endSec": 41.8,
+          "text": "quickly"
+        },
+        {
+          "startSec": 41.8,
+          "endSec": 42.6,
+          "text": "without"
+        },
+        {
+          "startSec": 42.6,
+          "endSec": 43.8,
+          "text": "thinking,"
+        },
+        {
+          "startSec": 43.8,
+          "endSec": 44.5,
+          "text": "almost"
+        },
+        {
+          "startSec": 44.5,
+          "endSec": 45,
+          "text": "like"
+        },
+        {
+          "startSec": 45,
+          "endSec": 45.1,
+          "text": "a"
+        },
+        {
+          "startSec": 45.1,
+          "endSec": 45.6,
+          "text": "pure"
+        },
+        {
+          "startSec": 45.6,
+          "endSec": 46.5,
+          "text": "physical"
+        },
+        {
+          "startSec": 46.5,
+          "endSec": 47.9,
+          "text": "reaction."
+        },
+        {
+          "startSec": 47.9,
+          "endSec": 48.2,
+          "text": "We"
+        }
+      ]
     },
     {
       "startSec": 47.9,
       "endSec": 55.1,
-      "text": "We can call these decisions, actions, or reactions knee-jerk."
+      "text": "We can call these decisions, actions, or reactions knee-jerk.",
+      "words": [
+        {
+          "startSec": 47.9,
+          "endSec": 48.2,
+          "text": "We"
+        },
+        {
+          "startSec": 48.2,
+          "endSec": 48.8,
+          "text": "can"
+        },
+        {
+          "startSec": 48.8,
+          "endSec": 49,
+          "text": "call"
+        },
+        {
+          "startSec": 49,
+          "endSec": 49.7,
+          "text": "these"
+        },
+        {
+          "startSec": 49.7,
+          "endSec": 51,
+          "text": "decisions,"
+        },
+        {
+          "startSec": 51,
+          "endSec": 52.2,
+          "text": "actions,"
+        },
+        {
+          "startSec": 52.2,
+          "endSec": 52.4,
+          "text": "or"
+        },
+        {
+          "startSec": 52.4,
+          "endSec": 53.6,
+          "text": "reactions"
+        },
+        {
+          "startSec": 53.6,
+          "endSec": 55.1,
+          "text": "knee-jerk."
+        },
+        {
+          "startSec": 55.1,
+          "endSec": 56,
+          "text": "This"
+        }
+      ]
     },
     {
       "startSec": 55.1,
       "endSec": 59,
-      "text": "This term comes from a medical process."
+      "text": "This term comes from a medical process.",
+      "words": [
+        {
+          "startSec": 55.1,
+          "endSec": 56,
+          "text": "This"
+        },
+        {
+          "startSec": 56,
+          "endSec": 56,
+          "text": "term"
+        },
+        {
+          "startSec": 56,
+          "endSec": 56.5,
+          "text": "comes"
+        },
+        {
+          "startSec": 56.5,
+          "endSec": 57,
+          "text": "from"
+        },
+        {
+          "startSec": 57,
+          "endSec": 57.1,
+          "text": "a"
+        },
+        {
+          "startSec": 57.1,
+          "endSec": 57.9,
+          "text": "medical"
+        },
+        {
+          "startSec": 57.9,
+          "endSec": 59,
+          "text": "process."
+        },
+        {
+          "startSec": 59,
+          "endSec": 59.9,
+          "text": "Miriam"
+        }
+      ]
     },
     {
       "startSec": 59,
       "endSec": 67.6,
-      "text": "Miriam Webster defines the noun knee-jerk as an involuntary forward kick, produced by"
+      "text": "Miriam Webster defines the noun knee-jerk as an involuntary forward kick, produced by",
+      "words": [
+        {
+          "startSec": 59,
+          "endSec": 59.9,
+          "text": "Miriam"
+        },
+        {
+          "startSec": 59.9,
+          "endSec": 60.5,
+          "text": "Webster"
+        },
+        {
+          "startSec": 60.5,
+          "endSec": 61.2,
+          "text": "defines"
+        },
+        {
+          "startSec": 61.2,
+          "endSec": 61.5,
+          "text": "the"
+        },
+        {
+          "startSec": 61.5,
+          "endSec": 62,
+          "text": "noun"
+        },
+        {
+          "startSec": 62,
+          "endSec": 63,
+          "text": "knee-jerk"
+        },
+        {
+          "startSec": 63,
+          "endSec": 63.2,
+          "text": "as"
+        },
+        {
+          "startSec": 63.2,
+          "endSec": 63.5,
+          "text": "an"
+        },
+        {
+          "startSec": 63.5,
+          "endSec": 64.8,
+          "text": "involuntary"
+        },
+        {
+          "startSec": 64.8,
+          "endSec": 65.7,
+          "text": "forward"
+        },
+        {
+          "startSec": 65.7,
+          "endSec": 66.4,
+          "text": "kick,"
+        },
+        {
+          "startSec": 66.4,
+          "endSec": 67.4,
+          "text": "produced"
+        },
+        {
+          "startSec": 67.4,
+          "endSec": 67.6,
+          "text": "by"
+        },
+        {
+          "startSec": 67.6,
+          "endSec": 68.5,
+          "text": "a"
+        }
+      ]
     },
     {
       "startSec": 67.6,
       "endSec": 73.2,
-      "text": "a light blow on the tendon below the kneecap."
+      "text": "a light blow on the tendon below the kneecap.",
+      "words": [
+        {
+          "startSec": 67.6,
+          "endSec": 68.5,
+          "text": "a"
+        },
+        {
+          "startSec": 68.5,
+          "endSec": 68.5,
+          "text": "light"
+        },
+        {
+          "startSec": 68.5,
+          "endSec": 69.1,
+          "text": "blow"
+        },
+        {
+          "startSec": 69.1,
+          "endSec": 69.3,
+          "text": "on"
+        },
+        {
+          "startSec": 69.3,
+          "endSec": 69.8,
+          "text": "the"
+        },
+        {
+          "startSec": 69.8,
+          "endSec": 70.6,
+          "text": "tendon"
+        },
+        {
+          "startSec": 70.6,
+          "endSec": 71.3,
+          "text": "below"
+        },
+        {
+          "startSec": 71.3,
+          "endSec": 71.8,
+          "text": "the"
+        },
+        {
+          "startSec": 71.8,
+          "endSec": 73.2,
+          "text": "kneecap."
+        },
+        {
+          "startSec": 73.2,
+          "endSec": 73.5,
+          "text": "It"
+        }
+      ]
     },
     {
       "startSec": 73.2,
       "endSec": 76.7,
-      "text": "It is an involuntary action."
+      "text": "It is an involuntary action.",
+      "words": [
+        {
+          "startSec": 73.2,
+          "endSec": 73.5,
+          "text": "It"
+        },
+        {
+          "startSec": 73.5,
+          "endSec": 74,
+          "text": "is"
+        },
+        {
+          "startSec": 74,
+          "endSec": 74.1,
+          "text": "an"
+        },
+        {
+          "startSec": 74.1,
+          "endSec": 75.5,
+          "text": "involuntary"
+        },
+        {
+          "startSec": 75.5,
+          "endSec": 76.7,
+          "text": "action."
+        },
+        {
+          "startSec": 76.7,
+          "endSec": 77.6,
+          "text": "It's"
+        }
+      ]
     },
     {
       "startSec": 76.7,
       "endSec": 79.5,
-      "text": "It's automatic."
+      "text": "It's automatic.",
+      "words": [
+        {
+          "startSec": 76.7,
+          "endSec": 77.6,
+          "text": "It's"
+        },
+        {
+          "startSec": 77.6,
+          "endSec": 79.5,
+          "text": "automatic."
+        },
+        {
+          "startSec": 79.5,
+          "endSec": 80.3,
+          "text": "The"
+        }
+      ]
     },
     {
       "startSec": 79.5,
       "endSec": 87.7,
-      "text": "The words involuntary and automatic are important when understanding the term knee-jerk, and"
+      "text": "The words involuntary and automatic are important when understanding the term knee-jerk, and",
+      "words": [
+        {
+          "startSec": 79.5,
+          "endSec": 80.3,
+          "text": "The"
+        },
+        {
+          "startSec": 80.3,
+          "endSec": 80.4,
+          "text": "words"
+        },
+        {
+          "startSec": 80.4,
+          "endSec": 81.4,
+          "text": "involuntary"
+        },
+        {
+          "startSec": 81.4,
+          "endSec": 81.7,
+          "text": "and"
+        },
+        {
+          "startSec": 81.7,
+          "endSec": 82.6,
+          "text": "automatic"
+        },
+        {
+          "startSec": 82.6,
+          "endSec": 82.9,
+          "text": "are"
+        },
+        {
+          "startSec": 82.9,
+          "endSec": 83.8,
+          "text": "important"
+        },
+        {
+          "startSec": 83.8,
+          "endSec": 84.2,
+          "text": "when"
+        },
+        {
+          "startSec": 84.2,
+          "endSec": 85.6,
+          "text": "understanding"
+        },
+        {
+          "startSec": 85.6,
+          "endSec": 85.9,
+          "text": "the"
+        },
+        {
+          "startSec": 85.9,
+          "endSec": 86.3,
+          "text": "term"
+        },
+        {
+          "startSec": 86.3,
+          "endSec": 87.4,
+          "text": "knee-jerk,"
+        },
+        {
+          "startSec": 87.4,
+          "endSec": 87.7,
+          "text": "and"
+        },
+        {
+          "startSec": 87.7,
+          "endSec": 88.6,
+          "text": "when"
+        }
+      ]
     },
     {
       "startSec": 87.7,
       "endSec": 90.7,
-      "text": "when to use it."
+      "text": "when to use it.",
+      "words": [
+        {
+          "startSec": 87.7,
+          "endSec": 88.6,
+          "text": "when"
+        },
+        {
+          "startSec": 88.6,
+          "endSec": 89,
+          "text": "to"
+        },
+        {
+          "startSec": 89,
+          "endSec": 89.6,
+          "text": "use"
+        },
+        {
+          "startSec": 89.6,
+          "endSec": 90.7,
+          "text": "it."
+        },
+        {
+          "startSec": 90.7,
+          "endSec": 91.7,
+          "text": "Knee-jerk"
+        }
+      ]
     },
     {
       "startSec": 90.7,
       "endSec": 99.1,
-      "text": "Knee-jerk reactions seem to happen automatically, without a decision-making process."
+      "text": "Knee-jerk reactions seem to happen automatically, without a decision-making process.",
+      "words": [
+        {
+          "startSec": 90.7,
+          "endSec": 91.7,
+          "text": "Knee-jerk"
+        },
+        {
+          "startSec": 91.7,
+          "endSec": 92.6,
+          "text": "reactions"
+        },
+        {
+          "startSec": 92.6,
+          "endSec": 93.1,
+          "text": "seem"
+        },
+        {
+          "startSec": 93.1,
+          "endSec": 93.3,
+          "text": "to"
+        },
+        {
+          "startSec": 93.3,
+          "endSec": 93.9,
+          "text": "happen"
+        },
+        {
+          "startSec": 93.9,
+          "endSec": 95.5,
+          "text": "automatically,"
+        },
+        {
+          "startSec": 95.5,
+          "endSec": 96.3,
+          "text": "without"
+        },
+        {
+          "startSec": 96.3,
+          "endSec": 96.4,
+          "text": "a"
+        },
+        {
+          "startSec": 96.4,
+          "endSec": 98,
+          "text": "decision-making"
+        },
+        {
+          "startSec": 98,
+          "endSec": 99.1,
+          "text": "process."
+        },
+        {
+          "startSec": 99.1,
+          "endSec": 100,
+          "text": "We"
+        }
+      ]
     },
     {
       "startSec": 99.1,
       "endSec": 104.7,
-      "text": "We often use knee-jerk as an adjective."
+      "text": "We often use knee-jerk as an adjective.",
+      "words": [
+        {
+          "startSec": 99.1,
+          "endSec": 100,
+          "text": "We"
+        },
+        {
+          "startSec": 100,
+          "endSec": 100.2,
+          "text": "often"
+        },
+        {
+          "startSec": 100.2,
+          "endSec": 100.7,
+          "text": "use"
+        },
+        {
+          "startSec": 100.7,
+          "endSec": 102.1,
+          "text": "knee-jerk"
+        },
+        {
+          "startSec": 102.1,
+          "endSec": 102.5,
+          "text": "as"
+        },
+        {
+          "startSec": 102.5,
+          "endSec": 102.8,
+          "text": "an"
+        },
+        {
+          "startSec": 102.8,
+          "endSec": 104.7,
+          "text": "adjective."
+        },
+        {
+          "startSec": 104.7,
+          "endSec": 105.6,
+          "text": "Like"
+        }
+      ]
     },
     {
       "startSec": 104.7,
       "endSec": 112.3,
-      "text": "Like hitting your kneecap to move your leg, knee-jerk reactions, or statements, also seem"
+      "text": "Like hitting your kneecap to move your leg, knee-jerk reactions, or statements, also seem",
+      "words": [
+        {
+          "startSec": 104.7,
+          "endSec": 105.6,
+          "text": "Like"
+        },
+        {
+          "startSec": 105.6,
+          "endSec": 105.7,
+          "text": "hitting"
+        },
+        {
+          "startSec": 105.7,
+          "endSec": 106.1,
+          "text": "your"
+        },
+        {
+          "startSec": 106.1,
+          "endSec": 106.7,
+          "text": "kneecap"
+        },
+        {
+          "startSec": 106.7,
+          "endSec": 106.9,
+          "text": "to"
+        },
+        {
+          "startSec": 106.9,
+          "endSec": 107.3,
+          "text": "move"
+        },
+        {
+          "startSec": 107.3,
+          "endSec": 107.7,
+          "text": "your"
+        },
+        {
+          "startSec": 107.7,
+          "endSec": 108.1,
+          "text": "leg,"
+        },
+        {
+          "startSec": 108.1,
+          "endSec": 108.9,
+          "text": "knee-jerk"
+        },
+        {
+          "startSec": 108.9,
+          "endSec": 109.9,
+          "text": "reactions,"
+        },
+        {
+          "startSec": 109.9,
+          "endSec": 110.1,
+          "text": "or"
+        },
+        {
+          "startSec": 110.1,
+          "endSec": 111.3,
+          "text": "statements,"
+        },
+        {
+          "startSec": 111.3,
+          "endSec": 111.6,
+          "text": "also"
+        },
+        {
+          "startSec": 111.6,
+          "endSec": 112.3,
+          "text": "seem"
+        },
+        {
+          "startSec": 112.3,
+          "endSec": 113.2,
+          "text": "like"
+        }
+      ]
     },
     {
       "startSec": 112.3,
       "endSec": 116.9,
-      "text": "like an involuntary reflex."
+      "text": "like an involuntary reflex.",
+      "words": [
+        {
+          "startSec": 112.3,
+          "endSec": 113.2,
+          "text": "like"
+        },
+        {
+          "startSec": 113.2,
+          "endSec": 113.3,
+          "text": "an"
+        },
+        {
+          "startSec": 113.3,
+          "endSec": 115.3,
+          "text": "involuntary"
+        },
+        {
+          "startSec": 115.3,
+          "endSec": 116.9,
+          "text": "reflex."
+        },
+        {
+          "startSec": 116.9,
+          "endSec": 117.8,
+          "text": "Knee-jerk"
+        }
+      ]
     },
     {
       "startSec": 116.9,
       "endSec": 121.6,
-      "text": "Knee-jerk also describes predictable behavior."
+      "text": "Knee-jerk also describes predictable behavior.",
+      "words": [
+        {
+          "startSec": 116.9,
+          "endSec": 117.8,
+          "text": "Knee-jerk"
+        },
+        {
+          "startSec": 117.8,
+          "endSec": 118.2,
+          "text": "also"
+        },
+        {
+          "startSec": 118.2,
+          "endSec": 119.2,
+          "text": "describes"
+        },
+        {
+          "startSec": 119.2,
+          "endSec": 120.3,
+          "text": "predictable"
+        },
+        {
+          "startSec": 120.3,
+          "endSec": 121.6,
+          "text": "behavior."
+        },
+        {
+          "startSec": 121.6,
+          "endSec": 122.6,
+          "text": "Again,"
+        }
+      ]
     },
     {
       "startSec": 121.6,
       "endSec": 128.6,
-      "text": "Again, hit the knee and the leg will kick every time."
+      "text": "Again, hit the knee and the leg will kick every time.",
+      "words": [
+        {
+          "startSec": 121.6,
+          "endSec": 122.6,
+          "text": "Again,"
+        },
+        {
+          "startSec": 122.6,
+          "endSec": 123.1,
+          "text": "hit"
+        },
+        {
+          "startSec": 123.1,
+          "endSec": 123.5,
+          "text": "the"
+        },
+        {
+          "startSec": 123.5,
+          "endSec": 124.1,
+          "text": "knee"
+        },
+        {
+          "startSec": 124.1,
+          "endSec": 124.6,
+          "text": "and"
+        },
+        {
+          "startSec": 124.6,
+          "endSec": 125,
+          "text": "the"
+        },
+        {
+          "startSec": 125,
+          "endSec": 125.5,
+          "text": "leg"
+        },
+        {
+          "startSec": 125.5,
+          "endSec": 126.1,
+          "text": "will"
+        },
+        {
+          "startSec": 126.1,
+          "endSec": 126.7,
+          "text": "kick"
+        },
+        {
+          "startSec": 126.7,
+          "endSec": 127.5,
+          "text": "every"
+        },
+        {
+          "startSec": 127.5,
+          "endSec": 128.6,
+          "text": "time."
+        },
+        {
+          "startSec": 128.6,
+          "endSec": 129.3,
+          "text": "So"
+        }
+      ]
     },
     {
       "startSec": 128.6,
       "endSec": 137.2,
-      "text": "So knee-jerk describes someone who always reacts quickly and without enough thought."
+      "text": "So knee-jerk describes someone who always reacts quickly and without enough thought.",
+      "words": [
+        {
+          "startSec": 128.6,
+          "endSec": 129.3,
+          "text": "So"
+        },
+        {
+          "startSec": 129.3,
+          "endSec": 129.8,
+          "text": "knee-jerk"
+        },
+        {
+          "startSec": 129.8,
+          "endSec": 130.9,
+          "text": "describes"
+        },
+        {
+          "startSec": 130.9,
+          "endSec": 131.6,
+          "text": "someone"
+        },
+        {
+          "startSec": 131.6,
+          "endSec": 132,
+          "text": "who"
+        },
+        {
+          "startSec": 132,
+          "endSec": 132.7,
+          "text": "always"
+        },
+        {
+          "startSec": 132.7,
+          "endSec": 133.3,
+          "text": "reacts"
+        },
+        {
+          "startSec": 133.3,
+          "endSec": 134.1,
+          "text": "quickly"
+        },
+        {
+          "startSec": 134.1,
+          "endSec": 134.5,
+          "text": "and"
+        },
+        {
+          "startSec": 134.5,
+          "endSec": 135.3,
+          "text": "without"
+        },
+        {
+          "startSec": 135.3,
+          "endSec": 135.9,
+          "text": "enough"
+        },
+        {
+          "startSec": 135.9,
+          "endSec": 137.2,
+          "text": "thought."
+        },
+        {
+          "startSec": 137.2,
+          "endSec": 138,
+          "text": "For"
+        }
+      ]
     },
     {
       "startSec": 137.2,
       "endSec": 143.7,
-      "text": "For example, let's say you are on a team with someone who never faces responsibility for"
+      "text": "For example, let's say you are on a team with someone who never faces responsibility for",
+      "words": [
+        {
+          "startSec": 137.2,
+          "endSec": 138,
+          "text": "For"
+        },
+        {
+          "startSec": 138,
+          "endSec": 138.2,
+          "text": "example,"
+        },
+        {
+          "startSec": 138.2,
+          "endSec": 138.6,
+          "text": "let's"
+        },
+        {
+          "startSec": 138.6,
+          "endSec": 138.9,
+          "text": "say"
+        },
+        {
+          "startSec": 138.9,
+          "endSec": 139.2,
+          "text": "you"
+        },
+        {
+          "startSec": 139.2,
+          "endSec": 139.4,
+          "text": "are"
+        },
+        {
+          "startSec": 139.4,
+          "endSec": 139.6,
+          "text": "on"
+        },
+        {
+          "startSec": 139.6,
+          "endSec": 139.7,
+          "text": "a"
+        },
+        {
+          "startSec": 139.7,
+          "endSec": 140,
+          "text": "team"
+        },
+        {
+          "startSec": 140,
+          "endSec": 140.4,
+          "text": "with"
+        },
+        {
+          "startSec": 140.4,
+          "endSec": 141,
+          "text": "someone"
+        },
+        {
+          "startSec": 141,
+          "endSec": 141.3,
+          "text": "who"
+        },
+        {
+          "startSec": 141.3,
+          "endSec": 141.7,
+          "text": "never"
+        },
+        {
+          "startSec": 141.7,
+          "endSec": 142.1,
+          "text": "faces"
+        },
+        {
+          "startSec": 142.1,
+          "endSec": 143.5,
+          "text": "responsibility"
+        },
+        {
+          "startSec": 143.5,
+          "endSec": 143.7,
+          "text": "for"
+        },
+        {
+          "startSec": 143.7,
+          "endSec": 144.6,
+          "text": "their"
+        }
+      ]
     },
     {
       "startSec": 143.7,
       "endSec": 147.3,
-      "text": "their mistakes in the game."
+      "text": "their mistakes in the game.",
+      "words": [
+        {
+          "startSec": 143.7,
+          "endSec": 144.6,
+          "text": "their"
+        },
+        {
+          "startSec": 144.6,
+          "endSec": 145.6,
+          "text": "mistakes"
+        },
+        {
+          "startSec": 145.6,
+          "endSec": 145.8,
+          "text": "in"
+        },
+        {
+          "startSec": 145.8,
+          "endSec": 146.3,
+          "text": "the"
+        },
+        {
+          "startSec": 146.3,
+          "endSec": 147.3,
+          "text": "game."
+        },
+        {
+          "startSec": 147.3,
+          "endSec": 148.2,
+          "text": "If"
+        }
+      ]
     },
     {
       "startSec": 147.3,
       "endSec": 155.2,
-      "text": "If brought to account, the player always blames the dropped ball on other teammates."
+      "text": "If brought to account, the player always blames the dropped ball on other teammates.",
+      "words": [
+        {
+          "startSec": 147.3,
+          "endSec": 148.2,
+          "text": "If"
+        },
+        {
+          "startSec": 148.2,
+          "endSec": 148.2,
+          "text": "brought"
+        },
+        {
+          "startSec": 148.2,
+          "endSec": 148.4,
+          "text": "to"
+        },
+        {
+          "startSec": 148.4,
+          "endSec": 149.4,
+          "text": "account,"
+        },
+        {
+          "startSec": 149.4,
+          "endSec": 149.7,
+          "text": "the"
+        },
+        {
+          "startSec": 149.7,
+          "endSec": 150.3,
+          "text": "player"
+        },
+        {
+          "startSec": 150.3,
+          "endSec": 151,
+          "text": "always"
+        },
+        {
+          "startSec": 151,
+          "endSec": 151.6,
+          "text": "blames"
+        },
+        {
+          "startSec": 151.6,
+          "endSec": 151.9,
+          "text": "the"
+        },
+        {
+          "startSec": 151.9,
+          "endSec": 152.6,
+          "text": "dropped"
+        },
+        {
+          "startSec": 152.6,
+          "endSec": 153.1,
+          "text": "ball"
+        },
+        {
+          "startSec": 153.1,
+          "endSec": 153.3,
+          "text": "on"
+        },
+        {
+          "startSec": 153.3,
+          "endSec": 153.8,
+          "text": "other"
+        },
+        {
+          "startSec": 153.8,
+          "endSec": 155.2,
+          "text": "teammates."
+        },
+        {
+          "startSec": 155.2,
+          "endSec": 155.5,
+          "text": "You"
+        }
+      ]
     },
     {
       "startSec": 155.2,
       "endSec": 161.5,
-      "text": "You can say that player is having a knee-jerk reaction to criticism."
+      "text": "You can say that player is having a knee-jerk reaction to criticism.",
+      "words": [
+        {
+          "startSec": 155.2,
+          "endSec": 155.5,
+          "text": "You"
+        },
+        {
+          "startSec": 155.5,
+          "endSec": 156.1,
+          "text": "can"
+        },
+        {
+          "startSec": 156.1,
+          "endSec": 156.1,
+          "text": "say"
+        },
+        {
+          "startSec": 156.1,
+          "endSec": 156.5,
+          "text": "that"
+        },
+        {
+          "startSec": 156.5,
+          "endSec": 157.2,
+          "text": "player"
+        },
+        {
+          "startSec": 157.2,
+          "endSec": 157.4,
+          "text": "is"
+        },
+        {
+          "startSec": 157.4,
+          "endSec": 158,
+          "text": "having"
+        },
+        {
+          "startSec": 158,
+          "endSec": 158.1,
+          "text": "a"
+        },
+        {
+          "startSec": 158.1,
+          "endSec": 159.1,
+          "text": "knee-jerk"
+        },
+        {
+          "startSec": 159.1,
+          "endSec": 159.9,
+          "text": "reaction"
+        },
+        {
+          "startSec": 159.9,
+          "endSec": 160.1,
+          "text": "to"
+        },
+        {
+          "startSec": 160.1,
+          "endSec": 161.5,
+          "text": "criticism."
+        },
+        {
+          "startSec": 161.5,
+          "endSec": 162.4,
+          "text": "They"
+        }
+      ]
     },
     {
       "startSec": 161.5,
       "endSec": 164.7,
-      "text": "They have a go-to response."
+      "text": "They have a go-to response.",
+      "words": [
+        {
+          "startSec": 161.5,
+          "endSec": 162.4,
+          "text": "They"
+        },
+        {
+          "startSec": 162.4,
+          "endSec": 162.5,
+          "text": "have"
+        },
+        {
+          "startSec": 162.5,
+          "endSec": 162.6,
+          "text": "a"
+        },
+        {
+          "startSec": 162.6,
+          "endSec": 163.2,
+          "text": "go-to"
+        },
+        {
+          "startSec": 163.2,
+          "endSec": 164.7,
+          "text": "response."
+        },
+        {
+          "startSec": 164.7,
+          "endSec": 165.6,
+          "text": "It's"
+        }
+      ]
     },
     {
       "startSec": 164.7,
       "endSec": 169.1,
-      "text": "It's like a reflex they can't control."
+      "text": "It's like a reflex they can't control.",
+      "words": [
+        {
+          "startSec": 164.7,
+          "endSec": 165.6,
+          "text": "It's"
+        },
+        {
+          "startSec": 165.6,
+          "endSec": 165.7,
+          "text": "like"
+        },
+        {
+          "startSec": 165.7,
+          "endSec": 165.8,
+          "text": "a"
+        },
+        {
+          "startSec": 165.8,
+          "endSec": 166.6,
+          "text": "reflex"
+        },
+        {
+          "startSec": 166.6,
+          "endSec": 167.1,
+          "text": "they"
+        },
+        {
+          "startSec": 167.1,
+          "endSec": 167.7,
+          "text": "can't"
+        },
+        {
+          "startSec": 167.7,
+          "endSec": 169.1,
+          "text": "control."
+        },
+        {
+          "startSec": 169.1,
+          "endSec": 170,
+          "text": "We"
+        }
+      ]
     },
     {
       "startSec": 169.1,
       "endSec": 176.4,
-      "text": "We often use knee-jerk in a criticizing or negative way."
+      "text": "We often use knee-jerk in a criticizing or negative way.",
+      "words": [
+        {
+          "startSec": 169.1,
+          "endSec": 170,
+          "text": "We"
+        },
+        {
+          "startSec": 170,
+          "endSec": 170.1,
+          "text": "often"
+        },
+        {
+          "startSec": 170.1,
+          "endSec": 170.6,
+          "text": "use"
+        },
+        {
+          "startSec": 170.6,
+          "endSec": 171.9,
+          "text": "knee-jerk"
+        },
+        {
+          "startSec": 171.9,
+          "endSec": 172.2,
+          "text": "in"
+        },
+        {
+          "startSec": 172.2,
+          "endSec": 172.4,
+          "text": "a"
+        },
+        {
+          "startSec": 172.4,
+          "endSec": 174,
+          "text": "criticizing"
+        },
+        {
+          "startSec": 174,
+          "endSec": 174.3,
+          "text": "or"
+        },
+        {
+          "startSec": 174.3,
+          "endSec": 175.5,
+          "text": "negative"
+        },
+        {
+          "startSec": 175.5,
+          "endSec": 176.4,
+          "text": "way."
+        },
+        {
+          "startSec": 176.4,
+          "endSec": 176.8,
+          "text": "Now"
+        }
+      ]
     },
     {
       "startSec": 176.4,
       "endSec": 185.3,
-      "text": "Now a gut reaction also happens without thinking, but it is a bit different than a knee-jerk"
+      "text": "Now a gut reaction also happens without thinking, but it is a bit different than a knee-jerk",
+      "words": [
+        {
+          "startSec": 176.4,
+          "endSec": 176.8,
+          "text": "Now"
+        },
+        {
+          "startSec": 176.8,
+          "endSec": 177.2,
+          "text": "a"
+        },
+        {
+          "startSec": 177.2,
+          "endSec": 177.3,
+          "text": "gut"
+        },
+        {
+          "startSec": 177.3,
+          "endSec": 178.1,
+          "text": "reaction"
+        },
+        {
+          "startSec": 178.1,
+          "endSec": 178.6,
+          "text": "also"
+        },
+        {
+          "startSec": 178.6,
+          "endSec": 179.4,
+          "text": "happens"
+        },
+        {
+          "startSec": 179.4,
+          "endSec": 180.2,
+          "text": "without"
+        },
+        {
+          "startSec": 180.2,
+          "endSec": 181.3,
+          "text": "thinking,"
+        },
+        {
+          "startSec": 181.3,
+          "endSec": 181.7,
+          "text": "but"
+        },
+        {
+          "startSec": 181.7,
+          "endSec": 181.9,
+          "text": "it"
+        },
+        {
+          "startSec": 181.9,
+          "endSec": 182.1,
+          "text": "is"
+        },
+        {
+          "startSec": 182.1,
+          "endSec": 182.2,
+          "text": "a"
+        },
+        {
+          "startSec": 182.2,
+          "endSec": 182.6,
+          "text": "bit"
+        },
+        {
+          "startSec": 182.6,
+          "endSec": 183.6,
+          "text": "different"
+        },
+        {
+          "startSec": 183.6,
+          "endSec": 184.1,
+          "text": "than"
+        },
+        {
+          "startSec": 184.1,
+          "endSec": 184.2,
+          "text": "a"
+        },
+        {
+          "startSec": 184.2,
+          "endSec": 185.3,
+          "text": "knee-jerk"
+        },
+        {
+          "startSec": 185.3,
+          "endSec": 187.2,
+          "text": "response."
+        }
+      ]
     },
     {
       "startSec": 185.3,
       "endSec": 187.2,
-      "text": "response."
+      "text": "response.",
+      "words": [
+        {
+          "startSec": 185.3,
+          "endSec": 187.2,
+          "text": "response."
+        },
+        {
+          "startSec": 187.2,
+          "endSec": 187.4,
+          "text": "A"
+        }
+      ]
     },
     {
       "startSec": 187.2,
       "endSec": 191.4,
-      "text": "A gut reaction is a feeling."
+      "text": "A gut reaction is a feeling.",
+      "words": [
+        {
+          "startSec": 187.2,
+          "endSec": 187.4,
+          "text": "A"
+        },
+        {
+          "startSec": 187.4,
+          "endSec": 188.1,
+          "text": "gut"
+        },
+        {
+          "startSec": 188.1,
+          "endSec": 189.2,
+          "text": "reaction"
+        },
+        {
+          "startSec": 189.2,
+          "endSec": 189.5,
+          "text": "is"
+        },
+        {
+          "startSec": 189.5,
+          "endSec": 189.7,
+          "text": "a"
+        },
+        {
+          "startSec": 189.7,
+          "endSec": 191.4,
+          "text": "feeling."
+        },
+        {
+          "startSec": 191.4,
+          "endSec": 191.8,
+          "text": "When"
+        }
+      ]
     },
     {
       "startSec": 191.4,
       "endSec": 199.6,
-      "text": "When we have a gut reaction, our instincts are telling us that something may not be right."
+      "text": "When we have a gut reaction, our instincts are telling us that something may not be right.",
+      "words": [
+        {
+          "startSec": 191.4,
+          "endSec": 191.8,
+          "text": "When"
+        },
+        {
+          "startSec": 191.8,
+          "endSec": 192.3,
+          "text": "we"
+        },
+        {
+          "startSec": 192.3,
+          "endSec": 192.3,
+          "text": "have"
+        },
+        {
+          "startSec": 192.3,
+          "endSec": 192.4,
+          "text": "a"
+        },
+        {
+          "startSec": 192.4,
+          "endSec": 192.7,
+          "text": "gut"
+        },
+        {
+          "startSec": 192.7,
+          "endSec": 193.6,
+          "text": "reaction,"
+        },
+        {
+          "startSec": 193.6,
+          "endSec": 193.8,
+          "text": "our"
+        },
+        {
+          "startSec": 193.8,
+          "endSec": 194.7,
+          "text": "instincts"
+        },
+        {
+          "startSec": 194.7,
+          "endSec": 194.9,
+          "text": "are"
+        },
+        {
+          "startSec": 194.9,
+          "endSec": 195.6,
+          "text": "telling"
+        },
+        {
+          "startSec": 195.6,
+          "endSec": 195.8,
+          "text": "us"
+        },
+        {
+          "startSec": 195.8,
+          "endSec": 196.1,
+          "text": "that"
+        },
+        {
+          "startSec": 196.1,
+          "endSec": 196.9,
+          "text": "something"
+        },
+        {
+          "startSec": 196.9,
+          "endSec": 197.2,
+          "text": "may"
+        },
+        {
+          "startSec": 197.2,
+          "endSec": 197.5,
+          "text": "not"
+        },
+        {
+          "startSec": 197.5,
+          "endSec": 197.7,
+          "text": "be"
+        },
+        {
+          "startSec": 197.7,
+          "endSec": 199.6,
+          "text": "right."
+        },
+        {
+          "startSec": 199.6,
+          "endSec": 200.5,
+          "text": "Gut"
+        }
+      ]
     },
     {
       "startSec": 199.6,
       "endSec": 204.8,
-      "text": "Gut reactions are instinctual warnings."
+      "text": "Gut reactions are instinctual warnings.",
+      "words": [
+        {
+          "startSec": 199.6,
+          "endSec": 200.5,
+          "text": "Gut"
+        },
+        {
+          "startSec": 200.5,
+          "endSec": 201.3,
+          "text": "reactions"
+        },
+        {
+          "startSec": 201.3,
+          "endSec": 201.7,
+          "text": "are"
+        },
+        {
+          "startSec": 201.7,
+          "endSec": 203.3,
+          "text": "instinctual"
+        },
+        {
+          "startSec": 203.3,
+          "endSec": 204.8,
+          "text": "warnings."
+        },
+        {
+          "startSec": 204.8,
+          "endSec": 205.1,
+          "text": "So"
+        }
+      ]
     },
     {
       "startSec": 204.8,
       "endSec": 210.7,
-      "text": "So we use this expression a bit differently than knee-jerk."
+      "text": "So we use this expression a bit differently than knee-jerk.",
+      "words": [
+        {
+          "startSec": 204.8,
+          "endSec": 205.1,
+          "text": "So"
+        },
+        {
+          "startSec": 205.1,
+          "endSec": 205.6,
+          "text": "we"
+        },
+        {
+          "startSec": 205.6,
+          "endSec": 205.7,
+          "text": "use"
+        },
+        {
+          "startSec": 205.7,
+          "endSec": 206.1,
+          "text": "this"
+        },
+        {
+          "startSec": 206.1,
+          "endSec": 207.2,
+          "text": "expression"
+        },
+        {
+          "startSec": 207.2,
+          "endSec": 207.3,
+          "text": "a"
+        },
+        {
+          "startSec": 207.3,
+          "endSec": 207.6,
+          "text": "bit"
+        },
+        {
+          "startSec": 207.6,
+          "endSec": 208.9,
+          "text": "differently"
+        },
+        {
+          "startSec": 208.9,
+          "endSec": 209.3,
+          "text": "than"
+        },
+        {
+          "startSec": 209.3,
+          "endSec": 210.7,
+          "text": "knee-jerk."
+        },
+        {
+          "startSec": 210.7,
+          "endSec": 211.6,
+          "text": "We"
+        }
+      ]
     },
     {
       "startSec": 210.7,
       "endSec": 219,
-      "text": "We usually talk about our own gut reactions or impulses, not others."
+      "text": "We usually talk about our own gut reactions or impulses, not others.",
+      "words": [
+        {
+          "startSec": 210.7,
+          "endSec": 211.6,
+          "text": "We"
+        },
+        {
+          "startSec": 211.6,
+          "endSec": 212,
+          "text": "usually"
+        },
+        {
+          "startSec": 212,
+          "endSec": 212.5,
+          "text": "talk"
+        },
+        {
+          "startSec": 212.5,
+          "endSec": 213.2,
+          "text": "about"
+        },
+        {
+          "startSec": 213.2,
+          "endSec": 213.6,
+          "text": "our"
+        },
+        {
+          "startSec": 213.6,
+          "endSec": 214,
+          "text": "own"
+        },
+        {
+          "startSec": 214,
+          "endSec": 214.4,
+          "text": "gut"
+        },
+        {
+          "startSec": 214.4,
+          "endSec": 215.7,
+          "text": "reactions"
+        },
+        {
+          "startSec": 215.7,
+          "endSec": 215.9,
+          "text": "or"
+        },
+        {
+          "startSec": 215.9,
+          "endSec": 217.3,
+          "text": "impulses,"
+        },
+        {
+          "startSec": 217.3,
+          "endSec": 217.7,
+          "text": "not"
+        },
+        {
+          "startSec": 217.7,
+          "endSec": 219,
+          "text": "others."
+        },
+        {
+          "startSec": 219,
+          "endSec": 219.7,
+          "text": "Here"
+        }
+      ]
     },
     {
       "startSec": 219,
       "endSec": 221.1,
-      "text": "Here is an example."
+      "text": "Here is an example.",
+      "words": [
+        {
+          "startSec": 219,
+          "endSec": 219.7,
+          "text": "Here"
+        },
+        {
+          "startSec": 219.7,
+          "endSec": 219.9,
+          "text": "is"
+        },
+        {
+          "startSec": 219.9,
+          "endSec": 220,
+          "text": "an"
+        },
+        {
+          "startSec": 220,
+          "endSec": 221.1,
+          "text": "example."
+        },
+        {
+          "startSec": 221.1,
+          "endSec": 221.4,
+          "text": "One"
+        }
+      ]
     },
     {
       "startSec": 221.1,
       "endSec": 225.5,
-      "text": "One day I was hiking on a mountain in California."
+      "text": "One day I was hiking on a mountain in California.",
+      "words": [
+        {
+          "startSec": 221.1,
+          "endSec": 221.4,
+          "text": "One"
+        },
+        {
+          "startSec": 221.4,
+          "endSec": 221.8,
+          "text": "day"
+        },
+        {
+          "startSec": 221.8,
+          "endSec": 222,
+          "text": "I"
+        },
+        {
+          "startSec": 222,
+          "endSec": 222.2,
+          "text": "was"
+        },
+        {
+          "startSec": 222.2,
+          "endSec": 222.8,
+          "text": "hiking"
+        },
+        {
+          "startSec": 222.8,
+          "endSec": 223,
+          "text": "on"
+        },
+        {
+          "startSec": 223,
+          "endSec": 223.1,
+          "text": "a"
+        },
+        {
+          "startSec": 223.1,
+          "endSec": 223.9,
+          "text": "mountain"
+        },
+        {
+          "startSec": 223.9,
+          "endSec": 224.1,
+          "text": "in"
+        },
+        {
+          "startSec": 224.1,
+          "endSec": 225.5,
+          "text": "California."
+        },
+        {
+          "startSec": 225.5,
+          "endSec": 225.6,
+          "text": "I"
+        }
+      ]
     },
     {
       "startSec": 225.5,
       "endSec": 231.2,
-      "text": "I had hiked for about two hours and was near the top."
+      "text": "I had hiked for about two hours and was near the top.",
+      "words": [
+        {
+          "startSec": 225.5,
+          "endSec": 225.6,
+          "text": "I"
+        },
+        {
+          "startSec": 225.6,
+          "endSec": 226,
+          "text": "had"
+        },
+        {
+          "startSec": 226,
+          "endSec": 226.7,
+          "text": "hiked"
+        },
+        {
+          "startSec": 226.7,
+          "endSec": 227,
+          "text": "for"
+        },
+        {
+          "startSec": 227,
+          "endSec": 227.7,
+          "text": "about"
+        },
+        {
+          "startSec": 227.7,
+          "endSec": 228.1,
+          "text": "two"
+        },
+        {
+          "startSec": 228.1,
+          "endSec": 228.7,
+          "text": "hours"
+        },
+        {
+          "startSec": 228.7,
+          "endSec": 229.1,
+          "text": "and"
+        },
+        {
+          "startSec": 229.1,
+          "endSec": 229.5,
+          "text": "was"
+        },
+        {
+          "startSec": 229.5,
+          "endSec": 230,
+          "text": "near"
+        },
+        {
+          "startSec": 230,
+          "endSec": 230.4,
+          "text": "the"
+        },
+        {
+          "startSec": 230.4,
+          "endSec": 231.2,
+          "text": "top."
+        },
+        {
+          "startSec": 231.2,
+          "endSec": 232.1,
+          "text": "The"
+        }
+      ]
     },
     {
       "startSec": 231.2,
       "endSec": 235.7,
-      "text": "The view I was told was truly beautiful."
+      "text": "The view I was told was truly beautiful.",
+      "words": [
+        {
+          "startSec": 231.2,
+          "endSec": 232.1,
+          "text": "The"
+        },
+        {
+          "startSec": 232.1,
+          "endSec": 232.1,
+          "text": "view"
+        },
+        {
+          "startSec": 232.1,
+          "endSec": 232.2,
+          "text": "I"
+        },
+        {
+          "startSec": 232.2,
+          "endSec": 232.6,
+          "text": "was"
+        },
+        {
+          "startSec": 232.6,
+          "endSec": 233.1,
+          "text": "told"
+        },
+        {
+          "startSec": 233.1,
+          "endSec": 233.5,
+          "text": "was"
+        },
+        {
+          "startSec": 233.5,
+          "endSec": 234.1,
+          "text": "truly"
+        },
+        {
+          "startSec": 234.1,
+          "endSec": 235.7,
+          "text": "beautiful."
+        },
+        {
+          "startSec": 235.7,
+          "endSec": 236.5,
+          "text": "I"
+        }
+      ]
     },
     {
       "startSec": 235.7,
       "endSec": 238.5,
-      "text": "I couldn't wait to see it."
+      "text": "I couldn't wait to see it.",
+      "words": [
+        {
+          "startSec": 235.7,
+          "endSec": 236.5,
+          "text": "I"
+        },
+        {
+          "startSec": 236.5,
+          "endSec": 236.8,
+          "text": "couldn't"
+        },
+        {
+          "startSec": 236.8,
+          "endSec": 237.3,
+          "text": "wait"
+        },
+        {
+          "startSec": 237.3,
+          "endSec": 237.5,
+          "text": "to"
+        },
+        {
+          "startSec": 237.5,
+          "endSec": 237.9,
+          "text": "see"
+        },
+        {
+          "startSec": 237.9,
+          "endSec": 238.5,
+          "text": "it."
+        },
+        {
+          "startSec": 238.5,
+          "endSec": 239.4,
+          "text": "Then,"
+        }
+      ]
     },
     {
       "startSec": 238.5,
       "endSec": 243.2,
-      "text": "Then, suddenly, I had a strange feeling."
+      "text": "Then, suddenly, I had a strange feeling.",
+      "words": [
+        {
+          "startSec": 238.5,
+          "endSec": 239.4,
+          "text": "Then,"
+        },
+        {
+          "startSec": 239.4,
+          "endSec": 240.5,
+          "text": "suddenly,"
+        },
+        {
+          "startSec": 240.5,
+          "endSec": 240.6,
+          "text": "I"
+        },
+        {
+          "startSec": 240.6,
+          "endSec": 241,
+          "text": "had"
+        },
+        {
+          "startSec": 241,
+          "endSec": 241.1,
+          "text": "a"
+        },
+        {
+          "startSec": 241.1,
+          "endSec": 241.9,
+          "text": "strange"
+        },
+        {
+          "startSec": 241.9,
+          "endSec": 243.2,
+          "text": "feeling."
+        },
+        {
+          "startSec": 243.2,
+          "endSec": 244.1,
+          "text": "Something"
+        }
+      ]
     },
     {
       "startSec": 243.2,
       "endSec": 245.8,
-      "text": "Something just didn't feel right."
+      "text": "Something just didn't feel right.",
+      "words": [
+        {
+          "startSec": 243.2,
+          "endSec": 244.1,
+          "text": "Something"
+        },
+        {
+          "startSec": 244.1,
+          "endSec": 244.3,
+          "text": "just"
+        },
+        {
+          "startSec": 244.3,
+          "endSec": 244.8,
+          "text": "didn't"
+        },
+        {
+          "startSec": 244.8,
+          "endSec": 245.1,
+          "text": "feel"
+        },
+        {
+          "startSec": 245.1,
+          "endSec": 245.8,
+          "text": "right."
+        },
+        {
+          "startSec": 245.8,
+          "endSec": 245.9,
+          "text": "I"
+        }
+      ]
     },
     {
       "startSec": 245.8,
       "endSec": 254.6,
-      "text": "I can't explain why, but my gut instinct was to turn around and head back down the mountain."
+      "text": "I can't explain why, but my gut instinct was to turn around and head back down the mountain.",
+      "words": [
+        {
+          "startSec": 245.8,
+          "endSec": 245.9,
+          "text": "I"
+        },
+        {
+          "startSec": 245.9,
+          "endSec": 246.7,
+          "text": "can't"
+        },
+        {
+          "startSec": 246.7,
+          "endSec": 247.1,
+          "text": "explain"
+        },
+        {
+          "startSec": 247.1,
+          "endSec": 247.6,
+          "text": "why,"
+        },
+        {
+          "startSec": 247.6,
+          "endSec": 247.9,
+          "text": "but"
+        },
+        {
+          "startSec": 247.9,
+          "endSec": 248.1,
+          "text": "my"
+        },
+        {
+          "startSec": 248.1,
+          "endSec": 248.4,
+          "text": "gut"
+        },
+        {
+          "startSec": 248.4,
+          "endSec": 249.2,
+          "text": "instinct"
+        },
+        {
+          "startSec": 249.2,
+          "endSec": 249.6,
+          "text": "was"
+        },
+        {
+          "startSec": 249.6,
+          "endSec": 249.8,
+          "text": "to"
+        },
+        {
+          "startSec": 249.8,
+          "endSec": 250.2,
+          "text": "turn"
+        },
+        {
+          "startSec": 250.2,
+          "endSec": 250.8,
+          "text": "around"
+        },
+        {
+          "startSec": 250.8,
+          "endSec": 251.1,
+          "text": "and"
+        },
+        {
+          "startSec": 251.1,
+          "endSec": 251.5,
+          "text": "head"
+        },
+        {
+          "startSec": 251.5,
+          "endSec": 251.9,
+          "text": "back"
+        },
+        {
+          "startSec": 251.9,
+          "endSec": 252.3,
+          "text": "down"
+        },
+        {
+          "startSec": 252.3,
+          "endSec": 252.7,
+          "text": "the"
+        },
+        {
+          "startSec": 252.7,
+          "endSec": 254.6,
+          "text": "mountain."
+        },
+        {
+          "startSec": 254.6,
+          "endSec": 254.7,
+          "text": "I"
+        }
+      ]
     },
     {
       "startSec": 254.6,
       "endSec": 262,
-      "text": "I later found out that a dangerous bear had been sighted in the same area that I had fled."
+      "text": "I later found out that a dangerous bear had been sighted in the same area that I had fled.",
+      "words": [
+        {
+          "startSec": 254.6,
+          "endSec": 254.7,
+          "text": "I"
+        },
+        {
+          "startSec": 254.7,
+          "endSec": 255.5,
+          "text": "later"
+        },
+        {
+          "startSec": 255.5,
+          "endSec": 255.7,
+          "text": "found"
+        },
+        {
+          "startSec": 255.7,
+          "endSec": 255.9,
+          "text": "out"
+        },
+        {
+          "startSec": 255.9,
+          "endSec": 256.3,
+          "text": "that"
+        },
+        {
+          "startSec": 256.3,
+          "endSec": 256.4,
+          "text": "a"
+        },
+        {
+          "startSec": 256.4,
+          "endSec": 257.3,
+          "text": "dangerous"
+        },
+        {
+          "startSec": 257.3,
+          "endSec": 257.7,
+          "text": "bear"
+        },
+        {
+          "startSec": 257.7,
+          "endSec": 258,
+          "text": "had"
+        },
+        {
+          "startSec": 258,
+          "endSec": 258.3,
+          "text": "been"
+        },
+        {
+          "startSec": 258.3,
+          "endSec": 259,
+          "text": "sighted"
+        },
+        {
+          "startSec": 259,
+          "endSec": 259.2,
+          "text": "in"
+        },
+        {
+          "startSec": 259.2,
+          "endSec": 259.5,
+          "text": "the"
+        },
+        {
+          "startSec": 259.5,
+          "endSec": 259.9,
+          "text": "same"
+        },
+        {
+          "startSec": 259.9,
+          "endSec": 260.3,
+          "text": "area"
+        },
+        {
+          "startSec": 260.3,
+          "endSec": 260.6,
+          "text": "that"
+        },
+        {
+          "startSec": 260.6,
+          "endSec": 260.7,
+          "text": "I"
+        },
+        {
+          "startSec": 260.7,
+          "endSec": 261.1,
+          "text": "had"
+        },
+        {
+          "startSec": 261.1,
+          "endSec": 262,
+          "text": "fled."
+        },
+        {
+          "startSec": 262,
+          "endSec": 262.1,
+          "text": "I"
+        }
+      ]
     },
     {
       "startSec": 262,
       "endSec": 267.6,
-      "text": "I am so thankful I listened to my gut instinct."
+      "text": "I am so thankful I listened to my gut instinct.",
+      "words": [
+        {
+          "startSec": 262,
+          "endSec": 262.1,
+          "text": "I"
+        },
+        {
+          "startSec": 262.1,
+          "endSec": 262.7,
+          "text": "am"
+        },
+        {
+          "startSec": 262.7,
+          "endSec": 262.9,
+          "text": "so"
+        },
+        {
+          "startSec": 262.9,
+          "endSec": 263.8,
+          "text": "thankful"
+        },
+        {
+          "startSec": 263.8,
+          "endSec": 264,
+          "text": "I"
+        },
+        {
+          "startSec": 264,
+          "endSec": 265.1,
+          "text": "listened"
+        },
+        {
+          "startSec": 265.1,
+          "endSec": 265.3,
+          "text": "to"
+        },
+        {
+          "startSec": 265.3,
+          "endSec": 265.6,
+          "text": "my"
+        },
+        {
+          "startSec": 265.6,
+          "endSec": 266,
+          "text": "gut"
+        },
+        {
+          "startSec": 266,
+          "endSec": 267.6,
+          "text": "instinct."
+        },
+        {
+          "startSec": 267.6,
+          "endSec": 267.9,
+          "text": "And"
+        }
+      ]
     },
     {
       "startSec": 267.6,
       "endSec": 270.2,
-      "text": "And that's words in their stories."
+      "text": "And that's words in their stories.",
+      "words": [
+        {
+          "startSec": 267.6,
+          "endSec": 267.9,
+          "text": "And"
+        },
+        {
+          "startSec": 267.9,
+          "endSec": 268.5,
+          "text": "that's"
+        },
+        {
+          "startSec": 268.5,
+          "endSec": 268.8,
+          "text": "words"
+        },
+        {
+          "startSec": 268.8,
+          "endSec": 268.9,
+          "text": "in"
+        },
+        {
+          "startSec": 268.9,
+          "endSec": 269.3,
+          "text": "their"
+        },
+        {
+          "startSec": 269.3,
+          "endSec": 270.2,
+          "text": "stories."
+        }
+      ]
     },
     {
       "startSec": 270.2,
       "endSec": 285.9,
-      "text": "Until next time, I'm Anna Mateo."
+      "text": "Until next time, I'm Anna Mateo.",
+      "words": [
+        {
+          "startSec": 271.1,
+          "endSec": 272.8,
+          "text": "Until"
+        },
+        {
+          "startSec": 272.8,
+          "endSec": 274.9,
+          "text": "next"
+        },
+        {
+          "startSec": 274.9,
+          "endSec": 278,
+          "text": "time,"
+        },
+        {
+          "startSec": 278,
+          "endSec": 279.6,
+          "text": "I'm"
+        },
+        {
+          "startSec": 279.6,
+          "endSec": 281.7,
+          "text": "Anna"
+        },
+        {
+          "startSec": 281.7,
+          "endSec": 285.9,
+          "text": "Mateo."
+        }
+      ]
     }
   ],
   "cefr": "B2",

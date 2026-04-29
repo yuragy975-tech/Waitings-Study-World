@@ -9,207 +9,3319 @@
     {
       "startSec": 0,
       "endSec": 13,
-      "text": "Scientists, say Europe's Euclid Space Telescope has discovered a bright ring of light, circling a nearby galaxy."
+      "text": "Scientists, say Europe's Euclid Space Telescope has discovered a bright ring of light, circling a nearby galaxy.",
+      "words": [
+        {
+          "startSec": 0.2,
+          "endSec": 1.8,
+          "text": "Scientists,"
+        },
+        {
+          "startSec": 1.8,
+          "endSec": 2.1,
+          "text": "say"
+        },
+        {
+          "startSec": 2.1,
+          "endSec": 3.3,
+          "text": "Europe's"
+        },
+        {
+          "startSec": 3.3,
+          "endSec": 4,
+          "text": "Euclid"
+        },
+        {
+          "startSec": 4,
+          "endSec": 4.7,
+          "text": "Space"
+        },
+        {
+          "startSec": 4.7,
+          "endSec": 6.2,
+          "text": "Telescope"
+        },
+        {
+          "startSec": 6.2,
+          "endSec": 6.3,
+          "text": "has"
+        },
+        {
+          "startSec": 6.3,
+          "endSec": 7.4,
+          "text": "discovered"
+        },
+        {
+          "startSec": 7.4,
+          "endSec": 7.4,
+          "text": "a"
+        },
+        {
+          "startSec": 7.4,
+          "endSec": 8.1,
+          "text": "bright"
+        },
+        {
+          "startSec": 8.1,
+          "endSec": 8.3,
+          "text": "ring"
+        },
+        {
+          "startSec": 8.3,
+          "endSec": 8.5,
+          "text": "of"
+        },
+        {
+          "startSec": 8.5,
+          "endSec": 9.7,
+          "text": "light,"
+        },
+        {
+          "startSec": 9.7,
+          "endSec": 10.7,
+          "text": "circling"
+        },
+        {
+          "startSec": 10.7,
+          "endSec": 10.8,
+          "text": "a"
+        },
+        {
+          "startSec": 10.8,
+          "endSec": 11.6,
+          "text": "nearby"
+        },
+        {
+          "startSec": 11.6,
+          "endSec": 13,
+          "text": "galaxy."
+        },
+        {
+          "startSec": 13,
+          "endSec": 13.4,
+          "text": "The"
+        }
+      ]
     },
     {
       "startSec": 13,
       "endSec": 19,
-      "text": "The observed light is known as an Einstein ring."
+      "text": "The observed light is known as an Einstein ring.",
+      "words": [
+        {
+          "startSec": 13,
+          "endSec": 13.4,
+          "text": "The"
+        },
+        {
+          "startSec": 13.4,
+          "endSec": 14.6,
+          "text": "observed"
+        },
+        {
+          "startSec": 14.6,
+          "endSec": 15.3,
+          "text": "light"
+        },
+        {
+          "startSec": 15.3,
+          "endSec": 15.6,
+          "text": "is"
+        },
+        {
+          "startSec": 15.6,
+          "endSec": 16.3,
+          "text": "known"
+        },
+        {
+          "startSec": 16.3,
+          "endSec": 16.5,
+          "text": "as"
+        },
+        {
+          "startSec": 16.5,
+          "endSec": 16.8,
+          "text": "an"
+        },
+        {
+          "startSec": 16.8,
+          "endSec": 18,
+          "text": "Einstein"
+        },
+        {
+          "startSec": 18,
+          "endSec": 19,
+          "text": "ring."
+        }
+      ]
     },
     {
       "startSec": 19,
       "endSec": 31,
-      "text": "Researchers have estimated the ring in circles a galaxy, 590 million light years away from Earth."
+      "text": "Researchers have estimated the ring in circles a galaxy, 590 million light years away from Earth.",
+      "words": [
+        {
+          "startSec": 19.2,
+          "endSec": 20.5,
+          "text": "Researchers"
+        },
+        {
+          "startSec": 20.5,
+          "endSec": 21,
+          "text": "have"
+        },
+        {
+          "startSec": 21,
+          "endSec": 22.1,
+          "text": "estimated"
+        },
+        {
+          "startSec": 22.1,
+          "endSec": 22.5,
+          "text": "the"
+        },
+        {
+          "startSec": 22.5,
+          "endSec": 23,
+          "text": "ring"
+        },
+        {
+          "startSec": 23,
+          "endSec": 23.3,
+          "text": "in"
+        },
+        {
+          "startSec": 23.3,
+          "endSec": 24.2,
+          "text": "circles"
+        },
+        {
+          "startSec": 24.2,
+          "endSec": 24.4,
+          "text": "a"
+        },
+        {
+          "startSec": 24.4,
+          "endSec": 25.5,
+          "text": "galaxy,"
+        },
+        {
+          "startSec": 25.5,
+          "endSec": 26.7,
+          "text": "590"
+        },
+        {
+          "startSec": 26.7,
+          "endSec": 27.5,
+          "text": "million"
+        },
+        {
+          "startSec": 27.5,
+          "endSec": 28.5,
+          "text": "light"
+        },
+        {
+          "startSec": 28.5,
+          "endSec": 28.8,
+          "text": "years"
+        },
+        {
+          "startSec": 28.8,
+          "endSec": 29.3,
+          "text": "away"
+        },
+        {
+          "startSec": 29.3,
+          "endSec": 29.8,
+          "text": "from"
+        },
+        {
+          "startSec": 29.8,
+          "endSec": 31,
+          "text": "Earth."
+        },
+        {
+          "startSec": 31,
+          "endSec": 31.2,
+          "text": "A"
+        }
+      ]
     },
     {
       "startSec": 31,
       "endSec": 40,
-      "text": "A light year is the distance light travels in a year about 9.5 trillion kilometers."
+      "text": "A light year is the distance light travels in a year about 9.5 trillion kilometers.",
+      "words": [
+        {
+          "startSec": 31,
+          "endSec": 31.2,
+          "text": "A"
+        },
+        {
+          "startSec": 31.2,
+          "endSec": 31.7,
+          "text": "light"
+        },
+        {
+          "startSec": 31.7,
+          "endSec": 32.1,
+          "text": "year"
+        },
+        {
+          "startSec": 32.1,
+          "endSec": 32.5,
+          "text": "is"
+        },
+        {
+          "startSec": 32.5,
+          "endSec": 32.8,
+          "text": "the"
+        },
+        {
+          "startSec": 32.8,
+          "endSec": 33.7,
+          "text": "distance"
+        },
+        {
+          "startSec": 33.7,
+          "endSec": 34.3,
+          "text": "light"
+        },
+        {
+          "startSec": 34.3,
+          "endSec": 35.1,
+          "text": "travels"
+        },
+        {
+          "startSec": 35.1,
+          "endSec": 35.3,
+          "text": "in"
+        },
+        {
+          "startSec": 35.3,
+          "endSec": 35.4,
+          "text": "a"
+        },
+        {
+          "startSec": 35.4,
+          "endSec": 35.9,
+          "text": "year"
+        },
+        {
+          "startSec": 35.9,
+          "endSec": 36.4,
+          "text": "about"
+        },
+        {
+          "startSec": 36.4,
+          "endSec": 37.5,
+          "text": "9.5"
+        },
+        {
+          "startSec": 37.5,
+          "endSec": 38.4,
+          "text": "trillion"
+        },
+        {
+          "startSec": 38.4,
+          "endSec": 40,
+          "text": "kilometers."
+        },
+        {
+          "startSec": 40,
+          "endSec": 41.2,
+          "text": "Astronomers"
+        }
+      ]
     },
     {
       "startSec": 40,
       "endSec": 47,
-      "text": "Astronomers have long known about the galaxy where the ring was discovered,"
+      "text": "Astronomers have long known about the galaxy where the ring was discovered,",
+      "words": [
+        {
+          "startSec": 40,
+          "endSec": 41.2,
+          "text": "Astronomers"
+        },
+        {
+          "startSec": 41.2,
+          "endSec": 41.8,
+          "text": "have"
+        },
+        {
+          "startSec": 41.8,
+          "endSec": 42.1,
+          "text": "long"
+        },
+        {
+          "startSec": 42.1,
+          "endSec": 42.6,
+          "text": "known"
+        },
+        {
+          "startSec": 42.6,
+          "endSec": 43.3,
+          "text": "about"
+        },
+        {
+          "startSec": 43.3,
+          "endSec": 43.5,
+          "text": "the"
+        },
+        {
+          "startSec": 43.5,
+          "endSec": 44.2,
+          "text": "galaxy"
+        },
+        {
+          "startSec": 44.2,
+          "endSec": 44.7,
+          "text": "where"
+        },
+        {
+          "startSec": 44.7,
+          "endSec": 45.1,
+          "text": "the"
+        },
+        {
+          "startSec": 45.1,
+          "endSec": 45.5,
+          "text": "ring"
+        },
+        {
+          "startSec": 45.5,
+          "endSec": 45.9,
+          "text": "was"
+        },
+        {
+          "startSec": 45.9,
+          "endSec": 47,
+          "text": "discovered,"
+        }
+      ]
     },
     {
       "startSec": 47,
       "endSec": 55,
-      "text": "so they were surprised that the bright ring had not been identified before."
+      "text": "so they were surprised that the bright ring had not been identified before.",
+      "words": [
+        {
+          "startSec": 47.2,
+          "endSec": 47.2,
+          "text": "so"
+        },
+        {
+          "startSec": 47.2,
+          "endSec": 47.7,
+          "text": "they"
+        },
+        {
+          "startSec": 47.7,
+          "endSec": 48.2,
+          "text": "were"
+        },
+        {
+          "startSec": 48.2,
+          "endSec": 49.3,
+          "text": "surprised"
+        },
+        {
+          "startSec": 49.3,
+          "endSec": 49.8,
+          "text": "that"
+        },
+        {
+          "startSec": 49.8,
+          "endSec": 50.3,
+          "text": "the"
+        },
+        {
+          "startSec": 50.3,
+          "endSec": 50.9,
+          "text": "bright"
+        },
+        {
+          "startSec": 50.9,
+          "endSec": 51.4,
+          "text": "ring"
+        },
+        {
+          "startSec": 51.4,
+          "endSec": 51.7,
+          "text": "had"
+        },
+        {
+          "startSec": 51.7,
+          "endSec": 52.1,
+          "text": "not"
+        },
+        {
+          "startSec": 52.1,
+          "endSec": 52.6,
+          "text": "been"
+        },
+        {
+          "startSec": 52.6,
+          "endSec": 53.8,
+          "text": "identified"
+        },
+        {
+          "startSec": 53.8,
+          "endSec": 55,
+          "text": "before."
+        },
+        {
+          "startSec": 55,
+          "endSec": 55.3,
+          "text": "It"
+        }
+      ]
     },
     {
       "startSec": 55,
       "endSec": 64,
-      "text": "It was discovered in a well-studied galaxy called NGC 6505."
+      "text": "It was discovered in a well-studied galaxy called NGC 6505.",
+      "words": [
+        {
+          "startSec": 55,
+          "endSec": 55.3,
+          "text": "It"
+        },
+        {
+          "startSec": 55.3,
+          "endSec": 55.8,
+          "text": "was"
+        },
+        {
+          "startSec": 55.8,
+          "endSec": 57.4,
+          "text": "discovered"
+        },
+        {
+          "startSec": 57.4,
+          "endSec": 57.7,
+          "text": "in"
+        },
+        {
+          "startSec": 57.7,
+          "endSec": 57.8,
+          "text": "a"
+        },
+        {
+          "startSec": 57.8,
+          "endSec": 59.7,
+          "text": "well-studied"
+        },
+        {
+          "startSec": 59.7,
+          "endSec": 60.6,
+          "text": "galaxy"
+        },
+        {
+          "startSec": 60.6,
+          "endSec": 61.6,
+          "text": "called"
+        },
+        {
+          "startSec": 61.6,
+          "endSec": 62,
+          "text": "NGC"
+        },
+        {
+          "startSec": 62,
+          "endSec": 64,
+          "text": "6505."
+        },
+        {
+          "startSec": 64,
+          "endSec": 64.3,
+          "text": "It"
+        }
+      ]
     },
     {
       "startSec": 64,
       "endSec": 71,
-      "text": "It is in the constellation, a group of stars named Draco."
+      "text": "It is in the constellation, a group of stars named Draco.",
+      "words": [
+        {
+          "startSec": 64,
+          "endSec": 64.3,
+          "text": "It"
+        },
+        {
+          "startSec": 64.3,
+          "endSec": 64.6,
+          "text": "is"
+        },
+        {
+          "startSec": 64.6,
+          "endSec": 64.9,
+          "text": "in"
+        },
+        {
+          "startSec": 64.9,
+          "endSec": 65.3,
+          "text": "the"
+        },
+        {
+          "startSec": 65.3,
+          "endSec": 67.3,
+          "text": "constellation,"
+        },
+        {
+          "startSec": 67.3,
+          "endSec": 67.5,
+          "text": "a"
+        },
+        {
+          "startSec": 67.5,
+          "endSec": 68.3,
+          "text": "group"
+        },
+        {
+          "startSec": 68.3,
+          "endSec": 68.5,
+          "text": "of"
+        },
+        {
+          "startSec": 68.5,
+          "endSec": 69.1,
+          "text": "stars"
+        },
+        {
+          "startSec": 69.1,
+          "endSec": 69.9,
+          "text": "named"
+        },
+        {
+          "startSec": 69.9,
+          "endSec": 71,
+          "text": "Draco."
+        }
+      ]
     },
     {
       "startSec": 71,
       "endSec": 84,
-      "text": "Einstein rings are rare. They form when light from a more distant galaxy bends around a closer galaxy."
+      "text": "Einstein rings are rare. They form when light from a more distant galaxy bends around a closer galaxy.",
+      "words": [
+        {
+          "startSec": 71.2,
+          "endSec": 72.8,
+          "text": "Einstein"
+        },
+        {
+          "startSec": 72.8,
+          "endSec": 73.8,
+          "text": "rings"
+        },
+        {
+          "startSec": 73.8,
+          "endSec": 74.5,
+          "text": "are"
+        },
+        {
+          "startSec": 74.5,
+          "endSec": 76,
+          "text": "rare."
+        },
+        {
+          "startSec": 76,
+          "endSec": 76.4,
+          "text": "They"
+        },
+        {
+          "startSec": 76.4,
+          "endSec": 76.9,
+          "text": "form"
+        },
+        {
+          "startSec": 76.9,
+          "endSec": 77.2,
+          "text": "when"
+        },
+        {
+          "startSec": 77.2,
+          "endSec": 77.8,
+          "text": "light"
+        },
+        {
+          "startSec": 77.8,
+          "endSec": 78.2,
+          "text": "from"
+        },
+        {
+          "startSec": 78.2,
+          "endSec": 78.4,
+          "text": "a"
+        },
+        {
+          "startSec": 78.4,
+          "endSec": 78.7,
+          "text": "more"
+        },
+        {
+          "startSec": 78.7,
+          "endSec": 79.4,
+          "text": "distant"
+        },
+        {
+          "startSec": 79.4,
+          "endSec": 80.1,
+          "text": "galaxy"
+        },
+        {
+          "startSec": 80.1,
+          "endSec": 80.7,
+          "text": "bends"
+        },
+        {
+          "startSec": 80.7,
+          "endSec": 81.7,
+          "text": "around"
+        },
+        {
+          "startSec": 81.7,
+          "endSec": 81.8,
+          "text": "a"
+        },
+        {
+          "startSec": 81.8,
+          "endSec": 82.6,
+          "text": "closer"
+        },
+        {
+          "startSec": 82.6,
+          "endSec": 84,
+          "text": "galaxy."
+        },
+        {
+          "startSec": 84,
+          "endSec": 84.4,
+          "text": "The"
+        }
+      ]
     },
     {
       "startSec": 84,
       "endSec": 92,
-      "text": "The nearer galaxy appears to have a circle of light or a halo around it."
+      "text": "The nearer galaxy appears to have a circle of light or a halo around it.",
+      "words": [
+        {
+          "startSec": 84,
+          "endSec": 84.4,
+          "text": "The"
+        },
+        {
+          "startSec": 84.4,
+          "endSec": 85.2,
+          "text": "nearer"
+        },
+        {
+          "startSec": 85.2,
+          "endSec": 86,
+          "text": "galaxy"
+        },
+        {
+          "startSec": 86,
+          "endSec": 87,
+          "text": "appears"
+        },
+        {
+          "startSec": 87,
+          "endSec": 87.3,
+          "text": "to"
+        },
+        {
+          "startSec": 87.3,
+          "endSec": 87.7,
+          "text": "have"
+        },
+        {
+          "startSec": 87.7,
+          "endSec": 87.8,
+          "text": "a"
+        },
+        {
+          "startSec": 87.8,
+          "endSec": 88.7,
+          "text": "circle"
+        },
+        {
+          "startSec": 88.7,
+          "endSec": 88.9,
+          "text": "of"
+        },
+        {
+          "startSec": 88.9,
+          "endSec": 89.6,
+          "text": "light"
+        },
+        {
+          "startSec": 89.6,
+          "endSec": 89.9,
+          "text": "or"
+        },
+        {
+          "startSec": 89.9,
+          "endSec": 89.9,
+          "text": "a"
+        },
+        {
+          "startSec": 89.9,
+          "endSec": 90.5,
+          "text": "halo"
+        },
+        {
+          "startSec": 90.5,
+          "endSec": 91.2,
+          "text": "around"
+        },
+        {
+          "startSec": 91.2,
+          "endSec": 92,
+          "text": "it."
+        }
+      ]
     },
     {
       "startSec": 92,
       "endSec": 99,
-      "text": "The Einstein ring gets its name from physicist Albert Einstein."
+      "text": "The Einstein ring gets its name from physicist Albert Einstein.",
+      "words": [
+        {
+          "startSec": 92.2,
+          "endSec": 92.4,
+          "text": "The"
+        },
+        {
+          "startSec": 92.4,
+          "endSec": 93.5,
+          "text": "Einstein"
+        },
+        {
+          "startSec": 93.5,
+          "endSec": 93.9,
+          "text": "ring"
+        },
+        {
+          "startSec": 93.9,
+          "endSec": 94.4,
+          "text": "gets"
+        },
+        {
+          "startSec": 94.4,
+          "endSec": 94.7,
+          "text": "its"
+        },
+        {
+          "startSec": 94.7,
+          "endSec": 95.3,
+          "text": "name"
+        },
+        {
+          "startSec": 95.3,
+          "endSec": 95.7,
+          "text": "from"
+        },
+        {
+          "startSec": 95.7,
+          "endSec": 96.9,
+          "text": "physicist"
+        },
+        {
+          "startSec": 96.9,
+          "endSec": 97.6,
+          "text": "Albert"
+        },
+        {
+          "startSec": 97.6,
+          "endSec": 99,
+          "text": "Einstein."
+        },
+        {
+          "startSec": 99,
+          "endSec": 100,
+          "text": "Einstein"
+        }
+      ]
     },
     {
       "startSec": 99,
       "endSec": 108,
-      "text": "Einstein predicted that light would bend around extremely massive objects in space."
+      "text": "Einstein predicted that light would bend around extremely massive objects in space.",
+      "words": [
+        {
+          "startSec": 99,
+          "endSec": 100,
+          "text": "Einstein"
+        },
+        {
+          "startSec": 100,
+          "endSec": 101.1,
+          "text": "predicted"
+        },
+        {
+          "startSec": 101.1,
+          "endSec": 101.5,
+          "text": "that"
+        },
+        {
+          "startSec": 101.5,
+          "endSec": 102.1,
+          "text": "light"
+        },
+        {
+          "startSec": 102.1,
+          "endSec": 102.7,
+          "text": "would"
+        },
+        {
+          "startSec": 102.7,
+          "endSec": 103.2,
+          "text": "bend"
+        },
+        {
+          "startSec": 103.2,
+          "endSec": 103.9,
+          "text": "around"
+        },
+        {
+          "startSec": 103.9,
+          "endSec": 105.2,
+          "text": "extremely"
+        },
+        {
+          "startSec": 105.2,
+          "endSec": 105.9,
+          "text": "massive"
+        },
+        {
+          "startSec": 105.9,
+          "endSec": 106.7,
+          "text": "objects"
+        },
+        {
+          "startSec": 106.7,
+          "endSec": 107,
+          "text": "in"
+        },
+        {
+          "startSec": 107,
+          "endSec": 108,
+          "text": "space."
+        },
+        {
+          "startSec": 108,
+          "endSec": 108.6,
+          "text": "This"
+        }
+      ]
     },
     {
       "startSec": 108,
       "endSec": 113,
-      "text": "This is called gravitational lensing."
+      "text": "This is called gravitational lensing.",
+      "words": [
+        {
+          "startSec": 108,
+          "endSec": 108.6,
+          "text": "This"
+        },
+        {
+          "startSec": 108.6,
+          "endSec": 108.9,
+          "text": "is"
+        },
+        {
+          "startSec": 108.9,
+          "endSec": 109.8,
+          "text": "called"
+        },
+        {
+          "startSec": 109.8,
+          "endSec": 111.6,
+          "text": "gravitational"
+        },
+        {
+          "startSec": 111.6,
+          "endSec": 113,
+          "text": "lensing."
+        }
+      ]
     },
     {
       "startSec": 113,
       "endSec": 123,
-      "text": "The American Space Agency NASA explains that as light passes through a gravitational lens,"
+      "text": "The American Space Agency NASA explains that as light passes through a gravitational lens,",
+      "words": [
+        {
+          "startSec": 113.2,
+          "endSec": 113.4,
+          "text": "The"
+        },
+        {
+          "startSec": 113.4,
+          "endSec": 114.5,
+          "text": "American"
+        },
+        {
+          "startSec": 114.5,
+          "endSec": 115.1,
+          "text": "Space"
+        },
+        {
+          "startSec": 115.1,
+          "endSec": 116,
+          "text": "Agency"
+        },
+        {
+          "startSec": 116,
+          "endSec": 116.4,
+          "text": "NASA"
+        },
+        {
+          "startSec": 116.4,
+          "endSec": 117.4,
+          "text": "explains"
+        },
+        {
+          "startSec": 117.4,
+          "endSec": 118,
+          "text": "that"
+        },
+        {
+          "startSec": 118,
+          "endSec": 118.2,
+          "text": "as"
+        },
+        {
+          "startSec": 118.2,
+          "endSec": 118.9,
+          "text": "light"
+        },
+        {
+          "startSec": 118.9,
+          "endSec": 119.7,
+          "text": "passes"
+        },
+        {
+          "startSec": 119.7,
+          "endSec": 120.6,
+          "text": "through"
+        },
+        {
+          "startSec": 120.6,
+          "endSec": 120.7,
+          "text": "a"
+        },
+        {
+          "startSec": 120.7,
+          "endSec": 122.5,
+          "text": "gravitational"
+        },
+        {
+          "startSec": 122.5,
+          "endSec": 123,
+          "text": "lens,"
+        },
+        {
+          "startSec": 123,
+          "endSec": 123.2,
+          "text": "it"
+        }
+      ]
     },
     {
       "startSec": 123,
       "endSec": 131,
-      "text": "it may take different paths, producing multiple images of the same object."
+      "text": "it may take different paths, producing multiple images of the same object.",
+      "words": [
+        {
+          "startSec": 123,
+          "endSec": 123.2,
+          "text": "it"
+        },
+        {
+          "startSec": 123.2,
+          "endSec": 123.6,
+          "text": "may"
+        },
+        {
+          "startSec": 123.6,
+          "endSec": 124.1,
+          "text": "take"
+        },
+        {
+          "startSec": 124.1,
+          "endSec": 125.2,
+          "text": "different"
+        },
+        {
+          "startSec": 125.2,
+          "endSec": 126,
+          "text": "paths,"
+        },
+        {
+          "startSec": 126,
+          "endSec": 127.1,
+          "text": "producing"
+        },
+        {
+          "startSec": 127.1,
+          "endSec": 128.1,
+          "text": "multiple"
+        },
+        {
+          "startSec": 128.1,
+          "endSec": 128.9,
+          "text": "images"
+        },
+        {
+          "startSec": 128.9,
+          "endSec": 129.2,
+          "text": "of"
+        },
+        {
+          "startSec": 129.2,
+          "endSec": 129.5,
+          "text": "the"
+        },
+        {
+          "startSec": 129.5,
+          "endSec": 129.9,
+          "text": "same"
+        },
+        {
+          "startSec": 129.9,
+          "endSec": 131,
+          "text": "object."
+        },
+        {
+          "startSec": 131,
+          "endSec": 131.3,
+          "text": "In"
+        }
+      ]
     },
     {
       "startSec": 131,
       "endSec": 140,
-      "text": "In this way, gravity itself acts as a lens magnifying and distorting space and time"
+      "text": "In this way, gravity itself acts as a lens magnifying and distorting space and time",
+      "words": [
+        {
+          "startSec": 131,
+          "endSec": 131.3,
+          "text": "In"
+        },
+        {
+          "startSec": 131.3,
+          "endSec": 131.8,
+          "text": "this"
+        },
+        {
+          "startSec": 131.8,
+          "endSec": 132.5,
+          "text": "way,"
+        },
+        {
+          "startSec": 132.5,
+          "endSec": 133.4,
+          "text": "gravity"
+        },
+        {
+          "startSec": 133.4,
+          "endSec": 134.3,
+          "text": "itself"
+        },
+        {
+          "startSec": 134.3,
+          "endSec": 134.7,
+          "text": "acts"
+        },
+        {
+          "startSec": 134.7,
+          "endSec": 135,
+          "text": "as"
+        },
+        {
+          "startSec": 135,
+          "endSec": 135.1,
+          "text": "a"
+        },
+        {
+          "startSec": 135.1,
+          "endSec": 135.7,
+          "text": "lens"
+        },
+        {
+          "startSec": 135.7,
+          "endSec": 137.2,
+          "text": "magnifying"
+        },
+        {
+          "startSec": 137.2,
+          "endSec": 137.3,
+          "text": "and"
+        },
+        {
+          "startSec": 137.3,
+          "endSec": 138.4,
+          "text": "distorting"
+        },
+        {
+          "startSec": 138.4,
+          "endSec": 139.1,
+          "text": "space"
+        },
+        {
+          "startSec": 139.1,
+          "endSec": 139.4,
+          "text": "and"
+        },
+        {
+          "startSec": 139.4,
+          "endSec": 140,
+          "text": "time"
+        }
+      ]
     },
     {
       "startSec": 140,
       "endSec": 149,
-      "text": "in a way that is similar to an optical lens like those in eyeglasses or contact lenses."
+      "text": "in a way that is similar to an optical lens like those in eyeglasses or contact lenses.",
+      "words": [
+        {
+          "startSec": 140.2,
+          "endSec": 140.3,
+          "text": "in"
+        },
+        {
+          "startSec": 140.3,
+          "endSec": 140.4,
+          "text": "a"
+        },
+        {
+          "startSec": 140.4,
+          "endSec": 140.8,
+          "text": "way"
+        },
+        {
+          "startSec": 140.8,
+          "endSec": 141.3,
+          "text": "that"
+        },
+        {
+          "startSec": 141.3,
+          "endSec": 141.5,
+          "text": "is"
+        },
+        {
+          "startSec": 141.5,
+          "endSec": 142.4,
+          "text": "similar"
+        },
+        {
+          "startSec": 142.4,
+          "endSec": 142.6,
+          "text": "to"
+        },
+        {
+          "startSec": 142.6,
+          "endSec": 143,
+          "text": "an"
+        },
+        {
+          "startSec": 143,
+          "endSec": 143.8,
+          "text": "optical"
+        },
+        {
+          "startSec": 143.8,
+          "endSec": 144.3,
+          "text": "lens"
+        },
+        {
+          "startSec": 144.3,
+          "endSec": 144.8,
+          "text": "like"
+        },
+        {
+          "startSec": 144.8,
+          "endSec": 145.4,
+          "text": "those"
+        },
+        {
+          "startSec": 145.4,
+          "endSec": 145.6,
+          "text": "in"
+        },
+        {
+          "startSec": 145.6,
+          "endSec": 147,
+          "text": "eyeglasses"
+        },
+        {
+          "startSec": 147,
+          "endSec": 147.2,
+          "text": "or"
+        },
+        {
+          "startSec": 147.2,
+          "endSec": 148.1,
+          "text": "contact"
+        },
+        {
+          "startSec": 148.1,
+          "endSec": 149,
+          "text": "lenses."
+        },
+        {
+          "startSec": 149,
+          "endSec": 151,
+          "text": "Gravitational"
+        }
+      ]
     },
     {
       "startSec": 149,
       "endSec": 161,
-      "text": "Gravitational lenses permit telescopes like Euclid to observe more distant and less bright objects."
+      "text": "Gravitational lenses permit telescopes like Euclid to observe more distant and less bright objects.",
+      "words": [
+        {
+          "startSec": 149,
+          "endSec": 151,
+          "text": "Gravitational"
+        },
+        {
+          "startSec": 151,
+          "endSec": 152,
+          "text": "lenses"
+        },
+        {
+          "startSec": 152,
+          "endSec": 152.9,
+          "text": "permit"
+        },
+        {
+          "startSec": 152.9,
+          "endSec": 154.4,
+          "text": "telescopes"
+        },
+        {
+          "startSec": 154.4,
+          "endSec": 155.2,
+          "text": "like"
+        },
+        {
+          "startSec": 155.2,
+          "endSec": 156,
+          "text": "Euclid"
+        },
+        {
+          "startSec": 156,
+          "endSec": 156.2,
+          "text": "to"
+        },
+        {
+          "startSec": 156.2,
+          "endSec": 156.9,
+          "text": "observe"
+        },
+        {
+          "startSec": 156.9,
+          "endSec": 157.3,
+          "text": "more"
+        },
+        {
+          "startSec": 157.3,
+          "endSec": 158,
+          "text": "distant"
+        },
+        {
+          "startSec": 158,
+          "endSec": 158.5,
+          "text": "and"
+        },
+        {
+          "startSec": 158.5,
+          "endSec": 158.9,
+          "text": "less"
+        },
+        {
+          "startSec": 158.9,
+          "endSec": 159.7,
+          "text": "bright"
+        },
+        {
+          "startSec": 159.7,
+          "endSec": 161,
+          "text": "objects."
+        }
+      ]
     },
     {
       "startSec": 161,
       "endSec": 173,
-      "text": "In the latest project, researchers from Germany's Max Planck Institute for Astrophysics used data from Euclid"
+      "text": "In the latest project, researchers from Germany's Max Planck Institute for Astrophysics used data from Euclid",
+      "words": [
+        {
+          "startSec": 161.2,
+          "endSec": 161.2,
+          "text": "In"
+        },
+        {
+          "startSec": 161.2,
+          "endSec": 161.6,
+          "text": "the"
+        },
+        {
+          "startSec": 161.6,
+          "endSec": 162.3,
+          "text": "latest"
+        },
+        {
+          "startSec": 162.3,
+          "endSec": 163.3,
+          "text": "project,"
+        },
+        {
+          "startSec": 163.3,
+          "endSec": 164.6,
+          "text": "researchers"
+        },
+        {
+          "startSec": 164.6,
+          "endSec": 165.1,
+          "text": "from"
+        },
+        {
+          "startSec": 165.1,
+          "endSec": 166.1,
+          "text": "Germany's"
+        },
+        {
+          "startSec": 166.1,
+          "endSec": 166.5,
+          "text": "Max"
+        },
+        {
+          "startSec": 166.5,
+          "endSec": 167.2,
+          "text": "Planck"
+        },
+        {
+          "startSec": 167.2,
+          "endSec": 168.2,
+          "text": "Institute"
+        },
+        {
+          "startSec": 168.2,
+          "endSec": 168.5,
+          "text": "for"
+        },
+        {
+          "startSec": 168.5,
+          "endSec": 170.1,
+          "text": "Astrophysics"
+        },
+        {
+          "startSec": 170.1,
+          "endSec": 171,
+          "text": "used"
+        },
+        {
+          "startSec": 171,
+          "endSec": 171.7,
+          "text": "data"
+        },
+        {
+          "startSec": 171.7,
+          "endSec": 172.1,
+          "text": "from"
+        },
+        {
+          "startSec": 172.1,
+          "endSec": 173,
+          "text": "Euclid"
+        },
+        {
+          "startSec": 173,
+          "endSec": 173.2,
+          "text": "to"
+        }
+      ]
     },
     {
       "startSec": 173,
       "endSec": 179,
-      "text": "to create a computer model to discover the Einstein ring."
+      "text": "to create a computer model to discover the Einstein ring.",
+      "words": [
+        {
+          "startSec": 173,
+          "endSec": 173.2,
+          "text": "to"
+        },
+        {
+          "startSec": 173.2,
+          "endSec": 174,
+          "text": "create"
+        },
+        {
+          "startSec": 174,
+          "endSec": 174.1,
+          "text": "a"
+        },
+        {
+          "startSec": 174.1,
+          "endSec": 175,
+          "text": "computer"
+        },
+        {
+          "startSec": 175,
+          "endSec": 175.6,
+          "text": "model"
+        },
+        {
+          "startSec": 175.6,
+          "endSec": 176,
+          "text": "to"
+        },
+        {
+          "startSec": 176,
+          "endSec": 176.8,
+          "text": "discover"
+        },
+        {
+          "startSec": 176.8,
+          "endSec": 177.2,
+          "text": "the"
+        },
+        {
+          "startSec": 177.2,
+          "endSec": 178.1,
+          "text": "Einstein"
+        },
+        {
+          "startSec": 178.1,
+          "endSec": 179,
+          "text": "ring."
+        }
+      ]
     },
     {
       "startSec": 179,
       "endSec": 193,
-      "text": "The Euclid Space Telescope is operated by the European Space Agency, ESA. In 2023, it launched on a six-year mission"
+      "text": "The Euclid Space Telescope is operated by the European Space Agency, ESA. In 2023, it launched on a six-year mission",
+      "words": [
+        {
+          "startSec": 179.2,
+          "endSec": 179.4,
+          "text": "The"
+        },
+        {
+          "startSec": 179.4,
+          "endSec": 180.2,
+          "text": "Euclid"
+        },
+        {
+          "startSec": 180.2,
+          "endSec": 180.9,
+          "text": "Space"
+        },
+        {
+          "startSec": 180.9,
+          "endSec": 182.1,
+          "text": "Telescope"
+        },
+        {
+          "startSec": 182.1,
+          "endSec": 182.4,
+          "text": "is"
+        },
+        {
+          "startSec": 182.4,
+          "endSec": 183.5,
+          "text": "operated"
+        },
+        {
+          "startSec": 183.5,
+          "endSec": 183.7,
+          "text": "by"
+        },
+        {
+          "startSec": 183.7,
+          "endSec": 184.1,
+          "text": "the"
+        },
+        {
+          "startSec": 184.1,
+          "endSec": 185.2,
+          "text": "European"
+        },
+        {
+          "startSec": 185.2,
+          "endSec": 185.9,
+          "text": "Space"
+        },
+        {
+          "startSec": 185.9,
+          "endSec": 187,
+          "text": "Agency,"
+        },
+        {
+          "startSec": 187,
+          "endSec": 187.8,
+          "text": "ESA."
+        },
+        {
+          "startSec": 187.8,
+          "endSec": 188.1,
+          "text": "In"
+        },
+        {
+          "startSec": 188.1,
+          "endSec": 190,
+          "text": "2023,"
+        },
+        {
+          "startSec": 190,
+          "endSec": 190.3,
+          "text": "it"
+        },
+        {
+          "startSec": 190.3,
+          "endSec": 191,
+          "text": "launched"
+        },
+        {
+          "startSec": 191,
+          "endSec": 191.2,
+          "text": "on"
+        },
+        {
+          "startSec": 191.2,
+          "endSec": 191.3,
+          "text": "a"
+        },
+        {
+          "startSec": 191.3,
+          "endSec": 192.6,
+          "text": "six-year"
+        },
+        {
+          "startSec": 192.6,
+          "endSec": 193,
+          "text": "mission"
+        },
+        {
+          "startSec": 193,
+          "endSec": 193.5,
+          "text": "that"
+        }
+      ]
     },
     {
       "startSec": 193,
       "endSec": 205,
-      "text": "that ESA officials have said aims to study the mysteries of dark matter and dark energy across the universe."
+      "text": "that ESA officials have said aims to study the mysteries of dark matter and dark energy across the universe.",
+      "words": [
+        {
+          "startSec": 193,
+          "endSec": 193.5,
+          "text": "that"
+        },
+        {
+          "startSec": 193.5,
+          "endSec": 193.8,
+          "text": "ESA"
+        },
+        {
+          "startSec": 193.8,
+          "endSec": 194.9,
+          "text": "officials"
+        },
+        {
+          "startSec": 194.9,
+          "endSec": 195.4,
+          "text": "have"
+        },
+        {
+          "startSec": 195.4,
+          "endSec": 195.8,
+          "text": "said"
+        },
+        {
+          "startSec": 195.8,
+          "endSec": 196.3,
+          "text": "aims"
+        },
+        {
+          "startSec": 196.3,
+          "endSec": 196.5,
+          "text": "to"
+        },
+        {
+          "startSec": 196.5,
+          "endSec": 197.1,
+          "text": "study"
+        },
+        {
+          "startSec": 197.1,
+          "endSec": 197.5,
+          "text": "the"
+        },
+        {
+          "startSec": 197.5,
+          "endSec": 198.6,
+          "text": "mysteries"
+        },
+        {
+          "startSec": 198.6,
+          "endSec": 198.9,
+          "text": "of"
+        },
+        {
+          "startSec": 198.9,
+          "endSec": 199.2,
+          "text": "dark"
+        },
+        {
+          "startSec": 199.2,
+          "endSec": 200,
+          "text": "matter"
+        },
+        {
+          "startSec": 200,
+          "endSec": 200.5,
+          "text": "and"
+        },
+        {
+          "startSec": 200.5,
+          "endSec": 201.1,
+          "text": "dark"
+        },
+        {
+          "startSec": 201.1,
+          "endSec": 202.1,
+          "text": "energy"
+        },
+        {
+          "startSec": 202.1,
+          "endSec": 202.9,
+          "text": "across"
+        },
+        {
+          "startSec": 202.9,
+          "endSec": 203.4,
+          "text": "the"
+        },
+        {
+          "startSec": 203.4,
+          "endSec": 205,
+          "text": "universe."
+        }
+      ]
     },
     {
       "startSec": 205,
       "endSec": 211,
-      "text": "Astronomers at the Max Planck Institute are leading the research."
+      "text": "Astronomers at the Max Planck Institute are leading the research.",
+      "words": [
+        {
+          "startSec": 205.2,
+          "endSec": 206.1,
+          "text": "Astronomers"
+        },
+        {
+          "startSec": 206.1,
+          "endSec": 206.5,
+          "text": "at"
+        },
+        {
+          "startSec": 206.5,
+          "endSec": 206.8,
+          "text": "the"
+        },
+        {
+          "startSec": 206.8,
+          "endSec": 207,
+          "text": "Max"
+        },
+        {
+          "startSec": 207,
+          "endSec": 207.6,
+          "text": "Planck"
+        },
+        {
+          "startSec": 207.6,
+          "endSec": 208.5,
+          "text": "Institute"
+        },
+        {
+          "startSec": 208.5,
+          "endSec": 208.8,
+          "text": "are"
+        },
+        {
+          "startSec": 208.8,
+          "endSec": 209.5,
+          "text": "leading"
+        },
+        {
+          "startSec": 209.5,
+          "endSec": 209.8,
+          "text": "the"
+        },
+        {
+          "startSec": 209.8,
+          "endSec": 211,
+          "text": "research."
+        },
+        {
+          "startSec": 211,
+          "endSec": 211.2,
+          "text": "In"
+        }
+      ]
     },
     {
       "startSec": 211,
       "endSec": 219,
-      "text": "In a statement, the organization said the first sign that the Einstein ring existed"
+      "text": "In a statement, the organization said the first sign that the Einstein ring existed",
+      "words": [
+        {
+          "startSec": 211,
+          "endSec": 211.2,
+          "text": "In"
+        },
+        {
+          "startSec": 211.2,
+          "endSec": 211.3,
+          "text": "a"
+        },
+        {
+          "startSec": 211.3,
+          "endSec": 212.6,
+          "text": "statement,"
+        },
+        {
+          "startSec": 212.6,
+          "endSec": 212.9,
+          "text": "the"
+        },
+        {
+          "startSec": 212.9,
+          "endSec": 214.3,
+          "text": "organization"
+        },
+        {
+          "startSec": 214.3,
+          "endSec": 214.7,
+          "text": "said"
+        },
+        {
+          "startSec": 214.7,
+          "endSec": 215,
+          "text": "the"
+        },
+        {
+          "startSec": 215,
+          "endSec": 215.6,
+          "text": "first"
+        },
+        {
+          "startSec": 215.6,
+          "endSec": 216,
+          "text": "sign"
+        },
+        {
+          "startSec": 216,
+          "endSec": 216.5,
+          "text": "that"
+        },
+        {
+          "startSec": 216.5,
+          "endSec": 216.9,
+          "text": "the"
+        },
+        {
+          "startSec": 216.9,
+          "endSec": 217.8,
+          "text": "Einstein"
+        },
+        {
+          "startSec": 217.8,
+          "endSec": 218.2,
+          "text": "ring"
+        },
+        {
+          "startSec": 218.2,
+          "endSec": 219,
+          "text": "existed"
+        },
+        {
+          "startSec": 219,
+          "endSec": 219.4,
+          "text": "came"
+        }
+      ]
     },
     {
       "startSec": 219,
       "endSec": 224,
-      "text": "came during testing right after Euclid was deployed."
+      "text": "came during testing right after Euclid was deployed.",
+      "words": [
+        {
+          "startSec": 219,
+          "endSec": 219.4,
+          "text": "came"
+        },
+        {
+          "startSec": 219.4,
+          "endSec": 220.1,
+          "text": "during"
+        },
+        {
+          "startSec": 220.1,
+          "endSec": 220.8,
+          "text": "testing"
+        },
+        {
+          "startSec": 220.8,
+          "endSec": 221.3,
+          "text": "right"
+        },
+        {
+          "startSec": 221.3,
+          "endSec": 222,
+          "text": "after"
+        },
+        {
+          "startSec": 222,
+          "endSec": 222.5,
+          "text": "Euclid"
+        },
+        {
+          "startSec": 222.5,
+          "endSec": 222.8,
+          "text": "was"
+        },
+        {
+          "startSec": 222.8,
+          "endSec": 224,
+          "text": "deployed."
+        },
+        {
+          "startSec": 224,
+          "endSec": 224.2,
+          "text": "A"
+        }
+      ]
     },
     {
       "startSec": 224,
       "endSec": 233,
-      "text": "A team member, Bruno Altieri, was looking over early data collected by Euclid."
+      "text": "A team member, Bruno Altieri, was looking over early data collected by Euclid.",
+      "words": [
+        {
+          "startSec": 224,
+          "endSec": 224.2,
+          "text": "A"
+        },
+        {
+          "startSec": 224.2,
+          "endSec": 224.6,
+          "text": "team"
+        },
+        {
+          "startSec": 224.6,
+          "endSec": 225.8,
+          "text": "member,"
+        },
+        {
+          "startSec": 225.8,
+          "endSec": 226.3,
+          "text": "Bruno"
+        },
+        {
+          "startSec": 226.3,
+          "endSec": 227.4,
+          "text": "Altieri,"
+        },
+        {
+          "startSec": 227.4,
+          "endSec": 227.8,
+          "text": "was"
+        },
+        {
+          "startSec": 227.8,
+          "endSec": 228.7,
+          "text": "looking"
+        },
+        {
+          "startSec": 228.7,
+          "endSec": 229.2,
+          "text": "over"
+        },
+        {
+          "startSec": 229.2,
+          "endSec": 229.9,
+          "text": "early"
+        },
+        {
+          "startSec": 229.9,
+          "endSec": 230.4,
+          "text": "data"
+        },
+        {
+          "startSec": 230.4,
+          "endSec": 231.5,
+          "text": "collected"
+        },
+        {
+          "startSec": 231.5,
+          "endSec": 231.8,
+          "text": "by"
+        },
+        {
+          "startSec": 231.8,
+          "endSec": 233,
+          "text": "Euclid."
+        }
+      ]
     },
     {
       "startSec": 233,
       "endSec": 241,
-      "text": "\"Even from that first observation, I could see it,\" Altieri said in a statement."
+      "text": "\"Even from that first observation, I could see it,\" Altieri said in a statement.",
+      "words": [
+        {
+          "startSec": 233.1,
+          "endSec": 233.6,
+          "text": "\"Even"
+        },
+        {
+          "startSec": 233.6,
+          "endSec": 234,
+          "text": "from"
+        },
+        {
+          "startSec": 234,
+          "endSec": 234.5,
+          "text": "that"
+        },
+        {
+          "startSec": 234.5,
+          "endSec": 235,
+          "text": "first"
+        },
+        {
+          "startSec": 235,
+          "endSec": 236.4,
+          "text": "observation,"
+        },
+        {
+          "startSec": 236.4,
+          "endSec": 236.5,
+          "text": "I"
+        },
+        {
+          "startSec": 236.5,
+          "endSec": 237.1,
+          "text": "could"
+        },
+        {
+          "startSec": 237.1,
+          "endSec": 237.4,
+          "text": "see"
+        },
+        {
+          "startSec": 237.4,
+          "endSec": 238,
+          "text": "it,\""
+        },
+        {
+          "startSec": 238,
+          "endSec": 238.9,
+          "text": "Altieri"
+        },
+        {
+          "startSec": 238.9,
+          "endSec": 239.3,
+          "text": "said"
+        },
+        {
+          "startSec": 239.3,
+          "endSec": 239.5,
+          "text": "in"
+        },
+        {
+          "startSec": 239.5,
+          "endSec": 239.6,
+          "text": "a"
+        },
+        {
+          "startSec": 239.6,
+          "endSec": 241,
+          "text": "statement."
+        },
+        {
+          "startSec": 241,
+          "endSec": 241.3,
+          "text": "But"
+        }
+      ]
     },
     {
       "startSec": 241,
       "endSec": 250,
-      "text": "But after Euclid made more observations of the area, we could see a perfect Einstein ring."
+      "text": "But after Euclid made more observations of the area, we could see a perfect Einstein ring.",
+      "words": [
+        {
+          "startSec": 241,
+          "endSec": 241.3,
+          "text": "But"
+        },
+        {
+          "startSec": 241.3,
+          "endSec": 241.9,
+          "text": "after"
+        },
+        {
+          "startSec": 241.9,
+          "endSec": 242.5,
+          "text": "Euclid"
+        },
+        {
+          "startSec": 242.5,
+          "endSec": 243,
+          "text": "made"
+        },
+        {
+          "startSec": 243,
+          "endSec": 243.4,
+          "text": "more"
+        },
+        {
+          "startSec": 243.4,
+          "endSec": 244.8,
+          "text": "observations"
+        },
+        {
+          "startSec": 244.8,
+          "endSec": 245,
+          "text": "of"
+        },
+        {
+          "startSec": 245,
+          "endSec": 245.3,
+          "text": "the"
+        },
+        {
+          "startSec": 245.3,
+          "endSec": 246,
+          "text": "area,"
+        },
+        {
+          "startSec": 246,
+          "endSec": 246.3,
+          "text": "we"
+        },
+        {
+          "startSec": 246.3,
+          "endSec": 246.9,
+          "text": "could"
+        },
+        {
+          "startSec": 246.9,
+          "endSec": 247.3,
+          "text": "see"
+        },
+        {
+          "startSec": 247.3,
+          "endSec": 247.5,
+          "text": "a"
+        },
+        {
+          "startSec": 247.5,
+          "endSec": 248.4,
+          "text": "perfect"
+        },
+        {
+          "startSec": 248.4,
+          "endSec": 249.4,
+          "text": "Einstein"
+        },
+        {
+          "startSec": 249.4,
+          "endSec": 250,
+          "text": "ring."
+        },
+        {
+          "startSec": 250,
+          "endSec": 250.3,
+          "text": "For"
+        }
+      ]
     },
     {
       "startSec": 250,
       "endSec": 258,
-      "text": "For me, with a lifelong interest in gravitational lensing, that was amazing."
+      "text": "For me, with a lifelong interest in gravitational lensing, that was amazing.",
+      "words": [
+        {
+          "startSec": 250,
+          "endSec": 250.3,
+          "text": "For"
+        },
+        {
+          "startSec": 250.3,
+          "endSec": 250.8,
+          "text": "me,"
+        },
+        {
+          "startSec": 250.8,
+          "endSec": 251.3,
+          "text": "with"
+        },
+        {
+          "startSec": 251.3,
+          "endSec": 251.5,
+          "text": "a"
+        },
+        {
+          "startSec": 251.5,
+          "endSec": 252.3,
+          "text": "lifelong"
+        },
+        {
+          "startSec": 252.3,
+          "endSec": 253.3,
+          "text": "interest"
+        },
+        {
+          "startSec": 253.3,
+          "endSec": 253.4,
+          "text": "in"
+        },
+        {
+          "startSec": 253.4,
+          "endSec": 254.9,
+          "text": "gravitational"
+        },
+        {
+          "startSec": 254.9,
+          "endSec": 256.2,
+          "text": "lensing,"
+        },
+        {
+          "startSec": 256.2,
+          "endSec": 256.5,
+          "text": "that"
+        },
+        {
+          "startSec": 256.5,
+          "endSec": 256.8,
+          "text": "was"
+        },
+        {
+          "startSec": 256.8,
+          "endSec": 258,
+          "text": "amazing."
+        }
+      ]
     },
     {
       "startSec": 258,
       "endSec": 271,
-      "text": "The scientists said the more distant galaxy involved in the method is about 4.4 billion light-years away from Earth."
+      "text": "The scientists said the more distant galaxy involved in the method is about 4.4 billion light-years away from Earth.",
+      "words": [
+        {
+          "startSec": 258.2,
+          "endSec": 258.4,
+          "text": "The"
+        },
+        {
+          "startSec": 258.4,
+          "endSec": 259.8,
+          "text": "scientists"
+        },
+        {
+          "startSec": 259.8,
+          "endSec": 260.1,
+          "text": "said"
+        },
+        {
+          "startSec": 260.1,
+          "endSec": 260.5,
+          "text": "the"
+        },
+        {
+          "startSec": 260.5,
+          "endSec": 261,
+          "text": "more"
+        },
+        {
+          "startSec": 261,
+          "endSec": 261.9,
+          "text": "distant"
+        },
+        {
+          "startSec": 261.9,
+          "endSec": 262.6,
+          "text": "galaxy"
+        },
+        {
+          "startSec": 262.6,
+          "endSec": 263.6,
+          "text": "involved"
+        },
+        {
+          "startSec": 263.6,
+          "endSec": 263.9,
+          "text": "in"
+        },
+        {
+          "startSec": 263.9,
+          "endSec": 264.2,
+          "text": "the"
+        },
+        {
+          "startSec": 264.2,
+          "endSec": 265,
+          "text": "method"
+        },
+        {
+          "startSec": 265,
+          "endSec": 265.4,
+          "text": "is"
+        },
+        {
+          "startSec": 265.4,
+          "endSec": 266.1,
+          "text": "about"
+        },
+        {
+          "startSec": 266.1,
+          "endSec": 266.7,
+          "text": "4.4"
+        },
+        {
+          "startSec": 266.7,
+          "endSec": 267.5,
+          "text": "billion"
+        },
+        {
+          "startSec": 267.5,
+          "endSec": 268,
+          "text": "light-years"
+        },
+        {
+          "startSec": 268,
+          "endSec": 268.8,
+          "text": "away"
+        },
+        {
+          "startSec": 268.8,
+          "endSec": 269.5,
+          "text": "from"
+        },
+        {
+          "startSec": 269.5,
+          "endSec": 271,
+          "text": "Earth."
+        },
+        {
+          "startSec": 271,
+          "endSec": 271.4,
+          "text": "They"
+        }
+      ]
     },
     {
       "startSec": 271,
       "endSec": 280,
-      "text": "They noted that the more distant galaxy had never been observed before and does not have a name."
+      "text": "They noted that the more distant galaxy had never been observed before and does not have a name.",
+      "words": [
+        {
+          "startSec": 271,
+          "endSec": 271.4,
+          "text": "They"
+        },
+        {
+          "startSec": 271.4,
+          "endSec": 271.9,
+          "text": "noted"
+        },
+        {
+          "startSec": 271.9,
+          "endSec": 272.3,
+          "text": "that"
+        },
+        {
+          "startSec": 272.3,
+          "endSec": 272.8,
+          "text": "the"
+        },
+        {
+          "startSec": 272.8,
+          "endSec": 273,
+          "text": "more"
+        },
+        {
+          "startSec": 273,
+          "endSec": 273.7,
+          "text": "distant"
+        },
+        {
+          "startSec": 273.7,
+          "endSec": 274.3,
+          "text": "galaxy"
+        },
+        {
+          "startSec": 274.3,
+          "endSec": 274.6,
+          "text": "had"
+        },
+        {
+          "startSec": 274.6,
+          "endSec": 275.1,
+          "text": "never"
+        },
+        {
+          "startSec": 275.1,
+          "endSec": 275.5,
+          "text": "been"
+        },
+        {
+          "startSec": 275.5,
+          "endSec": 276.3,
+          "text": "observed"
+        },
+        {
+          "startSec": 276.3,
+          "endSec": 277.2,
+          "text": "before"
+        },
+        {
+          "startSec": 277.2,
+          "endSec": 277.5,
+          "text": "and"
+        },
+        {
+          "startSec": 277.5,
+          "endSec": 278,
+          "text": "does"
+        },
+        {
+          "startSec": 278,
+          "endSec": 278.4,
+          "text": "not"
+        },
+        {
+          "startSec": 278.4,
+          "endSec": 278.9,
+          "text": "have"
+        },
+        {
+          "startSec": 278.9,
+          "endSec": 279.1,
+          "text": "a"
+        },
+        {
+          "startSec": 279.1,
+          "endSec": 280,
+          "text": "name."
+        }
+      ]
     },
     {
       "startSec": 280,
       "endSec": 290,
-      "text": "Altieri's team recently reported the findings in a study in the publication Astronomy and Astrophysics."
+      "text": "Altieri's team recently reported the findings in a study in the publication Astronomy and Astrophysics.",
+      "words": [
+        {
+          "startSec": 280.2,
+          "endSec": 281,
+          "text": "Altieri's"
+        },
+        {
+          "startSec": 281,
+          "endSec": 281.5,
+          "text": "team"
+        },
+        {
+          "startSec": 281.5,
+          "endSec": 282.3,
+          "text": "recently"
+        },
+        {
+          "startSec": 282.3,
+          "endSec": 283.1,
+          "text": "reported"
+        },
+        {
+          "startSec": 283.1,
+          "endSec": 283.5,
+          "text": "the"
+        },
+        {
+          "startSec": 283.5,
+          "endSec": 284.3,
+          "text": "findings"
+        },
+        {
+          "startSec": 284.3,
+          "endSec": 284.6,
+          "text": "in"
+        },
+        {
+          "startSec": 284.6,
+          "endSec": 284.7,
+          "text": "a"
+        },
+        {
+          "startSec": 284.7,
+          "endSec": 285.2,
+          "text": "study"
+        },
+        {
+          "startSec": 285.2,
+          "endSec": 285.4,
+          "text": "in"
+        },
+        {
+          "startSec": 285.4,
+          "endSec": 285.9,
+          "text": "the"
+        },
+        {
+          "startSec": 285.9,
+          "endSec": 287,
+          "text": "publication"
+        },
+        {
+          "startSec": 287,
+          "endSec": 287.9,
+          "text": "Astronomy"
+        },
+        {
+          "startSec": 287.9,
+          "endSec": 288.3,
+          "text": "and"
+        },
+        {
+          "startSec": 288.3,
+          "endSec": 290,
+          "text": "Astrophysics."
+        },
+        {
+          "startSec": 290,
+          "endSec": 295.2,
+          "text": "Conner"
+        }
+      ]
     },
     {
       "startSec": 290,
       "endSec": 300,
-      "text": "Conner O'Rirten is another team member from the Max Planck Institute and was the lead writer of the study."
+      "text": "Conner O'Rirten is another team member from the Max Planck Institute and was the lead writer of the study.",
+      "words": [
+        {
+          "startSec": 290,
+          "endSec": 295.2,
+          "text": "Conner"
+        },
+        {
+          "startSec": 295.2,
+          "endSec": 297.9,
+          "text": "O'Rirten"
+        },
+        {
+          "startSec": 297.9,
+          "endSec": 298.1,
+          "text": "is"
+        },
+        {
+          "startSec": 298.1,
+          "endSec": 298.2,
+          "text": "another"
+        },
+        {
+          "startSec": 298.2,
+          "endSec": 298.3,
+          "text": "team"
+        },
+        {
+          "startSec": 298.3,
+          "endSec": 298.4,
+          "text": "member"
+        },
+        {
+          "startSec": 298.4,
+          "endSec": 298.6,
+          "text": "from"
+        },
+        {
+          "startSec": 298.6,
+          "endSec": 298.6,
+          "text": "the"
+        },
+        {
+          "startSec": 298.6,
+          "endSec": 298.7,
+          "text": "Max"
+        },
+        {
+          "startSec": 298.7,
+          "endSec": 298.8,
+          "text": "Planck"
+        },
+        {
+          "startSec": 298.8,
+          "endSec": 299.1,
+          "text": "Institute"
+        },
+        {
+          "startSec": 299.1,
+          "endSec": 299.2,
+          "text": "and"
+        },
+        {
+          "startSec": 299.2,
+          "endSec": 299.3,
+          "text": "was"
+        },
+        {
+          "startSec": 299.3,
+          "endSec": 299.4,
+          "text": "the"
+        },
+        {
+          "startSec": 299.4,
+          "endSec": 299.5,
+          "text": "lead"
+        },
+        {
+          "startSec": 299.5,
+          "endSec": 299.6,
+          "text": "writer"
+        },
+        {
+          "startSec": 299.6,
+          "endSec": 299.6,
+          "text": "of"
+        },
+        {
+          "startSec": 299.6,
+          "endSec": 299.7,
+          "text": "the"
+        },
+        {
+          "startSec": 299.7,
+          "endSec": 300,
+          "text": "study."
+        }
+      ]
     },
     {
       "startSec": 300,
       "endSec": 311,
-      "text": "He said, \"All strong lenses are special because they're so rare and they're incredibly useful scientifically."
+      "text": "He said, \"All strong lenses are special because they're so rare and they're incredibly useful scientifically.",
+      "words": [
+        {
+          "startSec": 300.2,
+          "endSec": 300.2,
+          "text": "He"
+        },
+        {
+          "startSec": 300.2,
+          "endSec": 300.9,
+          "text": "said,"
+        },
+        {
+          "startSec": 300.9,
+          "endSec": 301.5,
+          "text": "\"All"
+        },
+        {
+          "startSec": 301.5,
+          "endSec": 302,
+          "text": "strong"
+        },
+        {
+          "startSec": 302,
+          "endSec": 302.7,
+          "text": "lenses"
+        },
+        {
+          "startSec": 302.7,
+          "endSec": 303,
+          "text": "are"
+        },
+        {
+          "startSec": 303,
+          "endSec": 303.8,
+          "text": "special"
+        },
+        {
+          "startSec": 303.8,
+          "endSec": 304.7,
+          "text": "because"
+        },
+        {
+          "startSec": 304.7,
+          "endSec": 305.4,
+          "text": "they're"
+        },
+        {
+          "startSec": 305.4,
+          "endSec": 305.6,
+          "text": "so"
+        },
+        {
+          "startSec": 305.6,
+          "endSec": 306.2,
+          "text": "rare"
+        },
+        {
+          "startSec": 306.2,
+          "endSec": 306.5,
+          "text": "and"
+        },
+        {
+          "startSec": 306.5,
+          "endSec": 307.2,
+          "text": "they're"
+        },
+        {
+          "startSec": 307.2,
+          "endSec": 308.3,
+          "text": "incredibly"
+        },
+        {
+          "startSec": 308.3,
+          "endSec": 309.1,
+          "text": "useful"
+        },
+        {
+          "startSec": 309.1,
+          "endSec": 311,
+          "text": "scientifically."
+        },
+        {
+          "startSec": 311,
+          "endSec": 311.5,
+          "text": "This"
+        }
+      ]
     },
     {
       "startSec": 311,
       "endSec": 322,
-      "text": "This one is particularly special because it's so close to Earth and the alignment makes it very beautiful.\""
+      "text": "This one is particularly special because it's so close to Earth and the alignment makes it very beautiful.\"",
+      "words": [
+        {
+          "startSec": 311,
+          "endSec": 311.5,
+          "text": "This"
+        },
+        {
+          "startSec": 311.5,
+          "endSec": 311.9,
+          "text": "one"
+        },
+        {
+          "startSec": 311.9,
+          "endSec": 312.2,
+          "text": "is"
+        },
+        {
+          "startSec": 312.2,
+          "endSec": 313.8,
+          "text": "particularly"
+        },
+        {
+          "startSec": 313.8,
+          "endSec": 314.7,
+          "text": "special"
+        },
+        {
+          "startSec": 314.7,
+          "endSec": 315.6,
+          "text": "because"
+        },
+        {
+          "startSec": 315.6,
+          "endSec": 316.1,
+          "text": "it's"
+        },
+        {
+          "startSec": 316.1,
+          "endSec": 316.4,
+          "text": "so"
+        },
+        {
+          "startSec": 316.4,
+          "endSec": 317.2,
+          "text": "close"
+        },
+        {
+          "startSec": 317.2,
+          "endSec": 317.3,
+          "text": "to"
+        },
+        {
+          "startSec": 317.3,
+          "endSec": 318,
+          "text": "Earth"
+        },
+        {
+          "startSec": 318,
+          "endSec": 318.4,
+          "text": "and"
+        },
+        {
+          "startSec": 318.4,
+          "endSec": 318.7,
+          "text": "the"
+        },
+        {
+          "startSec": 318.7,
+          "endSec": 319.6,
+          "text": "alignment"
+        },
+        {
+          "startSec": 319.6,
+          "endSec": 320.1,
+          "text": "makes"
+        },
+        {
+          "startSec": 320.1,
+          "endSec": 320.5,
+          "text": "it"
+        },
+        {
+          "startSec": 320.5,
+          "endSec": 320.6,
+          "text": "very"
+        },
+        {
+          "startSec": 320.6,
+          "endSec": 322,
+          "text": "beautiful.\""
+        }
+      ]
     },
     {
       "startSec": 322,
       "endSec": 333,
-      "text": "O'Rirten added that the researchers used the latest gravitational lensing methods developed at the Institute."
+      "text": "O'Rirten added that the researchers used the latest gravitational lensing methods developed at the Institute.",
+      "words": [
+        {
+          "startSec": 322.1,
+          "endSec": 322.9,
+          "text": "O'Rirten"
+        },
+        {
+          "startSec": 322.9,
+          "endSec": 323.5,
+          "text": "added"
+        },
+        {
+          "startSec": 323.5,
+          "endSec": 323.9,
+          "text": "that"
+        },
+        {
+          "startSec": 323.9,
+          "endSec": 324.2,
+          "text": "the"
+        },
+        {
+          "startSec": 324.2,
+          "endSec": 325.5,
+          "text": "researchers"
+        },
+        {
+          "startSec": 325.5,
+          "endSec": 325.9,
+          "text": "used"
+        },
+        {
+          "startSec": 325.9,
+          "endSec": 326.3,
+          "text": "the"
+        },
+        {
+          "startSec": 326.3,
+          "endSec": 326.9,
+          "text": "latest"
+        },
+        {
+          "startSec": 326.9,
+          "endSec": 328.5,
+          "text": "gravitational"
+        },
+        {
+          "startSec": 328.5,
+          "endSec": 329.2,
+          "text": "lensing"
+        },
+        {
+          "startSec": 329.2,
+          "endSec": 330.1,
+          "text": "methods"
+        },
+        {
+          "startSec": 330.1,
+          "endSec": 331,
+          "text": "developed"
+        },
+        {
+          "startSec": 331,
+          "endSec": 331.5,
+          "text": "at"
+        },
+        {
+          "startSec": 331.5,
+          "endSec": 331.6,
+          "text": "the"
+        },
+        {
+          "startSec": 331.6,
+          "endSec": 333,
+          "text": "Institute."
+        },
+        {
+          "startSec": 333,
+          "endSec": 333.4,
+          "text": "This"
+        }
+      ]
     },
     {
       "startSec": 333,
       "endSec": 337,
-      "text": "This permitted them to model the light of the ring."
+      "text": "This permitted them to model the light of the ring.",
+      "words": [
+        {
+          "startSec": 333,
+          "endSec": 333.4,
+          "text": "This"
+        },
+        {
+          "startSec": 333.4,
+          "endSec": 334.1,
+          "text": "permitted"
+        },
+        {
+          "startSec": 334.1,
+          "endSec": 334.5,
+          "text": "them"
+        },
+        {
+          "startSec": 334.5,
+          "endSec": 334.8,
+          "text": "to"
+        },
+        {
+          "startSec": 334.8,
+          "endSec": 335.2,
+          "text": "model"
+        },
+        {
+          "startSec": 335.2,
+          "endSec": 335.4,
+          "text": "the"
+        },
+        {
+          "startSec": 335.4,
+          "endSec": 336,
+          "text": "light"
+        },
+        {
+          "startSec": 336,
+          "endSec": 336.1,
+          "text": "of"
+        },
+        {
+          "startSec": 336.1,
+          "endSec": 336.3,
+          "text": "the"
+        },
+        {
+          "startSec": 336.3,
+          "endSec": 337,
+          "text": "ring."
+        },
+        {
+          "startSec": 337,
+          "endSec": 337.2,
+          "text": "We"
+        }
+      ]
     },
     {
       "startSec": 337,
       "endSec": 346,
-      "text": "We even had to look at some of the raw data to better understand how the detector works."
+      "text": "We even had to look at some of the raw data to better understand how the detector works.",
+      "words": [
+        {
+          "startSec": 337,
+          "endSec": 337.2,
+          "text": "We"
+        },
+        {
+          "startSec": 337.2,
+          "endSec": 337.7,
+          "text": "even"
+        },
+        {
+          "startSec": 337.7,
+          "endSec": 338.1,
+          "text": "had"
+        },
+        {
+          "startSec": 338.1,
+          "endSec": 338.5,
+          "text": "to"
+        },
+        {
+          "startSec": 338.5,
+          "endSec": 338.8,
+          "text": "look"
+        },
+        {
+          "startSec": 338.8,
+          "endSec": 339.1,
+          "text": "at"
+        },
+        {
+          "startSec": 339.1,
+          "endSec": 339.6,
+          "text": "some"
+        },
+        {
+          "startSec": 339.6,
+          "endSec": 339.8,
+          "text": "of"
+        },
+        {
+          "startSec": 339.8,
+          "endSec": 340.3,
+          "text": "the"
+        },
+        {
+          "startSec": 340.3,
+          "endSec": 340.5,
+          "text": "raw"
+        },
+        {
+          "startSec": 340.5,
+          "endSec": 341,
+          "text": "data"
+        },
+        {
+          "startSec": 341,
+          "endSec": 341.3,
+          "text": "to"
+        },
+        {
+          "startSec": 341.3,
+          "endSec": 342,
+          "text": "better"
+        },
+        {
+          "startSec": 342,
+          "endSec": 343.2,
+          "text": "understand"
+        },
+        {
+          "startSec": 343.2,
+          "endSec": 343.6,
+          "text": "how"
+        },
+        {
+          "startSec": 343.6,
+          "endSec": 344,
+          "text": "the"
+        },
+        {
+          "startSec": 344,
+          "endSec": 345,
+          "text": "detector"
+        },
+        {
+          "startSec": 345,
+          "endSec": 346,
+          "text": "works."
+        }
+      ]
     },
     {
       "startSec": 346,
       "endSec": 358,
-      "text": "O'Rirten said the team's modeling operations were just the first step in studying the newly discovered Einstein ring."
+      "text": "O'Rirten said the team's modeling operations were just the first step in studying the newly discovered Einstein ring.",
+      "words": [
+        {
+          "startSec": 346.1,
+          "endSec": 346.9,
+          "text": "O'Rirten"
+        },
+        {
+          "startSec": 346.9,
+          "endSec": 347.5,
+          "text": "said"
+        },
+        {
+          "startSec": 347.5,
+          "endSec": 347.8,
+          "text": "the"
+        },
+        {
+          "startSec": 347.8,
+          "endSec": 348.4,
+          "text": "team's"
+        },
+        {
+          "startSec": 348.4,
+          "endSec": 349.4,
+          "text": "modeling"
+        },
+        {
+          "startSec": 349.4,
+          "endSec": 350.5,
+          "text": "operations"
+        },
+        {
+          "startSec": 350.5,
+          "endSec": 351,
+          "text": "were"
+        },
+        {
+          "startSec": 351,
+          "endSec": 351.5,
+          "text": "just"
+        },
+        {
+          "startSec": 351.5,
+          "endSec": 351.9,
+          "text": "the"
+        },
+        {
+          "startSec": 351.9,
+          "endSec": 352.5,
+          "text": "first"
+        },
+        {
+          "startSec": 352.5,
+          "endSec": 352.9,
+          "text": "step"
+        },
+        {
+          "startSec": 352.9,
+          "endSec": 353.1,
+          "text": "in"
+        },
+        {
+          "startSec": 353.1,
+          "endSec": 354.1,
+          "text": "studying"
+        },
+        {
+          "startSec": 354.1,
+          "endSec": 354.4,
+          "text": "the"
+        },
+        {
+          "startSec": 354.4,
+          "endSec": 355,
+          "text": "newly"
+        },
+        {
+          "startSec": 355,
+          "endSec": 356.2,
+          "text": "discovered"
+        },
+        {
+          "startSec": 356.2,
+          "endSec": 357.1,
+          "text": "Einstein"
+        },
+        {
+          "startSec": 357.1,
+          "endSec": 358,
+          "text": "ring."
+        }
+      ]
     },
     {
       "startSec": 358,
       "endSec": 376,
-      "text": "He said the group plans to use the ring to also study dark matter substructures within the lensing galaxy."
+      "text": "He said the group plans to use the ring to also study dark matter substructures within the lensing galaxy.",
+      "words": [
+        {
+          "startSec": 358.2,
+          "endSec": 358.4,
+          "text": "He"
+        },
+        {
+          "startSec": 358.4,
+          "endSec": 359.2,
+          "text": "said"
+        },
+        {
+          "startSec": 359.2,
+          "endSec": 359.8,
+          "text": "the"
+        },
+        {
+          "startSec": 359.8,
+          "endSec": 360.8,
+          "text": "group"
+        },
+        {
+          "startSec": 360.8,
+          "endSec": 361.8,
+          "text": "plans"
+        },
+        {
+          "startSec": 361.8,
+          "endSec": 362.2,
+          "text": "to"
+        },
+        {
+          "startSec": 362.2,
+          "endSec": 362.8,
+          "text": "use"
+        },
+        {
+          "startSec": 362.8,
+          "endSec": 363.4,
+          "text": "the"
+        },
+        {
+          "startSec": 363.4,
+          "endSec": 364.2,
+          "text": "ring"
+        },
+        {
+          "startSec": 364.2,
+          "endSec": 364.6,
+          "text": "to"
+        },
+        {
+          "startSec": 364.6,
+          "endSec": 365.4,
+          "text": "also"
+        },
+        {
+          "startSec": 365.4,
+          "endSec": 366.4,
+          "text": "study"
+        },
+        {
+          "startSec": 366.4,
+          "endSec": 367.5,
+          "text": "dark"
+        },
+        {
+          "startSec": 367.5,
+          "endSec": 368.4,
+          "text": "matter"
+        },
+        {
+          "startSec": 368.4,
+          "endSec": 371.6,
+          "text": "substructures"
+        },
+        {
+          "startSec": 371.6,
+          "endSec": 372.1,
+          "text": "within"
+        },
+        {
+          "startSec": 372.1,
+          "endSec": 372.7,
+          "text": "the"
+        },
+        {
+          "startSec": 372.7,
+          "endSec": 374.1,
+          "text": "lensing"
+        },
+        {
+          "startSec": 374.1,
+          "endSec": 376,
+          "text": "galaxy."
+        }
+      ]
     },
     {
       "startSec": 376,
       "endSec": 391,
-      "text": "With all this data, we've never had before. I'm Brian Lynn."
+      "text": "With all this data, we've never had before. I'm Brian Lynn.",
+      "words": [
+        {
+          "startSec": 376.2,
+          "endSec": 377.2,
+          "text": "With"
+        },
+        {
+          "startSec": 377.2,
+          "endSec": 378.2,
+          "text": "all"
+        },
+        {
+          "startSec": 378.2,
+          "endSec": 379.4,
+          "text": "this"
+        },
+        {
+          "startSec": 379.4,
+          "endSec": 381.2,
+          "text": "data,"
+        },
+        {
+          "startSec": 381.2,
+          "endSec": 382.8,
+          "text": "we've"
+        },
+        {
+          "startSec": 382.8,
+          "endSec": 384.3,
+          "text": "never"
+        },
+        {
+          "startSec": 384.3,
+          "endSec": 385.5,
+          "text": "had"
+        },
+        {
+          "startSec": 385.5,
+          "endSec": 388,
+          "text": "before."
+        },
+        {
+          "startSec": 388,
+          "endSec": 388.5,
+          "text": "I'm"
+        },
+        {
+          "startSec": 388.5,
+          "endSec": 389.6,
+          "text": "Brian"
+        },
+        {
+          "startSec": 389.6,
+          "endSec": 391,
+          "text": "Lynn."
+        }
+      ]
     }
   ],
   "cefr": "C1",

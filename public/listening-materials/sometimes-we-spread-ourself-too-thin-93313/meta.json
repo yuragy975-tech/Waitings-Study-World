@@ -9,272 +9,2355 @@
     {
       "startSec": 0,
       "endSec": 2.6,
-      "text": "(upbeat music)"
+      "text": "(upbeat music)",
+      "words": [
+        {
+          "startSec": 0,
+          "endSec": 1.4,
+          "text": "(upbeat"
+        },
+        {
+          "startSec": 1.4,
+          "endSec": 2.6,
+          "text": "music)"
+        },
+        {
+          "startSec": 2.6,
+          "endSec": 5.3,
+          "text": "And"
+        }
+      ]
     },
     {
       "startSec": 2.6,
       "endSec": 12.1,
-      "text": "And now, words and their stories"
+      "text": "And now, words and their stories",
+      "words": [
+        {
+          "startSec": 2.6,
+          "endSec": 5.3,
+          "text": "And"
+        },
+        {
+          "startSec": 5.3,
+          "endSec": 9.9,
+          "text": "now,"
+        },
+        {
+          "startSec": 9.9,
+          "endSec": 10.4,
+          "text": "words"
+        },
+        {
+          "startSec": 10.4,
+          "endSec": 10.8,
+          "text": "and"
+        },
+        {
+          "startSec": 10.8,
+          "endSec": 11.3,
+          "text": "their"
+        },
+        {
+          "startSec": 11.3,
+          "endSec": 12.1,
+          "text": "stories"
+        },
+        {
+          "startSec": 12.1,
+          "endSec": 12.6,
+          "text": "from"
+        }
+      ]
     },
     {
       "startSec": 12.1,
       "endSec": 15.4,
-      "text": "from VOA Learning English."
+      "text": "from VOA Learning English.",
+      "words": [
+        {
+          "startSec": 12.1,
+          "endSec": 12.6,
+          "text": "from"
+        },
+        {
+          "startSec": 12.6,
+          "endSec": 13,
+          "text": "VOA"
+        },
+        {
+          "startSec": 13,
+          "endSec": 14.1,
+          "text": "Learning"
+        },
+        {
+          "startSec": 14.1,
+          "endSec": 15.4,
+          "text": "English."
+        },
+        {
+          "startSec": 15.4,
+          "endSec": 16.7,
+          "text": "(upbeat"
+        }
+      ]
     },
     {
       "startSec": 15.4,
       "endSec": 17.9,
-      "text": "(upbeat music)"
+      "text": "(upbeat music)",
+      "words": [
+        {
+          "startSec": 15.4,
+          "endSec": 16.7,
+          "text": "(upbeat"
+        },
+        {
+          "startSec": 16.7,
+          "endSec": 17.9,
+          "text": "music)"
+        },
+        {
+          "startSec": 17.9,
+          "endSec": 19.4,
+          "text": "Today,"
+        }
+      ]
     },
     {
       "startSec": 17.9,
       "endSec": 24.6,
-      "text": "Today, we talk about our busy lives."
+      "text": "Today, we talk about our busy lives.",
+      "words": [
+        {
+          "startSec": 17.9,
+          "endSec": 19.4,
+          "text": "Today,"
+        },
+        {
+          "startSec": 19.4,
+          "endSec": 19.8,
+          "text": "we"
+        },
+        {
+          "startSec": 19.8,
+          "endSec": 20.6,
+          "text": "talk"
+        },
+        {
+          "startSec": 20.6,
+          "endSec": 21.6,
+          "text": "about"
+        },
+        {
+          "startSec": 21.6,
+          "endSec": 22.2,
+          "text": "our"
+        },
+        {
+          "startSec": 22.2,
+          "endSec": 23,
+          "text": "busy"
+        },
+        {
+          "startSec": 23,
+          "endSec": 24.6,
+          "text": "lives."
+        },
+        {
+          "startSec": 24.6,
+          "endSec": 25.5,
+          "text": "Many"
+        }
+      ]
     },
     {
       "startSec": 24.6,
       "endSec": 29.1,
-      "text": "Many people have family and work responsibilities."
+      "text": "Many people have family and work responsibilities.",
+      "words": [
+        {
+          "startSec": 24.6,
+          "endSec": 25.5,
+          "text": "Many"
+        },
+        {
+          "startSec": 25.5,
+          "endSec": 25.8,
+          "text": "people"
+        },
+        {
+          "startSec": 25.8,
+          "endSec": 26.2,
+          "text": "have"
+        },
+        {
+          "startSec": 26.2,
+          "endSec": 27,
+          "text": "family"
+        },
+        {
+          "startSec": 27,
+          "endSec": 27.2,
+          "text": "and"
+        },
+        {
+          "startSec": 27.2,
+          "endSec": 27.6,
+          "text": "work"
+        },
+        {
+          "startSec": 27.6,
+          "endSec": 29.1,
+          "text": "responsibilities."
+        }
+      ]
     },
     {
       "startSec": 30.1,
       "endSec": 35,
-      "text": "We might have religious or community activities."
+      "text": "We might have religious or community activities.",
+      "words": [
+        {
+          "startSec": 30.1,
+          "endSec": 30.1,
+          "text": "We"
+        },
+        {
+          "startSec": 30.1,
+          "endSec": 30.1,
+          "text": "might"
+        },
+        {
+          "startSec": 30.1,
+          "endSec": 31,
+          "text": "have"
+        },
+        {
+          "startSec": 31,
+          "endSec": 31.8,
+          "text": "religious"
+        },
+        {
+          "startSec": 31.8,
+          "endSec": 32,
+          "text": "or"
+        },
+        {
+          "startSec": 32,
+          "endSec": 33.2,
+          "text": "community"
+        },
+        {
+          "startSec": 33.2,
+          "endSec": 35,
+          "text": "activities."
+        },
+        {
+          "startSec": 35,
+          "endSec": 35.9,
+          "text": "Taking"
+        }
+      ]
     },
     {
       "startSec": 35,
       "endSec": 38.4,
-      "text": "Taking care of our health is also important."
+      "text": "Taking care of our health is also important.",
+      "words": [
+        {
+          "startSec": 35,
+          "endSec": 35.9,
+          "text": "Taking"
+        },
+        {
+          "startSec": 35.9,
+          "endSec": 35.9,
+          "text": "care"
+        },
+        {
+          "startSec": 35.9,
+          "endSec": 36,
+          "text": "of"
+        },
+        {
+          "startSec": 36,
+          "endSec": 36.3,
+          "text": "our"
+        },
+        {
+          "startSec": 36.3,
+          "endSec": 36.8,
+          "text": "health"
+        },
+        {
+          "startSec": 36.8,
+          "endSec": 37,
+          "text": "is"
+        },
+        {
+          "startSec": 37,
+          "endSec": 37.3,
+          "text": "also"
+        },
+        {
+          "startSec": 37.3,
+          "endSec": 38.4,
+          "text": "important."
+        },
+        {
+          "startSec": 38.4,
+          "endSec": 39.1,
+          "text": "And"
+        }
+      ]
     },
     {
       "startSec": 38.4,
       "endSec": 43.6,
-      "text": "And let's not forget about our personal projects,"
+      "text": "And let's not forget about our personal projects,",
+      "words": [
+        {
+          "startSec": 38.4,
+          "endSec": 39.1,
+          "text": "And"
+        },
+        {
+          "startSec": 39.1,
+          "endSec": 39.4,
+          "text": "let's"
+        },
+        {
+          "startSec": 39.4,
+          "endSec": 39.7,
+          "text": "not"
+        },
+        {
+          "startSec": 39.7,
+          "endSec": 40.5,
+          "text": "forget"
+        },
+        {
+          "startSec": 40.5,
+          "endSec": 41.1,
+          "text": "about"
+        },
+        {
+          "startSec": 41.1,
+          "endSec": 41.4,
+          "text": "our"
+        },
+        {
+          "startSec": 41.4,
+          "endSec": 42.4,
+          "text": "personal"
+        },
+        {
+          "startSec": 42.4,
+          "endSec": 43.6,
+          "text": "projects,"
+        },
+        {
+          "startSec": 43.6,
+          "endSec": 44.5,
+          "text": "our"
+        }
+      ]
     },
     {
       "startSec": 43.6,
       "endSec": 46.6,
-      "text": "our interests, and our friendships."
+      "text": "our interests, and our friendships.",
+      "words": [
+        {
+          "startSec": 43.6,
+          "endSec": 44.5,
+          "text": "our"
+        },
+        {
+          "startSec": 44.5,
+          "endSec": 44.9,
+          "text": "interests,"
+        },
+        {
+          "startSec": 44.9,
+          "endSec": 45.1,
+          "text": "and"
+        },
+        {
+          "startSec": 45.1,
+          "endSec": 45.4,
+          "text": "our"
+        },
+        {
+          "startSec": 45.4,
+          "endSec": 46.6,
+          "text": "friendships."
+        },
+        {
+          "startSec": 46.6,
+          "endSec": 47.5,
+          "text": "With"
+        }
+      ]
     },
     {
       "startSec": 46.6,
       "endSec": 49.8,
-      "text": "With everything on our plate,"
+      "text": "With everything on our plate,",
+      "words": [
+        {
+          "startSec": 46.6,
+          "endSec": 47.5,
+          "text": "With"
+        },
+        {
+          "startSec": 47.5,
+          "endSec": 48.3,
+          "text": "everything"
+        },
+        {
+          "startSec": 48.3,
+          "endSec": 48.6,
+          "text": "on"
+        },
+        {
+          "startSec": 48.6,
+          "endSec": 48.9,
+          "text": "our"
+        },
+        {
+          "startSec": 48.9,
+          "endSec": 49.8,
+          "text": "plate,"
+        },
+        {
+          "startSec": 49.8,
+          "endSec": 50,
+          "text": "it"
+        }
+      ]
     },
     {
       "startSec": 49.8,
       "endSec": 54.6,
-      "text": "it is easy to feel overwhelmed, over-extended,"
+      "text": "it is easy to feel overwhelmed, over-extended,",
+      "words": [
+        {
+          "startSec": 49.8,
+          "endSec": 50,
+          "text": "it"
+        },
+        {
+          "startSec": 50,
+          "endSec": 50.7,
+          "text": "is"
+        },
+        {
+          "startSec": 50.7,
+          "endSec": 50.7,
+          "text": "easy"
+        },
+        {
+          "startSec": 50.7,
+          "endSec": 50.9,
+          "text": "to"
+        },
+        {
+          "startSec": 50.9,
+          "endSec": 51.4,
+          "text": "feel"
+        },
+        {
+          "startSec": 51.4,
+          "endSec": 52.8,
+          "text": "overwhelmed,"
+        },
+        {
+          "startSec": 52.8,
+          "endSec": 54.6,
+          "text": "over-extended,"
+        },
+        {
+          "startSec": 54.6,
+          "endSec": 54.8,
+          "text": "and"
+        }
+      ]
     },
     {
       "startSec": 54.6,
       "endSec": 56.4,
-      "text": "and over-committed."
+      "text": "and over-committed.",
+      "words": [
+        {
+          "startSec": 54.6,
+          "endSec": 54.8,
+          "text": "and"
+        },
+        {
+          "startSec": 54.8,
+          "endSec": 56.4,
+          "text": "over-committed."
+        }
+      ]
     },
     {
       "startSec": 57.6,
       "endSec": 60.8,
-      "text": "However, if we try to do too much,"
+      "text": "However, if we try to do too much,",
+      "words": [
+        {
+          "startSec": 58.4,
+          "endSec": 58.6,
+          "text": "However,"
+        },
+        {
+          "startSec": 58.6,
+          "endSec": 58.9,
+          "text": "if"
+        },
+        {
+          "startSec": 58.9,
+          "endSec": 59.1,
+          "text": "we"
+        },
+        {
+          "startSec": 59.1,
+          "endSec": 59.5,
+          "text": "try"
+        },
+        {
+          "startSec": 59.5,
+          "endSec": 59.7,
+          "text": "to"
+        },
+        {
+          "startSec": 59.7,
+          "endSec": 59.9,
+          "text": "do"
+        },
+        {
+          "startSec": 59.9,
+          "endSec": 60.3,
+          "text": "too"
+        },
+        {
+          "startSec": 60.3,
+          "endSec": 60.8,
+          "text": "much,"
+        },
+        {
+          "startSec": 60.8,
+          "endSec": 61,
+          "text": "we"
+        }
+      ]
     },
     {
       "startSec": 60.8,
       "endSec": 63.7,
-      "text": "we may spread ourselves too thin."
+      "text": "we may spread ourselves too thin.",
+      "words": [
+        {
+          "startSec": 60.8,
+          "endSec": 61,
+          "text": "we"
+        },
+        {
+          "startSec": 61,
+          "endSec": 61.7,
+          "text": "may"
+        },
+        {
+          "startSec": 61.7,
+          "endSec": 61.8,
+          "text": "spread"
+        },
+        {
+          "startSec": 61.8,
+          "endSec": 62.7,
+          "text": "ourselves"
+        },
+        {
+          "startSec": 62.7,
+          "endSec": 63,
+          "text": "too"
+        },
+        {
+          "startSec": 63,
+          "endSec": 63.7,
+          "text": "thin."
+        },
+        {
+          "startSec": 63.7,
+          "endSec": 64.6,
+          "text": "This"
+        }
+      ]
     },
     {
       "startSec": 63.7,
       "endSec": 69,
-      "text": "This expression means we have taken on too much."
+      "text": "This expression means we have taken on too much.",
+      "words": [
+        {
+          "startSec": 63.7,
+          "endSec": 64.6,
+          "text": "This"
+        },
+        {
+          "startSec": 64.6,
+          "endSec": 65.7,
+          "text": "expression"
+        },
+        {
+          "startSec": 65.7,
+          "endSec": 66.4,
+          "text": "means"
+        },
+        {
+          "startSec": 66.4,
+          "endSec": 66.6,
+          "text": "we"
+        },
+        {
+          "startSec": 66.6,
+          "endSec": 67.1,
+          "text": "have"
+        },
+        {
+          "startSec": 67.1,
+          "endSec": 67.6,
+          "text": "taken"
+        },
+        {
+          "startSec": 67.6,
+          "endSec": 67.8,
+          "text": "on"
+        },
+        {
+          "startSec": 67.8,
+          "endSec": 68.2,
+          "text": "too"
+        },
+        {
+          "startSec": 68.2,
+          "endSec": 69,
+          "text": "much."
+        },
+        {
+          "startSec": 69,
+          "endSec": 69.2,
+          "text": "We"
+        }
+      ]
     },
     {
       "startSec": 69,
       "endSec": 71.1,
-      "text": "We are pushed to the limit."
+      "text": "We are pushed to the limit.",
+      "words": [
+        {
+          "startSec": 69,
+          "endSec": 69.2,
+          "text": "We"
+        },
+        {
+          "startSec": 69.2,
+          "endSec": 69.9,
+          "text": "are"
+        },
+        {
+          "startSec": 69.9,
+          "endSec": 69.9,
+          "text": "pushed"
+        },
+        {
+          "startSec": 69.9,
+          "endSec": 70.1,
+          "text": "to"
+        },
+        {
+          "startSec": 70.1,
+          "endSec": 70.4,
+          "text": "the"
+        },
+        {
+          "startSec": 70.4,
+          "endSec": 71.1,
+          "text": "limit."
+        },
+        {
+          "startSec": 71.1,
+          "endSec": 72,
+          "text": "People"
+        }
+      ]
     },
     {
       "startSec": 71.1,
       "endSec": 74.9,
-      "text": "People who are spread too thin"
+      "text": "People who are spread too thin",
+      "words": [
+        {
+          "startSec": 71.1,
+          "endSec": 72,
+          "text": "People"
+        },
+        {
+          "startSec": 72,
+          "endSec": 72.5,
+          "text": "who"
+        },
+        {
+          "startSec": 72.5,
+          "endSec": 72.9,
+          "text": "are"
+        },
+        {
+          "startSec": 72.9,
+          "endSec": 73.8,
+          "text": "spread"
+        },
+        {
+          "startSec": 73.8,
+          "endSec": 74.3,
+          "text": "too"
+        },
+        {
+          "startSec": 74.3,
+          "endSec": 74.9,
+          "text": "thin"
+        },
+        {
+          "startSec": 74.9,
+          "endSec": 75.3,
+          "text": "take"
+        }
+      ]
     },
     {
       "startSec": 74.9,
       "endSec": 78.9,
-      "text": "take on too many jobs, projects, or goals."
+      "text": "take on too many jobs, projects, or goals.",
+      "words": [
+        {
+          "startSec": 74.9,
+          "endSec": 75.3,
+          "text": "take"
+        },
+        {
+          "startSec": 75.3,
+          "endSec": 75.8,
+          "text": "on"
+        },
+        {
+          "startSec": 75.8,
+          "endSec": 75.9,
+          "text": "too"
+        },
+        {
+          "startSec": 75.9,
+          "endSec": 76.3,
+          "text": "many"
+        },
+        {
+          "startSec": 76.3,
+          "endSec": 77,
+          "text": "jobs,"
+        },
+        {
+          "startSec": 77,
+          "endSec": 77.9,
+          "text": "projects,"
+        },
+        {
+          "startSec": 77.9,
+          "endSec": 78.1,
+          "text": "or"
+        },
+        {
+          "startSec": 78.1,
+          "endSec": 78.9,
+          "text": "goals."
+        },
+        {
+          "startSec": 78.9,
+          "endSec": 79.8,
+          "text": "The"
+        }
+      ]
     },
     {
       "startSec": 78.9,
       "endSec": 83.4,
-      "text": "The heavy load requires more energy"
+      "text": "The heavy load requires more energy",
+      "words": [
+        {
+          "startSec": 78.9,
+          "endSec": 79.8,
+          "text": "The"
+        },
+        {
+          "startSec": 79.8,
+          "endSec": 80.1,
+          "text": "heavy"
+        },
+        {
+          "startSec": 80.1,
+          "endSec": 80.7,
+          "text": "load"
+        },
+        {
+          "startSec": 80.7,
+          "endSec": 81.9,
+          "text": "requires"
+        },
+        {
+          "startSec": 81.9,
+          "endSec": 82.5,
+          "text": "more"
+        },
+        {
+          "startSec": 82.5,
+          "endSec": 83.4,
+          "text": "energy"
+        },
+        {
+          "startSec": 83.4,
+          "endSec": 84.3,
+          "text": "or"
+        }
+      ]
     },
     {
       "startSec": 83.4,
       "endSec": 85.9,
-      "text": "or attention than they possess."
+      "text": "or attention than they possess.",
+      "words": [
+        {
+          "startSec": 83.4,
+          "endSec": 84.3,
+          "text": "or"
+        },
+        {
+          "startSec": 84.3,
+          "endSec": 84.4,
+          "text": "attention"
+        },
+        {
+          "startSec": 84.4,
+          "endSec": 84.7,
+          "text": "than"
+        },
+        {
+          "startSec": 84.7,
+          "endSec": 85.1,
+          "text": "they"
+        },
+        {
+          "startSec": 85.1,
+          "endSec": 85.9,
+          "text": "possess."
+        }
+      ]
     },
     {
       "startSec": 87.2,
       "endSec": 91.4,
-      "text": "If we work on many projects simultaneously,"
+      "text": "If we work on many projects simultaneously,",
+      "words": [
+        {
+          "startSec": 87.2,
+          "endSec": 87.4,
+          "text": "If"
+        },
+        {
+          "startSec": 87.4,
+          "endSec": 88.1,
+          "text": "we"
+        },
+        {
+          "startSec": 88.1,
+          "endSec": 88.1,
+          "text": "work"
+        },
+        {
+          "startSec": 88.1,
+          "endSec": 88.3,
+          "text": "on"
+        },
+        {
+          "startSec": 88.3,
+          "endSec": 88.7,
+          "text": "many"
+        },
+        {
+          "startSec": 88.7,
+          "endSec": 89.6,
+          "text": "projects"
+        },
+        {
+          "startSec": 89.6,
+          "endSec": 91.4,
+          "text": "simultaneously,"
+        },
+        {
+          "startSec": 91.4,
+          "endSec": 91.6,
+          "text": "or"
+        }
+      ]
     },
     {
       "startSec": 91.4,
       "endSec": 93.4,
-      "text": "or at the same time,"
+      "text": "or at the same time,",
+      "words": [
+        {
+          "startSec": 91.4,
+          "endSec": 91.6,
+          "text": "or"
+        },
+        {
+          "startSec": 91.6,
+          "endSec": 92.2,
+          "text": "at"
+        },
+        {
+          "startSec": 92.2,
+          "endSec": 92.3,
+          "text": "the"
+        },
+        {
+          "startSec": 92.3,
+          "endSec": 92.7,
+          "text": "same"
+        },
+        {
+          "startSec": 92.7,
+          "endSec": 93.4,
+          "text": "time,"
+        },
+        {
+          "startSec": 93.4,
+          "endSec": 93.6,
+          "text": "it"
+        }
+      ]
     },
     {
       "startSec": 93.4,
       "endSec": 97.1,
-      "text": "it is possible that none will get done well"
+      "text": "it is possible that none will get done well",
+      "words": [
+        {
+          "startSec": 93.4,
+          "endSec": 93.6,
+          "text": "it"
+        },
+        {
+          "startSec": 93.6,
+          "endSec": 94.3,
+          "text": "is"
+        },
+        {
+          "startSec": 94.3,
+          "endSec": 94.6,
+          "text": "possible"
+        },
+        {
+          "startSec": 94.6,
+          "endSec": 95,
+          "text": "that"
+        },
+        {
+          "startSec": 95,
+          "endSec": 95.5,
+          "text": "none"
+        },
+        {
+          "startSec": 95.5,
+          "endSec": 95.9,
+          "text": "will"
+        },
+        {
+          "startSec": 95.9,
+          "endSec": 96.2,
+          "text": "get"
+        },
+        {
+          "startSec": 96.2,
+          "endSec": 96.6,
+          "text": "done"
+        },
+        {
+          "startSec": 96.6,
+          "endSec": 97.1,
+          "text": "well"
+        },
+        {
+          "startSec": 97.1,
+          "endSec": 97.3,
+          "text": "if"
+        }
+      ]
     },
     {
       "startSec": 97.1,
       "endSec": 99,
-      "text": "if they get done at all."
+      "text": "if they get done at all.",
+      "words": [
+        {
+          "startSec": 97.1,
+          "endSec": 97.3,
+          "text": "if"
+        },
+        {
+          "startSec": 97.3,
+          "endSec": 97.9,
+          "text": "they"
+        },
+        {
+          "startSec": 97.9,
+          "endSec": 98,
+          "text": "get"
+        },
+        {
+          "startSec": 98,
+          "endSec": 98.2,
+          "text": "done"
+        },
+        {
+          "startSec": 98.2,
+          "endSec": 98.4,
+          "text": "at"
+        },
+        {
+          "startSec": 98.4,
+          "endSec": 99,
+          "text": "all."
+        },
+        {
+          "startSec": 99,
+          "endSec": 99.9,
+          "text": "And"
+        }
+      ]
     },
     {
       "startSec": 99,
       "endSec": 103.8,
-      "text": "And it is possible such multitasking"
+      "text": "And it is possible such multitasking",
+      "words": [
+        {
+          "startSec": 99,
+          "endSec": 99.9,
+          "text": "And"
+        },
+        {
+          "startSec": 99.9,
+          "endSec": 99.9,
+          "text": "it"
+        },
+        {
+          "startSec": 99.9,
+          "endSec": 100.3,
+          "text": "is"
+        },
+        {
+          "startSec": 100.3,
+          "endSec": 101.8,
+          "text": "possible"
+        },
+        {
+          "startSec": 101.8,
+          "endSec": 102.3,
+          "text": "such"
+        },
+        {
+          "startSec": 102.3,
+          "endSec": 103.8,
+          "text": "multitasking"
+        },
+        {
+          "startSec": 103.8,
+          "endSec": 104.7,
+          "text": "could"
+        }
+      ]
     },
     {
       "startSec": 103.8,
       "endSec": 105.8,
-      "text": "could stress us out."
+      "text": "could stress us out.",
+      "words": [
+        {
+          "startSec": 103.8,
+          "endSec": 104.7,
+          "text": "could"
+        },
+        {
+          "startSec": 104.7,
+          "endSec": 104.9,
+          "text": "stress"
+        },
+        {
+          "startSec": 104.9,
+          "endSec": 105.1,
+          "text": "us"
+        },
+        {
+          "startSec": 105.1,
+          "endSec": 105.8,
+          "text": "out."
+        },
+        {
+          "startSec": 105.8,
+          "endSec": 106.7,
+          "text": "Being"
+        }
+      ]
     },
     {
       "startSec": 105.8,
       "endSec": 110.8,
-      "text": "Being spread too thin can also be described"
+      "text": "Being spread too thin can also be described",
+      "words": [
+        {
+          "startSec": 105.8,
+          "endSec": 106.7,
+          "text": "Being"
+        },
+        {
+          "startSec": 106.7,
+          "endSec": 107.6,
+          "text": "spread"
+        },
+        {
+          "startSec": 107.6,
+          "endSec": 108.1,
+          "text": "too"
+        },
+        {
+          "startSec": 108.1,
+          "endSec": 108.7,
+          "text": "thin"
+        },
+        {
+          "startSec": 108.7,
+          "endSec": 109.1,
+          "text": "can"
+        },
+        {
+          "startSec": 109.1,
+          "endSec": 109.5,
+          "text": "also"
+        },
+        {
+          "startSec": 109.5,
+          "endSec": 109.8,
+          "text": "be"
+        },
+        {
+          "startSec": 109.8,
+          "endSec": 110.8,
+          "text": "described"
+        },
+        {
+          "startSec": 110.8,
+          "endSec": 111,
+          "text": "as"
+        }
+      ]
     },
     {
       "startSec": 110.8,
       "endSec": 113.3,
-      "text": "as biting off more than we can chew."
+      "text": "as biting off more than we can chew.",
+      "words": [
+        {
+          "startSec": 110.8,
+          "endSec": 111,
+          "text": "as"
+        },
+        {
+          "startSec": 111,
+          "endSec": 111.7,
+          "text": "biting"
+        },
+        {
+          "startSec": 111.7,
+          "endSec": 111.7,
+          "text": "off"
+        },
+        {
+          "startSec": 111.7,
+          "endSec": 112,
+          "text": "more"
+        },
+        {
+          "startSec": 112,
+          "endSec": 112.3,
+          "text": "than"
+        },
+        {
+          "startSec": 112.3,
+          "endSec": 112.5,
+          "text": "we"
+        },
+        {
+          "startSec": 112.5,
+          "endSec": 112.7,
+          "text": "can"
+        },
+        {
+          "startSec": 112.7,
+          "endSec": 113.3,
+          "text": "chew."
+        },
+        {
+          "startSec": 113.3,
+          "endSec": 113.8,
+          "text": "When"
+        }
+      ]
     },
     {
       "startSec": 113.3,
       "endSec": 116.7,
-      "text": "When we bite off more than we can chew,"
+      "text": "When we bite off more than we can chew,",
+      "words": [
+        {
+          "startSec": 113.3,
+          "endSec": 113.8,
+          "text": "When"
+        },
+        {
+          "startSec": 113.8,
+          "endSec": 114.2,
+          "text": "we"
+        },
+        {
+          "startSec": 114.2,
+          "endSec": 114.4,
+          "text": "bite"
+        },
+        {
+          "startSec": 114.4,
+          "endSec": 114.8,
+          "text": "off"
+        },
+        {
+          "startSec": 114.8,
+          "endSec": 115.2,
+          "text": "more"
+        },
+        {
+          "startSec": 115.2,
+          "endSec": 115.6,
+          "text": "than"
+        },
+        {
+          "startSec": 115.6,
+          "endSec": 115.9,
+          "text": "we"
+        },
+        {
+          "startSec": 115.9,
+          "endSec": 116.2,
+          "text": "can"
+        },
+        {
+          "startSec": 116.2,
+          "endSec": 116.7,
+          "text": "chew,"
+        },
+        {
+          "startSec": 116.7,
+          "endSec": 117.5,
+          "text": "we"
+        }
+      ]
     },
     {
       "startSec": 116.7,
       "endSec": 119.8,
-      "text": "we attempt to do more than is possible."
+      "text": "we attempt to do more than is possible.",
+      "words": [
+        {
+          "startSec": 116.7,
+          "endSec": 117.5,
+          "text": "we"
+        },
+        {
+          "startSec": 117.5,
+          "endSec": 117.6,
+          "text": "attempt"
+        },
+        {
+          "startSec": 117.6,
+          "endSec": 117.7,
+          "text": "to"
+        },
+        {
+          "startSec": 117.7,
+          "endSec": 117.9,
+          "text": "do"
+        },
+        {
+          "startSec": 117.9,
+          "endSec": 118.2,
+          "text": "more"
+        },
+        {
+          "startSec": 118.2,
+          "endSec": 118.6,
+          "text": "than"
+        },
+        {
+          "startSec": 118.6,
+          "endSec": 118.8,
+          "text": "is"
+        },
+        {
+          "startSec": 118.8,
+          "endSec": 119.8,
+          "text": "possible."
+        },
+        {
+          "startSec": 119.8,
+          "endSec": 120.7,
+          "text": "Now,"
+        }
+      ]
     },
     {
       "startSec": 119.8,
       "endSec": 124.4,
-      "text": "Now, let's hear some of these terms and expressions"
+      "text": "Now, let's hear some of these terms and expressions",
+      "words": [
+        {
+          "startSec": 119.8,
+          "endSec": 120.7,
+          "text": "Now,"
+        },
+        {
+          "startSec": 120.7,
+          "endSec": 121,
+          "text": "let's"
+        },
+        {
+          "startSec": 121,
+          "endSec": 121.4,
+          "text": "hear"
+        },
+        {
+          "startSec": 121.4,
+          "endSec": 121.9,
+          "text": "some"
+        },
+        {
+          "startSec": 121.9,
+          "endSec": 122.1,
+          "text": "of"
+        },
+        {
+          "startSec": 122.1,
+          "endSec": 122.7,
+          "text": "these"
+        },
+        {
+          "startSec": 122.7,
+          "endSec": 123.1,
+          "text": "terms"
+        },
+        {
+          "startSec": 123.1,
+          "endSec": 123.4,
+          "text": "and"
+        },
+        {
+          "startSec": 123.4,
+          "endSec": 124.4,
+          "text": "expressions"
+        },
+        {
+          "startSec": 124.4,
+          "endSec": 124.8,
+          "text": "used"
+        }
+      ]
     },
     {
       "startSec": 124.4,
       "endSec": 126.5,
-      "text": "used in a conversation."
+      "text": "used in a conversation.",
+      "words": [
+        {
+          "startSec": 124.4,
+          "endSec": 124.8,
+          "text": "used"
+        },
+        {
+          "startSec": 124.8,
+          "endSec": 125,
+          "text": "in"
+        },
+        {
+          "startSec": 125,
+          "endSec": 125.3,
+          "text": "a"
+        },
+        {
+          "startSec": 125.3,
+          "endSec": 126.5,
+          "text": "conversation."
+        },
+        {
+          "startSec": 126.5,
+          "endSec": 126.6,
+          "text": "-"
+        }
+      ]
     },
     {
       "startSec": 126.5,
       "endSec": 130.4,
-      "text": "- So, how are your classes going?"
+      "text": "- So, how are your classes going?",
+      "words": [
+        {
+          "startSec": 126.5,
+          "endSec": 126.6,
+          "text": "-"
+        },
+        {
+          "startSec": 126.6,
+          "endSec": 127.4,
+          "text": "So,"
+        },
+        {
+          "startSec": 127.4,
+          "endSec": 127.5,
+          "text": "how"
+        },
+        {
+          "startSec": 127.5,
+          "endSec": 127.9,
+          "text": "are"
+        },
+        {
+          "startSec": 127.9,
+          "endSec": 128.4,
+          "text": "your"
+        },
+        {
+          "startSec": 128.4,
+          "endSec": 129.3,
+          "text": "classes"
+        },
+        {
+          "startSec": 129.3,
+          "endSec": 130.4,
+          "text": "going?"
+        },
+        {
+          "startSec": 130.4,
+          "endSec": 130.5,
+          "text": "-"
+        }
+      ]
     },
     {
       "startSec": 130.4,
       "endSec": 132.1,
-      "text": "- Not great."
+      "text": "- Not great.",
+      "words": [
+        {
+          "startSec": 130.4,
+          "endSec": 130.5,
+          "text": "-"
+        },
+        {
+          "startSec": 130.5,
+          "endSec": 131.3,
+          "text": "Not"
+        },
+        {
+          "startSec": 131.3,
+          "endSec": 132.1,
+          "text": "great."
+        },
+        {
+          "startSec": 132.1,
+          "endSec": 132.5,
+          "text": "Many"
+        }
+      ]
     },
     {
       "startSec": 132.1,
       "endSec": 136.4,
-      "text": "Many of my best students are failing my course."
+      "text": "Many of my best students are failing my course.",
+      "words": [
+        {
+          "startSec": 132.1,
+          "endSec": 132.5,
+          "text": "Many"
+        },
+        {
+          "startSec": 132.5,
+          "endSec": 132.9,
+          "text": "of"
+        },
+        {
+          "startSec": 132.9,
+          "endSec": 133,
+          "text": "my"
+        },
+        {
+          "startSec": 133,
+          "endSec": 133.3,
+          "text": "best"
+        },
+        {
+          "startSec": 133.3,
+          "endSec": 134.2,
+          "text": "students"
+        },
+        {
+          "startSec": 134.2,
+          "endSec": 134.5,
+          "text": "are"
+        },
+        {
+          "startSec": 134.5,
+          "endSec": 135.2,
+          "text": "failing"
+        },
+        {
+          "startSec": 135.2,
+          "endSec": 135.4,
+          "text": "my"
+        },
+        {
+          "startSec": 135.4,
+          "endSec": 136.4,
+          "text": "course."
+        },
+        {
+          "startSec": 136.4,
+          "endSec": 136.8,
+          "text": "They"
+        }
+      ]
     },
     {
       "startSec": 136.4,
       "endSec": 140.8,
-      "text": "They all missed an important deadline for a project."
+      "text": "They all missed an important deadline for a project.",
+      "words": [
+        {
+          "startSec": 136.4,
+          "endSec": 136.8,
+          "text": "They"
+        },
+        {
+          "startSec": 136.8,
+          "endSec": 137.3,
+          "text": "all"
+        },
+        {
+          "startSec": 137.3,
+          "endSec": 137.7,
+          "text": "missed"
+        },
+        {
+          "startSec": 137.7,
+          "endSec": 137.8,
+          "text": "an"
+        },
+        {
+          "startSec": 137.8,
+          "endSec": 138.7,
+          "text": "important"
+        },
+        {
+          "startSec": 138.7,
+          "endSec": 139.4,
+          "text": "deadline"
+        },
+        {
+          "startSec": 139.4,
+          "endSec": 139.7,
+          "text": "for"
+        },
+        {
+          "startSec": 139.7,
+          "endSec": 139.8,
+          "text": "a"
+        },
+        {
+          "startSec": 139.8,
+          "endSec": 140.8,
+          "text": "project."
+        },
+        {
+          "startSec": 140.8,
+          "endSec": 140.9,
+          "text": "-"
+        }
+      ]
     },
     {
       "startSec": 140.8,
       "endSec": 142.7,
-      "text": "- That's strange."
+      "text": "- That's strange.",
+      "words": [
+        {
+          "startSec": 140.8,
+          "endSec": 140.9,
+          "text": "-"
+        },
+        {
+          "startSec": 140.9,
+          "endSec": 141.7,
+          "text": "That's"
+        },
+        {
+          "startSec": 141.7,
+          "endSec": 142.7,
+          "text": "strange."
+        },
+        {
+          "startSec": 142.7,
+          "endSec": 143.5,
+          "text": "What"
+        }
+      ]
     },
     {
       "startSec": 142.7,
       "endSec": 145.3,
-      "text": "What else do they have going on?"
+      "text": "What else do they have going on?",
+      "words": [
+        {
+          "startSec": 142.7,
+          "endSec": 143.5,
+          "text": "What"
+        },
+        {
+          "startSec": 143.5,
+          "endSec": 143.6,
+          "text": "else"
+        },
+        {
+          "startSec": 143.6,
+          "endSec": 143.6,
+          "text": "do"
+        },
+        {
+          "startSec": 143.6,
+          "endSec": 144,
+          "text": "they"
+        },
+        {
+          "startSec": 144,
+          "endSec": 144.4,
+          "text": "have"
+        },
+        {
+          "startSec": 144.4,
+          "endSec": 144.8,
+          "text": "going"
+        },
+        {
+          "startSec": 144.8,
+          "endSec": 145.3,
+          "text": "on?"
+        },
+        {
+          "startSec": 145.3,
+          "endSec": 145.5,
+          "text": "-"
+        }
+      ]
     },
     {
       "startSec": 145.3,
       "endSec": 150.3,
-      "text": "- A lot, they are all performing in the same play."
+      "text": "- A lot, they are all performing in the same play.",
+      "words": [
+        {
+          "startSec": 145.3,
+          "endSec": 145.5,
+          "text": "-"
+        },
+        {
+          "startSec": 145.5,
+          "endSec": 146.2,
+          "text": "A"
+        },
+        {
+          "startSec": 146.2,
+          "endSec": 146.5,
+          "text": "lot,"
+        },
+        {
+          "startSec": 146.5,
+          "endSec": 147,
+          "text": "they"
+        },
+        {
+          "startSec": 147,
+          "endSec": 147.3,
+          "text": "are"
+        },
+        {
+          "startSec": 147.3,
+          "endSec": 147.7,
+          "text": "all"
+        },
+        {
+          "startSec": 147.7,
+          "endSec": 148.8,
+          "text": "performing"
+        },
+        {
+          "startSec": 148.8,
+          "endSec": 149,
+          "text": "in"
+        },
+        {
+          "startSec": 149,
+          "endSec": 149.4,
+          "text": "the"
+        },
+        {
+          "startSec": 149.4,
+          "endSec": 149.8,
+          "text": "same"
+        },
+        {
+          "startSec": 149.8,
+          "endSec": 150.3,
+          "text": "play."
+        },
+        {
+          "startSec": 150.3,
+          "endSec": 151,
+          "text": "So,"
+        }
+      ]
     },
     {
       "startSec": 150.3,
       "endSec": 155.3,
-      "text": "So, they have had rehearsals every night for the past month."
+      "text": "So, they have had rehearsals every night for the past month.",
+      "words": [
+        {
+          "startSec": 150.3,
+          "endSec": 151,
+          "text": "So,"
+        },
+        {
+          "startSec": 151,
+          "endSec": 151.2,
+          "text": "they"
+        },
+        {
+          "startSec": 151.2,
+          "endSec": 151.3,
+          "text": "have"
+        },
+        {
+          "startSec": 151.3,
+          "endSec": 151.6,
+          "text": "had"
+        },
+        {
+          "startSec": 151.6,
+          "endSec": 152.5,
+          "text": "rehearsals"
+        },
+        {
+          "startSec": 152.5,
+          "endSec": 153,
+          "text": "every"
+        },
+        {
+          "startSec": 153,
+          "endSec": 153.4,
+          "text": "night"
+        },
+        {
+          "startSec": 153.4,
+          "endSec": 153.8,
+          "text": "for"
+        },
+        {
+          "startSec": 153.8,
+          "endSec": 154.1,
+          "text": "the"
+        },
+        {
+          "startSec": 154.1,
+          "endSec": 154.5,
+          "text": "past"
+        },
+        {
+          "startSec": 154.5,
+          "endSec": 155.3,
+          "text": "month."
+        },
+        {
+          "startSec": 155.3,
+          "endSec": 156,
+          "text": "And"
+        }
+      ]
     },
     {
       "startSec": 155.3,
       "endSec": 158.7,
-      "text": "And many have part-time jobs as well."
+      "text": "And many have part-time jobs as well.",
+      "words": [
+        {
+          "startSec": 155.3,
+          "endSec": 156,
+          "text": "And"
+        },
+        {
+          "startSec": 156,
+          "endSec": 156.2,
+          "text": "many"
+        },
+        {
+          "startSec": 156.2,
+          "endSec": 156.4,
+          "text": "have"
+        },
+        {
+          "startSec": 156.4,
+          "endSec": 157.3,
+          "text": "part-time"
+        },
+        {
+          "startSec": 157.3,
+          "endSec": 157.7,
+          "text": "jobs"
+        },
+        {
+          "startSec": 157.7,
+          "endSec": 157.9,
+          "text": "as"
+        },
+        {
+          "startSec": 157.9,
+          "endSec": 158.7,
+          "text": "well."
+        },
+        {
+          "startSec": 158.7,
+          "endSec": 159.5,
+          "text": "-"
+        }
+      ]
     },
     {
       "startSec": 158.7,
       "endSec": 163.7,
-      "text": "- Sounds like they've spread themselves too thin."
+      "text": "- Sounds like they've spread themselves too thin.",
+      "words": [
+        {
+          "startSec": 158.7,
+          "endSec": 159.5,
+          "text": "-"
+        },
+        {
+          "startSec": 159.5,
+          "endSec": 159.6,
+          "text": "Sounds"
+        },
+        {
+          "startSec": 159.6,
+          "endSec": 159.9,
+          "text": "like"
+        },
+        {
+          "startSec": 159.9,
+          "endSec": 160.7,
+          "text": "they've"
+        },
+        {
+          "startSec": 160.7,
+          "endSec": 161.4,
+          "text": "spread"
+        },
+        {
+          "startSec": 161.4,
+          "endSec": 162.5,
+          "text": "themselves"
+        },
+        {
+          "startSec": 162.5,
+          "endSec": 162.9,
+          "text": "too"
+        },
+        {
+          "startSec": 162.9,
+          "endSec": 163.7,
+          "text": "thin."
+        },
+        {
+          "startSec": 163.7,
+          "endSec": 164.6,
+          "text": "They've"
+        }
+      ]
     },
     {
       "startSec": 163.7,
       "endSec": 166.3,
-      "text": "They've got too much going on."
+      "text": "They've got too much going on.",
+      "words": [
+        {
+          "startSec": 163.7,
+          "endSec": 164.6,
+          "text": "They've"
+        },
+        {
+          "startSec": 164.6,
+          "endSec": 164.7,
+          "text": "got"
+        },
+        {
+          "startSec": 164.7,
+          "endSec": 164.9,
+          "text": "too"
+        },
+        {
+          "startSec": 164.9,
+          "endSec": 165.3,
+          "text": "much"
+        },
+        {
+          "startSec": 165.3,
+          "endSec": 165.8,
+          "text": "going"
+        },
+        {
+          "startSec": 165.8,
+          "endSec": 166.3,
+          "text": "on."
+        },
+        {
+          "startSec": 166.3,
+          "endSec": 166.4,
+          "text": "-"
+        }
+      ]
     },
     {
       "startSec": 166.3,
       "endSec": 167.7,
-      "text": "- I think you're right."
+      "text": "- I think you're right.",
+      "words": [
+        {
+          "startSec": 166.3,
+          "endSec": 166.4,
+          "text": "-"
+        },
+        {
+          "startSec": 166.4,
+          "endSec": 166.4,
+          "text": "I"
+        },
+        {
+          "startSec": 166.4,
+          "endSec": 166.8,
+          "text": "think"
+        },
+        {
+          "startSec": 166.8,
+          "endSec": 167.2,
+          "text": "you're"
+        },
+        {
+          "startSec": 167.2,
+          "endSec": 167.7,
+          "text": "right."
+        },
+        {
+          "startSec": 167.7,
+          "endSec": 167.9,
+          "text": "-"
+        }
+      ]
     },
     {
       "startSec": 167.7,
       "endSec": 171.7,
-      "text": "- So, what are you going to do?"
+      "text": "- So, what are you going to do?",
+      "words": [
+        {
+          "startSec": 167.7,
+          "endSec": 167.9,
+          "text": "-"
+        },
+        {
+          "startSec": 167.9,
+          "endSec": 168.6,
+          "text": "So,"
+        },
+        {
+          "startSec": 168.6,
+          "endSec": 169,
+          "text": "what"
+        },
+        {
+          "startSec": 169,
+          "endSec": 169.5,
+          "text": "are"
+        },
+        {
+          "startSec": 169.5,
+          "endSec": 169.9,
+          "text": "you"
+        },
+        {
+          "startSec": 169.9,
+          "endSec": 170.6,
+          "text": "going"
+        },
+        {
+          "startSec": 170.6,
+          "endSec": 170.9,
+          "text": "to"
+        },
+        {
+          "startSec": 170.9,
+          "endSec": 171.7,
+          "text": "do?"
+        },
+        {
+          "startSec": 171.7,
+          "endSec": 171.8,
+          "text": "-"
+        }
+      ]
     },
     {
       "startSec": 171.7,
       "endSec": 175.3,
-      "text": "- Well, first, I'll extend the deadline."
+      "text": "- Well, first, I'll extend the deadline.",
+      "words": [
+        {
+          "startSec": 171.7,
+          "endSec": 171.8,
+          "text": "-"
+        },
+        {
+          "startSec": 171.8,
+          "endSec": 172.6,
+          "text": "Well,"
+        },
+        {
+          "startSec": 172.6,
+          "endSec": 173.1,
+          "text": "first,"
+        },
+        {
+          "startSec": 173.1,
+          "endSec": 173.5,
+          "text": "I'll"
+        },
+        {
+          "startSec": 173.5,
+          "endSec": 174.1,
+          "text": "extend"
+        },
+        {
+          "startSec": 174.1,
+          "endSec": 174.4,
+          "text": "the"
+        },
+        {
+          "startSec": 174.4,
+          "endSec": 175.3,
+          "text": "deadline."
+        },
+        {
+          "startSec": 175.3,
+          "endSec": 176.2,
+          "text": "And"
+        }
+      ]
     },
     {
       "startSec": 175.3,
       "endSec": 180.1,
-      "text": "And then I'm going to warn them about biting off"
+      "text": "And then I'm going to warn them about biting off",
+      "words": [
+        {
+          "startSec": 175.3,
+          "endSec": 176.2,
+          "text": "And"
+        },
+        {
+          "startSec": 176.2,
+          "endSec": 176.2,
+          "text": "then"
+        },
+        {
+          "startSec": 176.2,
+          "endSec": 176.6,
+          "text": "I'm"
+        },
+        {
+          "startSec": 176.6,
+          "endSec": 177.2,
+          "text": "going"
+        },
+        {
+          "startSec": 177.2,
+          "endSec": 177.4,
+          "text": "to"
+        },
+        {
+          "startSec": 177.4,
+          "endSec": 178,
+          "text": "warn"
+        },
+        {
+          "startSec": 178,
+          "endSec": 178.5,
+          "text": "them"
+        },
+        {
+          "startSec": 178.5,
+          "endSec": 179,
+          "text": "about"
+        },
+        {
+          "startSec": 179,
+          "endSec": 179.5,
+          "text": "biting"
+        },
+        {
+          "startSec": 179.5,
+          "endSec": 180.1,
+          "text": "off"
+        },
+        {
+          "startSec": 180.1,
+          "endSec": 180.4,
+          "text": "more"
+        }
+      ]
     },
     {
       "startSec": 180.1,
       "endSec": 181.7,
-      "text": "more than they can chew."
+      "text": "more than they can chew.",
+      "words": [
+        {
+          "startSec": 180.1,
+          "endSec": 180.4,
+          "text": "more"
+        },
+        {
+          "startSec": 180.4,
+          "endSec": 181,
+          "text": "than"
+        },
+        {
+          "startSec": 181,
+          "endSec": 181,
+          "text": "they"
+        },
+        {
+          "startSec": 181,
+          "endSec": 181.2,
+          "text": "can"
+        },
+        {
+          "startSec": 181.2,
+          "endSec": 181.7,
+          "text": "chew."
+        },
+        {
+          "startSec": 181.7,
+          "endSec": 182.4,
+          "text": "-"
+        }
+      ]
     },
     {
       "startSec": 181.7,
       "endSec": 186.7,
-      "text": "- And that's all the time we have for this words"
+      "text": "- And that's all the time we have for this words",
+      "words": [
+        {
+          "startSec": 181.7,
+          "endSec": 182.4,
+          "text": "-"
+        },
+        {
+          "startSec": 182.4,
+          "endSec": 182.6,
+          "text": "And"
+        },
+        {
+          "startSec": 182.6,
+          "endSec": 183.5,
+          "text": "that's"
+        },
+        {
+          "startSec": 183.5,
+          "endSec": 184.1,
+          "text": "all"
+        },
+        {
+          "startSec": 184.1,
+          "endSec": 184.6,
+          "text": "the"
+        },
+        {
+          "startSec": 184.6,
+          "endSec": 185.4,
+          "text": "time"
+        },
+        {
+          "startSec": 185.4,
+          "endSec": 185.5,
+          "text": "we"
+        },
+        {
+          "startSec": 185.5,
+          "endSec": 185.9,
+          "text": "have"
+        },
+        {
+          "startSec": 185.9,
+          "endSec": 186.1,
+          "text": "for"
+        },
+        {
+          "startSec": 186.1,
+          "endSec": 186.4,
+          "text": "this"
+        },
+        {
+          "startSec": 186.4,
+          "endSec": 186.7,
+          "text": "words"
+        },
+        {
+          "startSec": 186.7,
+          "endSec": 187,
+          "text": "and"
+        }
+      ]
     },
     {
       "startSec": 186.7,
       "endSec": 188.1,
-      "text": "and their stories."
+      "text": "and their stories.",
+      "words": [
+        {
+          "startSec": 186.7,
+          "endSec": 187,
+          "text": "and"
+        },
+        {
+          "startSec": 187,
+          "endSec": 187.6,
+          "text": "their"
+        },
+        {
+          "startSec": 187.6,
+          "endSec": 188.1,
+          "text": "stories."
+        },
+        {
+          "startSec": 188.1,
+          "endSec": 189,
+          "text": "Until"
+        }
+      ]
     },
     {
       "startSec": 188.1,
       "endSec": 191,
-      "text": "Until next time, I'm Onomatteo."
+      "text": "Until next time, I'm Onomatteo.",
+      "words": [
+        {
+          "startSec": 188.1,
+          "endSec": 189,
+          "text": "Until"
+        },
+        {
+          "startSec": 189,
+          "endSec": 189,
+          "text": "next"
+        },
+        {
+          "startSec": 189,
+          "endSec": 189.6,
+          "text": "time,"
+        },
+        {
+          "startSec": 189.6,
+          "endSec": 189.8,
+          "text": "I'm"
+        },
+        {
+          "startSec": 189.8,
+          "endSec": 191,
+          "text": "Onomatteo."
+        },
+        {
+          "startSec": 191,
+          "endSec": 192.5,
+          "text": "(playful"
+        }
+      ]
     },
     {
       "startSec": 191,
       "endSec": 193.7,
-      "text": "(playful music)"
+      "text": "(playful music)",
+      "words": [
+        {
+          "startSec": 191,
+          "endSec": 192.5,
+          "text": "(playful"
+        },
+        {
+          "startSec": 192.5,
+          "endSec": 193.7,
+          "text": "music)"
+        }
+      ]
     },
     {
       "startSec": 201.7,
       "endSec": 204.4,
-      "text": "(playful music)"
+      "text": "(playful music)",
+      "words": [
+        {
+          "startSec": 201.7,
+          "endSec": 203.2,
+          "text": "(playful"
+        },
+        {
+          "startSec": 203.2,
+          "endSec": 204.4,
+          "text": "music)"
+        }
+      ]
     }
   ],
   "cefr": "B2",

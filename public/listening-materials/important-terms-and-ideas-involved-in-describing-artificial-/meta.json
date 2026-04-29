@@ -9,347 +9,4500 @@
     {
       "startSec": 0,
       "endSec": 8.8,
-      "text": "There are several terms experts use to describe computer systems in the field of artificial"
+      "text": "There are several terms experts use to describe computer systems in the field of artificial",
+      "words": [
+        {
+          "startSec": 0,
+          "endSec": 1.2,
+          "text": "There"
+        },
+        {
+          "startSec": 1.2,
+          "endSec": 1.2,
+          "text": "are"
+        },
+        {
+          "startSec": 1.2,
+          "endSec": 2.1,
+          "text": "several"
+        },
+        {
+          "startSec": 2.1,
+          "endSec": 3,
+          "text": "terms"
+        },
+        {
+          "startSec": 3,
+          "endSec": 3.8,
+          "text": "experts"
+        },
+        {
+          "startSec": 3.8,
+          "endSec": 4.3,
+          "text": "use"
+        },
+        {
+          "startSec": 4.3,
+          "endSec": 4.4,
+          "text": "to"
+        },
+        {
+          "startSec": 4.4,
+          "endSec": 5.2,
+          "text": "describe"
+        },
+        {
+          "startSec": 5.2,
+          "endSec": 6,
+          "text": "computer"
+        },
+        {
+          "startSec": 6,
+          "endSec": 7,
+          "text": "systems"
+        },
+        {
+          "startSec": 7,
+          "endSec": 7.1,
+          "text": "in"
+        },
+        {
+          "startSec": 7.1,
+          "endSec": 7.4,
+          "text": "the"
+        },
+        {
+          "startSec": 7.4,
+          "endSec": 7.9,
+          "text": "field"
+        },
+        {
+          "startSec": 7.9,
+          "endSec": 8,
+          "text": "of"
+        },
+        {
+          "startSec": 8,
+          "endSec": 8.8,
+          "text": "artificial"
+        },
+        {
+          "startSec": 8.8,
+          "endSec": 10.3,
+          "text": "intelligence."
+        }
+      ]
     },
     {
       "startSec": 8.8,
       "endSec": 10.3,
-      "text": "intelligence."
+      "text": "intelligence.",
+      "words": [
+        {
+          "startSec": 8.8,
+          "endSec": 10.3,
+          "text": "intelligence."
+        },
+        {
+          "startSec": 10.3,
+          "endSec": 11.5,
+          "text": "Recently,"
+        }
+      ]
     },
     {
       "startSec": 10.3,
       "endSec": 19.8,
-      "text": "Recently, the French news agency, AFP, defined some of the common terms and ideas used in"
+      "text": "Recently, the French news agency, AFP, defined some of the common terms and ideas used in",
+      "words": [
+        {
+          "startSec": 10.3,
+          "endSec": 11.5,
+          "text": "Recently,"
+        },
+        {
+          "startSec": 11.5,
+          "endSec": 11.9,
+          "text": "the"
+        },
+        {
+          "startSec": 11.9,
+          "endSec": 12.6,
+          "text": "French"
+        },
+        {
+          "startSec": 12.6,
+          "endSec": 13.3,
+          "text": "news"
+        },
+        {
+          "startSec": 13.3,
+          "endSec": 14.1,
+          "text": "agency,"
+        },
+        {
+          "startSec": 14.1,
+          "endSec": 14.7,
+          "text": "AFP,"
+        },
+        {
+          "startSec": 14.7,
+          "endSec": 15.5,
+          "text": "defined"
+        },
+        {
+          "startSec": 15.5,
+          "endSec": 16,
+          "text": "some"
+        },
+        {
+          "startSec": 16,
+          "endSec": 16.2,
+          "text": "of"
+        },
+        {
+          "startSec": 16.2,
+          "endSec": 16.6,
+          "text": "the"
+        },
+        {
+          "startSec": 16.6,
+          "endSec": 17.3,
+          "text": "common"
+        },
+        {
+          "startSec": 17.3,
+          "endSec": 17.9,
+          "text": "terms"
+        },
+        {
+          "startSec": 17.9,
+          "endSec": 18.3,
+          "text": "and"
+        },
+        {
+          "startSec": 18.3,
+          "endSec": 19,
+          "text": "ideas"
+        },
+        {
+          "startSec": 19,
+          "endSec": 19.6,
+          "text": "used"
+        },
+        {
+          "startSec": 19.6,
+          "endSec": 19.8,
+          "text": "in"
+        },
+        {
+          "startSec": 19.8,
+          "endSec": 21,
+          "text": "that"
+        }
+      ]
     },
     {
       "startSec": 19.8,
       "endSec": 21.8,
-      "text": "that field."
+      "text": "that field.",
+      "words": [
+        {
+          "startSec": 19.8,
+          "endSec": 21,
+          "text": "that"
+        },
+        {
+          "startSec": 21,
+          "endSec": 21.8,
+          "text": "field."
+        },
+        {
+          "startSec": 21.8,
+          "endSec": 22.3,
+          "text": "Here"
+        }
+      ]
     },
     {
       "startSec": 21.8,
       "endSec": 26,
-      "text": "Here is a version for English learners."
+      "text": "Here is a version for English learners.",
+      "words": [
+        {
+          "startSec": 21.8,
+          "endSec": 22.3,
+          "text": "Here"
+        },
+        {
+          "startSec": 22.3,
+          "endSec": 22.5,
+          "text": "is"
+        },
+        {
+          "startSec": 22.5,
+          "endSec": 23,
+          "text": "a"
+        },
+        {
+          "startSec": 23,
+          "endSec": 23.5,
+          "text": "version"
+        },
+        {
+          "startSec": 23.5,
+          "endSec": 23.9,
+          "text": "for"
+        },
+        {
+          "startSec": 23.9,
+          "endSec": 24.8,
+          "text": "English"
+        },
+        {
+          "startSec": 24.8,
+          "endSec": 26,
+          "text": "learners."
+        },
+        {
+          "startSec": 26,
+          "endSec": 26.4,
+          "text": "The"
+        }
+      ]
     },
     {
       "startSec": 26,
       "endSec": 30.7,
-      "text": "The first term is artificial intelligence."
+      "text": "The first term is artificial intelligence.",
+      "words": [
+        {
+          "startSec": 26,
+          "endSec": 26.4,
+          "text": "The"
+        },
+        {
+          "startSec": 26.4,
+          "endSec": 27.2,
+          "text": "first"
+        },
+        {
+          "startSec": 27.2,
+          "endSec": 27.5,
+          "text": "term"
+        },
+        {
+          "startSec": 27.5,
+          "endSec": 27.8,
+          "text": "is"
+        },
+        {
+          "startSec": 27.8,
+          "endSec": 29,
+          "text": "artificial"
+        },
+        {
+          "startSec": 29,
+          "endSec": 30.7,
+          "text": "intelligence."
+        },
+        {
+          "startSec": 30.7,
+          "endSec": 31.1,
+          "text": "When"
+        }
+      ]
     },
     {
       "startSec": 30.7,
       "endSec": 38.9,
-      "text": "When asked what artificial intelligence is, the AI-powered chat GPT system says that the"
+      "text": "When asked what artificial intelligence is, the AI-powered chat GPT system says that the",
+      "words": [
+        {
+          "startSec": 30.7,
+          "endSec": 31.1,
+          "text": "When"
+        },
+        {
+          "startSec": 31.1,
+          "endSec": 31.8,
+          "text": "asked"
+        },
+        {
+          "startSec": 31.8,
+          "endSec": 32.1,
+          "text": "what"
+        },
+        {
+          "startSec": 32.1,
+          "endSec": 33.2,
+          "text": "artificial"
+        },
+        {
+          "startSec": 33.2,
+          "endSec": 34.6,
+          "text": "intelligence"
+        },
+        {
+          "startSec": 34.6,
+          "endSec": 35,
+          "text": "is,"
+        },
+        {
+          "startSec": 35,
+          "endSec": 35.4,
+          "text": "the"
+        },
+        {
+          "startSec": 35.4,
+          "endSec": 36.4,
+          "text": "AI-powered"
+        },
+        {
+          "startSec": 36.4,
+          "endSec": 36.9,
+          "text": "chat"
+        },
+        {
+          "startSec": 36.9,
+          "endSec": 37.6,
+          "text": "GPT"
+        },
+        {
+          "startSec": 37.6,
+          "endSec": 38,
+          "text": "system"
+        },
+        {
+          "startSec": 38,
+          "endSec": 38.3,
+          "text": "says"
+        },
+        {
+          "startSec": 38.3,
+          "endSec": 38.8,
+          "text": "that"
+        },
+        {
+          "startSec": 38.8,
+          "endSec": 38.9,
+          "text": "the"
+        },
+        {
+          "startSec": 38.9,
+          "endSec": 39.3,
+          "text": "term"
+        }
+      ]
     },
     {
       "startSec": 38.9,
       "endSec": 47.8,
-      "text": "term means \"the simulation of human intelligence in machines that are programmed to think, learn,"
+      "text": "term means \"the simulation of human intelligence in machines that are programmed to think, learn,",
+      "words": [
+        {
+          "startSec": 38.9,
+          "endSec": 39.3,
+          "text": "term"
+        },
+        {
+          "startSec": 39.3,
+          "endSec": 39.8,
+          "text": "means"
+        },
+        {
+          "startSec": 39.8,
+          "endSec": 40.2,
+          "text": "\"the"
+        },
+        {
+          "startSec": 40.2,
+          "endSec": 41.2,
+          "text": "simulation"
+        },
+        {
+          "startSec": 41.2,
+          "endSec": 41.4,
+          "text": "of"
+        },
+        {
+          "startSec": 41.4,
+          "endSec": 41.9,
+          "text": "human"
+        },
+        {
+          "startSec": 41.9,
+          "endSec": 43.2,
+          "text": "intelligence"
+        },
+        {
+          "startSec": 43.2,
+          "endSec": 43.3,
+          "text": "in"
+        },
+        {
+          "startSec": 43.3,
+          "endSec": 44.2,
+          "text": "machines"
+        },
+        {
+          "startSec": 44.2,
+          "endSec": 44.5,
+          "text": "that"
+        },
+        {
+          "startSec": 44.5,
+          "endSec": 44.9,
+          "text": "are"
+        },
+        {
+          "startSec": 44.9,
+          "endSec": 45.9,
+          "text": "programmed"
+        },
+        {
+          "startSec": 45.9,
+          "endSec": 46,
+          "text": "to"
+        },
+        {
+          "startSec": 46,
+          "endSec": 46.9,
+          "text": "think,"
+        },
+        {
+          "startSec": 46.9,
+          "endSec": 47.8,
+          "text": "learn,"
+        },
+        {
+          "startSec": 47.8,
+          "endSec": 48.1,
+          "text": "and"
+        }
+      ]
     },
     {
       "startSec": 47.8,
       "endSec": 49.8,
-      "text": "and make decisions.\""
+      "text": "and make decisions.\"",
+      "words": [
+        {
+          "startSec": 47.8,
+          "endSec": 48.1,
+          "text": "and"
+        },
+        {
+          "startSec": 48.1,
+          "endSec": 49,
+          "text": "make"
+        },
+        {
+          "startSec": 49,
+          "endSec": 49.8,
+          "text": "decisions.\""
+        },
+        {
+          "startSec": 49.8,
+          "endSec": 50.3,
+          "text": "AI's"
+        }
+      ]
     },
     {
       "startSec": 49.8,
       "endSec": 58.8,
-      "text": "AI's mean quality or characteristic is taking in large amounts of data and then processing"
+      "text": "AI's mean quality or characteristic is taking in large amounts of data and then processing",
+      "words": [
+        {
+          "startSec": 49.8,
+          "endSec": 50.3,
+          "text": "AI's"
+        },
+        {
+          "startSec": 50.3,
+          "endSec": 51,
+          "text": "mean"
+        },
+        {
+          "startSec": 51,
+          "endSec": 51.6,
+          "text": "quality"
+        },
+        {
+          "startSec": 51.6,
+          "endSec": 51.8,
+          "text": "or"
+        },
+        {
+          "startSec": 51.8,
+          "endSec": 53.5,
+          "text": "characteristic"
+        },
+        {
+          "startSec": 53.5,
+          "endSec": 53.7,
+          "text": "is"
+        },
+        {
+          "startSec": 53.7,
+          "endSec": 54.4,
+          "text": "taking"
+        },
+        {
+          "startSec": 54.4,
+          "endSec": 54.6,
+          "text": "in"
+        },
+        {
+          "startSec": 54.6,
+          "endSec": 55.2,
+          "text": "large"
+        },
+        {
+          "startSec": 55.2,
+          "endSec": 56,
+          "text": "amounts"
+        },
+        {
+          "startSec": 56,
+          "endSec": 56.2,
+          "text": "of"
+        },
+        {
+          "startSec": 56.2,
+          "endSec": 56.8,
+          "text": "data"
+        },
+        {
+          "startSec": 56.8,
+          "endSec": 57.1,
+          "text": "and"
+        },
+        {
+          "startSec": 57.1,
+          "endSec": 57.7,
+          "text": "then"
+        },
+        {
+          "startSec": 57.7,
+          "endSec": 58.8,
+          "text": "processing"
+        },
+        {
+          "startSec": 58.8,
+          "endSec": 59,
+          "text": "it"
+        }
+      ]
     },
     {
       "startSec": 58.8,
       "endSec": 62.7,
-      "text": "it using methods from statistics."
+      "text": "it using methods from statistics.",
+      "words": [
+        {
+          "startSec": 58.8,
+          "endSec": 59,
+          "text": "it"
+        },
+        {
+          "startSec": 59,
+          "endSec": 59.9,
+          "text": "using"
+        },
+        {
+          "startSec": 59.9,
+          "endSec": 60.5,
+          "text": "methods"
+        },
+        {
+          "startSec": 60.5,
+          "endSec": 61,
+          "text": "from"
+        },
+        {
+          "startSec": 61,
+          "endSec": 62.7,
+          "text": "statistics."
+        },
+        {
+          "startSec": 62.7,
+          "endSec": 63.8,
+          "text": "AI"
+        }
+      ]
     },
     {
       "startSec": 62.7,
       "endSec": 71.8,
-      "text": "AI involves using ideas from many fields, including computing, mathematics, languages,"
+      "text": "AI involves using ideas from many fields, including computing, mathematics, languages,",
+      "words": [
+        {
+          "startSec": 62.7,
+          "endSec": 63.8,
+          "text": "AI"
+        },
+        {
+          "startSec": 63.8,
+          "endSec": 63.9,
+          "text": "involves"
+        },
+        {
+          "startSec": 63.9,
+          "endSec": 64.4,
+          "text": "using"
+        },
+        {
+          "startSec": 64.4,
+          "endSec": 65,
+          "text": "ideas"
+        },
+        {
+          "startSec": 65,
+          "endSec": 65.4,
+          "text": "from"
+        },
+        {
+          "startSec": 65.4,
+          "endSec": 65.9,
+          "text": "many"
+        },
+        {
+          "startSec": 65.9,
+          "endSec": 66.8,
+          "text": "fields,"
+        },
+        {
+          "startSec": 66.8,
+          "endSec": 67.8,
+          "text": "including"
+        },
+        {
+          "startSec": 67.8,
+          "endSec": 69,
+          "text": "computing,"
+        },
+        {
+          "startSec": 69,
+          "endSec": 70.6,
+          "text": "mathematics,"
+        },
+        {
+          "startSec": 70.6,
+          "endSec": 71.8,
+          "text": "languages,"
+        },
+        {
+          "startSec": 71.8,
+          "endSec": 73.2,
+          "text": "psychology,"
+        }
+      ]
     },
     {
       "startSec": 71.8,
       "endSec": 74.6,
-      "text": "psychology, and others."
+      "text": "psychology, and others.",
+      "words": [
+        {
+          "startSec": 71.8,
+          "endSec": 73.2,
+          "text": "psychology,"
+        },
+        {
+          "startSec": 73.2,
+          "endSec": 73.6,
+          "text": "and"
+        },
+        {
+          "startSec": 73.6,
+          "endSec": 74.6,
+          "text": "others."
+        },
+        {
+          "startSec": 74.6,
+          "endSec": 75.8,
+          "text": "Currently,"
+        }
+      ]
     },
     {
       "startSec": 74.6,
       "endSec": 82.7,
-      "text": "Currently, the technology is being used heavily for investigating health issues, translating"
+      "text": "Currently, the technology is being used heavily for investigating health issues, translating",
+      "words": [
+        {
+          "startSec": 74.6,
+          "endSec": 75.8,
+          "text": "Currently,"
+        },
+        {
+          "startSec": 75.8,
+          "endSec": 76.1,
+          "text": "the"
+        },
+        {
+          "startSec": 76.1,
+          "endSec": 77.1,
+          "text": "technology"
+        },
+        {
+          "startSec": 77.1,
+          "endSec": 77.6,
+          "text": "is"
+        },
+        {
+          "startSec": 77.6,
+          "endSec": 77.9,
+          "text": "being"
+        },
+        {
+          "startSec": 77.9,
+          "endSec": 78.3,
+          "text": "used"
+        },
+        {
+          "startSec": 78.3,
+          "endSec": 79,
+          "text": "heavily"
+        },
+        {
+          "startSec": 79,
+          "endSec": 79.4,
+          "text": "for"
+        },
+        {
+          "startSec": 79.4,
+          "endSec": 80.7,
+          "text": "investigating"
+        },
+        {
+          "startSec": 80.7,
+          "endSec": 81.6,
+          "text": "health"
+        },
+        {
+          "startSec": 81.6,
+          "endSec": 82.2,
+          "text": "issues,"
+        },
+        {
+          "startSec": 82.2,
+          "endSec": 82.7,
+          "text": "translating"
+        },
+        {
+          "startSec": 82.7,
+          "endSec": 83.8,
+          "text": "human"
+        }
+      ]
     },
     {
       "startSec": 82.7,
       "endSec": 91.3,
-      "text": "human languages, and predicting problems in machine tools and self-driving cars."
+      "text": "human languages, and predicting problems in machine tools and self-driving cars.",
+      "words": [
+        {
+          "startSec": 82.7,
+          "endSec": 83.8,
+          "text": "human"
+        },
+        {
+          "startSec": 83.8,
+          "endSec": 84.6,
+          "text": "languages,"
+        },
+        {
+          "startSec": 84.6,
+          "endSec": 84.9,
+          "text": "and"
+        },
+        {
+          "startSec": 84.9,
+          "endSec": 86.1,
+          "text": "predicting"
+        },
+        {
+          "startSec": 86.1,
+          "endSec": 87,
+          "text": "problems"
+        },
+        {
+          "startSec": 87,
+          "endSec": 87.3,
+          "text": "in"
+        },
+        {
+          "startSec": 87.3,
+          "endSec": 88.1,
+          "text": "machine"
+        },
+        {
+          "startSec": 88.1,
+          "endSec": 88.7,
+          "text": "tools"
+        },
+        {
+          "startSec": 88.7,
+          "endSec": 89,
+          "text": "and"
+        },
+        {
+          "startSec": 89,
+          "endSec": 90.6,
+          "text": "self-driving"
+        },
+        {
+          "startSec": 90.6,
+          "endSec": 91.3,
+          "text": "cars."
+        },
+        {
+          "startSec": 91.3,
+          "endSec": 91.7,
+          "text": "But"
+        }
+      ]
     },
     {
       "startSec": 91.3,
       "endSec": 97.7,
-      "text": "But AI is affecting many fields of business and industry."
+      "text": "But AI is affecting many fields of business and industry.",
+      "words": [
+        {
+          "startSec": 91.3,
+          "endSec": 91.7,
+          "text": "But"
+        },
+        {
+          "startSec": 91.7,
+          "endSec": 91.9,
+          "text": "AI"
+        },
+        {
+          "startSec": 91.9,
+          "endSec": 92.5,
+          "text": "is"
+        },
+        {
+          "startSec": 92.5,
+          "endSec": 93.3,
+          "text": "affecting"
+        },
+        {
+          "startSec": 93.3,
+          "endSec": 93.8,
+          "text": "many"
+        },
+        {
+          "startSec": 93.8,
+          "endSec": 94.6,
+          "text": "fields"
+        },
+        {
+          "startSec": 94.6,
+          "endSec": 94.8,
+          "text": "of"
+        },
+        {
+          "startSec": 94.8,
+          "endSec": 96.1,
+          "text": "business"
+        },
+        {
+          "startSec": 96.1,
+          "endSec": 96.2,
+          "text": "and"
+        },
+        {
+          "startSec": 96.2,
+          "endSec": 97.7,
+          "text": "industry."
+        },
+        {
+          "startSec": 97.7,
+          "endSec": 98.8,
+          "text": "A"
+        }
+      ]
     },
     {
       "startSec": 97.7,
       "endSec": 107.8,
-      "text": "A second important term is algorithm."
+      "text": "A second important term is algorithm.",
+      "words": [
+        {
+          "startSec": 97.7,
+          "endSec": 98.8,
+          "text": "A"
+        },
+        {
+          "startSec": 98.8,
+          "endSec": 99.8,
+          "text": "second"
+        },
+        {
+          "startSec": 99.8,
+          "endSec": 102.4,
+          "text": "important"
+        },
+        {
+          "startSec": 102.4,
+          "endSec": 103.6,
+          "text": "term"
+        },
+        {
+          "startSec": 103.6,
+          "endSec": 104.6,
+          "text": "is"
+        },
+        {
+          "startSec": 104.6,
+          "endSec": 107.8,
+          "text": "algorithm."
+        },
+        {
+          "startSec": 107.8,
+          "endSec": 108.1,
+          "text": "It"
+        }
+      ]
     },
     {
       "startSec": 107.8,
       "endSec": 116.6,
-      "text": "It is a series of steps or instructions followed by a computer program to get a result."
+      "text": "It is a series of steps or instructions followed by a computer program to get a result.",
+      "words": [
+        {
+          "startSec": 107.8,
+          "endSec": 108.1,
+          "text": "It"
+        },
+        {
+          "startSec": 108.1,
+          "endSec": 108.3,
+          "text": "is"
+        },
+        {
+          "startSec": 108.3,
+          "endSec": 109,
+          "text": "a"
+        },
+        {
+          "startSec": 109,
+          "endSec": 109.2,
+          "text": "series"
+        },
+        {
+          "startSec": 109.2,
+          "endSec": 109.4,
+          "text": "of"
+        },
+        {
+          "startSec": 109.4,
+          "endSec": 110,
+          "text": "steps"
+        },
+        {
+          "startSec": 110,
+          "endSec": 110.2,
+          "text": "or"
+        },
+        {
+          "startSec": 110.2,
+          "endSec": 111.7,
+          "text": "instructions"
+        },
+        {
+          "startSec": 111.7,
+          "endSec": 112.6,
+          "text": "followed"
+        },
+        {
+          "startSec": 112.6,
+          "endSec": 112.8,
+          "text": "by"
+        },
+        {
+          "startSec": 112.8,
+          "endSec": 113,
+          "text": "a"
+        },
+        {
+          "startSec": 113,
+          "endSec": 113.9,
+          "text": "computer"
+        },
+        {
+          "startSec": 113.9,
+          "endSec": 114.8,
+          "text": "program"
+        },
+        {
+          "startSec": 114.8,
+          "endSec": 115,
+          "text": "to"
+        },
+        {
+          "startSec": 115,
+          "endSec": 115.3,
+          "text": "get"
+        },
+        {
+          "startSec": 115.3,
+          "endSec": 115.5,
+          "text": "a"
+        },
+        {
+          "startSec": 115.5,
+          "endSec": 116.6,
+          "text": "result."
+        },
+        {
+          "startSec": 116.6,
+          "endSec": 117.7,
+          "text": "Algorithms"
+        }
+      ]
     },
     {
       "startSec": 116.6,
       "endSec": 124.4,
-      "text": "Algorithms can give rules for an AI's behavior, helping it to realize the objectives of computer"
+      "text": "Algorithms can give rules for an AI's behavior, helping it to realize the objectives of computer",
+      "words": [
+        {
+          "startSec": 116.6,
+          "endSec": 117.7,
+          "text": "Algorithms"
+        },
+        {
+          "startSec": 117.7,
+          "endSec": 117.8,
+          "text": "can"
+        },
+        {
+          "startSec": 117.8,
+          "endSec": 118.3,
+          "text": "give"
+        },
+        {
+          "startSec": 118.3,
+          "endSec": 118.7,
+          "text": "rules"
+        },
+        {
+          "startSec": 118.7,
+          "endSec": 119,
+          "text": "for"
+        },
+        {
+          "startSec": 119,
+          "endSec": 119.1,
+          "text": "an"
+        },
+        {
+          "startSec": 119.1,
+          "endSec": 119.6,
+          "text": "AI's"
+        },
+        {
+          "startSec": 119.6,
+          "endSec": 120.5,
+          "text": "behavior,"
+        },
+        {
+          "startSec": 120.5,
+          "endSec": 121.2,
+          "text": "helping"
+        },
+        {
+          "startSec": 121.2,
+          "endSec": 121.4,
+          "text": "it"
+        },
+        {
+          "startSec": 121.4,
+          "endSec": 121.6,
+          "text": "to"
+        },
+        {
+          "startSec": 121.6,
+          "endSec": 122.3,
+          "text": "realize"
+        },
+        {
+          "startSec": 122.3,
+          "endSec": 122.6,
+          "text": "the"
+        },
+        {
+          "startSec": 122.6,
+          "endSec": 123.5,
+          "text": "objectives"
+        },
+        {
+          "startSec": 123.5,
+          "endSec": 123.9,
+          "text": "of"
+        },
+        {
+          "startSec": 123.9,
+          "endSec": 124.4,
+          "text": "computer"
+        },
+        {
+          "startSec": 124.4,
+          "endSec": 125.6,
+          "text": "program"
+        }
+      ]
     },
     {
       "startSec": 124.4,
       "endSec": 127.2,
-      "text": "program developers."
+      "text": "program developers.",
+      "words": [
+        {
+          "startSec": 124.4,
+          "endSec": 125.6,
+          "text": "program"
+        },
+        {
+          "startSec": 125.6,
+          "endSec": 127.2,
+          "text": "developers."
+        },
+        {
+          "startSec": 127.2,
+          "endSec": 128,
+          "text": "Unlike"
+        }
+      ]
     },
     {
       "startSec": 127.2,
       "endSec": 137.4,
-      "text": "Unlike a simple computer program, AI algorithms permit a computer system to learn for itself."
+      "text": "Unlike a simple computer program, AI algorithms permit a computer system to learn for itself.",
+      "words": [
+        {
+          "startSec": 127.2,
+          "endSec": 128,
+          "text": "Unlike"
+        },
+        {
+          "startSec": 128,
+          "endSec": 128.4,
+          "text": "a"
+        },
+        {
+          "startSec": 128.4,
+          "endSec": 128.9,
+          "text": "simple"
+        },
+        {
+          "startSec": 128.9,
+          "endSec": 129.8,
+          "text": "computer"
+        },
+        {
+          "startSec": 129.8,
+          "endSec": 130.9,
+          "text": "program,"
+        },
+        {
+          "startSec": 130.9,
+          "endSec": 131.2,
+          "text": "AI"
+        },
+        {
+          "startSec": 131.2,
+          "endSec": 132.4,
+          "text": "algorithms"
+        },
+        {
+          "startSec": 132.4,
+          "endSec": 133.1,
+          "text": "permit"
+        },
+        {
+          "startSec": 133.1,
+          "endSec": 133.2,
+          "text": "a"
+        },
+        {
+          "startSec": 133.2,
+          "endSec": 134.2,
+          "text": "computer"
+        },
+        {
+          "startSec": 134.2,
+          "endSec": 135.1,
+          "text": "system"
+        },
+        {
+          "startSec": 135.1,
+          "endSec": 135.2,
+          "text": "to"
+        },
+        {
+          "startSec": 135.2,
+          "endSec": 135.8,
+          "text": "learn"
+        },
+        {
+          "startSec": 135.8,
+          "endSec": 136.2,
+          "text": "for"
+        },
+        {
+          "startSec": 136.2,
+          "endSec": 137.4,
+          "text": "itself."
+        },
+        {
+          "startSec": 137.4,
+          "endSec": 137.5,
+          "text": "A"
+        }
+      ]
     },
     {
       "startSec": 137.4,
       "endSec": 141.9,
-      "text": "A third important term is machine learning."
+      "text": "A third important term is machine learning.",
+      "words": [
+        {
+          "startSec": 137.4,
+          "endSec": 137.5,
+          "text": "A"
+        },
+        {
+          "startSec": 137.5,
+          "endSec": 138.5,
+          "text": "third"
+        },
+        {
+          "startSec": 138.5,
+          "endSec": 139.1,
+          "text": "important"
+        },
+        {
+          "startSec": 139.1,
+          "endSec": 139.6,
+          "text": "term"
+        },
+        {
+          "startSec": 139.6,
+          "endSec": 139.8,
+          "text": "is"
+        },
+        {
+          "startSec": 139.8,
+          "endSec": 140.6,
+          "text": "machine"
+        },
+        {
+          "startSec": 140.6,
+          "endSec": 141.9,
+          "text": "learning."
+        },
+        {
+          "startSec": 141.9,
+          "endSec": 143.1,
+          "text": "Machine"
+        }
+      ]
     },
     {
       "startSec": 141.9,
       "endSec": 148.9,
-      "text": "Machine learning is one method that researchers have used in their efforts to produce artificial"
+      "text": "Machine learning is one method that researchers have used in their efforts to produce artificial",
+      "words": [
+        {
+          "startSec": 141.9,
+          "endSec": 143.1,
+          "text": "Machine"
+        },
+        {
+          "startSec": 143.1,
+          "endSec": 143.2,
+          "text": "learning"
+        },
+        {
+          "startSec": 143.2,
+          "endSec": 143.4,
+          "text": "is"
+        },
+        {
+          "startSec": 143.4,
+          "endSec": 143.6,
+          "text": "one"
+        },
+        {
+          "startSec": 143.6,
+          "endSec": 144.1,
+          "text": "method"
+        },
+        {
+          "startSec": 144.1,
+          "endSec": 144.5,
+          "text": "that"
+        },
+        {
+          "startSec": 144.5,
+          "endSec": 145.5,
+          "text": "researchers"
+        },
+        {
+          "startSec": 145.5,
+          "endSec": 145.7,
+          "text": "have"
+        },
+        {
+          "startSec": 145.7,
+          "endSec": 146.1,
+          "text": "used"
+        },
+        {
+          "startSec": 146.1,
+          "endSec": 146.2,
+          "text": "in"
+        },
+        {
+          "startSec": 146.2,
+          "endSec": 146.7,
+          "text": "their"
+        },
+        {
+          "startSec": 146.7,
+          "endSec": 147.3,
+          "text": "efforts"
+        },
+        {
+          "startSec": 147.3,
+          "endSec": 147.5,
+          "text": "to"
+        },
+        {
+          "startSec": 147.5,
+          "endSec": 148.1,
+          "text": "produce"
+        },
+        {
+          "startSec": 148.1,
+          "endSec": 148.9,
+          "text": "artificial"
+        }
+      ]
     },
     {
       "startSec": 148.9,
       "endSec": 157.4,
-      "text": "intelligence; machine learning lets computers learn from data without being directly programmed"
+      "text": "intelligence; machine learning lets computers learn from data without being directly programmed",
+      "words": [
+        {
+          "startSec": 150.1,
+          "endSec": 150.2,
+          "text": "intelligence;"
+        },
+        {
+          "startSec": 150.2,
+          "endSec": 150.9,
+          "text": "machine"
+        },
+        {
+          "startSec": 150.9,
+          "endSec": 151.9,
+          "text": "learning"
+        },
+        {
+          "startSec": 151.9,
+          "endSec": 152.2,
+          "text": "lets"
+        },
+        {
+          "startSec": 152.2,
+          "endSec": 153.1,
+          "text": "computers"
+        },
+        {
+          "startSec": 153.1,
+          "endSec": 153.7,
+          "text": "learn"
+        },
+        {
+          "startSec": 153.7,
+          "endSec": 153.9,
+          "text": "from"
+        },
+        {
+          "startSec": 153.9,
+          "endSec": 154.3,
+          "text": "data"
+        },
+        {
+          "startSec": 154.3,
+          "endSec": 155,
+          "text": "without"
+        },
+        {
+          "startSec": 155,
+          "endSec": 155.9,
+          "text": "being"
+        },
+        {
+          "startSec": 155.9,
+          "endSec": 156.3,
+          "text": "directly"
+        },
+        {
+          "startSec": 156.3,
+          "endSec": 157.4,
+          "text": "programmed"
+        },
+        {
+          "startSec": 157.4,
+          "endSec": 157.6,
+          "text": "on"
+        }
+      ]
     },
     {
       "startSec": 157.4,
       "endSec": 160.7,
-      "text": "on what results to produce."
+      "text": "on what results to produce.",
+      "words": [
+        {
+          "startSec": 157.4,
+          "endSec": 157.6,
+          "text": "on"
+        },
+        {
+          "startSec": 157.6,
+          "endSec": 158.5,
+          "text": "what"
+        },
+        {
+          "startSec": 158.5,
+          "endSec": 159.1,
+          "text": "results"
+        },
+        {
+          "startSec": 159.1,
+          "endSec": 159.4,
+          "text": "to"
+        },
+        {
+          "startSec": 159.4,
+          "endSec": 160.7,
+          "text": "produce."
+        },
+        {
+          "startSec": 160.7,
+          "endSec": 160.9,
+          "text": "In"
+        }
+      ]
     },
     {
       "startSec": 160.7,
       "endSec": 167.8,
-      "text": "In recent years, the field of neural networks has given important results."
+      "text": "In recent years, the field of neural networks has given important results.",
+      "words": [
+        {
+          "startSec": 160.7,
+          "endSec": 160.9,
+          "text": "In"
+        },
+        {
+          "startSec": 160.9,
+          "endSec": 161.9,
+          "text": "recent"
+        },
+        {
+          "startSec": 161.9,
+          "endSec": 162.3,
+          "text": "years,"
+        },
+        {
+          "startSec": 162.3,
+          "endSec": 162.6,
+          "text": "the"
+        },
+        {
+          "startSec": 162.6,
+          "endSec": 163.1,
+          "text": "field"
+        },
+        {
+          "startSec": 163.1,
+          "endSec": 163.4,
+          "text": "of"
+        },
+        {
+          "startSec": 163.4,
+          "endSec": 164,
+          "text": "neural"
+        },
+        {
+          "startSec": 164,
+          "endSec": 164.9,
+          "text": "networks"
+        },
+        {
+          "startSec": 164.9,
+          "endSec": 165.2,
+          "text": "has"
+        },
+        {
+          "startSec": 165.2,
+          "endSec": 165.7,
+          "text": "given"
+        },
+        {
+          "startSec": 165.7,
+          "endSec": 166.7,
+          "text": "important"
+        },
+        {
+          "startSec": 166.7,
+          "endSec": 167.8,
+          "text": "results."
+        },
+        {
+          "startSec": 167.8,
+          "endSec": 168,
+          "text": "In"
+        }
+      ]
     },
     {
       "startSec": 167.8,
       "endSec": 174.7,
-      "text": "In a neural network, connections between some nodes are strengthened and others weakened"
+      "text": "In a neural network, connections between some nodes are strengthened and others weakened",
+      "words": [
+        {
+          "startSec": 167.8,
+          "endSec": 168,
+          "text": "In"
+        },
+        {
+          "startSec": 168,
+          "endSec": 168.1,
+          "text": "a"
+        },
+        {
+          "startSec": 168.1,
+          "endSec": 168.9,
+          "text": "neural"
+        },
+        {
+          "startSec": 168.9,
+          "endSec": 169.5,
+          "text": "network,"
+        },
+        {
+          "startSec": 169.5,
+          "endSec": 170.4,
+          "text": "connections"
+        },
+        {
+          "startSec": 170.4,
+          "endSec": 171,
+          "text": "between"
+        },
+        {
+          "startSec": 171,
+          "endSec": 171.4,
+          "text": "some"
+        },
+        {
+          "startSec": 171.4,
+          "endSec": 171.8,
+          "text": "nodes"
+        },
+        {
+          "startSec": 171.8,
+          "endSec": 172.1,
+          "text": "are"
+        },
+        {
+          "startSec": 172.1,
+          "endSec": 173.2,
+          "text": "strengthened"
+        },
+        {
+          "startSec": 173.2,
+          "endSec": 173.5,
+          "text": "and"
+        },
+        {
+          "startSec": 173.5,
+          "endSec": 174,
+          "text": "others"
+        },
+        {
+          "startSec": 174,
+          "endSec": 174.7,
+          "text": "weakened"
+        },
+        {
+          "startSec": 174.7,
+          "endSec": 175,
+          "text": "as"
+        }
+      ]
     },
     {
       "startSec": 174.7,
       "endSec": 179.4,
-      "text": "as the system learns and makes changes."
+      "text": "as the system learns and makes changes.",
+      "words": [
+        {
+          "startSec": 174.7,
+          "endSec": 175,
+          "text": "as"
+        },
+        {
+          "startSec": 175,
+          "endSec": 175.9,
+          "text": "the"
+        },
+        {
+          "startSec": 175.9,
+          "endSec": 176.2,
+          "text": "system"
+        },
+        {
+          "startSec": 176.2,
+          "endSec": 177,
+          "text": "learns"
+        },
+        {
+          "startSec": 177,
+          "endSec": 177.4,
+          "text": "and"
+        },
+        {
+          "startSec": 177.4,
+          "endSec": 178.1,
+          "text": "makes"
+        },
+        {
+          "startSec": 178.1,
+          "endSec": 179.4,
+          "text": "changes."
+        },
+        {
+          "startSec": 179.4,
+          "endSec": 180.2,
+          "text": "Learning"
+        }
+      ]
     },
     {
       "startSec": 179.4,
       "endSec": 181.8,
-      "text": "Learning can be supervised."
+      "text": "Learning can be supervised.",
+      "words": [
+        {
+          "startSec": 179.4,
+          "endSec": 180.2,
+          "text": "Learning"
+        },
+        {
+          "startSec": 180.2,
+          "endSec": 180.6,
+          "text": "can"
+        },
+        {
+          "startSec": 180.6,
+          "endSec": 180.6,
+          "text": "be"
+        },
+        {
+          "startSec": 180.6,
+          "endSec": 181.8,
+          "text": "supervised."
+        },
+        {
+          "startSec": 181.8,
+          "endSec": 182.2,
+          "text": "This"
+        }
+      ]
     },
     {
       "startSec": 181.8,
       "endSec": 189.7,
-      "text": "This means the system learns to put new data into specific groups based on a model."
+      "text": "This means the system learns to put new data into specific groups based on a model.",
+      "words": [
+        {
+          "startSec": 181.8,
+          "endSec": 182.2,
+          "text": "This"
+        },
+        {
+          "startSec": 182.2,
+          "endSec": 182.9,
+          "text": "means"
+        },
+        {
+          "startSec": 182.9,
+          "endSec": 183.1,
+          "text": "the"
+        },
+        {
+          "startSec": 183.1,
+          "endSec": 183.8,
+          "text": "system"
+        },
+        {
+          "startSec": 183.8,
+          "endSec": 184.5,
+          "text": "learns"
+        },
+        {
+          "startSec": 184.5,
+          "endSec": 184.8,
+          "text": "to"
+        },
+        {
+          "startSec": 184.8,
+          "endSec": 185,
+          "text": "put"
+        },
+        {
+          "startSec": 185,
+          "endSec": 185.4,
+          "text": "new"
+        },
+        {
+          "startSec": 185.4,
+          "endSec": 185.8,
+          "text": "data"
+        },
+        {
+          "startSec": 185.8,
+          "endSec": 186.2,
+          "text": "into"
+        },
+        {
+          "startSec": 186.2,
+          "endSec": 187.1,
+          "text": "specific"
+        },
+        {
+          "startSec": 187.1,
+          "endSec": 187.8,
+          "text": "groups"
+        },
+        {
+          "startSec": 187.8,
+          "endSec": 188.3,
+          "text": "based"
+        },
+        {
+          "startSec": 188.3,
+          "endSec": 188.7,
+          "text": "on"
+        },
+        {
+          "startSec": 188.7,
+          "endSec": 188.7,
+          "text": "a"
+        },
+        {
+          "startSec": 188.7,
+          "endSec": 189.7,
+          "text": "model."
+        },
+        {
+          "startSec": 189.7,
+          "endSec": 190.8,
+          "text": "For"
+        }
+      ]
     },
     {
       "startSec": 189.7,
       "endSec": 199,
-      "text": "For example, the system could learn to identify spam in an email or other messaging programs."
+      "text": "For example, the system could learn to identify spam in an email or other messaging programs.",
+      "words": [
+        {
+          "startSec": 189.7,
+          "endSec": 190.8,
+          "text": "For"
+        },
+        {
+          "startSec": 190.8,
+          "endSec": 191.1,
+          "text": "example,"
+        },
+        {
+          "startSec": 191.1,
+          "endSec": 191.4,
+          "text": "the"
+        },
+        {
+          "startSec": 191.4,
+          "endSec": 192.1,
+          "text": "system"
+        },
+        {
+          "startSec": 192.1,
+          "endSec": 192.7,
+          "text": "could"
+        },
+        {
+          "startSec": 192.7,
+          "endSec": 193.3,
+          "text": "learn"
+        },
+        {
+          "startSec": 193.3,
+          "endSec": 193.4,
+          "text": "to"
+        },
+        {
+          "startSec": 193.4,
+          "endSec": 194.5,
+          "text": "identify"
+        },
+        {
+          "startSec": 194.5,
+          "endSec": 194.8,
+          "text": "spam"
+        },
+        {
+          "startSec": 194.8,
+          "endSec": 195,
+          "text": "in"
+        },
+        {
+          "startSec": 195,
+          "endSec": 195.3,
+          "text": "an"
+        },
+        {
+          "startSec": 195.3,
+          "endSec": 195.8,
+          "text": "email"
+        },
+        {
+          "startSec": 195.8,
+          "endSec": 196,
+          "text": "or"
+        },
+        {
+          "startSec": 196,
+          "endSec": 196.7,
+          "text": "other"
+        },
+        {
+          "startSec": 196.7,
+          "endSec": 197.6,
+          "text": "messaging"
+        },
+        {
+          "startSec": 197.6,
+          "endSec": 199,
+          "text": "programs."
+        },
+        {
+          "startSec": 199,
+          "endSec": 200.3,
+          "text": "Unsupervised"
+        }
+      ]
     },
     {
       "startSec": 199,
       "endSec": 206.8,
-      "text": "Unsupervised learning permits the system to independently discover new areas or ways"
+      "text": "Unsupervised learning permits the system to independently discover new areas or ways",
+      "words": [
+        {
+          "startSec": 199,
+          "endSec": 200.3,
+          "text": "Unsupervised"
+        },
+        {
+          "startSec": 200.3,
+          "endSec": 201.1,
+          "text": "learning"
+        },
+        {
+          "startSec": 201.1,
+          "endSec": 202,
+          "text": "permits"
+        },
+        {
+          "startSec": 202,
+          "endSec": 202.2,
+          "text": "the"
+        },
+        {
+          "startSec": 202.2,
+          "endSec": 202.8,
+          "text": "system"
+        },
+        {
+          "startSec": 202.8,
+          "endSec": 203,
+          "text": "to"
+        },
+        {
+          "startSec": 203,
+          "endSec": 204.4,
+          "text": "independently"
+        },
+        {
+          "startSec": 204.4,
+          "endSec": 205.2,
+          "text": "discover"
+        },
+        {
+          "startSec": 205.2,
+          "endSec": 205.9,
+          "text": "new"
+        },
+        {
+          "startSec": 205.9,
+          "endSec": 206.1,
+          "text": "areas"
+        },
+        {
+          "startSec": 206.1,
+          "endSec": 206.3,
+          "text": "or"
+        },
+        {
+          "startSec": 206.3,
+          "endSec": 206.8,
+          "text": "ways"
+        },
+        {
+          "startSec": 206.8,
+          "endSec": 207.1,
+          "text": "of"
+        }
+      ]
     },
     {
       "startSec": 206.8,
       "endSec": 209.2,
-      "text": "of doing things."
+      "text": "of doing things.",
+      "words": [
+        {
+          "startSec": 206.8,
+          "endSec": 207.1,
+          "text": "of"
+        },
+        {
+          "startSec": 207.1,
+          "endSec": 207.9,
+          "text": "doing"
+        },
+        {
+          "startSec": 207.9,
+          "endSec": 209.2,
+          "text": "things."
+        },
+        {
+          "startSec": 209.2,
+          "endSec": 210.3,
+          "text": "These"
+        }
+      ]
     },
     {
       "startSec": 209.2,
       "endSec": 216.4,
-      "text": "These discoveries in the available data might not have been immediately clear."
+      "text": "These discoveries in the available data might not have been immediately clear.",
+      "words": [
+        {
+          "startSec": 209.2,
+          "endSec": 210.3,
+          "text": "These"
+        },
+        {
+          "startSec": 210.3,
+          "endSec": 210.9,
+          "text": "discoveries"
+        },
+        {
+          "startSec": 210.9,
+          "endSec": 211.1,
+          "text": "in"
+        },
+        {
+          "startSec": 211.1,
+          "endSec": 211.4,
+          "text": "the"
+        },
+        {
+          "startSec": 211.4,
+          "endSec": 212.3,
+          "text": "available"
+        },
+        {
+          "startSec": 212.3,
+          "endSec": 212.7,
+          "text": "data"
+        },
+        {
+          "startSec": 212.7,
+          "endSec": 213.3,
+          "text": "might"
+        },
+        {
+          "startSec": 213.3,
+          "endSec": 213.6,
+          "text": "not"
+        },
+        {
+          "startSec": 213.6,
+          "endSec": 214,
+          "text": "have"
+        },
+        {
+          "startSec": 214,
+          "endSec": 214.4,
+          "text": "been"
+        },
+        {
+          "startSec": 214.4,
+          "endSec": 215.6,
+          "text": "immediately"
+        },
+        {
+          "startSec": 215.6,
+          "endSec": 216.4,
+          "text": "clear."
+        },
+        {
+          "startSec": 216.4,
+          "endSec": 217.2,
+          "text": "An"
+        }
+      ]
     },
     {
       "startSec": 216.4,
       "endSec": 224.9,
-      "text": "An example would be letting an online store identify buying trends in sales data."
+      "text": "An example would be letting an online store identify buying trends in sales data.",
+      "words": [
+        {
+          "startSec": 216.4,
+          "endSec": 217.2,
+          "text": "An"
+        },
+        {
+          "startSec": 217.2,
+          "endSec": 217.6,
+          "text": "example"
+        },
+        {
+          "startSec": 217.6,
+          "endSec": 218.1,
+          "text": "would"
+        },
+        {
+          "startSec": 218.1,
+          "endSec": 218.3,
+          "text": "be"
+        },
+        {
+          "startSec": 218.3,
+          "endSec": 219.4,
+          "text": "letting"
+        },
+        {
+          "startSec": 219.4,
+          "endSec": 219.4,
+          "text": "an"
+        },
+        {
+          "startSec": 219.4,
+          "endSec": 220.1,
+          "text": "online"
+        },
+        {
+          "startSec": 220.1,
+          "endSec": 220.7,
+          "text": "store"
+        },
+        {
+          "startSec": 220.7,
+          "endSec": 221.7,
+          "text": "identify"
+        },
+        {
+          "startSec": 221.7,
+          "endSec": 222.4,
+          "text": "buying"
+        },
+        {
+          "startSec": 222.4,
+          "endSec": 223.4,
+          "text": "trends"
+        },
+        {
+          "startSec": 223.4,
+          "endSec": 223.4,
+          "text": "in"
+        },
+        {
+          "startSec": 223.4,
+          "endSec": 224,
+          "text": "sales"
+        },
+        {
+          "startSec": 224,
+          "endSec": 224.9,
+          "text": "data."
+        },
+        {
+          "startSec": 224.9,
+          "endSec": 226,
+          "text": "And"
+        }
+      ]
     },
     {
       "startSec": 224.9,
       "endSec": 230.2,
-      "text": "And learning adds a process of repeated trial and error."
+      "text": "And learning adds a process of repeated trial and error.",
+      "words": [
+        {
+          "startSec": 224.9,
+          "endSec": 226,
+          "text": "And"
+        },
+        {
+          "startSec": 226,
+          "endSec": 226.1,
+          "text": "learning"
+        },
+        {
+          "startSec": 226.1,
+          "endSec": 226.6,
+          "text": "adds"
+        },
+        {
+          "startSec": 226.6,
+          "endSec": 226.6,
+          "text": "a"
+        },
+        {
+          "startSec": 226.6,
+          "endSec": 227.4,
+          "text": "process"
+        },
+        {
+          "startSec": 227.4,
+          "endSec": 227.9,
+          "text": "of"
+        },
+        {
+          "startSec": 227.9,
+          "endSec": 228.4,
+          "text": "repeated"
+        },
+        {
+          "startSec": 228.4,
+          "endSec": 229,
+          "text": "trial"
+        },
+        {
+          "startSec": 229,
+          "endSec": 229.3,
+          "text": "and"
+        },
+        {
+          "startSec": 229.3,
+          "endSec": 230.2,
+          "text": "error."
+        },
+        {
+          "startSec": 230.2,
+          "endSec": 230.4,
+          "text": "In"
+        }
+      ]
     },
     {
       "startSec": 230.2,
       "endSec": 239.7,
-      "text": "In this process, the system is rewarded based on its outcomes, causing it to learn and improve."
+      "text": "In this process, the system is rewarded based on its outcomes, causing it to learn and improve.",
+      "words": [
+        {
+          "startSec": 230.2,
+          "endSec": 230.4,
+          "text": "In"
+        },
+        {
+          "startSec": 230.4,
+          "endSec": 231.4,
+          "text": "this"
+        },
+        {
+          "startSec": 231.4,
+          "endSec": 231.7,
+          "text": "process,"
+        },
+        {
+          "startSec": 231.7,
+          "endSec": 232,
+          "text": "the"
+        },
+        {
+          "startSec": 232,
+          "endSec": 232.6,
+          "text": "system"
+        },
+        {
+          "startSec": 232.6,
+          "endSec": 232.9,
+          "text": "is"
+        },
+        {
+          "startSec": 232.9,
+          "endSec": 233.7,
+          "text": "rewarded"
+        },
+        {
+          "startSec": 233.7,
+          "endSec": 234.2,
+          "text": "based"
+        },
+        {
+          "startSec": 234.2,
+          "endSec": 234.4,
+          "text": "on"
+        },
+        {
+          "startSec": 234.4,
+          "endSec": 234.7,
+          "text": "its"
+        },
+        {
+          "startSec": 234.7,
+          "endSec": 235.7,
+          "text": "outcomes,"
+        },
+        {
+          "startSec": 235.7,
+          "endSec": 236.4,
+          "text": "causing"
+        },
+        {
+          "startSec": 236.4,
+          "endSec": 236.6,
+          "text": "it"
+        },
+        {
+          "startSec": 236.6,
+          "endSec": 237.2,
+          "text": "to"
+        },
+        {
+          "startSec": 237.2,
+          "endSec": 237.3,
+          "text": "learn"
+        },
+        {
+          "startSec": 237.3,
+          "endSec": 237.7,
+          "text": "and"
+        },
+        {
+          "startSec": 237.7,
+          "endSec": 239.7,
+          "text": "improve."
+        },
+        {
+          "startSec": 239.7,
+          "endSec": 240,
+          "text": "One"
+        }
+      ]
     },
     {
       "startSec": 239.7,
       "endSec": 247,
-      "text": "One example might be a self-driving vehicle whose objective is to reach its destination"
+      "text": "One example might be a self-driving vehicle whose objective is to reach its destination",
+      "words": [
+        {
+          "startSec": 239.7,
+          "endSec": 240,
+          "text": "One"
+        },
+        {
+          "startSec": 240,
+          "endSec": 240.8,
+          "text": "example"
+        },
+        {
+          "startSec": 240.8,
+          "endSec": 241.1,
+          "text": "might"
+        },
+        {
+          "startSec": 241.1,
+          "endSec": 241.4,
+          "text": "be"
+        },
+        {
+          "startSec": 241.4,
+          "endSec": 241.4,
+          "text": "a"
+        },
+        {
+          "startSec": 241.4,
+          "endSec": 242.7,
+          "text": "self-driving"
+        },
+        {
+          "startSec": 242.7,
+          "endSec": 243.3,
+          "text": "vehicle"
+        },
+        {
+          "startSec": 243.3,
+          "endSec": 243.9,
+          "text": "whose"
+        },
+        {
+          "startSec": 243.9,
+          "endSec": 244.7,
+          "text": "objective"
+        },
+        {
+          "startSec": 244.7,
+          "endSec": 244.9,
+          "text": "is"
+        },
+        {
+          "startSec": 244.9,
+          "endSec": 245.1,
+          "text": "to"
+        },
+        {
+          "startSec": 245.1,
+          "endSec": 245.6,
+          "text": "reach"
+        },
+        {
+          "startSec": 245.6,
+          "endSec": 245.9,
+          "text": "its"
+        },
+        {
+          "startSec": 245.9,
+          "endSec": 247,
+          "text": "destination"
+        },
+        {
+          "startSec": 247,
+          "endSec": 248.2,
+          "text": "as"
+        }
+      ]
     },
     {
       "startSec": 247,
       "endSec": 251.7,
-      "text": "as quickly as possible, but also safely."
+      "text": "as quickly as possible, but also safely.",
+      "words": [
+        {
+          "startSec": 247,
+          "endSec": 248.2,
+          "text": "as"
+        },
+        {
+          "startSec": 248.2,
+          "endSec": 248.2,
+          "text": "quickly"
+        },
+        {
+          "startSec": 248.2,
+          "endSec": 248.4,
+          "text": "as"
+        },
+        {
+          "startSec": 248.4,
+          "endSec": 249.7,
+          "text": "possible,"
+        },
+        {
+          "startSec": 249.7,
+          "endSec": 250.1,
+          "text": "but"
+        },
+        {
+          "startSec": 250.1,
+          "endSec": 250.6,
+          "text": "also"
+        },
+        {
+          "startSec": 250.6,
+          "endSec": 251.7,
+          "text": "safely."
+        },
+        {
+          "startSec": 251.7,
+          "endSec": 252.9,
+          "text": "That"
+        }
+      ]
     },
     {
       "startSec": 251.7,
       "endSec": 258.5,
-      "text": "That requirement would lead it to learn to stop at red lights, although it requires additional"
+      "text": "That requirement would lead it to learn to stop at red lights, although it requires additional",
+      "words": [
+        {
+          "startSec": 251.7,
+          "endSec": 252.9,
+          "text": "That"
+        },
+        {
+          "startSec": 252.9,
+          "endSec": 253,
+          "text": "requirement"
+        },
+        {
+          "startSec": 253,
+          "endSec": 253.5,
+          "text": "would"
+        },
+        {
+          "startSec": 253.5,
+          "endSec": 253.8,
+          "text": "lead"
+        },
+        {
+          "startSec": 253.8,
+          "endSec": 254,
+          "text": "it"
+        },
+        {
+          "startSec": 254,
+          "endSec": 254.2,
+          "text": "to"
+        },
+        {
+          "startSec": 254.2,
+          "endSec": 254.7,
+          "text": "learn"
+        },
+        {
+          "startSec": 254.7,
+          "endSec": 254.8,
+          "text": "to"
+        },
+        {
+          "startSec": 254.8,
+          "endSec": 255.1,
+          "text": "stop"
+        },
+        {
+          "startSec": 255.1,
+          "endSec": 255.3,
+          "text": "at"
+        },
+        {
+          "startSec": 255.3,
+          "endSec": 255.5,
+          "text": "red"
+        },
+        {
+          "startSec": 255.5,
+          "endSec": 256.2,
+          "text": "lights,"
+        },
+        {
+          "startSec": 256.2,
+          "endSec": 256.9,
+          "text": "although"
+        },
+        {
+          "startSec": 256.9,
+          "endSec": 257.1,
+          "text": "it"
+        },
+        {
+          "startSec": 257.1,
+          "endSec": 257.9,
+          "text": "requires"
+        },
+        {
+          "startSec": 257.9,
+          "endSec": 258.5,
+          "text": "additional"
+        },
+        {
+          "startSec": 258.5,
+          "endSec": 261.2,
+          "text": "time."
+        }
+      ]
     },
     {
       "startSec": 258.5,
       "endSec": 261.2,
-      "text": "time."
+      "text": "time.",
+      "words": [
+        {
+          "startSec": 258.5,
+          "endSec": 261.2,
+          "text": "time."
+        },
+        {
+          "startSec": 261.2,
+          "endSec": 262.4,
+          "text": "Deep"
+        }
+      ]
     },
     {
       "startSec": 261.2,
       "endSec": 268.2,
-      "text": "Deep learning owes its name to its use of many layers of neural networks."
+      "text": "Deep learning owes its name to its use of many layers of neural networks.",
+      "words": [
+        {
+          "startSec": 261.2,
+          "endSec": 262.4,
+          "text": "Deep"
+        },
+        {
+          "startSec": 262.4,
+          "endSec": 262.6,
+          "text": "learning"
+        },
+        {
+          "startSec": 262.6,
+          "endSec": 263,
+          "text": "owes"
+        },
+        {
+          "startSec": 263,
+          "endSec": 263.4,
+          "text": "its"
+        },
+        {
+          "startSec": 263.4,
+          "endSec": 263.8,
+          "text": "name"
+        },
+        {
+          "startSec": 263.8,
+          "endSec": 264.2,
+          "text": "to"
+        },
+        {
+          "startSec": 264.2,
+          "endSec": 264.4,
+          "text": "its"
+        },
+        {
+          "startSec": 264.4,
+          "endSec": 264.7,
+          "text": "use"
+        },
+        {
+          "startSec": 264.7,
+          "endSec": 264.9,
+          "text": "of"
+        },
+        {
+          "startSec": 264.9,
+          "endSec": 265.4,
+          "text": "many"
+        },
+        {
+          "startSec": 265.4,
+          "endSec": 266,
+          "text": "layers"
+        },
+        {
+          "startSec": 266,
+          "endSec": 266.2,
+          "text": "of"
+        },
+        {
+          "startSec": 266.2,
+          "endSec": 266.9,
+          "text": "neural"
+        },
+        {
+          "startSec": 266.9,
+          "endSec": 268.2,
+          "text": "networks."
+        },
+        {
+          "startSec": 268.2,
+          "endSec": 268.6,
+          "text": "Raw"
+        }
+      ]
     },
     {
       "startSec": 268.2,
       "endSec": 275.9,
-      "text": "Raw data is examined by each layer in turn at growing levels of abstraction."
+      "text": "Raw data is examined by each layer in turn at growing levels of abstraction.",
+      "words": [
+        {
+          "startSec": 268.2,
+          "endSec": 268.6,
+          "text": "Raw"
+        },
+        {
+          "startSec": 268.6,
+          "endSec": 269,
+          "text": "data"
+        },
+        {
+          "startSec": 269,
+          "endSec": 269.4,
+          "text": "is"
+        },
+        {
+          "startSec": 269.4,
+          "endSec": 270.2,
+          "text": "examined"
+        },
+        {
+          "startSec": 270.2,
+          "endSec": 270.4,
+          "text": "by"
+        },
+        {
+          "startSec": 270.4,
+          "endSec": 270.9,
+          "text": "each"
+        },
+        {
+          "startSec": 270.9,
+          "endSec": 271.5,
+          "text": "layer"
+        },
+        {
+          "startSec": 271.5,
+          "endSec": 271.8,
+          "text": "in"
+        },
+        {
+          "startSec": 271.8,
+          "endSec": 272.2,
+          "text": "turn"
+        },
+        {
+          "startSec": 272.2,
+          "endSec": 272.5,
+          "text": "at"
+        },
+        {
+          "startSec": 272.5,
+          "endSec": 273.3,
+          "text": "growing"
+        },
+        {
+          "startSec": 273.3,
+          "endSec": 274,
+          "text": "levels"
+        },
+        {
+          "startSec": 274,
+          "endSec": 274.2,
+          "text": "of"
+        },
+        {
+          "startSec": 274.2,
+          "endSec": 275.9,
+          "text": "abstraction."
+        },
+        {
+          "startSec": 275.9,
+          "endSec": 276.7,
+          "text": "Jeffrey"
+        }
+      ]
     },
     {
       "startSec": 275.9,
       "endSec": 282.7,
-      "text": "Jeffrey Hinton received the 2024 Nobel Peace Prize in Physics."
+      "text": "Jeffrey Hinton received the 2024 Nobel Peace Prize in Physics.",
+      "words": [
+        {
+          "startSec": 275.9,
+          "endSec": 276.7,
+          "text": "Jeffrey"
+        },
+        {
+          "startSec": 276.7,
+          "endSec": 277.3,
+          "text": "Hinton"
+        },
+        {
+          "startSec": 277.3,
+          "endSec": 278.1,
+          "text": "received"
+        },
+        {
+          "startSec": 278.1,
+          "endSec": 278.5,
+          "text": "the"
+        },
+        {
+          "startSec": 278.5,
+          "endSec": 279.8,
+          "text": "2024"
+        },
+        {
+          "startSec": 279.8,
+          "endSec": 280.3,
+          "text": "Nobel"
+        },
+        {
+          "startSec": 280.3,
+          "endSec": 280.8,
+          "text": "Peace"
+        },
+        {
+          "startSec": 280.8,
+          "endSec": 281.4,
+          "text": "Prize"
+        },
+        {
+          "startSec": 281.4,
+          "endSec": 281.6,
+          "text": "in"
+        },
+        {
+          "startSec": 281.6,
+          "endSec": 282.7,
+          "text": "Physics."
+        },
+        {
+          "startSec": 282.7,
+          "endSec": 283.3,
+          "text": "Hinton"
+        }
+      ]
     },
     {
       "startSec": 282.7,
       "endSec": 287.6,
-      "text": "Hinton is credited with developing deep learning."
+      "text": "Hinton is credited with developing deep learning.",
+      "words": [
+        {
+          "startSec": 282.7,
+          "endSec": 283.3,
+          "text": "Hinton"
+        },
+        {
+          "startSec": 283.3,
+          "endSec": 283.9,
+          "text": "is"
+        },
+        {
+          "startSec": 283.9,
+          "endSec": 284.4,
+          "text": "credited"
+        },
+        {
+          "startSec": 284.4,
+          "endSec": 284.8,
+          "text": "with"
+        },
+        {
+          "startSec": 284.8,
+          "endSec": 285.9,
+          "text": "developing"
+        },
+        {
+          "startSec": 285.9,
+          "endSec": 286.4,
+          "text": "deep"
+        },
+        {
+          "startSec": 286.4,
+          "endSec": 287.6,
+          "text": "learning."
+        },
+        {
+          "startSec": 287.6,
+          "endSec": 288.7,
+          "text": "Hinton"
+        }
+      ]
     },
     {
       "startSec": 287.6,
       "endSec": 296,
-      "text": "Hinton received the prize along with 1980s Neural Network developer John Hopfield."
+      "text": "Hinton received the prize along with 1980s Neural Network developer John Hopfield.",
+      "words": [
+        {
+          "startSec": 287.6,
+          "endSec": 288.7,
+          "text": "Hinton"
+        },
+        {
+          "startSec": 288.7,
+          "endSec": 289.1,
+          "text": "received"
+        },
+        {
+          "startSec": 289.1,
+          "endSec": 289.4,
+          "text": "the"
+        },
+        {
+          "startSec": 289.4,
+          "endSec": 289.9,
+          "text": "prize"
+        },
+        {
+          "startSec": 289.9,
+          "endSec": 290.6,
+          "text": "along"
+        },
+        {
+          "startSec": 290.6,
+          "endSec": 290.9,
+          "text": "with"
+        },
+        {
+          "startSec": 290.9,
+          "endSec": 292.3,
+          "text": "1980s"
+        },
+        {
+          "startSec": 292.3,
+          "endSec": 292.9,
+          "text": "Neural"
+        },
+        {
+          "startSec": 292.9,
+          "endSec": 293.7,
+          "text": "Network"
+        },
+        {
+          "startSec": 293.7,
+          "endSec": 294.6,
+          "text": "developer"
+        },
+        {
+          "startSec": 294.6,
+          "endSec": 295.1,
+          "text": "John"
+        },
+        {
+          "startSec": 295.1,
+          "endSec": 296,
+          "text": "Hopfield."
+        },
+        {
+          "startSec": 296,
+          "endSec": 296.7,
+          "text": "Francis"
+        }
+      ]
     },
     {
       "startSec": 296,
       "endSec": 305.8,
-      "text": "Francis Bach, head of France's Sierra Statistical Learning Laboratory, said this about deep learning."
+      "text": "Francis Bach, head of France's Sierra Statistical Learning Laboratory, said this about deep learning.",
+      "words": [
+        {
+          "startSec": 296,
+          "endSec": 296.7,
+          "text": "Francis"
+        },
+        {
+          "startSec": 296.7,
+          "endSec": 297.2,
+          "text": "Bach,"
+        },
+        {
+          "startSec": 297.2,
+          "endSec": 297.7,
+          "text": "head"
+        },
+        {
+          "startSec": 297.7,
+          "endSec": 297.8,
+          "text": "of"
+        },
+        {
+          "startSec": 297.8,
+          "endSec": 298.5,
+          "text": "France's"
+        },
+        {
+          "startSec": 298.5,
+          "endSec": 299.1,
+          "text": "Sierra"
+        },
+        {
+          "startSec": 299.1,
+          "endSec": 300.2,
+          "text": "Statistical"
+        },
+        {
+          "startSec": 300.2,
+          "endSec": 300.9,
+          "text": "Learning"
+        },
+        {
+          "startSec": 300.9,
+          "endSec": 302.1,
+          "text": "Laboratory,"
+        },
+        {
+          "startSec": 302.1,
+          "endSec": 302.9,
+          "text": "said"
+        },
+        {
+          "startSec": 302.9,
+          "endSec": 303.4,
+          "text": "this"
+        },
+        {
+          "startSec": 303.4,
+          "endSec": 303.9,
+          "text": "about"
+        },
+        {
+          "startSec": 303.9,
+          "endSec": 304.4,
+          "text": "deep"
+        },
+        {
+          "startSec": 304.4,
+          "endSec": 305.8,
+          "text": "learning."
+        },
+        {
+          "startSec": 305.8,
+          "endSec": 306.1,
+          "text": "The"
+        }
+      ]
     },
     {
       "startSec": 305.8,
       "endSec": 311.3,
-      "text": "The more layers you have, the more complex behavior can become."
+      "text": "The more layers you have, the more complex behavior can become.",
+      "words": [
+        {
+          "startSec": 305.8,
+          "endSec": 306.1,
+          "text": "The"
+        },
+        {
+          "startSec": 306.1,
+          "endSec": 307,
+          "text": "more"
+        },
+        {
+          "startSec": 307,
+          "endSec": 307.1,
+          "text": "layers"
+        },
+        {
+          "startSec": 307.1,
+          "endSec": 307.4,
+          "text": "you"
+        },
+        {
+          "startSec": 307.4,
+          "endSec": 308,
+          "text": "have,"
+        },
+        {
+          "startSec": 308,
+          "endSec": 308.3,
+          "text": "the"
+        },
+        {
+          "startSec": 308.3,
+          "endSec": 308.8,
+          "text": "more"
+        },
+        {
+          "startSec": 308.8,
+          "endSec": 309.4,
+          "text": "complex"
+        },
+        {
+          "startSec": 309.4,
+          "endSec": 310.1,
+          "text": "behavior"
+        },
+        {
+          "startSec": 310.1,
+          "endSec": 310.5,
+          "text": "can"
+        },
+        {
+          "startSec": 310.5,
+          "endSec": 311.3,
+          "text": "become."
+        },
+        {
+          "startSec": 311.3,
+          "endSec": 311.6,
+          "text": "And"
+        }
+      ]
     },
     {
       "startSec": 311.3,
       "endSec": 320.3,
-      "text": "And the more complex the behavior can be, the easier it is to learn a desired behavior efficiently."
+      "text": "And the more complex the behavior can be, the easier it is to learn a desired behavior efficiently.",
+      "words": [
+        {
+          "startSec": 311.3,
+          "endSec": 311.6,
+          "text": "And"
+        },
+        {
+          "startSec": 311.6,
+          "endSec": 311.9,
+          "text": "the"
+        },
+        {
+          "startSec": 311.9,
+          "endSec": 312.5,
+          "text": "more"
+        },
+        {
+          "startSec": 312.5,
+          "endSec": 313.1,
+          "text": "complex"
+        },
+        {
+          "startSec": 313.1,
+          "endSec": 313.3,
+          "text": "the"
+        },
+        {
+          "startSec": 313.3,
+          "endSec": 314.3,
+          "text": "behavior"
+        },
+        {
+          "startSec": 314.3,
+          "endSec": 314.4,
+          "text": "can"
+        },
+        {
+          "startSec": 314.4,
+          "endSec": 314.8,
+          "text": "be,"
+        },
+        {
+          "startSec": 314.8,
+          "endSec": 315,
+          "text": "the"
+        },
+        {
+          "startSec": 315,
+          "endSec": 315.6,
+          "text": "easier"
+        },
+        {
+          "startSec": 315.6,
+          "endSec": 315.8,
+          "text": "it"
+        },
+        {
+          "startSec": 315.8,
+          "endSec": 316.1,
+          "text": "is"
+        },
+        {
+          "startSec": 316.1,
+          "endSec": 316.2,
+          "text": "to"
+        },
+        {
+          "startSec": 316.2,
+          "endSec": 316.7,
+          "text": "learn"
+        },
+        {
+          "startSec": 316.7,
+          "endSec": 316.8,
+          "text": "a"
+        },
+        {
+          "startSec": 316.8,
+          "endSec": 317.5,
+          "text": "desired"
+        },
+        {
+          "startSec": 317.5,
+          "endSec": 318.4,
+          "text": "behavior"
+        },
+        {
+          "startSec": 318.4,
+          "endSec": 320.3,
+          "text": "efficiently."
+        },
+        {
+          "startSec": 320.3,
+          "endSec": 320.6,
+          "text": "The"
+        }
+      ]
     },
     {
       "startSec": 320.3,
       "endSec": 325.3,
-      "text": "The method might help lead to scientific discoveries."
+      "text": "The method might help lead to scientific discoveries.",
+      "words": [
+        {
+          "startSec": 320.3,
+          "endSec": 320.6,
+          "text": "The"
+        },
+        {
+          "startSec": 320.6,
+          "endSec": 321.5,
+          "text": "method"
+        },
+        {
+          "startSec": 321.5,
+          "endSec": 321.8,
+          "text": "might"
+        },
+        {
+          "startSec": 321.8,
+          "endSec": 322.2,
+          "text": "help"
+        },
+        {
+          "startSec": 322.2,
+          "endSec": 322.6,
+          "text": "lead"
+        },
+        {
+          "startSec": 322.6,
+          "endSec": 322.8,
+          "text": "to"
+        },
+        {
+          "startSec": 322.8,
+          "endSec": 323.8,
+          "text": "scientific"
+        },
+        {
+          "startSec": 323.8,
+          "endSec": 325.3,
+          "text": "discoveries."
+        },
+        {
+          "startSec": 325.3,
+          "endSec": 325.6,
+          "text": "We"
+        }
+      ]
     },
     {
       "startSec": 325.3,
       "endSec": 331.3,
-      "text": "We now turn to Large Language Models, LLMs."
+      "text": "We now turn to Large Language Models, LLMs.",
+      "words": [
+        {
+          "startSec": 325.3,
+          "endSec": 325.6,
+          "text": "We"
+        },
+        {
+          "startSec": 325.6,
+          "endSec": 326.5,
+          "text": "now"
+        },
+        {
+          "startSec": 326.5,
+          "endSec": 326.7,
+          "text": "turn"
+        },
+        {
+          "startSec": 326.7,
+          "endSec": 327,
+          "text": "to"
+        },
+        {
+          "startSec": 327,
+          "endSec": 327.7,
+          "text": "Large"
+        },
+        {
+          "startSec": 327.7,
+          "endSec": 328.9,
+          "text": "Language"
+        },
+        {
+          "startSec": 328.9,
+          "endSec": 330.2,
+          "text": "Models,"
+        },
+        {
+          "startSec": 330.2,
+          "endSec": 331.3,
+          "text": "LLMs."
+        },
+        {
+          "startSec": 331.3,
+          "endSec": 332.4,
+          "text": "These"
+        }
+      ]
     },
     {
       "startSec": 331.3,
       "endSec": 336.8,
-      "text": "These might be the most popular example of generative AI."
+      "text": "These might be the most popular example of generative AI.",
+      "words": [
+        {
+          "startSec": 331.3,
+          "endSec": 332.4,
+          "text": "These"
+        },
+        {
+          "startSec": 332.4,
+          "endSec": 332.4,
+          "text": "might"
+        },
+        {
+          "startSec": 332.4,
+          "endSec": 332.6,
+          "text": "be"
+        },
+        {
+          "startSec": 332.6,
+          "endSec": 333,
+          "text": "the"
+        },
+        {
+          "startSec": 333,
+          "endSec": 333.3,
+          "text": "most"
+        },
+        {
+          "startSec": 333.3,
+          "endSec": 334.3,
+          "text": "popular"
+        },
+        {
+          "startSec": 334.3,
+          "endSec": 334.9,
+          "text": "example"
+        },
+        {
+          "startSec": 334.9,
+          "endSec": 335.1,
+          "text": "of"
+        },
+        {
+          "startSec": 335.1,
+          "endSec": 336.2,
+          "text": "generative"
+        },
+        {
+          "startSec": 336.2,
+          "endSec": 336.8,
+          "text": "AI."
+        },
+        {
+          "startSec": 336.8,
+          "endSec": 338,
+          "text": "Large"
+        }
+      ]
     },
     {
       "startSec": 336.8,
       "endSec": 345.3,
-      "text": "Large language models power tools like OpenAI's chat GPT or Google's Gemini."
+      "text": "Large language models power tools like OpenAI's chat GPT or Google's Gemini.",
+      "words": [
+        {
+          "startSec": 336.8,
+          "endSec": 338,
+          "text": "Large"
+        },
+        {
+          "startSec": 338,
+          "endSec": 338.5,
+          "text": "language"
+        },
+        {
+          "startSec": 338.5,
+          "endSec": 339.2,
+          "text": "models"
+        },
+        {
+          "startSec": 339.2,
+          "endSec": 339.9,
+          "text": "power"
+        },
+        {
+          "startSec": 339.9,
+          "endSec": 340.5,
+          "text": "tools"
+        },
+        {
+          "startSec": 340.5,
+          "endSec": 341,
+          "text": "like"
+        },
+        {
+          "startSec": 341,
+          "endSec": 342,
+          "text": "OpenAI's"
+        },
+        {
+          "startSec": 342,
+          "endSec": 342.5,
+          "text": "chat"
+        },
+        {
+          "startSec": 342.5,
+          "endSec": 342.8,
+          "text": "GPT"
+        },
+        {
+          "startSec": 342.8,
+          "endSec": 343.1,
+          "text": "or"
+        },
+        {
+          "startSec": 343.1,
+          "endSec": 344.1,
+          "text": "Google's"
+        },
+        {
+          "startSec": 344.1,
+          "endSec": 345.3,
+          "text": "Gemini."
+        },
+        {
+          "startSec": 345.3,
+          "endSec": 345.9,
+          "text": "Such"
+        }
+      ]
     },
     {
       "startSec": 345.3,
       "endSec": 352.3,
-      "text": "Such systems are able to write long papers, answer legal questions, or even produce a"
+      "text": "Such systems are able to write long papers, answer legal questions, or even produce a",
+      "words": [
+        {
+          "startSec": 345.3,
+          "endSec": 345.9,
+          "text": "Such"
+        },
+        {
+          "startSec": 345.9,
+          "endSec": 346.5,
+          "text": "systems"
+        },
+        {
+          "startSec": 346.5,
+          "endSec": 346.7,
+          "text": "are"
+        },
+        {
+          "startSec": 346.7,
+          "endSec": 347.1,
+          "text": "able"
+        },
+        {
+          "startSec": 347.1,
+          "endSec": 347.2,
+          "text": "to"
+        },
+        {
+          "startSec": 347.2,
+          "endSec": 347.7,
+          "text": "write"
+        },
+        {
+          "startSec": 347.7,
+          "endSec": 348.3,
+          "text": "long"
+        },
+        {
+          "startSec": 348.3,
+          "endSec": 348.9,
+          "text": "papers,"
+        },
+        {
+          "startSec": 348.9,
+          "endSec": 349.5,
+          "text": "answer"
+        },
+        {
+          "startSec": 349.5,
+          "endSec": 350,
+          "text": "legal"
+        },
+        {
+          "startSec": 350,
+          "endSec": 350.9,
+          "text": "questions,"
+        },
+        {
+          "startSec": 350.9,
+          "endSec": 351.1,
+          "text": "or"
+        },
+        {
+          "startSec": 351.1,
+          "endSec": 351.5,
+          "text": "even"
+        },
+        {
+          "startSec": 351.5,
+          "endSec": 352.3,
+          "text": "produce"
+        },
+        {
+          "startSec": 352.3,
+          "endSec": 352.3,
+          "text": "a"
+        },
+        {
+          "startSec": 352.3,
+          "endSec": 353.5,
+          "text": "cake"
+        }
+      ]
     },
     {
       "startSec": 352.3,
       "endSec": 357.7,
-      "text": "cake recipe based on their statistical models."
+      "text": "cake recipe based on their statistical models.",
+      "words": [
+        {
+          "startSec": 352.3,
+          "endSec": 352.3,
+          "text": "a"
+        },
+        {
+          "startSec": 352.3,
+          "endSec": 353.5,
+          "text": "cake"
+        },
+        {
+          "startSec": 353.5,
+          "endSec": 353.6,
+          "text": "recipe"
+        },
+        {
+          "startSec": 353.6,
+          "endSec": 354.2,
+          "text": "based"
+        },
+        {
+          "startSec": 354.2,
+          "endSec": 354.5,
+          "text": "on"
+        },
+        {
+          "startSec": 354.5,
+          "endSec": 355.3,
+          "text": "their"
+        },
+        {
+          "startSec": 355.3,
+          "endSec": 356.6,
+          "text": "statistical"
+        },
+        {
+          "startSec": 356.6,
+          "endSec": 357.7,
+          "text": "models."
+        },
+        {
+          "startSec": 357.7,
+          "endSec": 358.1,
+          "text": "But"
+        }
+      ]
     },
     {
       "startSec": 357.7,
       "endSec": 361.2,
-      "text": "But the technology is still new."
+      "text": "But the technology is still new.",
+      "words": [
+        {
+          "startSec": 357.7,
+          "endSec": 358.1,
+          "text": "But"
+        },
+        {
+          "startSec": 358.1,
+          "endSec": 358.9,
+          "text": "the"
+        },
+        {
+          "startSec": 358.9,
+          "endSec": 359.6,
+          "text": "technology"
+        },
+        {
+          "startSec": 359.6,
+          "endSec": 359.9,
+          "text": "is"
+        },
+        {
+          "startSec": 359.9,
+          "endSec": 360.7,
+          "text": "still"
+        },
+        {
+          "startSec": 360.7,
+          "endSec": 361.2,
+          "text": "new."
+        },
+        {
+          "startSec": 361.2,
+          "endSec": 361.7,
+          "text": "LLMs"
+        }
+      ]
     },
     {
       "startSec": 361.2,
       "endSec": 370.9,
-      "text": "LLMs can suffer from hallucinations, the creation of content that is false or incorrect."
+      "text": "LLMs can suffer from hallucinations, the creation of content that is false or incorrect.",
+      "words": [
+        {
+          "startSec": 361.2,
+          "endSec": 361.7,
+          "text": "LLMs"
+        },
+        {
+          "startSec": 361.7,
+          "endSec": 362.4,
+          "text": "can"
+        },
+        {
+          "startSec": 362.4,
+          "endSec": 362.9,
+          "text": "suffer"
+        },
+        {
+          "startSec": 362.9,
+          "endSec": 363.3,
+          "text": "from"
+        },
+        {
+          "startSec": 363.3,
+          "endSec": 365.4,
+          "text": "hallucinations,"
+        },
+        {
+          "startSec": 365.4,
+          "endSec": 365.7,
+          "text": "the"
+        },
+        {
+          "startSec": 365.7,
+          "endSec": 366.8,
+          "text": "creation"
+        },
+        {
+          "startSec": 366.8,
+          "endSec": 367,
+          "text": "of"
+        },
+        {
+          "startSec": 367,
+          "endSec": 368.2,
+          "text": "content"
+        },
+        {
+          "startSec": 368.2,
+          "endSec": 368.3,
+          "text": "that"
+        },
+        {
+          "startSec": 368.3,
+          "endSec": 368.5,
+          "text": "is"
+        },
+        {
+          "startSec": 368.5,
+          "endSec": 369.2,
+          "text": "false"
+        },
+        {
+          "startSec": 369.2,
+          "endSec": 369.4,
+          "text": "or"
+        },
+        {
+          "startSec": 369.4,
+          "endSec": 370.9,
+          "text": "incorrect."
+        },
+        {
+          "startSec": 370.9,
+          "endSec": 371,
+          "text": "A"
+        }
+      ]
     },
     {
       "startSec": 370.9,
       "endSec": 378.4,
-      "text": "A final important term is artificial general intelligence, AGI."
+      "text": "A final important term is artificial general intelligence, AGI.",
+      "words": [
+        {
+          "startSec": 370.9,
+          "endSec": 371,
+          "text": "A"
+        },
+        {
+          "startSec": 371,
+          "endSec": 372.1,
+          "text": "final"
+        },
+        {
+          "startSec": 372.1,
+          "endSec": 372.3,
+          "text": "important"
+        },
+        {
+          "startSec": 372.3,
+          "endSec": 372.7,
+          "text": "term"
+        },
+        {
+          "startSec": 372.7,
+          "endSec": 372.9,
+          "text": "is"
+        },
+        {
+          "startSec": 372.9,
+          "endSec": 373.9,
+          "text": "artificial"
+        },
+        {
+          "startSec": 373.9,
+          "endSec": 374.5,
+          "text": "general"
+        },
+        {
+          "startSec": 374.5,
+          "endSec": 376.4,
+          "text": "intelligence,"
+        },
+        {
+          "startSec": 376.4,
+          "endSec": 378.4,
+          "text": "AGI."
+        },
+        {
+          "startSec": 378.4,
+          "endSec": 378.8,
+          "text": "One"
+        }
+      ]
     },
     {
       "startSec": 378.4,
       "endSec": 382.7,
-      "text": "One of the big goals of the whole AI field."
+      "text": "One of the big goals of the whole AI field.",
+      "words": [
+        {
+          "startSec": 378.4,
+          "endSec": 378.8,
+          "text": "One"
+        },
+        {
+          "startSec": 378.8,
+          "endSec": 379,
+          "text": "of"
+        },
+        {
+          "startSec": 379,
+          "endSec": 379.6,
+          "text": "the"
+        },
+        {
+          "startSec": 379.6,
+          "endSec": 379.7,
+          "text": "big"
+        },
+        {
+          "startSec": 379.7,
+          "endSec": 380.3,
+          "text": "goals"
+        },
+        {
+          "startSec": 380.3,
+          "endSec": 380.5,
+          "text": "of"
+        },
+        {
+          "startSec": 380.5,
+          "endSec": 380.9,
+          "text": "the"
+        },
+        {
+          "startSec": 380.9,
+          "endSec": 381.5,
+          "text": "whole"
+        },
+        {
+          "startSec": 381.5,
+          "endSec": 381.8,
+          "text": "AI"
+        },
+        {
+          "startSec": 381.8,
+          "endSec": 382.7,
+          "text": "field."
+        },
+        {
+          "startSec": 382.7,
+          "endSec": 383.9,
+          "text": "AGI"
+        }
+      ]
     },
     {
       "startSec": 382.7,
       "endSec": 393.6,
-      "text": "AGI suggests the unrealized dream of a machine able to reproduce all human processes of human thinking."
+      "text": "AGI suggests the unrealized dream of a machine able to reproduce all human processes of human thinking.",
+      "words": [
+        {
+          "startSec": 382.7,
+          "endSec": 383.9,
+          "text": "AGI"
+        },
+        {
+          "startSec": 383.9,
+          "endSec": 384.1,
+          "text": "suggests"
+        },
+        {
+          "startSec": 384.1,
+          "endSec": 384.4,
+          "text": "the"
+        },
+        {
+          "startSec": 384.4,
+          "endSec": 385.7,
+          "text": "unrealized"
+        },
+        {
+          "startSec": 385.7,
+          "endSec": 386.3,
+          "text": "dream"
+        },
+        {
+          "startSec": 386.3,
+          "endSec": 386.6,
+          "text": "of"
+        },
+        {
+          "startSec": 386.6,
+          "endSec": 386.7,
+          "text": "a"
+        },
+        {
+          "startSec": 386.7,
+          "endSec": 387.6,
+          "text": "machine"
+        },
+        {
+          "startSec": 387.6,
+          "endSec": 388.1,
+          "text": "able"
+        },
+        {
+          "startSec": 388.1,
+          "endSec": 388.3,
+          "text": "to"
+        },
+        {
+          "startSec": 388.3,
+          "endSec": 389.7,
+          "text": "reproduce"
+        },
+        {
+          "startSec": 389.7,
+          "endSec": 389.8,
+          "text": "all"
+        },
+        {
+          "startSec": 389.8,
+          "endSec": 390.4,
+          "text": "human"
+        },
+        {
+          "startSec": 390.4,
+          "endSec": 391.4,
+          "text": "processes"
+        },
+        {
+          "startSec": 391.4,
+          "endSec": 391.6,
+          "text": "of"
+        },
+        {
+          "startSec": 391.6,
+          "endSec": 392.1,
+          "text": "human"
+        },
+        {
+          "startSec": 392.1,
+          "endSec": 393.6,
+          "text": "thinking."
+        },
+        {
+          "startSec": 393.6,
+          "endSec": 394.8,
+          "text": "People"
+        }
+      ]
     },
     {
       "startSec": 393.6,
       "endSec": 403.7,
-      "text": "People who push the idea include OpenAI Chief Sam Altman and his competitors at Anthropic."
+      "text": "People who push the idea include OpenAI Chief Sam Altman and his competitors at Anthropic.",
+      "words": [
+        {
+          "startSec": 393.6,
+          "endSec": 394.8,
+          "text": "People"
+        },
+        {
+          "startSec": 394.8,
+          "endSec": 394.8,
+          "text": "who"
+        },
+        {
+          "startSec": 394.8,
+          "endSec": 395.3,
+          "text": "push"
+        },
+        {
+          "startSec": 395.3,
+          "endSec": 395.7,
+          "text": "the"
+        },
+        {
+          "startSec": 395.7,
+          "endSec": 396.2,
+          "text": "idea"
+        },
+        {
+          "startSec": 396.2,
+          "endSec": 397.2,
+          "text": "include"
+        },
+        {
+          "startSec": 397.2,
+          "endSec": 397.9,
+          "text": "OpenAI"
+        },
+        {
+          "startSec": 397.9,
+          "endSec": 398.6,
+          "text": "Chief"
+        },
+        {
+          "startSec": 398.6,
+          "endSec": 399,
+          "text": "Sam"
+        },
+        {
+          "startSec": 399,
+          "endSec": 399.8,
+          "text": "Altman"
+        },
+        {
+          "startSec": 399.8,
+          "endSec": 400.6,
+          "text": "and"
+        },
+        {
+          "startSec": 400.6,
+          "endSec": 400.6,
+          "text": "his"
+        },
+        {
+          "startSec": 400.6,
+          "endSec": 402,
+          "text": "competitors"
+        },
+        {
+          "startSec": 402,
+          "endSec": 402.2,
+          "text": "at"
+        },
+        {
+          "startSec": 402.2,
+          "endSec": 403.7,
+          "text": "Anthropic."
+        },
+        {
+          "startSec": 403.7,
+          "endSec": 404.9,
+          "text": "They"
+        }
+      ]
     },
     {
       "startSec": 403.7,
       "endSec": 408.2,
-      "text": "They consider such a system to be within reach."
+      "text": "They consider such a system to be within reach.",
+      "words": [
+        {
+          "startSec": 403.7,
+          "endSec": 404.9,
+          "text": "They"
+        },
+        {
+          "startSec": 404.9,
+          "endSec": 405,
+          "text": "consider"
+        },
+        {
+          "startSec": 405,
+          "endSec": 405.5,
+          "text": "such"
+        },
+        {
+          "startSec": 405.5,
+          "endSec": 405.6,
+          "text": "a"
+        },
+        {
+          "startSec": 405.6,
+          "endSec": 406.2,
+          "text": "system"
+        },
+        {
+          "startSec": 406.2,
+          "endSec": 406.4,
+          "text": "to"
+        },
+        {
+          "startSec": 406.4,
+          "endSec": 406.7,
+          "text": "be"
+        },
+        {
+          "startSec": 406.7,
+          "endSec": 407.3,
+          "text": "within"
+        },
+        {
+          "startSec": 407.3,
+          "endSec": 408.2,
+          "text": "reach."
+        },
+        {
+          "startSec": 408.2,
+          "endSec": 408.6,
+          "text": "The"
+        }
+      ]
     },
     {
       "startSec": 408.2,
       "endSec": 419.4,
-      "text": "The goal is to use large amounts of data and processing power to train LLMs that are increasingly powerful."
+      "text": "The goal is to use large amounts of data and processing power to train LLMs that are increasingly powerful.",
+      "words": [
+        {
+          "startSec": 408.2,
+          "endSec": 408.6,
+          "text": "The"
+        },
+        {
+          "startSec": 408.6,
+          "endSec": 409,
+          "text": "goal"
+        },
+        {
+          "startSec": 409,
+          "endSec": 409.4,
+          "text": "is"
+        },
+        {
+          "startSec": 409.4,
+          "endSec": 409.4,
+          "text": "to"
+        },
+        {
+          "startSec": 409.4,
+          "endSec": 409.8,
+          "text": "use"
+        },
+        {
+          "startSec": 409.8,
+          "endSec": 410.3,
+          "text": "large"
+        },
+        {
+          "startSec": 410.3,
+          "endSec": 411.2,
+          "text": "amounts"
+        },
+        {
+          "startSec": 411.2,
+          "endSec": 411.4,
+          "text": "of"
+        },
+        {
+          "startSec": 411.4,
+          "endSec": 411.9,
+          "text": "data"
+        },
+        {
+          "startSec": 411.9,
+          "endSec": 412.1,
+          "text": "and"
+        },
+        {
+          "startSec": 412.1,
+          "endSec": 413.2,
+          "text": "processing"
+        },
+        {
+          "startSec": 413.2,
+          "endSec": 413.8,
+          "text": "power"
+        },
+        {
+          "startSec": 413.8,
+          "endSec": 414.2,
+          "text": "to"
+        },
+        {
+          "startSec": 414.2,
+          "endSec": 415.3,
+          "text": "train"
+        },
+        {
+          "startSec": 415.3,
+          "endSec": 416.2,
+          "text": "LLMs"
+        },
+        {
+          "startSec": 416.2,
+          "endSec": 416.5,
+          "text": "that"
+        },
+        {
+          "startSec": 416.5,
+          "endSec": 416.7,
+          "text": "are"
+        },
+        {
+          "startSec": 416.7,
+          "endSec": 417.6,
+          "text": "increasingly"
+        },
+        {
+          "startSec": 417.6,
+          "endSec": 419.4,
+          "text": "powerful."
+        },
+        {
+          "startSec": 419.4,
+          "endSec": 420.6,
+          "text": "But"
+        }
+      ]
     },
     {
       "startSec": 419.4,
       "endSec": 429.6,
-      "text": "But critics say that LLM technology has important limits, including its ability to reason."
+      "text": "But critics say that LLM technology has important limits, including its ability to reason.",
+      "words": [
+        {
+          "startSec": 419.4,
+          "endSec": 420.6,
+          "text": "But"
+        },
+        {
+          "startSec": 420.6,
+          "endSec": 420.8,
+          "text": "critics"
+        },
+        {
+          "startSec": 420.8,
+          "endSec": 421.2,
+          "text": "say"
+        },
+        {
+          "startSec": 421.2,
+          "endSec": 421.7,
+          "text": "that"
+        },
+        {
+          "startSec": 421.7,
+          "endSec": 422.4,
+          "text": "LLM"
+        },
+        {
+          "startSec": 422.4,
+          "endSec": 423.5,
+          "text": "technology"
+        },
+        {
+          "startSec": 423.5,
+          "endSec": 423.9,
+          "text": "has"
+        },
+        {
+          "startSec": 423.9,
+          "endSec": 425.1,
+          "text": "important"
+        },
+        {
+          "startSec": 425.1,
+          "endSec": 426.4,
+          "text": "limits,"
+        },
+        {
+          "startSec": 426.4,
+          "endSec": 427.3,
+          "text": "including"
+        },
+        {
+          "startSec": 427.3,
+          "endSec": 427.6,
+          "text": "its"
+        },
+        {
+          "startSec": 427.6,
+          "endSec": 428.4,
+          "text": "ability"
+        },
+        {
+          "startSec": 428.4,
+          "endSec": 428.6,
+          "text": "to"
+        },
+        {
+          "startSec": 428.6,
+          "endSec": 429.6,
+          "text": "reason."
+        },
+        {
+          "startSec": 429.6,
+          "endSec": 430.2,
+          "text": "Maxim"
+        }
+      ]
     },
     {
       "startSec": 429.6,
       "endSec": 438.9,
-      "text": "Maxim Umblar, computing professor at Francis University of Lorraine, told AFP last year,"
+      "text": "Maxim Umblar, computing professor at Francis University of Lorraine, told AFP last year,",
+      "words": [
+        {
+          "startSec": 429.6,
+          "endSec": 430.2,
+          "text": "Maxim"
+        },
+        {
+          "startSec": 430.2,
+          "endSec": 431.1,
+          "text": "Umblar,"
+        },
+        {
+          "startSec": 431.1,
+          "endSec": 432.1,
+          "text": "computing"
+        },
+        {
+          "startSec": 432.1,
+          "endSec": 433.2,
+          "text": "professor"
+        },
+        {
+          "startSec": 433.2,
+          "endSec": 433.4,
+          "text": "at"
+        },
+        {
+          "startSec": 433.4,
+          "endSec": 434.3,
+          "text": "Francis"
+        },
+        {
+          "startSec": 434.3,
+          "endSec": 435.4,
+          "text": "University"
+        },
+        {
+          "startSec": 435.4,
+          "endSec": 435.7,
+          "text": "of"
+        },
+        {
+          "startSec": 435.7,
+          "endSec": 436.9,
+          "text": "Lorraine,"
+        },
+        {
+          "startSec": 436.9,
+          "endSec": 437.3,
+          "text": "told"
+        },
+        {
+          "startSec": 437.3,
+          "endSec": 437.6,
+          "text": "AFP"
+        },
+        {
+          "startSec": 437.6,
+          "endSec": 438.1,
+          "text": "last"
+        },
+        {
+          "startSec": 438.1,
+          "endSec": 438.9,
+          "text": "year,"
+        },
+        {
+          "startSec": 438.9,
+          "endSec": 439.4,
+          "text": "LLMs"
+        }
+      ]
     },
     {
       "startSec": 438.9,
       "endSec": 443.2,
-      "text": "LLMs do not work like human beings."
+      "text": "LLMs do not work like human beings.",
+      "words": [
+        {
+          "startSec": 438.9,
+          "endSec": 439.4,
+          "text": "LLMs"
+        },
+        {
+          "startSec": 439.4,
+          "endSec": 440,
+          "text": "do"
+        },
+        {
+          "startSec": 440,
+          "endSec": 440.1,
+          "text": "not"
+        },
+        {
+          "startSec": 440.1,
+          "endSec": 440.7,
+          "text": "work"
+        },
+        {
+          "startSec": 440.7,
+          "endSec": 441.2,
+          "text": "like"
+        },
+        {
+          "startSec": 441.2,
+          "endSec": 441.9,
+          "text": "human"
+        },
+        {
+          "startSec": 441.9,
+          "endSec": 443.2,
+          "text": "beings."
+        },
+        {
+          "startSec": 443.2,
+          "endSec": 443.8,
+          "text": "Umblar"
+        }
+      ]
     },
     {
       "startSec": 443.2,
       "endSec": 451.1,
-      "text": "Umblar added that humans, as flesh and blood intelligent beings, are sense-making machines"
+      "text": "Umblar added that humans, as flesh and blood intelligent beings, are sense-making machines",
+      "words": [
+        {
+          "startSec": 443.2,
+          "endSec": 443.8,
+          "text": "Umblar"
+        },
+        {
+          "startSec": 443.8,
+          "endSec": 444.4,
+          "text": "added"
+        },
+        {
+          "startSec": 444.4,
+          "endSec": 444.7,
+          "text": "that"
+        },
+        {
+          "startSec": 444.7,
+          "endSec": 445.4,
+          "text": "humans,"
+        },
+        {
+          "startSec": 445.4,
+          "endSec": 445.6,
+          "text": "as"
+        },
+        {
+          "startSec": 445.6,
+          "endSec": 446.2,
+          "text": "flesh"
+        },
+        {
+          "startSec": 446.2,
+          "endSec": 446.4,
+          "text": "and"
+        },
+        {
+          "startSec": 446.4,
+          "endSec": 446.9,
+          "text": "blood"
+        },
+        {
+          "startSec": 446.9,
+          "endSec": 448,
+          "text": "intelligent"
+        },
+        {
+          "startSec": 448,
+          "endSec": 448.8,
+          "text": "beings,"
+        },
+        {
+          "startSec": 448.8,
+          "endSec": 449,
+          "text": "are"
+        },
+        {
+          "startSec": 449,
+          "endSec": 450.3,
+          "text": "sense-making"
+        },
+        {
+          "startSec": 450.3,
+          "endSec": 451.1,
+          "text": "machines"
+        },
+        {
+          "startSec": 451.1,
+          "endSec": 452.3,
+          "text": "with"
+        }
+      ]
     },
     {
       "startSec": 451.1,
       "endSec": 456.5,
-      "text": "with different abilities from today's computer systems."
+      "text": "with different abilities from today's computer systems.",
+      "words": [
+        {
+          "startSec": 451.1,
+          "endSec": 452.3,
+          "text": "with"
+        },
+        {
+          "startSec": 452.3,
+          "endSec": 452.5,
+          "text": "different"
+        },
+        {
+          "startSec": 452.5,
+          "endSec": 453.4,
+          "text": "abilities"
+        },
+        {
+          "startSec": 453.4,
+          "endSec": 454.1,
+          "text": "from"
+        },
+        {
+          "startSec": 454.1,
+          "endSec": 454.5,
+          "text": "today's"
+        },
+        {
+          "startSec": 454.5,
+          "endSec": 455.4,
+          "text": "computer"
+        },
+        {
+          "startSec": 455.4,
+          "endSec": 456.5,
+          "text": "systems."
+        },
+        {
+          "startSec": 456.5,
+          "endSec": 457.6,
+          "text": "I'm"
+        }
+      ]
     },
     {
       "startSec": 456.5,
       "endSec": 460,
-      "text": "I'm Anna Mateo, and I'm Jon Russell."
+      "text": "I'm Anna Mateo, and I'm Jon Russell.",
+      "words": [
+        {
+          "startSec": 456.5,
+          "endSec": 457.6,
+          "text": "I'm"
+        },
+        {
+          "startSec": 457.6,
+          "endSec": 457.7,
+          "text": "Anna"
+        },
+        {
+          "startSec": 457.7,
+          "endSec": 458.8,
+          "text": "Mateo,"
+        },
+        {
+          "startSec": 458.8,
+          "endSec": 459,
+          "text": "and"
+        },
+        {
+          "startSec": 459,
+          "endSec": 459.5,
+          "text": "I'm"
+        },
+        {
+          "startSec": 459.5,
+          "endSec": 459.5,
+          "text": "Jon"
+        },
+        {
+          "startSec": 459.5,
+          "endSec": 460,
+          "text": "Russell."
+        }
+      ]
     }
   ],
   "cefr": "C1",

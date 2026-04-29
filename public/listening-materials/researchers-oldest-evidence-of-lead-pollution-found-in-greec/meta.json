@@ -9,142 +9,2488 @@
     {
       "startSec": 0,
       "endSec": 11,
-      "text": "Ancient Greece produced the earliest records of democracy, and scientists now say lead pollution."
+      "text": "Ancient Greece produced the earliest records of democracy, and scientists now say lead pollution.",
+      "words": [
+        {
+          "startSec": 0,
+          "endSec": 1.1,
+          "text": "Ancient"
+        },
+        {
+          "startSec": 1.1,
+          "endSec": 1.5,
+          "text": "Greece"
+        },
+        {
+          "startSec": 1.5,
+          "endSec": 2.4,
+          "text": "produced"
+        },
+        {
+          "startSec": 2.4,
+          "endSec": 2.8,
+          "text": "the"
+        },
+        {
+          "startSec": 2.8,
+          "endSec": 3.7,
+          "text": "earliest"
+        },
+        {
+          "startSec": 3.7,
+          "endSec": 4.6,
+          "text": "records"
+        },
+        {
+          "startSec": 4.6,
+          "endSec": 4.7,
+          "text": "of"
+        },
+        {
+          "startSec": 4.7,
+          "endSec": 6.4,
+          "text": "democracy,"
+        },
+        {
+          "startSec": 6.4,
+          "endSec": 7.1,
+          "text": "and"
+        },
+        {
+          "startSec": 7.1,
+          "endSec": 8.2,
+          "text": "scientists"
+        },
+        {
+          "startSec": 8.2,
+          "endSec": 8.4,
+          "text": "now"
+        },
+        {
+          "startSec": 8.4,
+          "endSec": 9,
+          "text": "say"
+        },
+        {
+          "startSec": 9,
+          "endSec": 9.8,
+          "text": "lead"
+        },
+        {
+          "startSec": 9.8,
+          "endSec": 11,
+          "text": "pollution."
+        },
+        {
+          "startSec": 11,
+          "endSec": 11.5,
+          "text": "That"
+        }
+      ]
     },
     {
       "startSec": 11,
       "endSec": 20,
-      "text": "That is the finding of a study that recently appeared in communications, earth and environment."
+      "text": "That is the finding of a study that recently appeared in communications, earth and environment.",
+      "words": [
+        {
+          "startSec": 11,
+          "endSec": 11.5,
+          "text": "That"
+        },
+        {
+          "startSec": 11.5,
+          "endSec": 12,
+          "text": "is"
+        },
+        {
+          "startSec": 12,
+          "endSec": 12.1,
+          "text": "the"
+        },
+        {
+          "startSec": 12.1,
+          "endSec": 12.8,
+          "text": "finding"
+        },
+        {
+          "startSec": 12.8,
+          "endSec": 13,
+          "text": "of"
+        },
+        {
+          "startSec": 13,
+          "endSec": 13.1,
+          "text": "a"
+        },
+        {
+          "startSec": 13.1,
+          "endSec": 13.7,
+          "text": "study"
+        },
+        {
+          "startSec": 13.7,
+          "endSec": 14.1,
+          "text": "that"
+        },
+        {
+          "startSec": 14.1,
+          "endSec": 15,
+          "text": "recently"
+        },
+        {
+          "startSec": 15,
+          "endSec": 15.9,
+          "text": "appeared"
+        },
+        {
+          "startSec": 15.9,
+          "endSec": 16.1,
+          "text": "in"
+        },
+        {
+          "startSec": 16.1,
+          "endSec": 18.1,
+          "text": "communications,"
+        },
+        {
+          "startSec": 18.1,
+          "endSec": 18.5,
+          "text": "earth"
+        },
+        {
+          "startSec": 18.5,
+          "endSec": 19,
+          "text": "and"
+        },
+        {
+          "startSec": 19,
+          "endSec": 20,
+          "text": "environment."
+        },
+        {
+          "startSec": 20,
+          "endSec": 21.1,
+          "text": "The"
+        }
+      ]
     },
     {
       "startSec": 20,
       "endSec": 30,
-      "text": "The researchers studied sediment cores removed from mainland Greece and below the Aegean Sea."
+      "text": "The researchers studied sediment cores removed from mainland Greece and below the Aegean Sea.",
+      "words": [
+        {
+          "startSec": 20,
+          "endSec": 21.1,
+          "text": "The"
+        },
+        {
+          "startSec": 21.1,
+          "endSec": 21.8,
+          "text": "researchers"
+        },
+        {
+          "startSec": 21.8,
+          "endSec": 22.6,
+          "text": "studied"
+        },
+        {
+          "startSec": 22.6,
+          "endSec": 23.5,
+          "text": "sediment"
+        },
+        {
+          "startSec": 23.5,
+          "endSec": 24.2,
+          "text": "cores"
+        },
+        {
+          "startSec": 24.2,
+          "endSec": 25,
+          "text": "removed"
+        },
+        {
+          "startSec": 25,
+          "endSec": 25.5,
+          "text": "from"
+        },
+        {
+          "startSec": 25.5,
+          "endSec": 26.4,
+          "text": "mainland"
+        },
+        {
+          "startSec": 26.4,
+          "endSec": 27.2,
+          "text": "Greece"
+        },
+        {
+          "startSec": 27.2,
+          "endSec": 27.5,
+          "text": "and"
+        },
+        {
+          "startSec": 27.5,
+          "endSec": 28.2,
+          "text": "below"
+        },
+        {
+          "startSec": 28.2,
+          "endSec": 28.5,
+          "text": "the"
+        },
+        {
+          "startSec": 28.5,
+          "endSec": 29.6,
+          "text": "Aegean"
+        },
+        {
+          "startSec": 29.6,
+          "endSec": 30,
+          "text": "Sea."
+        },
+        {
+          "startSec": 30,
+          "endSec": 30.4,
+          "text": "They"
+        }
+      ]
     },
     {
       "startSec": 30,
       "endSec": 38,
-      "text": "They found in the cores the oldest known evidence of lead pollution in the environment,"
+      "text": "They found in the cores the oldest known evidence of lead pollution in the environment,",
+      "words": [
+        {
+          "startSec": 30,
+          "endSec": 30.4,
+          "text": "They"
+        },
+        {
+          "startSec": 30.4,
+          "endSec": 31.1,
+          "text": "found"
+        },
+        {
+          "startSec": 31.1,
+          "endSec": 31.2,
+          "text": "in"
+        },
+        {
+          "startSec": 31.2,
+          "endSec": 31.5,
+          "text": "the"
+        },
+        {
+          "startSec": 31.5,
+          "endSec": 32.1,
+          "text": "cores"
+        },
+        {
+          "startSec": 32.1,
+          "endSec": 32.4,
+          "text": "the"
+        },
+        {
+          "startSec": 32.4,
+          "endSec": 33.1,
+          "text": "oldest"
+        },
+        {
+          "startSec": 33.1,
+          "endSec": 33.6,
+          "text": "known"
+        },
+        {
+          "startSec": 33.6,
+          "endSec": 34.5,
+          "text": "evidence"
+        },
+        {
+          "startSec": 34.5,
+          "endSec": 34.7,
+          "text": "of"
+        },
+        {
+          "startSec": 34.7,
+          "endSec": 35.2,
+          "text": "lead"
+        },
+        {
+          "startSec": 35.2,
+          "endSec": 36.3,
+          "text": "pollution"
+        },
+        {
+          "startSec": 36.3,
+          "endSec": 36.4,
+          "text": "in"
+        },
+        {
+          "startSec": 36.4,
+          "endSec": 36.7,
+          "text": "the"
+        },
+        {
+          "startSec": 36.7,
+          "endSec": 38,
+          "text": "environment,"
+        }
+      ]
     },
     {
       "startSec": 38,
       "endSec": 52,
-      "text": "dating back around 5,200 years. That is 1,200 years older than the former oldest evidence of lead pollution."
+      "text": "dating back around 5,200 years. That is 1,200 years older than the former oldest evidence of lead pollution.",
+      "words": [
+        {
+          "startSec": 39.1,
+          "endSec": 39.9,
+          "text": "dating"
+        },
+        {
+          "startSec": 39.9,
+          "endSec": 41.2,
+          "text": "back"
+        },
+        {
+          "startSec": 41.2,
+          "endSec": 43,
+          "text": "around"
+        },
+        {
+          "startSec": 43,
+          "endSec": 47.6,
+          "text": "5,200"
+        },
+        {
+          "startSec": 47.6,
+          "endSec": 50,
+          "text": "years."
+        },
+        {
+          "startSec": 50,
+          "endSec": 50.1,
+          "text": "That"
+        },
+        {
+          "startSec": 50.1,
+          "endSec": 50.2,
+          "text": "is"
+        },
+        {
+          "startSec": 50.2,
+          "endSec": 50.5,
+          "text": "1,200"
+        },
+        {
+          "startSec": 50.5,
+          "endSec": 50.7,
+          "text": "years"
+        },
+        {
+          "startSec": 50.7,
+          "endSec": 50.8,
+          "text": "older"
+        },
+        {
+          "startSec": 50.8,
+          "endSec": 50.9,
+          "text": "than"
+        },
+        {
+          "startSec": 50.9,
+          "endSec": 51,
+          "text": "the"
+        },
+        {
+          "startSec": 51,
+          "endSec": 51.1,
+          "text": "former"
+        },
+        {
+          "startSec": 51.1,
+          "endSec": 51.3,
+          "text": "oldest"
+        },
+        {
+          "startSec": 51.3,
+          "endSec": 51.5,
+          "text": "evidence"
+        },
+        {
+          "startSec": 51.5,
+          "endSec": 51.5,
+          "text": "of"
+        },
+        {
+          "startSec": 51.5,
+          "endSec": 51.6,
+          "text": "lead"
+        },
+        {
+          "startSec": 51.6,
+          "endSec": 52,
+          "text": "pollution."
+        },
+        {
+          "startSec": 52,
+          "endSec": 53.1,
+          "text": "That"
+        }
+      ]
     },
     {
       "startSec": 52,
       "endSec": 62,
-      "text": "That evidence was discovered in Serbia. In ancient times, lead was released into the atmosphere"
+      "text": "That evidence was discovered in Serbia. In ancient times, lead was released into the atmosphere",
+      "words": [
+        {
+          "startSec": 52,
+          "endSec": 53.1,
+          "text": "That"
+        },
+        {
+          "startSec": 53.1,
+          "endSec": 53.7,
+          "text": "evidence"
+        },
+        {
+          "startSec": 53.7,
+          "endSec": 54.1,
+          "text": "was"
+        },
+        {
+          "startSec": 54.1,
+          "endSec": 55.5,
+          "text": "discovered"
+        },
+        {
+          "startSec": 55.5,
+          "endSec": 55.7,
+          "text": "in"
+        },
+        {
+          "startSec": 55.7,
+          "endSec": 57,
+          "text": "Serbia."
+        },
+        {
+          "startSec": 57,
+          "endSec": 57.1,
+          "text": "In"
+        },
+        {
+          "startSec": 57.1,
+          "endSec": 57.6,
+          "text": "ancient"
+        },
+        {
+          "startSec": 57.6,
+          "endSec": 58.3,
+          "text": "times,"
+        },
+        {
+          "startSec": 58.3,
+          "endSec": 58.5,
+          "text": "lead"
+        },
+        {
+          "startSec": 58.5,
+          "endSec": 59.1,
+          "text": "was"
+        },
+        {
+          "startSec": 59.1,
+          "endSec": 60.2,
+          "text": "released"
+        },
+        {
+          "startSec": 60.2,
+          "endSec": 60.6,
+          "text": "into"
+        },
+        {
+          "startSec": 60.6,
+          "endSec": 61,
+          "text": "the"
+        },
+        {
+          "startSec": 61,
+          "endSec": 62,
+          "text": "atmosphere"
+        },
+        {
+          "startSec": 62,
+          "endSec": 62.3,
+          "text": "as"
+        }
+      ]
     },
     {
       "startSec": 62,
       "endSec": 73,
-      "text": "as a product of copper and silver production. The toxic or poisonous metal turned to dust over time"
+      "text": "as a product of copper and silver production. The toxic or poisonous metal turned to dust over time",
+      "words": [
+        {
+          "startSec": 62,
+          "endSec": 62.3,
+          "text": "as"
+        },
+        {
+          "startSec": 62.3,
+          "endSec": 63.1,
+          "text": "a"
+        },
+        {
+          "startSec": 63.1,
+          "endSec": 63.2,
+          "text": "product"
+        },
+        {
+          "startSec": 63.2,
+          "endSec": 63.5,
+          "text": "of"
+        },
+        {
+          "startSec": 63.5,
+          "endSec": 64.3,
+          "text": "copper"
+        },
+        {
+          "startSec": 64.3,
+          "endSec": 64.6,
+          "text": "and"
+        },
+        {
+          "startSec": 64.6,
+          "endSec": 65.3,
+          "text": "silver"
+        },
+        {
+          "startSec": 65.3,
+          "endSec": 67,
+          "text": "production."
+        },
+        {
+          "startSec": 67,
+          "endSec": 67.4,
+          "text": "The"
+        },
+        {
+          "startSec": 67.4,
+          "endSec": 68.2,
+          "text": "toxic"
+        },
+        {
+          "startSec": 68.2,
+          "endSec": 68.3,
+          "text": "or"
+        },
+        {
+          "startSec": 68.3,
+          "endSec": 69.4,
+          "text": "poisonous"
+        },
+        {
+          "startSec": 69.4,
+          "endSec": 70.2,
+          "text": "metal"
+        },
+        {
+          "startSec": 70.2,
+          "endSec": 71,
+          "text": "turned"
+        },
+        {
+          "startSec": 71,
+          "endSec": 71.6,
+          "text": "to"
+        },
+        {
+          "startSec": 71.6,
+          "endSec": 71.6,
+          "text": "dust"
+        },
+        {
+          "startSec": 71.6,
+          "endSec": 72,
+          "text": "over"
+        },
+        {
+          "startSec": 72,
+          "endSec": 73,
+          "text": "time"
+        },
+        {
+          "startSec": 73,
+          "endSec": 74.1,
+          "text": "and"
+        }
+      ]
     },
     {
       "startSec": 73,
       "endSec": 83,
-      "text": "and settled onto the soil. Joseph Maran of Heidelberg University was a co-writer of the new study."
+      "text": "and settled onto the soil. Joseph Maran of Heidelberg University was a co-writer of the new study.",
+      "words": [
+        {
+          "startSec": 73,
+          "endSec": 74.1,
+          "text": "and"
+        },
+        {
+          "startSec": 74.1,
+          "endSec": 74.2,
+          "text": "settled"
+        },
+        {
+          "startSec": 74.2,
+          "endSec": 74.8,
+          "text": "onto"
+        },
+        {
+          "startSec": 74.8,
+          "endSec": 75.1,
+          "text": "the"
+        },
+        {
+          "startSec": 75.1,
+          "endSec": 76.1,
+          "text": "soil."
+        },
+        {
+          "startSec": 76.1,
+          "endSec": 76.7,
+          "text": "Joseph"
+        },
+        {
+          "startSec": 76.7,
+          "endSec": 77.3,
+          "text": "Maran"
+        },
+        {
+          "startSec": 77.3,
+          "endSec": 77.6,
+          "text": "of"
+        },
+        {
+          "startSec": 77.6,
+          "endSec": 78.8,
+          "text": "Heidelberg"
+        },
+        {
+          "startSec": 78.8,
+          "endSec": 80.1,
+          "text": "University"
+        },
+        {
+          "startSec": 80.1,
+          "endSec": 80.3,
+          "text": "was"
+        },
+        {
+          "startSec": 80.3,
+          "endSec": 80.4,
+          "text": "a"
+        },
+        {
+          "startSec": 80.4,
+          "endSec": 81.3,
+          "text": "co-writer"
+        },
+        {
+          "startSec": 81.3,
+          "endSec": 81.5,
+          "text": "of"
+        },
+        {
+          "startSec": 81.5,
+          "endSec": 81.8,
+          "text": "the"
+        },
+        {
+          "startSec": 81.8,
+          "endSec": 82.6,
+          "text": "new"
+        },
+        {
+          "startSec": 82.6,
+          "endSec": 83,
+          "text": "study."
+        },
+        {
+          "startSec": 83,
+          "endSec": 84.1,
+          "text": "Silver"
+        }
+      ]
     },
     {
       "startSec": 83,
       "endSec": 92,
-      "text": "Silver was used for jewelry for special objects, but it wasn't found in a pure state."
+      "text": "Silver was used for jewelry for special objects, but it wasn't found in a pure state.",
+      "words": [
+        {
+          "startSec": 83,
+          "endSec": 84.1,
+          "text": "Silver"
+        },
+        {
+          "startSec": 84.1,
+          "endSec": 84.1,
+          "text": "was"
+        },
+        {
+          "startSec": 84.1,
+          "endSec": 84.6,
+          "text": "used"
+        },
+        {
+          "startSec": 84.6,
+          "endSec": 85,
+          "text": "for"
+        },
+        {
+          "startSec": 85,
+          "endSec": 85.8,
+          "text": "jewelry"
+        },
+        {
+          "startSec": 85.8,
+          "endSec": 86.2,
+          "text": "for"
+        },
+        {
+          "startSec": 86.2,
+          "endSec": 87.1,
+          "text": "special"
+        },
+        {
+          "startSec": 87.1,
+          "endSec": 88.2,
+          "text": "objects,"
+        },
+        {
+          "startSec": 88.2,
+          "endSec": 88.5,
+          "text": "but"
+        },
+        {
+          "startSec": 88.5,
+          "endSec": 88.8,
+          "text": "it"
+        },
+        {
+          "startSec": 88.8,
+          "endSec": 89.5,
+          "text": "wasn't"
+        },
+        {
+          "startSec": 89.5,
+          "endSec": 90.1,
+          "text": "found"
+        },
+        {
+          "startSec": 90.1,
+          "endSec": 90.3,
+          "text": "in"
+        },
+        {
+          "startSec": 90.3,
+          "endSec": 90.5,
+          "text": "a"
+        },
+        {
+          "startSec": 90.5,
+          "endSec": 91,
+          "text": "pure"
+        },
+        {
+          "startSec": 91,
+          "endSec": 92,
+          "text": "state."
+        },
+        {
+          "startSec": 92,
+          "endSec": 92.3,
+          "text": "It"
+        }
+      ]
     },
     {
       "startSec": 92,
       "endSec": 98,
-      "text": "It was mined in ore combined with lead, Maran said."
+      "text": "It was mined in ore combined with lead, Maran said.",
+      "words": [
+        {
+          "startSec": 92,
+          "endSec": 92.3,
+          "text": "It"
+        },
+        {
+          "startSec": 92.3,
+          "endSec": 93.1,
+          "text": "was"
+        },
+        {
+          "startSec": 93.1,
+          "endSec": 93.3,
+          "text": "mined"
+        },
+        {
+          "startSec": 93.3,
+          "endSec": 93.6,
+          "text": "in"
+        },
+        {
+          "startSec": 93.6,
+          "endSec": 94,
+          "text": "ore"
+        },
+        {
+          "startSec": 94,
+          "endSec": 95.1,
+          "text": "combined"
+        },
+        {
+          "startSec": 95.1,
+          "endSec": 95.6,
+          "text": "with"
+        },
+        {
+          "startSec": 95.6,
+          "endSec": 96.4,
+          "text": "lead,"
+        },
+        {
+          "startSec": 96.4,
+          "endSec": 97,
+          "text": "Maran"
+        },
+        {
+          "startSec": 97,
+          "endSec": 98,
+          "text": "said."
+        },
+        {
+          "startSec": 98,
+          "endSec": 98.3,
+          "text": "The"
+        }
+      ]
     },
     {
       "startSec": 98,
       "endSec": 107,
-      "text": "The place with the earliest signs of lead is in northeastern Greece, near the island of Thasos."
+      "text": "The place with the earliest signs of lead is in northeastern Greece, near the island of Thasos.",
+      "words": [
+        {
+          "startSec": 98,
+          "endSec": 98.3,
+          "text": "The"
+        },
+        {
+          "startSec": 98.3,
+          "endSec": 99.1,
+          "text": "place"
+        },
+        {
+          "startSec": 99.1,
+          "endSec": 99.2,
+          "text": "with"
+        },
+        {
+          "startSec": 99.2,
+          "endSec": 99.5,
+          "text": "the"
+        },
+        {
+          "startSec": 99.5,
+          "endSec": 100.4,
+          "text": "earliest"
+        },
+        {
+          "startSec": 100.4,
+          "endSec": 101.1,
+          "text": "signs"
+        },
+        {
+          "startSec": 101.1,
+          "endSec": 101.1,
+          "text": "of"
+        },
+        {
+          "startSec": 101.1,
+          "endSec": 101.5,
+          "text": "lead"
+        },
+        {
+          "startSec": 101.5,
+          "endSec": 101.7,
+          "text": "is"
+        },
+        {
+          "startSec": 101.7,
+          "endSec": 101.9,
+          "text": "in"
+        },
+        {
+          "startSec": 101.9,
+          "endSec": 103.1,
+          "text": "northeastern"
+        },
+        {
+          "startSec": 103.1,
+          "endSec": 104.3,
+          "text": "Greece,"
+        },
+        {
+          "startSec": 104.3,
+          "endSec": 104.5,
+          "text": "near"
+        },
+        {
+          "startSec": 104.5,
+          "endSec": 105.1,
+          "text": "the"
+        },
+        {
+          "startSec": 105.1,
+          "endSec": 105.6,
+          "text": "island"
+        },
+        {
+          "startSec": 105.6,
+          "endSec": 105.9,
+          "text": "of"
+        },
+        {
+          "startSec": 105.9,
+          "endSec": 107,
+          "text": "Thasos."
+        },
+        {
+          "startSec": 107,
+          "endSec": 108.1,
+          "text": "Past"
+        }
+      ]
     },
     {
       "startSec": 107,
       "endSec": 119,
-      "text": "Past evidence suggests Thasos was one of the area's most important places for silver mining and metalwork, said Maran."
+      "text": "Past evidence suggests Thasos was one of the area's most important places for silver mining and metalwork, said Maran.",
+      "words": [
+        {
+          "startSec": 107,
+          "endSec": 108.1,
+          "text": "Past"
+        },
+        {
+          "startSec": 108.1,
+          "endSec": 108.4,
+          "text": "evidence"
+        },
+        {
+          "startSec": 108.4,
+          "endSec": 109.3,
+          "text": "suggests"
+        },
+        {
+          "startSec": 109.3,
+          "endSec": 110.1,
+          "text": "Thasos"
+        },
+        {
+          "startSec": 110.1,
+          "endSec": 110.3,
+          "text": "was"
+        },
+        {
+          "startSec": 110.3,
+          "endSec": 110.6,
+          "text": "one"
+        },
+        {
+          "startSec": 110.6,
+          "endSec": 110.8,
+          "text": "of"
+        },
+        {
+          "startSec": 110.8,
+          "endSec": 111.2,
+          "text": "the"
+        },
+        {
+          "startSec": 111.2,
+          "endSec": 111.9,
+          "text": "area's"
+        },
+        {
+          "startSec": 111.9,
+          "endSec": 112.3,
+          "text": "most"
+        },
+        {
+          "startSec": 112.3,
+          "endSec": 113.3,
+          "text": "important"
+        },
+        {
+          "startSec": 113.3,
+          "endSec": 114.1,
+          "text": "places"
+        },
+        {
+          "startSec": 114.1,
+          "endSec": 114.2,
+          "text": "for"
+        },
+        {
+          "startSec": 114.2,
+          "endSec": 114.6,
+          "text": "silver"
+        },
+        {
+          "startSec": 114.6,
+          "endSec": 115.2,
+          "text": "mining"
+        },
+        {
+          "startSec": 115.2,
+          "endSec": 115.4,
+          "text": "and"
+        },
+        {
+          "startSec": 115.4,
+          "endSec": 117,
+          "text": "metalwork,"
+        },
+        {
+          "startSec": 117,
+          "endSec": 117.7,
+          "text": "said"
+        },
+        {
+          "startSec": 117.7,
+          "endSec": 119,
+          "text": "Maran."
+        },
+        {
+          "startSec": 119,
+          "endSec": 120.1,
+          "text": "Yale"
+        }
+      ]
     },
     {
       "startSec": 119,
       "endSec": 128,
-      "text": "Yale historian Joseph Manning, who was not involved in the study, said lead released from smelting"
+      "text": "Yale historian Joseph Manning, who was not involved in the study, said lead released from smelting",
+      "words": [
+        {
+          "startSec": 119,
+          "endSec": 120.1,
+          "text": "Yale"
+        },
+        {
+          "startSec": 120.1,
+          "endSec": 120.4,
+          "text": "historian"
+        },
+        {
+          "startSec": 120.4,
+          "endSec": 121,
+          "text": "Joseph"
+        },
+        {
+          "startSec": 121,
+          "endSec": 122.1,
+          "text": "Manning,"
+        },
+        {
+          "startSec": 122.1,
+          "endSec": 122.3,
+          "text": "who"
+        },
+        {
+          "startSec": 122.3,
+          "endSec": 122.6,
+          "text": "was"
+        },
+        {
+          "startSec": 122.6,
+          "endSec": 122.9,
+          "text": "not"
+        },
+        {
+          "startSec": 122.9,
+          "endSec": 123.7,
+          "text": "involved"
+        },
+        {
+          "startSec": 123.7,
+          "endSec": 123.9,
+          "text": "in"
+        },
+        {
+          "startSec": 123.9,
+          "endSec": 124.3,
+          "text": "the"
+        },
+        {
+          "startSec": 124.3,
+          "endSec": 125.3,
+          "text": "study,"
+        },
+        {
+          "startSec": 125.3,
+          "endSec": 125.5,
+          "text": "said"
+        },
+        {
+          "startSec": 125.5,
+          "endSec": 126.1,
+          "text": "lead"
+        },
+        {
+          "startSec": 126.1,
+          "endSec": 127.2,
+          "text": "released"
+        },
+        {
+          "startSec": 127.2,
+          "endSec": 128,
+          "text": "from"
+        },
+        {
+          "startSec": 128,
+          "endSec": 128,
+          "text": "smelting"
+        },
+        {
+          "startSec": 128,
+          "endSec": 128.2,
+          "text": "is"
+        }
+      ]
     },
     {
       "startSec": 128,
       "endSec": 134,
-      "text": "is the world's first form of toxic or industrial pollution."
+      "text": "is the world's first form of toxic or industrial pollution.",
+      "words": [
+        {
+          "startSec": 128,
+          "endSec": 128,
+          "text": "smelting"
+        },
+        {
+          "startSec": 128,
+          "endSec": 128.2,
+          "text": "is"
+        },
+        {
+          "startSec": 128.2,
+          "endSec": 129.1,
+          "text": "the"
+        },
+        {
+          "startSec": 129.1,
+          "endSec": 129.4,
+          "text": "world's"
+        },
+        {
+          "startSec": 129.4,
+          "endSec": 129.9,
+          "text": "first"
+        },
+        {
+          "startSec": 129.9,
+          "endSec": 130.4,
+          "text": "form"
+        },
+        {
+          "startSec": 130.4,
+          "endSec": 130.6,
+          "text": "of"
+        },
+        {
+          "startSec": 130.6,
+          "endSec": 131.2,
+          "text": "toxic"
+        },
+        {
+          "startSec": 131.2,
+          "endSec": 131.4,
+          "text": "or"
+        },
+        {
+          "startSec": 131.4,
+          "endSec": 132.6,
+          "text": "industrial"
+        },
+        {
+          "startSec": 132.6,
+          "endSec": 134,
+          "text": "pollution."
+        },
+        {
+          "startSec": 134,
+          "endSec": 135.1,
+          "text": "The"
+        }
+      ]
     },
     {
       "startSec": 134,
       "endSec": 143,
-      "text": "The researchers found that levels of lead contamination remained fairly low in ancient Greece."
+      "text": "The researchers found that levels of lead contamination remained fairly low in ancient Greece.",
+      "words": [
+        {
+          "startSec": 134,
+          "endSec": 135.1,
+          "text": "The"
+        },
+        {
+          "startSec": 135.1,
+          "endSec": 135.5,
+          "text": "researchers"
+        },
+        {
+          "startSec": 135.5,
+          "endSec": 136,
+          "text": "found"
+        },
+        {
+          "startSec": 136,
+          "endSec": 136.4,
+          "text": "that"
+        },
+        {
+          "startSec": 136.4,
+          "endSec": 137.1,
+          "text": "levels"
+        },
+        {
+          "startSec": 137.1,
+          "endSec": 137.2,
+          "text": "of"
+        },
+        {
+          "startSec": 137.2,
+          "endSec": 137.6,
+          "text": "lead"
+        },
+        {
+          "startSec": 137.6,
+          "endSec": 139,
+          "text": "contamination"
+        },
+        {
+          "startSec": 139,
+          "endSec": 140.3,
+          "text": "remained"
+        },
+        {
+          "startSec": 140.3,
+          "endSec": 140.6,
+          "text": "fairly"
+        },
+        {
+          "startSec": 140.6,
+          "endSec": 141.1,
+          "text": "low"
+        },
+        {
+          "startSec": 141.1,
+          "endSec": 141.2,
+          "text": "in"
+        },
+        {
+          "startSec": 141.2,
+          "endSec": 142,
+          "text": "ancient"
+        },
+        {
+          "startSec": 142,
+          "endSec": 143,
+          "text": "Greece."
+        },
+        {
+          "startSec": 143,
+          "endSec": 143.3,
+          "text": "The"
+        }
+      ]
     },
     {
       "startSec": 143,
       "endSec": 152,
-      "text": "The levels remained low throughout the Bronze Age, the Classical Period, and the Hellenistic Period."
+      "text": "The levels remained low throughout the Bronze Age, the Classical Period, and the Hellenistic Period.",
+      "words": [
+        {
+          "startSec": 143,
+          "endSec": 143.3,
+          "text": "The"
+        },
+        {
+          "startSec": 143.3,
+          "endSec": 144.1,
+          "text": "levels"
+        },
+        {
+          "startSec": 144.1,
+          "endSec": 144.5,
+          "text": "remained"
+        },
+        {
+          "startSec": 144.5,
+          "endSec": 144.8,
+          "text": "low"
+        },
+        {
+          "startSec": 144.8,
+          "endSec": 145.7,
+          "text": "throughout"
+        },
+        {
+          "startSec": 145.7,
+          "endSec": 146.1,
+          "text": "the"
+        },
+        {
+          "startSec": 146.1,
+          "endSec": 146.5,
+          "text": "Bronze"
+        },
+        {
+          "startSec": 146.5,
+          "endSec": 147,
+          "text": "Age,"
+        },
+        {
+          "startSec": 147,
+          "endSec": 147.3,
+          "text": "the"
+        },
+        {
+          "startSec": 147.3,
+          "endSec": 148.3,
+          "text": "Classical"
+        },
+        {
+          "startSec": 148.3,
+          "endSec": 149.3,
+          "text": "Period,"
+        },
+        {
+          "startSec": 149.3,
+          "endSec": 149.3,
+          "text": "and"
+        },
+        {
+          "startSec": 149.3,
+          "endSec": 149.7,
+          "text": "the"
+        },
+        {
+          "startSec": 149.7,
+          "endSec": 151,
+          "text": "Hellenistic"
+        },
+        {
+          "startSec": 151,
+          "endSec": 152,
+          "text": "Period."
+        },
+        {
+          "startSec": 152,
+          "endSec": 153.1,
+          "text": "The"
+        }
+      ]
     },
     {
       "startSec": 152,
       "endSec": 162,
-      "text": "The Classical Period is famous for Athenian democracy and the thinkers Socrates and Plato."
+      "text": "The Classical Period is famous for Athenian democracy and the thinkers Socrates and Plato.",
+      "words": [
+        {
+          "startSec": 152,
+          "endSec": 153.1,
+          "text": "The"
+        },
+        {
+          "startSec": 153.1,
+          "endSec": 153.3,
+          "text": "Classical"
+        },
+        {
+          "startSec": 153.3,
+          "endSec": 153.9,
+          "text": "Period"
+        },
+        {
+          "startSec": 153.9,
+          "endSec": 154.3,
+          "text": "is"
+        },
+        {
+          "startSec": 154.3,
+          "endSec": 154.8,
+          "text": "famous"
+        },
+        {
+          "startSec": 154.8,
+          "endSec": 155.1,
+          "text": "for"
+        },
+        {
+          "startSec": 155.1,
+          "endSec": 156,
+          "text": "Athenian"
+        },
+        {
+          "startSec": 156,
+          "endSec": 157,
+          "text": "democracy"
+        },
+        {
+          "startSec": 157,
+          "endSec": 157.5,
+          "text": "and"
+        },
+        {
+          "startSec": 157.5,
+          "endSec": 158.3,
+          "text": "the"
+        },
+        {
+          "startSec": 158.3,
+          "endSec": 159.3,
+          "text": "thinkers"
+        },
+        {
+          "startSec": 159.3,
+          "endSec": 160.7,
+          "text": "Socrates"
+        },
+        {
+          "startSec": 160.7,
+          "endSec": 161.6,
+          "text": "and"
+        },
+        {
+          "startSec": 161.6,
+          "endSec": 162,
+          "text": "Plato."
+        },
+        {
+          "startSec": 162,
+          "endSec": 162.3,
+          "text": "And"
+        }
+      ]
     },
     {
       "startSec": 162,
       "endSec": 171,
-      "text": "And the Hellenistic Period saw Greek cultural influence reach its height across the Mediterranean."
+      "text": "And the Hellenistic Period saw Greek cultural influence reach its height across the Mediterranean.",
+      "words": [
+        {
+          "startSec": 162,
+          "endSec": 162.3,
+          "text": "And"
+        },
+        {
+          "startSec": 162.3,
+          "endSec": 163,
+          "text": "the"
+        },
+        {
+          "startSec": 163,
+          "endSec": 163.8,
+          "text": "Hellenistic"
+        },
+        {
+          "startSec": 163.8,
+          "endSec": 164.4,
+          "text": "Period"
+        },
+        {
+          "startSec": 164.4,
+          "endSec": 164.7,
+          "text": "saw"
+        },
+        {
+          "startSec": 164.7,
+          "endSec": 165.2,
+          "text": "Greek"
+        },
+        {
+          "startSec": 165.2,
+          "endSec": 166,
+          "text": "cultural"
+        },
+        {
+          "startSec": 166,
+          "endSec": 166.9,
+          "text": "influence"
+        },
+        {
+          "startSec": 166.9,
+          "endSec": 167.4,
+          "text": "reach"
+        },
+        {
+          "startSec": 167.4,
+          "endSec": 167.8,
+          "text": "its"
+        },
+        {
+          "startSec": 167.8,
+          "endSec": 168.4,
+          "text": "height"
+        },
+        {
+          "startSec": 168.4,
+          "endSec": 169.1,
+          "text": "across"
+        },
+        {
+          "startSec": 169.1,
+          "endSec": 169.3,
+          "text": "the"
+        },
+        {
+          "startSec": 169.3,
+          "endSec": 171,
+          "text": "Mediterranean."
+        },
+        {
+          "startSec": 171,
+          "endSec": 171.4,
+          "text": "But"
+        }
+      ]
     },
     {
       "startSec": 171,
       "endSec": 185,
-      "text": "But the new study shows that around 2,150 years ago, a very strong and abrupt increase in lead releases caused by human activities"
+      "text": "But the new study shows that around 2,150 years ago, a very strong and abrupt increase in lead releases caused by human activities",
+      "words": [
+        {
+          "startSec": 171,
+          "endSec": 171.4,
+          "text": "But"
+        },
+        {
+          "startSec": 171.4,
+          "endSec": 172.1,
+          "text": "the"
+        },
+        {
+          "startSec": 172.1,
+          "endSec": 172.2,
+          "text": "new"
+        },
+        {
+          "startSec": 172.2,
+          "endSec": 172.9,
+          "text": "study"
+        },
+        {
+          "startSec": 172.9,
+          "endSec": 173.6,
+          "text": "shows"
+        },
+        {
+          "startSec": 173.6,
+          "endSec": 174.1,
+          "text": "that"
+        },
+        {
+          "startSec": 174.1,
+          "endSec": 175,
+          "text": "around"
+        },
+        {
+          "startSec": 175,
+          "endSec": 177.3,
+          "text": "2,150"
+        },
+        {
+          "startSec": 177.3,
+          "endSec": 177.5,
+          "text": "years"
+        },
+        {
+          "startSec": 177.5,
+          "endSec": 178.2,
+          "text": "ago,"
+        },
+        {
+          "startSec": 178.2,
+          "endSec": 178.3,
+          "text": "a"
+        },
+        {
+          "startSec": 178.3,
+          "endSec": 178.7,
+          "text": "very"
+        },
+        {
+          "startSec": 178.7,
+          "endSec": 179.3,
+          "text": "strong"
+        },
+        {
+          "startSec": 179.3,
+          "endSec": 179.6,
+          "text": "and"
+        },
+        {
+          "startSec": 179.6,
+          "endSec": 180.6,
+          "text": "abrupt"
+        },
+        {
+          "startSec": 180.6,
+          "endSec": 181,
+          "text": "increase"
+        },
+        {
+          "startSec": 181,
+          "endSec": 181.3,
+          "text": "in"
+        },
+        {
+          "startSec": 181.3,
+          "endSec": 182.9,
+          "text": "lead"
+        },
+        {
+          "startSec": 182.9,
+          "endSec": 183,
+          "text": "releases"
+        },
+        {
+          "startSec": 183,
+          "endSec": 183.7,
+          "text": "caused"
+        },
+        {
+          "startSec": 183.7,
+          "endSec": 184,
+          "text": "by"
+        },
+        {
+          "startSec": 184,
+          "endSec": 184.3,
+          "text": "human"
+        },
+        {
+          "startSec": 184.3,
+          "endSec": 185,
+          "text": "activities"
+        },
+        {
+          "startSec": 185,
+          "endSec": 186,
+          "text": "took"
+        }
+      ]
     },
     {
       "startSec": 185,
       "endSec": 194,
-      "text": "took place across Greece, said co-writer Andreas Kutzudentris of Heidelberg University."
+      "text": "took place across Greece, said co-writer Andreas Kutzudentris of Heidelberg University.",
+      "words": [
+        {
+          "startSec": 185,
+          "endSec": 186,
+          "text": "took"
+        },
+        {
+          "startSec": 186,
+          "endSec": 186.1,
+          "text": "place"
+        },
+        {
+          "startSec": 186.1,
+          "endSec": 186.7,
+          "text": "across"
+        },
+        {
+          "startSec": 186.7,
+          "endSec": 187.6,
+          "text": "Greece,"
+        },
+        {
+          "startSec": 187.6,
+          "endSec": 188.1,
+          "text": "said"
+        },
+        {
+          "startSec": 188.1,
+          "endSec": 189,
+          "text": "co-writer"
+        },
+        {
+          "startSec": 189,
+          "endSec": 189.9,
+          "text": "Andreas"
+        },
+        {
+          "startSec": 189.9,
+          "endSec": 191.3,
+          "text": "Kutzudentris"
+        },
+        {
+          "startSec": 191.3,
+          "endSec": 191.3,
+          "text": "of"
+        },
+        {
+          "startSec": 191.3,
+          "endSec": 192.5,
+          "text": "Heidelberg"
+        },
+        {
+          "startSec": 192.5,
+          "endSec": 194,
+          "text": "University."
+        },
+        {
+          "startSec": 194,
+          "endSec": 195,
+          "text": "Around"
+        }
+      ]
     },
     {
       "startSec": 194,
       "endSec": 205,
-      "text": "Around that time, the Roman army won control of the Greek peninsula, completely changing the area's society and economy."
+      "text": "Around that time, the Roman army won control of the Greek peninsula, completely changing the area's society and economy.",
+      "words": [
+        {
+          "startSec": 194,
+          "endSec": 195,
+          "text": "Around"
+        },
+        {
+          "startSec": 195,
+          "endSec": 195.1,
+          "text": "that"
+        },
+        {
+          "startSec": 195.1,
+          "endSec": 195.6,
+          "text": "time,"
+        },
+        {
+          "startSec": 195.6,
+          "endSec": 195.9,
+          "text": "the"
+        },
+        {
+          "startSec": 195.9,
+          "endSec": 196.4,
+          "text": "Roman"
+        },
+        {
+          "startSec": 196.4,
+          "endSec": 196.8,
+          "text": "army"
+        },
+        {
+          "startSec": 196.8,
+          "endSec": 197.1,
+          "text": "won"
+        },
+        {
+          "startSec": 197.1,
+          "endSec": 197.9,
+          "text": "control"
+        },
+        {
+          "startSec": 197.9,
+          "endSec": 198,
+          "text": "of"
+        },
+        {
+          "startSec": 198,
+          "endSec": 198.3,
+          "text": "the"
+        },
+        {
+          "startSec": 198.3,
+          "endSec": 198.9,
+          "text": "Greek"
+        },
+        {
+          "startSec": 198.9,
+          "endSec": 200.3,
+          "text": "peninsula,"
+        },
+        {
+          "startSec": 200.3,
+          "endSec": 201.1,
+          "text": "completely"
+        },
+        {
+          "startSec": 201.1,
+          "endSec": 202,
+          "text": "changing"
+        },
+        {
+          "startSec": 202,
+          "endSec": 202.3,
+          "text": "the"
+        },
+        {
+          "startSec": 202.3,
+          "endSec": 203,
+          "text": "area's"
+        },
+        {
+          "startSec": 203,
+          "endSec": 203.7,
+          "text": "society"
+        },
+        {
+          "startSec": 203.7,
+          "endSec": 204,
+          "text": "and"
+        },
+        {
+          "startSec": 204,
+          "endSec": 205,
+          "text": "economy."
+        },
+        {
+          "startSec": 205,
+          "endSec": 205.2,
+          "text": "As"
+        }
+      ]
     },
     {
       "startSec": 205,
       "endSec": 218,
-      "text": "As Roman trade, colonies, and shipping grew across the Mediterranean Sea and Black Sea, demand for silver coins also grew."
+      "text": "As Roman trade, colonies, and shipping grew across the Mediterranean Sea and Black Sea, demand for silver coins also grew.",
+      "words": [
+        {
+          "startSec": 205,
+          "endSec": 205.2,
+          "text": "As"
+        },
+        {
+          "startSec": 205.2,
+          "endSec": 206.1,
+          "text": "Roman"
+        },
+        {
+          "startSec": 206.1,
+          "endSec": 206.7,
+          "text": "trade,"
+        },
+        {
+          "startSec": 206.7,
+          "endSec": 208.1,
+          "text": "colonies,"
+        },
+        {
+          "startSec": 208.1,
+          "endSec": 208.3,
+          "text": "and"
+        },
+        {
+          "startSec": 208.3,
+          "endSec": 209.2,
+          "text": "shipping"
+        },
+        {
+          "startSec": 209.2,
+          "endSec": 209.7,
+          "text": "grew"
+        },
+        {
+          "startSec": 209.7,
+          "endSec": 210.4,
+          "text": "across"
+        },
+        {
+          "startSec": 210.4,
+          "endSec": 210.8,
+          "text": "the"
+        },
+        {
+          "startSec": 210.8,
+          "endSec": 212.3,
+          "text": "Mediterranean"
+        },
+        {
+          "startSec": 212.3,
+          "endSec": 212.7,
+          "text": "Sea"
+        },
+        {
+          "startSec": 212.7,
+          "endSec": 213.2,
+          "text": "and"
+        },
+        {
+          "startSec": 213.2,
+          "endSec": 213.6,
+          "text": "Black"
+        },
+        {
+          "startSec": 213.6,
+          "endSec": 214.6,
+          "text": "Sea,"
+        },
+        {
+          "startSec": 214.6,
+          "endSec": 215,
+          "text": "demand"
+        },
+        {
+          "startSec": 215,
+          "endSec": 215.3,
+          "text": "for"
+        },
+        {
+          "startSec": 215.3,
+          "endSec": 216.6,
+          "text": "silver"
+        },
+        {
+          "startSec": 216.6,
+          "endSec": 216.9,
+          "text": "coins"
+        },
+        {
+          "startSec": 216.9,
+          "endSec": 217.1,
+          "text": "also"
+        },
+        {
+          "startSec": 217.1,
+          "endSec": 218,
+          "text": "grew."
+        },
+        {
+          "startSec": 218,
+          "endSec": 218.3,
+          "text": "As"
+        }
+      ]
     },
     {
       "startSec": 218,
       "endSec": 225,
-      "text": "As a result, more smelting was required, Kutzudentris said."
+      "text": "As a result, more smelting was required, Kutzudentris said.",
+      "words": [
+        {
+          "startSec": 218,
+          "endSec": 218.3,
+          "text": "As"
+        },
+        {
+          "startSec": 218.3,
+          "endSec": 219.1,
+          "text": "a"
+        },
+        {
+          "startSec": 219.1,
+          "endSec": 219.4,
+          "text": "result,"
+        },
+        {
+          "startSec": 219.4,
+          "endSec": 219.9,
+          "text": "more"
+        },
+        {
+          "startSec": 219.9,
+          "endSec": 221.1,
+          "text": "smelting"
+        },
+        {
+          "startSec": 221.1,
+          "endSec": 221.3,
+          "text": "was"
+        },
+        {
+          "startSec": 221.3,
+          "endSec": 222.5,
+          "text": "required,"
+        },
+        {
+          "startSec": 222.5,
+          "endSec": 224.3,
+          "text": "Kutzudentris"
+        },
+        {
+          "startSec": 224.3,
+          "endSec": 225,
+          "text": "said."
+        },
+        {
+          "startSec": 225,
+          "endSec": 226,
+          "text": "Later,"
+        }
+      ]
     },
     {
       "startSec": 225,
       "endSec": 233,
-      "text": "Later, the Roman Empire used lead to make tools for eating and building, including pipes."
+      "text": "Later, the Roman Empire used lead to make tools for eating and building, including pipes.",
+      "words": [
+        {
+          "startSec": 225,
+          "endSec": 226,
+          "text": "Later,"
+        },
+        {
+          "startSec": 226,
+          "endSec": 226.1,
+          "text": "the"
+        },
+        {
+          "startSec": 226.1,
+          "endSec": 226.5,
+          "text": "Roman"
+        },
+        {
+          "startSec": 226.5,
+          "endSec": 227.1,
+          "text": "Empire"
+        },
+        {
+          "startSec": 227.1,
+          "endSec": 227.5,
+          "text": "used"
+        },
+        {
+          "startSec": 227.5,
+          "endSec": 228.1,
+          "text": "lead"
+        },
+        {
+          "startSec": 228.1,
+          "endSec": 228.1,
+          "text": "to"
+        },
+        {
+          "startSec": 228.1,
+          "endSec": 228.5,
+          "text": "make"
+        },
+        {
+          "startSec": 228.5,
+          "endSec": 229,
+          "text": "tools"
+        },
+        {
+          "startSec": 229,
+          "endSec": 229.3,
+          "text": "for"
+        },
+        {
+          "startSec": 229.3,
+          "endSec": 229.9,
+          "text": "eating"
+        },
+        {
+          "startSec": 229.9,
+          "endSec": 230.3,
+          "text": "and"
+        },
+        {
+          "startSec": 230.3,
+          "endSec": 231.3,
+          "text": "building,"
+        },
+        {
+          "startSec": 231.3,
+          "endSec": 232.1,
+          "text": "including"
+        },
+        {
+          "startSec": 232.1,
+          "endSec": 233,
+          "text": "pipes."
+        },
+        {
+          "startSec": 233,
+          "endSec": 234.1,
+          "text": "Past"
+        }
+      ]
     },
     {
       "startSec": 233,
       "endSec": 248,
-      "text": "Past research, including a study of ice cores from Greenland, had detected high levels of lead across much of the Northern Hemisphere during Roman times."
+      "text": "Past research, including a study of ice cores from Greenland, had detected high levels of lead across much of the Northern Hemisphere during Roman times.",
+      "words": [
+        {
+          "startSec": 233,
+          "endSec": 234.1,
+          "text": "Past"
+        },
+        {
+          "startSec": 234.1,
+          "endSec": 234.5,
+          "text": "research,"
+        },
+        {
+          "startSec": 234.5,
+          "endSec": 235.5,
+          "text": "including"
+        },
+        {
+          "startSec": 235.5,
+          "endSec": 235.6,
+          "text": "a"
+        },
+        {
+          "startSec": 235.6,
+          "endSec": 236.2,
+          "text": "study"
+        },
+        {
+          "startSec": 236.2,
+          "endSec": 236.4,
+          "text": "of"
+        },
+        {
+          "startSec": 236.4,
+          "endSec": 236.7,
+          "text": "ice"
+        },
+        {
+          "startSec": 236.7,
+          "endSec": 237.3,
+          "text": "cores"
+        },
+        {
+          "startSec": 237.3,
+          "endSec": 237.7,
+          "text": "from"
+        },
+        {
+          "startSec": 237.7,
+          "endSec": 239.3,
+          "text": "Greenland,"
+        },
+        {
+          "startSec": 239.3,
+          "endSec": 239.3,
+          "text": "had"
+        },
+        {
+          "startSec": 239.3,
+          "endSec": 240.2,
+          "text": "detected"
+        },
+        {
+          "startSec": 240.2,
+          "endSec": 240.7,
+          "text": "high"
+        },
+        {
+          "startSec": 240.7,
+          "endSec": 241.3,
+          "text": "levels"
+        },
+        {
+          "startSec": 241.3,
+          "endSec": 241.5,
+          "text": "of"
+        },
+        {
+          "startSec": 241.5,
+          "endSec": 242,
+          "text": "lead"
+        },
+        {
+          "startSec": 242,
+          "endSec": 242.6,
+          "text": "across"
+        },
+        {
+          "startSec": 242.6,
+          "endSec": 242.9,
+          "text": "much"
+        },
+        {
+          "startSec": 242.9,
+          "endSec": 243.1,
+          "text": "of"
+        },
+        {
+          "startSec": 243.1,
+          "endSec": 243.4,
+          "text": "the"
+        },
+        {
+          "startSec": 243.4,
+          "endSec": 244.9,
+          "text": "Northern"
+        },
+        {
+          "startSec": 244.9,
+          "endSec": 245,
+          "text": "Hemisphere"
+        },
+        {
+          "startSec": 245,
+          "endSec": 245.9,
+          "text": "during"
+        },
+        {
+          "startSec": 245.9,
+          "endSec": 246.7,
+          "text": "Roman"
+        },
+        {
+          "startSec": 246.7,
+          "endSec": 248,
+          "text": "times."
+        },
+        {
+          "startSec": 248,
+          "endSec": 248.3,
+          "text": "But"
+        }
+      ]
     },
     {
       "startSec": 248,
       "endSec": 258,
-      "text": "But the new study adds a more exact and local picture to how lead levels changed, said Nathan Chellman."
+      "text": "But the new study adds a more exact and local picture to how lead levels changed, said Nathan Chellman.",
+      "words": [
+        {
+          "startSec": 248,
+          "endSec": 248.3,
+          "text": "But"
+        },
+        {
+          "startSec": 248.3,
+          "endSec": 249,
+          "text": "the"
+        },
+        {
+          "startSec": 249,
+          "endSec": 249.1,
+          "text": "new"
+        },
+        {
+          "startSec": 249.1,
+          "endSec": 249.6,
+          "text": "study"
+        },
+        {
+          "startSec": 249.6,
+          "endSec": 250,
+          "text": "adds"
+        },
+        {
+          "startSec": 250,
+          "endSec": 250.1,
+          "text": "a"
+        },
+        {
+          "startSec": 250.1,
+          "endSec": 250.6,
+          "text": "more"
+        },
+        {
+          "startSec": 250.6,
+          "endSec": 251.2,
+          "text": "exact"
+        },
+        {
+          "startSec": 251.2,
+          "endSec": 251.5,
+          "text": "and"
+        },
+        {
+          "startSec": 251.5,
+          "endSec": 252.1,
+          "text": "local"
+        },
+        {
+          "startSec": 252.1,
+          "endSec": 252.9,
+          "text": "picture"
+        },
+        {
+          "startSec": 252.9,
+          "endSec": 253.1,
+          "text": "to"
+        },
+        {
+          "startSec": 253.1,
+          "endSec": 253.4,
+          "text": "how"
+        },
+        {
+          "startSec": 253.4,
+          "endSec": 254.3,
+          "text": "lead"
+        },
+        {
+          "startSec": 254.3,
+          "endSec": 254.5,
+          "text": "levels"
+        },
+        {
+          "startSec": 254.5,
+          "endSec": 255.5,
+          "text": "changed,"
+        },
+        {
+          "startSec": 255.5,
+          "endSec": 256,
+          "text": "said"
+        },
+        {
+          "startSec": 256,
+          "endSec": 256.7,
+          "text": "Nathan"
+        },
+        {
+          "startSec": 256.7,
+          "endSec": 258,
+          "text": "Chellman."
+        },
+        {
+          "startSec": 258,
+          "endSec": 259.1,
+          "text": "Chellman,"
+        }
+      ]
     },
     {
       "startSec": 258,
       "endSec": 268,
-      "text": "Chellman, an environmental scientist at the University of Nevada, Reno, was not involved in the research."
+      "text": "Chellman, an environmental scientist at the University of Nevada, Reno, was not involved in the research.",
+      "words": [
+        {
+          "startSec": 258,
+          "endSec": 259.1,
+          "text": "Chellman,"
+        },
+        {
+          "startSec": 259.1,
+          "endSec": 259.3,
+          "text": "an"
+        },
+        {
+          "startSec": 259.3,
+          "endSec": 260.6,
+          "text": "environmental"
+        },
+        {
+          "startSec": 260.6,
+          "endSec": 261.6,
+          "text": "scientist"
+        },
+        {
+          "startSec": 261.6,
+          "endSec": 261.8,
+          "text": "at"
+        },
+        {
+          "startSec": 261.8,
+          "endSec": 262.1,
+          "text": "the"
+        },
+        {
+          "startSec": 262.1,
+          "endSec": 263.1,
+          "text": "University"
+        },
+        {
+          "startSec": 263.1,
+          "endSec": 263.3,
+          "text": "of"
+        },
+        {
+          "startSec": 263.3,
+          "endSec": 264.3,
+          "text": "Nevada,"
+        },
+        {
+          "startSec": 264.3,
+          "endSec": 264.8,
+          "text": "Reno,"
+        },
+        {
+          "startSec": 264.8,
+          "endSec": 265.1,
+          "text": "was"
+        },
+        {
+          "startSec": 265.1,
+          "endSec": 265.4,
+          "text": "not"
+        },
+        {
+          "startSec": 265.4,
+          "endSec": 266.3,
+          "text": "involved"
+        },
+        {
+          "startSec": 266.3,
+          "endSec": 266.5,
+          "text": "in"
+        },
+        {
+          "startSec": 266.5,
+          "endSec": 266.8,
+          "text": "the"
+        },
+        {
+          "startSec": 266.8,
+          "endSec": 268,
+          "text": "research."
+        },
+        {
+          "startSec": 268,
+          "endSec": 268.4,
+          "text": "I'm"
+        }
+      ]
     },
     {
       "startSec": 268,
       "endSec": 270,
-      "text": "I'm John Russell."
+      "text": "I'm John Russell.",
+      "words": [
+        {
+          "startSec": 268,
+          "endSec": 268.4,
+          "text": "I'm"
+        },
+        {
+          "startSec": 268.4,
+          "endSec": 269.1,
+          "text": "John"
+        },
+        {
+          "startSec": 269.1,
+          "endSec": 270,
+          "text": "Russell."
+        }
+      ]
     }
   ],
   "cefr": "C1",

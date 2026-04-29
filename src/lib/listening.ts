@@ -1,9 +1,16 @@
 export type Level = "beginner" | "intermediate" | "advanced";
 
+export type WordTiming = {
+  startSec: number;
+  endSec: number;
+  text: string;
+};
+
 export type Segment = {
   startSec: number;
   endSec: number;
   text: string;
+  words?: WordTiming[]; // 逐词时间戳（whisper 对齐后才有）
 };
 
 export type Material = {

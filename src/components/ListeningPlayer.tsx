@@ -65,6 +65,11 @@ export function ListeningPlayer({
         ...s,
         startSec: s.startSec * scale,
         endSec: s.endSec * scale,
+        words: s.words?.map((w) => ({
+          ...w,
+          startSec: w.startSec * scale,
+          endSec: w.endSec * scale,
+        })),
       })),
     [material.segments, scale],
   );
@@ -222,6 +227,7 @@ export function ListeningPlayer({
               segment={seg}
               mode={mode}
               active={i === activeIndex}
+              currentTime={currentTime}
               onClickWord={onWordClick}
               onJump={() => jumpTo(seg.startSec)}
             />
@@ -246,23 +252,19 @@ function SegmentLine({
   segment,
   mode,
   active,
+  currentTime,
   onClickWord,
   onJump,
 }: {
   segment: Segment;
   mode: DisplayMode;
   active: boolean;
+  currentTime: number;
   onClickWord: (w: string) => void;
   onJump: () => void;
 }) {
-  const tokens = useMemo(() => tokenize(segment.text), [segment.text]);
-
-  const blurClass =
-    mode === "blind"
-      ? "blur-md select-none"
-      : active
-        ? ""
-        : "";
+  const blurClass = mode === "blind" ? "blur-md select-none" : "";
+  const hasWordTimings = !!segment.words && segment.words.length > 0;
 
   return (
     <p
@@ -281,30 +283,88 @@ function SegmentLine({
         ▶
       </button>
       <span className={blurClass}>
-        {tokens.map((t, i) => {
-          if (t.kind === "gap") return <span key={i}>{t.text}</span>;
-          if (mode === "half" && !isFunctionWord(t.text)) {
-            return (
-              <span
-                key={i}
-                className="text-zinc-400 dark:text-zinc-600 font-mono tracking-wider"
-              >
-                {maskWord(t.text)}
-              </span>
-            );
-          }
-          return (
-            <button
-              key={i}
-              type="button"
-              onClick={() => onClickWord(t.text)}
-              className="hover:bg-emerald-100 dark:hover:bg-emerald-900/50 hover:text-emerald-900 dark:hover:text-emerald-200 rounded px-0.5 transition-colors cursor-pointer"
-            >
-              {t.text}
-            </button>
-          );
-        })}
+        {hasWordTimings
+          ? renderWithWordTimings(segment, mode, currentTime, active, onClickWord)
+          : renderFromText(segment.text, mode, onClickWord)}
       </span>
     </p>
   );
+}
+
+// 用 whisper 给的逐词时间戳渲染：当前时间在某词区间内 → 高亮那个词
+function renderWithWordTimings(
+  segment: Segment,
+  mode: DisplayMode,
+  currentTime: number,
+  active: boolean,
+  onClickWord: (w: string) => void,
+) {
+  const words = segment.words!;
+  return words.map((w, i) => {
+    const cleanWord = w.text.replace(/[^A-Za-z']/g, "");
+    const isFn = isFunctionWord(cleanWord);
+    const isCurrent =
+      active && currentTime >= w.startSec && currentTime < w.endSec;
+    const showMask = mode === "half" && !isFn && cleanWord.length > 0;
+
+    if (showMask) {
+      return (
+        <span key={i}>
+          <span className="text-zinc-400 dark:text-zinc-600 font-mono tracking-wider">
+            {maskWord(cleanWord)}
+          </span>
+          {" "}
+        </span>
+      );
+    }
+    return (
+      <span key={i}>
+        <button
+          type="button"
+          onClick={() => cleanWord && onClickWord(cleanWord)}
+          className={
+            "rounded px-0.5 transition-colors cursor-pointer " +
+            (isCurrent
+              ? "bg-emerald-400/80 dark:bg-emerald-500/70 text-white font-semibold"
+              : "hover:bg-emerald-100 dark:hover:bg-emerald-900/50 hover:text-emerald-900 dark:hover:text-emerald-200")
+          }
+        >
+          {w.text}
+        </button>
+        {" "}
+      </span>
+    );
+  });
+}
+
+// 老逻辑：没有逐词时间戳时按文本切分
+function renderFromText(
+  text: string,
+  mode: DisplayMode,
+  onClickWord: (w: string) => void,
+) {
+  const tokens = tokenize(text);
+  return tokens.map((t, i) => {
+    if (t.kind === "gap") return <span key={i}>{t.text}</span>;
+    if (mode === "half" && !isFunctionWord(t.text)) {
+      return (
+        <span
+          key={i}
+          className="text-zinc-400 dark:text-zinc-600 font-mono tracking-wider"
+        >
+          {maskWord(t.text)}
+        </span>
+      );
+    }
+    return (
+      <button
+        key={i}
+        type="button"
+        onClick={() => onClickWord(t.text)}
+        className="hover:bg-emerald-100 dark:hover:bg-emerald-900/50 hover:text-emerald-900 dark:hover:text-emerald-200 rounded px-0.5 transition-colors cursor-pointer"
+      >
+        {t.text}
+      </button>
+    );
+  });
 }

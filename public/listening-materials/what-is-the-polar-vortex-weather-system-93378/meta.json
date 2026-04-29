@@ -9,112 +9,2171 @@
     {
       "startSec": 0,
       "endSec": 13.8,
-      "text": "Weather experts say extreme cold in many parts of the United States this winter has been driven by a polar vortex."
+      "text": "Weather experts say extreme cold in many parts of the United States this winter has been driven by a polar vortex.",
+      "words": [
+        {
+          "startSec": 0.1,
+          "endSec": 1.1,
+          "text": "Weather"
+        },
+        {
+          "startSec": 1.1,
+          "endSec": 2.2,
+          "text": "experts"
+        },
+        {
+          "startSec": 2.2,
+          "endSec": 2.7,
+          "text": "say"
+        },
+        {
+          "startSec": 2.7,
+          "endSec": 3.7,
+          "text": "extreme"
+        },
+        {
+          "startSec": 3.7,
+          "endSec": 4.4,
+          "text": "cold"
+        },
+        {
+          "startSec": 4.4,
+          "endSec": 4.7,
+          "text": "in"
+        },
+        {
+          "startSec": 4.7,
+          "endSec": 5.2,
+          "text": "many"
+        },
+        {
+          "startSec": 5.2,
+          "endSec": 5.8,
+          "text": "parts"
+        },
+        {
+          "startSec": 5.8,
+          "endSec": 6,
+          "text": "of"
+        },
+        {
+          "startSec": 6,
+          "endSec": 6.3,
+          "text": "the"
+        },
+        {
+          "startSec": 6.3,
+          "endSec": 7,
+          "text": "United"
+        },
+        {
+          "startSec": 7,
+          "endSec": 7.7,
+          "text": "States"
+        },
+        {
+          "startSec": 7.7,
+          "endSec": 8.3,
+          "text": "this"
+        },
+        {
+          "startSec": 8.3,
+          "endSec": 9.4,
+          "text": "winter"
+        },
+        {
+          "startSec": 9.4,
+          "endSec": 9.5,
+          "text": "has"
+        },
+        {
+          "startSec": 9.5,
+          "endSec": 9.9,
+          "text": "been"
+        },
+        {
+          "startSec": 9.9,
+          "endSec": 10.6,
+          "text": "driven"
+        },
+        {
+          "startSec": 10.6,
+          "endSec": 11.2,
+          "text": "by"
+        },
+        {
+          "startSec": 11.2,
+          "endSec": 11.5,
+          "text": "a"
+        },
+        {
+          "startSec": 11.5,
+          "endSec": 12,
+          "text": "polar"
+        },
+        {
+          "startSec": 12,
+          "endSec": 13.8,
+          "text": "vortex."
+        },
+        {
+          "startSec": 13.8,
+          "endSec": 14.2,
+          "text": "But"
+        }
+      ]
     },
     {
       "startSec": 13.8,
       "endSec": 20.4,
-      "text": "But what is this weather system and how does it work?"
+      "text": "But what is this weather system and how does it work?",
+      "words": [
+        {
+          "startSec": 13.8,
+          "endSec": 14.2,
+          "text": "But"
+        },
+        {
+          "startSec": 14.2,
+          "endSec": 14.8,
+          "text": "what"
+        },
+        {
+          "startSec": 14.8,
+          "endSec": 15.1,
+          "text": "is"
+        },
+        {
+          "startSec": 15.1,
+          "endSec": 15.7,
+          "text": "this"
+        },
+        {
+          "startSec": 15.7,
+          "endSec": 16.7,
+          "text": "weather"
+        },
+        {
+          "startSec": 16.7,
+          "endSec": 17.6,
+          "text": "system"
+        },
+        {
+          "startSec": 17.6,
+          "endSec": 18,
+          "text": "and"
+        },
+        {
+          "startSec": 18,
+          "endSec": 18.4,
+          "text": "how"
+        },
+        {
+          "startSec": 18.4,
+          "endSec": 19.1,
+          "text": "does"
+        },
+        {
+          "startSec": 19.1,
+          "endSec": 19.3,
+          "text": "it"
+        },
+        {
+          "startSec": 19.3,
+          "endSec": 20.4,
+          "text": "work?"
+        }
+      ]
     },
     {
       "startSec": 20.4,
       "endSec": 39.4,
-      "text": "The National Oceanic and Atmospheric Administration, NOAA, describes a polar vortex as strong, westerly winds that form each winter in the atmosphere above the North Pole."
+      "text": "The National Oceanic and Atmospheric Administration, NOAA, describes a polar vortex as strong, westerly winds that form each winter in the atmosphere above the North Pole.",
+      "words": [
+        {
+          "startSec": 20.5,
+          "endSec": 20.7,
+          "text": "The"
+        },
+        {
+          "startSec": 20.7,
+          "endSec": 21.7,
+          "text": "National"
+        },
+        {
+          "startSec": 21.7,
+          "endSec": 22.5,
+          "text": "Oceanic"
+        },
+        {
+          "startSec": 22.5,
+          "endSec": 22.8,
+          "text": "and"
+        },
+        {
+          "startSec": 22.8,
+          "endSec": 24.1,
+          "text": "Atmospheric"
+        },
+        {
+          "startSec": 24.1,
+          "endSec": 26.1,
+          "text": "Administration,"
+        },
+        {
+          "startSec": 26.1,
+          "endSec": 26.7,
+          "text": "NOAA,"
+        },
+        {
+          "startSec": 26.7,
+          "endSec": 27.8,
+          "text": "describes"
+        },
+        {
+          "startSec": 27.8,
+          "endSec": 27.9,
+          "text": "a"
+        },
+        {
+          "startSec": 27.9,
+          "endSec": 28.5,
+          "text": "polar"
+        },
+        {
+          "startSec": 28.5,
+          "endSec": 29.3,
+          "text": "vortex"
+        },
+        {
+          "startSec": 29.3,
+          "endSec": 29.8,
+          "text": "as"
+        },
+        {
+          "startSec": 29.8,
+          "endSec": 30.6,
+          "text": "strong,"
+        },
+        {
+          "startSec": 30.6,
+          "endSec": 31.8,
+          "text": "westerly"
+        },
+        {
+          "startSec": 31.8,
+          "endSec": 32.4,
+          "text": "winds"
+        },
+        {
+          "startSec": 32.4,
+          "endSec": 33,
+          "text": "that"
+        },
+        {
+          "startSec": 33,
+          "endSec": 33.5,
+          "text": "form"
+        },
+        {
+          "startSec": 33.5,
+          "endSec": 34.3,
+          "text": "each"
+        },
+        {
+          "startSec": 34.3,
+          "endSec": 34.8,
+          "text": "winter"
+        },
+        {
+          "startSec": 34.8,
+          "endSec": 34.9,
+          "text": "in"
+        },
+        {
+          "startSec": 34.9,
+          "endSec": 35.2,
+          "text": "the"
+        },
+        {
+          "startSec": 35.2,
+          "endSec": 36.7,
+          "text": "atmosphere"
+        },
+        {
+          "startSec": 36.7,
+          "endSec": 37.5,
+          "text": "above"
+        },
+        {
+          "startSec": 37.5,
+          "endSec": 38,
+          "text": "the"
+        },
+        {
+          "startSec": 38,
+          "endSec": 38.7,
+          "text": "North"
+        },
+        {
+          "startSec": 38.7,
+          "endSec": 39.4,
+          "text": "Pole."
+        }
+      ]
     },
     {
       "startSec": 39.4,
       "endSec": 55.3,
-      "text": "These cold winds move about 16 to 48 kilometers above the surface in the Arctic area in the part of the atmosphere called the stratosphere."
+      "text": "These cold winds move about 16 to 48 kilometers above the surface in the Arctic area in the part of the atmosphere called the stratosphere.",
+      "words": [
+        {
+          "startSec": 39.5,
+          "endSec": 40,
+          "text": "These"
+        },
+        {
+          "startSec": 40,
+          "endSec": 40.5,
+          "text": "cold"
+        },
+        {
+          "startSec": 40.5,
+          "endSec": 41.2,
+          "text": "winds"
+        },
+        {
+          "startSec": 41.2,
+          "endSec": 41.6,
+          "text": "move"
+        },
+        {
+          "startSec": 41.6,
+          "endSec": 42.3,
+          "text": "about"
+        },
+        {
+          "startSec": 42.3,
+          "endSec": 43.1,
+          "text": "16"
+        },
+        {
+          "startSec": 43.1,
+          "endSec": 43.3,
+          "text": "to"
+        },
+        {
+          "startSec": 43.3,
+          "endSec": 44,
+          "text": "48"
+        },
+        {
+          "startSec": 44,
+          "endSec": 45.3,
+          "text": "kilometers"
+        },
+        {
+          "startSec": 45.3,
+          "endSec": 45.9,
+          "text": "above"
+        },
+        {
+          "startSec": 45.9,
+          "endSec": 46.3,
+          "text": "the"
+        },
+        {
+          "startSec": 46.3,
+          "endSec": 47.2,
+          "text": "surface"
+        },
+        {
+          "startSec": 47.2,
+          "endSec": 47.5,
+          "text": "in"
+        },
+        {
+          "startSec": 47.5,
+          "endSec": 47.8,
+          "text": "the"
+        },
+        {
+          "startSec": 47.8,
+          "endSec": 48.8,
+          "text": "Arctic"
+        },
+        {
+          "startSec": 48.8,
+          "endSec": 49.1,
+          "text": "area"
+        },
+        {
+          "startSec": 49.1,
+          "endSec": 49.3,
+          "text": "in"
+        },
+        {
+          "startSec": 49.3,
+          "endSec": 49.7,
+          "text": "the"
+        },
+        {
+          "startSec": 49.7,
+          "endSec": 50.2,
+          "text": "part"
+        },
+        {
+          "startSec": 50.2,
+          "endSec": 50.5,
+          "text": "of"
+        },
+        {
+          "startSec": 50.5,
+          "endSec": 50.9,
+          "text": "the"
+        },
+        {
+          "startSec": 50.9,
+          "endSec": 52.2,
+          "text": "atmosphere"
+        },
+        {
+          "startSec": 52.2,
+          "endSec": 53.3,
+          "text": "called"
+        },
+        {
+          "startSec": 53.3,
+          "endSec": 53.3,
+          "text": "the"
+        },
+        {
+          "startSec": 53.3,
+          "endSec": 55.3,
+          "text": "stratosphere."
+        }
+      ]
     },
     {
       "startSec": 55.3,
       "endSec": 66.3,
-      "text": "At times, the polar vortex can weaken, causing masses of cold air to break off and move south."
+      "text": "At times, the polar vortex can weaken, causing masses of cold air to break off and move south.",
+      "words": [
+        {
+          "startSec": 55.4,
+          "endSec": 55.6,
+          "text": "At"
+        },
+        {
+          "startSec": 55.6,
+          "endSec": 56.6,
+          "text": "times,"
+        },
+        {
+          "startSec": 56.6,
+          "endSec": 56.9,
+          "text": "the"
+        },
+        {
+          "startSec": 56.9,
+          "endSec": 57.6,
+          "text": "polar"
+        },
+        {
+          "startSec": 57.6,
+          "endSec": 58.5,
+          "text": "vortex"
+        },
+        {
+          "startSec": 58.5,
+          "endSec": 58.8,
+          "text": "can"
+        },
+        {
+          "startSec": 58.8,
+          "endSec": 59.9,
+          "text": "weaken,"
+        },
+        {
+          "startSec": 59.9,
+          "endSec": 60.8,
+          "text": "causing"
+        },
+        {
+          "startSec": 60.8,
+          "endSec": 61.6,
+          "text": "masses"
+        },
+        {
+          "startSec": 61.6,
+          "endSec": 61.9,
+          "text": "of"
+        },
+        {
+          "startSec": 61.9,
+          "endSec": 62.4,
+          "text": "cold"
+        },
+        {
+          "startSec": 62.4,
+          "endSec": 62.8,
+          "text": "air"
+        },
+        {
+          "startSec": 62.8,
+          "endSec": 63.1,
+          "text": "to"
+        },
+        {
+          "startSec": 63.1,
+          "endSec": 63.7,
+          "text": "break"
+        },
+        {
+          "startSec": 63.7,
+          "endSec": 64.2,
+          "text": "off"
+        },
+        {
+          "startSec": 64.2,
+          "endSec": 64.7,
+          "text": "and"
+        },
+        {
+          "startSec": 64.7,
+          "endSec": 65.1,
+          "text": "move"
+        },
+        {
+          "startSec": 65.1,
+          "endSec": 66.3,
+          "text": "south."
+        },
+        {
+          "startSec": 66.3,
+          "endSec": 66.4,
+          "text": "A"
+        }
+      ]
     },
     {
       "startSec": 66.3,
       "endSec": 74.3,
-      "text": "A polar vortex can also push warmer air in northerly directions."
+      "text": "A polar vortex can also push warmer air in northerly directions.",
+      "words": [
+        {
+          "startSec": 66.3,
+          "endSec": 66.4,
+          "text": "A"
+        },
+        {
+          "startSec": 66.4,
+          "endSec": 67.1,
+          "text": "polar"
+        },
+        {
+          "startSec": 67.1,
+          "endSec": 68.1,
+          "text": "vortex"
+        },
+        {
+          "startSec": 68.1,
+          "endSec": 68.4,
+          "text": "can"
+        },
+        {
+          "startSec": 68.4,
+          "endSec": 69,
+          "text": "also"
+        },
+        {
+          "startSec": 69,
+          "endSec": 69.5,
+          "text": "push"
+        },
+        {
+          "startSec": 69.5,
+          "endSec": 70.4,
+          "text": "warmer"
+        },
+        {
+          "startSec": 70.4,
+          "endSec": 70.8,
+          "text": "air"
+        },
+        {
+          "startSec": 70.8,
+          "endSec": 71.1,
+          "text": "in"
+        },
+        {
+          "startSec": 71.1,
+          "endSec": 72.4,
+          "text": "northerly"
+        },
+        {
+          "startSec": 72.4,
+          "endSec": 74.3,
+          "text": "directions."
+        }
+      ]
     },
     {
       "startSec": 74.3,
       "endSec": 85.3,
-      "text": "The Associated Press AP reports that several vortex events have affected parts of the U.S. this winter."
+      "text": "The Associated Press AP reports that several vortex events have affected parts of the U.S. this winter.",
+      "words": [
+        {
+          "startSec": 74.4,
+          "endSec": 74.6,
+          "text": "The"
+        },
+        {
+          "startSec": 74.6,
+          "endSec": 75.8,
+          "text": "Associated"
+        },
+        {
+          "startSec": 75.8,
+          "endSec": 76.4,
+          "text": "Press"
+        },
+        {
+          "startSec": 76.4,
+          "endSec": 76.6,
+          "text": "AP"
+        },
+        {
+          "startSec": 76.6,
+          "endSec": 77.5,
+          "text": "reports"
+        },
+        {
+          "startSec": 77.5,
+          "endSec": 78,
+          "text": "that"
+        },
+        {
+          "startSec": 78,
+          "endSec": 78.8,
+          "text": "several"
+        },
+        {
+          "startSec": 78.8,
+          "endSec": 79.5,
+          "text": "vortex"
+        },
+        {
+          "startSec": 79.5,
+          "endSec": 80.1,
+          "text": "events"
+        },
+        {
+          "startSec": 80.1,
+          "endSec": 80.6,
+          "text": "have"
+        },
+        {
+          "startSec": 80.6,
+          "endSec": 81.6,
+          "text": "affected"
+        },
+        {
+          "startSec": 81.6,
+          "endSec": 82.1,
+          "text": "parts"
+        },
+        {
+          "startSec": 82.1,
+          "endSec": 82.4,
+          "text": "of"
+        },
+        {
+          "startSec": 82.4,
+          "endSec": 82.7,
+          "text": "the"
+        },
+        {
+          "startSec": 82.7,
+          "endSec": 83.7,
+          "text": "U.S."
+        },
+        {
+          "startSec": 83.7,
+          "endSec": 84.1,
+          "text": "this"
+        },
+        {
+          "startSec": 84.1,
+          "endSec": 85.3,
+          "text": "winter."
+        },
+        {
+          "startSec": 85.3,
+          "endSec": 86.2,
+          "text": "Experts"
+        }
+      ]
     },
     {
       "startSec": 85.3,
       "endSec": 96.3,
-      "text": "Experts say weather forces in the Arctic have combined to push colder air to the U.S. and Europe."
+      "text": "Experts say weather forces in the Arctic have combined to push colder air to the U.S. and Europe.",
+      "words": [
+        {
+          "startSec": 85.3,
+          "endSec": 86.2,
+          "text": "Experts"
+        },
+        {
+          "startSec": 86.2,
+          "endSec": 86.6,
+          "text": "say"
+        },
+        {
+          "startSec": 86.6,
+          "endSec": 87.4,
+          "text": "weather"
+        },
+        {
+          "startSec": 87.4,
+          "endSec": 88.2,
+          "text": "forces"
+        },
+        {
+          "startSec": 88.2,
+          "endSec": 88.5,
+          "text": "in"
+        },
+        {
+          "startSec": 88.5,
+          "endSec": 88.8,
+          "text": "the"
+        },
+        {
+          "startSec": 88.8,
+          "endSec": 89.7,
+          "text": "Arctic"
+        },
+        {
+          "startSec": 89.7,
+          "endSec": 90.1,
+          "text": "have"
+        },
+        {
+          "startSec": 90.1,
+          "endSec": 91.1,
+          "text": "combined"
+        },
+        {
+          "startSec": 91.1,
+          "endSec": 91.4,
+          "text": "to"
+        },
+        {
+          "startSec": 91.4,
+          "endSec": 91.9,
+          "text": "push"
+        },
+        {
+          "startSec": 91.9,
+          "endSec": 92.7,
+          "text": "colder"
+        },
+        {
+          "startSec": 92.7,
+          "endSec": 93,
+          "text": "air"
+        },
+        {
+          "startSec": 93,
+          "endSec": 93.3,
+          "text": "to"
+        },
+        {
+          "startSec": 93.3,
+          "endSec": 93.7,
+          "text": "the"
+        },
+        {
+          "startSec": 93.7,
+          "endSec": 94.7,
+          "text": "U.S."
+        },
+        {
+          "startSec": 94.7,
+          "endSec": 95,
+          "text": "and"
+        },
+        {
+          "startSec": 95,
+          "endSec": 96.3,
+          "text": "Europe."
+        }
+      ]
     },
     {
       "startSec": 96.3,
       "endSec": 112.3,
-      "text": "Temperature readings that take into account the effects of wind, called wind chill readings, fell to -51 degrees Celsius in parts of the U.S. Midwest."
+      "text": "Temperature readings that take into account the effects of wind, called wind chill readings, fell to -51 degrees Celsius in parts of the U.S. Midwest.",
+      "words": [
+        {
+          "startSec": 96.4,
+          "endSec": 97.3,
+          "text": "Temperature"
+        },
+        {
+          "startSec": 97.3,
+          "endSec": 98.1,
+          "text": "readings"
+        },
+        {
+          "startSec": 98.1,
+          "endSec": 98.5,
+          "text": "that"
+        },
+        {
+          "startSec": 98.5,
+          "endSec": 99,
+          "text": "take"
+        },
+        {
+          "startSec": 99,
+          "endSec": 99.3,
+          "text": "into"
+        },
+        {
+          "startSec": 99.3,
+          "endSec": 100,
+          "text": "account"
+        },
+        {
+          "startSec": 100,
+          "endSec": 100.3,
+          "text": "the"
+        },
+        {
+          "startSec": 100.3,
+          "endSec": 101,
+          "text": "effects"
+        },
+        {
+          "startSec": 101,
+          "endSec": 101.2,
+          "text": "of"
+        },
+        {
+          "startSec": 101.2,
+          "endSec": 101.8,
+          "text": "wind,"
+        },
+        {
+          "startSec": 101.8,
+          "endSec": 102.3,
+          "text": "called"
+        },
+        {
+          "startSec": 102.3,
+          "endSec": 102.7,
+          "text": "wind"
+        },
+        {
+          "startSec": 102.7,
+          "endSec": 103.2,
+          "text": "chill"
+        },
+        {
+          "startSec": 103.2,
+          "endSec": 104.3,
+          "text": "readings,"
+        },
+        {
+          "startSec": 104.3,
+          "endSec": 104.8,
+          "text": "fell"
+        },
+        {
+          "startSec": 104.8,
+          "endSec": 105.3,
+          "text": "to"
+        },
+        {
+          "startSec": 105.3,
+          "endSec": 106.1,
+          "text": "-51"
+        },
+        {
+          "startSec": 106.1,
+          "endSec": 107.1,
+          "text": "degrees"
+        },
+        {
+          "startSec": 107.1,
+          "endSec": 108.1,
+          "text": "Celsius"
+        },
+        {
+          "startSec": 108.1,
+          "endSec": 108.3,
+          "text": "in"
+        },
+        {
+          "startSec": 108.3,
+          "endSec": 109.1,
+          "text": "parts"
+        },
+        {
+          "startSec": 109.1,
+          "endSec": 109.7,
+          "text": "of"
+        },
+        {
+          "startSec": 109.7,
+          "endSec": 109.7,
+          "text": "the"
+        },
+        {
+          "startSec": 109.7,
+          "endSec": 110.9,
+          "text": "U.S."
+        },
+        {
+          "startSec": 110.9,
+          "endSec": 112.3,
+          "text": "Midwest."
+        },
+        {
+          "startSec": 112.3,
+          "endSec": 114.1,
+          "text": "Meteorologists"
+        }
+      ]
     },
     {
       "startSec": 112.3,
       "endSec": 121.3,
-      "text": "Meteorologists say wind chill readings are colder than air temperature readings."
+      "text": "Meteorologists say wind chill readings are colder than air temperature readings.",
+      "words": [
+        {
+          "startSec": 112.3,
+          "endSec": 114.1,
+          "text": "Meteorologists"
+        },
+        {
+          "startSec": 114.1,
+          "endSec": 114.4,
+          "text": "say"
+        },
+        {
+          "startSec": 114.4,
+          "endSec": 115,
+          "text": "wind"
+        },
+        {
+          "startSec": 115,
+          "endSec": 115.5,
+          "text": "chill"
+        },
+        {
+          "startSec": 115.5,
+          "endSec": 116.5,
+          "text": "readings"
+        },
+        {
+          "startSec": 116.5,
+          "endSec": 116.9,
+          "text": "are"
+        },
+        {
+          "startSec": 116.9,
+          "endSec": 117.6,
+          "text": "colder"
+        },
+        {
+          "startSec": 117.6,
+          "endSec": 118.1,
+          "text": "than"
+        },
+        {
+          "startSec": 118.1,
+          "endSec": 118.5,
+          "text": "air"
+        },
+        {
+          "startSec": 118.5,
+          "endSec": 120,
+          "text": "temperature"
+        },
+        {
+          "startSec": 120,
+          "endSec": 121.3,
+          "text": "readings."
+        }
+      ]
     },
     {
       "startSec": 121.3,
       "endSec": 140.3,
-      "text": "The U.S. National Weather Service, NWS, warned people in affected areas that such low temperatures can cause frostbite and hypothermia if skin is not protected from the cold."
+      "text": "The U.S. National Weather Service, NWS, warned people in affected areas that such low temperatures can cause frostbite and hypothermia if skin is not protected from the cold.",
+      "words": [
+        {
+          "startSec": 121.4,
+          "endSec": 121.6,
+          "text": "The"
+        },
+        {
+          "startSec": 121.6,
+          "endSec": 122.6,
+          "text": "U.S."
+        },
+        {
+          "startSec": 122.6,
+          "endSec": 123.5,
+          "text": "National"
+        },
+        {
+          "startSec": 123.5,
+          "endSec": 124.5,
+          "text": "Weather"
+        },
+        {
+          "startSec": 124.5,
+          "endSec": 125.4,
+          "text": "Service,"
+        },
+        {
+          "startSec": 125.4,
+          "endSec": 126,
+          "text": "NWS,"
+        },
+        {
+          "startSec": 126,
+          "endSec": 126.7,
+          "text": "warned"
+        },
+        {
+          "startSec": 126.7,
+          "endSec": 127.4,
+          "text": "people"
+        },
+        {
+          "startSec": 127.4,
+          "endSec": 127.6,
+          "text": "in"
+        },
+        {
+          "startSec": 127.6,
+          "endSec": 128.6,
+          "text": "affected"
+        },
+        {
+          "startSec": 128.6,
+          "endSec": 129.3,
+          "text": "areas"
+        },
+        {
+          "startSec": 129.3,
+          "endSec": 129.8,
+          "text": "that"
+        },
+        {
+          "startSec": 129.8,
+          "endSec": 130.7,
+          "text": "such"
+        },
+        {
+          "startSec": 130.7,
+          "endSec": 130.7,
+          "text": "low"
+        },
+        {
+          "startSec": 130.7,
+          "endSec": 132.1,
+          "text": "temperatures"
+        },
+        {
+          "startSec": 132.1,
+          "endSec": 132.5,
+          "text": "can"
+        },
+        {
+          "startSec": 132.5,
+          "endSec": 133.1,
+          "text": "cause"
+        },
+        {
+          "startSec": 133.1,
+          "endSec": 134.3,
+          "text": "frostbite"
+        },
+        {
+          "startSec": 134.3,
+          "endSec": 134.7,
+          "text": "and"
+        },
+        {
+          "startSec": 134.7,
+          "endSec": 136.3,
+          "text": "hypothermia"
+        },
+        {
+          "startSec": 136.3,
+          "endSec": 136.5,
+          "text": "if"
+        },
+        {
+          "startSec": 136.5,
+          "endSec": 137,
+          "text": "skin"
+        },
+        {
+          "startSec": 137,
+          "endSec": 137.2,
+          "text": "is"
+        },
+        {
+          "startSec": 137.2,
+          "endSec": 137.6,
+          "text": "not"
+        },
+        {
+          "startSec": 137.6,
+          "endSec": 138.6,
+          "text": "protected"
+        },
+        {
+          "startSec": 138.6,
+          "endSec": 139.3,
+          "text": "from"
+        },
+        {
+          "startSec": 139.3,
+          "endSec": 139.4,
+          "text": "the"
+        },
+        {
+          "startSec": 139.4,
+          "endSec": 140.3,
+          "text": "cold."
+        }
+      ]
     },
     {
       "startSec": 140.3,
       "endSec": 154.3,
-      "text": "Weather officials also warned that long-term cold temperatures can cause water pipes in or around homes to freeze and burst."
+      "text": "Weather officials also warned that long-term cold temperatures can cause water pipes in or around homes to freeze and burst.",
+      "words": [
+        {
+          "startSec": 140.4,
+          "endSec": 141.2,
+          "text": "Weather"
+        },
+        {
+          "startSec": 141.2,
+          "endSec": 142.4,
+          "text": "officials"
+        },
+        {
+          "startSec": 142.4,
+          "endSec": 143,
+          "text": "also"
+        },
+        {
+          "startSec": 143,
+          "endSec": 143.7,
+          "text": "warned"
+        },
+        {
+          "startSec": 143.7,
+          "endSec": 144.2,
+          "text": "that"
+        },
+        {
+          "startSec": 144.2,
+          "endSec": 145.4,
+          "text": "long-term"
+        },
+        {
+          "startSec": 145.4,
+          "endSec": 146,
+          "text": "cold"
+        },
+        {
+          "startSec": 146,
+          "endSec": 147.4,
+          "text": "temperatures"
+        },
+        {
+          "startSec": 147.4,
+          "endSec": 147.8,
+          "text": "can"
+        },
+        {
+          "startSec": 147.8,
+          "endSec": 148.5,
+          "text": "cause"
+        },
+        {
+          "startSec": 148.5,
+          "endSec": 149.7,
+          "text": "water"
+        },
+        {
+          "startSec": 149.7,
+          "endSec": 149.8,
+          "text": "pipes"
+        },
+        {
+          "startSec": 149.8,
+          "endSec": 150,
+          "text": "in"
+        },
+        {
+          "startSec": 150,
+          "endSec": 150.4,
+          "text": "or"
+        },
+        {
+          "startSec": 150.4,
+          "endSec": 151.1,
+          "text": "around"
+        },
+        {
+          "startSec": 151.1,
+          "endSec": 151.7,
+          "text": "homes"
+        },
+        {
+          "startSec": 151.7,
+          "endSec": 152,
+          "text": "to"
+        },
+        {
+          "startSec": 152,
+          "endSec": 152.8,
+          "text": "freeze"
+        },
+        {
+          "startSec": 152.8,
+          "endSec": 153.2,
+          "text": "and"
+        },
+        {
+          "startSec": 153.2,
+          "endSec": 154.3,
+          "text": "burst."
+        }
+      ]
     },
     {
       "startSec": 154.3,
       "endSec": 170.3,
-      "text": "The NWS noted that almost every U.S. state except for Hawaii, California and Florida is expected to report low wind chill temperatures."
+      "text": "The NWS noted that almost every U.S. state except for Hawaii, California and Florida is expected to report low wind chill temperatures.",
+      "words": [
+        {
+          "startSec": 154.4,
+          "endSec": 154.7,
+          "text": "The"
+        },
+        {
+          "startSec": 154.7,
+          "endSec": 155.1,
+          "text": "NWS"
+        },
+        {
+          "startSec": 155.1,
+          "endSec": 155.7,
+          "text": "noted"
+        },
+        {
+          "startSec": 155.7,
+          "endSec": 156.3,
+          "text": "that"
+        },
+        {
+          "startSec": 156.3,
+          "endSec": 157,
+          "text": "almost"
+        },
+        {
+          "startSec": 157,
+          "endSec": 157.7,
+          "text": "every"
+        },
+        {
+          "startSec": 157.7,
+          "endSec": 158.8,
+          "text": "U.S."
+        },
+        {
+          "startSec": 158.8,
+          "endSec": 159.4,
+          "text": "state"
+        },
+        {
+          "startSec": 159.4,
+          "endSec": 160.2,
+          "text": "except"
+        },
+        {
+          "startSec": 160.2,
+          "endSec": 160.6,
+          "text": "for"
+        },
+        {
+          "startSec": 160.6,
+          "endSec": 161.7,
+          "text": "Hawaii,"
+        },
+        {
+          "startSec": 161.7,
+          "endSec": 162.9,
+          "text": "California"
+        },
+        {
+          "startSec": 162.9,
+          "endSec": 163.7,
+          "text": "and"
+        },
+        {
+          "startSec": 163.7,
+          "endSec": 164.4,
+          "text": "Florida"
+        },
+        {
+          "startSec": 164.4,
+          "endSec": 164.5,
+          "text": "is"
+        },
+        {
+          "startSec": 164.5,
+          "endSec": 165.7,
+          "text": "expected"
+        },
+        {
+          "startSec": 165.7,
+          "endSec": 165.8,
+          "text": "to"
+        },
+        {
+          "startSec": 165.8,
+          "endSec": 166.6,
+          "text": "report"
+        },
+        {
+          "startSec": 166.6,
+          "endSec": 167.1,
+          "text": "low"
+        },
+        {
+          "startSec": 167.1,
+          "endSec": 168.2,
+          "text": "wind"
+        },
+        {
+          "startSec": 168.2,
+          "endSec": 168.2,
+          "text": "chill"
+        },
+        {
+          "startSec": 168.2,
+          "endSec": 170.3,
+          "text": "temperatures."
+        }
+      ]
     },
     {
       "startSec": 170.3,
       "endSec": 181.3,
-      "text": "The coldest temperatures were expected in the Midwestern states of Kansas, Nebraska and Missouri."
+      "text": "The coldest temperatures were expected in the Midwestern states of Kansas, Nebraska and Missouri.",
+      "words": [
+        {
+          "startSec": 170.4,
+          "endSec": 170.7,
+          "text": "The"
+        },
+        {
+          "startSec": 170.7,
+          "endSec": 171.6,
+          "text": "coldest"
+        },
+        {
+          "startSec": 171.6,
+          "endSec": 173,
+          "text": "temperatures"
+        },
+        {
+          "startSec": 173,
+          "endSec": 173.5,
+          "text": "were"
+        },
+        {
+          "startSec": 173.5,
+          "endSec": 174.5,
+          "text": "expected"
+        },
+        {
+          "startSec": 174.5,
+          "endSec": 174.8,
+          "text": "in"
+        },
+        {
+          "startSec": 174.8,
+          "endSec": 175.2,
+          "text": "the"
+        },
+        {
+          "startSec": 175.2,
+          "endSec": 176.4,
+          "text": "Midwestern"
+        },
+        {
+          "startSec": 176.4,
+          "endSec": 177.2,
+          "text": "states"
+        },
+        {
+          "startSec": 177.2,
+          "endSec": 177.4,
+          "text": "of"
+        },
+        {
+          "startSec": 177.4,
+          "endSec": 178.4,
+          "text": "Kansas,"
+        },
+        {
+          "startSec": 178.4,
+          "endSec": 179.7,
+          "text": "Nebraska"
+        },
+        {
+          "startSec": 179.7,
+          "endSec": 179.8,
+          "text": "and"
+        },
+        {
+          "startSec": 179.8,
+          "endSec": 181.3,
+          "text": "Missouri."
+        },
+        {
+          "startSec": 181.3,
+          "endSec": 181.5,
+          "text": "In"
+        }
+      ]
     },
     {
       "startSec": 181.3,
       "endSec": 193.3,
-      "text": "In an explanation on its website, NOAA states that the polar vortex always surrounds both of Earth's poles."
+      "text": "In an explanation on its website, NOAA states that the polar vortex always surrounds both of Earth's poles.",
+      "words": [
+        {
+          "startSec": 181.3,
+          "endSec": 181.5,
+          "text": "In"
+        },
+        {
+          "startSec": 181.5,
+          "endSec": 181.8,
+          "text": "an"
+        },
+        {
+          "startSec": 181.8,
+          "endSec": 183.2,
+          "text": "explanation"
+        },
+        {
+          "startSec": 183.2,
+          "endSec": 183.4,
+          "text": "on"
+        },
+        {
+          "startSec": 183.4,
+          "endSec": 183.8,
+          "text": "its"
+        },
+        {
+          "startSec": 183.8,
+          "endSec": 185,
+          "text": "website,"
+        },
+        {
+          "startSec": 185,
+          "endSec": 185.5,
+          "text": "NOAA"
+        },
+        {
+          "startSec": 185.5,
+          "endSec": 186.3,
+          "text": "states"
+        },
+        {
+          "startSec": 186.3,
+          "endSec": 186.8,
+          "text": "that"
+        },
+        {
+          "startSec": 186.8,
+          "endSec": 187.1,
+          "text": "the"
+        },
+        {
+          "startSec": 187.1,
+          "endSec": 187.8,
+          "text": "polar"
+        },
+        {
+          "startSec": 187.8,
+          "endSec": 188.6,
+          "text": "vortex"
+        },
+        {
+          "startSec": 188.6,
+          "endSec": 189.3,
+          "text": "always"
+        },
+        {
+          "startSec": 189.3,
+          "endSec": 190.7,
+          "text": "surrounds"
+        },
+        {
+          "startSec": 190.7,
+          "endSec": 191,
+          "text": "both"
+        },
+        {
+          "startSec": 191,
+          "endSec": 191.2,
+          "text": "of"
+        },
+        {
+          "startSec": 191.2,
+          "endSec": 192.1,
+          "text": "Earth's"
+        },
+        {
+          "startSec": 192.1,
+          "endSec": 193.3,
+          "text": "poles."
+        },
+        {
+          "startSec": 193.3,
+          "endSec": 193.6,
+          "text": "The"
+        }
+      ]
     },
     {
       "startSec": 193.3,
       "endSec": 199.3,
-      "text": "The systems strengthen in the winter and weaken in the summer."
+      "text": "The systems strengthen in the winter and weaken in the summer.",
+      "words": [
+        {
+          "startSec": 193.3,
+          "endSec": 193.6,
+          "text": "The"
+        },
+        {
+          "startSec": 193.6,
+          "endSec": 194.4,
+          "text": "systems"
+        },
+        {
+          "startSec": 194.4,
+          "endSec": 195.5,
+          "text": "strengthen"
+        },
+        {
+          "startSec": 195.5,
+          "endSec": 195.7,
+          "text": "in"
+        },
+        {
+          "startSec": 195.7,
+          "endSec": 196,
+          "text": "the"
+        },
+        {
+          "startSec": 196,
+          "endSec": 196.7,
+          "text": "winter"
+        },
+        {
+          "startSec": 196.7,
+          "endSec": 197,
+          "text": "and"
+        },
+        {
+          "startSec": 197,
+          "endSec": 197.7,
+          "text": "weaken"
+        },
+        {
+          "startSec": 197.7,
+          "endSec": 197.9,
+          "text": "in"
+        },
+        {
+          "startSec": 197.9,
+          "endSec": 198.2,
+          "text": "the"
+        },
+        {
+          "startSec": 198.2,
+          "endSec": 199.3,
+          "text": "summer."
+        }
+      ]
     },
     {
       "startSec": 199.3,
       "endSec": 204.3,
-      "text": "Every year or so the polar vortex becomes weaker."
+      "text": "Every year or so the polar vortex becomes weaker.",
+      "words": [
+        {
+          "startSec": 199.4,
+          "endSec": 199.9,
+          "text": "Every"
+        },
+        {
+          "startSec": 199.9,
+          "endSec": 200.3,
+          "text": "year"
+        },
+        {
+          "startSec": 200.3,
+          "endSec": 200.6,
+          "text": "or"
+        },
+        {
+          "startSec": 200.6,
+          "endSec": 200.8,
+          "text": "so"
+        },
+        {
+          "startSec": 200.8,
+          "endSec": 201.1,
+          "text": "the"
+        },
+        {
+          "startSec": 201.1,
+          "endSec": 201.7,
+          "text": "polar"
+        },
+        {
+          "startSec": 201.7,
+          "endSec": 202.5,
+          "text": "vortex"
+        },
+        {
+          "startSec": 202.5,
+          "endSec": 203.2,
+          "text": "becomes"
+        },
+        {
+          "startSec": 203.2,
+          "endSec": 204.3,
+          "text": "weaker."
+        },
+        {
+          "startSec": 204.3,
+          "endSec": 204.8,
+          "text": "This"
+        }
+      ]
     },
     {
       "startSec": 204.3,
       "endSec": 212.3,
-      "text": "This can cause the system to be pushed off the pole or split into two."
+      "text": "This can cause the system to be pushed off the pole or split into two.",
+      "words": [
+        {
+          "startSec": 204.3,
+          "endSec": 204.8,
+          "text": "This"
+        },
+        {
+          "startSec": 204.8,
+          "endSec": 205.3,
+          "text": "can"
+        },
+        {
+          "startSec": 205.3,
+          "endSec": 205.9,
+          "text": "cause"
+        },
+        {
+          "startSec": 205.9,
+          "endSec": 206.3,
+          "text": "the"
+        },
+        {
+          "startSec": 206.3,
+          "endSec": 207.2,
+          "text": "system"
+        },
+        {
+          "startSec": 207.2,
+          "endSec": 207.5,
+          "text": "to"
+        },
+        {
+          "startSec": 207.5,
+          "endSec": 207.7,
+          "text": "be"
+        },
+        {
+          "startSec": 207.7,
+          "endSec": 208.5,
+          "text": "pushed"
+        },
+        {
+          "startSec": 208.5,
+          "endSec": 208.9,
+          "text": "off"
+        },
+        {
+          "startSec": 208.9,
+          "endSec": 209.3,
+          "text": "the"
+        },
+        {
+          "startSec": 209.3,
+          "endSec": 210,
+          "text": "pole"
+        },
+        {
+          "startSec": 210,
+          "endSec": 210.2,
+          "text": "or"
+        },
+        {
+          "startSec": 210.2,
+          "endSec": 210.8,
+          "text": "split"
+        },
+        {
+          "startSec": 210.8,
+          "endSec": 211.4,
+          "text": "into"
+        },
+        {
+          "startSec": 211.4,
+          "endSec": 212.3,
+          "text": "two."
+        },
+        {
+          "startSec": 212.3,
+          "endSec": 212.7,
+          "text": "This"
+        }
+      ]
     },
     {
       "startSec": 212.3,
       "endSec": 222.3,
-      "text": "This can lead to cold air at the surface being pushed southward and warm air being pushed to the north."
+      "text": "This can lead to cold air at the surface being pushed southward and warm air being pushed to the north.",
+      "words": [
+        {
+          "startSec": 212.3,
+          "endSec": 212.7,
+          "text": "This"
+        },
+        {
+          "startSec": 212.7,
+          "endSec": 213.1,
+          "text": "can"
+        },
+        {
+          "startSec": 213.1,
+          "endSec": 213.6,
+          "text": "lead"
+        },
+        {
+          "startSec": 213.6,
+          "endSec": 213.8,
+          "text": "to"
+        },
+        {
+          "startSec": 213.8,
+          "endSec": 214.3,
+          "text": "cold"
+        },
+        {
+          "startSec": 214.3,
+          "endSec": 214.6,
+          "text": "air"
+        },
+        {
+          "startSec": 214.6,
+          "endSec": 214.8,
+          "text": "at"
+        },
+        {
+          "startSec": 214.8,
+          "endSec": 215.1,
+          "text": "the"
+        },
+        {
+          "startSec": 215.1,
+          "endSec": 216,
+          "text": "surface"
+        },
+        {
+          "startSec": 216,
+          "endSec": 216.5,
+          "text": "being"
+        },
+        {
+          "startSec": 216.5,
+          "endSec": 217.2,
+          "text": "pushed"
+        },
+        {
+          "startSec": 217.2,
+          "endSec": 218.3,
+          "text": "southward"
+        },
+        {
+          "startSec": 218.3,
+          "endSec": 218.6,
+          "text": "and"
+        },
+        {
+          "startSec": 218.6,
+          "endSec": 219.1,
+          "text": "warm"
+        },
+        {
+          "startSec": 219.1,
+          "endSec": 219.5,
+          "text": "air"
+        },
+        {
+          "startSec": 219.5,
+          "endSec": 220,
+          "text": "being"
+        },
+        {
+          "startSec": 220,
+          "endSec": 220.7,
+          "text": "pushed"
+        },
+        {
+          "startSec": 220.7,
+          "endSec": 221,
+          "text": "to"
+        },
+        {
+          "startSec": 221,
+          "endSec": 221.7,
+          "text": "the"
+        },
+        {
+          "startSec": 221.7,
+          "endSec": 222.3,
+          "text": "north."
+        }
+      ]
     },
     {
       "startSec": 222.3,
       "endSec": 238.3,
-      "text": "NOAA says its weather models are predicting low temperatures for states including Oklahoma, Colorado, Nebraska, Missouri, Illinois and Iowa."
+      "text": "NOAA says its weather models are predicting low temperatures for states including Oklahoma, Colorado, Nebraska, Missouri, Illinois and Iowa.",
+      "words": [
+        {
+          "startSec": 222.4,
+          "endSec": 222.8,
+          "text": "NOAA"
+        },
+        {
+          "startSec": 222.8,
+          "endSec": 223.3,
+          "text": "says"
+        },
+        {
+          "startSec": 223.3,
+          "endSec": 223.7,
+          "text": "its"
+        },
+        {
+          "startSec": 223.7,
+          "endSec": 224.5,
+          "text": "weather"
+        },
+        {
+          "startSec": 224.5,
+          "endSec": 225.3,
+          "text": "models"
+        },
+        {
+          "startSec": 225.3,
+          "endSec": 225.6,
+          "text": "are"
+        },
+        {
+          "startSec": 225.6,
+          "endSec": 226.9,
+          "text": "predicting"
+        },
+        {
+          "startSec": 226.9,
+          "endSec": 227.3,
+          "text": "low"
+        },
+        {
+          "startSec": 227.3,
+          "endSec": 228.7,
+          "text": "temperatures"
+        },
+        {
+          "startSec": 228.7,
+          "endSec": 229.1,
+          "text": "for"
+        },
+        {
+          "startSec": 229.1,
+          "endSec": 230,
+          "text": "states"
+        },
+        {
+          "startSec": 230,
+          "endSec": 231,
+          "text": "including"
+        },
+        {
+          "startSec": 231,
+          "endSec": 232.4,
+          "text": "Oklahoma,"
+        },
+        {
+          "startSec": 232.4,
+          "endSec": 233.5,
+          "text": "Colorado,"
+        },
+        {
+          "startSec": 233.5,
+          "endSec": 234.8,
+          "text": "Nebraska,"
+        },
+        {
+          "startSec": 234.8,
+          "endSec": 236.2,
+          "text": "Missouri,"
+        },
+        {
+          "startSec": 236.2,
+          "endSec": 237.1,
+          "text": "Illinois"
+        },
+        {
+          "startSec": 237.1,
+          "endSec": 237.4,
+          "text": "and"
+        },
+        {
+          "startSec": 237.4,
+          "endSec": 238.3,
+          "text": "Iowa."
+        }
+      ]
     },
     {
       "startSec": 238.3,
       "endSec": 253.3,
-      "text": "Other states likely to have very low temperatures are Wyoming, Montana, North Dakota, South Dakota, Minnesota, Wisconsin and Michigan."
+      "text": "Other states likely to have very low temperatures are Wyoming, Montana, North Dakota, South Dakota, Minnesota, Wisconsin and Michigan.",
+      "words": [
+        {
+          "startSec": 238.4,
+          "endSec": 238.9,
+          "text": "Other"
+        },
+        {
+          "startSec": 238.9,
+          "endSec": 239.6,
+          "text": "states"
+        },
+        {
+          "startSec": 239.6,
+          "endSec": 240.4,
+          "text": "likely"
+        },
+        {
+          "startSec": 240.4,
+          "endSec": 240.6,
+          "text": "to"
+        },
+        {
+          "startSec": 240.6,
+          "endSec": 241.1,
+          "text": "have"
+        },
+        {
+          "startSec": 241.1,
+          "endSec": 241.6,
+          "text": "very"
+        },
+        {
+          "startSec": 241.6,
+          "endSec": 242,
+          "text": "low"
+        },
+        {
+          "startSec": 242,
+          "endSec": 243.4,
+          "text": "temperatures"
+        },
+        {
+          "startSec": 243.4,
+          "endSec": 243.7,
+          "text": "are"
+        },
+        {
+          "startSec": 243.7,
+          "endSec": 244.8,
+          "text": "Wyoming,"
+        },
+        {
+          "startSec": 244.8,
+          "endSec": 246,
+          "text": "Montana,"
+        },
+        {
+          "startSec": 246,
+          "endSec": 246.5,
+          "text": "North"
+        },
+        {
+          "startSec": 246.5,
+          "endSec": 247.7,
+          "text": "Dakota,"
+        },
+        {
+          "startSec": 247.7,
+          "endSec": 248.1,
+          "text": "South"
+        },
+        {
+          "startSec": 248.1,
+          "endSec": 249.1,
+          "text": "Dakota,"
+        },
+        {
+          "startSec": 249.1,
+          "endSec": 250.4,
+          "text": "Minnesota,"
+        },
+        {
+          "startSec": 250.4,
+          "endSec": 251.3,
+          "text": "Wisconsin"
+        },
+        {
+          "startSec": 251.3,
+          "endSec": 252.2,
+          "text": "and"
+        },
+        {
+          "startSec": 252.2,
+          "endSec": 253.3,
+          "text": "Michigan."
+        }
+      ]
     },
     {
       "startSec": 253.3,
       "endSec": 271.3,
-      "text": "The agency said some storms could bring heavy snow or flooding during that time. I'm Brian Lynn."
+      "text": "The agency said some storms could bring heavy snow or flooding during that time. I'm Brian Lynn.",
+      "words": [
+        {
+          "startSec": 253.4,
+          "endSec": 253.9,
+          "text": "The"
+        },
+        {
+          "startSec": 253.9,
+          "endSec": 255.3,
+          "text": "agency"
+        },
+        {
+          "startSec": 255.3,
+          "endSec": 256.1,
+          "text": "said"
+        },
+        {
+          "startSec": 256.1,
+          "endSec": 257,
+          "text": "some"
+        },
+        {
+          "startSec": 257,
+          "endSec": 258.3,
+          "text": "storms"
+        },
+        {
+          "startSec": 258.3,
+          "endSec": 259.3,
+          "text": "could"
+        },
+        {
+          "startSec": 259.3,
+          "endSec": 260.4,
+          "text": "bring"
+        },
+        {
+          "startSec": 260.4,
+          "endSec": 261.5,
+          "text": "heavy"
+        },
+        {
+          "startSec": 261.5,
+          "endSec": 262.7,
+          "text": "snow"
+        },
+        {
+          "startSec": 262.7,
+          "endSec": 262.8,
+          "text": "or"
+        },
+        {
+          "startSec": 262.8,
+          "endSec": 264.5,
+          "text": "flooding"
+        },
+        {
+          "startSec": 264.5,
+          "endSec": 265.8,
+          "text": "during"
+        },
+        {
+          "startSec": 265.8,
+          "endSec": 267.2,
+          "text": "that"
+        },
+        {
+          "startSec": 267.2,
+          "endSec": 268.3,
+          "text": "time."
+        },
+        {
+          "startSec": 268.3,
+          "endSec": 268.9,
+          "text": "I'm"
+        },
+        {
+          "startSec": 268.9,
+          "endSec": 269.9,
+          "text": "Brian"
+        },
+        {
+          "startSec": 269.9,
+          "endSec": 271.3,
+          "text": "Lynn."
+        }
+      ]
     }
   ],
   "cefr": "B2",

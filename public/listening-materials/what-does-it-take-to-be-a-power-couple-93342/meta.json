@@ -9,227 +9,2782 @@
     {
       "startSec": 0,
       "endSec": 19.7,
-      "text": "And now, words and their stories from VOA learning English."
+      "text": "And now, words and their stories from VOA learning English.",
+      "words": [
+        {
+          "startSec": 0.9,
+          "endSec": 1.3,
+          "text": "And"
+        },
+        {
+          "startSec": 1.3,
+          "endSec": 3.4,
+          "text": "now,"
+        },
+        {
+          "startSec": 3.4,
+          "endSec": 5.6,
+          "text": "words"
+        },
+        {
+          "startSec": 5.6,
+          "endSec": 6.8,
+          "text": "and"
+        },
+        {
+          "startSec": 6.8,
+          "endSec": 9,
+          "text": "their"
+        },
+        {
+          "startSec": 9,
+          "endSec": 12,
+          "text": "stories"
+        },
+        {
+          "startSec": 12,
+          "endSec": 12.1,
+          "text": "from"
+        },
+        {
+          "startSec": 12.1,
+          "endSec": 13.2,
+          "text": "VOA"
+        },
+        {
+          "startSec": 13.2,
+          "endSec": 16.1,
+          "text": "learning"
+        },
+        {
+          "startSec": 16.1,
+          "endSec": 19.7,
+          "text": "English."
+        },
+        {
+          "startSec": 19.7,
+          "endSec": 20.6,
+          "text": "In"
+        }
+      ]
     },
     {
       "startSec": 19.7,
       "endSec": 28.6,
-      "text": "In American English, we use many expressions to describe when two people have a lot of similarities"
+      "text": "In American English, we use many expressions to describe when two people have a lot of similarities",
+      "words": [
+        {
+          "startSec": 19.7,
+          "endSec": 20.6,
+          "text": "In"
+        },
+        {
+          "startSec": 20.6,
+          "endSec": 20.7,
+          "text": "American"
+        },
+        {
+          "startSec": 20.7,
+          "endSec": 21.6,
+          "text": "English,"
+        },
+        {
+          "startSec": 21.6,
+          "endSec": 21.8,
+          "text": "we"
+        },
+        {
+          "startSec": 21.8,
+          "endSec": 22.1,
+          "text": "use"
+        },
+        {
+          "startSec": 22.1,
+          "endSec": 22.5,
+          "text": "many"
+        },
+        {
+          "startSec": 22.5,
+          "endSec": 23.6,
+          "text": "expressions"
+        },
+        {
+          "startSec": 23.6,
+          "endSec": 23.8,
+          "text": "to"
+        },
+        {
+          "startSec": 23.8,
+          "endSec": 24.6,
+          "text": "describe"
+        },
+        {
+          "startSec": 24.6,
+          "endSec": 25,
+          "text": "when"
+        },
+        {
+          "startSec": 25,
+          "endSec": 25.2,
+          "text": "two"
+        },
+        {
+          "startSec": 25.2,
+          "endSec": 25.8,
+          "text": "people"
+        },
+        {
+          "startSec": 25.8,
+          "endSec": 26.2,
+          "text": "have"
+        },
+        {
+          "startSec": 26.2,
+          "endSec": 26.3,
+          "text": "a"
+        },
+        {
+          "startSec": 26.3,
+          "endSec": 26.7,
+          "text": "lot"
+        },
+        {
+          "startSec": 26.7,
+          "endSec": 26.9,
+          "text": "of"
+        },
+        {
+          "startSec": 26.9,
+          "endSec": 28.6,
+          "text": "similarities"
+        },
+        {
+          "startSec": 28.6,
+          "endSec": 29.5,
+          "text": "or"
+        }
+      ]
     },
     {
       "startSec": 28.6,
       "endSec": 31.7,
-      "text": "or are very close."
+      "text": "or are very close.",
+      "words": [
+        {
+          "startSec": 28.6,
+          "endSec": 29.5,
+          "text": "or"
+        },
+        {
+          "startSec": 29.5,
+          "endSec": 29.5,
+          "text": "are"
+        },
+        {
+          "startSec": 29.5,
+          "endSec": 30.2,
+          "text": "very"
+        },
+        {
+          "startSec": 30.2,
+          "endSec": 31.7,
+          "text": "close."
+        },
+        {
+          "startSec": 31.7,
+          "endSec": 32.5,
+          "text": "Here"
+        }
+      ]
     },
     {
       "startSec": 31.7,
       "endSec": 34.4,
-      "text": "Here are some examples."
+      "text": "Here are some examples.",
+      "words": [
+        {
+          "startSec": 31.7,
+          "endSec": 32.5,
+          "text": "Here"
+        },
+        {
+          "startSec": 32.5,
+          "endSec": 32.6,
+          "text": "are"
+        },
+        {
+          "startSec": 32.6,
+          "endSec": 33,
+          "text": "some"
+        },
+        {
+          "startSec": 33,
+          "endSec": 34.4,
+          "text": "examples."
+        },
+        {
+          "startSec": 34.4,
+          "endSec": 34.6,
+          "text": "If"
+        }
+      ]
     },
     {
       "startSec": 34.4,
       "endSec": 41.6,
-      "text": "If we say two people are joined at the hip, they are nearly always together."
+      "text": "If we say two people are joined at the hip, they are nearly always together.",
+      "words": [
+        {
+          "startSec": 34.4,
+          "endSec": 34.6,
+          "text": "If"
+        },
+        {
+          "startSec": 34.6,
+          "endSec": 35.1,
+          "text": "we"
+        },
+        {
+          "startSec": 35.1,
+          "endSec": 35.3,
+          "text": "say"
+        },
+        {
+          "startSec": 35.3,
+          "endSec": 35.4,
+          "text": "two"
+        },
+        {
+          "startSec": 35.4,
+          "endSec": 36,
+          "text": "people"
+        },
+        {
+          "startSec": 36,
+          "endSec": 36.3,
+          "text": "are"
+        },
+        {
+          "startSec": 36.3,
+          "endSec": 36.9,
+          "text": "joined"
+        },
+        {
+          "startSec": 36.9,
+          "endSec": 37.1,
+          "text": "at"
+        },
+        {
+          "startSec": 37.1,
+          "endSec": 37.4,
+          "text": "the"
+        },
+        {
+          "startSec": 37.4,
+          "endSec": 37.9,
+          "text": "hip,"
+        },
+        {
+          "startSec": 37.9,
+          "endSec": 38.4,
+          "text": "they"
+        },
+        {
+          "startSec": 38.4,
+          "endSec": 38.8,
+          "text": "are"
+        },
+        {
+          "startSec": 38.8,
+          "endSec": 39.5,
+          "text": "nearly"
+        },
+        {
+          "startSec": 39.5,
+          "endSec": 40.2,
+          "text": "always"
+        },
+        {
+          "startSec": 40.2,
+          "endSec": 41.6,
+          "text": "together."
+        },
+        {
+          "startSec": 41.6,
+          "endSec": 41.8,
+          "text": "If"
+        }
+      ]
     },
     {
       "startSec": 41.6,
       "endSec": 50,
-      "text": "If we describe individuals as thick as thieves, it means they are very close."
+      "text": "If we describe individuals as thick as thieves, it means they are very close.",
+      "words": [
+        {
+          "startSec": 41.6,
+          "endSec": 41.8,
+          "text": "If"
+        },
+        {
+          "startSec": 41.8,
+          "endSec": 42.5,
+          "text": "we"
+        },
+        {
+          "startSec": 42.5,
+          "endSec": 43.1,
+          "text": "describe"
+        },
+        {
+          "startSec": 43.1,
+          "endSec": 44.5,
+          "text": "individuals"
+        },
+        {
+          "startSec": 44.5,
+          "endSec": 44.7,
+          "text": "as"
+        },
+        {
+          "startSec": 44.7,
+          "endSec": 45.3,
+          "text": "thick"
+        },
+        {
+          "startSec": 45.3,
+          "endSec": 45.6,
+          "text": "as"
+        },
+        {
+          "startSec": 45.6,
+          "endSec": 46.7,
+          "text": "thieves,"
+        },
+        {
+          "startSec": 46.7,
+          "endSec": 47,
+          "text": "it"
+        },
+        {
+          "startSec": 47,
+          "endSec": 47.6,
+          "text": "means"
+        },
+        {
+          "startSec": 47.6,
+          "endSec": 48.1,
+          "text": "they"
+        },
+        {
+          "startSec": 48.1,
+          "endSec": 48.5,
+          "text": "are"
+        },
+        {
+          "startSec": 48.5,
+          "endSec": 49,
+          "text": "very"
+        },
+        {
+          "startSec": 49,
+          "endSec": 50,
+          "text": "close."
+        },
+        {
+          "startSec": 50,
+          "endSec": 50.9,
+          "text": "People"
+        }
+      ]
     },
     {
       "startSec": 50,
       "endSec": 56,
-      "text": "People considered two peas in a pod have many things in common."
+      "text": "People considered two peas in a pod have many things in common.",
+      "words": [
+        {
+          "startSec": 50,
+          "endSec": 50.9,
+          "text": "People"
+        },
+        {
+          "startSec": 50.9,
+          "endSec": 51.8,
+          "text": "considered"
+        },
+        {
+          "startSec": 51.8,
+          "endSec": 52.1,
+          "text": "two"
+        },
+        {
+          "startSec": 52.1,
+          "endSec": 52.5,
+          "text": "peas"
+        },
+        {
+          "startSec": 52.5,
+          "endSec": 52.7,
+          "text": "in"
+        },
+        {
+          "startSec": 52.7,
+          "endSec": 52.9,
+          "text": "a"
+        },
+        {
+          "startSec": 52.9,
+          "endSec": 53.2,
+          "text": "pod"
+        },
+        {
+          "startSec": 53.2,
+          "endSec": 53.6,
+          "text": "have"
+        },
+        {
+          "startSec": 53.6,
+          "endSec": 54,
+          "text": "many"
+        },
+        {
+          "startSec": 54,
+          "endSec": 54.7,
+          "text": "things"
+        },
+        {
+          "startSec": 54.7,
+          "endSec": 54.9,
+          "text": "in"
+        },
+        {
+          "startSec": 54.9,
+          "endSec": 56,
+          "text": "common."
+        },
+        {
+          "startSec": 56,
+          "endSec": 56.2,
+          "text": "And"
+        }
+      ]
     },
     {
       "startSec": 56,
       "endSec": 63.4,
-      "text": "And we use the term \"kindred spirits\" to describe people who often share the same opinions"
+      "text": "And we use the term \"kindred spirits\" to describe people who often share the same opinions",
+      "words": [
+        {
+          "startSec": 56,
+          "endSec": 56.2,
+          "text": "And"
+        },
+        {
+          "startSec": 56.2,
+          "endSec": 56.7,
+          "text": "we"
+        },
+        {
+          "startSec": 56.7,
+          "endSec": 56.9,
+          "text": "use"
+        },
+        {
+          "startSec": 56.9,
+          "endSec": 57,
+          "text": "the"
+        },
+        {
+          "startSec": 57,
+          "endSec": 57.3,
+          "text": "term"
+        },
+        {
+          "startSec": 57.3,
+          "endSec": 58,
+          "text": "\"kindred"
+        },
+        {
+          "startSec": 58,
+          "endSec": 58.8,
+          "text": "spirits\""
+        },
+        {
+          "startSec": 58.8,
+          "endSec": 59,
+          "text": "to"
+        },
+        {
+          "startSec": 59,
+          "endSec": 59.7,
+          "text": "describe"
+        },
+        {
+          "startSec": 59.7,
+          "endSec": 60.2,
+          "text": "people"
+        },
+        {
+          "startSec": 60.2,
+          "endSec": 60.5,
+          "text": "who"
+        },
+        {
+          "startSec": 60.5,
+          "endSec": 61,
+          "text": "often"
+        },
+        {
+          "startSec": 61,
+          "endSec": 61.4,
+          "text": "share"
+        },
+        {
+          "startSec": 61.4,
+          "endSec": 61.7,
+          "text": "the"
+        },
+        {
+          "startSec": 61.7,
+          "endSec": 62.3,
+          "text": "same"
+        },
+        {
+          "startSec": 62.3,
+          "endSec": 63.4,
+          "text": "opinions"
+        },
+        {
+          "startSec": 63.4,
+          "endSec": 64.3,
+          "text": "and"
+        }
+      ]
     },
     {
       "startSec": 63.4,
       "endSec": 66.1,
-      "text": "and interests."
+      "text": "and interests.",
+      "words": [
+        {
+          "startSec": 63.4,
+          "endSec": 64.3,
+          "text": "and"
+        },
+        {
+          "startSec": 64.3,
+          "endSec": 66.1,
+          "text": "interests."
+        },
+        {
+          "startSec": 66.1,
+          "endSec": 67,
+          "text": "These"
+        }
+      ]
     },
     {
       "startSec": 66.1,
       "endSec": 73,
-      "text": "These expressions can represent people who grew closer for different reasons."
+      "text": "These expressions can represent people who grew closer for different reasons.",
+      "words": [
+        {
+          "startSec": 66.1,
+          "endSec": 67,
+          "text": "These"
+        },
+        {
+          "startSec": 67,
+          "endSec": 67.7,
+          "text": "expressions"
+        },
+        {
+          "startSec": 67.7,
+          "endSec": 68,
+          "text": "can"
+        },
+        {
+          "startSec": 68,
+          "endSec": 68.8,
+          "text": "represent"
+        },
+        {
+          "startSec": 68.8,
+          "endSec": 69.4,
+          "text": "people"
+        },
+        {
+          "startSec": 69.4,
+          "endSec": 69.7,
+          "text": "who"
+        },
+        {
+          "startSec": 69.7,
+          "endSec": 70.1,
+          "text": "grew"
+        },
+        {
+          "startSec": 70.1,
+          "endSec": 70.7,
+          "text": "closer"
+        },
+        {
+          "startSec": 70.7,
+          "endSec": 71,
+          "text": "for"
+        },
+        {
+          "startSec": 71,
+          "endSec": 71.9,
+          "text": "different"
+        },
+        {
+          "startSec": 71.9,
+          "endSec": 73,
+          "text": "reasons."
+        },
+        {
+          "startSec": 73,
+          "endSec": 73.9,
+          "text": "Maybe"
+        }
+      ]
     },
     {
       "startSec": 73,
       "endSec": 78.3,
-      "text": "Maybe they complimented each other well in certain ways."
+      "text": "Maybe they complimented each other well in certain ways.",
+      "words": [
+        {
+          "startSec": 73,
+          "endSec": 73.9,
+          "text": "Maybe"
+        },
+        {
+          "startSec": 73.9,
+          "endSec": 73.9,
+          "text": "they"
+        },
+        {
+          "startSec": 73.9,
+          "endSec": 75.2,
+          "text": "complimented"
+        },
+        {
+          "startSec": 75.2,
+          "endSec": 75.6,
+          "text": "each"
+        },
+        {
+          "startSec": 75.6,
+          "endSec": 76.2,
+          "text": "other"
+        },
+        {
+          "startSec": 76.2,
+          "endSec": 76.6,
+          "text": "well"
+        },
+        {
+          "startSec": 76.6,
+          "endSec": 76.8,
+          "text": "in"
+        },
+        {
+          "startSec": 76.8,
+          "endSec": 77.6,
+          "text": "certain"
+        },
+        {
+          "startSec": 77.6,
+          "endSec": 78.3,
+          "text": "ways."
+        },
+        {
+          "startSec": 78.3,
+          "endSec": 78.5,
+          "text": "Or"
+        }
+      ]
     },
     {
       "startSec": 78.3,
       "endSec": 85.8,
-      "text": "Or maybe their situations brought them together for the purpose of completing something important"
+      "text": "Or maybe their situations brought them together for the purpose of completing something important",
+      "words": [
+        {
+          "startSec": 78.3,
+          "endSec": 78.5,
+          "text": "Or"
+        },
+        {
+          "startSec": 78.5,
+          "endSec": 79.2,
+          "text": "maybe"
+        },
+        {
+          "startSec": 79.2,
+          "endSec": 79.3,
+          "text": "their"
+        },
+        {
+          "startSec": 79.3,
+          "endSec": 80.2,
+          "text": "situations"
+        },
+        {
+          "startSec": 80.2,
+          "endSec": 80.7,
+          "text": "brought"
+        },
+        {
+          "startSec": 80.7,
+          "endSec": 81.1,
+          "text": "them"
+        },
+        {
+          "startSec": 81.1,
+          "endSec": 81.8,
+          "text": "together"
+        },
+        {
+          "startSec": 81.8,
+          "endSec": 82,
+          "text": "for"
+        },
+        {
+          "startSec": 82,
+          "endSec": 82.2,
+          "text": "the"
+        },
+        {
+          "startSec": 82.2,
+          "endSec": 82.8,
+          "text": "purpose"
+        },
+        {
+          "startSec": 82.8,
+          "endSec": 83,
+          "text": "of"
+        },
+        {
+          "startSec": 83,
+          "endSec": 83.9,
+          "text": "completing"
+        },
+        {
+          "startSec": 83.9,
+          "endSec": 84.7,
+          "text": "something"
+        },
+        {
+          "startSec": 84.7,
+          "endSec": 85.8,
+          "text": "important"
+        },
+        {
+          "startSec": 85.8,
+          "endSec": 86.7,
+          "text": "or"
+        }
+      ]
     },
     {
       "startSec": 85.8,
       "endSec": 88.4,
-      "text": "or meaningful."
+      "text": "or meaningful.",
+      "words": [
+        {
+          "startSec": 85.8,
+          "endSec": 86.7,
+          "text": "or"
+        },
+        {
+          "startSec": 86.7,
+          "endSec": 88.4,
+          "text": "meaningful."
+        },
+        {
+          "startSec": 88.4,
+          "endSec": 89.2,
+          "text": "But"
+        }
+      ]
     },
     {
       "startSec": 88.4,
       "endSec": 95.7,
-      "text": "But today, we are going to discuss a very special kind of relationship, one that involves"
+      "text": "But today, we are going to discuss a very special kind of relationship, one that involves",
+      "words": [
+        {
+          "startSec": 88.4,
+          "endSec": 89.2,
+          "text": "But"
+        },
+        {
+          "startSec": 89.2,
+          "endSec": 89.4,
+          "text": "today,"
+        },
+        {
+          "startSec": 89.4,
+          "endSec": 89.6,
+          "text": "we"
+        },
+        {
+          "startSec": 89.6,
+          "endSec": 89.9,
+          "text": "are"
+        },
+        {
+          "startSec": 89.9,
+          "endSec": 90.3,
+          "text": "going"
+        },
+        {
+          "startSec": 90.3,
+          "endSec": 90.5,
+          "text": "to"
+        },
+        {
+          "startSec": 90.5,
+          "endSec": 91.2,
+          "text": "discuss"
+        },
+        {
+          "startSec": 91.2,
+          "endSec": 91.3,
+          "text": "a"
+        },
+        {
+          "startSec": 91.3,
+          "endSec": 91.7,
+          "text": "very"
+        },
+        {
+          "startSec": 91.7,
+          "endSec": 92.3,
+          "text": "special"
+        },
+        {
+          "startSec": 92.3,
+          "endSec": 92.7,
+          "text": "kind"
+        },
+        {
+          "startSec": 92.7,
+          "endSec": 92.9,
+          "text": "of"
+        },
+        {
+          "startSec": 92.9,
+          "endSec": 94.3,
+          "text": "relationship,"
+        },
+        {
+          "startSec": 94.3,
+          "endSec": 94.6,
+          "text": "one"
+        },
+        {
+          "startSec": 94.6,
+          "endSec": 95,
+          "text": "that"
+        },
+        {
+          "startSec": 95,
+          "endSec": 95.7,
+          "text": "involves"
+        },
+        {
+          "startSec": 95.7,
+          "endSec": 96.6,
+          "text": "two"
+        }
+      ]
     },
     {
       "startSec": 95.7,
       "endSec": 103.7,
-      "text": "two people who are romantically involved and very successful."
+      "text": "two people who are romantically involved and very successful.",
+      "words": [
+        {
+          "startSec": 95.7,
+          "endSec": 96.6,
+          "text": "two"
+        },
+        {
+          "startSec": 96.6,
+          "endSec": 97,
+          "text": "people"
+        },
+        {
+          "startSec": 97,
+          "endSec": 97.4,
+          "text": "who"
+        },
+        {
+          "startSec": 97.4,
+          "endSec": 97.8,
+          "text": "are"
+        },
+        {
+          "startSec": 97.8,
+          "endSec": 99.6,
+          "text": "romantically"
+        },
+        {
+          "startSec": 99.6,
+          "endSec": 100.7,
+          "text": "involved"
+        },
+        {
+          "startSec": 100.7,
+          "endSec": 101.2,
+          "text": "and"
+        },
+        {
+          "startSec": 101.2,
+          "endSec": 101.8,
+          "text": "very"
+        },
+        {
+          "startSec": 101.8,
+          "endSec": 103.7,
+          "text": "successful."
+        },
+        {
+          "startSec": 103.7,
+          "endSec": 104.6,
+          "text": "People"
+        }
+      ]
     },
     {
       "startSec": 103.7,
       "endSec": 110.4,
-      "text": "People in such relationships can be described as power couples."
+      "text": "People in such relationships can be described as power couples.",
+      "words": [
+        {
+          "startSec": 103.7,
+          "endSec": 104.6,
+          "text": "People"
+        },
+        {
+          "startSec": 104.6,
+          "endSec": 104.7,
+          "text": "in"
+        },
+        {
+          "startSec": 104.7,
+          "endSec": 105.1,
+          "text": "such"
+        },
+        {
+          "startSec": 105.1,
+          "endSec": 106.7,
+          "text": "relationships"
+        },
+        {
+          "startSec": 106.7,
+          "endSec": 107,
+          "text": "can"
+        },
+        {
+          "startSec": 107,
+          "endSec": 107.2,
+          "text": "be"
+        },
+        {
+          "startSec": 107.2,
+          "endSec": 108.3,
+          "text": "described"
+        },
+        {
+          "startSec": 108.3,
+          "endSec": 108.5,
+          "text": "as"
+        },
+        {
+          "startSec": 108.5,
+          "endSec": 109.1,
+          "text": "power"
+        },
+        {
+          "startSec": 109.1,
+          "endSec": 110.4,
+          "text": "couples."
+        },
+        {
+          "startSec": 110.4,
+          "endSec": 111.2,
+          "text": "There"
+        }
+      ]
     },
     {
       "startSec": 110.4,
       "endSec": 119.1,
-      "text": "There are many examples of famous power couples, including successful movie stars, musicians,"
+      "text": "There are many examples of famous power couples, including successful movie stars, musicians,",
+      "words": [
+        {
+          "startSec": 110.4,
+          "endSec": 111.2,
+          "text": "There"
+        },
+        {
+          "startSec": 111.2,
+          "endSec": 111.3,
+          "text": "are"
+        },
+        {
+          "startSec": 111.3,
+          "endSec": 111.6,
+          "text": "many"
+        },
+        {
+          "startSec": 111.6,
+          "endSec": 112.4,
+          "text": "examples"
+        },
+        {
+          "startSec": 112.4,
+          "endSec": 112.6,
+          "text": "of"
+        },
+        {
+          "startSec": 112.6,
+          "endSec": 113.2,
+          "text": "famous"
+        },
+        {
+          "startSec": 113.2,
+          "endSec": 113.8,
+          "text": "power"
+        },
+        {
+          "startSec": 113.8,
+          "endSec": 114.7,
+          "text": "couples,"
+        },
+        {
+          "startSec": 114.7,
+          "endSec": 115.6,
+          "text": "including"
+        },
+        {
+          "startSec": 115.6,
+          "endSec": 116.7,
+          "text": "successful"
+        },
+        {
+          "startSec": 116.7,
+          "endSec": 117.1,
+          "text": "movie"
+        },
+        {
+          "startSec": 117.1,
+          "endSec": 117.9,
+          "text": "stars,"
+        },
+        {
+          "startSec": 117.9,
+          "endSec": 119.1,
+          "text": "musicians,"
+        },
+        {
+          "startSec": 119.1,
+          "endSec": 120,
+          "text": "and"
+        }
+      ]
     },
     {
       "startSec": 119.1,
       "endSec": 122.9,
-      "text": "and others in the performing arts."
+      "text": "and others in the performing arts.",
+      "words": [
+        {
+          "startSec": 119.1,
+          "endSec": 120,
+          "text": "and"
+        },
+        {
+          "startSec": 120,
+          "endSec": 120.2,
+          "text": "others"
+        },
+        {
+          "startSec": 120.2,
+          "endSec": 120.5,
+          "text": "in"
+        },
+        {
+          "startSec": 120.5,
+          "endSec": 120.8,
+          "text": "the"
+        },
+        {
+          "startSec": 120.8,
+          "endSec": 122,
+          "text": "performing"
+        },
+        {
+          "startSec": 122,
+          "endSec": 122.9,
+          "text": "arts."
+        },
+        {
+          "startSec": 122.9,
+          "endSec": 123.8,
+          "text": "But"
+        }
+      ]
     },
     {
       "startSec": 122.9,
       "endSec": 130.5,
-      "text": "But power couples can exist in many other industries and communities as well."
+      "text": "But power couples can exist in many other industries and communities as well.",
+      "words": [
+        {
+          "startSec": 122.9,
+          "endSec": 123.8,
+          "text": "But"
+        },
+        {
+          "startSec": 123.8,
+          "endSec": 123.8,
+          "text": "power"
+        },
+        {
+          "startSec": 123.8,
+          "endSec": 124.6,
+          "text": "couples"
+        },
+        {
+          "startSec": 124.6,
+          "endSec": 125,
+          "text": "can"
+        },
+        {
+          "startSec": 125,
+          "endSec": 125.5,
+          "text": "exist"
+        },
+        {
+          "startSec": 125.5,
+          "endSec": 125.7,
+          "text": "in"
+        },
+        {
+          "startSec": 125.7,
+          "endSec": 126.2,
+          "text": "many"
+        },
+        {
+          "startSec": 126.2,
+          "endSec": 126.7,
+          "text": "other"
+        },
+        {
+          "startSec": 126.7,
+          "endSec": 127.9,
+          "text": "industries"
+        },
+        {
+          "startSec": 127.9,
+          "endSec": 128.2,
+          "text": "and"
+        },
+        {
+          "startSec": 128.2,
+          "endSec": 129.5,
+          "text": "communities"
+        },
+        {
+          "startSec": 129.5,
+          "endSec": 129.7,
+          "text": "as"
+        },
+        {
+          "startSec": 129.7,
+          "endSec": 130.5,
+          "text": "well."
+        },
+        {
+          "startSec": 130.5,
+          "endSec": 131.2,
+          "text": "And"
+        }
+      ]
     },
     {
       "startSec": 130.5,
       "endSec": 136.6,
-      "text": "And the two people do not have to work in the same industry."
+      "text": "And the two people do not have to work in the same industry.",
+      "words": [
+        {
+          "startSec": 130.5,
+          "endSec": 131.2,
+          "text": "And"
+        },
+        {
+          "startSec": 131.2,
+          "endSec": 131.4,
+          "text": "the"
+        },
+        {
+          "startSec": 131.4,
+          "endSec": 131.6,
+          "text": "two"
+        },
+        {
+          "startSec": 131.6,
+          "endSec": 132.3,
+          "text": "people"
+        },
+        {
+          "startSec": 132.3,
+          "endSec": 132.6,
+          "text": "do"
+        },
+        {
+          "startSec": 132.6,
+          "endSec": 132.9,
+          "text": "not"
+        },
+        {
+          "startSec": 132.9,
+          "endSec": 133.4,
+          "text": "have"
+        },
+        {
+          "startSec": 133.4,
+          "endSec": 133.6,
+          "text": "to"
+        },
+        {
+          "startSec": 133.6,
+          "endSec": 134.1,
+          "text": "work"
+        },
+        {
+          "startSec": 134.1,
+          "endSec": 134.4,
+          "text": "in"
+        },
+        {
+          "startSec": 134.4,
+          "endSec": 134.7,
+          "text": "the"
+        },
+        {
+          "startSec": 134.7,
+          "endSec": 135.2,
+          "text": "same"
+        },
+        {
+          "startSec": 135.2,
+          "endSec": 136.6,
+          "text": "industry."
+        },
+        {
+          "startSec": 136.6,
+          "endSec": 136.8,
+          "text": "If"
+        }
+      ]
     },
     {
       "startSec": 136.6,
       "endSec": 142.2,
-      "text": "If they do, however, that can make them even more powerful."
+      "text": "If they do, however, that can make them even more powerful.",
+      "words": [
+        {
+          "startSec": 136.6,
+          "endSec": 136.8,
+          "text": "If"
+        },
+        {
+          "startSec": 136.8,
+          "endSec": 137.4,
+          "text": "they"
+        },
+        {
+          "startSec": 137.4,
+          "endSec": 137.6,
+          "text": "do,"
+        },
+        {
+          "startSec": 137.6,
+          "endSec": 138.6,
+          "text": "however,"
+        },
+        {
+          "startSec": 138.6,
+          "endSec": 139,
+          "text": "that"
+        },
+        {
+          "startSec": 139,
+          "endSec": 139.3,
+          "text": "can"
+        },
+        {
+          "startSec": 139.3,
+          "endSec": 139.7,
+          "text": "make"
+        },
+        {
+          "startSec": 139.7,
+          "endSec": 140.1,
+          "text": "them"
+        },
+        {
+          "startSec": 140.1,
+          "endSec": 140.5,
+          "text": "even"
+        },
+        {
+          "startSec": 140.5,
+          "endSec": 140.9,
+          "text": "more"
+        },
+        {
+          "startSec": 140.9,
+          "endSec": 142.2,
+          "text": "powerful."
+        },
+        {
+          "startSec": 142.2,
+          "endSec": 143,
+          "text": "For"
+        }
+      ]
     },
     {
       "startSec": 142.2,
       "endSec": 149.4,
-      "text": "For example, a well-known architect who builds homes could be partnered with a famous designer"
+      "text": "For example, a well-known architect who builds homes could be partnered with a famous designer",
+      "words": [
+        {
+          "startSec": 142.2,
+          "endSec": 143,
+          "text": "For"
+        },
+        {
+          "startSec": 143,
+          "endSec": 143.2,
+          "text": "example,"
+        },
+        {
+          "startSec": 143.2,
+          "endSec": 143.3,
+          "text": "a"
+        },
+        {
+          "startSec": 143.3,
+          "endSec": 144.2,
+          "text": "well-known"
+        },
+        {
+          "startSec": 144.2,
+          "endSec": 145,
+          "text": "architect"
+        },
+        {
+          "startSec": 145,
+          "endSec": 145.2,
+          "text": "who"
+        },
+        {
+          "startSec": 145.2,
+          "endSec": 145.8,
+          "text": "builds"
+        },
+        {
+          "startSec": 145.8,
+          "endSec": 146.2,
+          "text": "homes"
+        },
+        {
+          "startSec": 146.2,
+          "endSec": 146.6,
+          "text": "could"
+        },
+        {
+          "startSec": 146.6,
+          "endSec": 146.8,
+          "text": "be"
+        },
+        {
+          "startSec": 146.8,
+          "endSec": 147.6,
+          "text": "partnered"
+        },
+        {
+          "startSec": 147.6,
+          "endSec": 148,
+          "text": "with"
+        },
+        {
+          "startSec": 148,
+          "endSec": 148.1,
+          "text": "a"
+        },
+        {
+          "startSec": 148.1,
+          "endSec": 148.6,
+          "text": "famous"
+        },
+        {
+          "startSec": 148.6,
+          "endSec": 149.4,
+          "text": "designer"
+        },
+        {
+          "startSec": 149.4,
+          "endSec": 150.3,
+          "text": "who"
+        }
+      ]
     },
     {
       "startSec": 149.4,
       "endSec": 152.4,
-      "text": "who decorates them."
+      "text": "who decorates them.",
+      "words": [
+        {
+          "startSec": 149.4,
+          "endSec": 150.3,
+          "text": "who"
+        },
+        {
+          "startSec": 150.3,
+          "endSec": 151.3,
+          "text": "decorates"
+        },
+        {
+          "startSec": 151.3,
+          "endSec": 152.4,
+          "text": "them."
+        },
+        {
+          "startSec": 152.4,
+          "endSec": 153.1,
+          "text": "Or"
+        }
+      ]
     },
     {
       "startSec": 152.4,
       "endSec": 162.9,
-      "text": "Or one person in a power couple may be a music producer, while the other is a famous singer."
+      "text": "Or one person in a power couple may be a music producer, while the other is a famous singer.",
+      "words": [
+        {
+          "startSec": 152.4,
+          "endSec": 153.1,
+          "text": "Or"
+        },
+        {
+          "startSec": 153.1,
+          "endSec": 153.3,
+          "text": "one"
+        },
+        {
+          "startSec": 153.3,
+          "endSec": 153.9,
+          "text": "person"
+        },
+        {
+          "startSec": 153.9,
+          "endSec": 154.2,
+          "text": "in"
+        },
+        {
+          "startSec": 154.2,
+          "endSec": 154.3,
+          "text": "a"
+        },
+        {
+          "startSec": 154.3,
+          "endSec": 155,
+          "text": "power"
+        },
+        {
+          "startSec": 155,
+          "endSec": 155.8,
+          "text": "couple"
+        },
+        {
+          "startSec": 155.8,
+          "endSec": 156.2,
+          "text": "may"
+        },
+        {
+          "startSec": 156.2,
+          "endSec": 156.5,
+          "text": "be"
+        },
+        {
+          "startSec": 156.5,
+          "endSec": 156.6,
+          "text": "a"
+        },
+        {
+          "startSec": 156.6,
+          "endSec": 157.3,
+          "text": "music"
+        },
+        {
+          "startSec": 157.3,
+          "endSec": 158.8,
+          "text": "producer,"
+        },
+        {
+          "startSec": 158.8,
+          "endSec": 159.3,
+          "text": "while"
+        },
+        {
+          "startSec": 159.3,
+          "endSec": 159.7,
+          "text": "the"
+        },
+        {
+          "startSec": 159.7,
+          "endSec": 160.4,
+          "text": "other"
+        },
+        {
+          "startSec": 160.4,
+          "endSec": 160.7,
+          "text": "is"
+        },
+        {
+          "startSec": 160.7,
+          "endSec": 161.2,
+          "text": "a"
+        },
+        {
+          "startSec": 161.2,
+          "endSec": 161.6,
+          "text": "famous"
+        },
+        {
+          "startSec": 161.6,
+          "endSec": 162.9,
+          "text": "singer."
+        },
+        {
+          "startSec": 162.9,
+          "endSec": 163.8,
+          "text": "Even"
+        }
+      ]
     },
     {
       "startSec": 162.9,
       "endSec": 170.5,
-      "text": "Even though power couples involve highly successful people, one person could describe their partner"
+      "text": "Even though power couples involve highly successful people, one person could describe their partner",
+      "words": [
+        {
+          "startSec": 162.9,
+          "endSec": 163.8,
+          "text": "Even"
+        },
+        {
+          "startSec": 163.8,
+          "endSec": 163.8,
+          "text": "though"
+        },
+        {
+          "startSec": 163.8,
+          "endSec": 164.2,
+          "text": "power"
+        },
+        {
+          "startSec": 164.2,
+          "endSec": 164.8,
+          "text": "couples"
+        },
+        {
+          "startSec": 164.8,
+          "endSec": 165.4,
+          "text": "involve"
+        },
+        {
+          "startSec": 165.4,
+          "endSec": 165.9,
+          "text": "highly"
+        },
+        {
+          "startSec": 165.9,
+          "endSec": 166.7,
+          "text": "successful"
+        },
+        {
+          "startSec": 166.7,
+          "endSec": 167.4,
+          "text": "people,"
+        },
+        {
+          "startSec": 167.4,
+          "endSec": 167.7,
+          "text": "one"
+        },
+        {
+          "startSec": 167.7,
+          "endSec": 168.2,
+          "text": "person"
+        },
+        {
+          "startSec": 168.2,
+          "endSec": 168.6,
+          "text": "could"
+        },
+        {
+          "startSec": 168.6,
+          "endSec": 169.3,
+          "text": "describe"
+        },
+        {
+          "startSec": 169.3,
+          "endSec": 169.5,
+          "text": "their"
+        },
+        {
+          "startSec": 169.5,
+          "endSec": 170.5,
+          "text": "partner"
+        },
+        {
+          "startSec": 170.5,
+          "endSec": 171.4,
+          "text": "as"
+        }
+      ]
     },
     {
       "startSec": 170.5,
       "endSec": 173.4,
-      "text": "as their better half."
+      "text": "as their better half.",
+      "words": [
+        {
+          "startSec": 170.5,
+          "endSec": 171.4,
+          "text": "as"
+        },
+        {
+          "startSec": 171.4,
+          "endSec": 171.5,
+          "text": "their"
+        },
+        {
+          "startSec": 171.5,
+          "endSec": 172.4,
+          "text": "better"
+        },
+        {
+          "startSec": 172.4,
+          "endSec": 173.4,
+          "text": "half."
+        },
+        {
+          "startSec": 173.4,
+          "endSec": 173.8,
+          "text": "This"
+        }
+      ]
     },
     {
       "startSec": 173.4,
       "endSec": 179,
-      "text": "This is a way to complement their other half in the relationship."
+      "text": "This is a way to complement their other half in the relationship.",
+      "words": [
+        {
+          "startSec": 173.4,
+          "endSec": 173.8,
+          "text": "This"
+        },
+        {
+          "startSec": 173.8,
+          "endSec": 174.1,
+          "text": "is"
+        },
+        {
+          "startSec": 174.1,
+          "endSec": 174.3,
+          "text": "a"
+        },
+        {
+          "startSec": 174.3,
+          "endSec": 174.4,
+          "text": "way"
+        },
+        {
+          "startSec": 174.4,
+          "endSec": 174.6,
+          "text": "to"
+        },
+        {
+          "startSec": 174.6,
+          "endSec": 175.6,
+          "text": "complement"
+        },
+        {
+          "startSec": 175.6,
+          "endSec": 176.1,
+          "text": "their"
+        },
+        {
+          "startSec": 176.1,
+          "endSec": 176.6,
+          "text": "other"
+        },
+        {
+          "startSec": 176.6,
+          "endSec": 177,
+          "text": "half"
+        },
+        {
+          "startSec": 177,
+          "endSec": 177.2,
+          "text": "in"
+        },
+        {
+          "startSec": 177.2,
+          "endSec": 177.5,
+          "text": "the"
+        },
+        {
+          "startSec": 177.5,
+          "endSec": 179,
+          "text": "relationship."
+        },
+        {
+          "startSec": 179,
+          "endSec": 179.8,
+          "text": "For"
+        }
+      ]
     },
     {
       "startSec": 179,
       "endSec": 184.9,
-      "text": "For example, one might say during a meeting with a friend, \"Hello, how are you?\""
+      "text": "For example, one might say during a meeting with a friend, \"Hello, how are you?\"",
+      "words": [
+        {
+          "startSec": 179,
+          "endSec": 179.8,
+          "text": "For"
+        },
+        {
+          "startSec": 179.8,
+          "endSec": 179.9,
+          "text": "example,"
+        },
+        {
+          "startSec": 179.9,
+          "endSec": 180.2,
+          "text": "one"
+        },
+        {
+          "startSec": 180.2,
+          "endSec": 180.5,
+          "text": "might"
+        },
+        {
+          "startSec": 180.5,
+          "endSec": 180.8,
+          "text": "say"
+        },
+        {
+          "startSec": 180.8,
+          "endSec": 181.2,
+          "text": "during"
+        },
+        {
+          "startSec": 181.2,
+          "endSec": 181.3,
+          "text": "a"
+        },
+        {
+          "startSec": 181.3,
+          "endSec": 181.9,
+          "text": "meeting"
+        },
+        {
+          "startSec": 181.9,
+          "endSec": 182.2,
+          "text": "with"
+        },
+        {
+          "startSec": 182.2,
+          "endSec": 182.2,
+          "text": "a"
+        },
+        {
+          "startSec": 182.2,
+          "endSec": 182.9,
+          "text": "friend,"
+        },
+        {
+          "startSec": 182.9,
+          "endSec": 183.7,
+          "text": "\"Hello,"
+        },
+        {
+          "startSec": 183.7,
+          "endSec": 183.9,
+          "text": "how"
+        },
+        {
+          "startSec": 183.9,
+          "endSec": 184.2,
+          "text": "are"
+        },
+        {
+          "startSec": 184.2,
+          "endSec": 184.9,
+          "text": "you?\""
+        },
+        {
+          "startSec": 184.9,
+          "endSec": 185.1,
+          "text": "And"
+        }
+      ]
     },
     {
       "startSec": 184.9,
       "endSec": 188.6,
-      "text": "And more importantly, \"How is your better half?\""
+      "text": "And more importantly, \"How is your better half?\"",
+      "words": [
+        {
+          "startSec": 184.9,
+          "endSec": 185.1,
+          "text": "And"
+        },
+        {
+          "startSec": 185.1,
+          "endSec": 185.8,
+          "text": "more"
+        },
+        {
+          "startSec": 185.8,
+          "endSec": 186.5,
+          "text": "importantly,"
+        },
+        {
+          "startSec": 186.5,
+          "endSec": 186.9,
+          "text": "\"How"
+        },
+        {
+          "startSec": 186.9,
+          "endSec": 187,
+          "text": "is"
+        },
+        {
+          "startSec": 187,
+          "endSec": 187.4,
+          "text": "your"
+        },
+        {
+          "startSec": 187.4,
+          "endSec": 187.8,
+          "text": "better"
+        },
+        {
+          "startSec": 187.8,
+          "endSec": 188.6,
+          "text": "half?\""
+        },
+        {
+          "startSec": 188.6,
+          "endSec": 189.4,
+          "text": "Now,"
+        }
+      ]
     },
     {
       "startSec": 188.6,
       "endSec": 193.8,
-      "text": "Now, let's hear two friends use some of these expressions."
+      "text": "Now, let's hear two friends use some of these expressions.",
+      "words": [
+        {
+          "startSec": 188.6,
+          "endSec": 189.4,
+          "text": "Now,"
+        },
+        {
+          "startSec": 189.4,
+          "endSec": 189.5,
+          "text": "let's"
+        },
+        {
+          "startSec": 189.5,
+          "endSec": 189.9,
+          "text": "hear"
+        },
+        {
+          "startSec": 189.9,
+          "endSec": 190.2,
+          "text": "two"
+        },
+        {
+          "startSec": 190.2,
+          "endSec": 190.9,
+          "text": "friends"
+        },
+        {
+          "startSec": 190.9,
+          "endSec": 191.2,
+          "text": "use"
+        },
+        {
+          "startSec": 191.2,
+          "endSec": 191.6,
+          "text": "some"
+        },
+        {
+          "startSec": 191.6,
+          "endSec": 191.8,
+          "text": "of"
+        },
+        {
+          "startSec": 191.8,
+          "endSec": 192.3,
+          "text": "these"
+        },
+        {
+          "startSec": 192.3,
+          "endSec": 193.8,
+          "text": "expressions."
+        },
+        {
+          "startSec": 193.8,
+          "endSec": 194.6,
+          "text": "Oh,"
+        }
+      ]
     },
     {
       "startSec": 193.8,
       "endSec": 198.2,
-      "text": "Oh, hey, I'm not used to seeing you alone."
+      "text": "Oh, hey, I'm not used to seeing you alone.",
+      "words": [
+        {
+          "startSec": 193.8,
+          "endSec": 194.6,
+          "text": "Oh,"
+        },
+        {
+          "startSec": 194.6,
+          "endSec": 194.8,
+          "text": "hey,"
+        },
+        {
+          "startSec": 194.8,
+          "endSec": 195.1,
+          "text": "I'm"
+        },
+        {
+          "startSec": 195.1,
+          "endSec": 195.5,
+          "text": "not"
+        },
+        {
+          "startSec": 195.5,
+          "endSec": 196,
+          "text": "used"
+        },
+        {
+          "startSec": 196,
+          "endSec": 196.2,
+          "text": "to"
+        },
+        {
+          "startSec": 196.2,
+          "endSec": 196.9,
+          "text": "seeing"
+        },
+        {
+          "startSec": 196.9,
+          "endSec": 197.2,
+          "text": "you"
+        },
+        {
+          "startSec": 197.2,
+          "endSec": 198.2,
+          "text": "alone."
+        },
+        {
+          "startSec": 198.2,
+          "endSec": 199.1,
+          "text": "Where's"
+        }
+      ]
     },
     {
       "startSec": 198.2,
       "endSec": 200.1,
-      "text": "Where's your sidekick?"
+      "text": "Where's your sidekick?",
+      "words": [
+        {
+          "startSec": 198.2,
+          "endSec": 199.1,
+          "text": "Where's"
+        },
+        {
+          "startSec": 199.1,
+          "endSec": 199.2,
+          "text": "your"
+        },
+        {
+          "startSec": 199.2,
+          "endSec": 200.1,
+          "text": "sidekick?"
+        },
+        {
+          "startSec": 200.1,
+          "endSec": 201.1,
+          "text": "Huh?"
+        }
+      ]
     },
     {
       "startSec": 200.1,
       "endSec": 201.1,
-      "text": "Huh?"
+      "text": "Huh?",
+      "words": [
+        {
+          "startSec": 200.1,
+          "endSec": 201.1,
+          "text": "Huh?"
+        },
+        {
+          "startSec": 201.1,
+          "endSec": 201.8,
+          "text": "Who"
+        }
+      ]
     },
     {
       "startSec": 201.1,
       "endSec": 203.9,
-      "text": "Who are you talking about?"
+      "text": "Who are you talking about?",
+      "words": [
+        {
+          "startSec": 201.1,
+          "endSec": 201.8,
+          "text": "Who"
+        },
+        {
+          "startSec": 201.8,
+          "endSec": 202,
+          "text": "are"
+        },
+        {
+          "startSec": 202,
+          "endSec": 202.1,
+          "text": "you"
+        },
+        {
+          "startSec": 202.1,
+          "endSec": 202.9,
+          "text": "talking"
+        },
+        {
+          "startSec": 202.9,
+          "endSec": 203.9,
+          "text": "about?"
+        },
+        {
+          "startSec": 203.9,
+          "endSec": 204.7,
+          "text": "Ben,"
+        }
+      ]
     },
     {
       "startSec": 203.9,
       "endSec": 208.8,
-      "text": "Ben, you guys have been joined at the hip for weeks."
+      "text": "Ben, you guys have been joined at the hip for weeks.",
+      "words": [
+        {
+          "startSec": 203.9,
+          "endSec": 204.7,
+          "text": "Ben,"
+        },
+        {
+          "startSec": 204.7,
+          "endSec": 204.8,
+          "text": "you"
+        },
+        {
+          "startSec": 204.8,
+          "endSec": 205.2,
+          "text": "guys"
+        },
+        {
+          "startSec": 205.2,
+          "endSec": 205.6,
+          "text": "have"
+        },
+        {
+          "startSec": 205.6,
+          "endSec": 206,
+          "text": "been"
+        },
+        {
+          "startSec": 206,
+          "endSec": 206.7,
+          "text": "joined"
+        },
+        {
+          "startSec": 206.7,
+          "endSec": 206.9,
+          "text": "at"
+        },
+        {
+          "startSec": 206.9,
+          "endSec": 207.2,
+          "text": "the"
+        },
+        {
+          "startSec": 207.2,
+          "endSec": 207.5,
+          "text": "hip"
+        },
+        {
+          "startSec": 207.5,
+          "endSec": 207.8,
+          "text": "for"
+        },
+        {
+          "startSec": 207.8,
+          "endSec": 208.8,
+          "text": "weeks."
+        },
+        {
+          "startSec": 208.8,
+          "endSec": 209.1,
+          "text": "Looks"
+        }
+      ]
     },
     {
       "startSec": 208.8,
       "endSec": 210.8,
-      "text": "Looks like you're thick as thieves."
+      "text": "Looks like you're thick as thieves.",
+      "words": [
+        {
+          "startSec": 208.8,
+          "endSec": 209.1,
+          "text": "Looks"
+        },
+        {
+          "startSec": 209.1,
+          "endSec": 209.5,
+          "text": "like"
+        },
+        {
+          "startSec": 209.5,
+          "endSec": 209.7,
+          "text": "you're"
+        },
+        {
+          "startSec": 209.7,
+          "endSec": 210,
+          "text": "thick"
+        },
+        {
+          "startSec": 210,
+          "endSec": 210.1,
+          "text": "as"
+        },
+        {
+          "startSec": 210.1,
+          "endSec": 210.8,
+          "text": "thieves."
+        },
+        {
+          "startSec": 210.8,
+          "endSec": 211.6,
+          "text": "Well,"
+        }
+      ]
     },
     {
       "startSec": 210.8,
       "endSec": 218.4,
-      "text": "Well, the project is pretty important for the company, so we're putting in a lot of hours."
+      "text": "Well, the project is pretty important for the company, so we're putting in a lot of hours.",
+      "words": [
+        {
+          "startSec": 210.8,
+          "endSec": 211.6,
+          "text": "Well,"
+        },
+        {
+          "startSec": 211.6,
+          "endSec": 211.7,
+          "text": "the"
+        },
+        {
+          "startSec": 211.7,
+          "endSec": 212.2,
+          "text": "project"
+        },
+        {
+          "startSec": 212.2,
+          "endSec": 212.4,
+          "text": "is"
+        },
+        {
+          "startSec": 212.4,
+          "endSec": 212.9,
+          "text": "pretty"
+        },
+        {
+          "startSec": 212.9,
+          "endSec": 213.7,
+          "text": "important"
+        },
+        {
+          "startSec": 213.7,
+          "endSec": 214,
+          "text": "for"
+        },
+        {
+          "startSec": 214,
+          "endSec": 214.3,
+          "text": "the"
+        },
+        {
+          "startSec": 214.3,
+          "endSec": 215.1,
+          "text": "company,"
+        },
+        {
+          "startSec": 215.1,
+          "endSec": 215.3,
+          "text": "so"
+        },
+        {
+          "startSec": 215.3,
+          "endSec": 215.7,
+          "text": "we're"
+        },
+        {
+          "startSec": 215.7,
+          "endSec": 216.3,
+          "text": "putting"
+        },
+        {
+          "startSec": 216.3,
+          "endSec": 216.5,
+          "text": "in"
+        },
+        {
+          "startSec": 216.5,
+          "endSec": 216.6,
+          "text": "a"
+        },
+        {
+          "startSec": 216.6,
+          "endSec": 216.9,
+          "text": "lot"
+        },
+        {
+          "startSec": 216.9,
+          "endSec": 217.1,
+          "text": "of"
+        },
+        {
+          "startSec": 217.1,
+          "endSec": 218.4,
+          "text": "hours."
+        },
+        {
+          "startSec": 218.4,
+          "endSec": 218.7,
+          "text": "Are"
+        }
+      ]
     },
     {
       "startSec": 218.4,
       "endSec": 222.6,
-      "text": "Are you becoming kindred spirits from working so much together?"
+      "text": "Are you becoming kindred spirits from working so much together?",
+      "words": [
+        {
+          "startSec": 218.4,
+          "endSec": 218.7,
+          "text": "Are"
+        },
+        {
+          "startSec": 218.7,
+          "endSec": 219.3,
+          "text": "you"
+        },
+        {
+          "startSec": 219.3,
+          "endSec": 219.5,
+          "text": "becoming"
+        },
+        {
+          "startSec": 219.5,
+          "endSec": 220,
+          "text": "kindred"
+        },
+        {
+          "startSec": 220,
+          "endSec": 220.5,
+          "text": "spirits"
+        },
+        {
+          "startSec": 220.5,
+          "endSec": 220.8,
+          "text": "from"
+        },
+        {
+          "startSec": 220.8,
+          "endSec": 221.3,
+          "text": "working"
+        },
+        {
+          "startSec": 221.3,
+          "endSec": 221.4,
+          "text": "so"
+        },
+        {
+          "startSec": 221.4,
+          "endSec": 221.7,
+          "text": "much"
+        },
+        {
+          "startSec": 221.7,
+          "endSec": 222.6,
+          "text": "together?"
+        },
+        {
+          "startSec": 222.6,
+          "endSec": 223,
+          "text": "No,"
+        }
+      ]
     },
     {
       "startSec": 222.6,
       "endSec": 226.7,
-      "text": "No, it's just keeping us both very busy."
+      "text": "No, it's just keeping us both very busy.",
+      "words": [
+        {
+          "startSec": 222.6,
+          "endSec": 223,
+          "text": "No,"
+        },
+        {
+          "startSec": 223,
+          "endSec": 223.5,
+          "text": "it's"
+        },
+        {
+          "startSec": 223.5,
+          "endSec": 223.9,
+          "text": "just"
+        },
+        {
+          "startSec": 223.9,
+          "endSec": 224.7,
+          "text": "keeping"
+        },
+        {
+          "startSec": 224.7,
+          "endSec": 224.9,
+          "text": "us"
+        },
+        {
+          "startSec": 224.9,
+          "endSec": 225.4,
+          "text": "both"
+        },
+        {
+          "startSec": 225.4,
+          "endSec": 225.8,
+          "text": "very"
+        },
+        {
+          "startSec": 225.8,
+          "endSec": 226.7,
+          "text": "busy."
+        },
+        {
+          "startSec": 226.7,
+          "endSec": 227.6,
+          "text": "Busy"
+        }
+      ]
     },
     {
       "startSec": 226.7,
       "endSec": 231.1,
-      "text": "Busy trying to become the new power couple in the office?"
+      "text": "Busy trying to become the new power couple in the office?",
+      "words": [
+        {
+          "startSec": 226.7,
+          "endSec": 227.6,
+          "text": "Busy"
+        },
+        {
+          "startSec": 227.6,
+          "endSec": 227.6,
+          "text": "trying"
+        },
+        {
+          "startSec": 227.6,
+          "endSec": 227.7,
+          "text": "to"
+        },
+        {
+          "startSec": 227.7,
+          "endSec": 228.3,
+          "text": "become"
+        },
+        {
+          "startSec": 228.3,
+          "endSec": 228.5,
+          "text": "the"
+        },
+        {
+          "startSec": 228.5,
+          "endSec": 228.8,
+          "text": "new"
+        },
+        {
+          "startSec": 228.8,
+          "endSec": 229.2,
+          "text": "power"
+        },
+        {
+          "startSec": 229.2,
+          "endSec": 229.8,
+          "text": "couple"
+        },
+        {
+          "startSec": 229.8,
+          "endSec": 229.9,
+          "text": "in"
+        },
+        {
+          "startSec": 229.9,
+          "endSec": 230.2,
+          "text": "the"
+        },
+        {
+          "startSec": 230.2,
+          "endSec": 231.1,
+          "text": "office?"
+        },
+        {
+          "startSec": 231.1,
+          "endSec": 231.8,
+          "text": "What"
+        }
+      ]
     },
     {
       "startSec": 231.1,
       "endSec": 233.7,
-      "text": "What are you talking about?"
+      "text": "What are you talking about?",
+      "words": [
+        {
+          "startSec": 231.1,
+          "endSec": 231.8,
+          "text": "What"
+        },
+        {
+          "startSec": 231.8,
+          "endSec": 232,
+          "text": "are"
+        },
+        {
+          "startSec": 232,
+          "endSec": 232.1,
+          "text": "you"
+        },
+        {
+          "startSec": 232.1,
+          "endSec": 232.8,
+          "text": "talking"
+        },
+        {
+          "startSec": 232.8,
+          "endSec": 233.7,
+          "text": "about?"
+        },
+        {
+          "startSec": 233.7,
+          "endSec": 234.6,
+          "text": "We're"
+        }
+      ]
     },
     {
       "startSec": 233.7,
       "endSec": 243.2,
-      "text": "We're not thick as thieves, or kindred spirits, and we're definitely not a power couple."
+      "text": "We're not thick as thieves, or kindred spirits, and we're definitely not a power couple.",
+      "words": [
+        {
+          "startSec": 233.7,
+          "endSec": 234.6,
+          "text": "We're"
+        },
+        {
+          "startSec": 234.6,
+          "endSec": 234.6,
+          "text": "not"
+        },
+        {
+          "startSec": 234.6,
+          "endSec": 235.3,
+          "text": "thick"
+        },
+        {
+          "startSec": 235.3,
+          "endSec": 235.5,
+          "text": "as"
+        },
+        {
+          "startSec": 235.5,
+          "endSec": 236.6,
+          "text": "thieves,"
+        },
+        {
+          "startSec": 236.6,
+          "endSec": 236.8,
+          "text": "or"
+        },
+        {
+          "startSec": 236.8,
+          "endSec": 237.7,
+          "text": "kindred"
+        },
+        {
+          "startSec": 237.7,
+          "endSec": 238.8,
+          "text": "spirits,"
+        },
+        {
+          "startSec": 238.8,
+          "endSec": 239.1,
+          "text": "and"
+        },
+        {
+          "startSec": 239.1,
+          "endSec": 239.7,
+          "text": "we're"
+        },
+        {
+          "startSec": 239.7,
+          "endSec": 240.9,
+          "text": "definitely"
+        },
+        {
+          "startSec": 240.9,
+          "endSec": 241.3,
+          "text": "not"
+        },
+        {
+          "startSec": 241.3,
+          "endSec": 241.4,
+          "text": "a"
+        },
+        {
+          "startSec": 241.4,
+          "endSec": 242.4,
+          "text": "power"
+        },
+        {
+          "startSec": 242.4,
+          "endSec": 243.2,
+          "text": "couple."
+        },
+        {
+          "startSec": 243.2,
+          "endSec": 243.4,
+          "text": "We"
+        }
+      ]
     },
     {
       "startSec": 243.2,
       "endSec": 246.6,
-      "text": "We are just working hard on the same project."
+      "text": "We are just working hard on the same project.",
+      "words": [
+        {
+          "startSec": 243.2,
+          "endSec": 243.4,
+          "text": "We"
+        },
+        {
+          "startSec": 243.4,
+          "endSec": 244,
+          "text": "are"
+        },
+        {
+          "startSec": 244,
+          "endSec": 244.1,
+          "text": "just"
+        },
+        {
+          "startSec": 244.1,
+          "endSec": 244.6,
+          "text": "working"
+        },
+        {
+          "startSec": 244.6,
+          "endSec": 244.9,
+          "text": "hard"
+        },
+        {
+          "startSec": 244.9,
+          "endSec": 245.1,
+          "text": "on"
+        },
+        {
+          "startSec": 245.1,
+          "endSec": 245.3,
+          "text": "the"
+        },
+        {
+          "startSec": 245.3,
+          "endSec": 245.7,
+          "text": "same"
+        },
+        {
+          "startSec": 245.7,
+          "endSec": 246.6,
+          "text": "project."
+        }
+      ]
     },
     {
       "startSec": 248.8,
       "endSec": 252.8,
-      "text": "And that's all the time we have for this words and their stories."
+      "text": "And that's all the time we have for this words and their stories.",
+      "words": [
+        {
+          "startSec": 248.8,
+          "endSec": 248.8,
+          "text": "And"
+        },
+        {
+          "startSec": 248.8,
+          "endSec": 248.8,
+          "text": "that's"
+        },
+        {
+          "startSec": 248.8,
+          "endSec": 248.8,
+          "text": "all"
+        },
+        {
+          "startSec": 248.8,
+          "endSec": 248.8,
+          "text": "the"
+        },
+        {
+          "startSec": 248.8,
+          "endSec": 248.8,
+          "text": "time"
+        },
+        {
+          "startSec": 248.8,
+          "endSec": 248.9,
+          "text": "we"
+        },
+        {
+          "startSec": 248.9,
+          "endSec": 249.7,
+          "text": "have"
+        },
+        {
+          "startSec": 249.7,
+          "endSec": 249.7,
+          "text": "for"
+        },
+        {
+          "startSec": 249.7,
+          "endSec": 250.2,
+          "text": "this"
+        },
+        {
+          "startSec": 250.2,
+          "endSec": 250.7,
+          "text": "words"
+        },
+        {
+          "startSec": 250.7,
+          "endSec": 251.1,
+          "text": "and"
+        },
+        {
+          "startSec": 251.1,
+          "endSec": 251.6,
+          "text": "their"
+        },
+        {
+          "startSec": 251.6,
+          "endSec": 252.8,
+          "text": "stories."
+        },
+        {
+          "startSec": 252.8,
+          "endSec": 253.5,
+          "text": "Until"
+        }
+      ]
     },
     {
       "startSec": 252.8,
       "endSec": 255.3,
-      "text": "Until next time, I'm Anna Mateo."
+      "text": "Until next time, I'm Anna Mateo.",
+      "words": [
+        {
+          "startSec": 252.8,
+          "endSec": 253.5,
+          "text": "Until"
+        },
+        {
+          "startSec": 253.5,
+          "endSec": 253.7,
+          "text": "next"
+        },
+        {
+          "startSec": 253.7,
+          "endSec": 254,
+          "text": "time,"
+        },
+        {
+          "startSec": 254,
+          "endSec": 254.3,
+          "text": "I'm"
+        },
+        {
+          "startSec": 254.3,
+          "endSec": 254.6,
+          "text": "Anna"
+        },
+        {
+          "startSec": 254.6,
+          "endSec": 255.3,
+          "text": "Mateo."
+        }
+      ]
     }
   ],
   "cefr": "B2",

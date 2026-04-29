@@ -9,337 +9,3296 @@
     {
       "startSec": 0,
       "endSec": 2.6,
-      "text": "(upbeat music)"
+      "text": "(upbeat music)",
+      "words": [
+        {
+          "startSec": 0,
+          "endSec": 1.4,
+          "text": "(upbeat"
+        },
+        {
+          "startSec": 1.4,
+          "endSec": 2.6,
+          "text": "music)"
+        },
+        {
+          "startSec": 2.6,
+          "endSec": 4,
+          "text": "Now,"
+        }
+      ]
     },
     {
       "startSec": 2.6,
       "endSec": 12.2,
-      "text": "Now, the VOA Learning English Program,"
+      "text": "Now, the VOA Learning English Program,",
+      "words": [
+        {
+          "startSec": 2.6,
+          "endSec": 4,
+          "text": "Now,"
+        },
+        {
+          "startSec": 4,
+          "endSec": 4.9,
+          "text": "the"
+        },
+        {
+          "startSec": 4.9,
+          "endSec": 5.8,
+          "text": "VOA"
+        },
+        {
+          "startSec": 5.8,
+          "endSec": 8.1,
+          "text": "Learning"
+        },
+        {
+          "startSec": 8.1,
+          "endSec": 10.1,
+          "text": "English"
+        },
+        {
+          "startSec": 10.1,
+          "endSec": 12.2,
+          "text": "Program,"
+        },
+        {
+          "startSec": 12.2,
+          "endSec": 12.9,
+          "text": "Words"
+        }
+      ]
     },
     {
       "startSec": 12.2,
       "endSec": 14.2,
-      "text": "Words and Their Stories."
+      "text": "Words and Their Stories.",
+      "words": [
+        {
+          "startSec": 12.2,
+          "endSec": 12.9,
+          "text": "Words"
+        },
+        {
+          "startSec": 12.9,
+          "endSec": 13.1,
+          "text": "and"
+        },
+        {
+          "startSec": 13.1,
+          "endSec": 13.3,
+          "text": "Their"
+        },
+        {
+          "startSec": 13.3,
+          "endSec": 14.2,
+          "text": "Stories."
+        },
+        {
+          "startSec": 14.2,
+          "endSec": 16.5,
+          "text": "(whistling)"
+        }
+      ]
     },
     {
       "startSec": 14.2,
       "endSec": 16.5,
-      "text": "(whistling)"
+      "text": "(whistling)",
+      "words": [
+        {
+          "startSec": 14.2,
+          "endSec": 16.5,
+          "text": "(whistling)"
+        },
+        {
+          "startSec": 16.5,
+          "endSec": 17.5,
+          "text": "Today,"
+        }
+      ]
     },
     {
       "startSec": 16.5,
       "endSec": 22.5,
-      "text": "Today, we talk about a color found all throughout nature."
+      "text": "Today, we talk about a color found all throughout nature.",
+      "words": [
+        {
+          "startSec": 16.5,
+          "endSec": 17.5,
+          "text": "Today,"
+        },
+        {
+          "startSec": 17.5,
+          "endSec": 17.7,
+          "text": "we"
+        },
+        {
+          "startSec": 17.7,
+          "endSec": 18.3,
+          "text": "talk"
+        },
+        {
+          "startSec": 18.3,
+          "endSec": 18.9,
+          "text": "about"
+        },
+        {
+          "startSec": 18.9,
+          "endSec": 19.1,
+          "text": "a"
+        },
+        {
+          "startSec": 19.1,
+          "endSec": 19.8,
+          "text": "color"
+        },
+        {
+          "startSec": 19.8,
+          "endSec": 20.4,
+          "text": "found"
+        },
+        {
+          "startSec": 20.4,
+          "endSec": 20.7,
+          "text": "all"
+        },
+        {
+          "startSec": 20.7,
+          "endSec": 21.6,
+          "text": "throughout"
+        },
+        {
+          "startSec": 21.6,
+          "endSec": 22.5,
+          "text": "nature."
+        },
+        {
+          "startSec": 22.5,
+          "endSec": 23.4,
+          "text": "Green."
+        }
+      ]
     },
     {
       "startSec": 22.5,
       "endSec": 23.4,
-      "text": "Green."
+      "text": "Green.",
+      "words": [
+        {
+          "startSec": 22.5,
+          "endSec": 23.4,
+          "text": "Green."
+        },
+        {
+          "startSec": 23.4,
+          "endSec": 24.2,
+          "text": "Green"
+        }
+      ]
     },
     {
       "startSec": 23.4,
       "endSec": 28.1,
-      "text": "Green is also very common in American English."
+      "text": "Green is also very common in American English.",
+      "words": [
+        {
+          "startSec": 23.4,
+          "endSec": 24.2,
+          "text": "Green"
+        },
+        {
+          "startSec": 24.2,
+          "endSec": 24.3,
+          "text": "is"
+        },
+        {
+          "startSec": 24.3,
+          "endSec": 24.6,
+          "text": "also"
+        },
+        {
+          "startSec": 24.6,
+          "endSec": 25.1,
+          "text": "very"
+        },
+        {
+          "startSec": 25.1,
+          "endSec": 25.8,
+          "text": "common"
+        },
+        {
+          "startSec": 25.8,
+          "endSec": 26,
+          "text": "in"
+        },
+        {
+          "startSec": 26,
+          "endSec": 26.9,
+          "text": "American"
+        },
+        {
+          "startSec": 26.9,
+          "endSec": 28.1,
+          "text": "English."
+        }
+      ]
     },
     {
       "startSec": 29.1,
       "endSec": 31.9,
-      "text": "Let's hear Warren Sheer read a story"
+      "text": "Let's hear Warren Sheer read a story",
+      "words": [
+        {
+          "startSec": 29.1,
+          "endSec": 29.8,
+          "text": "Let's"
+        },
+        {
+          "startSec": 29.8,
+          "endSec": 30,
+          "text": "hear"
+        },
+        {
+          "startSec": 30,
+          "endSec": 30.4,
+          "text": "Warren"
+        },
+        {
+          "startSec": 30.4,
+          "endSec": 30.8,
+          "text": "Sheer"
+        },
+        {
+          "startSec": 30.8,
+          "endSec": 31.3,
+          "text": "read"
+        },
+        {
+          "startSec": 31.3,
+          "endSec": 31.4,
+          "text": "a"
+        },
+        {
+          "startSec": 31.4,
+          "endSec": 31.9,
+          "text": "story"
+        },
+        {
+          "startSec": 31.9,
+          "endSec": 32.7,
+          "text": "about"
+        }
+      ]
     },
     {
       "startSec": 31.9,
       "endSec": 34.5,
-      "text": "about these colorful expressions."
+      "text": "about these colorful expressions.",
+      "words": [
+        {
+          "startSec": 31.9,
+          "endSec": 32.7,
+          "text": "about"
+        },
+        {
+          "startSec": 32.7,
+          "endSec": 32.9,
+          "text": "these"
+        },
+        {
+          "startSec": 32.9,
+          "endSec": 33.4,
+          "text": "colorful"
+        },
+        {
+          "startSec": 33.4,
+          "endSec": 34.5,
+          "text": "expressions."
+        },
+        {
+          "startSec": 34.5,
+          "endSec": 35.5,
+          "text": "Green"
+        }
+      ]
     },
     {
       "startSec": 34.5,
       "endSec": 40.2,
-      "text": "Green is an important color in nature."
+      "text": "Green is an important color in nature.",
+      "words": [
+        {
+          "startSec": 34.5,
+          "endSec": 35.5,
+          "text": "Green"
+        },
+        {
+          "startSec": 35.5,
+          "endSec": 35.7,
+          "text": "is"
+        },
+        {
+          "startSec": 35.7,
+          "endSec": 36,
+          "text": "an"
+        },
+        {
+          "startSec": 36,
+          "endSec": 37.5,
+          "text": "important"
+        },
+        {
+          "startSec": 37.5,
+          "endSec": 38.4,
+          "text": "color"
+        },
+        {
+          "startSec": 38.4,
+          "endSec": 38.7,
+          "text": "in"
+        },
+        {
+          "startSec": 38.7,
+          "endSec": 40.2,
+          "text": "nature."
+        },
+        {
+          "startSec": 40.2,
+          "endSec": 40.6,
+          "text": "It"
+        }
+      ]
     },
     {
       "startSec": 40.2,
       "endSec": 45.5,
-      "text": "It is the color of grass and the leaves on trees."
+      "text": "It is the color of grass and the leaves on trees.",
+      "words": [
+        {
+          "startSec": 40.2,
+          "endSec": 40.6,
+          "text": "It"
+        },
+        {
+          "startSec": 40.6,
+          "endSec": 41.2,
+          "text": "is"
+        },
+        {
+          "startSec": 41.2,
+          "endSec": 41.4,
+          "text": "the"
+        },
+        {
+          "startSec": 41.4,
+          "endSec": 42.2,
+          "text": "color"
+        },
+        {
+          "startSec": 42.2,
+          "endSec": 42.5,
+          "text": "of"
+        },
+        {
+          "startSec": 42.5,
+          "endSec": 43.3,
+          "text": "grass"
+        },
+        {
+          "startSec": 43.3,
+          "endSec": 43.6,
+          "text": "and"
+        },
+        {
+          "startSec": 43.6,
+          "endSec": 43.9,
+          "text": "the"
+        },
+        {
+          "startSec": 43.9,
+          "endSec": 44.5,
+          "text": "leaves"
+        },
+        {
+          "startSec": 44.5,
+          "endSec": 44.7,
+          "text": "on"
+        },
+        {
+          "startSec": 44.7,
+          "endSec": 45.5,
+          "text": "trees."
+        },
+        {
+          "startSec": 45.5,
+          "endSec": 45.8,
+          "text": "It"
+        }
+      ]
     },
     {
       "startSec": 45.5,
       "endSec": 50.5,
-      "text": "It is also the color of most growing plants."
+      "text": "It is also the color of most growing plants.",
+      "words": [
+        {
+          "startSec": 45.5,
+          "endSec": 45.8,
+          "text": "It"
+        },
+        {
+          "startSec": 45.8,
+          "endSec": 46.5,
+          "text": "is"
+        },
+        {
+          "startSec": 46.5,
+          "endSec": 46.6,
+          "text": "also"
+        },
+        {
+          "startSec": 46.6,
+          "endSec": 47,
+          "text": "the"
+        },
+        {
+          "startSec": 47,
+          "endSec": 47.6,
+          "text": "color"
+        },
+        {
+          "startSec": 47.6,
+          "endSec": 47.9,
+          "text": "of"
+        },
+        {
+          "startSec": 47.9,
+          "endSec": 48.4,
+          "text": "most"
+        },
+        {
+          "startSec": 48.4,
+          "endSec": 49.3,
+          "text": "growing"
+        },
+        {
+          "startSec": 49.3,
+          "endSec": 50.5,
+          "text": "plants."
+        },
+        {
+          "startSec": 50.5,
+          "endSec": 52.6,
+          "text": "Sometimes"
+        }
+      ]
     },
     {
       "startSec": 50.5,
       "endSec": 57.3,
-      "text": "Sometimes the word green means young, fresh and growing."
+      "text": "Sometimes the word green means young, fresh and growing.",
+      "words": [
+        {
+          "startSec": 50.5,
+          "endSec": 52.6,
+          "text": "Sometimes"
+        },
+        {
+          "startSec": 52.6,
+          "endSec": 53.2,
+          "text": "the"
+        },
+        {
+          "startSec": 53.2,
+          "endSec": 54.1,
+          "text": "word"
+        },
+        {
+          "startSec": 54.1,
+          "endSec": 55.3,
+          "text": "green"
+        },
+        {
+          "startSec": 55.3,
+          "endSec": 55.9,
+          "text": "means"
+        },
+        {
+          "startSec": 55.9,
+          "endSec": 57,
+          "text": "young,"
+        },
+        {
+          "startSec": 57,
+          "endSec": 57.1,
+          "text": "fresh"
+        },
+        {
+          "startSec": 57.1,
+          "endSec": 57.1,
+          "text": "and"
+        },
+        {
+          "startSec": 57.1,
+          "endSec": 57.3,
+          "text": "growing."
+        }
+      ]
     },
     {
       "startSec": 59.9,
       "endSec": 63.1,
-      "text": "Sometimes it describes something"
+      "text": "Sometimes it describes something",
+      "words": [
+        {
+          "startSec": 59.9,
+          "endSec": 59.9,
+          "text": "Sometimes"
+        },
+        {
+          "startSec": 59.9,
+          "endSec": 60.8,
+          "text": "it"
+        },
+        {
+          "startSec": 60.8,
+          "endSec": 61.2,
+          "text": "describes"
+        },
+        {
+          "startSec": 61.2,
+          "endSec": 63.1,
+          "text": "something"
+        },
+        {
+          "startSec": 63.1,
+          "endSec": 63.8,
+          "text": "that"
+        }
+      ]
     },
     {
       "startSec": 63.1,
       "endSec": 66.5,
-      "text": "that is not yet ripe or finished."
+      "text": "that is not yet ripe or finished.",
+      "words": [
+        {
+          "startSec": 63.1,
+          "endSec": 63.8,
+          "text": "that"
+        },
+        {
+          "startSec": 63.8,
+          "endSec": 64,
+          "text": "is"
+        },
+        {
+          "startSec": 64,
+          "endSec": 64.1,
+          "text": "not"
+        },
+        {
+          "startSec": 64.1,
+          "endSec": 64.5,
+          "text": "yet"
+        },
+        {
+          "startSec": 64.5,
+          "endSec": 64.9,
+          "text": "ripe"
+        },
+        {
+          "startSec": 64.9,
+          "endSec": 65.1,
+          "text": "or"
+        },
+        {
+          "startSec": 65.1,
+          "endSec": 66.5,
+          "text": "finished."
+        },
+        {
+          "startSec": 66.5,
+          "endSec": 67.4,
+          "text": "For"
+        }
+      ]
     },
     {
       "startSec": 66.5,
       "endSec": 72.3,
-      "text": "For example, a green horn is someone"
+      "text": "For example, a green horn is someone",
+      "words": [
+        {
+          "startSec": 66.5,
+          "endSec": 67.4,
+          "text": "For"
+        },
+        {
+          "startSec": 67.4,
+          "endSec": 68.7,
+          "text": "example,"
+        },
+        {
+          "startSec": 68.7,
+          "endSec": 68.9,
+          "text": "a"
+        },
+        {
+          "startSec": 68.9,
+          "endSec": 69.8,
+          "text": "green"
+        },
+        {
+          "startSec": 69.8,
+          "endSec": 70.6,
+          "text": "horn"
+        },
+        {
+          "startSec": 70.6,
+          "endSec": 71,
+          "text": "is"
+        },
+        {
+          "startSec": 71,
+          "endSec": 72.3,
+          "text": "someone"
+        },
+        {
+          "startSec": 72.3,
+          "endSec": 73,
+          "text": "who"
+        }
+      ]
     },
     {
       "startSec": 72.3,
       "endSec": 77.3,
-      "text": "who has no experience, who is new to a situation."
+      "text": "who has no experience, who is new to a situation.",
+      "words": [
+        {
+          "startSec": 72.3,
+          "endSec": 73,
+          "text": "who"
+        },
+        {
+          "startSec": 73,
+          "endSec": 73.3,
+          "text": "has"
+        },
+        {
+          "startSec": 73.3,
+          "endSec": 73.3,
+          "text": "no"
+        },
+        {
+          "startSec": 73.3,
+          "endSec": 74.6,
+          "text": "experience,"
+        },
+        {
+          "startSec": 74.6,
+          "endSec": 75,
+          "text": "who"
+        },
+        {
+          "startSec": 75,
+          "endSec": 75.2,
+          "text": "is"
+        },
+        {
+          "startSec": 75.2,
+          "endSec": 75.5,
+          "text": "new"
+        },
+        {
+          "startSec": 75.5,
+          "endSec": 75.8,
+          "text": "to"
+        },
+        {
+          "startSec": 75.8,
+          "endSec": 75.9,
+          "text": "a"
+        },
+        {
+          "startSec": 75.9,
+          "endSec": 77.3,
+          "text": "situation."
+        },
+        {
+          "startSec": 77.3,
+          "endSec": 77.6,
+          "text": "In"
+        }
+      ]
     },
     {
       "startSec": 77.3,
       "endSec": 83.8,
-      "text": "In the 15th century, a green horn was a young cow or ox"
+      "text": "In the 15th century, a green horn was a young cow or ox",
+      "words": [
+        {
+          "startSec": 77.3,
+          "endSec": 77.6,
+          "text": "In"
+        },
+        {
+          "startSec": 77.6,
+          "endSec": 78.2,
+          "text": "the"
+        },
+        {
+          "startSec": 78.2,
+          "endSec": 79,
+          "text": "15th"
+        },
+        {
+          "startSec": 79,
+          "endSec": 80.2,
+          "text": "century,"
+        },
+        {
+          "startSec": 80.2,
+          "endSec": 80.4,
+          "text": "a"
+        },
+        {
+          "startSec": 80.4,
+          "endSec": 81,
+          "text": "green"
+        },
+        {
+          "startSec": 81,
+          "endSec": 81.6,
+          "text": "horn"
+        },
+        {
+          "startSec": 81.6,
+          "endSec": 82,
+          "text": "was"
+        },
+        {
+          "startSec": 82,
+          "endSec": 82.1,
+          "text": "a"
+        },
+        {
+          "startSec": 82.1,
+          "endSec": 82.8,
+          "text": "young"
+        },
+        {
+          "startSec": 82.8,
+          "endSec": 83.2,
+          "text": "cow"
+        },
+        {
+          "startSec": 83.2,
+          "endSec": 83.5,
+          "text": "or"
+        },
+        {
+          "startSec": 83.5,
+          "endSec": 83.8,
+          "text": "ox"
+        },
+        {
+          "startSec": 83.8,
+          "endSec": 84.7,
+          "text": "whose"
+        }
+      ]
     },
     {
       "startSec": 83.8,
       "endSec": 87.4,
-      "text": "whose horns had not yet developed."
+      "text": "whose horns had not yet developed.",
+      "words": [
+        {
+          "startSec": 83.8,
+          "endSec": 84.7,
+          "text": "whose"
+        },
+        {
+          "startSec": 84.7,
+          "endSec": 84.9,
+          "text": "horns"
+        },
+        {
+          "startSec": 84.9,
+          "endSec": 85.3,
+          "text": "had"
+        },
+        {
+          "startSec": 85.3,
+          "endSec": 85.6,
+          "text": "not"
+        },
+        {
+          "startSec": 85.6,
+          "endSec": 86,
+          "text": "yet"
+        },
+        {
+          "startSec": 86,
+          "endSec": 87.4,
+          "text": "developed."
+        }
+      ]
     },
     {
       "startSec": 89.1,
       "endSec": 94,
-      "text": "A century or so later, a green horn was a soldier"
+      "text": "A century or so later, a green horn was a soldier",
+      "words": [
+        {
+          "startSec": 89.1,
+          "endSec": 90,
+          "text": "A"
+        },
+        {
+          "startSec": 90,
+          "endSec": 90,
+          "text": "century"
+        },
+        {
+          "startSec": 90,
+          "endSec": 90.3,
+          "text": "or"
+        },
+        {
+          "startSec": 90.3,
+          "endSec": 90.5,
+          "text": "so"
+        },
+        {
+          "startSec": 90.5,
+          "endSec": 91.4,
+          "text": "later,"
+        },
+        {
+          "startSec": 91.4,
+          "endSec": 91.5,
+          "text": "a"
+        },
+        {
+          "startSec": 91.5,
+          "endSec": 92.1,
+          "text": "green"
+        },
+        {
+          "startSec": 92.1,
+          "endSec": 92.6,
+          "text": "horn"
+        },
+        {
+          "startSec": 92.6,
+          "endSec": 93,
+          "text": "was"
+        },
+        {
+          "startSec": 93,
+          "endSec": 93.1,
+          "text": "a"
+        },
+        {
+          "startSec": 93.1,
+          "endSec": 94,
+          "text": "soldier"
+        },
+        {
+          "startSec": 94,
+          "endSec": 94.3,
+          "text": "who"
+        }
+      ]
     },
     {
       "startSec": 94,
       "endSec": 97.7,
-      "text": "who had not yet had any experience in battle."
+      "text": "who had not yet had any experience in battle.",
+      "words": [
+        {
+          "startSec": 94,
+          "endSec": 94.3,
+          "text": "who"
+        },
+        {
+          "startSec": 94.3,
+          "endSec": 94.9,
+          "text": "had"
+        },
+        {
+          "startSec": 94.9,
+          "endSec": 94.9,
+          "text": "not"
+        },
+        {
+          "startSec": 94.9,
+          "endSec": 95.1,
+          "text": "yet"
+        },
+        {
+          "startSec": 95.1,
+          "endSec": 95.4,
+          "text": "had"
+        },
+        {
+          "startSec": 95.4,
+          "endSec": 95.7,
+          "text": "any"
+        },
+        {
+          "startSec": 95.7,
+          "endSec": 96.6,
+          "text": "experience"
+        },
+        {
+          "startSec": 96.6,
+          "endSec": 96.8,
+          "text": "in"
+        },
+        {
+          "startSec": 96.8,
+          "endSec": 97.7,
+          "text": "battle."
+        },
+        {
+          "startSec": 97.7,
+          "endSec": 98.6,
+          "text": "By"
+        }
+      ]
     },
     {
       "startSec": 97.7,
       "endSec": 103.6,
-      "text": "By the 18th century, a green horn had the meaning"
+      "text": "By the 18th century, a green horn had the meaning",
+      "words": [
+        {
+          "startSec": 97.7,
+          "endSec": 98.6,
+          "text": "By"
+        },
+        {
+          "startSec": 98.6,
+          "endSec": 98.7,
+          "text": "the"
+        },
+        {
+          "startSec": 98.7,
+          "endSec": 100.2,
+          "text": "18th"
+        },
+        {
+          "startSec": 100.2,
+          "endSec": 101.9,
+          "text": "century,"
+        },
+        {
+          "startSec": 101.9,
+          "endSec": 102,
+          "text": "a"
+        },
+        {
+          "startSec": 102,
+          "endSec": 102.4,
+          "text": "green"
+        },
+        {
+          "startSec": 102.4,
+          "endSec": 102.8,
+          "text": "horn"
+        },
+        {
+          "startSec": 102.8,
+          "endSec": 103.1,
+          "text": "had"
+        },
+        {
+          "startSec": 103.1,
+          "endSec": 103.3,
+          "text": "the"
+        },
+        {
+          "startSec": 103.3,
+          "endSec": 103.6,
+          "text": "meaning"
+        },
+        {
+          "startSec": 103.6,
+          "endSec": 103.8,
+          "text": "it"
+        }
+      ]
     },
     {
       "startSec": 103.6,
       "endSec": 108.6,
-      "text": "it has today, a person who is new in a job."
+      "text": "it has today, a person who is new in a job.",
+      "words": [
+        {
+          "startSec": 103.6,
+          "endSec": 103.8,
+          "text": "it"
+        },
+        {
+          "startSec": 103.8,
+          "endSec": 104.5,
+          "text": "has"
+        },
+        {
+          "startSec": 104.5,
+          "endSec": 105,
+          "text": "today,"
+        },
+        {
+          "startSec": 105,
+          "endSec": 105.1,
+          "text": "a"
+        },
+        {
+          "startSec": 105.1,
+          "endSec": 106,
+          "text": "person"
+        },
+        {
+          "startSec": 106,
+          "endSec": 106.5,
+          "text": "who"
+        },
+        {
+          "startSec": 106.5,
+          "endSec": 106.8,
+          "text": "is"
+        },
+        {
+          "startSec": 106.8,
+          "endSec": 107.2,
+          "text": "new"
+        },
+        {
+          "startSec": 107.2,
+          "endSec": 107.5,
+          "text": "in"
+        },
+        {
+          "startSec": 107.5,
+          "endSec": 107.7,
+          "text": "a"
+        },
+        {
+          "startSec": 107.7,
+          "endSec": 108.6,
+          "text": "job."
+        },
+        {
+          "startSec": 108.6,
+          "endSec": 109.7,
+          "text": "About"
+        }
+      ]
     },
     {
       "startSec": 108.6,
       "endSec": 115.9,
-      "text": "About 100 years ago, green horn was a popular expression"
+      "text": "About 100 years ago, green horn was a popular expression",
+      "words": [
+        {
+          "startSec": 108.6,
+          "endSec": 109.7,
+          "text": "About"
+        },
+        {
+          "startSec": 109.7,
+          "endSec": 111.7,
+          "text": "100"
+        },
+        {
+          "startSec": 111.7,
+          "endSec": 112.8,
+          "text": "years"
+        },
+        {
+          "startSec": 112.8,
+          "endSec": 113.9,
+          "text": "ago,"
+        },
+        {
+          "startSec": 113.9,
+          "endSec": 114.4,
+          "text": "green"
+        },
+        {
+          "startSec": 114.4,
+          "endSec": 114.8,
+          "text": "horn"
+        },
+        {
+          "startSec": 114.8,
+          "endSec": 115.2,
+          "text": "was"
+        },
+        {
+          "startSec": 115.2,
+          "endSec": 115.3,
+          "text": "a"
+        },
+        {
+          "startSec": 115.3,
+          "endSec": 115.5,
+          "text": "popular"
+        },
+        {
+          "startSec": 115.5,
+          "endSec": 115.9,
+          "text": "expression"
+        }
+      ]
     },
     {
       "startSec": 116.9,
       "endSec": 121.5,
-      "text": "in the American West, old timers used it"
+      "text": "in the American West, old timers used it",
+      "words": [
+        {
+          "startSec": 116.9,
+          "endSec": 117.2,
+          "text": "in"
+        },
+        {
+          "startSec": 117.2,
+          "endSec": 117.9,
+          "text": "the"
+        },
+        {
+          "startSec": 117.9,
+          "endSec": 118.7,
+          "text": "American"
+        },
+        {
+          "startSec": 118.7,
+          "endSec": 119.5,
+          "text": "West,"
+        },
+        {
+          "startSec": 119.5,
+          "endSec": 119.9,
+          "text": "old"
+        },
+        {
+          "startSec": 119.9,
+          "endSec": 120.7,
+          "text": "timers"
+        },
+        {
+          "startSec": 120.7,
+          "endSec": 121.2,
+          "text": "used"
+        },
+        {
+          "startSec": 121.2,
+          "endSec": 121.5,
+          "text": "it"
+        },
+        {
+          "startSec": 121.5,
+          "endSec": 122.4,
+          "text": "to"
+        }
+      ]
     },
     {
       "startSec": 121.5,
       "endSec": 125,
-      "text": "to describe a man who had just arrived"
+      "text": "to describe a man who had just arrived",
+      "words": [
+        {
+          "startSec": 121.5,
+          "endSec": 122.4,
+          "text": "to"
+        },
+        {
+          "startSec": 122.4,
+          "endSec": 122.6,
+          "text": "describe"
+        },
+        {
+          "startSec": 122.6,
+          "endSec": 122.7,
+          "text": "a"
+        },
+        {
+          "startSec": 122.7,
+          "endSec": 123.1,
+          "text": "man"
+        },
+        {
+          "startSec": 123.1,
+          "endSec": 123.4,
+          "text": "who"
+        },
+        {
+          "startSec": 123.4,
+          "endSec": 123.8,
+          "text": "had"
+        },
+        {
+          "startSec": 123.8,
+          "endSec": 124.2,
+          "text": "just"
+        },
+        {
+          "startSec": 124.2,
+          "endSec": 125,
+          "text": "arrived"
+        },
+        {
+          "startSec": 125,
+          "endSec": 125.4,
+          "text": "from"
+        }
+      ]
     },
     {
       "startSec": 125,
       "endSec": 127.8,
-      "text": "from one of the big cities back east."
+      "text": "from one of the big cities back east.",
+      "words": [
+        {
+          "startSec": 125,
+          "endSec": 125.4,
+          "text": "from"
+        },
+        {
+          "startSec": 125.4,
+          "endSec": 125.8,
+          "text": "one"
+        },
+        {
+          "startSec": 125.8,
+          "endSec": 125.9,
+          "text": "of"
+        },
+        {
+          "startSec": 125.9,
+          "endSec": 126,
+          "text": "the"
+        },
+        {
+          "startSec": 126,
+          "endSec": 126.3,
+          "text": "big"
+        },
+        {
+          "startSec": 126.3,
+          "endSec": 126.8,
+          "text": "cities"
+        },
+        {
+          "startSec": 126.8,
+          "endSec": 127.1,
+          "text": "back"
+        },
+        {
+          "startSec": 127.1,
+          "endSec": 127.8,
+          "text": "east."
+        },
+        {
+          "startSec": 127.8,
+          "endSec": 128.7,
+          "text": "The"
+        }
+      ]
     },
     {
       "startSec": 127.8,
       "endSec": 132.9,
-      "text": "The green horn lacked the skills he would need"
+      "text": "The green horn lacked the skills he would need",
+      "words": [
+        {
+          "startSec": 127.8,
+          "endSec": 128.7,
+          "text": "The"
+        },
+        {
+          "startSec": 128.7,
+          "endSec": 129,
+          "text": "green"
+        },
+        {
+          "startSec": 129,
+          "endSec": 129.6,
+          "text": "horn"
+        },
+        {
+          "startSec": 129.6,
+          "endSec": 130.5,
+          "text": "lacked"
+        },
+        {
+          "startSec": 130.5,
+          "endSec": 131,
+          "text": "the"
+        },
+        {
+          "startSec": 131,
+          "endSec": 131.9,
+          "text": "skills"
+        },
+        {
+          "startSec": 131.9,
+          "endSec": 132.1,
+          "text": "he"
+        },
+        {
+          "startSec": 132.1,
+          "endSec": 132.5,
+          "text": "would"
+        },
+        {
+          "startSec": 132.5,
+          "endSec": 132.9,
+          "text": "need"
+        },
+        {
+          "startSec": 132.9,
+          "endSec": 133,
+          "text": "to"
+        }
+      ]
     },
     {
       "startSec": 132.9,
       "endSec": 135.9,
-      "text": "to live in the hard, rough country."
+      "text": "to live in the hard, rough country.",
+      "words": [
+        {
+          "startSec": 132.9,
+          "endSec": 133,
+          "text": "to"
+        },
+        {
+          "startSec": 133,
+          "endSec": 133.6,
+          "text": "live"
+        },
+        {
+          "startSec": 133.6,
+          "endSec": 133.8,
+          "text": "in"
+        },
+        {
+          "startSec": 133.8,
+          "endSec": 133.9,
+          "text": "the"
+        },
+        {
+          "startSec": 133.9,
+          "endSec": 134.4,
+          "text": "hard,"
+        },
+        {
+          "startSec": 134.4,
+          "endSec": 134.9,
+          "text": "rough"
+        },
+        {
+          "startSec": 134.9,
+          "endSec": 135.9,
+          "text": "country."
+        },
+        {
+          "startSec": 135.9,
+          "endSec": 137.2,
+          "text": "Someone"
+        }
+      ]
     },
     {
       "startSec": 135.9,
       "endSec": 142.6,
-      "text": "Someone who has the ability to grow plants well"
+      "text": "Someone who has the ability to grow plants well",
+      "words": [
+        {
+          "startSec": 135.9,
+          "endSec": 137.2,
+          "text": "Someone"
+        },
+        {
+          "startSec": 137.2,
+          "endSec": 137.8,
+          "text": "who"
+        },
+        {
+          "startSec": 137.8,
+          "endSec": 138.4,
+          "text": "has"
+        },
+        {
+          "startSec": 138.4,
+          "endSec": 139,
+          "text": "the"
+        },
+        {
+          "startSec": 139,
+          "endSec": 140.4,
+          "text": "ability"
+        },
+        {
+          "startSec": 140.4,
+          "endSec": 140.6,
+          "text": "to"
+        },
+        {
+          "startSec": 140.6,
+          "endSec": 140.9,
+          "text": "grow"
+        },
+        {
+          "startSec": 140.9,
+          "endSec": 141.5,
+          "text": "plants"
+        },
+        {
+          "startSec": 141.5,
+          "endSec": 142.6,
+          "text": "well"
+        },
+        {
+          "startSec": 142.6,
+          "endSec": 142.8,
+          "text": "is"
+        }
+      ]
     },
     {
       "startSec": 142.6,
       "endSec": 145.5,
-      "text": "is said to have a green thumb."
+      "text": "is said to have a green thumb.",
+      "words": [
+        {
+          "startSec": 142.6,
+          "endSec": 142.8,
+          "text": "is"
+        },
+        {
+          "startSec": 142.8,
+          "endSec": 143.5,
+          "text": "said"
+        },
+        {
+          "startSec": 143.5,
+          "endSec": 143.5,
+          "text": "to"
+        },
+        {
+          "startSec": 143.5,
+          "endSec": 143.9,
+          "text": "have"
+        },
+        {
+          "startSec": 143.9,
+          "endSec": 144,
+          "text": "a"
+        },
+        {
+          "startSec": 144,
+          "endSec": 144.6,
+          "text": "green"
+        },
+        {
+          "startSec": 144.6,
+          "endSec": 145.5,
+          "text": "thumb."
+        }
+      ]
     },
     {
       "startSec": 146.9,
       "endSec": 150.9,
-      "text": "The expression comes from the early 1900s."
+      "text": "The expression comes from the early 1900s.",
+      "words": [
+        {
+          "startSec": 146.9,
+          "endSec": 147.8,
+          "text": "The"
+        },
+        {
+          "startSec": 147.8,
+          "endSec": 148,
+          "text": "expression"
+        },
+        {
+          "startSec": 148,
+          "endSec": 148.4,
+          "text": "comes"
+        },
+        {
+          "startSec": 148.4,
+          "endSec": 148.8,
+          "text": "from"
+        },
+        {
+          "startSec": 148.8,
+          "endSec": 149,
+          "text": "the"
+        },
+        {
+          "startSec": 149,
+          "endSec": 149.4,
+          "text": "early"
+        },
+        {
+          "startSec": 149.4,
+          "endSec": 150.9,
+          "text": "1900s."
+        },
+        {
+          "startSec": 150.9,
+          "endSec": 151.8,
+          "text": "A"
+        }
+      ]
     },
     {
       "startSec": 150.9,
       "endSec": 157.6,
-      "text": "A person with a green thumb seems to have a magic touch"
+      "text": "A person with a green thumb seems to have a magic touch",
+      "words": [
+        {
+          "startSec": 150.9,
+          "endSec": 151.8,
+          "text": "A"
+        },
+        {
+          "startSec": 151.8,
+          "endSec": 152.1,
+          "text": "person"
+        },
+        {
+          "startSec": 152.1,
+          "endSec": 152.8,
+          "text": "with"
+        },
+        {
+          "startSec": 152.8,
+          "endSec": 153,
+          "text": "a"
+        },
+        {
+          "startSec": 153,
+          "endSec": 153.9,
+          "text": "green"
+        },
+        {
+          "startSec": 153.9,
+          "endSec": 154.9,
+          "text": "thumb"
+        },
+        {
+          "startSec": 154.9,
+          "endSec": 155.4,
+          "text": "seems"
+        },
+        {
+          "startSec": 155.4,
+          "endSec": 155.6,
+          "text": "to"
+        },
+        {
+          "startSec": 155.6,
+          "endSec": 156,
+          "text": "have"
+        },
+        {
+          "startSec": 156,
+          "endSec": 156.1,
+          "text": "a"
+        },
+        {
+          "startSec": 156.1,
+          "endSec": 156.8,
+          "text": "magic"
+        },
+        {
+          "startSec": 156.8,
+          "endSec": 157.6,
+          "text": "touch"
+        },
+        {
+          "startSec": 157.6,
+          "endSec": 158.4,
+          "text": "that"
+        }
+      ]
     },
     {
       "startSec": 157.6,
       "endSec": 160.8,
-      "text": "that makes plants grow quickly and well."
+      "text": "that makes plants grow quickly and well.",
+      "words": [
+        {
+          "startSec": 157.6,
+          "endSec": 158.4,
+          "text": "that"
+        },
+        {
+          "startSec": 158.4,
+          "endSec": 158.5,
+          "text": "makes"
+        },
+        {
+          "startSec": 158.5,
+          "endSec": 158.9,
+          "text": "plants"
+        },
+        {
+          "startSec": 158.9,
+          "endSec": 159.3,
+          "text": "grow"
+        },
+        {
+          "startSec": 159.3,
+          "endSec": 159.9,
+          "text": "quickly"
+        },
+        {
+          "startSec": 159.9,
+          "endSec": 160.1,
+          "text": "and"
+        },
+        {
+          "startSec": 160.1,
+          "endSec": 160.8,
+          "text": "well."
+        },
+        {
+          "startSec": 160.8,
+          "endSec": 161.7,
+          "text": "You"
+        }
+      ]
     },
     {
       "startSec": 160.8,
       "endSec": 166.3,
-      "text": "You might say that the woman next door has a green thumb"
+      "text": "You might say that the woman next door has a green thumb",
+      "words": [
+        {
+          "startSec": 160.8,
+          "endSec": 161.7,
+          "text": "You"
+        },
+        {
+          "startSec": 161.7,
+          "endSec": 161.8,
+          "text": "might"
+        },
+        {
+          "startSec": 161.8,
+          "endSec": 162.2,
+          "text": "say"
+        },
+        {
+          "startSec": 162.2,
+          "endSec": 162.7,
+          "text": "that"
+        },
+        {
+          "startSec": 162.7,
+          "endSec": 163.1,
+          "text": "the"
+        },
+        {
+          "startSec": 163.1,
+          "endSec": 163.7,
+          "text": "woman"
+        },
+        {
+          "startSec": 163.7,
+          "endSec": 164.2,
+          "text": "next"
+        },
+        {
+          "startSec": 164.2,
+          "endSec": 164.7,
+          "text": "door"
+        },
+        {
+          "startSec": 164.7,
+          "endSec": 165.1,
+          "text": "has"
+        },
+        {
+          "startSec": 165.1,
+          "endSec": 165.2,
+          "text": "a"
+        },
+        {
+          "startSec": 165.2,
+          "endSec": 165.8,
+          "text": "green"
+        },
+        {
+          "startSec": 165.8,
+          "endSec": 166.3,
+          "text": "thumb"
+        },
+        {
+          "startSec": 166.3,
+          "endSec": 166.5,
+          "text": "if"
+        }
+      ]
     },
     {
       "startSec": 166.3,
       "endSec": 170.2,
-      "text": "if her garden continues to grow long after"
+      "text": "if her garden continues to grow long after",
+      "words": [
+        {
+          "startSec": 166.3,
+          "endSec": 166.5,
+          "text": "if"
+        },
+        {
+          "startSec": 166.5,
+          "endSec": 167.3,
+          "text": "her"
+        },
+        {
+          "startSec": 167.3,
+          "endSec": 167.3,
+          "text": "garden"
+        },
+        {
+          "startSec": 167.3,
+          "endSec": 168.1,
+          "text": "continues"
+        },
+        {
+          "startSec": 168.1,
+          "endSec": 168.3,
+          "text": "to"
+        },
+        {
+          "startSec": 168.3,
+          "endSec": 168.8,
+          "text": "grow"
+        },
+        {
+          "startSec": 168.8,
+          "endSec": 169.3,
+          "text": "long"
+        },
+        {
+          "startSec": 169.3,
+          "endSec": 170.2,
+          "text": "after"
+        },
+        {
+          "startSec": 170.2,
+          "endSec": 171.1,
+          "text": "your"
+        }
+      ]
     },
     {
       "startSec": 170.2,
       "endSec": 172.1,
-      "text": "your plants have died."
+      "text": "your plants have died.",
+      "words": [
+        {
+          "startSec": 170.2,
+          "endSec": 171.1,
+          "text": "your"
+        },
+        {
+          "startSec": 171.1,
+          "endSec": 171.1,
+          "text": "plants"
+        },
+        {
+          "startSec": 171.1,
+          "endSec": 171.5,
+          "text": "have"
+        },
+        {
+          "startSec": 171.5,
+          "endSec": 172.1,
+          "text": "died."
+        }
+      ]
     },
     {
       "startSec": 174.8,
       "endSec": 179.5,
-      "text": "The green revolution is the name given some years ago"
+      "text": "The green revolution is the name given some years ago",
+      "words": [
+        {
+          "startSec": 174.8,
+          "endSec": 175.5,
+          "text": "The"
+        },
+        {
+          "startSec": 175.5,
+          "endSec": 175.7,
+          "text": "green"
+        },
+        {
+          "startSec": 175.7,
+          "endSec": 176.4,
+          "text": "revolution"
+        },
+        {
+          "startSec": 176.4,
+          "endSec": 176.6,
+          "text": "is"
+        },
+        {
+          "startSec": 176.6,
+          "endSec": 176.9,
+          "text": "the"
+        },
+        {
+          "startSec": 176.9,
+          "endSec": 177.3,
+          "text": "name"
+        },
+        {
+          "startSec": 177.3,
+          "endSec": 177.7,
+          "text": "given"
+        },
+        {
+          "startSec": 177.7,
+          "endSec": 178,
+          "text": "some"
+        },
+        {
+          "startSec": 178,
+          "endSec": 178.3,
+          "text": "years"
+        },
+        {
+          "startSec": 178.3,
+          "endSec": 179.5,
+          "text": "ago"
+        },
+        {
+          "startSec": 179.5,
+          "endSec": 179.7,
+          "text": "to"
+        }
+      ]
     },
     {
       "startSec": 179.5,
       "endSec": 184.1,
-      "text": "to the development of new kinds of rice and other grains."
+      "text": "to the development of new kinds of rice and other grains.",
+      "words": [
+        {
+          "startSec": 179.5,
+          "endSec": 179.7,
+          "text": "to"
+        },
+        {
+          "startSec": 179.7,
+          "endSec": 180.4,
+          "text": "the"
+        },
+        {
+          "startSec": 180.4,
+          "endSec": 180.8,
+          "text": "development"
+        },
+        {
+          "startSec": 180.8,
+          "endSec": 181,
+          "text": "of"
+        },
+        {
+          "startSec": 181,
+          "endSec": 181.2,
+          "text": "new"
+        },
+        {
+          "startSec": 181.2,
+          "endSec": 181.7,
+          "text": "kinds"
+        },
+        {
+          "startSec": 181.7,
+          "endSec": 182,
+          "text": "of"
+        },
+        {
+          "startSec": 182,
+          "endSec": 182.6,
+          "text": "rice"
+        },
+        {
+          "startSec": 182.6,
+          "endSec": 182.9,
+          "text": "and"
+        },
+        {
+          "startSec": 182.9,
+          "endSec": 183.3,
+          "text": "other"
+        },
+        {
+          "startSec": 183.3,
+          "endSec": 184.1,
+          "text": "grains."
+        },
+        {
+          "startSec": 184.1,
+          "endSec": 184.9,
+          "text": "The"
+        }
+      ]
     },
     {
       "startSec": 184.1,
       "endSec": 189.1,
-      "text": "The new plants produced much larger crops."
+      "text": "The new plants produced much larger crops.",
+      "words": [
+        {
+          "startSec": 184.1,
+          "endSec": 184.9,
+          "text": "The"
+        },
+        {
+          "startSec": 184.9,
+          "endSec": 185.1,
+          "text": "new"
+        },
+        {
+          "startSec": 185.1,
+          "endSec": 185.7,
+          "text": "plants"
+        },
+        {
+          "startSec": 185.7,
+          "endSec": 186.8,
+          "text": "produced"
+        },
+        {
+          "startSec": 186.8,
+          "endSec": 187.3,
+          "text": "much"
+        },
+        {
+          "startSec": 187.3,
+          "endSec": 188.1,
+          "text": "larger"
+        },
+        {
+          "startSec": 188.1,
+          "endSec": 189.1,
+          "text": "crops."
+        },
+        {
+          "startSec": 189.1,
+          "endSec": 190.1,
+          "text": "The"
+        }
+      ]
     },
     {
       "startSec": 189.1,
       "endSec": 193.7,
-      "text": "The green revolution was the result of hard work"
+      "text": "The green revolution was the result of hard work",
+      "words": [
+        {
+          "startSec": 189.1,
+          "endSec": 190.1,
+          "text": "The"
+        },
+        {
+          "startSec": 190.1,
+          "endSec": 190.1,
+          "text": "green"
+        },
+        {
+          "startSec": 190.1,
+          "endSec": 191.3,
+          "text": "revolution"
+        },
+        {
+          "startSec": 191.3,
+          "endSec": 191.6,
+          "text": "was"
+        },
+        {
+          "startSec": 191.6,
+          "endSec": 192,
+          "text": "the"
+        },
+        {
+          "startSec": 192,
+          "endSec": 192.7,
+          "text": "result"
+        },
+        {
+          "startSec": 192.7,
+          "endSec": 192.9,
+          "text": "of"
+        },
+        {
+          "startSec": 192.9,
+          "endSec": 193.3,
+          "text": "hard"
+        },
+        {
+          "startSec": 193.3,
+          "endSec": 193.7,
+          "text": "work"
+        },
+        {
+          "startSec": 193.7,
+          "endSec": 194.6,
+          "text": "by"
+        }
+      ]
     },
     {
       "startSec": 193.7,
       "endSec": 198.6,
-      "text": "by agricultural scientists who had green thumbs."
+      "text": "by agricultural scientists who had green thumbs.",
+      "words": [
+        {
+          "startSec": 193.7,
+          "endSec": 194.6,
+          "text": "by"
+        },
+        {
+          "startSec": 194.6,
+          "endSec": 195.2,
+          "text": "agricultural"
+        },
+        {
+          "startSec": 195.2,
+          "endSec": 196.4,
+          "text": "scientists"
+        },
+        {
+          "startSec": 196.4,
+          "endSec": 196.7,
+          "text": "who"
+        },
+        {
+          "startSec": 196.7,
+          "endSec": 197,
+          "text": "had"
+        },
+        {
+          "startSec": 197,
+          "endSec": 197.6,
+          "text": "green"
+        },
+        {
+          "startSec": 197.6,
+          "endSec": 198.6,
+          "text": "thumbs."
+        },
+        {
+          "startSec": 198.6,
+          "endSec": 199.7,
+          "text": "Green"
+        }
+      ]
     },
     {
       "startSec": 198.6,
       "endSec": 204.3,
-      "text": "Green is also the color used to describe"
+      "text": "Green is also the color used to describe",
+      "words": [
+        {
+          "startSec": 198.6,
+          "endSec": 199.7,
+          "text": "Green"
+        },
+        {
+          "startSec": 199.7,
+          "endSec": 200.1,
+          "text": "is"
+        },
+        {
+          "startSec": 200.1,
+          "endSec": 201,
+          "text": "also"
+        },
+        {
+          "startSec": 201,
+          "endSec": 201.6,
+          "text": "the"
+        },
+        {
+          "startSec": 201.6,
+          "endSec": 202.7,
+          "text": "color"
+        },
+        {
+          "startSec": 202.7,
+          "endSec": 203.5,
+          "text": "used"
+        },
+        {
+          "startSec": 203.5,
+          "endSec": 203.7,
+          "text": "to"
+        },
+        {
+          "startSec": 203.7,
+          "endSec": 204.3,
+          "text": "describe"
+        },
+        {
+          "startSec": 204.3,
+          "endSec": 205.2,
+          "text": "the"
+        }
+      ]
     },
     {
       "startSec": 204.3,
       "endSec": 207.1,
-      "text": "the powerful emotion jealousy."
+      "text": "the powerful emotion jealousy.",
+      "words": [
+        {
+          "startSec": 204.3,
+          "endSec": 205.2,
+          "text": "the"
+        },
+        {
+          "startSec": 205.2,
+          "endSec": 205.3,
+          "text": "powerful"
+        },
+        {
+          "startSec": 205.3,
+          "endSec": 206,
+          "text": "emotion"
+        },
+        {
+          "startSec": 206,
+          "endSec": 207.1,
+          "text": "jealousy."
+        },
+        {
+          "startSec": 207.1,
+          "endSec": 208,
+          "text": "The"
+        }
+      ]
     },
     {
       "startSec": 207.1,
       "endSec": 212,
-      "text": "The green-eyed monster is not a frightening creature"
+      "text": "The green-eyed monster is not a frightening creature",
+      "words": [
+        {
+          "startSec": 207.1,
+          "endSec": 208,
+          "text": "The"
+        },
+        {
+          "startSec": 208,
+          "endSec": 208.9,
+          "text": "green-eyed"
+        },
+        {
+          "startSec": 208.9,
+          "endSec": 210,
+          "text": "monster"
+        },
+        {
+          "startSec": 210,
+          "endSec": 210.3,
+          "text": "is"
+        },
+        {
+          "startSec": 210.3,
+          "endSec": 210.8,
+          "text": "not"
+        },
+        {
+          "startSec": 210.8,
+          "endSec": 210.8,
+          "text": "a"
+        },
+        {
+          "startSec": 210.8,
+          "endSec": 211.5,
+          "text": "frightening"
+        },
+        {
+          "startSec": 211.5,
+          "endSec": 212,
+          "text": "creature"
+        },
+        {
+          "startSec": 212,
+          "endSec": 212.7,
+          "text": "from"
+        }
+      ]
     },
     {
       "startSec": 212,
       "endSec": 213.3,
-      "text": "from outer space."
+      "text": "from outer space.",
+      "words": [
+        {
+          "startSec": 212,
+          "endSec": 212.7,
+          "text": "from"
+        },
+        {
+          "startSec": 212.7,
+          "endSec": 212.9,
+          "text": "outer"
+        },
+        {
+          "startSec": 212.9,
+          "endSec": 213.3,
+          "text": "space."
+        },
+        {
+          "startSec": 213.3,
+          "endSec": 213.6,
+          "text": "It"
+        }
+      ]
     },
     {
       "startSec": 213.3,
       "endSec": 218.8,
-      "text": "It is an expression used about 400 years ago"
+      "text": "It is an expression used about 400 years ago",
+      "words": [
+        {
+          "startSec": 213.3,
+          "endSec": 213.6,
+          "text": "It"
+        },
+        {
+          "startSec": 213.6,
+          "endSec": 214.1,
+          "text": "is"
+        },
+        {
+          "startSec": 214.1,
+          "endSec": 214.2,
+          "text": "an"
+        },
+        {
+          "startSec": 214.2,
+          "endSec": 215.4,
+          "text": "expression"
+        },
+        {
+          "startSec": 215.4,
+          "endSec": 215.9,
+          "text": "used"
+        },
+        {
+          "startSec": 215.9,
+          "endSec": 216.6,
+          "text": "about"
+        },
+        {
+          "startSec": 216.6,
+          "endSec": 217.7,
+          "text": "400"
+        },
+        {
+          "startSec": 217.7,
+          "endSec": 218.4,
+          "text": "years"
+        },
+        {
+          "startSec": 218.4,
+          "endSec": 218.8,
+          "text": "ago"
+        },
+        {
+          "startSec": 218.8,
+          "endSec": 219.6,
+          "text": "by"
+        }
+      ]
     },
     {
       "startSec": 218.8,
       "endSec": 223.8,
-      "text": "by British writer William Shakespeare in his play Othello."
+      "text": "by British writer William Shakespeare in his play Othello.",
+      "words": [
+        {
+          "startSec": 218.8,
+          "endSec": 219.6,
+          "text": "by"
+        },
+        {
+          "startSec": 219.6,
+          "endSec": 219.7,
+          "text": "British"
+        },
+        {
+          "startSec": 219.7,
+          "endSec": 220.2,
+          "text": "writer"
+        },
+        {
+          "startSec": 220.2,
+          "endSec": 220.9,
+          "text": "William"
+        },
+        {
+          "startSec": 220.9,
+          "endSec": 222,
+          "text": "Shakespeare"
+        },
+        {
+          "startSec": 222,
+          "endSec": 222.2,
+          "text": "in"
+        },
+        {
+          "startSec": 222.2,
+          "endSec": 222.5,
+          "text": "his"
+        },
+        {
+          "startSec": 222.5,
+          "endSec": 222.9,
+          "text": "play"
+        },
+        {
+          "startSec": 222.9,
+          "endSec": 223.8,
+          "text": "Othello."
+        },
+        {
+          "startSec": 223.8,
+          "endSec": 224.7,
+          "text": "It"
+        }
+      ]
     },
     {
       "startSec": 223.8,
       "endSec": 230,
-      "text": "It describes the unpleasant feeling a person has"
+      "text": "It describes the unpleasant feeling a person has",
+      "words": [
+        {
+          "startSec": 223.8,
+          "endSec": 224.7,
+          "text": "It"
+        },
+        {
+          "startSec": 224.7,
+          "endSec": 225.4,
+          "text": "describes"
+        },
+        {
+          "startSec": 225.4,
+          "endSec": 225.8,
+          "text": "the"
+        },
+        {
+          "startSec": 225.8,
+          "endSec": 227.3,
+          "text": "unpleasant"
+        },
+        {
+          "startSec": 227.3,
+          "endSec": 228.3,
+          "text": "feeling"
+        },
+        {
+          "startSec": 228.3,
+          "endSec": 228.5,
+          "text": "a"
+        },
+        {
+          "startSec": 228.5,
+          "endSec": 229.5,
+          "text": "person"
+        },
+        {
+          "startSec": 229.5,
+          "endSec": 230,
+          "text": "has"
+        },
+        {
+          "startSec": 230,
+          "endSec": 230.9,
+          "text": "when"
+        }
+      ]
     },
     {
       "startSec": 230,
       "endSec": 232.8,
-      "text": "when someone has something he wants."
+      "text": "when someone has something he wants.",
+      "words": [
+        {
+          "startSec": 230,
+          "endSec": 230.9,
+          "text": "when"
+        },
+        {
+          "startSec": 230.9,
+          "endSec": 231,
+          "text": "someone"
+        },
+        {
+          "startSec": 231,
+          "endSec": 231.3,
+          "text": "has"
+        },
+        {
+          "startSec": 231.3,
+          "endSec": 232.1,
+          "text": "something"
+        },
+        {
+          "startSec": 232.1,
+          "endSec": 232.3,
+          "text": "he"
+        },
+        {
+          "startSec": 232.3,
+          "endSec": 232.8,
+          "text": "wants."
+        }
+      ]
     },
     {
       "startSec": 235.3,
       "endSec": 239.3,
-      "text": "A young man may suffer from the green-eyed monster"
+      "text": "A young man may suffer from the green-eyed monster",
+      "words": [
+        {
+          "startSec": 235.3,
+          "endSec": 235.3,
+          "text": "A"
+        },
+        {
+          "startSec": 235.3,
+          "endSec": 235.3,
+          "text": "young"
+        },
+        {
+          "startSec": 235.3,
+          "endSec": 235.3,
+          "text": "man"
+        },
+        {
+          "startSec": 235.3,
+          "endSec": 235.3,
+          "text": "may"
+        },
+        {
+          "startSec": 235.3,
+          "endSec": 236.2,
+          "text": "suffer"
+        },
+        {
+          "startSec": 236.2,
+          "endSec": 236.2,
+          "text": "from"
+        },
+        {
+          "startSec": 236.2,
+          "endSec": 236.7,
+          "text": "the"
+        },
+        {
+          "startSec": 236.7,
+          "endSec": 238.2,
+          "text": "green-eyed"
+        },
+        {
+          "startSec": 238.2,
+          "endSec": 239.3,
+          "text": "monster"
+        },
+        {
+          "startSec": 239.3,
+          "endSec": 239.5,
+          "text": "if"
+        }
+      ]
     },
     {
       "startSec": 239.3,
       "endSec": 243.4,
-      "text": "if his girlfriend begins going out with someone else."
+      "text": "if his girlfriend begins going out with someone else.",
+      "words": [
+        {
+          "startSec": 239.3,
+          "endSec": 239.5,
+          "text": "if"
+        },
+        {
+          "startSec": 239.5,
+          "endSec": 240.2,
+          "text": "his"
+        },
+        {
+          "startSec": 240.2,
+          "endSec": 240.6,
+          "text": "girlfriend"
+        },
+        {
+          "startSec": 240.6,
+          "endSec": 241.1,
+          "text": "begins"
+        },
+        {
+          "startSec": 241.1,
+          "endSec": 241.6,
+          "text": "going"
+        },
+        {
+          "startSec": 241.6,
+          "endSec": 241.8,
+          "text": "out"
+        },
+        {
+          "startSec": 241.8,
+          "endSec": 242.2,
+          "text": "with"
+        },
+        {
+          "startSec": 242.2,
+          "endSec": 242.8,
+          "text": "someone"
+        },
+        {
+          "startSec": 242.8,
+          "endSec": 243.4,
+          "text": "else."
+        },
+        {
+          "startSec": 243.4,
+          "endSec": 244.2,
+          "text": "Or"
+        }
+      ]
     },
     {
       "startSec": 243.4,
       "endSec": 248.9,
-      "text": "Or that green-eyed monster may affect your friend"
+      "text": "Or that green-eyed monster may affect your friend",
+      "words": [
+        {
+          "startSec": 243.4,
+          "endSec": 244.2,
+          "text": "Or"
+        },
+        {
+          "startSec": 244.2,
+          "endSec": 244.3,
+          "text": "that"
+        },
+        {
+          "startSec": 244.3,
+          "endSec": 245.5,
+          "text": "green-eyed"
+        },
+        {
+          "startSec": 245.5,
+          "endSec": 246.4,
+          "text": "monster"
+        },
+        {
+          "startSec": 246.4,
+          "endSec": 246.7,
+          "text": "may"
+        },
+        {
+          "startSec": 246.7,
+          "endSec": 247.5,
+          "text": "affect"
+        },
+        {
+          "startSec": 247.5,
+          "endSec": 248,
+          "text": "your"
+        },
+        {
+          "startSec": 248,
+          "endSec": 248.9,
+          "text": "friend"
+        },
+        {
+          "startSec": 248.9,
+          "endSec": 249.1,
+          "text": "if"
+        }
+      ]
     },
     {
       "startSec": 248.9,
       "endSec": 252.5,
-      "text": "if you get a pay raise and she does not."
+      "text": "if you get a pay raise and she does not.",
+      "words": [
+        {
+          "startSec": 248.9,
+          "endSec": 249.1,
+          "text": "if"
+        },
+        {
+          "startSec": 249.1,
+          "endSec": 249.7,
+          "text": "you"
+        },
+        {
+          "startSec": 249.7,
+          "endSec": 249.8,
+          "text": "get"
+        },
+        {
+          "startSec": 249.8,
+          "endSec": 249.9,
+          "text": "a"
+        },
+        {
+          "startSec": 249.9,
+          "endSec": 250.2,
+          "text": "pay"
+        },
+        {
+          "startSec": 250.2,
+          "endSec": 250.7,
+          "text": "raise"
+        },
+        {
+          "startSec": 250.7,
+          "endSec": 251.1,
+          "text": "and"
+        },
+        {
+          "startSec": 251.1,
+          "endSec": 251.4,
+          "text": "she"
+        },
+        {
+          "startSec": 251.4,
+          "endSec": 251.8,
+          "text": "does"
+        },
+        {
+          "startSec": 251.8,
+          "endSec": 252.5,
+          "text": "not."
+        },
+        {
+          "startSec": 252.5,
+          "endSec": 253.4,
+          "text": "In"
+        }
+      ]
     },
     {
       "startSec": 252.5,
       "endSec": 259,
-      "text": "In most places in the world, a green light is a sign"
+      "text": "In most places in the world, a green light is a sign",
+      "words": [
+        {
+          "startSec": 252.5,
+          "endSec": 253.4,
+          "text": "In"
+        },
+        {
+          "startSec": 253.4,
+          "endSec": 253.4,
+          "text": "most"
+        },
+        {
+          "startSec": 253.4,
+          "endSec": 254.4,
+          "text": "places"
+        },
+        {
+          "startSec": 254.4,
+          "endSec": 254.7,
+          "text": "in"
+        },
+        {
+          "startSec": 254.7,
+          "endSec": 255.1,
+          "text": "the"
+        },
+        {
+          "startSec": 255.1,
+          "endSec": 256.2,
+          "text": "world,"
+        },
+        {
+          "startSec": 256.2,
+          "endSec": 256.4,
+          "text": "a"
+        },
+        {
+          "startSec": 256.4,
+          "endSec": 257.1,
+          "text": "green"
+        },
+        {
+          "startSec": 257.1,
+          "endSec": 257.9,
+          "text": "light"
+        },
+        {
+          "startSec": 257.9,
+          "endSec": 258.2,
+          "text": "is"
+        },
+        {
+          "startSec": 258.2,
+          "endSec": 258.4,
+          "text": "a"
+        },
+        {
+          "startSec": 258.4,
+          "endSec": 259,
+          "text": "sign"
+        },
+        {
+          "startSec": 259,
+          "endSec": 259.2,
+          "text": "to"
+        }
+      ]
     },
     {
       "startSec": 259,
       "endSec": 260.4,
-      "text": "to move ahead."
+      "text": "to move ahead.",
+      "words": [
+        {
+          "startSec": 259,
+          "endSec": 259.2,
+          "text": "to"
+        },
+        {
+          "startSec": 259.2,
+          "endSec": 259.9,
+          "text": "move"
+        },
+        {
+          "startSec": 259.9,
+          "endSec": 260.4,
+          "text": "ahead."
+        }
+      ]
     },
     {
       "startSec": 261.7,
       "endSec": 264.7,
-      "text": "A green light on a traffic signal means"
+      "text": "A green light on a traffic signal means",
+      "words": [
+        {
+          "startSec": 261.7,
+          "endSec": 261.8,
+          "text": "A"
+        },
+        {
+          "startSec": 261.8,
+          "endSec": 262.6,
+          "text": "green"
+        },
+        {
+          "startSec": 262.6,
+          "endSec": 262.8,
+          "text": "light"
+        },
+        {
+          "startSec": 262.8,
+          "endSec": 262.9,
+          "text": "on"
+        },
+        {
+          "startSec": 262.9,
+          "endSec": 263,
+          "text": "a"
+        },
+        {
+          "startSec": 263,
+          "endSec": 263.7,
+          "text": "traffic"
+        },
+        {
+          "startSec": 263.7,
+          "endSec": 264.3,
+          "text": "signal"
+        },
+        {
+          "startSec": 264.3,
+          "endSec": 264.7,
+          "text": "means"
+        },
+        {
+          "startSec": 264.7,
+          "endSec": 265.1,
+          "text": "your"
+        }
+      ]
     },
     {
       "startSec": 264.7,
       "endSec": 266.8,
-      "text": "your car can continue on."
+      "text": "your car can continue on.",
+      "words": [
+        {
+          "startSec": 264.7,
+          "endSec": 265.1,
+          "text": "your"
+        },
+        {
+          "startSec": 265.1,
+          "endSec": 265.6,
+          "text": "car"
+        },
+        {
+          "startSec": 265.6,
+          "endSec": 265.7,
+          "text": "can"
+        },
+        {
+          "startSec": 265.7,
+          "endSec": 266.3,
+          "text": "continue"
+        },
+        {
+          "startSec": 266.3,
+          "endSec": 266.8,
+          "text": "on."
+        },
+        {
+          "startSec": 266.8,
+          "endSec": 267.7,
+          "text": "In"
+        }
+      ]
     },
     {
       "startSec": 266.8,
       "endSec": 272.4,
-      "text": "In everyday speech, a green light means approval"
+      "text": "In everyday speech, a green light means approval",
+      "words": [
+        {
+          "startSec": 266.8,
+          "endSec": 267.7,
+          "text": "In"
+        },
+        {
+          "startSec": 267.7,
+          "endSec": 268.7,
+          "text": "everyday"
+        },
+        {
+          "startSec": 268.7,
+          "endSec": 270.2,
+          "text": "speech,"
+        },
+        {
+          "startSec": 270.2,
+          "endSec": 270.3,
+          "text": "a"
+        },
+        {
+          "startSec": 270.3,
+          "endSec": 270.7,
+          "text": "green"
+        },
+        {
+          "startSec": 270.7,
+          "endSec": 271.1,
+          "text": "light"
+        },
+        {
+          "startSec": 271.1,
+          "endSec": 271.6,
+          "text": "means"
+        },
+        {
+          "startSec": 271.6,
+          "endSec": 272.4,
+          "text": "approval"
+        },
+        {
+          "startSec": 272.4,
+          "endSec": 273.1,
+          "text": "to"
+        }
+      ]
     },
     {
       "startSec": 272.4,
       "endSec": 274.2,
-      "text": "to continue with a project."
+      "text": "to continue with a project.",
+      "words": [
+        {
+          "startSec": 272.4,
+          "endSec": 273.1,
+          "text": "to"
+        },
+        {
+          "startSec": 273.1,
+          "endSec": 273.3,
+          "text": "continue"
+        },
+        {
+          "startSec": 273.3,
+          "endSec": 273.4,
+          "text": "with"
+        },
+        {
+          "startSec": 273.4,
+          "endSec": 273.4,
+          "text": "a"
+        },
+        {
+          "startSec": 273.4,
+          "endSec": 274.2,
+          "text": "project."
+        },
+        {
+          "startSec": 274.2,
+          "endSec": 275.1,
+          "text": "We"
+        }
+      ]
     },
     {
       "startSec": 274.2,
       "endSec": 279,
-      "text": "We want you to know we have a green light"
+      "text": "We want you to know we have a green light",
+      "words": [
+        {
+          "startSec": 274.2,
+          "endSec": 275.1,
+          "text": "We"
+        },
+        {
+          "startSec": 275.1,
+          "endSec": 275.5,
+          "text": "want"
+        },
+        {
+          "startSec": 275.5,
+          "endSec": 276.1,
+          "text": "you"
+        },
+        {
+          "startSec": 276.1,
+          "endSec": 276.6,
+          "text": "to"
+        },
+        {
+          "startSec": 276.6,
+          "endSec": 277.5,
+          "text": "know"
+        },
+        {
+          "startSec": 277.5,
+          "endSec": 277.6,
+          "text": "we"
+        },
+        {
+          "startSec": 277.6,
+          "endSec": 278,
+          "text": "have"
+        },
+        {
+          "startSec": 278,
+          "endSec": 278.1,
+          "text": "a"
+        },
+        {
+          "startSec": 278.1,
+          "endSec": 278.5,
+          "text": "green"
+        },
+        {
+          "startSec": 278.5,
+          "endSec": 279,
+          "text": "light"
+        },
+        {
+          "startSec": 279,
+          "endSec": 279.9,
+          "text": "to"
+        }
+      ]
     },
     {
       "startSec": 279,
       "endSec": 281.8,
-      "text": "to continue this series next week."
+      "text": "to continue this series next week.",
+      "words": [
+        {
+          "startSec": 279,
+          "endSec": 279.9,
+          "text": "to"
+        },
+        {
+          "startSec": 279.9,
+          "endSec": 279.9,
+          "text": "continue"
+        },
+        {
+          "startSec": 279.9,
+          "endSec": 280.2,
+          "text": "this"
+        },
+        {
+          "startSec": 280.2,
+          "endSec": 280.8,
+          "text": "series"
+        },
+        {
+          "startSec": 280.8,
+          "endSec": 281.1,
+          "text": "next"
+        },
+        {
+          "startSec": 281.1,
+          "endSec": 281.8,
+          "text": "week."
+        },
+        {
+          "startSec": 281.8,
+          "endSec": 282.7,
+          "text": "And"
+        }
+      ]
     },
     {
       "startSec": 281.8,
       "endSec": 286,
-      "text": "And that's all the time we have for this words"
+      "text": "And that's all the time we have for this words",
+      "words": [
+        {
+          "startSec": 281.8,
+          "endSec": 282.7,
+          "text": "And"
+        },
+        {
+          "startSec": 282.7,
+          "endSec": 283,
+          "text": "that's"
+        },
+        {
+          "startSec": 283,
+          "endSec": 283.4,
+          "text": "all"
+        },
+        {
+          "startSec": 283.4,
+          "endSec": 283.8,
+          "text": "the"
+        },
+        {
+          "startSec": 283.8,
+          "endSec": 284.4,
+          "text": "time"
+        },
+        {
+          "startSec": 284.4,
+          "endSec": 284.7,
+          "text": "we"
+        },
+        {
+          "startSec": 284.7,
+          "endSec": 285.2,
+          "text": "have"
+        },
+        {
+          "startSec": 285.2,
+          "endSec": 285.5,
+          "text": "for"
+        },
+        {
+          "startSec": 285.5,
+          "endSec": 285.7,
+          "text": "this"
+        },
+        {
+          "startSec": 285.7,
+          "endSec": 286,
+          "text": "words"
+        },
+        {
+          "startSec": 286,
+          "endSec": 286.1,
+          "text": "and"
+        }
+      ]
     },
     {
       "startSec": 286,
       "endSec": 287,
-      "text": "and their stories."
+      "text": "and their stories.",
+      "words": [
+        {
+          "startSec": 286,
+          "endSec": 286.1,
+          "text": "and"
+        },
+        {
+          "startSec": 286.1,
+          "endSec": 286.8,
+          "text": "their"
+        },
+        {
+          "startSec": 286.8,
+          "endSec": 287,
+          "text": "stories."
+        },
+        {
+          "startSec": 287,
+          "endSec": 287.9,
+          "text": "Don't"
+        }
+      ]
     },
     {
       "startSec": 287,
       "endSec": 291.2,
-      "text": "Don't forget to tune in again for another story"
+      "text": "Don't forget to tune in again for another story",
+      "words": [
+        {
+          "startSec": 287,
+          "endSec": 287.9,
+          "text": "Don't"
+        },
+        {
+          "startSec": 287.9,
+          "endSec": 288.3,
+          "text": "forget"
+        },
+        {
+          "startSec": 288.3,
+          "endSec": 288.5,
+          "text": "to"
+        },
+        {
+          "startSec": 288.5,
+          "endSec": 288.9,
+          "text": "tune"
+        },
+        {
+          "startSec": 288.9,
+          "endSec": 289.2,
+          "text": "in"
+        },
+        {
+          "startSec": 289.2,
+          "endSec": 289.8,
+          "text": "again"
+        },
+        {
+          "startSec": 289.8,
+          "endSec": 290.2,
+          "text": "for"
+        },
+        {
+          "startSec": 290.2,
+          "endSec": 290.7,
+          "text": "another"
+        },
+        {
+          "startSec": 290.7,
+          "endSec": 291.2,
+          "text": "story"
+        },
+        {
+          "startSec": 291.2,
+          "endSec": 292.1,
+          "text": "about"
+        }
+      ]
     },
     {
       "startSec": 291.2,
       "endSec": 294.3,
-      "text": "about American English expressions."
+      "text": "about American English expressions.",
+      "words": [
+        {
+          "startSec": 291.2,
+          "endSec": 292.1,
+          "text": "about"
+        },
+        {
+          "startSec": 292.1,
+          "endSec": 292.4,
+          "text": "American"
+        },
+        {
+          "startSec": 292.4,
+          "endSec": 293,
+          "text": "English"
+        },
+        {
+          "startSec": 293,
+          "endSec": 294.3,
+          "text": "expressions."
+        },
+        {
+          "startSec": 294.3,
+          "endSec": 295.2,
+          "text": "Until"
+        }
+      ]
     },
     {
       "startSec": 294.3,
       "endSec": 297.1,
-      "text": "Until next time, I'm Anna Mateo."
+      "text": "Until next time, I'm Anna Mateo.",
+      "words": [
+        {
+          "startSec": 294.3,
+          "endSec": 295.2,
+          "text": "Until"
+        },
+        {
+          "startSec": 295.2,
+          "endSec": 295.3,
+          "text": "next"
+        },
+        {
+          "startSec": 295.3,
+          "endSec": 295.8,
+          "text": "time,"
+        },
+        {
+          "startSec": 295.8,
+          "endSec": 296.1,
+          "text": "I'm"
+        },
+        {
+          "startSec": 296.1,
+          "endSec": 296.5,
+          "text": "Anna"
+        },
+        {
+          "startSec": 296.5,
+          "endSec": 297.1,
+          "text": "Mateo."
+        }
+      ]
     }
   ],
   "cefr": "B2",

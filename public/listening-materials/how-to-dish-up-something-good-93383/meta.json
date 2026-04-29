@@ -9,192 +9,2353 @@
     {
       "startSec": 0,
       "endSec": 19.9,
-      "text": "And now, words and their stories from VOA Learning English."
+      "text": "And now, words and their stories from VOA Learning English.",
+      "words": [
+        {
+          "startSec": 0.9,
+          "endSec": 1.2,
+          "text": "And"
+        },
+        {
+          "startSec": 1.2,
+          "endSec": 3.3,
+          "text": "now,"
+        },
+        {
+          "startSec": 3.3,
+          "endSec": 5.4,
+          "text": "words"
+        },
+        {
+          "startSec": 5.4,
+          "endSec": 6.6,
+          "text": "and"
+        },
+        {
+          "startSec": 6.6,
+          "endSec": 8.7,
+          "text": "their"
+        },
+        {
+          "startSec": 8.7,
+          "endSec": 11.7,
+          "text": "stories"
+        },
+        {
+          "startSec": 11.7,
+          "endSec": 12,
+          "text": "from"
+        },
+        {
+          "startSec": 12,
+          "endSec": 12.3,
+          "text": "VOA"
+        },
+        {
+          "startSec": 12.3,
+          "endSec": 13.2,
+          "text": "Learning"
+        },
+        {
+          "startSec": 13.2,
+          "endSec": 19.9,
+          "text": "English."
+        },
+        {
+          "startSec": 19.9,
+          "endSec": 20.3,
+          "text": "Food"
+        }
+      ]
     },
     {
       "startSec": 19.9,
       "endSec": 24.8,
-      "text": "Food is a popular subject with many people around the world."
+      "text": "Food is a popular subject with many people around the world.",
+      "words": [
+        {
+          "startSec": 19.9,
+          "endSec": 20.3,
+          "text": "Food"
+        },
+        {
+          "startSec": 20.3,
+          "endSec": 20.5,
+          "text": "is"
+        },
+        {
+          "startSec": 20.5,
+          "endSec": 20.9,
+          "text": "a"
+        },
+        {
+          "startSec": 20.9,
+          "endSec": 21.2,
+          "text": "popular"
+        },
+        {
+          "startSec": 21.2,
+          "endSec": 21.9,
+          "text": "subject"
+        },
+        {
+          "startSec": 21.9,
+          "endSec": 22.3,
+          "text": "with"
+        },
+        {
+          "startSec": 22.3,
+          "endSec": 22.6,
+          "text": "many"
+        },
+        {
+          "startSec": 22.6,
+          "endSec": 23.2,
+          "text": "people"
+        },
+        {
+          "startSec": 23.2,
+          "endSec": 23.7,
+          "text": "around"
+        },
+        {
+          "startSec": 23.7,
+          "endSec": 24,
+          "text": "the"
+        },
+        {
+          "startSec": 24,
+          "endSec": 24.8,
+          "text": "world."
+        },
+        {
+          "startSec": 24.8,
+          "endSec": 25,
+          "text": "It"
+        }
+      ]
     },
     {
       "startSec": 24.8,
       "endSec": 28.7,
-      "text": "It is fun to talk about our favorite dishes."
+      "text": "It is fun to talk about our favorite dishes.",
+      "words": [
+        {
+          "startSec": 24.8,
+          "endSec": 25,
+          "text": "It"
+        },
+        {
+          "startSec": 25,
+          "endSec": 25.5,
+          "text": "is"
+        },
+        {
+          "startSec": 25.5,
+          "endSec": 25.7,
+          "text": "fun"
+        },
+        {
+          "startSec": 25.7,
+          "endSec": 25.7,
+          "text": "to"
+        },
+        {
+          "startSec": 25.7,
+          "endSec": 26.1,
+          "text": "talk"
+        },
+        {
+          "startSec": 26.1,
+          "endSec": 26.6,
+          "text": "about"
+        },
+        {
+          "startSec": 26.6,
+          "endSec": 26.9,
+          "text": "our"
+        },
+        {
+          "startSec": 26.9,
+          "endSec": 27.8,
+          "text": "favorite"
+        },
+        {
+          "startSec": 27.8,
+          "endSec": 28.7,
+          "text": "dishes."
+        },
+        {
+          "startSec": 28.7,
+          "endSec": 29,
+          "text": "It"
+        }
+      ]
     },
     {
       "startSec": 28.7,
       "endSec": 34,
-      "text": "It is even more fun to share a favorite dish with others."
+      "text": "It is even more fun to share a favorite dish with others.",
+      "words": [
+        {
+          "startSec": 28.7,
+          "endSec": 29,
+          "text": "It"
+        },
+        {
+          "startSec": 29,
+          "endSec": 29.6,
+          "text": "is"
+        },
+        {
+          "startSec": 29.6,
+          "endSec": 29.7,
+          "text": "even"
+        },
+        {
+          "startSec": 29.7,
+          "endSec": 30,
+          "text": "more"
+        },
+        {
+          "startSec": 30,
+          "endSec": 30.3,
+          "text": "fun"
+        },
+        {
+          "startSec": 30.3,
+          "endSec": 30.6,
+          "text": "to"
+        },
+        {
+          "startSec": 30.6,
+          "endSec": 31.1,
+          "text": "share"
+        },
+        {
+          "startSec": 31.1,
+          "endSec": 31.2,
+          "text": "a"
+        },
+        {
+          "startSec": 31.2,
+          "endSec": 32.1,
+          "text": "favorite"
+        },
+        {
+          "startSec": 32.1,
+          "endSec": 32.5,
+          "text": "dish"
+        },
+        {
+          "startSec": 32.5,
+          "endSec": 32.9,
+          "text": "with"
+        },
+        {
+          "startSec": 32.9,
+          "endSec": 34,
+          "text": "others."
+        },
+        {
+          "startSec": 34,
+          "endSec": 34.9,
+          "text": "Today,"
+        }
+      ]
     },
     {
       "startSec": 34,
       "endSec": 37.8,
-      "text": "Today, we talk about the word dish."
+      "text": "Today, we talk about the word dish.",
+      "words": [
+        {
+          "startSec": 34,
+          "endSec": 34.9,
+          "text": "Today,"
+        },
+        {
+          "startSec": 34.9,
+          "endSec": 35.1,
+          "text": "we"
+        },
+        {
+          "startSec": 35.1,
+          "endSec": 35.5,
+          "text": "talk"
+        },
+        {
+          "startSec": 35.5,
+          "endSec": 36.1,
+          "text": "about"
+        },
+        {
+          "startSec": 36.1,
+          "endSec": 36.5,
+          "text": "the"
+        },
+        {
+          "startSec": 36.5,
+          "endSec": 36.9,
+          "text": "word"
+        },
+        {
+          "startSec": 36.9,
+          "endSec": 37.8,
+          "text": "dish."
+        },
+        {
+          "startSec": 37.8,
+          "endSec": 37.9,
+          "text": "A"
+        }
+      ]
     },
     {
       "startSec": 37.8,
       "endSec": 42.4,
-      "text": "A dish can be the object on which you serve food."
+      "text": "A dish can be the object on which you serve food.",
+      "words": [
+        {
+          "startSec": 37.8,
+          "endSec": 37.9,
+          "text": "A"
+        },
+        {
+          "startSec": 37.9,
+          "endSec": 38.7,
+          "text": "dish"
+        },
+        {
+          "startSec": 38.7,
+          "endSec": 38.7,
+          "text": "can"
+        },
+        {
+          "startSec": 38.7,
+          "endSec": 38.9,
+          "text": "be"
+        },
+        {
+          "startSec": 38.9,
+          "endSec": 39.3,
+          "text": "the"
+        },
+        {
+          "startSec": 39.3,
+          "endSec": 39.9,
+          "text": "object"
+        },
+        {
+          "startSec": 39.9,
+          "endSec": 40.1,
+          "text": "on"
+        },
+        {
+          "startSec": 40.1,
+          "endSec": 40.7,
+          "text": "which"
+        },
+        {
+          "startSec": 40.7,
+          "endSec": 41,
+          "text": "you"
+        },
+        {
+          "startSec": 41,
+          "endSec": 41.6,
+          "text": "serve"
+        },
+        {
+          "startSec": 41.6,
+          "endSec": 42.4,
+          "text": "food."
+        },
+        {
+          "startSec": 42.4,
+          "endSec": 42.8,
+          "text": "But"
+        }
+      ]
     },
     {
       "startSec": 42.4,
       "endSec": 47.9,
-      "text": "But a dish can also mean especially prepared food."
+      "text": "But a dish can also mean especially prepared food.",
+      "words": [
+        {
+          "startSec": 42.4,
+          "endSec": 42.8,
+          "text": "But"
+        },
+        {
+          "startSec": 42.8,
+          "endSec": 43.3,
+          "text": "a"
+        },
+        {
+          "startSec": 43.3,
+          "endSec": 43.4,
+          "text": "dish"
+        },
+        {
+          "startSec": 43.4,
+          "endSec": 43.8,
+          "text": "can"
+        },
+        {
+          "startSec": 43.8,
+          "endSec": 44.3,
+          "text": "also"
+        },
+        {
+          "startSec": 44.3,
+          "endSec": 44.8,
+          "text": "mean"
+        },
+        {
+          "startSec": 44.8,
+          "endSec": 46,
+          "text": "especially"
+        },
+        {
+          "startSec": 46,
+          "endSec": 47,
+          "text": "prepared"
+        },
+        {
+          "startSec": 47,
+          "endSec": 47.9,
+          "text": "food."
+        },
+        {
+          "startSec": 47.9,
+          "endSec": 48.6,
+          "text": "Do"
+        }
+      ]
     },
     {
       "startSec": 47.9,
       "endSec": 51.7,
-      "text": "Do you have a signature dish?"
+      "text": "Do you have a signature dish?",
+      "words": [
+        {
+          "startSec": 47.9,
+          "endSec": 48.6,
+          "text": "Do"
+        },
+        {
+          "startSec": 48.6,
+          "endSec": 48.8,
+          "text": "you"
+        },
+        {
+          "startSec": 48.8,
+          "endSec": 49.2,
+          "text": "have"
+        },
+        {
+          "startSec": 49.2,
+          "endSec": 49.3,
+          "text": "a"
+        },
+        {
+          "startSec": 49.3,
+          "endSec": 50.6,
+          "text": "signature"
+        },
+        {
+          "startSec": 50.6,
+          "endSec": 51.7,
+          "text": "dish?"
+        },
+        {
+          "startSec": 51.7,
+          "endSec": 52.6,
+          "text": "Our"
+        }
+      ]
     },
     {
       "startSec": 51.7,
       "endSec": 55.3,
-      "text": "Our signature is how we sign our names."
+      "text": "Our signature is how we sign our names.",
+      "words": [
+        {
+          "startSec": 51.7,
+          "endSec": 52.6,
+          "text": "Our"
+        },
+        {
+          "startSec": 52.6,
+          "endSec": 53,
+          "text": "signature"
+        },
+        {
+          "startSec": 53,
+          "endSec": 53.2,
+          "text": "is"
+        },
+        {
+          "startSec": 53.2,
+          "endSec": 53.5,
+          "text": "how"
+        },
+        {
+          "startSec": 53.5,
+          "endSec": 53.7,
+          "text": "we"
+        },
+        {
+          "startSec": 53.7,
+          "endSec": 54.1,
+          "text": "sign"
+        },
+        {
+          "startSec": 54.1,
+          "endSec": 54.4,
+          "text": "our"
+        },
+        {
+          "startSec": 54.4,
+          "endSec": 55.3,
+          "text": "names."
+        },
+        {
+          "startSec": 55.3,
+          "endSec": 55.8,
+          "text": "So,"
+        }
+      ]
     },
     {
       "startSec": 55.3,
       "endSec": 61.1,
-      "text": "So, a signature dish is a dish we are known for making well."
+      "text": "So, a signature dish is a dish we are known for making well.",
+      "words": [
+        {
+          "startSec": 55.3,
+          "endSec": 55.8,
+          "text": "So,"
+        },
+        {
+          "startSec": 55.8,
+          "endSec": 56.3,
+          "text": "a"
+        },
+        {
+          "startSec": 56.3,
+          "endSec": 56.9,
+          "text": "signature"
+        },
+        {
+          "startSec": 56.9,
+          "endSec": 57.4,
+          "text": "dish"
+        },
+        {
+          "startSec": 57.4,
+          "endSec": 57.6,
+          "text": "is"
+        },
+        {
+          "startSec": 57.6,
+          "endSec": 57.7,
+          "text": "a"
+        },
+        {
+          "startSec": 57.7,
+          "endSec": 58.1,
+          "text": "dish"
+        },
+        {
+          "startSec": 58.1,
+          "endSec": 58.4,
+          "text": "we"
+        },
+        {
+          "startSec": 58.4,
+          "endSec": 58.7,
+          "text": "are"
+        },
+        {
+          "startSec": 58.7,
+          "endSec": 59.3,
+          "text": "known"
+        },
+        {
+          "startSec": 59.3,
+          "endSec": 59.6,
+          "text": "for"
+        },
+        {
+          "startSec": 59.6,
+          "endSec": 60.3,
+          "text": "making"
+        },
+        {
+          "startSec": 60.3,
+          "endSec": 61.1,
+          "text": "well."
+        },
+        {
+          "startSec": 61.1,
+          "endSec": 61.5,
+          "text": "In"
+        }
+      ]
     },
     {
       "startSec": 61.1,
       "endSec": 65.1,
-      "text": "In a way, it identifies us."
+      "text": "In a way, it identifies us.",
+      "words": [
+        {
+          "startSec": 61.1,
+          "endSec": 61.5,
+          "text": "In"
+        },
+        {
+          "startSec": 61.5,
+          "endSec": 62,
+          "text": "a"
+        },
+        {
+          "startSec": 62,
+          "endSec": 62.4,
+          "text": "way,"
+        },
+        {
+          "startSec": 62.4,
+          "endSec": 62.7,
+          "text": "it"
+        },
+        {
+          "startSec": 62.7,
+          "endSec": 64.3,
+          "text": "identifies"
+        },
+        {
+          "startSec": 64.3,
+          "endSec": 65.1,
+          "text": "us."
+        },
+        {
+          "startSec": 65.1,
+          "endSec": 66,
+          "text": "My"
+        }
+      ]
     },
     {
       "startSec": 65.1,
       "endSec": 70.7,
-      "text": "My signature dish is sweet potato rosemary dinner rolls."
+      "text": "My signature dish is sweet potato rosemary dinner rolls.",
+      "words": [
+        {
+          "startSec": 65.1,
+          "endSec": 66,
+          "text": "My"
+        },
+        {
+          "startSec": 66,
+          "endSec": 66.3,
+          "text": "signature"
+        },
+        {
+          "startSec": 66.3,
+          "endSec": 66.7,
+          "text": "dish"
+        },
+        {
+          "startSec": 66.7,
+          "endSec": 67,
+          "text": "is"
+        },
+        {
+          "startSec": 67,
+          "endSec": 67.5,
+          "text": "sweet"
+        },
+        {
+          "startSec": 67.5,
+          "endSec": 68.2,
+          "text": "potato"
+        },
+        {
+          "startSec": 68.2,
+          "endSec": 69.1,
+          "text": "rosemary"
+        },
+        {
+          "startSec": 69.1,
+          "endSec": 69.7,
+          "text": "dinner"
+        },
+        {
+          "startSec": 69.7,
+          "endSec": 70.7,
+          "text": "rolls."
+        },
+        {
+          "startSec": 70.7,
+          "endSec": 70.8,
+          "text": "I"
+        }
+      ]
     },
     {
       "startSec": 70.7,
       "endSec": 76.7,
-      "text": "I am often asked to make them, especially for holiday parties."
+      "text": "I am often asked to make them, especially for holiday parties.",
+      "words": [
+        {
+          "startSec": 70.7,
+          "endSec": 70.8,
+          "text": "I"
+        },
+        {
+          "startSec": 70.8,
+          "endSec": 71.5,
+          "text": "am"
+        },
+        {
+          "startSec": 71.5,
+          "endSec": 71.6,
+          "text": "often"
+        },
+        {
+          "startSec": 71.6,
+          "endSec": 72.1,
+          "text": "asked"
+        },
+        {
+          "startSec": 72.1,
+          "endSec": 72.3,
+          "text": "to"
+        },
+        {
+          "startSec": 72.3,
+          "endSec": 72.8,
+          "text": "make"
+        },
+        {
+          "startSec": 72.8,
+          "endSec": 73.4,
+          "text": "them,"
+        },
+        {
+          "startSec": 73.4,
+          "endSec": 74.5,
+          "text": "especially"
+        },
+        {
+          "startSec": 74.5,
+          "endSec": 74.8,
+          "text": "for"
+        },
+        {
+          "startSec": 74.8,
+          "endSec": 75.6,
+          "text": "holiday"
+        },
+        {
+          "startSec": 75.6,
+          "endSec": 76.7,
+          "text": "parties."
+        },
+        {
+          "startSec": 76.7,
+          "endSec": 77,
+          "text": "In"
+        }
+      ]
     },
     {
       "startSec": 76.7,
       "endSec": 81.9,
-      "text": "In my circle of friends, I am known for this dish."
+      "text": "In my circle of friends, I am known for this dish.",
+      "words": [
+        {
+          "startSec": 76.7,
+          "endSec": 77,
+          "text": "In"
+        },
+        {
+          "startSec": 77,
+          "endSec": 77.7,
+          "text": "my"
+        },
+        {
+          "startSec": 77.7,
+          "endSec": 77.9,
+          "text": "circle"
+        },
+        {
+          "startSec": 77.9,
+          "endSec": 78.1,
+          "text": "of"
+        },
+        {
+          "startSec": 78.1,
+          "endSec": 79.2,
+          "text": "friends,"
+        },
+        {
+          "startSec": 79.2,
+          "endSec": 79.3,
+          "text": "I"
+        },
+        {
+          "startSec": 79.3,
+          "endSec": 79.5,
+          "text": "am"
+        },
+        {
+          "startSec": 79.5,
+          "endSec": 80.1,
+          "text": "known"
+        },
+        {
+          "startSec": 80.1,
+          "endSec": 80.5,
+          "text": "for"
+        },
+        {
+          "startSec": 80.5,
+          "endSec": 81,
+          "text": "this"
+        },
+        {
+          "startSec": 81,
+          "endSec": 81.9,
+          "text": "dish."
+        },
+        {
+          "startSec": 81.9,
+          "endSec": 82.6,
+          "text": "When"
+        }
+      ]
     },
     {
       "startSec": 81.9,
       "endSec": 87.3,
-      "text": "When the rolls are on the table, people know that I made them."
+      "text": "When the rolls are on the table, people know that I made them.",
+      "words": [
+        {
+          "startSec": 81.9,
+          "endSec": 82.6,
+          "text": "When"
+        },
+        {
+          "startSec": 82.6,
+          "endSec": 82.8,
+          "text": "the"
+        },
+        {
+          "startSec": 82.8,
+          "endSec": 83.1,
+          "text": "rolls"
+        },
+        {
+          "startSec": 83.1,
+          "endSec": 83.4,
+          "text": "are"
+        },
+        {
+          "startSec": 83.4,
+          "endSec": 83.6,
+          "text": "on"
+        },
+        {
+          "startSec": 83.6,
+          "endSec": 83.9,
+          "text": "the"
+        },
+        {
+          "startSec": 83.9,
+          "endSec": 84.6,
+          "text": "table,"
+        },
+        {
+          "startSec": 84.6,
+          "endSec": 85.2,
+          "text": "people"
+        },
+        {
+          "startSec": 85.2,
+          "endSec": 85.6,
+          "text": "know"
+        },
+        {
+          "startSec": 85.6,
+          "endSec": 86,
+          "text": "that"
+        },
+        {
+          "startSec": 86,
+          "endSec": 86.1,
+          "text": "I"
+        },
+        {
+          "startSec": 86.1,
+          "endSec": 86.5,
+          "text": "made"
+        },
+        {
+          "startSec": 86.5,
+          "endSec": 87.3,
+          "text": "them."
+        },
+        {
+          "startSec": 87.3,
+          "endSec": 88,
+          "text": "A"
+        }
+      ]
     },
     {
       "startSec": 87.3,
       "endSec": 94.6,
-      "text": "A tasty dish is something that makes a table look good and inviting."
+      "text": "A tasty dish is something that makes a table look good and inviting.",
+      "words": [
+        {
+          "startSec": 87.3,
+          "endSec": 88,
+          "text": "A"
+        },
+        {
+          "startSec": 88,
+          "endSec": 88.2,
+          "text": "tasty"
+        },
+        {
+          "startSec": 88.2,
+          "endSec": 88.5,
+          "text": "dish"
+        },
+        {
+          "startSec": 88.5,
+          "endSec": 88.8,
+          "text": "is"
+        },
+        {
+          "startSec": 88.8,
+          "endSec": 89.9,
+          "text": "something"
+        },
+        {
+          "startSec": 89.9,
+          "endSec": 90.4,
+          "text": "that"
+        },
+        {
+          "startSec": 90.4,
+          "endSec": 91,
+          "text": "makes"
+        },
+        {
+          "startSec": 91,
+          "endSec": 91.1,
+          "text": "a"
+        },
+        {
+          "startSec": 91.1,
+          "endSec": 91.8,
+          "text": "table"
+        },
+        {
+          "startSec": 91.8,
+          "endSec": 92.3,
+          "text": "look"
+        },
+        {
+          "startSec": 92.3,
+          "endSec": 92.8,
+          "text": "good"
+        },
+        {
+          "startSec": 92.8,
+          "endSec": 93.1,
+          "text": "and"
+        },
+        {
+          "startSec": 93.1,
+          "endSec": 94.6,
+          "text": "inviting."
+        },
+        {
+          "startSec": 94.6,
+          "endSec": 95.5,
+          "text": "Sometimes"
+        }
+      ]
     },
     {
       "startSec": 94.6,
       "endSec": 98.9,
-      "text": "Sometimes the same can be said about a person."
+      "text": "Sometimes the same can be said about a person.",
+      "words": [
+        {
+          "startSec": 94.6,
+          "endSec": 95.5,
+          "text": "Sometimes"
+        },
+        {
+          "startSec": 95.5,
+          "endSec": 95.9,
+          "text": "the"
+        },
+        {
+          "startSec": 95.9,
+          "endSec": 96.3,
+          "text": "same"
+        },
+        {
+          "startSec": 96.3,
+          "endSec": 96.6,
+          "text": "can"
+        },
+        {
+          "startSec": 96.6,
+          "endSec": 96.8,
+          "text": "be"
+        },
+        {
+          "startSec": 96.8,
+          "endSec": 97.2,
+          "text": "said"
+        },
+        {
+          "startSec": 97.2,
+          "endSec": 97.8,
+          "text": "about"
+        },
+        {
+          "startSec": 97.8,
+          "endSec": 97.9,
+          "text": "a"
+        },
+        {
+          "startSec": 97.9,
+          "endSec": 98.9,
+          "text": "person."
+        },
+        {
+          "startSec": 98.9,
+          "endSec": 99.8,
+          "text": "Someone"
+        }
+      ]
     },
     {
       "startSec": 98.9,
       "endSec": 103.7,
-      "text": "Someone who is good looking can be called a dish."
+      "text": "Someone who is good looking can be called a dish.",
+      "words": [
+        {
+          "startSec": 98.9,
+          "endSec": 99.8,
+          "text": "Someone"
+        },
+        {
+          "startSec": 99.8,
+          "endSec": 100,
+          "text": "who"
+        },
+        {
+          "startSec": 100,
+          "endSec": 100.2,
+          "text": "is"
+        },
+        {
+          "startSec": 100.2,
+          "endSec": 100.7,
+          "text": "good"
+        },
+        {
+          "startSec": 100.7,
+          "endSec": 101.5,
+          "text": "looking"
+        },
+        {
+          "startSec": 101.5,
+          "endSec": 101.8,
+          "text": "can"
+        },
+        {
+          "startSec": 101.8,
+          "endSec": 102.1,
+          "text": "be"
+        },
+        {
+          "startSec": 102.1,
+          "endSec": 102.8,
+          "text": "called"
+        },
+        {
+          "startSec": 102.8,
+          "endSec": 102.9,
+          "text": "a"
+        },
+        {
+          "startSec": 102.9,
+          "endSec": 103.7,
+          "text": "dish."
+        },
+        {
+          "startSec": 103.7,
+          "endSec": 104.6,
+          "text": "While"
+        }
+      ]
     },
     {
       "startSec": 103.7,
       "endSec": 109.2,
-      "text": "While this usage might be a bit dated, it is still used."
+      "text": "While this usage might be a bit dated, it is still used.",
+      "words": [
+        {
+          "startSec": 103.7,
+          "endSec": 104.6,
+          "text": "While"
+        },
+        {
+          "startSec": 104.6,
+          "endSec": 104.7,
+          "text": "this"
+        },
+        {
+          "startSec": 104.7,
+          "endSec": 105.3,
+          "text": "usage"
+        },
+        {
+          "startSec": 105.3,
+          "endSec": 105.9,
+          "text": "might"
+        },
+        {
+          "startSec": 105.9,
+          "endSec": 106.1,
+          "text": "be"
+        },
+        {
+          "startSec": 106.1,
+          "endSec": 106.2,
+          "text": "a"
+        },
+        {
+          "startSec": 106.2,
+          "endSec": 106.6,
+          "text": "bit"
+        },
+        {
+          "startSec": 106.6,
+          "endSec": 107.3,
+          "text": "dated,"
+        },
+        {
+          "startSec": 107.3,
+          "endSec": 107.6,
+          "text": "it"
+        },
+        {
+          "startSec": 107.6,
+          "endSec": 107.8,
+          "text": "is"
+        },
+        {
+          "startSec": 107.8,
+          "endSec": 108.4,
+          "text": "still"
+        },
+        {
+          "startSec": 108.4,
+          "endSec": 109.2,
+          "text": "used."
+        },
+        {
+          "startSec": 109.2,
+          "endSec": 110.1,
+          "text": "Now,"
+        }
+      ]
     },
     {
       "startSec": 109.2,
       "endSec": 113.6,
-      "text": "Now, let's talk about the verb dish."
+      "text": "Now, let's talk about the verb dish.",
+      "words": [
+        {
+          "startSec": 109.2,
+          "endSec": 110.1,
+          "text": "Now,"
+        },
+        {
+          "startSec": 110.1,
+          "endSec": 110.5,
+          "text": "let's"
+        },
+        {
+          "startSec": 110.5,
+          "endSec": 111,
+          "text": "talk"
+        },
+        {
+          "startSec": 111,
+          "endSec": 111.7,
+          "text": "about"
+        },
+        {
+          "startSec": 111.7,
+          "endSec": 112.1,
+          "text": "the"
+        },
+        {
+          "startSec": 112.1,
+          "endSec": 112.6,
+          "text": "verb"
+        },
+        {
+          "startSec": 112.6,
+          "endSec": 113.6,
+          "text": "dish."
+        },
+        {
+          "startSec": 113.6,
+          "endSec": 113.8,
+          "text": "To"
+        }
+      ]
     },
     {
       "startSec": 113.6,
       "endSec": 119.5,
-      "text": "To dish can mean to talk about private or personal information."
+      "text": "To dish can mean to talk about private or personal information.",
+      "words": [
+        {
+          "startSec": 113.6,
+          "endSec": 113.8,
+          "text": "To"
+        },
+        {
+          "startSec": 113.8,
+          "endSec": 114.5,
+          "text": "dish"
+        },
+        {
+          "startSec": 114.5,
+          "endSec": 114.5,
+          "text": "can"
+        },
+        {
+          "startSec": 114.5,
+          "endSec": 115,
+          "text": "mean"
+        },
+        {
+          "startSec": 115,
+          "endSec": 115.2,
+          "text": "to"
+        },
+        {
+          "startSec": 115.2,
+          "endSec": 115.6,
+          "text": "talk"
+        },
+        {
+          "startSec": 115.6,
+          "endSec": 116.1,
+          "text": "about"
+        },
+        {
+          "startSec": 116.1,
+          "endSec": 116.9,
+          "text": "private"
+        },
+        {
+          "startSec": 116.9,
+          "endSec": 117.1,
+          "text": "or"
+        },
+        {
+          "startSec": 117.1,
+          "endSec": 117.9,
+          "text": "personal"
+        },
+        {
+          "startSec": 117.9,
+          "endSec": 119.5,
+          "text": "information."
+        },
+        {
+          "startSec": 119.5,
+          "endSec": 120.4,
+          "text": "It"
+        }
+      ]
     },
     {
       "startSec": 119.5,
       "endSec": 122.3,
-      "text": "It might be gossip."
+      "text": "It might be gossip.",
+      "words": [
+        {
+          "startSec": 119.5,
+          "endSec": 120.4,
+          "text": "It"
+        },
+        {
+          "startSec": 120.4,
+          "endSec": 120.5,
+          "text": "might"
+        },
+        {
+          "startSec": 120.5,
+          "endSec": 120.9,
+          "text": "be"
+        },
+        {
+          "startSec": 120.9,
+          "endSec": 122.3,
+          "text": "gossip."
+        },
+        {
+          "startSec": 122.3,
+          "endSec": 122.7,
+          "text": "But"
+        }
+      ]
     },
     {
       "startSec": 122.3,
       "endSec": 126.5,
-      "text": "But I can also dish about myself."
+      "text": "But I can also dish about myself.",
+      "words": [
+        {
+          "startSec": 122.3,
+          "endSec": 122.7,
+          "text": "But"
+        },
+        {
+          "startSec": 122.7,
+          "endSec": 123.2,
+          "text": "I"
+        },
+        {
+          "startSec": 123.2,
+          "endSec": 123.3,
+          "text": "can"
+        },
+        {
+          "startSec": 123.3,
+          "endSec": 123.8,
+          "text": "also"
+        },
+        {
+          "startSec": 123.8,
+          "endSec": 124.4,
+          "text": "dish"
+        },
+        {
+          "startSec": 124.4,
+          "endSec": 125.2,
+          "text": "about"
+        },
+        {
+          "startSec": 125.2,
+          "endSec": 126.5,
+          "text": "myself."
+        },
+        {
+          "startSec": 126.5,
+          "endSec": 127.4,
+          "text": "For"
+        }
+      ]
     },
     {
       "startSec": 126.5,
       "endSec": 132.3,
-      "text": "For example, a friend may ask me to dish about my new job."
+      "text": "For example, a friend may ask me to dish about my new job.",
+      "words": [
+        {
+          "startSec": 126.5,
+          "endSec": 127.4,
+          "text": "For"
+        },
+        {
+          "startSec": 127.4,
+          "endSec": 127.9,
+          "text": "example,"
+        },
+        {
+          "startSec": 127.9,
+          "endSec": 128,
+          "text": "a"
+        },
+        {
+          "startSec": 128,
+          "endSec": 128.7,
+          "text": "friend"
+        },
+        {
+          "startSec": 128.7,
+          "endSec": 129.1,
+          "text": "may"
+        },
+        {
+          "startSec": 129.1,
+          "endSec": 129.4,
+          "text": "ask"
+        },
+        {
+          "startSec": 129.4,
+          "endSec": 129.6,
+          "text": "me"
+        },
+        {
+          "startSec": 129.6,
+          "endSec": 129.9,
+          "text": "to"
+        },
+        {
+          "startSec": 129.9,
+          "endSec": 130.3,
+          "text": "dish"
+        },
+        {
+          "startSec": 130.3,
+          "endSec": 130.9,
+          "text": "about"
+        },
+        {
+          "startSec": 130.9,
+          "endSec": 131.2,
+          "text": "my"
+        },
+        {
+          "startSec": 131.2,
+          "endSec": 131.5,
+          "text": "new"
+        },
+        {
+          "startSec": 131.5,
+          "endSec": 132.3,
+          "text": "job."
+        },
+        {
+          "startSec": 132.3,
+          "endSec": 132.4,
+          "text": "I"
+        }
+      ]
     },
     {
       "startSec": 132.3,
       "endSec": 140.1,
-      "text": "I could also use a phrasal verb form and say my friend wants me to dish out all the interesting"
+      "text": "I could also use a phrasal verb form and say my friend wants me to dish out all the interesting",
+      "words": [
+        {
+          "startSec": 132.3,
+          "endSec": 132.4,
+          "text": "I"
+        },
+        {
+          "startSec": 132.4,
+          "endSec": 133.2,
+          "text": "could"
+        },
+        {
+          "startSec": 133.2,
+          "endSec": 133.4,
+          "text": "also"
+        },
+        {
+          "startSec": 133.4,
+          "endSec": 133.7,
+          "text": "use"
+        },
+        {
+          "startSec": 133.7,
+          "endSec": 133.8,
+          "text": "a"
+        },
+        {
+          "startSec": 133.8,
+          "endSec": 134.5,
+          "text": "phrasal"
+        },
+        {
+          "startSec": 134.5,
+          "endSec": 134.9,
+          "text": "verb"
+        },
+        {
+          "startSec": 134.9,
+          "endSec": 135.4,
+          "text": "form"
+        },
+        {
+          "startSec": 135.4,
+          "endSec": 135.7,
+          "text": "and"
+        },
+        {
+          "startSec": 135.7,
+          "endSec": 136,
+          "text": "say"
+        },
+        {
+          "startSec": 136,
+          "endSec": 136.2,
+          "text": "my"
+        },
+        {
+          "startSec": 136.2,
+          "endSec": 136.8,
+          "text": "friend"
+        },
+        {
+          "startSec": 136.8,
+          "endSec": 137.4,
+          "text": "wants"
+        },
+        {
+          "startSec": 137.4,
+          "endSec": 137.6,
+          "text": "me"
+        },
+        {
+          "startSec": 137.6,
+          "endSec": 137.8,
+          "text": "to"
+        },
+        {
+          "startSec": 137.8,
+          "endSec": 138.2,
+          "text": "dish"
+        },
+        {
+          "startSec": 138.2,
+          "endSec": 138.5,
+          "text": "out"
+        },
+        {
+          "startSec": 138.5,
+          "endSec": 138.9,
+          "text": "all"
+        },
+        {
+          "startSec": 138.9,
+          "endSec": 139.3,
+          "text": "the"
+        },
+        {
+          "startSec": 139.3,
+          "endSec": 140.1,
+          "text": "interesting"
+        },
+        {
+          "startSec": 140.1,
+          "endSec": 142.6,
+          "text": "details."
+        }
+      ]
     },
     {
       "startSec": 140.1,
       "endSec": 142.6,
-      "text": "details."
+      "text": "details.",
+      "words": [
+        {
+          "startSec": 140.1,
+          "endSec": 142.6,
+          "text": "details."
+        },
+        {
+          "startSec": 142.6,
+          "endSec": 142.9,
+          "text": "Now"
+        }
+      ]
     },
     {
       "startSec": 142.6,
       "endSec": 148.5,
-      "text": "Now to dish up something means to put food on a dish for someone to eat."
+      "text": "Now to dish up something means to put food on a dish for someone to eat.",
+      "words": [
+        {
+          "startSec": 142.6,
+          "endSec": 142.9,
+          "text": "Now"
+        },
+        {
+          "startSec": 142.9,
+          "endSec": 143.5,
+          "text": "to"
+        },
+        {
+          "startSec": 143.5,
+          "endSec": 143.5,
+          "text": "dish"
+        },
+        {
+          "startSec": 143.5,
+          "endSec": 143.7,
+          "text": "up"
+        },
+        {
+          "startSec": 143.7,
+          "endSec": 144.6,
+          "text": "something"
+        },
+        {
+          "startSec": 144.6,
+          "endSec": 145.1,
+          "text": "means"
+        },
+        {
+          "startSec": 145.1,
+          "endSec": 145.2,
+          "text": "to"
+        },
+        {
+          "startSec": 145.2,
+          "endSec": 145.5,
+          "text": "put"
+        },
+        {
+          "startSec": 145.5,
+          "endSec": 145.9,
+          "text": "food"
+        },
+        {
+          "startSec": 145.9,
+          "endSec": 146.1,
+          "text": "on"
+        },
+        {
+          "startSec": 146.1,
+          "endSec": 146.2,
+          "text": "a"
+        },
+        {
+          "startSec": 146.2,
+          "endSec": 146.6,
+          "text": "dish"
+        },
+        {
+          "startSec": 146.6,
+          "endSec": 146.9,
+          "text": "for"
+        },
+        {
+          "startSec": 146.9,
+          "endSec": 147.6,
+          "text": "someone"
+        },
+        {
+          "startSec": 147.6,
+          "endSec": 147.8,
+          "text": "to"
+        },
+        {
+          "startSec": 147.8,
+          "endSec": 148.5,
+          "text": "eat."
+        },
+        {
+          "startSec": 148.5,
+          "endSec": 149.5,
+          "text": "However,"
+        }
+      ]
     },
     {
       "startSec": 148.5,
       "endSec": 156.2,
-      "text": "However, it can also mean sharing personal details, our own and others."
+      "text": "However, it can also mean sharing personal details, our own and others.",
+      "words": [
+        {
+          "startSec": 148.5,
+          "endSec": 149.5,
+          "text": "However,"
+        },
+        {
+          "startSec": 149.5,
+          "endSec": 149.8,
+          "text": "it"
+        },
+        {
+          "startSec": 149.8,
+          "endSec": 150.1,
+          "text": "can"
+        },
+        {
+          "startSec": 150.1,
+          "endSec": 150.6,
+          "text": "also"
+        },
+        {
+          "startSec": 150.6,
+          "endSec": 151.1,
+          "text": "mean"
+        },
+        {
+          "startSec": 151.1,
+          "endSec": 151.9,
+          "text": "sharing"
+        },
+        {
+          "startSec": 151.9,
+          "endSec": 152.9,
+          "text": "personal"
+        },
+        {
+          "startSec": 152.9,
+          "endSec": 154,
+          "text": "details,"
+        },
+        {
+          "startSec": 154,
+          "endSec": 154.3,
+          "text": "our"
+        },
+        {
+          "startSec": 154.3,
+          "endSec": 154.7,
+          "text": "own"
+        },
+        {
+          "startSec": 154.7,
+          "endSec": 155.1,
+          "text": "and"
+        },
+        {
+          "startSec": 155.1,
+          "endSec": 156.2,
+          "text": "others."
+        },
+        {
+          "startSec": 156.2,
+          "endSec": 156.9,
+          "text": "We"
+        }
+      ]
     },
     {
       "startSec": 156.2,
       "endSec": 163.1,
-      "text": "We can also dish out things like jokes or even insults."
+      "text": "We can also dish out things like jokes or even insults.",
+      "words": [
+        {
+          "startSec": 156.2,
+          "endSec": 156.9,
+          "text": "We"
+        },
+        {
+          "startSec": 156.9,
+          "endSec": 157.1,
+          "text": "can"
+        },
+        {
+          "startSec": 157.1,
+          "endSec": 157.5,
+          "text": "also"
+        },
+        {
+          "startSec": 157.5,
+          "endSec": 158.1,
+          "text": "dish"
+        },
+        {
+          "startSec": 158.1,
+          "endSec": 158.5,
+          "text": "out"
+        },
+        {
+          "startSec": 158.5,
+          "endSec": 159.4,
+          "text": "things"
+        },
+        {
+          "startSec": 159.4,
+          "endSec": 160,
+          "text": "like"
+        },
+        {
+          "startSec": 160,
+          "endSec": 160.7,
+          "text": "jokes"
+        },
+        {
+          "startSec": 160.7,
+          "endSec": 161,
+          "text": "or"
+        },
+        {
+          "startSec": 161,
+          "endSec": 161.7,
+          "text": "even"
+        },
+        {
+          "startSec": 161.7,
+          "endSec": 163.1,
+          "text": "insults."
+        },
+        {
+          "startSec": 163.1,
+          "endSec": 164.1,
+          "text": "Some"
+        }
+      ]
     },
     {
       "startSec": 163.1,
       "endSec": 166.9,
-      "text": "Some people like to tease or insult."
+      "text": "Some people like to tease or insult.",
+      "words": [
+        {
+          "startSec": 163.1,
+          "endSec": 164.1,
+          "text": "Some"
+        },
+        {
+          "startSec": 164.1,
+          "endSec": 164.3,
+          "text": "people"
+        },
+        {
+          "startSec": 164.3,
+          "endSec": 164.8,
+          "text": "like"
+        },
+        {
+          "startSec": 164.8,
+          "endSec": 165,
+          "text": "to"
+        },
+        {
+          "startSec": 165,
+          "endSec": 165.6,
+          "text": "tease"
+        },
+        {
+          "startSec": 165.6,
+          "endSec": 165.8,
+          "text": "or"
+        },
+        {
+          "startSec": 165.8,
+          "endSec": 166.9,
+          "text": "insult."
+        },
+        {
+          "startSec": 166.9,
+          "endSec": 167.8,
+          "text": "They"
+        }
+      ]
     },
     {
       "startSec": 166.9,
       "endSec": 172.2,
-      "text": "They can dish out jokes and insults all day long."
+      "text": "They can dish out jokes and insults all day long.",
+      "words": [
+        {
+          "startSec": 166.9,
+          "endSec": 167.8,
+          "text": "They"
+        },
+        {
+          "startSec": 167.8,
+          "endSec": 167.9,
+          "text": "can"
+        },
+        {
+          "startSec": 167.9,
+          "endSec": 168.3,
+          "text": "dish"
+        },
+        {
+          "startSec": 168.3,
+          "endSec": 168.7,
+          "text": "out"
+        },
+        {
+          "startSec": 168.7,
+          "endSec": 169.3,
+          "text": "jokes"
+        },
+        {
+          "startSec": 169.3,
+          "endSec": 169.7,
+          "text": "and"
+        },
+        {
+          "startSec": 169.7,
+          "endSec": 170.5,
+          "text": "insults"
+        },
+        {
+          "startSec": 170.5,
+          "endSec": 170.9,
+          "text": "all"
+        },
+        {
+          "startSec": 170.9,
+          "endSec": 171.3,
+          "text": "day"
+        },
+        {
+          "startSec": 171.3,
+          "endSec": 172.2,
+          "text": "long."
+        },
+        {
+          "startSec": 172.2,
+          "endSec": 173.1,
+          "text": "But"
+        }
+      ]
     },
     {
       "startSec": 172.2,
       "endSec": 178.3,
-      "text": "But sometimes these same people do not like it if you do the same to them."
+      "text": "But sometimes these same people do not like it if you do the same to them.",
+      "words": [
+        {
+          "startSec": 172.2,
+          "endSec": 173.1,
+          "text": "But"
+        },
+        {
+          "startSec": 173.1,
+          "endSec": 173.4,
+          "text": "sometimes"
+        },
+        {
+          "startSec": 173.4,
+          "endSec": 173.9,
+          "text": "these"
+        },
+        {
+          "startSec": 173.9,
+          "endSec": 174.3,
+          "text": "same"
+        },
+        {
+          "startSec": 174.3,
+          "endSec": 174.9,
+          "text": "people"
+        },
+        {
+          "startSec": 174.9,
+          "endSec": 175.1,
+          "text": "do"
+        },
+        {
+          "startSec": 175.1,
+          "endSec": 175.4,
+          "text": "not"
+        },
+        {
+          "startSec": 175.4,
+          "endSec": 175.8,
+          "text": "like"
+        },
+        {
+          "startSec": 175.8,
+          "endSec": 176,
+          "text": "it"
+        },
+        {
+          "startSec": 176,
+          "endSec": 176.2,
+          "text": "if"
+        },
+        {
+          "startSec": 176.2,
+          "endSec": 176.5,
+          "text": "you"
+        },
+        {
+          "startSec": 176.5,
+          "endSec": 176.7,
+          "text": "do"
+        },
+        {
+          "startSec": 176.7,
+          "endSec": 177,
+          "text": "the"
+        },
+        {
+          "startSec": 177,
+          "endSec": 177.4,
+          "text": "same"
+        },
+        {
+          "startSec": 177.4,
+          "endSec": 177.6,
+          "text": "to"
+        },
+        {
+          "startSec": 177.6,
+          "endSec": 178.3,
+          "text": "them."
+        },
+        {
+          "startSec": 178.3,
+          "endSec": 178.5,
+          "text": "We"
+        }
+      ]
     },
     {
       "startSec": 178.3,
       "endSec": 181.3,
-      "text": "We have a saying for just such people."
+      "text": "We have a saying for just such people.",
+      "words": [
+        {
+          "startSec": 178.3,
+          "endSec": 178.5,
+          "text": "We"
+        },
+        {
+          "startSec": 178.5,
+          "endSec": 178.8,
+          "text": "have"
+        },
+        {
+          "startSec": 178.8,
+          "endSec": 179.2,
+          "text": "a"
+        },
+        {
+          "startSec": 179.2,
+          "endSec": 179.5,
+          "text": "saying"
+        },
+        {
+          "startSec": 179.5,
+          "endSec": 179.8,
+          "text": "for"
+        },
+        {
+          "startSec": 179.8,
+          "endSec": 180.1,
+          "text": "just"
+        },
+        {
+          "startSec": 180.1,
+          "endSec": 180.5,
+          "text": "such"
+        },
+        {
+          "startSec": 180.5,
+          "endSec": 181.3,
+          "text": "people."
+        },
+        {
+          "startSec": 181.3,
+          "endSec": 181.6,
+          "text": "We"
+        }
+      ]
     },
     {
       "startSec": 181.3,
       "endSec": 187,
-      "text": "We say they can dish it out but they can't take it."
+      "text": "We say they can dish it out but they can't take it.",
+      "words": [
+        {
+          "startSec": 181.3,
+          "endSec": 181.6,
+          "text": "We"
+        },
+        {
+          "startSec": 181.6,
+          "endSec": 182.3,
+          "text": "say"
+        },
+        {
+          "startSec": 182.3,
+          "endSec": 182.6,
+          "text": "they"
+        },
+        {
+          "startSec": 182.6,
+          "endSec": 183,
+          "text": "can"
+        },
+        {
+          "startSec": 183,
+          "endSec": 183.5,
+          "text": "dish"
+        },
+        {
+          "startSec": 183.5,
+          "endSec": 183.8,
+          "text": "it"
+        },
+        {
+          "startSec": 183.8,
+          "endSec": 184.2,
+          "text": "out"
+        },
+        {
+          "startSec": 184.2,
+          "endSec": 184.6,
+          "text": "but"
+        },
+        {
+          "startSec": 184.6,
+          "endSec": 185.1,
+          "text": "they"
+        },
+        {
+          "startSec": 185.1,
+          "endSec": 185.8,
+          "text": "can't"
+        },
+        {
+          "startSec": 185.8,
+          "endSec": 186.3,
+          "text": "take"
+        },
+        {
+          "startSec": 186.3,
+          "endSec": 187,
+          "text": "it."
+        },
+        {
+          "startSec": 187,
+          "endSec": 187.4,
+          "text": "They"
+        }
+      ]
     },
     {
       "startSec": 187,
       "endSec": 194.1,
-      "text": "They are able and willing to share harsh thoughts, criticisms or insults about others."
+      "text": "They are able and willing to share harsh thoughts, criticisms or insults about others.",
+      "words": [
+        {
+          "startSec": 187,
+          "endSec": 187.4,
+          "text": "They"
+        },
+        {
+          "startSec": 187.4,
+          "endSec": 187.9,
+          "text": "are"
+        },
+        {
+          "startSec": 187.9,
+          "endSec": 188,
+          "text": "able"
+        },
+        {
+          "startSec": 188,
+          "endSec": 188.3,
+          "text": "and"
+        },
+        {
+          "startSec": 188.3,
+          "endSec": 189,
+          "text": "willing"
+        },
+        {
+          "startSec": 189,
+          "endSec": 189.2,
+          "text": "to"
+        },
+        {
+          "startSec": 189.2,
+          "endSec": 189.6,
+          "text": "share"
+        },
+        {
+          "startSec": 189.6,
+          "endSec": 190.1,
+          "text": "harsh"
+        },
+        {
+          "startSec": 190.1,
+          "endSec": 191,
+          "text": "thoughts,"
+        },
+        {
+          "startSec": 191,
+          "endSec": 192,
+          "text": "criticisms"
+        },
+        {
+          "startSec": 192,
+          "endSec": 192.2,
+          "text": "or"
+        },
+        {
+          "startSec": 192.2,
+          "endSec": 192.8,
+          "text": "insults"
+        },
+        {
+          "startSec": 192.8,
+          "endSec": 193.3,
+          "text": "about"
+        },
+        {
+          "startSec": 193.3,
+          "endSec": 194.1,
+          "text": "others."
+        },
+        {
+          "startSec": 194.1,
+          "endSec": 194.9,
+          "text": "But"
+        }
+      ]
     },
     {
       "startSec": 194.1,
       "endSec": 199.9,
-      "text": "But they do not think they themselves deserve such treatment."
+      "text": "But they do not think they themselves deserve such treatment.",
+      "words": [
+        {
+          "startSec": 194.1,
+          "endSec": 194.9,
+          "text": "But"
+        },
+        {
+          "startSec": 194.9,
+          "endSec": 195,
+          "text": "they"
+        },
+        {
+          "startSec": 195,
+          "endSec": 195.1,
+          "text": "do"
+        },
+        {
+          "startSec": 195.1,
+          "endSec": 195.4,
+          "text": "not"
+        },
+        {
+          "startSec": 195.4,
+          "endSec": 195.9,
+          "text": "think"
+        },
+        {
+          "startSec": 195.9,
+          "endSec": 196.4,
+          "text": "they"
+        },
+        {
+          "startSec": 196.4,
+          "endSec": 197.4,
+          "text": "themselves"
+        },
+        {
+          "startSec": 197.4,
+          "endSec": 198.2,
+          "text": "deserve"
+        },
+        {
+          "startSec": 198.2,
+          "endSec": 198.6,
+          "text": "such"
+        },
+        {
+          "startSec": 198.6,
+          "endSec": 199.9,
+          "text": "treatment."
+        },
+        {
+          "startSec": 199.9,
+          "endSec": 200.1,
+          "text": "And"
+        }
+      ]
     },
     {
       "startSec": 199.9,
       "endSec": 201.8,
-      "text": "And that's words in their stories."
+      "text": "And that's words in their stories.",
+      "words": [
+        {
+          "startSec": 199.9,
+          "endSec": 200.1,
+          "text": "And"
+        },
+        {
+          "startSec": 200.1,
+          "endSec": 200.7,
+          "text": "that's"
+        },
+        {
+          "startSec": 200.7,
+          "endSec": 200.9,
+          "text": "words"
+        },
+        {
+          "startSec": 200.9,
+          "endSec": 200.9,
+          "text": "in"
+        },
+        {
+          "startSec": 200.9,
+          "endSec": 201.1,
+          "text": "their"
+        },
+        {
+          "startSec": 201.1,
+          "endSec": 201.8,
+          "text": "stories."
+        }
+      ]
     },
     {
       "startSec": 201.8,
       "endSec": 211.4,
-      "text": "Until next time, I'm Anna Mateo."
+      "text": "Until next time, I'm Anna Mateo.",
+      "words": [
+        {
+          "startSec": 202.7,
+          "endSec": 203.4,
+          "text": "Until"
+        },
+        {
+          "startSec": 203.4,
+          "endSec": 204.7,
+          "text": "next"
+        },
+        {
+          "startSec": 204.7,
+          "endSec": 206.6,
+          "text": "time,"
+        },
+        {
+          "startSec": 206.6,
+          "endSec": 207.5,
+          "text": "I'm"
+        },
+        {
+          "startSec": 207.5,
+          "endSec": 208.8,
+          "text": "Anna"
+        },
+        {
+          "startSec": 208.8,
+          "endSec": 211.4,
+          "text": "Mateo."
+        }
+      ]
     }
   ],
   "cefr": "B1",

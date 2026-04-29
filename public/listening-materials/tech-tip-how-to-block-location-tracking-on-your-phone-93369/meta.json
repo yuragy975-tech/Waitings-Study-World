@@ -9,187 +9,3551 @@
     {
       "startSec": 0,
       "endSec": 9,
-      "text": "Smartphones have become valuable tools for helping to organize our lives."
+      "text": "Smartphones have become valuable tools for helping to organize our lives.",
+      "words": [
+        {
+          "startSec": 0.3,
+          "endSec": 1.5,
+          "text": "Smartphones"
+        },
+        {
+          "startSec": 1.5,
+          "endSec": 2.1,
+          "text": "have"
+        },
+        {
+          "startSec": 2.1,
+          "endSec": 2.9,
+          "text": "become"
+        },
+        {
+          "startSec": 2.9,
+          "endSec": 4,
+          "text": "valuable"
+        },
+        {
+          "startSec": 4,
+          "endSec": 5,
+          "text": "tools"
+        },
+        {
+          "startSec": 5,
+          "endSec": 5.2,
+          "text": "for"
+        },
+        {
+          "startSec": 5.2,
+          "endSec": 6.2,
+          "text": "helping"
+        },
+        {
+          "startSec": 6.2,
+          "endSec": 6.5,
+          "text": "to"
+        },
+        {
+          "startSec": 6.5,
+          "endSec": 7.8,
+          "text": "organize"
+        },
+        {
+          "startSec": 7.8,
+          "endSec": 8.2,
+          "text": "our"
+        },
+        {
+          "startSec": 8.2,
+          "endSec": 9,
+          "text": "lives."
+        },
+        {
+          "startSec": 9,
+          "endSec": 10.2,
+          "text": "However,"
+        }
+      ]
     },
     {
       "startSec": 9,
       "endSec": 22,
-      "text": "However, the devices can also capture personal data and location information that users might want to keep private."
+      "text": "However, the devices can also capture personal data and location information that users might want to keep private.",
+      "words": [
+        {
+          "startSec": 9,
+          "endSec": 10.2,
+          "text": "However,"
+        },
+        {
+          "startSec": 10.2,
+          "endSec": 10.6,
+          "text": "the"
+        },
+        {
+          "startSec": 10.6,
+          "endSec": 11.5,
+          "text": "devices"
+        },
+        {
+          "startSec": 11.5,
+          "endSec": 11.9,
+          "text": "can"
+        },
+        {
+          "startSec": 11.9,
+          "endSec": 12.5,
+          "text": "also"
+        },
+        {
+          "startSec": 12.5,
+          "endSec": 13.4,
+          "text": "capture"
+        },
+        {
+          "startSec": 13.4,
+          "endSec": 14.5,
+          "text": "personal"
+        },
+        {
+          "startSec": 14.5,
+          "endSec": 15,
+          "text": "data"
+        },
+        {
+          "startSec": 15,
+          "endSec": 15.3,
+          "text": "and"
+        },
+        {
+          "startSec": 15.3,
+          "endSec": 16,
+          "text": "location"
+        },
+        {
+          "startSec": 16,
+          "endSec": 17,
+          "text": "information"
+        },
+        {
+          "startSec": 17,
+          "endSec": 18.4,
+          "text": "that"
+        },
+        {
+          "startSec": 18.4,
+          "endSec": 19,
+          "text": "users"
+        },
+        {
+          "startSec": 19,
+          "endSec": 19.6,
+          "text": "might"
+        },
+        {
+          "startSec": 19.6,
+          "endSec": 20.1,
+          "text": "want"
+        },
+        {
+          "startSec": 20.1,
+          "endSec": 20.3,
+          "text": "to"
+        },
+        {
+          "startSec": 20.3,
+          "endSec": 20.8,
+          "text": "keep"
+        },
+        {
+          "startSec": 20.8,
+          "endSec": 22,
+          "text": "private."
+        }
+      ]
     },
     {
       "startSec": 22,
       "endSec": 39,
-      "text": "Here are some tips suggested by the Associated Press AP to help smartphone users limit the collection of private data on personal devices."
+      "text": "Here are some tips suggested by the Associated Press AP to help smartphone users limit the collection of private data on personal devices.",
+      "words": [
+        {
+          "startSec": 22.3,
+          "endSec": 22.6,
+          "text": "Here"
+        },
+        {
+          "startSec": 22.6,
+          "endSec": 23.1,
+          "text": "are"
+        },
+        {
+          "startSec": 23.1,
+          "endSec": 23.6,
+          "text": "some"
+        },
+        {
+          "startSec": 23.6,
+          "endSec": 24.2,
+          "text": "tips"
+        },
+        {
+          "startSec": 24.2,
+          "endSec": 25.8,
+          "text": "suggested"
+        },
+        {
+          "startSec": 25.8,
+          "endSec": 25.8,
+          "text": "by"
+        },
+        {
+          "startSec": 25.8,
+          "endSec": 26.3,
+          "text": "the"
+        },
+        {
+          "startSec": 26.3,
+          "endSec": 27.8,
+          "text": "Associated"
+        },
+        {
+          "startSec": 27.8,
+          "endSec": 28.5,
+          "text": "Press"
+        },
+        {
+          "startSec": 28.5,
+          "endSec": 28.8,
+          "text": "AP"
+        },
+        {
+          "startSec": 28.8,
+          "endSec": 29.1,
+          "text": "to"
+        },
+        {
+          "startSec": 29.1,
+          "endSec": 29.7,
+          "text": "help"
+        },
+        {
+          "startSec": 29.7,
+          "endSec": 31.4,
+          "text": "smartphone"
+        },
+        {
+          "startSec": 31.4,
+          "endSec": 32,
+          "text": "users"
+        },
+        {
+          "startSec": 32,
+          "endSec": 32.8,
+          "text": "limit"
+        },
+        {
+          "startSec": 32.8,
+          "endSec": 33.1,
+          "text": "the"
+        },
+        {
+          "startSec": 33.1,
+          "endSec": 34.5,
+          "text": "collection"
+        },
+        {
+          "startSec": 34.5,
+          "endSec": 34.7,
+          "text": "of"
+        },
+        {
+          "startSec": 34.7,
+          "endSec": 35.7,
+          "text": "private"
+        },
+        {
+          "startSec": 35.7,
+          "endSec": 36.2,
+          "text": "data"
+        },
+        {
+          "startSec": 36.2,
+          "endSec": 36.5,
+          "text": "on"
+        },
+        {
+          "startSec": 36.5,
+          "endSec": 37.6,
+          "text": "personal"
+        },
+        {
+          "startSec": 37.6,
+          "endSec": 39,
+          "text": "devices."
+        }
+      ]
     },
     {
       "startSec": 39,
       "endSec": 52,
-      "text": "All a user has to do is open a phone's map tool to search for a restaurant or other business to activate data tracking."
+      "text": "All a user has to do is open a phone's map tool to search for a restaurant or other business to activate data tracking.",
+      "words": [
+        {
+          "startSec": 39.3,
+          "endSec": 39.4,
+          "text": "All"
+        },
+        {
+          "startSec": 39.4,
+          "endSec": 39.5,
+          "text": "a"
+        },
+        {
+          "startSec": 39.5,
+          "endSec": 40.1,
+          "text": "user"
+        },
+        {
+          "startSec": 40.1,
+          "endSec": 40.4,
+          "text": "has"
+        },
+        {
+          "startSec": 40.4,
+          "endSec": 40.7,
+          "text": "to"
+        },
+        {
+          "startSec": 40.7,
+          "endSec": 41,
+          "text": "do"
+        },
+        {
+          "startSec": 41,
+          "endSec": 41.2,
+          "text": "is"
+        },
+        {
+          "startSec": 41.2,
+          "endSec": 41.8,
+          "text": "open"
+        },
+        {
+          "startSec": 41.8,
+          "endSec": 41.9,
+          "text": "a"
+        },
+        {
+          "startSec": 41.9,
+          "endSec": 42.8,
+          "text": "phone's"
+        },
+        {
+          "startSec": 42.8,
+          "endSec": 43.2,
+          "text": "map"
+        },
+        {
+          "startSec": 43.2,
+          "endSec": 44,
+          "text": "tool"
+        },
+        {
+          "startSec": 44,
+          "endSec": 44,
+          "text": "to"
+        },
+        {
+          "startSec": 44,
+          "endSec": 44.8,
+          "text": "search"
+        },
+        {
+          "startSec": 44.8,
+          "endSec": 45.2,
+          "text": "for"
+        },
+        {
+          "startSec": 45.2,
+          "endSec": 45.3,
+          "text": "a"
+        },
+        {
+          "startSec": 45.3,
+          "endSec": 46.6,
+          "text": "restaurant"
+        },
+        {
+          "startSec": 46.6,
+          "endSec": 46.9,
+          "text": "or"
+        },
+        {
+          "startSec": 46.9,
+          "endSec": 48.4,
+          "text": "other"
+        },
+        {
+          "startSec": 48.4,
+          "endSec": 48.6,
+          "text": "business"
+        },
+        {
+          "startSec": 48.6,
+          "endSec": 48.9,
+          "text": "to"
+        },
+        {
+          "startSec": 48.9,
+          "endSec": 49.9,
+          "text": "activate"
+        },
+        {
+          "startSec": 49.9,
+          "endSec": 50.4,
+          "text": "data"
+        },
+        {
+          "startSec": 50.4,
+          "endSec": 52,
+          "text": "tracking."
+        }
+      ]
     },
     {
       "startSec": 52,
       "endSec": 68,
-      "text": "Similarly, someone choosing to look up the price of a product online can unknowingly permit the smartphone to track the user's location and share data with others."
+      "text": "Similarly, someone choosing to look up the price of a product online can unknowingly permit the smartphone to track the user's location and share data with others.",
+      "words": [
+        {
+          "startSec": 52.3,
+          "endSec": 53.2,
+          "text": "Similarly,"
+        },
+        {
+          "startSec": 53.2,
+          "endSec": 54.1,
+          "text": "someone"
+        },
+        {
+          "startSec": 54.1,
+          "endSec": 54.9,
+          "text": "choosing"
+        },
+        {
+          "startSec": 54.9,
+          "endSec": 55.2,
+          "text": "to"
+        },
+        {
+          "startSec": 55.2,
+          "endSec": 55.7,
+          "text": "look"
+        },
+        {
+          "startSec": 55.7,
+          "endSec": 55.8,
+          "text": "up"
+        },
+        {
+          "startSec": 55.8,
+          "endSec": 56.2,
+          "text": "the"
+        },
+        {
+          "startSec": 56.2,
+          "endSec": 57,
+          "text": "price"
+        },
+        {
+          "startSec": 57,
+          "endSec": 57,
+          "text": "of"
+        },
+        {
+          "startSec": 57,
+          "endSec": 57.1,
+          "text": "a"
+        },
+        {
+          "startSec": 57.1,
+          "endSec": 57.9,
+          "text": "product"
+        },
+        {
+          "startSec": 57.9,
+          "endSec": 58.5,
+          "text": "online"
+        },
+        {
+          "startSec": 58.5,
+          "endSec": 58.9,
+          "text": "can"
+        },
+        {
+          "startSec": 58.9,
+          "endSec": 60.1,
+          "text": "unknowingly"
+        },
+        {
+          "startSec": 60.1,
+          "endSec": 60.8,
+          "text": "permit"
+        },
+        {
+          "startSec": 60.8,
+          "endSec": 61.4,
+          "text": "the"
+        },
+        {
+          "startSec": 61.4,
+          "endSec": 62.3,
+          "text": "smartphone"
+        },
+        {
+          "startSec": 62.3,
+          "endSec": 62.5,
+          "text": "to"
+        },
+        {
+          "startSec": 62.5,
+          "endSec": 63.1,
+          "text": "track"
+        },
+        {
+          "startSec": 63.1,
+          "endSec": 63.4,
+          "text": "the"
+        },
+        {
+          "startSec": 63.4,
+          "endSec": 64.1,
+          "text": "user's"
+        },
+        {
+          "startSec": 64.1,
+          "endSec": 65,
+          "text": "location"
+        },
+        {
+          "startSec": 65,
+          "endSec": 65.5,
+          "text": "and"
+        },
+        {
+          "startSec": 65.5,
+          "endSec": 65.9,
+          "text": "share"
+        },
+        {
+          "startSec": 65.9,
+          "endSec": 66.4,
+          "text": "data"
+        },
+        {
+          "startSec": 66.4,
+          "endSec": 67,
+          "text": "with"
+        },
+        {
+          "startSec": 67,
+          "endSec": 68,
+          "text": "others."
+        }
+      ]
     },
     {
       "startSec": 68,
       "endSec": 79,
-      "text": "Darren Guccione is the chief executive of U.S.-based Internet Security Company Keeper Security."
+      "text": "Darren Guccione is the chief executive of U.S.-based Internet Security Company Keeper Security.",
+      "words": [
+        {
+          "startSec": 68.3,
+          "endSec": 68.7,
+          "text": "Darren"
+        },
+        {
+          "startSec": 68.7,
+          "endSec": 69.7,
+          "text": "Guccione"
+        },
+        {
+          "startSec": 69.7,
+          "endSec": 70.1,
+          "text": "is"
+        },
+        {
+          "startSec": 70.1,
+          "endSec": 70.3,
+          "text": "the"
+        },
+        {
+          "startSec": 70.3,
+          "endSec": 70.9,
+          "text": "chief"
+        },
+        {
+          "startSec": 70.9,
+          "endSec": 72,
+          "text": "executive"
+        },
+        {
+          "startSec": 72,
+          "endSec": 72.3,
+          "text": "of"
+        },
+        {
+          "startSec": 72.3,
+          "endSec": 74,
+          "text": "U.S.-based"
+        },
+        {
+          "startSec": 74,
+          "endSec": 75,
+          "text": "Internet"
+        },
+        {
+          "startSec": 75,
+          "endSec": 76,
+          "text": "Security"
+        },
+        {
+          "startSec": 76,
+          "endSec": 77.4,
+          "text": "Company"
+        },
+        {
+          "startSec": 77.4,
+          "endSec": 77.6,
+          "text": "Keeper"
+        },
+        {
+          "startSec": 77.6,
+          "endSec": 79,
+          "text": "Security."
+        },
+        {
+          "startSec": 79,
+          "endSec": 79.3,
+          "text": "He"
+        }
+      ]
     },
     {
       "startSec": 79,
       "endSec": 96,
-      "text": "He told the AP that many apps from fitness tracking to navigation can record data signals that show a user's movements, both physical and digital."
+      "text": "He told the AP that many apps from fitness tracking to navigation can record data signals that show a user's movements, both physical and digital.",
+      "words": [
+        {
+          "startSec": 79,
+          "endSec": 79.3,
+          "text": "He"
+        },
+        {
+          "startSec": 79.3,
+          "endSec": 79.8,
+          "text": "told"
+        },
+        {
+          "startSec": 79.8,
+          "endSec": 80.2,
+          "text": "the"
+        },
+        {
+          "startSec": 80.2,
+          "endSec": 80.5,
+          "text": "AP"
+        },
+        {
+          "startSec": 80.5,
+          "endSec": 81.1,
+          "text": "that"
+        },
+        {
+          "startSec": 81.1,
+          "endSec": 81.6,
+          "text": "many"
+        },
+        {
+          "startSec": 81.6,
+          "endSec": 82.1,
+          "text": "apps"
+        },
+        {
+          "startSec": 82.1,
+          "endSec": 82.7,
+          "text": "from"
+        },
+        {
+          "startSec": 82.7,
+          "endSec": 84,
+          "text": "fitness"
+        },
+        {
+          "startSec": 84,
+          "endSec": 84.7,
+          "text": "tracking"
+        },
+        {
+          "startSec": 84.7,
+          "endSec": 84.9,
+          "text": "to"
+        },
+        {
+          "startSec": 84.9,
+          "endSec": 86.3,
+          "text": "navigation"
+        },
+        {
+          "startSec": 86.3,
+          "endSec": 86.7,
+          "text": "can"
+        },
+        {
+          "startSec": 86.7,
+          "endSec": 88,
+          "text": "record"
+        },
+        {
+          "startSec": 88,
+          "endSec": 88.4,
+          "text": "data"
+        },
+        {
+          "startSec": 88.4,
+          "endSec": 89,
+          "text": "signals"
+        },
+        {
+          "startSec": 89,
+          "endSec": 89.5,
+          "text": "that"
+        },
+        {
+          "startSec": 89.5,
+          "endSec": 89.9,
+          "text": "show"
+        },
+        {
+          "startSec": 89.9,
+          "endSec": 90,
+          "text": "a"
+        },
+        {
+          "startSec": 90,
+          "endSec": 90.7,
+          "text": "user's"
+        },
+        {
+          "startSec": 90.7,
+          "endSec": 92,
+          "text": "movements,"
+        },
+        {
+          "startSec": 92,
+          "endSec": 92.6,
+          "text": "both"
+        },
+        {
+          "startSec": 92.6,
+          "endSec": 94,
+          "text": "physical"
+        },
+        {
+          "startSec": 94,
+          "endSec": 94.4,
+          "text": "and"
+        },
+        {
+          "startSec": 94.4,
+          "endSec": 96,
+          "text": "digital."
+        }
+      ]
     },
     {
       "startSec": 96,
       "endSec": 113,
-      "text": "Guccione's advice to users is to turn on location tracking only when necessary, such as during navigation, emergencies, or sharing updates with trusted contacts."
+      "text": "Guccione's advice to users is to turn on location tracking only when necessary, such as during navigation, emergencies, or sharing updates with trusted contacts.",
+      "words": [
+        {
+          "startSec": 96.3,
+          "endSec": 97.3,
+          "text": "Guccione's"
+        },
+        {
+          "startSec": 97.3,
+          "endSec": 98.1,
+          "text": "advice"
+        },
+        {
+          "startSec": 98.1,
+          "endSec": 98.4,
+          "text": "to"
+        },
+        {
+          "startSec": 98.4,
+          "endSec": 99,
+          "text": "users"
+        },
+        {
+          "startSec": 99,
+          "endSec": 99.3,
+          "text": "is"
+        },
+        {
+          "startSec": 99.3,
+          "endSec": 99.5,
+          "text": "to"
+        },
+        {
+          "startSec": 99.5,
+          "endSec": 100.1,
+          "text": "turn"
+        },
+        {
+          "startSec": 100.1,
+          "endSec": 100.3,
+          "text": "on"
+        },
+        {
+          "startSec": 100.3,
+          "endSec": 101.4,
+          "text": "location"
+        },
+        {
+          "startSec": 101.4,
+          "endSec": 102.4,
+          "text": "tracking"
+        },
+        {
+          "startSec": 102.4,
+          "endSec": 102.9,
+          "text": "only"
+        },
+        {
+          "startSec": 102.9,
+          "endSec": 103.5,
+          "text": "when"
+        },
+        {
+          "startSec": 103.5,
+          "endSec": 105.4,
+          "text": "necessary,"
+        },
+        {
+          "startSec": 105.4,
+          "endSec": 105.4,
+          "text": "such"
+        },
+        {
+          "startSec": 105.4,
+          "endSec": 105.6,
+          "text": "as"
+        },
+        {
+          "startSec": 105.6,
+          "endSec": 106.4,
+          "text": "during"
+        },
+        {
+          "startSec": 106.4,
+          "endSec": 107.6,
+          "text": "navigation,"
+        },
+        {
+          "startSec": 107.6,
+          "endSec": 108.9,
+          "text": "emergencies,"
+        },
+        {
+          "startSec": 108.9,
+          "endSec": 109.5,
+          "text": "or"
+        },
+        {
+          "startSec": 109.5,
+          "endSec": 109.9,
+          "text": "sharing"
+        },
+        {
+          "startSec": 109.9,
+          "endSec": 110.6,
+          "text": "updates"
+        },
+        {
+          "startSec": 110.6,
+          "endSec": 111,
+          "text": "with"
+        },
+        {
+          "startSec": 111,
+          "endSec": 111.8,
+          "text": "trusted"
+        },
+        {
+          "startSec": 111.8,
+          "endSec": 113,
+          "text": "contacts."
+        }
+      ]
     },
     {
       "startSec": 113,
       "endSec": 124,
-      "text": "He adds that after this kind of necessary tracking is complete, users should immediately turn off location tracking."
+      "text": "He adds that after this kind of necessary tracking is complete, users should immediately turn off location tracking.",
+      "words": [
+        {
+          "startSec": 113.2,
+          "endSec": 113.3,
+          "text": "He"
+        },
+        {
+          "startSec": 113.3,
+          "endSec": 113.6,
+          "text": "adds"
+        },
+        {
+          "startSec": 113.6,
+          "endSec": 114.1,
+          "text": "that"
+        },
+        {
+          "startSec": 114.1,
+          "endSec": 114.6,
+          "text": "after"
+        },
+        {
+          "startSec": 114.6,
+          "endSec": 115.1,
+          "text": "this"
+        },
+        {
+          "startSec": 115.1,
+          "endSec": 115.5,
+          "text": "kind"
+        },
+        {
+          "startSec": 115.5,
+          "endSec": 115.7,
+          "text": "of"
+        },
+        {
+          "startSec": 115.7,
+          "endSec": 116.7,
+          "text": "necessary"
+        },
+        {
+          "startSec": 116.7,
+          "endSec": 117.7,
+          "text": "tracking"
+        },
+        {
+          "startSec": 117.7,
+          "endSec": 118,
+          "text": "is"
+        },
+        {
+          "startSec": 118,
+          "endSec": 118.8,
+          "text": "complete,"
+        },
+        {
+          "startSec": 118.8,
+          "endSec": 119.3,
+          "text": "users"
+        },
+        {
+          "startSec": 119.3,
+          "endSec": 119.9,
+          "text": "should"
+        },
+        {
+          "startSec": 119.9,
+          "endSec": 121.1,
+          "text": "immediately"
+        },
+        {
+          "startSec": 121.1,
+          "endSec": 121.9,
+          "text": "turn"
+        },
+        {
+          "startSec": 121.9,
+          "endSec": 122.4,
+          "text": "off"
+        },
+        {
+          "startSec": 122.4,
+          "endSec": 122.7,
+          "text": "location"
+        },
+        {
+          "startSec": 122.7,
+          "endSec": 124,
+          "text": "tracking."
+        }
+      ]
     },
     {
       "startSec": 124,
       "endSec": 146,
-      "text": "One step to limit smartphone tracking is to identify and change app permission settings."
+      "text": "One step to limit smartphone tracking is to identify and change app permission settings.",
+      "words": [
+        {
+          "startSec": 124.3,
+          "endSec": 124.9,
+          "text": "One"
+        },
+        {
+          "startSec": 124.9,
+          "endSec": 126.1,
+          "text": "step"
+        },
+        {
+          "startSec": 126.1,
+          "endSec": 126.6,
+          "text": "to"
+        },
+        {
+          "startSec": 126.6,
+          "endSec": 128,
+          "text": "limit"
+        },
+        {
+          "startSec": 128,
+          "endSec": 130.8,
+          "text": "smartphone"
+        },
+        {
+          "startSec": 130.8,
+          "endSec": 133.4,
+          "text": "tracking"
+        },
+        {
+          "startSec": 133.4,
+          "endSec": 133.7,
+          "text": "is"
+        },
+        {
+          "startSec": 133.7,
+          "endSec": 134.4,
+          "text": "to"
+        },
+        {
+          "startSec": 134.4,
+          "endSec": 136.5,
+          "text": "identify"
+        },
+        {
+          "startSec": 136.5,
+          "endSec": 137.5,
+          "text": "and"
+        },
+        {
+          "startSec": 137.5,
+          "endSec": 139.1,
+          "text": "change"
+        },
+        {
+          "startSec": 139.1,
+          "endSec": 140,
+          "text": "app"
+        },
+        {
+          "startSec": 140,
+          "endSec": 142.8,
+          "text": "permission"
+        },
+        {
+          "startSec": 142.8,
+          "endSec": 146,
+          "text": "settings."
+        }
+      ]
     },
     {
       "startSec": 146,
       "endSec": 160,
-      "text": "To check settings for individual apps, Internet security experts say it is not a good idea to let apps always use your location in the background."
+      "text": "To check settings for individual apps, Internet security experts say it is not a good idea to let apps always use your location in the background.",
+      "words": [
+        {
+          "startSec": 146.2,
+          "endSec": 146.3,
+          "text": "To"
+        },
+        {
+          "startSec": 146.3,
+          "endSec": 146.8,
+          "text": "check"
+        },
+        {
+          "startSec": 146.8,
+          "endSec": 147.7,
+          "text": "settings"
+        },
+        {
+          "startSec": 147.7,
+          "endSec": 148.1,
+          "text": "for"
+        },
+        {
+          "startSec": 148.1,
+          "endSec": 149.1,
+          "text": "individual"
+        },
+        {
+          "startSec": 149.1,
+          "endSec": 149.8,
+          "text": "apps,"
+        },
+        {
+          "startSec": 149.8,
+          "endSec": 151,
+          "text": "Internet"
+        },
+        {
+          "startSec": 151,
+          "endSec": 151.6,
+          "text": "security"
+        },
+        {
+          "startSec": 151.6,
+          "endSec": 152.4,
+          "text": "experts"
+        },
+        {
+          "startSec": 152.4,
+          "endSec": 152.7,
+          "text": "say"
+        },
+        {
+          "startSec": 152.7,
+          "endSec": 152.9,
+          "text": "it"
+        },
+        {
+          "startSec": 152.9,
+          "endSec": 153.2,
+          "text": "is"
+        },
+        {
+          "startSec": 153.2,
+          "endSec": 153.5,
+          "text": "not"
+        },
+        {
+          "startSec": 153.5,
+          "endSec": 153.6,
+          "text": "a"
+        },
+        {
+          "startSec": 153.6,
+          "endSec": 154,
+          "text": "good"
+        },
+        {
+          "startSec": 154,
+          "endSec": 154.7,
+          "text": "idea"
+        },
+        {
+          "startSec": 154.7,
+          "endSec": 154.7,
+          "text": "to"
+        },
+        {
+          "startSec": 154.7,
+          "endSec": 155.4,
+          "text": "let"
+        },
+        {
+          "startSec": 155.4,
+          "endSec": 155.5,
+          "text": "apps"
+        },
+        {
+          "startSec": 155.5,
+          "endSec": 156.2,
+          "text": "always"
+        },
+        {
+          "startSec": 156.2,
+          "endSec": 156.5,
+          "text": "use"
+        },
+        {
+          "startSec": 156.5,
+          "endSec": 156.9,
+          "text": "your"
+        },
+        {
+          "startSec": 156.9,
+          "endSec": 157.8,
+          "text": "location"
+        },
+        {
+          "startSec": 157.8,
+          "endSec": 158.1,
+          "text": "in"
+        },
+        {
+          "startSec": 158.1,
+          "endSec": 158.4,
+          "text": "the"
+        },
+        {
+          "startSec": 158.4,
+          "endSec": 160,
+          "text": "background."
+        },
+        {
+          "startSec": 160,
+          "endSec": 161.1,
+          "text": "Instead,"
+        }
+      ]
     },
     {
       "startSec": 160,
       "endSec": 170,
-      "text": "Instead, get the app to either ask first before using your location or use it only when the app is open."
+      "text": "Instead, get the app to either ask first before using your location or use it only when the app is open.",
+      "words": [
+        {
+          "startSec": 160,
+          "endSec": 161.1,
+          "text": "Instead,"
+        },
+        {
+          "startSec": 161.1,
+          "endSec": 161.4,
+          "text": "get"
+        },
+        {
+          "startSec": 161.4,
+          "endSec": 161.7,
+          "text": "the"
+        },
+        {
+          "startSec": 161.7,
+          "endSec": 162.1,
+          "text": "app"
+        },
+        {
+          "startSec": 162.1,
+          "endSec": 162.3,
+          "text": "to"
+        },
+        {
+          "startSec": 162.3,
+          "endSec": 163,
+          "text": "either"
+        },
+        {
+          "startSec": 163,
+          "endSec": 163.3,
+          "text": "ask"
+        },
+        {
+          "startSec": 163.3,
+          "endSec": 163.9,
+          "text": "first"
+        },
+        {
+          "startSec": 163.9,
+          "endSec": 165,
+          "text": "before"
+        },
+        {
+          "startSec": 165,
+          "endSec": 165.1,
+          "text": "using"
+        },
+        {
+          "startSec": 165.1,
+          "endSec": 165.6,
+          "text": "your"
+        },
+        {
+          "startSec": 165.6,
+          "endSec": 166.5,
+          "text": "location"
+        },
+        {
+          "startSec": 166.5,
+          "endSec": 166.7,
+          "text": "or"
+        },
+        {
+          "startSec": 166.7,
+          "endSec": 167,
+          "text": "use"
+        },
+        {
+          "startSec": 167,
+          "endSec": 167.3,
+          "text": "it"
+        },
+        {
+          "startSec": 167.3,
+          "endSec": 167.7,
+          "text": "only"
+        },
+        {
+          "startSec": 167.7,
+          "endSec": 168.2,
+          "text": "when"
+        },
+        {
+          "startSec": 168.2,
+          "endSec": 168.9,
+          "text": "the"
+        },
+        {
+          "startSec": 168.9,
+          "endSec": 168.9,
+          "text": "app"
+        },
+        {
+          "startSec": 168.9,
+          "endSec": 169.4,
+          "text": "is"
+        },
+        {
+          "startSec": 169.4,
+          "endSec": 170,
+          "text": "open."
+        },
+        {
+          "startSec": 170,
+          "endSec": 170.3,
+          "text": "A"
+        }
+      ]
     },
     {
       "startSec": 170,
       "endSec": 178,
-      "text": "A user can also choose the setting that never lets an app track location."
+      "text": "A user can also choose the setting that never lets an app track location.",
+      "words": [
+        {
+          "startSec": 170,
+          "endSec": 170.3,
+          "text": "A"
+        },
+        {
+          "startSec": 170.3,
+          "endSec": 170.6,
+          "text": "user"
+        },
+        {
+          "startSec": 170.6,
+          "endSec": 171.1,
+          "text": "can"
+        },
+        {
+          "startSec": 171.1,
+          "endSec": 171.5,
+          "text": "also"
+        },
+        {
+          "startSec": 171.5,
+          "endSec": 172.3,
+          "text": "choose"
+        },
+        {
+          "startSec": 172.3,
+          "endSec": 172.7,
+          "text": "the"
+        },
+        {
+          "startSec": 172.7,
+          "endSec": 173.7,
+          "text": "setting"
+        },
+        {
+          "startSec": 173.7,
+          "endSec": 174.1,
+          "text": "that"
+        },
+        {
+          "startSec": 174.1,
+          "endSec": 175,
+          "text": "never"
+        },
+        {
+          "startSec": 175,
+          "endSec": 175.2,
+          "text": "lets"
+        },
+        {
+          "startSec": 175.2,
+          "endSec": 175.5,
+          "text": "an"
+        },
+        {
+          "startSec": 175.5,
+          "endSec": 175.9,
+          "text": "app"
+        },
+        {
+          "startSec": 175.9,
+          "endSec": 176.5,
+          "text": "track"
+        },
+        {
+          "startSec": 176.5,
+          "endSec": 178,
+          "text": "location."
+        },
+        {
+          "startSec": 178,
+          "endSec": 178.3,
+          "text": "The"
+        }
+      ]
     },
     {
       "startSec": 178,
       "endSec": 187,
-      "text": "The process works a little differently for Android phones because manufacturers have different versions."
+      "text": "The process works a little differently for Android phones because manufacturers have different versions.",
+      "words": [
+        {
+          "startSec": 178,
+          "endSec": 178.3,
+          "text": "The"
+        },
+        {
+          "startSec": 178.3,
+          "endSec": 179.1,
+          "text": "process"
+        },
+        {
+          "startSec": 179.1,
+          "endSec": 179.4,
+          "text": "works"
+        },
+        {
+          "startSec": 179.4,
+          "endSec": 179.5,
+          "text": "a"
+        },
+        {
+          "startSec": 179.5,
+          "endSec": 180.1,
+          "text": "little"
+        },
+        {
+          "startSec": 180.1,
+          "endSec": 181.2,
+          "text": "differently"
+        },
+        {
+          "startSec": 181.2,
+          "endSec": 181.5,
+          "text": "for"
+        },
+        {
+          "startSec": 181.5,
+          "endSec": 182.1,
+          "text": "Android"
+        },
+        {
+          "startSec": 182.1,
+          "endSec": 183,
+          "text": "phones"
+        },
+        {
+          "startSec": 183,
+          "endSec": 183.4,
+          "text": "because"
+        },
+        {
+          "startSec": 183.4,
+          "endSec": 184.6,
+          "text": "manufacturers"
+        },
+        {
+          "startSec": 184.6,
+          "endSec": 185,
+          "text": "have"
+        },
+        {
+          "startSec": 185,
+          "endSec": 185.9,
+          "text": "different"
+        },
+        {
+          "startSec": 185.9,
+          "endSec": 187,
+          "text": "versions."
+        }
+      ]
     },
     {
       "startSec": 187,
       "endSec": 199,
-      "text": "In general, Android users should go to settings, then go to location to turn the setting on or off for all apps."
+      "text": "In general, Android users should go to settings, then go to location to turn the setting on or off for all apps.",
+      "words": [
+        {
+          "startSec": 187.3,
+          "endSec": 187.3,
+          "text": "In"
+        },
+        {
+          "startSec": 187.3,
+          "endSec": 188.4,
+          "text": "general,"
+        },
+        {
+          "startSec": 188.4,
+          "endSec": 189.3,
+          "text": "Android"
+        },
+        {
+          "startSec": 189.3,
+          "endSec": 189.9,
+          "text": "users"
+        },
+        {
+          "startSec": 189.9,
+          "endSec": 190.7,
+          "text": "should"
+        },
+        {
+          "startSec": 190.7,
+          "endSec": 190.9,
+          "text": "go"
+        },
+        {
+          "startSec": 190.9,
+          "endSec": 191.1,
+          "text": "to"
+        },
+        {
+          "startSec": 191.1,
+          "endSec": 192.5,
+          "text": "settings,"
+        },
+        {
+          "startSec": 192.5,
+          "endSec": 192.9,
+          "text": "then"
+        },
+        {
+          "startSec": 192.9,
+          "endSec": 193.2,
+          "text": "go"
+        },
+        {
+          "startSec": 193.2,
+          "endSec": 193.4,
+          "text": "to"
+        },
+        {
+          "startSec": 193.4,
+          "endSec": 194.4,
+          "text": "location"
+        },
+        {
+          "startSec": 194.4,
+          "endSec": 194.6,
+          "text": "to"
+        },
+        {
+          "startSec": 194.6,
+          "endSec": 195.1,
+          "text": "turn"
+        },
+        {
+          "startSec": 195.1,
+          "endSec": 196.4,
+          "text": "the"
+        },
+        {
+          "startSec": 196.4,
+          "endSec": 196.4,
+          "text": "setting"
+        },
+        {
+          "startSec": 196.4,
+          "endSec": 196.6,
+          "text": "on"
+        },
+        {
+          "startSec": 196.6,
+          "endSec": 196.9,
+          "text": "or"
+        },
+        {
+          "startSec": 196.9,
+          "endSec": 197.3,
+          "text": "off"
+        },
+        {
+          "startSec": 197.3,
+          "endSec": 197.6,
+          "text": "for"
+        },
+        {
+          "startSec": 197.6,
+          "endSec": 198,
+          "text": "all"
+        },
+        {
+          "startSec": 198,
+          "endSec": 199,
+          "text": "apps."
+        },
+        {
+          "startSec": 199,
+          "endSec": 199.3,
+          "text": "To"
+        }
+      ]
     },
     {
       "startSec": 199,
       "endSec": 214,
-      "text": "To avoid being tracked by advertising systems, privacy experts suggest that users block advertising identifiers on Android or Apple devices."
+      "text": "To avoid being tracked by advertising systems, privacy experts suggest that users block advertising identifiers on Android or Apple devices.",
+      "words": [
+        {
+          "startSec": 199,
+          "endSec": 199.3,
+          "text": "To"
+        },
+        {
+          "startSec": 199.3,
+          "endSec": 199.8,
+          "text": "avoid"
+        },
+        {
+          "startSec": 199.8,
+          "endSec": 200.4,
+          "text": "being"
+        },
+        {
+          "startSec": 200.4,
+          "endSec": 201.3,
+          "text": "tracked"
+        },
+        {
+          "startSec": 201.3,
+          "endSec": 201.5,
+          "text": "by"
+        },
+        {
+          "startSec": 201.5,
+          "endSec": 202.8,
+          "text": "advertising"
+        },
+        {
+          "startSec": 202.8,
+          "endSec": 204,
+          "text": "systems,"
+        },
+        {
+          "startSec": 204,
+          "endSec": 204.8,
+          "text": "privacy"
+        },
+        {
+          "startSec": 204.8,
+          "endSec": 205.6,
+          "text": "experts"
+        },
+        {
+          "startSec": 205.6,
+          "endSec": 206.4,
+          "text": "suggest"
+        },
+        {
+          "startSec": 206.4,
+          "endSec": 206.9,
+          "text": "that"
+        },
+        {
+          "startSec": 206.9,
+          "endSec": 208.1,
+          "text": "users"
+        },
+        {
+          "startSec": 208.1,
+          "endSec": 208.4,
+          "text": "block"
+        },
+        {
+          "startSec": 208.4,
+          "endSec": 209.4,
+          "text": "advertising"
+        },
+        {
+          "startSec": 209.4,
+          "endSec": 210.8,
+          "text": "identifiers"
+        },
+        {
+          "startSec": 210.8,
+          "endSec": 211,
+          "text": "on"
+        },
+        {
+          "startSec": 211,
+          "endSec": 211.8,
+          "text": "Android"
+        },
+        {
+          "startSec": 211.8,
+          "endSec": 212.5,
+          "text": "or"
+        },
+        {
+          "startSec": 212.5,
+          "endSec": 212.7,
+          "text": "Apple"
+        },
+        {
+          "startSec": 212.7,
+          "endSec": 214,
+          "text": "devices."
+        }
+      ]
     },
     {
       "startSec": 214,
       "endSec": 221,
-      "text": "This can stop third parties from tracking ads to target users."
+      "text": "This can stop third parties from tracking ads to target users.",
+      "words": [
+        {
+          "startSec": 214.3,
+          "endSec": 214.5,
+          "text": "This"
+        },
+        {
+          "startSec": 214.5,
+          "endSec": 215.1,
+          "text": "can"
+        },
+        {
+          "startSec": 215.1,
+          "endSec": 215.4,
+          "text": "stop"
+        },
+        {
+          "startSec": 215.4,
+          "endSec": 216.1,
+          "text": "third"
+        },
+        {
+          "startSec": 216.1,
+          "endSec": 216.9,
+          "text": "parties"
+        },
+        {
+          "startSec": 216.9,
+          "endSec": 217.5,
+          "text": "from"
+        },
+        {
+          "startSec": 217.5,
+          "endSec": 218.5,
+          "text": "tracking"
+        },
+        {
+          "startSec": 218.5,
+          "endSec": 219,
+          "text": "ads"
+        },
+        {
+          "startSec": 219,
+          "endSec": 219.1,
+          "text": "to"
+        },
+        {
+          "startSec": 219.1,
+          "endSec": 219.9,
+          "text": "target"
+        },
+        {
+          "startSec": 219.9,
+          "endSec": 221,
+          "text": "users."
+        },
+        {
+          "startSec": 221,
+          "endSec": 221.3,
+          "text": "To"
+        }
+      ]
     },
     {
       "startSec": 221,
       "endSec": 234,
-      "text": "To do this, iPhone users can go to the privacy setting, then find Apple advertising, then turn off personalized ads."
+      "text": "To do this, iPhone users can go to the privacy setting, then find Apple advertising, then turn off personalized ads.",
+      "words": [
+        {
+          "startSec": 221,
+          "endSec": 221.3,
+          "text": "To"
+        },
+        {
+          "startSec": 221.3,
+          "endSec": 221.5,
+          "text": "do"
+        },
+        {
+          "startSec": 221.5,
+          "endSec": 222.2,
+          "text": "this,"
+        },
+        {
+          "startSec": 222.2,
+          "endSec": 223.1,
+          "text": "iPhone"
+        },
+        {
+          "startSec": 223.1,
+          "endSec": 223.6,
+          "text": "users"
+        },
+        {
+          "startSec": 223.6,
+          "endSec": 223.9,
+          "text": "can"
+        },
+        {
+          "startSec": 223.9,
+          "endSec": 224.2,
+          "text": "go"
+        },
+        {
+          "startSec": 224.2,
+          "endSec": 224.4,
+          "text": "to"
+        },
+        {
+          "startSec": 224.4,
+          "endSec": 224.8,
+          "text": "the"
+        },
+        {
+          "startSec": 224.8,
+          "endSec": 226,
+          "text": "privacy"
+        },
+        {
+          "startSec": 226,
+          "endSec": 226.7,
+          "text": "setting,"
+        },
+        {
+          "startSec": 226.7,
+          "endSec": 227.2,
+          "text": "then"
+        },
+        {
+          "startSec": 227.2,
+          "endSec": 227.7,
+          "text": "find"
+        },
+        {
+          "startSec": 227.7,
+          "endSec": 228.3,
+          "text": "Apple"
+        },
+        {
+          "startSec": 228.3,
+          "endSec": 230.4,
+          "text": "advertising,"
+        },
+        {
+          "startSec": 230.4,
+          "endSec": 230.6,
+          "text": "then"
+        },
+        {
+          "startSec": 230.6,
+          "endSec": 231.1,
+          "text": "turn"
+        },
+        {
+          "startSec": 231.1,
+          "endSec": 231.5,
+          "text": "off"
+        },
+        {
+          "startSec": 231.5,
+          "endSec": 233.2,
+          "text": "personalized"
+        },
+        {
+          "startSec": 233.2,
+          "endSec": 234,
+          "text": "ads."
+        }
+      ]
     },
     {
       "startSec": 234,
       "endSec": 245,
-      "text": "On newer Android phones, users should go to the privacy setting, then to ads, and choose delete advertising ID."
+      "text": "On newer Android phones, users should go to the privacy setting, then to ads, and choose delete advertising ID.",
+      "words": [
+        {
+          "startSec": 234.2,
+          "endSec": 234.3,
+          "text": "On"
+        },
+        {
+          "startSec": 234.3,
+          "endSec": 234.8,
+          "text": "newer"
+        },
+        {
+          "startSec": 234.8,
+          "endSec": 235.6,
+          "text": "Android"
+        },
+        {
+          "startSec": 235.6,
+          "endSec": 236.5,
+          "text": "phones,"
+        },
+        {
+          "startSec": 236.5,
+          "endSec": 237,
+          "text": "users"
+        },
+        {
+          "startSec": 237,
+          "endSec": 237.7,
+          "text": "should"
+        },
+        {
+          "startSec": 237.7,
+          "endSec": 237.9,
+          "text": "go"
+        },
+        {
+          "startSec": 237.9,
+          "endSec": 238.1,
+          "text": "to"
+        },
+        {
+          "startSec": 238.1,
+          "endSec": 238.5,
+          "text": "the"
+        },
+        {
+          "startSec": 238.5,
+          "endSec": 239.2,
+          "text": "privacy"
+        },
+        {
+          "startSec": 239.2,
+          "endSec": 240.2,
+          "text": "setting,"
+        },
+        {
+          "startSec": 240.2,
+          "endSec": 240.7,
+          "text": "then"
+        },
+        {
+          "startSec": 240.7,
+          "endSec": 240.9,
+          "text": "to"
+        },
+        {
+          "startSec": 240.9,
+          "endSec": 241.4,
+          "text": "ads,"
+        },
+        {
+          "startSec": 241.4,
+          "endSec": 241.8,
+          "text": "and"
+        },
+        {
+          "startSec": 241.8,
+          "endSec": 243.1,
+          "text": "choose"
+        },
+        {
+          "startSec": 243.1,
+          "endSec": 243.4,
+          "text": "delete"
+        },
+        {
+          "startSec": 243.4,
+          "endSec": 244.3,
+          "text": "advertising"
+        },
+        {
+          "startSec": 244.3,
+          "endSec": 245,
+          "text": "ID."
+        },
+        {
+          "startSec": 245,
+          "endSec": 245.6,
+          "text": "Along"
+        }
+      ]
     },
     {
       "startSec": 245,
       "endSec": 260,
-      "text": "Along with app permissions for your device, security experts say it is a good idea to look closely at your Google account to make sure it is not tracking you."
+      "text": "Along with app permissions for your device, security experts say it is a good idea to look closely at your Google account to make sure it is not tracking you.",
+      "words": [
+        {
+          "startSec": 245,
+          "endSec": 245.6,
+          "text": "Along"
+        },
+        {
+          "startSec": 245.6,
+          "endSec": 246.1,
+          "text": "with"
+        },
+        {
+          "startSec": 246.1,
+          "endSec": 246.4,
+          "text": "app"
+        },
+        {
+          "startSec": 246.4,
+          "endSec": 247.7,
+          "text": "permissions"
+        },
+        {
+          "startSec": 247.7,
+          "endSec": 247.9,
+          "text": "for"
+        },
+        {
+          "startSec": 247.9,
+          "endSec": 248.4,
+          "text": "your"
+        },
+        {
+          "startSec": 248.4,
+          "endSec": 249.3,
+          "text": "device,"
+        },
+        {
+          "startSec": 249.3,
+          "endSec": 250.2,
+          "text": "security"
+        },
+        {
+          "startSec": 250.2,
+          "endSec": 251,
+          "text": "experts"
+        },
+        {
+          "startSec": 251,
+          "endSec": 251.3,
+          "text": "say"
+        },
+        {
+          "startSec": 251.3,
+          "endSec": 251.5,
+          "text": "it"
+        },
+        {
+          "startSec": 251.5,
+          "endSec": 251.8,
+          "text": "is"
+        },
+        {
+          "startSec": 251.8,
+          "endSec": 251.9,
+          "text": "a"
+        },
+        {
+          "startSec": 251.9,
+          "endSec": 252.3,
+          "text": "good"
+        },
+        {
+          "startSec": 252.3,
+          "endSec": 252.8,
+          "text": "idea"
+        },
+        {
+          "startSec": 252.8,
+          "endSec": 253,
+          "text": "to"
+        },
+        {
+          "startSec": 253,
+          "endSec": 253.4,
+          "text": "look"
+        },
+        {
+          "startSec": 253.4,
+          "endSec": 254.4,
+          "text": "closely"
+        },
+        {
+          "startSec": 254.4,
+          "endSec": 254.4,
+          "text": "at"
+        },
+        {
+          "startSec": 254.4,
+          "endSec": 254.9,
+          "text": "your"
+        },
+        {
+          "startSec": 254.9,
+          "endSec": 255.6,
+          "text": "Google"
+        },
+        {
+          "startSec": 255.6,
+          "endSec": 256.4,
+          "text": "account"
+        },
+        {
+          "startSec": 256.4,
+          "endSec": 256.6,
+          "text": "to"
+        },
+        {
+          "startSec": 256.6,
+          "endSec": 257,
+          "text": "make"
+        },
+        {
+          "startSec": 257,
+          "endSec": 257.5,
+          "text": "sure"
+        },
+        {
+          "startSec": 257.5,
+          "endSec": 257.8,
+          "text": "it"
+        },
+        {
+          "startSec": 257.8,
+          "endSec": 257.9,
+          "text": "is"
+        },
+        {
+          "startSec": 257.9,
+          "endSec": 258.5,
+          "text": "not"
+        },
+        {
+          "startSec": 258.5,
+          "endSec": 259.2,
+          "text": "tracking"
+        },
+        {
+          "startSec": 259.2,
+          "endSec": 260,
+          "text": "you."
+        }
+      ]
     },
     {
       "startSec": 260,
       "endSec": 268,
-      "text": "To find this out, go to myaccount.google.com and find data and privacy."
+      "text": "To find this out, go to myaccount.google.com and find data and privacy.",
+      "words": [
+        {
+          "startSec": 260.2,
+          "endSec": 260.3,
+          "text": "To"
+        },
+        {
+          "startSec": 260.3,
+          "endSec": 260.7,
+          "text": "find"
+        },
+        {
+          "startSec": 260.7,
+          "endSec": 261.2,
+          "text": "this"
+        },
+        {
+          "startSec": 261.2,
+          "endSec": 261.8,
+          "text": "out,"
+        },
+        {
+          "startSec": 261.8,
+          "endSec": 262,
+          "text": "go"
+        },
+        {
+          "startSec": 262,
+          "endSec": 262.3,
+          "text": "to"
+        },
+        {
+          "startSec": 262.3,
+          "endSec": 265,
+          "text": "myaccount.google.com"
+        },
+        {
+          "startSec": 265,
+          "endSec": 265.4,
+          "text": "and"
+        },
+        {
+          "startSec": 265.4,
+          "endSec": 265.9,
+          "text": "find"
+        },
+        {
+          "startSec": 265.9,
+          "endSec": 266.3,
+          "text": "data"
+        },
+        {
+          "startSec": 266.3,
+          "endSec": 266.7,
+          "text": "and"
+        },
+        {
+          "startSec": 266.7,
+          "endSec": 268,
+          "text": "privacy."
+        },
+        {
+          "startSec": 268,
+          "endSec": 268.7,
+          "text": "Users"
+        }
+      ]
     },
     {
       "startSec": 268,
       "endSec": 274,
-      "text": "Users can find location history controls there."
+      "text": "Users can find location history controls there.",
+      "words": [
+        {
+          "startSec": 268,
+          "endSec": 268.7,
+          "text": "Users"
+        },
+        {
+          "startSec": 268.7,
+          "endSec": 269.1,
+          "text": "can"
+        },
+        {
+          "startSec": 269.1,
+          "endSec": 269.7,
+          "text": "find"
+        },
+        {
+          "startSec": 269.7,
+          "endSec": 270.8,
+          "text": "location"
+        },
+        {
+          "startSec": 270.8,
+          "endSec": 271.7,
+          "text": "history"
+        },
+        {
+          "startSec": 271.7,
+          "endSec": 273,
+          "text": "controls"
+        },
+        {
+          "startSec": 273,
+          "endSec": 274,
+          "text": "there."
+        },
+        {
+          "startSec": 274,
+          "endSec": 274.5,
+          "text": "Under"
+        }
+      ]
     },
     {
       "startSec": 274,
       "endSec": 285,
-      "text": "Under recent changes, the history will be removed after three months, although users can change that setting as well."
+      "text": "Under recent changes, the history will be removed after three months, although users can change that setting as well.",
+      "words": [
+        {
+          "startSec": 274,
+          "endSec": 274.5,
+          "text": "Under"
+        },
+        {
+          "startSec": 274.5,
+          "endSec": 275.2,
+          "text": "recent"
+        },
+        {
+          "startSec": 275.2,
+          "endSec": 276.1,
+          "text": "changes,"
+        },
+        {
+          "startSec": 276.1,
+          "endSec": 276.4,
+          "text": "the"
+        },
+        {
+          "startSec": 276.4,
+          "endSec": 277.2,
+          "text": "history"
+        },
+        {
+          "startSec": 277.2,
+          "endSec": 277.7,
+          "text": "will"
+        },
+        {
+          "startSec": 277.7,
+          "endSec": 277.8,
+          "text": "be"
+        },
+        {
+          "startSec": 277.8,
+          "endSec": 279,
+          "text": "removed"
+        },
+        {
+          "startSec": 279,
+          "endSec": 279.1,
+          "text": "after"
+        },
+        {
+          "startSec": 279.1,
+          "endSec": 279.6,
+          "text": "three"
+        },
+        {
+          "startSec": 279.6,
+          "endSec": 280.5,
+          "text": "months,"
+        },
+        {
+          "startSec": 280.5,
+          "endSec": 281.3,
+          "text": "although"
+        },
+        {
+          "startSec": 281.3,
+          "endSec": 281.8,
+          "text": "users"
+        },
+        {
+          "startSec": 281.8,
+          "endSec": 282.2,
+          "text": "can"
+        },
+        {
+          "startSec": 282.2,
+          "endSec": 282.8,
+          "text": "change"
+        },
+        {
+          "startSec": 282.8,
+          "endSec": 283.4,
+          "text": "that"
+        },
+        {
+          "startSec": 283.4,
+          "endSec": 284,
+          "text": "setting"
+        },
+        {
+          "startSec": 284,
+          "endSec": 284.2,
+          "text": "as"
+        },
+        {
+          "startSec": 284.2,
+          "endSec": 285,
+          "text": "well."
+        }
+      ]
     },
     {
       "startSec": 285,
       "endSec": 296,
-      "text": "Popular web browsers for smartphones like Safari or Chrome could also give away location information."
+      "text": "Popular web browsers for smartphones like Safari or Chrome could also give away location information.",
+      "words": [
+        {
+          "startSec": 285.3,
+          "endSec": 286.1,
+          "text": "Popular"
+        },
+        {
+          "startSec": 286.1,
+          "endSec": 286.2,
+          "text": "web"
+        },
+        {
+          "startSec": 286.2,
+          "endSec": 287.2,
+          "text": "browsers"
+        },
+        {
+          "startSec": 287.2,
+          "endSec": 287.6,
+          "text": "for"
+        },
+        {
+          "startSec": 287.6,
+          "endSec": 288.9,
+          "text": "smartphones"
+        },
+        {
+          "startSec": 288.9,
+          "endSec": 289.4,
+          "text": "like"
+        },
+        {
+          "startSec": 289.4,
+          "endSec": 290.2,
+          "text": "Safari"
+        },
+        {
+          "startSec": 290.2,
+          "endSec": 290.5,
+          "text": "or"
+        },
+        {
+          "startSec": 290.5,
+          "endSec": 291.2,
+          "text": "Chrome"
+        },
+        {
+          "startSec": 291.2,
+          "endSec": 291.8,
+          "text": "could"
+        },
+        {
+          "startSec": 291.8,
+          "endSec": 292.2,
+          "text": "also"
+        },
+        {
+          "startSec": 292.2,
+          "endSec": 292.7,
+          "text": "give"
+        },
+        {
+          "startSec": 292.7,
+          "endSec": 293.2,
+          "text": "away"
+        },
+        {
+          "startSec": 293.2,
+          "endSec": 294.4,
+          "text": "location"
+        },
+        {
+          "startSec": 294.4,
+          "endSec": 296,
+          "text": "information."
+        },
+        {
+          "startSec": 296,
+          "endSec": 296.3,
+          "text": "Try"
+        }
+      ]
     },
     {
       "startSec": 296,
       "endSec": 300,
-      "text": "Try using one that does not store your data."
+      "text": "Try using one that does not store your data.",
+      "words": [
+        {
+          "startSec": 296,
+          "endSec": 296.3,
+          "text": "Try"
+        },
+        {
+          "startSec": 296.3,
+          "endSec": 296.8,
+          "text": "using"
+        },
+        {
+          "startSec": 296.8,
+          "endSec": 297.1,
+          "text": "one"
+        },
+        {
+          "startSec": 297.1,
+          "endSec": 297.6,
+          "text": "that"
+        },
+        {
+          "startSec": 297.6,
+          "endSec": 298.1,
+          "text": "does"
+        },
+        {
+          "startSec": 298.1,
+          "endSec": 298.3,
+          "text": "not"
+        },
+        {
+          "startSec": 298.3,
+          "endSec": 298.9,
+          "text": "store"
+        },
+        {
+          "startSec": 298.9,
+          "endSec": 299.2,
+          "text": "your"
+        },
+        {
+          "startSec": 299.2,
+          "endSec": 300,
+          "text": "data."
+        }
+      ]
     },
     {
       "startSec": 300,
       "endSec": 321,
-      "text": "Such browsers include .gov, Firefox, Focus, or Ecosia. If a privacy protected browser needs to identify your location through an IP address, it will ask first before doing so."
+      "text": "Such browsers include .gov, Firefox, Focus, or Ecosia. If a privacy protected browser needs to identify your location through an IP address, it will ask first before doing so.",
+      "words": [
+        {
+          "startSec": 300.3,
+          "endSec": 301.1,
+          "text": "Such"
+        },
+        {
+          "startSec": 301.1,
+          "endSec": 303.3,
+          "text": "browsers"
+        },
+        {
+          "startSec": 303.3,
+          "endSec": 305.3,
+          "text": "include"
+        },
+        {
+          "startSec": 305.3,
+          "endSec": 307.5,
+          "text": ".gov,"
+        },
+        {
+          "startSec": 307.5,
+          "endSec": 310,
+          "text": "Firefox,"
+        },
+        {
+          "startSec": 310,
+          "endSec": 311.9,
+          "text": "Focus,"
+        },
+        {
+          "startSec": 311.9,
+          "endSec": 312.5,
+          "text": "or"
+        },
+        {
+          "startSec": 312.5,
+          "endSec": 315,
+          "text": "Ecosia."
+        },
+        {
+          "startSec": 315,
+          "endSec": 315,
+          "text": "If"
+        },
+        {
+          "startSec": 315,
+          "endSec": 315,
+          "text": "a"
+        },
+        {
+          "startSec": 315,
+          "endSec": 315.1,
+          "text": "privacy"
+        },
+        {
+          "startSec": 315.1,
+          "endSec": 315.2,
+          "text": "protected"
+        },
+        {
+          "startSec": 315.2,
+          "endSec": 315.3,
+          "text": "browser"
+        },
+        {
+          "startSec": 315.3,
+          "endSec": 315.4,
+          "text": "needs"
+        },
+        {
+          "startSec": 315.4,
+          "endSec": 315.4,
+          "text": "to"
+        },
+        {
+          "startSec": 315.4,
+          "endSec": 315.6,
+          "text": "identify"
+        },
+        {
+          "startSec": 315.6,
+          "endSec": 315.6,
+          "text": "your"
+        },
+        {
+          "startSec": 315.6,
+          "endSec": 315.7,
+          "text": "location"
+        },
+        {
+          "startSec": 315.7,
+          "endSec": 315.8,
+          "text": "through"
+        },
+        {
+          "startSec": 315.8,
+          "endSec": 315.8,
+          "text": "an"
+        },
+        {
+          "startSec": 315.8,
+          "endSec": 315.9,
+          "text": "IP"
+        },
+        {
+          "startSec": 315.9,
+          "endSec": 316,
+          "text": "address,"
+        },
+        {
+          "startSec": 316,
+          "endSec": 316.3,
+          "text": "it"
+        },
+        {
+          "startSec": 316.3,
+          "endSec": 317,
+          "text": "will"
+        },
+        {
+          "startSec": 317,
+          "endSec": 317.9,
+          "text": "ask"
+        },
+        {
+          "startSec": 317.9,
+          "endSec": 318.3,
+          "text": "first"
+        },
+        {
+          "startSec": 318.3,
+          "endSec": 319.3,
+          "text": "before"
+        },
+        {
+          "startSec": 319.3,
+          "endSec": 320.1,
+          "text": "doing"
+        },
+        {
+          "startSec": 320.1,
+          "endSec": 321,
+          "text": "so."
+        }
+      ]
     },
     {
       "startSec": 321,
       "endSec": 332,
-      "text": "These kinds of browsers will also let users easily remove Internet cookies and other web browsing data."
+      "text": "These kinds of browsers will also let users easily remove Internet cookies and other web browsing data.",
+      "words": [
+        {
+          "startSec": 321.3,
+          "endSec": 321.6,
+          "text": "These"
+        },
+        {
+          "startSec": 321.6,
+          "endSec": 322.2,
+          "text": "kinds"
+        },
+        {
+          "startSec": 322.2,
+          "endSec": 322.5,
+          "text": "of"
+        },
+        {
+          "startSec": 322.5,
+          "endSec": 323.4,
+          "text": "browsers"
+        },
+        {
+          "startSec": 323.4,
+          "endSec": 323.9,
+          "text": "will"
+        },
+        {
+          "startSec": 323.9,
+          "endSec": 324.4,
+          "text": "also"
+        },
+        {
+          "startSec": 324.4,
+          "endSec": 324.8,
+          "text": "let"
+        },
+        {
+          "startSec": 324.8,
+          "endSec": 325.4,
+          "text": "users"
+        },
+        {
+          "startSec": 325.4,
+          "endSec": 326.1,
+          "text": "easily"
+        },
+        {
+          "startSec": 326.1,
+          "endSec": 326.9,
+          "text": "remove"
+        },
+        {
+          "startSec": 326.9,
+          "endSec": 327.9,
+          "text": "Internet"
+        },
+        {
+          "startSec": 327.9,
+          "endSec": 328.7,
+          "text": "cookies"
+        },
+        {
+          "startSec": 328.7,
+          "endSec": 329.1,
+          "text": "and"
+        },
+        {
+          "startSec": 329.1,
+          "endSec": 329.4,
+          "text": "other"
+        },
+        {
+          "startSec": 329.4,
+          "endSec": 330.4,
+          "text": "web"
+        },
+        {
+          "startSec": 330.4,
+          "endSec": 331.1,
+          "text": "browsing"
+        },
+        {
+          "startSec": 331.1,
+          "endSec": 332,
+          "text": "data."
+        }
+      ]
     },
     {
       "startSec": 332,
       "endSec": 346,
-      "text": "Phones or tablets can also be tracked with Apple's \"Find My\" or Google's \"Find My Device\" services designed to recover lost devices."
+      "text": "Phones or tablets can also be tracked with Apple's \"Find My\" or Google's \"Find My Device\" services designed to recover lost devices.",
+      "words": [
+        {
+          "startSec": 332.2,
+          "endSec": 332.7,
+          "text": "Phones"
+        },
+        {
+          "startSec": 332.7,
+          "endSec": 333.1,
+          "text": "or"
+        },
+        {
+          "startSec": 333.1,
+          "endSec": 333.8,
+          "text": "tablets"
+        },
+        {
+          "startSec": 333.8,
+          "endSec": 334.2,
+          "text": "can"
+        },
+        {
+          "startSec": 334.2,
+          "endSec": 334.7,
+          "text": "also"
+        },
+        {
+          "startSec": 334.7,
+          "endSec": 334.9,
+          "text": "be"
+        },
+        {
+          "startSec": 334.9,
+          "endSec": 335.8,
+          "text": "tracked"
+        },
+        {
+          "startSec": 335.8,
+          "endSec": 336.3,
+          "text": "with"
+        },
+        {
+          "startSec": 336.3,
+          "endSec": 337.1,
+          "text": "Apple's"
+        },
+        {
+          "startSec": 337.1,
+          "endSec": 337.7,
+          "text": "\"Find"
+        },
+        {
+          "startSec": 337.7,
+          "endSec": 338.2,
+          "text": "My\""
+        },
+        {
+          "startSec": 338.2,
+          "endSec": 338.3,
+          "text": "or"
+        },
+        {
+          "startSec": 338.3,
+          "endSec": 339.3,
+          "text": "Google's"
+        },
+        {
+          "startSec": 339.3,
+          "endSec": 339.9,
+          "text": "\"Find"
+        },
+        {
+          "startSec": 339.9,
+          "endSec": 340.2,
+          "text": "My"
+        },
+        {
+          "startSec": 340.2,
+          "endSec": 341.4,
+          "text": "Device\""
+        },
+        {
+          "startSec": 341.4,
+          "endSec": 342,
+          "text": "services"
+        },
+        {
+          "startSec": 342,
+          "endSec": 343,
+          "text": "designed"
+        },
+        {
+          "startSec": 343,
+          "endSec": 343.3,
+          "text": "to"
+        },
+        {
+          "startSec": 343.3,
+          "endSec": 344.1,
+          "text": "recover"
+        },
+        {
+          "startSec": 344.1,
+          "endSec": 344.6,
+          "text": "lost"
+        },
+        {
+          "startSec": 344.6,
+          "endSec": 346,
+          "text": "devices."
+        },
+        {
+          "startSec": 346,
+          "endSec": 346.6,
+          "text": "Users"
+        }
+      ]
     },
     {
       "startSec": 346,
       "endSec": 359,
-      "text": "Users can turn this tool off if they think someone was able to take control of their Apple or Google account and is using it for tracking."
+      "text": "Users can turn this tool off if they think someone was able to take control of their Apple or Google account and is using it for tracking.",
+      "words": [
+        {
+          "startSec": 346,
+          "endSec": 346.6,
+          "text": "Users"
+        },
+        {
+          "startSec": 346.6,
+          "endSec": 347.1,
+          "text": "can"
+        },
+        {
+          "startSec": 347.1,
+          "endSec": 347.4,
+          "text": "turn"
+        },
+        {
+          "startSec": 347.4,
+          "endSec": 347.8,
+          "text": "this"
+        },
+        {
+          "startSec": 347.8,
+          "endSec": 348.3,
+          "text": "tool"
+        },
+        {
+          "startSec": 348.3,
+          "endSec": 348.6,
+          "text": "off"
+        },
+        {
+          "startSec": 348.6,
+          "endSec": 348.9,
+          "text": "if"
+        },
+        {
+          "startSec": 348.9,
+          "endSec": 349.3,
+          "text": "they"
+        },
+        {
+          "startSec": 349.3,
+          "endSec": 349.8,
+          "text": "think"
+        },
+        {
+          "startSec": 349.8,
+          "endSec": 351,
+          "text": "someone"
+        },
+        {
+          "startSec": 351,
+          "endSec": 351,
+          "text": "was"
+        },
+        {
+          "startSec": 351,
+          "endSec": 351.5,
+          "text": "able"
+        },
+        {
+          "startSec": 351.5,
+          "endSec": 351.6,
+          "text": "to"
+        },
+        {
+          "startSec": 351.6,
+          "endSec": 352.1,
+          "text": "take"
+        },
+        {
+          "startSec": 352.1,
+          "endSec": 352.9,
+          "text": "control"
+        },
+        {
+          "startSec": 352.9,
+          "endSec": 353.1,
+          "text": "of"
+        },
+        {
+          "startSec": 353.1,
+          "endSec": 353.6,
+          "text": "their"
+        },
+        {
+          "startSec": 353.6,
+          "endSec": 354.2,
+          "text": "Apple"
+        },
+        {
+          "startSec": 354.2,
+          "endSec": 354.4,
+          "text": "or"
+        },
+        {
+          "startSec": 354.4,
+          "endSec": 355.4,
+          "text": "Google"
+        },
+        {
+          "startSec": 355.4,
+          "endSec": 355.9,
+          "text": "account"
+        },
+        {
+          "startSec": 355.9,
+          "endSec": 356.2,
+          "text": "and"
+        },
+        {
+          "startSec": 356.2,
+          "endSec": 356.5,
+          "text": "is"
+        },
+        {
+          "startSec": 356.5,
+          "endSec": 357,
+          "text": "using"
+        },
+        {
+          "startSec": 357,
+          "endSec": 357.2,
+          "text": "it"
+        },
+        {
+          "startSec": 357.2,
+          "endSec": 357.6,
+          "text": "for"
+        },
+        {
+          "startSec": 357.6,
+          "endSec": 359,
+          "text": "tracking."
+        }
+      ]
     },
     {
       "startSec": 359,
       "endSec": 369,
-      "text": "Some cybersecurity websites advise using a smartphone's airplane mode to block tracking operations."
+      "text": "Some cybersecurity websites advise using a smartphone's airplane mode to block tracking operations.",
+      "words": [
+        {
+          "startSec": 359.3,
+          "endSec": 359.5,
+          "text": "Some"
+        },
+        {
+          "startSec": 359.5,
+          "endSec": 361.1,
+          "text": "cybersecurity"
+        },
+        {
+          "startSec": 361.1,
+          "endSec": 361.9,
+          "text": "websites"
+        },
+        {
+          "startSec": 361.9,
+          "endSec": 362.7,
+          "text": "advise"
+        },
+        {
+          "startSec": 362.7,
+          "endSec": 363.2,
+          "text": "using"
+        },
+        {
+          "startSec": 363.2,
+          "endSec": 363.3,
+          "text": "a"
+        },
+        {
+          "startSec": 363.3,
+          "endSec": 364.7,
+          "text": "smartphone's"
+        },
+        {
+          "startSec": 364.7,
+          "endSec": 365.6,
+          "text": "airplane"
+        },
+        {
+          "startSec": 365.6,
+          "endSec": 366,
+          "text": "mode"
+        },
+        {
+          "startSec": 366,
+          "endSec": 366.3,
+          "text": "to"
+        },
+        {
+          "startSec": 366.3,
+          "endSec": 366.9,
+          "text": "block"
+        },
+        {
+          "startSec": 366.9,
+          "endSec": 368.4,
+          "text": "tracking"
+        },
+        {
+          "startSec": 368.4,
+          "endSec": 369,
+          "text": "operations."
+        },
+        {
+          "startSec": 369,
+          "endSec": 369.3,
+          "text": "But"
+        }
+      ]
     },
     {
       "startSec": 369,
       "endSec": 376,
-      "text": "But some experts say this does not always turn off all tracking signals."
+      "text": "But some experts say this does not always turn off all tracking signals.",
+      "words": [
+        {
+          "startSec": 369,
+          "endSec": 369.3,
+          "text": "But"
+        },
+        {
+          "startSec": 369.3,
+          "endSec": 369.8,
+          "text": "some"
+        },
+        {
+          "startSec": 369.8,
+          "endSec": 370.6,
+          "text": "experts"
+        },
+        {
+          "startSec": 370.6,
+          "endSec": 370.9,
+          "text": "say"
+        },
+        {
+          "startSec": 370.9,
+          "endSec": 371.3,
+          "text": "this"
+        },
+        {
+          "startSec": 371.3,
+          "endSec": 371.9,
+          "text": "does"
+        },
+        {
+          "startSec": 371.9,
+          "endSec": 372.1,
+          "text": "not"
+        },
+        {
+          "startSec": 372.1,
+          "endSec": 372.8,
+          "text": "always"
+        },
+        {
+          "startSec": 372.8,
+          "endSec": 373.2,
+          "text": "turn"
+        },
+        {
+          "startSec": 373.2,
+          "endSec": 373.9,
+          "text": "off"
+        },
+        {
+          "startSec": 373.9,
+          "endSec": 374,
+          "text": "all"
+        },
+        {
+          "startSec": 374,
+          "endSec": 374.9,
+          "text": "tracking"
+        },
+        {
+          "startSec": 374.9,
+          "endSec": 376,
+          "text": "signals."
+        },
+        {
+          "startSec": 376,
+          "endSec": 376.6,
+          "text": "Users"
+        }
+      ]
     },
     {
       "startSec": 376,
       "endSec": 383,
-      "text": "Users should not depend on this setting alone to block data collection."
+      "text": "Users should not depend on this setting alone to block data collection.",
+      "words": [
+        {
+          "startSec": 376,
+          "endSec": 376.6,
+          "text": "Users"
+        },
+        {
+          "startSec": 376.6,
+          "endSec": 377.2,
+          "text": "should"
+        },
+        {
+          "startSec": 377.2,
+          "endSec": 377.6,
+          "text": "not"
+        },
+        {
+          "startSec": 377.6,
+          "endSec": 378.3,
+          "text": "depend"
+        },
+        {
+          "startSec": 378.3,
+          "endSec": 378.5,
+          "text": "on"
+        },
+        {
+          "startSec": 378.5,
+          "endSec": 378.9,
+          "text": "this"
+        },
+        {
+          "startSec": 378.9,
+          "endSec": 379.7,
+          "text": "setting"
+        },
+        {
+          "startSec": 379.7,
+          "endSec": 380.2,
+          "text": "alone"
+        },
+        {
+          "startSec": 380.2,
+          "endSec": 380.5,
+          "text": "to"
+        },
+        {
+          "startSec": 380.5,
+          "endSec": 381,
+          "text": "block"
+        },
+        {
+          "startSec": 381,
+          "endSec": 381.5,
+          "text": "data"
+        },
+        {
+          "startSec": 381.5,
+          "endSec": 383,
+          "text": "collection."
+        },
+        {
+          "startSec": 383,
+          "endSec": 383.3,
+          "text": "A"
+        }
+      ]
     },
     {
       "startSec": 383,
       "endSec": 391,
-      "text": "A better tool in many situations would be a signal blocking Faraday bag."
+      "text": "A better tool in many situations would be a signal blocking Faraday bag.",
+      "words": [
+        {
+          "startSec": 383,
+          "endSec": 383.3,
+          "text": "A"
+        },
+        {
+          "startSec": 383.3,
+          "endSec": 384.1,
+          "text": "better"
+        },
+        {
+          "startSec": 384.1,
+          "endSec": 384.4,
+          "text": "tool"
+        },
+        {
+          "startSec": 384.4,
+          "endSec": 384.7,
+          "text": "in"
+        },
+        {
+          "startSec": 384.7,
+          "endSec": 385.2,
+          "text": "many"
+        },
+        {
+          "startSec": 385.2,
+          "endSec": 386.5,
+          "text": "situations"
+        },
+        {
+          "startSec": 386.5,
+          "endSec": 387.1,
+          "text": "would"
+        },
+        {
+          "startSec": 387.1,
+          "endSec": 387.3,
+          "text": "be"
+        },
+        {
+          "startSec": 387.3,
+          "endSec": 387.5,
+          "text": "a"
+        },
+        {
+          "startSec": 387.5,
+          "endSec": 388.2,
+          "text": "signal"
+        },
+        {
+          "startSec": 388.2,
+          "endSec": 389.3,
+          "text": "blocking"
+        },
+        {
+          "startSec": 389.3,
+          "endSec": 390.2,
+          "text": "Faraday"
+        },
+        {
+          "startSec": 390.2,
+          "endSec": 391,
+          "text": "bag."
+        },
+        {
+          "startSec": 391,
+          "endSec": 391.5,
+          "text": "These"
+        }
+      ]
     },
     {
       "startSec": 391,
       "endSec": 396,
-      "text": "These block all wireless signals to the smartphone."
+      "text": "These block all wireless signals to the smartphone.",
+      "words": [
+        {
+          "startSec": 391,
+          "endSec": 391.5,
+          "text": "These"
+        },
+        {
+          "startSec": 391.5,
+          "endSec": 392.1,
+          "text": "block"
+        },
+        {
+          "startSec": 392.1,
+          "endSec": 392.4,
+          "text": "all"
+        },
+        {
+          "startSec": 392.4,
+          "endSec": 393.3,
+          "text": "wireless"
+        },
+        {
+          "startSec": 393.3,
+          "endSec": 394,
+          "text": "signals"
+        },
+        {
+          "startSec": 394,
+          "endSec": 394.2,
+          "text": "to"
+        },
+        {
+          "startSec": 394.2,
+          "endSec": 394.7,
+          "text": "the"
+        },
+        {
+          "startSec": 394.7,
+          "endSec": 396,
+          "text": "smartphone."
+        },
+        {
+          "startSec": 396,
+          "endSec": 396.8,
+          "text": "Experts"
+        }
+      ]
     },
     {
       "startSec": 396,
       "endSec": 403,
-      "text": "Experts suggest testing the bag to make sure data is actually being blocked."
+      "text": "Experts suggest testing the bag to make sure data is actually being blocked.",
+      "words": [
+        {
+          "startSec": 396,
+          "endSec": 396.8,
+          "text": "Experts"
+        },
+        {
+          "startSec": 396.8,
+          "endSec": 397.5,
+          "text": "suggest"
+        },
+        {
+          "startSec": 397.5,
+          "endSec": 398.3,
+          "text": "testing"
+        },
+        {
+          "startSec": 398.3,
+          "endSec": 398.7,
+          "text": "the"
+        },
+        {
+          "startSec": 398.7,
+          "endSec": 399,
+          "text": "bag"
+        },
+        {
+          "startSec": 399,
+          "endSec": 399.2,
+          "text": "to"
+        },
+        {
+          "startSec": 399.2,
+          "endSec": 399.7,
+          "text": "make"
+        },
+        {
+          "startSec": 399.7,
+          "endSec": 400.1,
+          "text": "sure"
+        },
+        {
+          "startSec": 400.1,
+          "endSec": 400.7,
+          "text": "data"
+        },
+        {
+          "startSec": 400.7,
+          "endSec": 401,
+          "text": "is"
+        },
+        {
+          "startSec": 401,
+          "endSec": 401.6,
+          "text": "actually"
+        },
+        {
+          "startSec": 401.6,
+          "endSec": 402.2,
+          "text": "being"
+        },
+        {
+          "startSec": 402.2,
+          "endSec": 403,
+          "text": "blocked."
+        },
+        {
+          "startSec": 403,
+          "endSec": 403.6,
+          "text": "While"
+        }
+      ]
     },
     {
       "startSec": 403,
       "endSec": 412,
-      "text": "While such bags can be helpful, devices kept inside the containers cannot be used."
+      "text": "While such bags can be helpful, devices kept inside the containers cannot be used.",
+      "words": [
+        {
+          "startSec": 403,
+          "endSec": 403.6,
+          "text": "While"
+        },
+        {
+          "startSec": 403.6,
+          "endSec": 404.1,
+          "text": "such"
+        },
+        {
+          "startSec": 404.1,
+          "endSec": 404.6,
+          "text": "bags"
+        },
+        {
+          "startSec": 404.6,
+          "endSec": 405,
+          "text": "can"
+        },
+        {
+          "startSec": 405,
+          "endSec": 405.2,
+          "text": "be"
+        },
+        {
+          "startSec": 405.2,
+          "endSec": 406.3,
+          "text": "helpful,"
+        },
+        {
+          "startSec": 406.3,
+          "endSec": 407.2,
+          "text": "devices"
+        },
+        {
+          "startSec": 407.2,
+          "endSec": 408,
+          "text": "kept"
+        },
+        {
+          "startSec": 408,
+          "endSec": 408.5,
+          "text": "inside"
+        },
+        {
+          "startSec": 408.5,
+          "endSec": 408.8,
+          "text": "the"
+        },
+        {
+          "startSec": 408.8,
+          "endSec": 410.1,
+          "text": "containers"
+        },
+        {
+          "startSec": 410.1,
+          "endSec": 410.8,
+          "text": "cannot"
+        },
+        {
+          "startSec": 410.8,
+          "endSec": 411.1,
+          "text": "be"
+        },
+        {
+          "startSec": 411.1,
+          "endSec": 412,
+          "text": "used."
+        }
+      ]
     },
     {
       "startSec": 412,
       "endSec": 415.2,
-      "text": "I'm Brian Lynn."
+      "text": "I'm Brian Lynn.",
+      "words": [
+        {
+          "startSec": 412.2,
+          "endSec": 412.6,
+          "text": "I'm"
+        },
+        {
+          "startSec": 412.6,
+          "endSec": 413.7,
+          "text": "Brian"
+        },
+        {
+          "startSec": 413.7,
+          "endSec": 415.2,
+          "text": "Lynn."
+        }
+      ]
     }
   ],
   "cefr": "B2",

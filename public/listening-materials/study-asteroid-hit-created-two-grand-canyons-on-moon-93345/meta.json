@@ -9,197 +9,3555 @@
     {
       "startSec": 0,
       "endSec": 11.3,
-      "text": "A new study suggests an asteroid strike on the Moon billions of years ago left two huge valleys"
+      "text": "A new study suggests an asteroid strike on the Moon billions of years ago left two huge valleys",
+      "words": [
+        {
+          "startSec": 0.1,
+          "endSec": 0.1,
+          "text": "A"
+        },
+        {
+          "startSec": 0.1,
+          "endSec": 0.6,
+          "text": "new"
+        },
+        {
+          "startSec": 0.6,
+          "endSec": 1.3,
+          "text": "study"
+        },
+        {
+          "startSec": 1.3,
+          "endSec": 2.4,
+          "text": "suggests"
+        },
+        {
+          "startSec": 2.4,
+          "endSec": 2.7,
+          "text": "an"
+        },
+        {
+          "startSec": 2.7,
+          "endSec": 3.8,
+          "text": "asteroid"
+        },
+        {
+          "startSec": 3.8,
+          "endSec": 4.7,
+          "text": "strike"
+        },
+        {
+          "startSec": 4.7,
+          "endSec": 5,
+          "text": "on"
+        },
+        {
+          "startSec": 5,
+          "endSec": 5.5,
+          "text": "the"
+        },
+        {
+          "startSec": 5.5,
+          "endSec": 6.2,
+          "text": "Moon"
+        },
+        {
+          "startSec": 6.2,
+          "endSec": 6.8,
+          "text": "billions"
+        },
+        {
+          "startSec": 6.8,
+          "endSec": 7,
+          "text": "of"
+        },
+        {
+          "startSec": 7,
+          "endSec": 7.5,
+          "text": "years"
+        },
+        {
+          "startSec": 7.5,
+          "endSec": 7.8,
+          "text": "ago"
+        },
+        {
+          "startSec": 7.8,
+          "endSec": 9.1,
+          "text": "left"
+        },
+        {
+          "startSec": 9.1,
+          "endSec": 9.6,
+          "text": "two"
+        },
+        {
+          "startSec": 9.6,
+          "endSec": 10.1,
+          "text": "huge"
+        },
+        {
+          "startSec": 10.1,
+          "endSec": 11.3,
+          "text": "valleys"
+        },
+        {
+          "startSec": 11.3,
+          "endSec": 11.8,
+          "text": "about"
+        }
+      ]
     },
     {
       "startSec": 11.3,
       "endSec": 20.2,
-      "text": "about the size of Earth's Grand Canyon. Researchers from the United States and Britain"
+      "text": "about the size of Earth's Grand Canyon. Researchers from the United States and Britain",
+      "words": [
+        {
+          "startSec": 11.3,
+          "endSec": 11.8,
+          "text": "about"
+        },
+        {
+          "startSec": 11.8,
+          "endSec": 12,
+          "text": "the"
+        },
+        {
+          "startSec": 12,
+          "endSec": 12.4,
+          "text": "size"
+        },
+        {
+          "startSec": 12.4,
+          "endSec": 12.6,
+          "text": "of"
+        },
+        {
+          "startSec": 12.6,
+          "endSec": 13.3,
+          "text": "Earth's"
+        },
+        {
+          "startSec": 13.3,
+          "endSec": 13.8,
+          "text": "Grand"
+        },
+        {
+          "startSec": 13.8,
+          "endSec": 14.7,
+          "text": "Canyon."
+        },
+        {
+          "startSec": 14.7,
+          "endSec": 16.2,
+          "text": "Researchers"
+        },
+        {
+          "startSec": 16.2,
+          "endSec": 16.8,
+          "text": "from"
+        },
+        {
+          "startSec": 16.8,
+          "endSec": 17.4,
+          "text": "the"
+        },
+        {
+          "startSec": 17.4,
+          "endSec": 18,
+          "text": "United"
+        },
+        {
+          "startSec": 18,
+          "endSec": 18.9,
+          "text": "States"
+        },
+        {
+          "startSec": 18.9,
+          "endSec": 19.3,
+          "text": "and"
+        },
+        {
+          "startSec": 19.3,
+          "endSec": 20.2,
+          "text": "Britain"
+        }
+      ]
     },
     {
       "startSec": 20.2,
       "endSec": 30.2,
-      "text": "said their research shows the two steep valleys or canyons likely formed in less than 10 minutes."
+      "text": "said their research shows the two steep valleys or canyons likely formed in less than 10 minutes.",
+      "words": [
+        {
+          "startSec": 20.3,
+          "endSec": 20.7,
+          "text": "said"
+        },
+        {
+          "startSec": 20.7,
+          "endSec": 21.3,
+          "text": "their"
+        },
+        {
+          "startSec": 21.3,
+          "endSec": 22.2,
+          "text": "research"
+        },
+        {
+          "startSec": 22.2,
+          "endSec": 22.9,
+          "text": "shows"
+        },
+        {
+          "startSec": 22.9,
+          "endSec": 23.2,
+          "text": "the"
+        },
+        {
+          "startSec": 23.2,
+          "endSec": 23.5,
+          "text": "two"
+        },
+        {
+          "startSec": 23.5,
+          "endSec": 24.1,
+          "text": "steep"
+        },
+        {
+          "startSec": 24.1,
+          "endSec": 24.9,
+          "text": "valleys"
+        },
+        {
+          "startSec": 24.9,
+          "endSec": 25.2,
+          "text": "or"
+        },
+        {
+          "startSec": 25.2,
+          "endSec": 26.4,
+          "text": "canyons"
+        },
+        {
+          "startSec": 26.4,
+          "endSec": 26.7,
+          "text": "likely"
+        },
+        {
+          "startSec": 26.7,
+          "endSec": 27.4,
+          "text": "formed"
+        },
+        {
+          "startSec": 27.4,
+          "endSec": 27.6,
+          "text": "in"
+        },
+        {
+          "startSec": 27.6,
+          "endSec": 28.1,
+          "text": "less"
+        },
+        {
+          "startSec": 28.1,
+          "endSec": 28.7,
+          "text": "than"
+        },
+        {
+          "startSec": 28.7,
+          "endSec": 29.3,
+          "text": "10"
+        },
+        {
+          "startSec": 29.3,
+          "endSec": 30.2,
+          "text": "minutes."
+        },
+        {
+          "startSec": 30.2,
+          "endSec": 30.8,
+          "text": "They"
+        }
+      ]
     },
     {
       "startSec": 30.2,
       "endSec": 39.4,
-      "text": "They noted the crash or impact happened near the south pole on the far side of the Moon."
+      "text": "They noted the crash or impact happened near the south pole on the far side of the Moon.",
+      "words": [
+        {
+          "startSec": 30.2,
+          "endSec": 30.8,
+          "text": "They"
+        },
+        {
+          "startSec": 30.8,
+          "endSec": 31.5,
+          "text": "noted"
+        },
+        {
+          "startSec": 31.5,
+          "endSec": 32,
+          "text": "the"
+        },
+        {
+          "startSec": 32,
+          "endSec": 32.7,
+          "text": "crash"
+        },
+        {
+          "startSec": 32.7,
+          "endSec": 33,
+          "text": "or"
+        },
+        {
+          "startSec": 33,
+          "endSec": 33.9,
+          "text": "impact"
+        },
+        {
+          "startSec": 33.9,
+          "endSec": 35.1,
+          "text": "happened"
+        },
+        {
+          "startSec": 35.1,
+          "endSec": 35.7,
+          "text": "near"
+        },
+        {
+          "startSec": 35.7,
+          "endSec": 36.3,
+          "text": "the"
+        },
+        {
+          "startSec": 36.3,
+          "endSec": 36.9,
+          "text": "south"
+        },
+        {
+          "startSec": 36.9,
+          "endSec": 37.5,
+          "text": "pole"
+        },
+        {
+          "startSec": 37.5,
+          "endSec": 37.7,
+          "text": "on"
+        },
+        {
+          "startSec": 37.7,
+          "endSec": 38,
+          "text": "the"
+        },
+        {
+          "startSec": 38,
+          "endSec": 38.2,
+          "text": "far"
+        },
+        {
+          "startSec": 38.2,
+          "endSec": 38.7,
+          "text": "side"
+        },
+        {
+          "startSec": 38.7,
+          "endSec": 38.8,
+          "text": "of"
+        },
+        {
+          "startSec": 38.8,
+          "endSec": 39,
+          "text": "the"
+        },
+        {
+          "startSec": 39,
+          "endSec": 39.4,
+          "text": "Moon."
+        },
+        {
+          "startSec": 39.4,
+          "endSec": 39.8,
+          "text": "That"
+        }
+      ]
     },
     {
       "startSec": 39.4,
       "endSec": 49.4,
-      "text": "That is the side of the Moon which always faces away from Earth. The area is known as the"
+      "text": "That is the side of the Moon which always faces away from Earth. The area is known as the",
+      "words": [
+        {
+          "startSec": 39.4,
+          "endSec": 39.8,
+          "text": "That"
+        },
+        {
+          "startSec": 39.8,
+          "endSec": 40.1,
+          "text": "is"
+        },
+        {
+          "startSec": 40.1,
+          "endSec": 40.4,
+          "text": "the"
+        },
+        {
+          "startSec": 40.4,
+          "endSec": 40.9,
+          "text": "side"
+        },
+        {
+          "startSec": 40.9,
+          "endSec": 41.1,
+          "text": "of"
+        },
+        {
+          "startSec": 41.1,
+          "endSec": 41.4,
+          "text": "the"
+        },
+        {
+          "startSec": 41.4,
+          "endSec": 41.9,
+          "text": "Moon"
+        },
+        {
+          "startSec": 41.9,
+          "endSec": 42.5,
+          "text": "which"
+        },
+        {
+          "startSec": 42.5,
+          "endSec": 43.2,
+          "text": "always"
+        },
+        {
+          "startSec": 43.2,
+          "endSec": 43.8,
+          "text": "faces"
+        },
+        {
+          "startSec": 43.8,
+          "endSec": 44.2,
+          "text": "away"
+        },
+        {
+          "startSec": 44.2,
+          "endSec": 44.7,
+          "text": "from"
+        },
+        {
+          "startSec": 44.7,
+          "endSec": 45.7,
+          "text": "Earth."
+        },
+        {
+          "startSec": 45.7,
+          "endSec": 46.9,
+          "text": "The"
+        },
+        {
+          "startSec": 46.9,
+          "endSec": 47.4,
+          "text": "area"
+        },
+        {
+          "startSec": 47.4,
+          "endSec": 47.9,
+          "text": "is"
+        },
+        {
+          "startSec": 47.9,
+          "endSec": 48.4,
+          "text": "known"
+        },
+        {
+          "startSec": 48.4,
+          "endSec": 48.7,
+          "text": "as"
+        },
+        {
+          "startSec": 48.7,
+          "endSec": 49.4,
+          "text": "the"
+        },
+        {
+          "startSec": 49.4,
+          "endSec": 50.3,
+          "text": "Schrodinger"
+        }
+      ]
     },
     {
       "startSec": 49.4,
       "endSec": 58,
-      "text": "Schrodinger impact basin. The speed of the incoming object which the team said might have been a"
+      "text": "Schrodinger impact basin. The speed of the incoming object which the team said might have been a",
+      "words": [
+        {
+          "startSec": 49.4,
+          "endSec": 50.3,
+          "text": "Schrodinger"
+        },
+        {
+          "startSec": 50.3,
+          "endSec": 50.9,
+          "text": "impact"
+        },
+        {
+          "startSec": 50.9,
+          "endSec": 51.6,
+          "text": "basin."
+        },
+        {
+          "startSec": 51.6,
+          "endSec": 52.1,
+          "text": "The"
+        },
+        {
+          "startSec": 52.1,
+          "endSec": 52.8,
+          "text": "speed"
+        },
+        {
+          "startSec": 52.8,
+          "endSec": 53,
+          "text": "of"
+        },
+        {
+          "startSec": 53,
+          "endSec": 53.4,
+          "text": "the"
+        },
+        {
+          "startSec": 53.4,
+          "endSec": 54.6,
+          "text": "incoming"
+        },
+        {
+          "startSec": 54.6,
+          "endSec": 55.5,
+          "text": "object"
+        },
+        {
+          "startSec": 55.5,
+          "endSec": 55.8,
+          "text": "which"
+        },
+        {
+          "startSec": 55.8,
+          "endSec": 56,
+          "text": "the"
+        },
+        {
+          "startSec": 56,
+          "endSec": 56.3,
+          "text": "team"
+        },
+        {
+          "startSec": 56.3,
+          "endSec": 57,
+          "text": "said"
+        },
+        {
+          "startSec": 57,
+          "endSec": 57.3,
+          "text": "might"
+        },
+        {
+          "startSec": 57.3,
+          "endSec": 57.5,
+          "text": "have"
+        },
+        {
+          "startSec": 57.5,
+          "endSec": 57.9,
+          "text": "been"
+        },
+        {
+          "startSec": 57.9,
+          "endSec": 58,
+          "text": "a"
+        },
+        {
+          "startSec": 58,
+          "endSec": 58.6,
+          "text": "comet"
+        }
+      ]
     },
     {
       "startSec": 58,
       "endSec": 71.2,
-      "text": "comet was estimated to be around 55,000 kilometers per hour. The strike likely happened about 3.8 billion"
+      "text": "comet was estimated to be around 55,000 kilometers per hour. The strike likely happened about 3.8 billion",
+      "words": [
+        {
+          "startSec": 58,
+          "endSec": 58.6,
+          "text": "comet"
+        },
+        {
+          "startSec": 58.6,
+          "endSec": 58.9,
+          "text": "was"
+        },
+        {
+          "startSec": 58.9,
+          "endSec": 59.9,
+          "text": "estimated"
+        },
+        {
+          "startSec": 59.9,
+          "endSec": 60.1,
+          "text": "to"
+        },
+        {
+          "startSec": 60.1,
+          "endSec": 60.3,
+          "text": "be"
+        },
+        {
+          "startSec": 60.3,
+          "endSec": 61,
+          "text": "around"
+        },
+        {
+          "startSec": 61,
+          "endSec": 62.9,
+          "text": "55,000"
+        },
+        {
+          "startSec": 62.9,
+          "endSec": 64.1,
+          "text": "kilometers"
+        },
+        {
+          "startSec": 64.1,
+          "endSec": 64.4,
+          "text": "per"
+        },
+        {
+          "startSec": 64.4,
+          "endSec": 65.2,
+          "text": "hour."
+        },
+        {
+          "startSec": 65.2,
+          "endSec": 65.8,
+          "text": "The"
+        },
+        {
+          "startSec": 65.8,
+          "endSec": 67.1,
+          "text": "strike"
+        },
+        {
+          "startSec": 67.1,
+          "endSec": 68.2,
+          "text": "likely"
+        },
+        {
+          "startSec": 68.2,
+          "endSec": 69.4,
+          "text": "happened"
+        },
+        {
+          "startSec": 69.4,
+          "endSec": 69.4,
+          "text": "about"
+        },
+        {
+          "startSec": 69.4,
+          "endSec": 70.6,
+          "text": "3.8"
+        },
+        {
+          "startSec": 70.6,
+          "endSec": 71.2,
+          "text": "billion"
+        }
+      ]
     },
     {
       "startSec": 71.2,
       "endSec": 81.9,
-      "text": "years ago. The researchers used data collected by a spacecraft operated by the American Space Agency"
+      "text": "years ago. The researchers used data collected by a spacecraft operated by the American Space Agency",
+      "words": [
+        {
+          "startSec": 71.3,
+          "endSec": 71.9,
+          "text": "years"
+        },
+        {
+          "startSec": 71.9,
+          "endSec": 72.5,
+          "text": "ago."
+        },
+        {
+          "startSec": 72.5,
+          "endSec": 72.9,
+          "text": "The"
+        },
+        {
+          "startSec": 72.9,
+          "endSec": 74.3,
+          "text": "researchers"
+        },
+        {
+          "startSec": 74.3,
+          "endSec": 74.8,
+          "text": "used"
+        },
+        {
+          "startSec": 74.8,
+          "endSec": 75.2,
+          "text": "data"
+        },
+        {
+          "startSec": 75.2,
+          "endSec": 76.4,
+          "text": "collected"
+        },
+        {
+          "startSec": 76.4,
+          "endSec": 76.6,
+          "text": "by"
+        },
+        {
+          "startSec": 76.6,
+          "endSec": 76.7,
+          "text": "a"
+        },
+        {
+          "startSec": 76.7,
+          "endSec": 77.9,
+          "text": "spacecraft"
+        },
+        {
+          "startSec": 77.9,
+          "endSec": 78.9,
+          "text": "operated"
+        },
+        {
+          "startSec": 78.9,
+          "endSec": 79.2,
+          "text": "by"
+        },
+        {
+          "startSec": 79.2,
+          "endSec": 79.7,
+          "text": "the"
+        },
+        {
+          "startSec": 79.7,
+          "endSec": 80.4,
+          "text": "American"
+        },
+        {
+          "startSec": 80.4,
+          "endSec": 80.8,
+          "text": "Space"
+        },
+        {
+          "startSec": 80.8,
+          "endSec": 81.9,
+          "text": "Agency"
+        },
+        {
+          "startSec": 81.9,
+          "endSec": 82.8,
+          "text": "NASA."
+        }
+      ]
     },
     {
       "startSec": 81.9,
       "endSec": 91.2,
-      "text": "NASA. That vehicle, the Lunar Reconnaissance Orbiter, has been capturing lunar data since"
+      "text": "NASA. That vehicle, the Lunar Reconnaissance Orbiter, has been capturing lunar data since",
+      "words": [
+        {
+          "startSec": 81.9,
+          "endSec": 82.8,
+          "text": "NASA."
+        },
+        {
+          "startSec": 82.8,
+          "endSec": 83.2,
+          "text": "That"
+        },
+        {
+          "startSec": 83.2,
+          "endSec": 84.3,
+          "text": "vehicle,"
+        },
+        {
+          "startSec": 84.3,
+          "endSec": 84.7,
+          "text": "the"
+        },
+        {
+          "startSec": 84.7,
+          "endSec": 85.3,
+          "text": "Lunar"
+        },
+        {
+          "startSec": 85.3,
+          "endSec": 87,
+          "text": "Reconnaissance"
+        },
+        {
+          "startSec": 87,
+          "endSec": 88.1,
+          "text": "Orbiter,"
+        },
+        {
+          "startSec": 88.1,
+          "endSec": 88.3,
+          "text": "has"
+        },
+        {
+          "startSec": 88.3,
+          "endSec": 88.6,
+          "text": "been"
+        },
+        {
+          "startSec": 88.6,
+          "endSec": 89.4,
+          "text": "capturing"
+        },
+        {
+          "startSec": 89.4,
+          "endSec": 90.4,
+          "text": "lunar"
+        },
+        {
+          "startSec": 90.4,
+          "endSec": 90.8,
+          "text": "data"
+        },
+        {
+          "startSec": 90.8,
+          "endSec": 91.2,
+          "text": "since"
+        }
+      ]
     },
     {
       "startSec": 91.2,
       "endSec": 101.9,
-      "text": "entering orbit around the Moon in June 2009. One main goal of the orbiter's mission was to create"
+      "text": "entering orbit around the Moon in June 2009. One main goal of the orbiter's mission was to create",
+      "words": [
+        {
+          "startSec": 91.3,
+          "endSec": 92.2,
+          "text": "entering"
+        },
+        {
+          "startSec": 92.2,
+          "endSec": 92.7,
+          "text": "orbit"
+        },
+        {
+          "startSec": 92.7,
+          "endSec": 93.5,
+          "text": "around"
+        },
+        {
+          "startSec": 93.5,
+          "endSec": 93.9,
+          "text": "the"
+        },
+        {
+          "startSec": 93.9,
+          "endSec": 94.3,
+          "text": "Moon"
+        },
+        {
+          "startSec": 94.3,
+          "endSec": 94.5,
+          "text": "in"
+        },
+        {
+          "startSec": 94.5,
+          "endSec": 95,
+          "text": "June"
+        },
+        {
+          "startSec": 95,
+          "endSec": 96.8,
+          "text": "2009."
+        },
+        {
+          "startSec": 96.8,
+          "endSec": 97.3,
+          "text": "One"
+        },
+        {
+          "startSec": 97.3,
+          "endSec": 97.6,
+          "text": "main"
+        },
+        {
+          "startSec": 97.6,
+          "endSec": 98,
+          "text": "goal"
+        },
+        {
+          "startSec": 98,
+          "endSec": 98.3,
+          "text": "of"
+        },
+        {
+          "startSec": 98.3,
+          "endSec": 98.6,
+          "text": "the"
+        },
+        {
+          "startSec": 98.6,
+          "endSec": 99.7,
+          "text": "orbiter's"
+        },
+        {
+          "startSec": 99.7,
+          "endSec": 100.6,
+          "text": "mission"
+        },
+        {
+          "startSec": 100.6,
+          "endSec": 101,
+          "text": "was"
+        },
+        {
+          "startSec": 101,
+          "endSec": 101.3,
+          "text": "to"
+        },
+        {
+          "startSec": 101.3,
+          "endSec": 101.9,
+          "text": "create"
+        },
+        {
+          "startSec": 101.9,
+          "endSec": 102,
+          "text": "a"
+        }
+      ]
     },
     {
       "startSec": 101.9,
       "endSec": 112.5,
-      "text": "a highly detailed three-dimensional or 3D map of the Moon. The data has been used by NASA"
+      "text": "a highly detailed three-dimensional or 3D map of the Moon. The data has been used by NASA",
+      "words": [
+        {
+          "startSec": 101.9,
+          "endSec": 102,
+          "text": "a"
+        },
+        {
+          "startSec": 102,
+          "endSec": 102.8,
+          "text": "highly"
+        },
+        {
+          "startSec": 102.8,
+          "endSec": 103.7,
+          "text": "detailed"
+        },
+        {
+          "startSec": 103.7,
+          "endSec": 105.7,
+          "text": "three-dimensional"
+        },
+        {
+          "startSec": 105.7,
+          "endSec": 105.9,
+          "text": "or"
+        },
+        {
+          "startSec": 105.9,
+          "endSec": 106.3,
+          "text": "3D"
+        },
+        {
+          "startSec": 106.3,
+          "endSec": 106.7,
+          "text": "map"
+        },
+        {
+          "startSec": 106.7,
+          "endSec": 106.9,
+          "text": "of"
+        },
+        {
+          "startSec": 106.9,
+          "endSec": 107.3,
+          "text": "the"
+        },
+        {
+          "startSec": 107.3,
+          "endSec": 108.2,
+          "text": "Moon."
+        },
+        {
+          "startSec": 108.2,
+          "endSec": 108.7,
+          "text": "The"
+        },
+        {
+          "startSec": 108.7,
+          "endSec": 109.4,
+          "text": "data"
+        },
+        {
+          "startSec": 109.4,
+          "endSec": 110,
+          "text": "has"
+        },
+        {
+          "startSec": 110,
+          "endSec": 110.8,
+          "text": "been"
+        },
+        {
+          "startSec": 110.8,
+          "endSec": 111.3,
+          "text": "used"
+        },
+        {
+          "startSec": 111.3,
+          "endSec": 111.6,
+          "text": "by"
+        },
+        {
+          "startSec": 111.6,
+          "endSec": 112.5,
+          "text": "NASA"
+        }
+      ]
     },
     {
       "startSec": 112.5,
       "endSec": 122,
-      "text": "to learn more about lunar resources and to plan for future missions. The agency noted that the"
+      "text": "to learn more about lunar resources and to plan for future missions. The agency noted that the",
+      "words": [
+        {
+          "startSec": 112.6,
+          "endSec": 112.7,
+          "text": "to"
+        },
+        {
+          "startSec": 112.7,
+          "endSec": 113.4,
+          "text": "learn"
+        },
+        {
+          "startSec": 113.4,
+          "endSec": 113.8,
+          "text": "more"
+        },
+        {
+          "startSec": 113.8,
+          "endSec": 114.4,
+          "text": "about"
+        },
+        {
+          "startSec": 114.4,
+          "endSec": 115,
+          "text": "lunar"
+        },
+        {
+          "startSec": 115,
+          "endSec": 116.1,
+          "text": "resources"
+        },
+        {
+          "startSec": 116.1,
+          "endSec": 116.5,
+          "text": "and"
+        },
+        {
+          "startSec": 116.5,
+          "endSec": 116.7,
+          "text": "to"
+        },
+        {
+          "startSec": 116.7,
+          "endSec": 117.3,
+          "text": "plan"
+        },
+        {
+          "startSec": 117.3,
+          "endSec": 117.6,
+          "text": "for"
+        },
+        {
+          "startSec": 117.6,
+          "endSec": 118.6,
+          "text": "future"
+        },
+        {
+          "startSec": 118.6,
+          "endSec": 119.7,
+          "text": "missions."
+        },
+        {
+          "startSec": 119.7,
+          "endSec": 120,
+          "text": "The"
+        },
+        {
+          "startSec": 120,
+          "endSec": 121,
+          "text": "agency"
+        },
+        {
+          "startSec": 121,
+          "endSec": 121.5,
+          "text": "noted"
+        },
+        {
+          "startSec": 121.5,
+          "endSec": 121.8,
+          "text": "that"
+        },
+        {
+          "startSec": 121.8,
+          "endSec": 122,
+          "text": "the"
+        },
+        {
+          "startSec": 122,
+          "endSec": 122.6,
+          "text": "Lunar"
+        }
+      ]
     },
     {
       "startSec": 122,
       "endSec": 131.2,
-      "text": "Lunar Reconnaissance Orbiter had already collected as much data as all other planetary missions"
+      "text": "Lunar Reconnaissance Orbiter had already collected as much data as all other planetary missions",
+      "words": [
+        {
+          "startSec": 122,
+          "endSec": 122.6,
+          "text": "Lunar"
+        },
+        {
+          "startSec": 122.6,
+          "endSec": 124.1,
+          "text": "Reconnaissance"
+        },
+        {
+          "startSec": 124.1,
+          "endSec": 125,
+          "text": "Orbiter"
+        },
+        {
+          "startSec": 125,
+          "endSec": 125.2,
+          "text": "had"
+        },
+        {
+          "startSec": 125.2,
+          "endSec": 126,
+          "text": "already"
+        },
+        {
+          "startSec": 126,
+          "endSec": 127,
+          "text": "collected"
+        },
+        {
+          "startSec": 127,
+          "endSec": 127.2,
+          "text": "as"
+        },
+        {
+          "startSec": 127.2,
+          "endSec": 127.7,
+          "text": "much"
+        },
+        {
+          "startSec": 127.7,
+          "endSec": 128.2,
+          "text": "data"
+        },
+        {
+          "startSec": 128.2,
+          "endSec": 128.3,
+          "text": "as"
+        },
+        {
+          "startSec": 128.3,
+          "endSec": 128.7,
+          "text": "all"
+        },
+        {
+          "startSec": 128.7,
+          "endSec": 129.2,
+          "text": "other"
+        },
+        {
+          "startSec": 129.2,
+          "endSec": 130.5,
+          "text": "planetary"
+        },
+        {
+          "startSec": 130.5,
+          "endSec": 131.2,
+          "text": "missions"
+        },
+        {
+          "startSec": 131.2,
+          "endSec": 132.6,
+          "text": "combined."
+        }
+      ]
     },
     {
       "startSec": 131.2,
       "endSec": 141,
-      "text": "combined. The team studying the canyons used the orbiter's map data to simulate the path of the"
+      "text": "combined. The team studying the canyons used the orbiter's map data to simulate the path of the",
+      "words": [
+        {
+          "startSec": 131.2,
+          "endSec": 132.6,
+          "text": "combined."
+        },
+        {
+          "startSec": 132.6,
+          "endSec": 132.9,
+          "text": "The"
+        },
+        {
+          "startSec": 132.9,
+          "endSec": 133.4,
+          "text": "team"
+        },
+        {
+          "startSec": 133.4,
+          "endSec": 134.4,
+          "text": "studying"
+        },
+        {
+          "startSec": 134.4,
+          "endSec": 134.8,
+          "text": "the"
+        },
+        {
+          "startSec": 134.8,
+          "endSec": 135.7,
+          "text": "canyons"
+        },
+        {
+          "startSec": 135.7,
+          "endSec": 136.2,
+          "text": "used"
+        },
+        {
+          "startSec": 136.2,
+          "endSec": 136.5,
+          "text": "the"
+        },
+        {
+          "startSec": 136.5,
+          "endSec": 137.7,
+          "text": "orbiter's"
+        },
+        {
+          "startSec": 137.7,
+          "endSec": 138,
+          "text": "map"
+        },
+        {
+          "startSec": 138,
+          "endSec": 138.6,
+          "text": "data"
+        },
+        {
+          "startSec": 138.6,
+          "endSec": 138.8,
+          "text": "to"
+        },
+        {
+          "startSec": 138.8,
+          "endSec": 139.7,
+          "text": "simulate"
+        },
+        {
+          "startSec": 139.7,
+          "endSec": 139.8,
+          "text": "the"
+        },
+        {
+          "startSec": 139.8,
+          "endSec": 140.5,
+          "text": "path"
+        },
+        {
+          "startSec": 140.5,
+          "endSec": 140.6,
+          "text": "of"
+        },
+        {
+          "startSec": 140.6,
+          "endSec": 141,
+          "text": "the"
+        },
+        {
+          "startSec": 141,
+          "endSec": 141.8,
+          "text": "incoming"
+        }
+      ]
     },
     {
       "startSec": 141,
       "endSec": 150.3,
-      "text": "incoming object as well as material that was displaced by the crash. The scientists recently"
+      "text": "incoming object as well as material that was displaced by the crash. The scientists recently",
+      "words": [
+        {
+          "startSec": 141,
+          "endSec": 141.8,
+          "text": "incoming"
+        },
+        {
+          "startSec": 141.8,
+          "endSec": 142.4,
+          "text": "object"
+        },
+        {
+          "startSec": 142.4,
+          "endSec": 142.6,
+          "text": "as"
+        },
+        {
+          "startSec": 142.6,
+          "endSec": 143.1,
+          "text": "well"
+        },
+        {
+          "startSec": 143.1,
+          "endSec": 143.3,
+          "text": "as"
+        },
+        {
+          "startSec": 143.3,
+          "endSec": 144.1,
+          "text": "material"
+        },
+        {
+          "startSec": 144.1,
+          "endSec": 144.5,
+          "text": "that"
+        },
+        {
+          "startSec": 144.5,
+          "endSec": 144.8,
+          "text": "was"
+        },
+        {
+          "startSec": 144.8,
+          "endSec": 145.8,
+          "text": "displaced"
+        },
+        {
+          "startSec": 145.8,
+          "endSec": 146,
+          "text": "by"
+        },
+        {
+          "startSec": 146,
+          "endSec": 146.3,
+          "text": "the"
+        },
+        {
+          "startSec": 146.3,
+          "endSec": 147.2,
+          "text": "crash."
+        },
+        {
+          "startSec": 147.2,
+          "endSec": 147.8,
+          "text": "The"
+        },
+        {
+          "startSec": 147.8,
+          "endSec": 149.6,
+          "text": "scientists"
+        },
+        {
+          "startSec": 149.6,
+          "endSec": 150.3,
+          "text": "recently"
+        },
+        {
+          "startSec": 150.3,
+          "endSec": 151.3,
+          "text": "published"
+        }
+      ]
     },
     {
       "startSec": 150.3,
       "endSec": 159.4,
-      "text": "published a study describing their results in nature communications. The group's simulations"
+      "text": "published a study describing their results in nature communications. The group's simulations",
+      "words": [
+        {
+          "startSec": 150.3,
+          "endSec": 151.3,
+          "text": "published"
+        },
+        {
+          "startSec": 151.3,
+          "endSec": 151.4,
+          "text": "a"
+        },
+        {
+          "startSec": 151.4,
+          "endSec": 151.9,
+          "text": "study"
+        },
+        {
+          "startSec": 151.9,
+          "endSec": 153,
+          "text": "describing"
+        },
+        {
+          "startSec": 153,
+          "endSec": 153.6,
+          "text": "their"
+        },
+        {
+          "startSec": 153.6,
+          "endSec": 154.3,
+          "text": "results"
+        },
+        {
+          "startSec": 154.3,
+          "endSec": 154.5,
+          "text": "in"
+        },
+        {
+          "startSec": 154.5,
+          "endSec": 155.2,
+          "text": "nature"
+        },
+        {
+          "startSec": 155.2,
+          "endSec": 157,
+          "text": "communications."
+        },
+        {
+          "startSec": 157,
+          "endSec": 157.3,
+          "text": "The"
+        },
+        {
+          "startSec": 157.3,
+          "endSec": 158.2,
+          "text": "group's"
+        },
+        {
+          "startSec": 158.2,
+          "endSec": 159.4,
+          "text": "simulations"
+        },
+        {
+          "startSec": 159.4,
+          "endSec": 160.3,
+          "text": "suggested"
+        }
+      ]
     },
     {
       "startSec": 159.4,
       "endSec": 169,
-      "text": "suggested the space rock passed over the South Pole before hitting. It then created a huge basin"
+      "text": "suggested the space rock passed over the South Pole before hitting. It then created a huge basin",
+      "words": [
+        {
+          "startSec": 159.4,
+          "endSec": 160.3,
+          "text": "suggested"
+        },
+        {
+          "startSec": 160.3,
+          "endSec": 160.7,
+          "text": "the"
+        },
+        {
+          "startSec": 160.7,
+          "endSec": 161.3,
+          "text": "space"
+        },
+        {
+          "startSec": 161.3,
+          "endSec": 161.6,
+          "text": "rock"
+        },
+        {
+          "startSec": 161.6,
+          "endSec": 162.4,
+          "text": "passed"
+        },
+        {
+          "startSec": 162.4,
+          "endSec": 162.8,
+          "text": "over"
+        },
+        {
+          "startSec": 162.8,
+          "endSec": 163,
+          "text": "the"
+        },
+        {
+          "startSec": 163,
+          "endSec": 163.6,
+          "text": "South"
+        },
+        {
+          "startSec": 163.6,
+          "endSec": 164.1,
+          "text": "Pole"
+        },
+        {
+          "startSec": 164.1,
+          "endSec": 164.6,
+          "text": "before"
+        },
+        {
+          "startSec": 164.6,
+          "endSec": 165.7,
+          "text": "hitting."
+        },
+        {
+          "startSec": 165.7,
+          "endSec": 165.9,
+          "text": "It"
+        },
+        {
+          "startSec": 165.9,
+          "endSec": 166.4,
+          "text": "then"
+        },
+        {
+          "startSec": 166.4,
+          "endSec": 167.2,
+          "text": "created"
+        },
+        {
+          "startSec": 167.2,
+          "endSec": 167.4,
+          "text": "a"
+        },
+        {
+          "startSec": 167.4,
+          "endSec": 168,
+          "text": "huge"
+        },
+        {
+          "startSec": 168,
+          "endSec": 169,
+          "text": "basin"
+        },
+        {
+          "startSec": 169,
+          "endSec": 169.3,
+          "text": "and"
+        }
+      ]
     },
     {
       "startSec": 169,
       "endSec": 178.5,
-      "text": "and launched rocky materials at speeds up to one kilometer per second. The researchers said"
+      "text": "and launched rocky materials at speeds up to one kilometer per second. The researchers said",
+      "words": [
+        {
+          "startSec": 169,
+          "endSec": 169.3,
+          "text": "and"
+        },
+        {
+          "startSec": 169.3,
+          "endSec": 170.1,
+          "text": "launched"
+        },
+        {
+          "startSec": 170.1,
+          "endSec": 170.6,
+          "text": "rocky"
+        },
+        {
+          "startSec": 170.6,
+          "endSec": 171.7,
+          "text": "materials"
+        },
+        {
+          "startSec": 171.7,
+          "endSec": 171.8,
+          "text": "at"
+        },
+        {
+          "startSec": 171.8,
+          "endSec": 172.4,
+          "text": "speeds"
+        },
+        {
+          "startSec": 172.4,
+          "endSec": 172.6,
+          "text": "up"
+        },
+        {
+          "startSec": 172.6,
+          "endSec": 172.8,
+          "text": "to"
+        },
+        {
+          "startSec": 172.8,
+          "endSec": 173.2,
+          "text": "one"
+        },
+        {
+          "startSec": 173.2,
+          "endSec": 174.1,
+          "text": "kilometer"
+        },
+        {
+          "startSec": 174.1,
+          "endSec": 174.4,
+          "text": "per"
+        },
+        {
+          "startSec": 174.4,
+          "endSec": 175.4,
+          "text": "second."
+        },
+        {
+          "startSec": 175.4,
+          "endSec": 175.9,
+          "text": "The"
+        },
+        {
+          "startSec": 175.9,
+          "endSec": 177.8,
+          "text": "researchers"
+        },
+        {
+          "startSec": 177.8,
+          "endSec": 178.5,
+          "text": "said"
+        },
+        {
+          "startSec": 178.5,
+          "endSec": 179.3,
+          "text": "material"
+        }
+      ]
     },
     {
       "startSec": 178.5,
       "endSec": 188,
-      "text": "material was sent flying and struck the lunar surface like missiles. This resulted in the creation"
+      "text": "material was sent flying and struck the lunar surface like missiles. This resulted in the creation",
+      "words": [
+        {
+          "startSec": 178.5,
+          "endSec": 179.3,
+          "text": "material"
+        },
+        {
+          "startSec": 179.3,
+          "endSec": 179.5,
+          "text": "was"
+        },
+        {
+          "startSec": 179.5,
+          "endSec": 179.9,
+          "text": "sent"
+        },
+        {
+          "startSec": 179.9,
+          "endSec": 180.5,
+          "text": "flying"
+        },
+        {
+          "startSec": 180.5,
+          "endSec": 180.8,
+          "text": "and"
+        },
+        {
+          "startSec": 180.8,
+          "endSec": 181.4,
+          "text": "struck"
+        },
+        {
+          "startSec": 181.4,
+          "endSec": 181.7,
+          "text": "the"
+        },
+        {
+          "startSec": 181.7,
+          "endSec": 182.1,
+          "text": "lunar"
+        },
+        {
+          "startSec": 182.1,
+          "endSec": 182.8,
+          "text": "surface"
+        },
+        {
+          "startSec": 182.8,
+          "endSec": 183.2,
+          "text": "like"
+        },
+        {
+          "startSec": 183.2,
+          "endSec": 184.6,
+          "text": "missiles."
+        },
+        {
+          "startSec": 184.6,
+          "endSec": 185.1,
+          "text": "This"
+        },
+        {
+          "startSec": 185.1,
+          "endSec": 187,
+          "text": "resulted"
+        },
+        {
+          "startSec": 187,
+          "endSec": 187,
+          "text": "in"
+        },
+        {
+          "startSec": 187,
+          "endSec": 187.3,
+          "text": "the"
+        },
+        {
+          "startSec": 187.3,
+          "endSec": 188,
+          "text": "creation"
+        },
+        {
+          "startSec": 188,
+          "endSec": 188.2,
+          "text": "of"
+        }
+      ]
     },
     {
       "startSec": 188,
       "endSec": 196.4,
-      "text": "of the canyons. The team said the canyons appear comparable in size to the Grand Canyon"
+      "text": "of the canyons. The team said the canyons appear comparable in size to the Grand Canyon",
+      "words": [
+        {
+          "startSec": 188,
+          "endSec": 188.2,
+          "text": "of"
+        },
+        {
+          "startSec": 188.2,
+          "endSec": 188.6,
+          "text": "the"
+        },
+        {
+          "startSec": 188.6,
+          "endSec": 189.7,
+          "text": "canyons."
+        },
+        {
+          "startSec": 189.7,
+          "endSec": 190,
+          "text": "The"
+        },
+        {
+          "startSec": 190,
+          "endSec": 190.5,
+          "text": "team"
+        },
+        {
+          "startSec": 190.5,
+          "endSec": 190.9,
+          "text": "said"
+        },
+        {
+          "startSec": 190.9,
+          "endSec": 191.2,
+          "text": "the"
+        },
+        {
+          "startSec": 191.2,
+          "endSec": 192,
+          "text": "canyons"
+        },
+        {
+          "startSec": 192,
+          "endSec": 192.7,
+          "text": "appear"
+        },
+        {
+          "startSec": 192.7,
+          "endSec": 193.7,
+          "text": "comparable"
+        },
+        {
+          "startSec": 193.7,
+          "endSec": 194.2,
+          "text": "in"
+        },
+        {
+          "startSec": 194.2,
+          "endSec": 194.5,
+          "text": "size"
+        },
+        {
+          "startSec": 194.5,
+          "endSec": 194.7,
+          "text": "to"
+        },
+        {
+          "startSec": 194.7,
+          "endSec": 195.1,
+          "text": "the"
+        },
+        {
+          "startSec": 195.1,
+          "endSec": 195.7,
+          "text": "Grand"
+        },
+        {
+          "startSec": 195.7,
+          "endSec": 196.4,
+          "text": "Canyon"
+        }
+      ]
     },
     {
       "startSec": 196.4,
       "endSec": 205.6,
-      "text": "in the US state of Arizona. The study's lead writer was David Kring of the Lunar and Planetary"
+      "text": "in the US state of Arizona. The study's lead writer was David Kring of the Lunar and Planetary",
+      "words": [
+        {
+          "startSec": 196.5,
+          "endSec": 196.6,
+          "text": "in"
+        },
+        {
+          "startSec": 196.6,
+          "endSec": 197.1,
+          "text": "the"
+        },
+        {
+          "startSec": 197.1,
+          "endSec": 197.3,
+          "text": "US"
+        },
+        {
+          "startSec": 197.3,
+          "endSec": 197.9,
+          "text": "state"
+        },
+        {
+          "startSec": 197.9,
+          "endSec": 198.1,
+          "text": "of"
+        },
+        {
+          "startSec": 198.1,
+          "endSec": 199.4,
+          "text": "Arizona."
+        },
+        {
+          "startSec": 199.4,
+          "endSec": 199.7,
+          "text": "The"
+        },
+        {
+          "startSec": 199.7,
+          "endSec": 200.6,
+          "text": "study's"
+        },
+        {
+          "startSec": 200.6,
+          "endSec": 201,
+          "text": "lead"
+        },
+        {
+          "startSec": 201,
+          "endSec": 201.7,
+          "text": "writer"
+        },
+        {
+          "startSec": 201.7,
+          "endSec": 202.1,
+          "text": "was"
+        },
+        {
+          "startSec": 202.1,
+          "endSec": 202.7,
+          "text": "David"
+        },
+        {
+          "startSec": 202.7,
+          "endSec": 203.4,
+          "text": "Kring"
+        },
+        {
+          "startSec": 203.4,
+          "endSec": 203.6,
+          "text": "of"
+        },
+        {
+          "startSec": 203.6,
+          "endSec": 203.8,
+          "text": "the"
+        },
+        {
+          "startSec": 203.8,
+          "endSec": 204.4,
+          "text": "Lunar"
+        },
+        {
+          "startSec": 204.4,
+          "endSec": 204.9,
+          "text": "and"
+        },
+        {
+          "startSec": 204.9,
+          "endSec": 205.6,
+          "text": "Planetary"
+        },
+        {
+          "startSec": 205.6,
+          "endSec": 206.7,
+          "text": "Institute"
+        }
+      ]
     },
     {
       "startSec": 205.6,
       "endSec": 215.8,
-      "text": "Institute in Houston. He told the Associated Press that findings suggest the asteroid strike"
+      "text": "Institute in Houston. He told the Associated Press that findings suggest the asteroid strike",
+      "words": [
+        {
+          "startSec": 205.6,
+          "endSec": 206.7,
+          "text": "Institute"
+        },
+        {
+          "startSec": 206.7,
+          "endSec": 207,
+          "text": "in"
+        },
+        {
+          "startSec": 207,
+          "endSec": 208.2,
+          "text": "Houston."
+        },
+        {
+          "startSec": 208.2,
+          "endSec": 208.4,
+          "text": "He"
+        },
+        {
+          "startSec": 208.4,
+          "endSec": 208.9,
+          "text": "told"
+        },
+        {
+          "startSec": 208.9,
+          "endSec": 209.3,
+          "text": "the"
+        },
+        {
+          "startSec": 209.3,
+          "endSec": 210.5,
+          "text": "Associated"
+        },
+        {
+          "startSec": 210.5,
+          "endSec": 211.1,
+          "text": "Press"
+        },
+        {
+          "startSec": 211.1,
+          "endSec": 211.8,
+          "text": "that"
+        },
+        {
+          "startSec": 211.8,
+          "endSec": 212.6,
+          "text": "findings"
+        },
+        {
+          "startSec": 212.6,
+          "endSec": 213.5,
+          "text": "suggest"
+        },
+        {
+          "startSec": 213.5,
+          "endSec": 214.1,
+          "text": "the"
+        },
+        {
+          "startSec": 214.1,
+          "endSec": 214.9,
+          "text": "asteroid"
+        },
+        {
+          "startSec": 214.9,
+          "endSec": 215.8,
+          "text": "strike"
+        }
+      ]
     },
     {
       "startSec": 215.8,
       "endSec": 227,
-      "text": "was a very violent geologic process. Kring and his team estimated the asteroid was 25 kilometers"
+      "text": "was a very violent geologic process. Kring and his team estimated the asteroid was 25 kilometers",
+      "words": [
+        {
+          "startSec": 215.9,
+          "endSec": 216.2,
+          "text": "was"
+        },
+        {
+          "startSec": 216.2,
+          "endSec": 216.3,
+          "text": "a"
+        },
+        {
+          "startSec": 216.3,
+          "endSec": 216.9,
+          "text": "very"
+        },
+        {
+          "startSec": 216.9,
+          "endSec": 217.7,
+          "text": "violent"
+        },
+        {
+          "startSec": 217.7,
+          "endSec": 218.8,
+          "text": "geologic"
+        },
+        {
+          "startSec": 218.8,
+          "endSec": 220,
+          "text": "process."
+        },
+        {
+          "startSec": 220,
+          "endSec": 220.7,
+          "text": "Kring"
+        },
+        {
+          "startSec": 220.7,
+          "endSec": 221,
+          "text": "and"
+        },
+        {
+          "startSec": 221,
+          "endSec": 221.4,
+          "text": "his"
+        },
+        {
+          "startSec": 221.4,
+          "endSec": 222,
+          "text": "team"
+        },
+        {
+          "startSec": 222,
+          "endSec": 223.1,
+          "text": "estimated"
+        },
+        {
+          "startSec": 223.1,
+          "endSec": 223.4,
+          "text": "the"
+        },
+        {
+          "startSec": 223.4,
+          "endSec": 224.5,
+          "text": "asteroid"
+        },
+        {
+          "startSec": 224.5,
+          "endSec": 224.9,
+          "text": "was"
+        },
+        {
+          "startSec": 224.9,
+          "endSec": 225.6,
+          "text": "25"
+        },
+        {
+          "startSec": 225.6,
+          "endSec": 227,
+          "text": "kilometers"
+        },
+        {
+          "startSec": 227,
+          "endSec": 228,
+          "text": "across."
+        }
+      ]
     },
     {
       "startSec": 227,
       "endSec": 236.2,
-      "text": "across. They estimated that the energy needed to create the two canyons would have been more than"
+      "text": "across. They estimated that the energy needed to create the two canyons would have been more than",
+      "words": [
+        {
+          "startSec": 227,
+          "endSec": 228,
+          "text": "across."
+        },
+        {
+          "startSec": 228,
+          "endSec": 228.4,
+          "text": "They"
+        },
+        {
+          "startSec": 228.4,
+          "endSec": 229.5,
+          "text": "estimated"
+        },
+        {
+          "startSec": 229.5,
+          "endSec": 229.8,
+          "text": "that"
+        },
+        {
+          "startSec": 229.8,
+          "endSec": 230.2,
+          "text": "the"
+        },
+        {
+          "startSec": 230.2,
+          "endSec": 230.8,
+          "text": "energy"
+        },
+        {
+          "startSec": 230.8,
+          "endSec": 231.5,
+          "text": "needed"
+        },
+        {
+          "startSec": 231.5,
+          "endSec": 231.8,
+          "text": "to"
+        },
+        {
+          "startSec": 231.8,
+          "endSec": 232.4,
+          "text": "create"
+        },
+        {
+          "startSec": 232.4,
+          "endSec": 232.7,
+          "text": "the"
+        },
+        {
+          "startSec": 232.7,
+          "endSec": 233.1,
+          "text": "two"
+        },
+        {
+          "startSec": 233.1,
+          "endSec": 233.9,
+          "text": "canyons"
+        },
+        {
+          "startSec": 233.9,
+          "endSec": 234.8,
+          "text": "would"
+        },
+        {
+          "startSec": 234.8,
+          "endSec": 235.5,
+          "text": "have"
+        },
+        {
+          "startSec": 235.5,
+          "endSec": 235.6,
+          "text": "been"
+        },
+        {
+          "startSec": 235.6,
+          "endSec": 235.8,
+          "text": "more"
+        },
+        {
+          "startSec": 235.8,
+          "endSec": 236.2,
+          "text": "than"
+        }
+      ]
     },
     {
       "startSec": 236.2,
       "endSec": 246.8,
-      "text": "130 times greater than the power of all the world's current nuclear weapons. Kring said most of the"
+      "text": "130 times greater than the power of all the world's current nuclear weapons. Kring said most of the",
+      "words": [
+        {
+          "startSec": 236.3,
+          "endSec": 237.3,
+          "text": "130"
+        },
+        {
+          "startSec": 237.3,
+          "endSec": 237.9,
+          "text": "times"
+        },
+        {
+          "startSec": 237.9,
+          "endSec": 238.8,
+          "text": "greater"
+        },
+        {
+          "startSec": 238.8,
+          "endSec": 239.2,
+          "text": "than"
+        },
+        {
+          "startSec": 239.2,
+          "endSec": 239.6,
+          "text": "the"
+        },
+        {
+          "startSec": 239.6,
+          "endSec": 240.1,
+          "text": "power"
+        },
+        {
+          "startSec": 240.1,
+          "endSec": 240.4,
+          "text": "of"
+        },
+        {
+          "startSec": 240.4,
+          "endSec": 240.7,
+          "text": "all"
+        },
+        {
+          "startSec": 240.7,
+          "endSec": 241.1,
+          "text": "the"
+        },
+        {
+          "startSec": 241.1,
+          "endSec": 241.9,
+          "text": "world's"
+        },
+        {
+          "startSec": 241.9,
+          "endSec": 242.7,
+          "text": "current"
+        },
+        {
+          "startSec": 242.7,
+          "endSec": 243.6,
+          "text": "nuclear"
+        },
+        {
+          "startSec": 243.6,
+          "endSec": 244.7,
+          "text": "weapons."
+        },
+        {
+          "startSec": 244.7,
+          "endSec": 245.3,
+          "text": "Kring"
+        },
+        {
+          "startSec": 245.3,
+          "endSec": 245.9,
+          "text": "said"
+        },
+        {
+          "startSec": 245.9,
+          "endSec": 246.3,
+          "text": "most"
+        },
+        {
+          "startSec": 246.3,
+          "endSec": 246.6,
+          "text": "of"
+        },
+        {
+          "startSec": 246.6,
+          "endSec": 246.8,
+          "text": "the"
+        },
+        {
+          "startSec": 246.8,
+          "endSec": 247.3,
+          "text": "rock"
+        }
+      ]
     },
     {
       "startSec": 246.8,
       "endSec": 256.1,
-      "text": "rock and debris was thrown in a direction away from the South Pole. That finding is good news for"
+      "text": "rock and debris was thrown in a direction away from the South Pole. That finding is good news for",
+      "words": [
+        {
+          "startSec": 246.8,
+          "endSec": 247.3,
+          "text": "rock"
+        },
+        {
+          "startSec": 247.3,
+          "endSec": 247.7,
+          "text": "and"
+        },
+        {
+          "startSec": 247.7,
+          "endSec": 248.3,
+          "text": "debris"
+        },
+        {
+          "startSec": 248.3,
+          "endSec": 248.7,
+          "text": "was"
+        },
+        {
+          "startSec": 248.7,
+          "endSec": 249.3,
+          "text": "thrown"
+        },
+        {
+          "startSec": 249.3,
+          "endSec": 249.6,
+          "text": "in"
+        },
+        {
+          "startSec": 249.6,
+          "endSec": 249.7,
+          "text": "a"
+        },
+        {
+          "startSec": 249.7,
+          "endSec": 250.7,
+          "text": "direction"
+        },
+        {
+          "startSec": 250.7,
+          "endSec": 251.2,
+          "text": "away"
+        },
+        {
+          "startSec": 251.2,
+          "endSec": 251.6,
+          "text": "from"
+        },
+        {
+          "startSec": 251.6,
+          "endSec": 252,
+          "text": "the"
+        },
+        {
+          "startSec": 252,
+          "endSec": 252.9,
+          "text": "South"
+        },
+        {
+          "startSec": 252.9,
+          "endSec": 253.4,
+          "text": "Pole."
+        },
+        {
+          "startSec": 253.4,
+          "endSec": 253.8,
+          "text": "That"
+        },
+        {
+          "startSec": 253.8,
+          "endSec": 254.6,
+          "text": "finding"
+        },
+        {
+          "startSec": 254.6,
+          "endSec": 255.3,
+          "text": "is"
+        },
+        {
+          "startSec": 255.3,
+          "endSec": 255.4,
+          "text": "good"
+        },
+        {
+          "startSec": 255.4,
+          "endSec": 255.9,
+          "text": "news"
+        },
+        {
+          "startSec": 255.9,
+          "endSec": 256.1,
+          "text": "for"
+        },
+        {
+          "startSec": 256.1,
+          "endSec": 256.6,
+          "text": "NASA"
+        }
+      ]
     },
     {
       "startSec": 256.1,
       "endSec": 265.9,
-      "text": "NASA which plans to land astronauts in that area in the future. Kring noted it should improve the"
+      "text": "NASA which plans to land astronauts in that area in the future. Kring noted it should improve the",
+      "words": [
+        {
+          "startSec": 256.1,
+          "endSec": 256.6,
+          "text": "NASA"
+        },
+        {
+          "startSec": 256.6,
+          "endSec": 257.2,
+          "text": "which"
+        },
+        {
+          "startSec": 257.2,
+          "endSec": 257.8,
+          "text": "plans"
+        },
+        {
+          "startSec": 257.8,
+          "endSec": 258,
+          "text": "to"
+        },
+        {
+          "startSec": 258,
+          "endSec": 258.5,
+          "text": "land"
+        },
+        {
+          "startSec": 258.5,
+          "endSec": 259.7,
+          "text": "astronauts"
+        },
+        {
+          "startSec": 259.7,
+          "endSec": 259.9,
+          "text": "in"
+        },
+        {
+          "startSec": 259.9,
+          "endSec": 260.4,
+          "text": "that"
+        },
+        {
+          "startSec": 260.4,
+          "endSec": 260.9,
+          "text": "area"
+        },
+        {
+          "startSec": 260.9,
+          "endSec": 261.1,
+          "text": "in"
+        },
+        {
+          "startSec": 261.1,
+          "endSec": 261.5,
+          "text": "the"
+        },
+        {
+          "startSec": 261.5,
+          "endSec": 262.6,
+          "text": "future."
+        },
+        {
+          "startSec": 262.6,
+          "endSec": 263.2,
+          "text": "Kring"
+        },
+        {
+          "startSec": 263.2,
+          "endSec": 263.8,
+          "text": "noted"
+        },
+        {
+          "startSec": 263.8,
+          "endSec": 264,
+          "text": "it"
+        },
+        {
+          "startSec": 264,
+          "endSec": 264.7,
+          "text": "should"
+        },
+        {
+          "startSec": 264.7,
+          "endSec": 265.6,
+          "text": "improve"
+        },
+        {
+          "startSec": 265.6,
+          "endSec": 265.9,
+          "text": "the"
+        }
+      ]
     },
     {
       "startSec": 265.9,
       "endSec": 275.8,
-      "text": "exploration possibilities of future astronauts. Because debris from the Schrödinger impact was"
+      "text": "exploration possibilities of future astronauts. Because debris from the Schrödinger impact was",
+      "words": [
+        {
+          "startSec": 266,
+          "endSec": 267.1,
+          "text": "exploration"
+        },
+        {
+          "startSec": 267.1,
+          "endSec": 268.5,
+          "text": "possibilities"
+        },
+        {
+          "startSec": 268.5,
+          "endSec": 268.7,
+          "text": "of"
+        },
+        {
+          "startSec": 268.7,
+          "endSec": 269.3,
+          "text": "future"
+        },
+        {
+          "startSec": 269.3,
+          "endSec": 270.7,
+          "text": "astronauts."
+        },
+        {
+          "startSec": 270.7,
+          "endSec": 271.5,
+          "text": "Because"
+        },
+        {
+          "startSec": 271.5,
+          "endSec": 272.1,
+          "text": "debris"
+        },
+        {
+          "startSec": 272.1,
+          "endSec": 272.5,
+          "text": "from"
+        },
+        {
+          "startSec": 272.5,
+          "endSec": 272.8,
+          "text": "the"
+        },
+        {
+          "startSec": 272.8,
+          "endSec": 274.4,
+          "text": "Schrödinger"
+        },
+        {
+          "startSec": 274.4,
+          "endSec": 275.3,
+          "text": "impact"
+        },
+        {
+          "startSec": 275.3,
+          "endSec": 275.8,
+          "text": "was"
+        },
+        {
+          "startSec": 275.8,
+          "endSec": 276.9,
+          "text": "jettisoned"
+        }
+      ]
     },
     {
       "startSec": 275.8,
       "endSec": 284.8,
-      "text": "jettisoned away from the lunar South Pole, ancient rocks in the polar region will be at or close to"
+      "text": "jettisoned away from the lunar South Pole, ancient rocks in the polar region will be at or close to",
+      "words": [
+        {
+          "startSec": 275.8,
+          "endSec": 276.9,
+          "text": "jettisoned"
+        },
+        {
+          "startSec": 276.9,
+          "endSec": 277.3,
+          "text": "away"
+        },
+        {
+          "startSec": 277.3,
+          "endSec": 277.7,
+          "text": "from"
+        },
+        {
+          "startSec": 277.7,
+          "endSec": 278,
+          "text": "the"
+        },
+        {
+          "startSec": 278,
+          "endSec": 278.6,
+          "text": "lunar"
+        },
+        {
+          "startSec": 278.6,
+          "endSec": 279.1,
+          "text": "South"
+        },
+        {
+          "startSec": 279.1,
+          "endSec": 279.7,
+          "text": "Pole,"
+        },
+        {
+          "startSec": 279.7,
+          "endSec": 280.4,
+          "text": "ancient"
+        },
+        {
+          "startSec": 280.4,
+          "endSec": 281,
+          "text": "rocks"
+        },
+        {
+          "startSec": 281,
+          "endSec": 281.2,
+          "text": "in"
+        },
+        {
+          "startSec": 281.2,
+          "endSec": 281.5,
+          "text": "the"
+        },
+        {
+          "startSec": 281.5,
+          "endSec": 282,
+          "text": "polar"
+        },
+        {
+          "startSec": 282,
+          "endSec": 282.7,
+          "text": "region"
+        },
+        {
+          "startSec": 282.7,
+          "endSec": 283.1,
+          "text": "will"
+        },
+        {
+          "startSec": 283.1,
+          "endSec": 283.3,
+          "text": "be"
+        },
+        {
+          "startSec": 283.3,
+          "endSec": 283.7,
+          "text": "at"
+        },
+        {
+          "startSec": 283.7,
+          "endSec": 284.3,
+          "text": "or"
+        },
+        {
+          "startSec": 284.3,
+          "endSec": 284.6,
+          "text": "close"
+        },
+        {
+          "startSec": 284.6,
+          "endSec": 284.8,
+          "text": "to"
+        },
+        {
+          "startSec": 284.8,
+          "endSec": 285.1,
+          "text": "the"
+        }
+      ]
     },
     {
       "startSec": 284.8,
       "endSec": 293.9,
-      "text": "the surface. Kring told Reuters news agency. This should make it easier for future American"
+      "text": "the surface. Kring told Reuters news agency. This should make it easier for future American",
+      "words": [
+        {
+          "startSec": 284.8,
+          "endSec": 285.1,
+          "text": "the"
+        },
+        {
+          "startSec": 285.1,
+          "endSec": 286.2,
+          "text": "surface."
+        },
+        {
+          "startSec": 286.2,
+          "endSec": 286.8,
+          "text": "Kring"
+        },
+        {
+          "startSec": 286.8,
+          "endSec": 287.3,
+          "text": "told"
+        },
+        {
+          "startSec": 287.3,
+          "endSec": 288,
+          "text": "Reuters"
+        },
+        {
+          "startSec": 288,
+          "endSec": 288.5,
+          "text": "news"
+        },
+        {
+          "startSec": 288.5,
+          "endSec": 289.5,
+          "text": "agency."
+        },
+        {
+          "startSec": 289.5,
+          "endSec": 289.9,
+          "text": "This"
+        },
+        {
+          "startSec": 289.9,
+          "endSec": 290.9,
+          "text": "should"
+        },
+        {
+          "startSec": 290.9,
+          "endSec": 291,
+          "text": "make"
+        },
+        {
+          "startSec": 291,
+          "endSec": 291.3,
+          "text": "it"
+        },
+        {
+          "startSec": 291.3,
+          "endSec": 291.9,
+          "text": "easier"
+        },
+        {
+          "startSec": 291.9,
+          "endSec": 292.3,
+          "text": "for"
+        },
+        {
+          "startSec": 292.3,
+          "endSec": 293.3,
+          "text": "future"
+        },
+        {
+          "startSec": 293.3,
+          "endSec": 293.9,
+          "text": "American"
+        }
+      ]
     },
     {
       "startSec": 293.9,
       "endSec": 304.2,
-      "text": "astronauts to collect them. NASA's future lunar exploration plans are known as the agency's"
+      "text": "astronauts to collect them. NASA's future lunar exploration plans are known as the agency's",
+      "words": [
+        {
+          "startSec": 294,
+          "endSec": 295.2,
+          "text": "astronauts"
+        },
+        {
+          "startSec": 295.2,
+          "endSec": 295.5,
+          "text": "to"
+        },
+        {
+          "startSec": 295.5,
+          "endSec": 296.5,
+          "text": "collect"
+        },
+        {
+          "startSec": 296.5,
+          "endSec": 297.4,
+          "text": "them."
+        },
+        {
+          "startSec": 297.4,
+          "endSec": 298.1,
+          "text": "NASA's"
+        },
+        {
+          "startSec": 298.1,
+          "endSec": 298.9,
+          "text": "future"
+        },
+        {
+          "startSec": 298.9,
+          "endSec": 299.6,
+          "text": "lunar"
+        },
+        {
+          "startSec": 299.6,
+          "endSec": 301.1,
+          "text": "exploration"
+        },
+        {
+          "startSec": 301.1,
+          "endSec": 301.8,
+          "text": "plans"
+        },
+        {
+          "startSec": 301.8,
+          "endSec": 302.4,
+          "text": "are"
+        },
+        {
+          "startSec": 302.4,
+          "endSec": 302.5,
+          "text": "known"
+        },
+        {
+          "startSec": 302.5,
+          "endSec": 302.7,
+          "text": "as"
+        },
+        {
+          "startSec": 302.7,
+          "endSec": 303,
+          "text": "the"
+        },
+        {
+          "startSec": 303,
+          "endSec": 304.2,
+          "text": "agency's"
+        },
+        {
+          "startSec": 304.2,
+          "endSec": 305,
+          "text": "Artemis"
+        }
+      ]
     },
     {
       "startSec": 304.2,
       "endSec": 312.9,
-      "text": "Artemis program. The program aims to return astronauts to the moon for the first time since"
+      "text": "Artemis program. The program aims to return astronauts to the moon for the first time since",
+      "words": [
+        {
+          "startSec": 304.2,
+          "endSec": 305,
+          "text": "Artemis"
+        },
+        {
+          "startSec": 305,
+          "endSec": 306.2,
+          "text": "program."
+        },
+        {
+          "startSec": 306.2,
+          "endSec": 306.5,
+          "text": "The"
+        },
+        {
+          "startSec": 306.5,
+          "endSec": 307.3,
+          "text": "program"
+        },
+        {
+          "startSec": 307.3,
+          "endSec": 307.8,
+          "text": "aims"
+        },
+        {
+          "startSec": 307.8,
+          "endSec": 308,
+          "text": "to"
+        },
+        {
+          "startSec": 308,
+          "endSec": 308.7,
+          "text": "return"
+        },
+        {
+          "startSec": 308.7,
+          "endSec": 309.9,
+          "text": "astronauts"
+        },
+        {
+          "startSec": 309.9,
+          "endSec": 310.3,
+          "text": "to"
+        },
+        {
+          "startSec": 310.3,
+          "endSec": 310.5,
+          "text": "the"
+        },
+        {
+          "startSec": 310.5,
+          "endSec": 311,
+          "text": "moon"
+        },
+        {
+          "startSec": 311,
+          "endSec": 311.3,
+          "text": "for"
+        },
+        {
+          "startSec": 311.3,
+          "endSec": 311.6,
+          "text": "the"
+        },
+        {
+          "startSec": 311.6,
+          "endSec": 312.1,
+          "text": "first"
+        },
+        {
+          "startSec": 312.1,
+          "endSec": 312.7,
+          "text": "time"
+        },
+        {
+          "startSec": 312.7,
+          "endSec": 312.9,
+          "text": "since"
+        }
+      ]
     },
     {
       "startSec": 312.9,
       "endSec": 324.9,
-      "text": "NASA's Apollo 17 mission in 1972. The agency's current plan is to send astronauts on a trip around"
+      "text": "NASA's Apollo 17 mission in 1972. The agency's current plan is to send astronauts on a trip around",
+      "words": [
+        {
+          "startSec": 313,
+          "endSec": 313.6,
+          "text": "NASA's"
+        },
+        {
+          "startSec": 313.6,
+          "endSec": 314.4,
+          "text": "Apollo"
+        },
+        {
+          "startSec": 314.4,
+          "endSec": 315.2,
+          "text": "17"
+        },
+        {
+          "startSec": 315.2,
+          "endSec": 316.1,
+          "text": "mission"
+        },
+        {
+          "startSec": 316.1,
+          "endSec": 316.3,
+          "text": "in"
+        },
+        {
+          "startSec": 316.3,
+          "endSec": 318.3,
+          "text": "1972."
+        },
+        {
+          "startSec": 318.3,
+          "endSec": 319,
+          "text": "The"
+        },
+        {
+          "startSec": 319,
+          "endSec": 319.7,
+          "text": "agency's"
+        },
+        {
+          "startSec": 319.7,
+          "endSec": 320.6,
+          "text": "current"
+        },
+        {
+          "startSec": 320.6,
+          "endSec": 321.2,
+          "text": "plan"
+        },
+        {
+          "startSec": 321.2,
+          "endSec": 321.4,
+          "text": "is"
+        },
+        {
+          "startSec": 321.4,
+          "endSec": 321.6,
+          "text": "to"
+        },
+        {
+          "startSec": 321.6,
+          "endSec": 322.1,
+          "text": "send"
+        },
+        {
+          "startSec": 322.1,
+          "endSec": 323.4,
+          "text": "astronauts"
+        },
+        {
+          "startSec": 323.4,
+          "endSec": 323.6,
+          "text": "on"
+        },
+        {
+          "startSec": 323.6,
+          "endSec": 323.8,
+          "text": "a"
+        },
+        {
+          "startSec": 323.8,
+          "endSec": 324.4,
+          "text": "trip"
+        },
+        {
+          "startSec": 324.4,
+          "endSec": 324.9,
+          "text": "around"
+        },
+        {
+          "startSec": 324.9,
+          "endSec": 325.2,
+          "text": "the"
+        }
+      ]
     },
     {
       "startSec": 324.9,
       "endSec": 333.8,
-      "text": "the moon next year. That would be followed a year or so later by a landing attempt on the lunar"
+      "text": "the moon next year. That would be followed a year or so later by a landing attempt on the lunar",
+      "words": [
+        {
+          "startSec": 324.9,
+          "endSec": 325.2,
+          "text": "the"
+        },
+        {
+          "startSec": 325.2,
+          "endSec": 325.8,
+          "text": "moon"
+        },
+        {
+          "startSec": 325.8,
+          "endSec": 326.2,
+          "text": "next"
+        },
+        {
+          "startSec": 326.2,
+          "endSec": 327,
+          "text": "year."
+        },
+        {
+          "startSec": 327,
+          "endSec": 327.5,
+          "text": "That"
+        },
+        {
+          "startSec": 327.5,
+          "endSec": 328.1,
+          "text": "would"
+        },
+        {
+          "startSec": 328.1,
+          "endSec": 328.3,
+          "text": "be"
+        },
+        {
+          "startSec": 328.3,
+          "endSec": 329.2,
+          "text": "followed"
+        },
+        {
+          "startSec": 329.2,
+          "endSec": 329.3,
+          "text": "a"
+        },
+        {
+          "startSec": 329.3,
+          "endSec": 329.8,
+          "text": "year"
+        },
+        {
+          "startSec": 329.8,
+          "endSec": 330,
+          "text": "or"
+        },
+        {
+          "startSec": 330,
+          "endSec": 330.3,
+          "text": "so"
+        },
+        {
+          "startSec": 330.3,
+          "endSec": 331,
+          "text": "later"
+        },
+        {
+          "startSec": 331,
+          "endSec": 331.1,
+          "text": "by"
+        },
+        {
+          "startSec": 331.1,
+          "endSec": 331.2,
+          "text": "a"
+        },
+        {
+          "startSec": 331.2,
+          "endSec": 332,
+          "text": "landing"
+        },
+        {
+          "startSec": 332,
+          "endSec": 333,
+          "text": "attempt"
+        },
+        {
+          "startSec": 333,
+          "endSec": 333.2,
+          "text": "on"
+        },
+        {
+          "startSec": 333.2,
+          "endSec": 333.4,
+          "text": "the"
+        },
+        {
+          "startSec": 333.4,
+          "endSec": 333.8,
+          "text": "lunar"
+        },
+        {
+          "startSec": 333.8,
+          "endSec": 334.9,
+          "text": "surface."
+        }
+      ]
     },
     {
       "startSec": 333.8,
       "endSec": 343.6,
-      "text": "surface. The researchers said older rocks in the area can help scientists gain a better understanding"
+      "text": "surface. The researchers said older rocks in the area can help scientists gain a better understanding",
+      "words": [
+        {
+          "startSec": 333.8,
+          "endSec": 334.9,
+          "text": "surface."
+        },
+        {
+          "startSec": 334.9,
+          "endSec": 335.2,
+          "text": "The"
+        },
+        {
+          "startSec": 335.2,
+          "endSec": 336.5,
+          "text": "researchers"
+        },
+        {
+          "startSec": 336.5,
+          "endSec": 337,
+          "text": "said"
+        },
+        {
+          "startSec": 337,
+          "endSec": 337.5,
+          "text": "older"
+        },
+        {
+          "startSec": 337.5,
+          "endSec": 338.1,
+          "text": "rocks"
+        },
+        {
+          "startSec": 338.1,
+          "endSec": 338.3,
+          "text": "in"
+        },
+        {
+          "startSec": 338.3,
+          "endSec": 338.7,
+          "text": "the"
+        },
+        {
+          "startSec": 338.7,
+          "endSec": 339.1,
+          "text": "area"
+        },
+        {
+          "startSec": 339.1,
+          "endSec": 339.5,
+          "text": "can"
+        },
+        {
+          "startSec": 339.5,
+          "endSec": 339.9,
+          "text": "help"
+        },
+        {
+          "startSec": 339.9,
+          "endSec": 341.1,
+          "text": "scientists"
+        },
+        {
+          "startSec": 341.1,
+          "endSec": 341.5,
+          "text": "gain"
+        },
+        {
+          "startSec": 341.5,
+          "endSec": 341.7,
+          "text": "a"
+        },
+        {
+          "startSec": 341.7,
+          "endSec": 342.4,
+          "text": "better"
+        },
+        {
+          "startSec": 342.4,
+          "endSec": 343.6,
+          "text": "understanding"
+        },
+        {
+          "startSec": 343.6,
+          "endSec": 343.8,
+          "text": "of"
+        }
+      ]
     },
     {
       "startSec": 343.6,
       "endSec": 352.2,
-      "text": "of the moon's past history. They could also help answer questions about the formation of Earth."
+      "text": "of the moon's past history. They could also help answer questions about the formation of Earth.",
+      "words": [
+        {
+          "startSec": 343.6,
+          "endSec": 343.8,
+          "text": "of"
+        },
+        {
+          "startSec": 343.8,
+          "endSec": 344.1,
+          "text": "the"
+        },
+        {
+          "startSec": 344.1,
+          "endSec": 344.8,
+          "text": "moon's"
+        },
+        {
+          "startSec": 344.8,
+          "endSec": 345.2,
+          "text": "past"
+        },
+        {
+          "startSec": 345.2,
+          "endSec": 346.3,
+          "text": "history."
+        },
+        {
+          "startSec": 346.3,
+          "endSec": 346.7,
+          "text": "They"
+        },
+        {
+          "startSec": 346.7,
+          "endSec": 347.2,
+          "text": "could"
+        },
+        {
+          "startSec": 347.2,
+          "endSec": 347.7,
+          "text": "also"
+        },
+        {
+          "startSec": 347.7,
+          "endSec": 348.1,
+          "text": "help"
+        },
+        {
+          "startSec": 348.1,
+          "endSec": 348.8,
+          "text": "answer"
+        },
+        {
+          "startSec": 348.8,
+          "endSec": 349.8,
+          "text": "questions"
+        },
+        {
+          "startSec": 349.8,
+          "endSec": 350.3,
+          "text": "about"
+        },
+        {
+          "startSec": 350.3,
+          "endSec": 350.6,
+          "text": "the"
+        },
+        {
+          "startSec": 350.6,
+          "endSec": 351.6,
+          "text": "formation"
+        },
+        {
+          "startSec": 351.6,
+          "endSec": 352.1,
+          "text": "of"
+        },
+        {
+          "startSec": 352.1,
+          "endSec": 352.2,
+          "text": "Earth."
+        },
+        {
+          "startSec": 352.2,
+          "endSec": 352.9,
+          "text": "Kring"
+        }
+      ]
     },
     {
       "startSec": 352.2,
       "endSec": 361.9,
-      "text": "Kring noted it is currently not clear whether the two huge canyons are permanently shadowed"
+      "text": "Kring noted it is currently not clear whether the two huge canyons are permanently shadowed",
+      "words": [
+        {
+          "startSec": 352.2,
+          "endSec": 352.9,
+          "text": "Kring"
+        },
+        {
+          "startSec": 352.9,
+          "endSec": 353.5,
+          "text": "noted"
+        },
+        {
+          "startSec": 353.5,
+          "endSec": 353.7,
+          "text": "it"
+        },
+        {
+          "startSec": 353.7,
+          "endSec": 354,
+          "text": "is"
+        },
+        {
+          "startSec": 354,
+          "endSec": 355.1,
+          "text": "currently"
+        },
+        {
+          "startSec": 355.1,
+          "endSec": 355.5,
+          "text": "not"
+        },
+        {
+          "startSec": 355.5,
+          "endSec": 356.1,
+          "text": "clear"
+        },
+        {
+          "startSec": 356.1,
+          "endSec": 357.1,
+          "text": "whether"
+        },
+        {
+          "startSec": 357.1,
+          "endSec": 357.4,
+          "text": "the"
+        },
+        {
+          "startSec": 357.4,
+          "endSec": 357.8,
+          "text": "two"
+        },
+        {
+          "startSec": 357.8,
+          "endSec": 358.4,
+          "text": "huge"
+        },
+        {
+          "startSec": 358.4,
+          "endSec": 359.2,
+          "text": "canyons"
+        },
+        {
+          "startSec": 359.2,
+          "endSec": 359.6,
+          "text": "are"
+        },
+        {
+          "startSec": 359.6,
+          "endSec": 360.9,
+          "text": "permanently"
+        },
+        {
+          "startSec": 360.9,
+          "endSec": 361.9,
+          "text": "shadowed"
+        }
+      ]
     },
     {
       "startSec": 361.9,
       "endSec": 370.1,
-      "text": "like some of the craters at the moon's South Pole. \"That is something that we're clearly"
+      "text": "like some of the craters at the moon's South Pole. \"That is something that we're clearly",
+      "words": [
+        {
+          "startSec": 362,
+          "endSec": 362.3,
+          "text": "like"
+        },
+        {
+          "startSec": 362.3,
+          "endSec": 362.6,
+          "text": "some"
+        },
+        {
+          "startSec": 362.6,
+          "endSec": 362.8,
+          "text": "of"
+        },
+        {
+          "startSec": 362.8,
+          "endSec": 363.1,
+          "text": "the"
+        },
+        {
+          "startSec": 363.1,
+          "endSec": 363.7,
+          "text": "craters"
+        },
+        {
+          "startSec": 363.7,
+          "endSec": 363.8,
+          "text": "at"
+        },
+        {
+          "startSec": 363.8,
+          "endSec": 364.1,
+          "text": "the"
+        },
+        {
+          "startSec": 364.1,
+          "endSec": 364.6,
+          "text": "moon's"
+        },
+        {
+          "startSec": 364.6,
+          "endSec": 365.1,
+          "text": "South"
+        },
+        {
+          "startSec": 365.1,
+          "endSec": 365.8,
+          "text": "Pole."
+        },
+        {
+          "startSec": 365.8,
+          "endSec": 366.6,
+          "text": "\"That"
+        },
+        {
+          "startSec": 366.6,
+          "endSec": 366.9,
+          "text": "is"
+        },
+        {
+          "startSec": 366.9,
+          "endSec": 368.4,
+          "text": "something"
+        },
+        {
+          "startSec": 368.4,
+          "endSec": 368.7,
+          "text": "that"
+        },
+        {
+          "startSec": 368.7,
+          "endSec": 369.1,
+          "text": "we're"
+        },
+        {
+          "startSec": 369.1,
+          "endSec": 370.1,
+          "text": "clearly"
+        },
+        {
+          "startSec": 370.1,
+          "endSec": 370.6,
+          "text": "going"
+        }
+      ]
     },
     {
       "startSec": 370.1,
       "endSec": 376.9,
-      "text": "going to be re-examining,\" he said. \"I'm Brian Lynn.\""
+      "text": "going to be re-examining,\" he said. \"I'm Brian Lynn.\"",
+      "words": [
+        {
+          "startSec": 370.1,
+          "endSec": 370.6,
+          "text": "going"
+        },
+        {
+          "startSec": 370.6,
+          "endSec": 370.8,
+          "text": "to"
+        },
+        {
+          "startSec": 370.8,
+          "endSec": 371,
+          "text": "be"
+        },
+        {
+          "startSec": 371,
+          "endSec": 372.5,
+          "text": "re-examining,\""
+        },
+        {
+          "startSec": 372.5,
+          "endSec": 372.8,
+          "text": "he"
+        },
+        {
+          "startSec": 372.8,
+          "endSec": 373.5,
+          "text": "said."
+        },
+        {
+          "startSec": 373.5,
+          "endSec": 374.3,
+          "text": "\"I'm"
+        },
+        {
+          "startSec": 374.3,
+          "endSec": 375.3,
+          "text": "Brian"
+        },
+        {
+          "startSec": 375.3,
+          "endSec": 376.9,
+          "text": "Lynn.\""
+        }
+      ]
     }
   ],
   "cefr": "B2",
