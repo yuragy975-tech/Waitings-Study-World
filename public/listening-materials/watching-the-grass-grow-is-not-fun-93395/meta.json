@@ -2,194 +2,169 @@
   "title": "'Watching the Grass Grow' Is Not Fun",
   "source": "VOA Learning English (via 21voa.com)",
   "level": "beginner",
-  "durationSec": 200,
+  "durationSec": 199,
   "coverGradient": "from-yellow-400 via-amber-500 to-orange-500",
   "audioFile": "audio.mp3",
   "segments": [
     {
       "startSec": 0,
-      "endSec": 5.5,
-      "text": "And now Words and Their Stories from VOA Learning English."
+      "endSec": 19.5,
+      "text": "And now, words and their stories, from VOA Learning English."
     },
     {
-      "startSec": 5.5,
-      "endSec": 9.9,
+      "startSec": 19.5,
+      "endSec": 24.9,
       "text": "Springtime is a time of renewal and growth."
     },
     {
-      "startSec": 9.9,
-      "endSec": 17.1,
+      "startSec": 24.9,
+      "endSec": 33,
       "text": "Many plants end their long winter sleep and form new buds and shoots."
     },
     {
-      "startSec": 17.1,
-      "endSec": 22,
+      "startSec": 33,
+      "endSec": 38.5,
       "text": "Beautiful flowers will soon be showing their bright colors."
     },
     {
-      "startSec": 22,
-      "endSec": 27,
+      "startSec": 38.5,
+      "endSec": 43.6,
       "text": "And the grass will grow thicker and greener again."
     },
     {
-      "startSec": 27,
-      "endSec": 35.8,
-      "text": "Some flowers bloom in a very noticeable way but that is not the case with grass."
+      "startSec": 43.6,
+      "endSec": 51.7,
+      "text": "Some flowers bloom in a very noticeable way, but that is not the case with grass."
     },
     {
-      "startSec": 35.8,
-      "endSec": 40.2,
-      "text": "Imagine you are sitting in a grassy field."
+      "startSec": 51.7,
+      "endSec": 61.7,
+      "text": "Imagine you are sitting in a grassy field and you have only one job to watch the grass grow."
     },
     {
-      "startSec": 40.2,
-      "endSec": 46.3,
-      "text": "And you have only one job – to watch the grass grow."
-    },
-    {
-      "startSec": 46.3,
-      "endSec": 49.6,
+      "startSec": 61.7,
+      "endSec": 65.1,
       "text": "That does not sound very interesting."
     },
     {
-      "startSec": 49.6,
-      "endSec": 52.9,
+      "startSec": 65.1,
+      "endSec": 70,
       "text": "In fact, it sounds really boring."
     },
     {
-      "startSec": 52.9,
-      "endSec": 59.5,
-      "text": "That idea is what gives us the expression “like watching grass grow."
+      "startSec": 70,
+      "endSec": 76.5,
+      "text": "That idea is what gives us the expression, like watching grass grow."
     },
     {
-      "startSec": 59.5,
-      "endSec": 65.6,
-      "text": "” We use this expression to describe an experience that is uninteresting."
+      "startSec": 76.5,
+      "endSec": 83.3,
+      "text": "We use this expression to describe an experience that is uninteresting."
     },
     {
-      "startSec": 65.6,
-      "endSec": 70,
+      "startSec": 83.3,
+      "endSec": 89.1,
       "text": "Another good word to describe it is tedious."
     },
     {
-      "startSec": 70,
-      "endSec": 73.8,
+      "startSec": 89.1,
+      "endSec": 93.7,
       "text": "We use this expression in many situations."
     },
     {
-      "startSec": 73.8,
-      "endSec": 84.3,
-      "text": "Let's hear a few examples: After the politician won his campaign, he gave a two-hour long acceptance speech."
+      "startSec": 93.7,
+      "endSec": 97,
+      "text": "Let's hear a few examples."
     },
     {
-      "startSec": 84.3,
-      "endSec": 85.4,
-      "text": "Two hours!"
+      "startSec": 97,
+      "endSec": 105.3,
+      "text": "After the politician won his campaign, he gave a two-hour long acceptance speech."
     },
     {
-      "startSec": 85.4,
-      "endSec": 90.4,
-      "text": "It was as much fun as watching grass grow."
+      "startSec": 105.3,
+      "endSec": 111.8,
+      "text": "Two hours, it was as much fun as watching grass grow."
     },
     {
-      "startSec": 90.4,
-      "endSec": 94.8,
-      "text": "I really don't like watching long sports games."
+      "startSec": 111.8,
+      "endSec": 119.3,
+      "text": "I really don't like watching long sports games, it's like watching grass grow."
     },
     {
-      "startSec": 94.8,
-      "endSec": 97.5,
-      "text": "It's like watching grass grow."
+      "startSec": 119.3,
+      "endSec": 127.1,
+      "text": "Now grass grows on the ground all the time, and usually we don't give it much thought."
     },
     {
-      "startSec": 97.5,
-      "endSec": 102.5,
-      "text": "Now, grass grows on the ground all the time."
+      "startSec": 127.1,
+      "endSec": 133.2,
+      "text": "If you stand in one place for a long time, the grass will continue to grow under your"
     },
     {
-      "startSec": 102.5,
-      "endSec": 106.9,
-      "text": "And usually, we don't give it much thought."
+      "startSec": 133.2,
+      "endSec": 135.3,
+      "text": "feet."
     },
     {
-      "startSec": 106.9,
-      "endSec": 117.4,
-      "text": "If you stand in one place for a long time, the grass will continue to grow under your feet."
+      "startSec": 135.3,
+      "endSec": 143.6,
+      "text": "For people who are always active, always moving, always on the go, we can say they don't let"
     },
     {
-      "startSec": 117.4,
-      "endSec": 130,
-      "text": "For people who are always active, always moving, always on-the-go, we can say they don't let grass grow under their feet."
+      "startSec": 143.6,
+      "endSec": 146.7,
+      "text": "grass grow under their feet."
     },
     {
-      "startSec": 130,
-      "endSec": 133.9,
+      "startSec": 146.7,
+      "endSec": 150.9,
       "text": "We can also say beneath their feet."
     },
     {
-      "startSec": 133.9,
-      "endSec": 138.8,
+      "startSec": 150.9,
+      "endSec": 156.4,
       "text": "And sometimes we use this expression as a command."
     },
     {
-      "startSec": 138.8,
-      "endSec": 145.5,
-      "text": "Let's hear some examples: Don't let the grass grow beneath your feet."
+      "startSec": 156.4,
+      "endSec": 159.1,
+      "text": "Let's hear some examples."
     },
     {
-      "startSec": 145.5,
-      "endSec": 147.7,
+      "startSec": 159.1,
+      "endSec": 161.9,
+      "text": "Don't let the grass grow beneath your feet."
+    },
+    {
+      "startSec": 161.9,
+      "endSec": 164.4,
       "text": "Get back to work."
     },
     {
-      "startSec": 147.7,
-      "endSec": 153.2,
+      "startSec": 164.4,
+      "endSec": 168,
       "text": "She certainly doesn't let the grass grow under her feet."
     },
     {
-      "startSec": 153.2,
-      "endSec": 158.1,
+      "startSec": 168,
+      "endSec": 174.1,
       "text": "She's been traveling non-stop for over a year."
     },
     {
-      "startSec": 158.1,
-      "endSec": 165.3,
-      "text": "And that's all the time we have for this Words and Their Stories."
+      "startSec": 174.1,
+      "endSec": 178.5,
+      "text": "And that's all the time we have for this words and their stories."
     },
     {
-      "startSec": 165.3,
-      "endSec": 168.6,
-      "text": "Until next time, I'm Anna Matteo."
+      "startSec": 178.5,
+      "endSec": 188.1,
+      "text": "Until next time, I'm Anna Mateo."
     },
     {
-      "startSec": 168.6,
-      "endSec": 173.6,
-      "text": "Anna Matteo wrote this story for VOA Learning English."
-    },
-    {
-      "startSec": 173.6,
-      "endSec": 174.7,
-      "text": "bud –n."
-    },
-    {
-      "startSec": 174.7,
-      "endSec": 183.5,
-      "text": "the beginnings of a flower or a leaf on the branch of a plant shoot –n."
-    },
-    {
-      "startSec": 183.5,
-      "endSec": 193.9,
-      "text": "new plant growth, especially from seeds or close to the ground as in the case with grass bloom –v."
-    },
-    {
-      "startSec": 193.9,
-      "endSec": 197.8,
-      "text": "the opening of a flower boring –adj."
-    },
-    {
-      "startSec": 197.8,
-      "endSec": 200,
-      "text": "not interesting tedious –adj."
+      "startSec": 194.4,
+      "endSec": 199.4,
+      "text": "[MUSIC]"
     }
   ],
   "cefr": "B1",

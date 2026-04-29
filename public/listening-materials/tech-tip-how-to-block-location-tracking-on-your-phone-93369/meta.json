@@ -2,289 +2,194 @@
   "title": "Tech Tip: How to Block Location Tracking on your Phone",
   "source": "VOA Learning English (via 21voa.com)",
   "level": "intermediate",
-  "durationSec": 416,
+  "durationSec": 415,
   "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
   "audioFile": "audio.mp3",
   "segments": [
     {
       "startSec": 0,
-      "endSec": 5.8,
+      "endSec": 9,
       "text": "Smartphones have become valuable tools for helping to organize our lives."
     },
     {
-      "startSec": 5.8,
-      "endSec": 15.3,
+      "startSec": 9,
+      "endSec": 22,
       "text": "However, the devices can also capture personal data and location information that users might want to keep private."
     },
     {
-      "startSec": 15.3,
-      "endSec": 27.5,
-      "text": "Here are some tips, suggested by the Associated Press (AP), to help smartphone users limit the collection of private data on personal devices."
+      "startSec": 22,
+      "endSec": 39,
+      "text": "Here are some tips suggested by the Associated Press AP to help smartphone users limit the collection of private data on personal devices."
     },
     {
-      "startSec": 27.5,
-      "endSec": 31.1,
-      "text": "How does a smartphone track your location?"
-    },
-    {
-      "startSec": 31.1,
-      "endSec": 43.8,
+      "startSec": 39,
+      "endSec": 52,
       "text": "All a user has to do is open a phone's map tool to search for a restaurant or other business to activate data tracking."
     },
     {
-      "startSec": 43.8,
-      "endSec": 58.1,
+      "startSec": 52,
+      "endSec": 68,
       "text": "Similarly, someone choosing to look up the price of a product online can unknowingly permit the smartphone to track the user's location and share data with others."
     },
     {
-      "startSec": 58.1,
-      "endSec": 62.3,
-      "text": "Darren Guccione is the chief executive of U."
+      "startSec": 68,
+      "endSec": 79,
+      "text": "Darren Guccione is the chief executive of U.S.-based Internet Security Company Keeper Security."
     },
     {
-      "startSec": 62.3,
-      "endSec": 66,
-      "text": "S.-based internet security company Keeper Security."
+      "startSec": 79,
+      "endSec": 96,
+      "text": "He told the AP that many apps from fitness tracking to navigation can record data signals that show a user's movements, both physical and digital."
     },
     {
-      "startSec": 66,
-      "endSec": 79.2,
-      "text": "He told the AP that many apps, “from fitness tracking to navigation,” can record data signals that show a user's movements, both physical and digital."
+      "startSec": 96,
+      "endSec": 113,
+      "text": "Guccione's advice to users is to turn on location tracking only when necessary, such as during navigation, emergencies, or sharing updates with trusted contacts."
     },
     {
-      "startSec": 79.2,
-      "endSec": 91.9,
-      "text": "Guccione's advice to users is to “turn on location tracking only when necessary, such as during navigation, emergencies or sharing updates with trusted contacts..."
+      "startSec": 113,
+      "endSec": 124,
+      "text": "He adds that after this kind of necessary tracking is complete, users should immediately turn off location tracking."
     },
     {
-      "startSec": 91.9,
-      "endSec": 101.4,
-      "text": "” He adds that after this kind of necessary tracking is complete, users should immediately turn off location tracking."
+      "startSec": 124,
+      "endSec": 146,
+      "text": "One step to limit smartphone tracking is to identify and change app permission settings."
     },
     {
-      "startSec": 101.4,
-      "endSec": 110.9,
-      "text": "Identify your app permissions One step to limit smartphone tracking is to identify and change app permission settings."
+      "startSec": 146,
+      "endSec": 160,
+      "text": "To check settings for individual apps, Internet security experts say it is not a good idea to let apps always use your location in the background."
     },
     {
-      "startSec": 110.9,
-      "endSec": 118.3,
-      "text": "To do this, iPhone users can first go to the device's Privacy & Security settings."
+      "startSec": 160,
+      "endSec": 170,
+      "text": "Instead, get the app to either ask first before using your location or use it only when the app is open."
     },
     {
-      "startSec": 118.3,
-      "endSec": 124.1,
-      "text": "Then go to Location Services to check settings for individual apps."
-    },
-    {
-      "startSec": 124.1,
-      "endSec": 134.6,
-      "text": "Internet security experts say it is not a good idea to let apps always use your location in the background."
-    },
-    {
-      "startSec": 134.6,
-      "endSec": 145.7,
-      "text": "Instead, get the app to either ask first before using your location, or use it only when the app is open."
-    },
-    {
-      "startSec": 145.7,
-      "endSec": 153.1,
+      "startSec": 170,
+      "endSec": 178,
       "text": "A user can also choose the setting that never lets an app track location."
     },
     {
-      "startSec": 153.1,
-      "endSec": 160.5,
+      "startSec": 178,
+      "endSec": 187,
       "text": "The process works a little differently for Android phones because manufacturers have different versions."
     },
     {
-      "startSec": 160.5,
-      "endSec": 164.7,
-      "text": "In general, Android users should go to settings."
-    },
-    {
-      "startSec": 164.7,
-      "endSec": 172.1,
-      "text": "Then go to Location to turn the setting on or off for all apps."
-    },
-    {
-      "startSec": 172.1,
-      "endSec": 182.7,
-      "text": "To avoid being tracked by advertising systems, privacy experts suggest that users block advertising identifiers on Android or Apple devices."
-    },
-    {
-      "startSec": 182.7,
-      "endSec": 188.5,
-      "text": "This can stop third parties from tracking ads to target users."
-    },
-    {
-      "startSec": 188.5,
-      "endSec": 196.4,
-      "text": "To do this, iPhone users can go to the Privacy setting, then find Apple Advertising."
-    },
-    {
-      "startSec": 196.4,
+      "startSec": 187,
       "endSec": 199,
-      "text": "Then turn off Personalized Ads."
+      "text": "In general, Android users should go to settings, then go to location to turn the setting on or off for all apps."
     },
     {
       "startSec": 199,
-      "endSec": 209.1,
-      "text": "On newer Android phones, users should go to the Privacy setting, then to Ads, and choose Delete Advertising ID."
+      "endSec": 214,
+      "text": "To avoid being tracked by advertising systems, privacy experts suggest that users block advertising identifiers on Android or Apple devices."
     },
     {
-      "startSec": 209.1,
-      "endSec": 227,
-      "text": "Check your Google account Along with app permissions for your device, security experts say it is a good idea to look closely at your Google account to make sure it is not tracking you."
+      "startSec": 214,
+      "endSec": 221,
+      "text": "This can stop third parties from tracking ads to target users."
     },
     {
-      "startSec": 227,
-      "endSec": 230.7,
-      "text": "To find this out, go to myaccount."
+      "startSec": 221,
+      "endSec": 234,
+      "text": "To do this, iPhone users can go to the privacy setting, then find Apple advertising, then turn off personalized ads."
     },
     {
-      "startSec": 230.7,
-      "endSec": 231.2,
-      "text": "google."
+      "startSec": 234,
+      "endSec": 245,
+      "text": "On newer Android phones, users should go to the privacy setting, then to ads, and choose delete advertising ID."
     },
     {
-      "startSec": 231.2,
-      "endSec": 233.9,
-      "text": "com and find Data & Privacy."
+      "startSec": 245,
+      "endSec": 260,
+      "text": "Along with app permissions for your device, security experts say it is a good idea to look closely at your Google account to make sure it is not tracking you."
     },
     {
-      "startSec": 233.9,
-      "endSec": 237.6,
-      "text": "Users can find Location History controls there."
+      "startSec": 260,
+      "endSec": 268,
+      "text": "To find this out, go to myaccount.google.com and find data and privacy."
     },
     {
-      "startSec": 237.6,
-      "endSec": 247.6,
-      "text": "Under recent changes, the history will be removed after three months although users can change that setting as well."
+      "startSec": 268,
+      "endSec": 274,
+      "text": "Users can find location history controls there."
     },
     {
-      "startSec": 247.6,
-      "endSec": 258.2,
-      "text": "How to use web browsers Popular web browsers for smartphones – like Safari or Chrome – could also give away location information."
+      "startSec": 274,
+      "endSec": 285,
+      "text": "Under recent changes, the history will be removed after three months, although users can change that setting as well."
     },
     {
-      "startSec": 258.2,
-      "endSec": 262.9,
+      "startSec": 285,
+      "endSec": 296,
+      "text": "Popular web browsers for smartphones like Safari or Chrome could also give away location information."
+    },
+    {
+      "startSec": 296,
+      "endSec": 300,
       "text": "Try using one that does not store your data."
     },
     {
-      "startSec": 262.9,
-      "endSec": 267.1,
-      "text": "Such browsers include DuckDuckGo, Firefox Focus or Ecosia."
+      "startSec": 300,
+      "endSec": 321,
+      "text": "Such browsers include .gov, Firefox, Focus, or Ecosia. If a privacy protected browser needs to identify your location through an IP address, it will ask first before doing so."
     },
     {
-      "startSec": 267.1,
-      "endSec": 278.2,
-      "text": "If a privacy-protected browser needs to identify your location through an IP address, it will ask first before doing so."
+      "startSec": 321,
+      "endSec": 332,
+      "text": "These kinds of browsers will also let users easily remove Internet cookies and other web browsing data."
     },
     {
-      "startSec": 278.2,
-      "endSec": 287.2,
-      "text": "These kinds of browsers will also let users easily remove internet cookies and other web browsing data."
+      "startSec": 332,
+      "endSec": 346,
+      "text": "Phones or tablets can also be tracked with Apple's \"Find My\" or Google's \"Find My Device\" services designed to recover lost devices."
     },
     {
-      "startSec": 287.2,
-      "endSec": 298.8,
-      "text": "Phones or tablets can also be tracked with Apple's Find My or Google's Find My Device services designed to recover lost devices."
-    },
-    {
-      "startSec": 298.8,
-      "endSec": 313.1,
+      "startSec": 346,
+      "endSec": 359,
       "text": "Users can turn this tool off if they think someone was able to take control of their Apple or Google account and is using it for tracking."
     },
     {
-      "startSec": 313.1,
-      "endSec": 319.9,
-      "text": "Some cybersecurity websites advise using a smartphone's Airplane Mode to block tracking operations."
+      "startSec": 359,
+      "endSec": 369,
+      "text": "Some cybersecurity websites advise using a smartphone's airplane mode to block tracking operations."
     },
     {
-      "startSec": 319.9,
-      "endSec": 326.8,
+      "startSec": 369,
+      "endSec": 376,
       "text": "But some experts say this does not always turn off all tracking signals."
     },
     {
-      "startSec": 326.8,
-      "endSec": 333.1,
+      "startSec": 376,
+      "endSec": 383,
       "text": "Users should not depend on this setting alone to block data collection."
     },
     {
-      "startSec": 333.1,
-      "endSec": 340,
-      "text": "A better tool in many situations would be a signal-blocking Faraday bag."
+      "startSec": 383,
+      "endSec": 391,
+      "text": "A better tool in many situations would be a signal blocking Faraday bag."
     },
     {
-      "startSec": 340,
-      "endSec": 344.2,
+      "startSec": 391,
+      "endSec": 396,
       "text": "These block all wireless signals to the smartphone."
     },
     {
-      "startSec": 344.2,
-      "endSec": 351.1,
+      "startSec": 396,
+      "endSec": 403,
       "text": "Experts suggest testing the bag to make sure data is actually being blocked."
     },
     {
-      "startSec": 351.1,
-      "endSec": 358.5,
+      "startSec": 403,
+      "endSec": 412,
       "text": "While such bags can be helpful, devices kept inside the containers cannot be used."
     },
     {
-      "startSec": 358.5,
-      "endSec": 361.6,
-      "text": "The Associated Press reported this story."
-    },
-    {
-      "startSec": 361.6,
-      "endSec": 366.4,
-      "text": "Bryan Lynn adapted the report for VOA Learning English."
-    },
-    {
-      "startSec": 366.4,
-      "endSec": 367.4,
-      "text": "location – n."
-    },
-    {
-      "startSec": 367.4,
-      "endSec": 372.7,
-      "text": "a place where someone goes or something happens track – v."
-    },
-    {
-      "startSec": 372.7,
-      "endSec": 376.9,
-      "text": "to follow the movements of something navigation – n."
-    },
-    {
-      "startSec": 376.9,
-      "endSec": 386.4,
-      "text": "a method to find the right direction to travel in by using maps or other equipment digital – adj."
-    },
-    {
-      "startSec": 386.4,
-      "endSec": 397.5,
-      "text": "any kind of information that is changed from electrical or physical to a form that is used by computers cookie – n."
-    },
-    {
-      "startSec": 397.5,
-      "endSec": 406,
-      "text": "small data files that are stored on an internet user's computer as they browse different websites."
-    },
-    {
-      "startSec": 406,
-      "endSec": 407,
-      "text": "tablet – n."
-    },
-    {
-      "startSec": 407,
-      "endSec": 412.3,
-      "text": "a small computer that uses a touch screen bag – n."
-    },
-    {
-      "startSec": 412.3,
-      "endSec": 416,
-      "text": "a container made of paper, plastic, etc."
+      "startSec": 412,
+      "endSec": 415.2,
+      "text": "I'm Brian Lynn."
     }
   ],
   "cefr": "B2",

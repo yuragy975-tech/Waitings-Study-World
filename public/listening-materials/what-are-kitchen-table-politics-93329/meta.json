@@ -8,218 +8,213 @@
   "segments": [
     {
       "startSec": 0,
-      "endSec": 5.2,
-      "text": "And now, Words and Their Stories, from VOA Learning English."
+      "endSec": 19.4,
+      "text": "And now, words and their stories from VOA Learning English."
     },
     {
-      "startSec": 5.2,
-      "endSec": 11.4,
-      "text": "On this program we explore words and expressions in the English language."
+      "startSec": 19.4,
+      "endSec": 24.9,
+      "text": "On this program, we explore words and expressions in the English language."
     },
     {
-      "startSec": 11.4,
-      "endSec": 15,
+      "startSec": 24.9,
+      "endSec": 29.6,
       "text": "We give examples and notes on usage."
     },
     {
-      "startSec": 15,
-      "endSec": 19.1,
-      "text": "Today we talk about different kinds of politics."
+      "startSec": 29.6,
+      "endSec": 34.4,
+      "text": "Today, we talk about different kinds of politics."
     },
     {
-      "startSec": 19.1,
-      "endSec": 22.2,
-      "text": "We start with kitchen-table politics."
+      "startSec": 34.4,
+      "endSec": 38.5,
+      "text": "We start with kitchen table politics."
     },
     {
-      "startSec": 22.2,
-      "endSec": 28.4,
-      "text": "The kitchen is often considered the hub, or center, of the home."
+      "startSec": 38.5,
+      "endSec": 44.5,
+      "text": "The kitchen is often considered the hub or center of the home."
     },
     {
-      "startSec": 28.4,
-      "endSec": 38.7,
-      "text": "It is where we gather to not only share a meal but to talk about the events of the day."
+      "startSec": 44.5,
+      "endSec": 52.1,
+      "text": "It is where we gather to not only share a meal, but to talk about the events of the day."
     },
     {
-      "startSec": 38.7,
-      "endSec": 47,
+      "startSec": 52.1,
+      "endSec": 60.6,
       "text": "We often discuss issues of importance with our family and friends around the dining room table."
     },
     {
-      "startSec": 47,
-      "endSec": 53.7,
-      "text": "So, kitchen-table issues are those that affect individuals and their families daily."
+      "startSec": 60.6,
+      "endSec": 68.6,
+      "text": "So kitchen table issues are those that affect individuals and their families daily."
     },
     {
-      "startSec": 53.7,
-      "endSec": 59.9,
-      "text": "A family might discuss these issues at the kitchen table during mealtimes."
-    },
-    {
-      "startSec": 59.9,
-      "endSec": 66.6,
-      "text": "Rising gas and food prices are two good examples of kitchen-table politics."
-    },
-    {
-      "startSec": 66.6,
-      "endSec": 71.3,
-      "text": "These issues affect decisions we make day to day."
-    },
-    {
-      "startSec": 71.3,
+      "startSec": 68.6,
       "endSec": 75.4,
-      "text": "They are sometimes also called dinner-table politics."
+      "text": "A family might discuss these issues at the kitchen table during meal times."
     },
     {
       "startSec": 75.4,
-      "endSec": 80.5,
-      "text": "Or we could describe them as bread-and-butter issues."
+      "endSec": 83.2,
+      "text": "Rising gas and food prices are two good examples of kitchen table politics."
     },
     {
-      "startSec": 80.5,
-      "endSec": 89.8,
-      "text": "Merriam Webster dictionary defines bread-and-butter issues as “being as basic as the earning of one's livelihood."
+      "startSec": 83.2,
+      "endSec": 87.8,
+      "text": "These issues affect decisions we make day to day."
     },
     {
-      "startSec": 89.8,
-      "endSec": 102.2,
-      "text": "” The online Cambridge Dictionary defines a bread-and-butter issue as “a subject or problem that relates directly to most people's needs and interests."
+      "startSec": 87.8,
+      "endSec": 92.7,
+      "text": "They are sometimes also called dinner table politics."
     },
     {
-      "startSec": 102.2,
-      "endSec": 114.1,
-      "text": "” For example, affordable food prices and availability of good healthcare are the kinds of bread-and-butter political issues that people vote on."
+      "startSec": 92.7,
+      "endSec": 97.9,
+      "text": "Or we could describe them as bread and butter issues."
     },
     {
-      "startSec": 114.1,
-      "endSec": 120.3,
+      "startSec": 97.9,
+      "endSec": 104.7,
+      "text": "Miriam Webster Dictionary defines bread and butter issues as being as basic as the earning"
+    },
+    {
+      "startSec": 104.7,
+      "endSec": 107.8,
+      "text": "of one's livelihood."
+    },
+    {
+      "startSec": 107.8,
+      "endSec": 115.4,
+      "text": "The online Cambridge Dictionary defines a bread and butter issue as a subject or problem"
+    },
+    {
+      "startSec": 115.4,
+      "endSec": 121.6,
+      "text": "that relates directly to most people's needs and interests."
+    },
+    {
+      "startSec": 121.6,
+      "endSec": 129.9,
+      "text": "For example, affordable food prices and availability of good health care are the kinds of bread"
+    },
+    {
+      "startSec": 129.9,
+      "endSec": 135.1,
+      "text": "and butter political issues that people vote on."
+    },
+    {
+      "startSec": 135.1,
+      "endSec": 140,
       "text": "The noun bread and butter means a way of making a living."
     },
     {
-      "startSec": 120.3,
-      "endSec": 127,
+      "startSec": 140,
+      "endSec": 147,
       "text": "For example, for a creative writer, her ideas are her bread and butter."
     },
     {
-      "startSec": 127,
-      "endSec": 137.3,
-      "text": "So, bread-and-butter political issues deal with our ability to provide for the needs of ourselves and our families."
+      "startSec": 147,
+      "endSec": 153.1,
+      "text": "So bread and butter political issues deal with our ability to provide for the needs of"
     },
     {
-      "startSec": 137.3,
-      "endSec": 140.4,
+      "startSec": 153.1,
+      "endSec": 156.9,
+      "text": "ourselves and our families."
+    },
+    {
+      "startSec": 156.9,
+      "endSec": 162.1,
       "text": "Next, let's talk about green politics."
     },
     {
-      "startSec": 140.4,
-      "endSec": 145.6,
+      "startSec": 162.1,
+      "endSec": 167.6,
       "text": "These political issues deal with caring for the natural environment."
     },
     {
-      "startSec": 145.6,
-      "endSec": 152.8,
-      "text": "Green politics can cover ideas such as environmental sustainability, recycling, and threats to wildlife."
+      "startSec": 167.6,
+      "endSec": 178.3,
+      "text": "Green politics can cover ideas such as environmental sustainability, recycling and threats to wildlife."
     },
     {
-      "startSec": 152.8,
-      "endSec": 157,
+      "startSec": 178.3,
+      "endSec": 184.1,
       "text": "The natural world is central to green politics."
     },
     {
-      "startSec": 157,
-      "endSec": 159.5,
-      "text": "Identity politics is more personal."
+      "startSec": 184.1,
+      "endSec": 187.7,
+      "text": "Electricity politics is more personal."
     },
     {
-      "startSec": 159.5,
-      "endSec": 168.3,
-      "text": "This term means that a person's political views are formed by their experiences and understanding of themselves."
+      "startSec": 187.7,
+      "endSec": 194.1,
+      "text": "This term means that a person's political views are formed by their experiences and"
     },
     {
-      "startSec": 168.3,
-      "endSec": 176.1,
-      "text": "Things like gender, age, social and economic position, and religious belief can inform identity politics."
+      "startSec": 194.1,
+      "endSec": 197.3,
+      "text": "understanding of themselves."
     },
     {
-      "startSec": 176.1,
-      "endSec": 179.2,
-      "text": "Finally, we come to gotcha politics."
+      "startSec": 197.3,
+      "endSec": 206.5,
+      "text": "Things like gender, age, social and economic position and religious belief can inform identity"
     },
     {
-      "startSec": 179.2,
-      "endSec": 187.4,
-      "text": "This type of politics is centered on damaging opponents through public accusations of wrongdoing or misbehavior."
+      "startSec": 206.5,
+      "endSec": 208.4,
+      "text": "politics."
     },
     {
-      "startSec": 187.4,
-      "endSec": 197.2,
-      "text": "Gotcha politics often involves investigation into the private lives, past and present, of politicians in search of negative information."
+      "startSec": 208.4,
+      "endSec": 213.9,
+      "text": "Finally, we come to Gacha politics."
     },
     {
-      "startSec": 197.2,
-      "endSec": 204.5,
-      "text": "In gotcha politics, “Gotcha” is short for “I got you,” meaning, “I caught you!"
-    },
-    {
-      "startSec": 204.5,
-      "endSec": 209.6,
-      "text": "” And that's the end of this Words and Their Stories."
-    },
-    {
-      "startSec": 209.6,
-      "endSec": 212.7,
-      "text": "Until next time, I'm Anna Matteo."
-    },
-    {
-      "startSec": 212.7,
-      "endSec": 217.4,
-      "text": "Anna Matteo wrote this story for VOA Learning English."
-    },
-    {
-      "startSec": 217.4,
-      "endSec": 218.4,
-      "text": "dine -v."
-    },
-    {
-      "startSec": 218.4,
+      "startSec": 213.9,
       "endSec": 221,
-      "text": "to eat dinner dinner -n."
+      "text": "This type of politics is centered on damaging opponents through public accusations of wrongdoing"
     },
     {
       "startSec": 221,
-      "endSec": 225.1,
-      "text": "the main meal of the day basic -adj."
+      "endSec": 223.6,
+      "text": "or misbehavior."
     },
     {
-      "startSec": 225.1,
-      "endSec": 230.8,
-      "text": "of, relating to, or forming the base or essence livelihood -n."
+      "startSec": 223.6,
+      "endSec": 230.6,
+      "text": "Gacha politics often involves investigation into the private lives, past and present,"
     },
     {
-      "startSec": 230.8,
-      "endSec": 233.4,
-      "text": "means of support affordable -adj."
+      "startSec": 230.6,
+      "endSec": 236,
+      "text": "of politicians, in search of negative information."
     },
     {
-      "startSec": 233.4,
-      "endSec": 238.5,
-      "text": "having a cost that is not too high sustainability -n."
+      "startSec": 236,
+      "endSec": 244.1,
+      "text": "In Gacha politics, Gacha is short for \"I got you\", meaning \"I caught you\"."
     },
     {
-      "startSec": 238.5,
-      "endSec": 251.4,
-      "text": "of, relating to, or being a method of harvesting or using a resource so that the resource is not depleted or permanently damaged recycling -n."
+      "startSec": 244.1,
+      "endSec": 247.3,
+      "text": "And that's the end of this words in their stories."
     },
     {
-      "startSec": 251.4,
-      "endSec": 262.3,
-      "text": "to process (something, such as liquid body waste, glass, or cans) in order to regain material for human use gender -n."
+      "startSec": 247.3,
+      "endSec": 255.1,
+      "text": "Until next time, I'm Anna Mateo."
     },
     {
-      "startSec": 262.3,
-      "endSec": 269,
-      "text": "the behavioral, cultural, or psychological traits typically associated with one sex negative -adj."
+      "startSec": 266,
+      "endSec": 268.6,
+      "text": "(gentle music)"
     }
   ],
   "cefr": "B2",

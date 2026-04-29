@@ -8,208 +8,163 @@
   "segments": [
     {
       "startSec": 0,
-      "endSec": 9.2,
+      "endSec": 12,
       "text": "European manufacturer Airbus has announced a delay in its development efforts of a hydrogen-powered aircraft."
     },
     {
-      "startSec": 9.2,
-      "endSec": 18.3,
+      "startSec": 12,
+      "endSec": 23,
       "text": "The company explained that progress on the project has been slower and more complex than expected."
     },
     {
-      "startSec": 18.3,
-      "endSec": 25.2,
+      "startSec": 23,
+      "endSec": 31,
       "text": "Airbus had set a goal to make a zero-emission airplane by 2035."
     },
     {
-      "startSec": 25.2,
-      "endSec": 32.7,
+      "startSec": 31,
+      "endSec": 39,
       "text": "The company has not announced a new target date for the plane's production."
     },
     {
-      "startSec": 32.7,
-      "endSec": 48.7,
-      "text": "But the French union Force Ouvrière said some of its aircraft workers were recently told the technology was running five to 10 years behind, Reuters news agency reported."
+      "startSec": 39,
+      "endSec": 53,
+      "text": "But the French Union Force Uvier said some of its aircraft workers were recently told the technology was running five to ten years behind."
     },
     {
-      "startSec": 48.7,
-      "endSec": 63.1,
-      "text": "The French news agency AFP reported Airbus also said it had reduced the program's budget by 25 percent, but was still examining ways to reduce emissions."
+      "startSec": 53,
+      "endSec": 57,
+      "text": "Reuters news agency reported."
     },
     {
-      "startSec": 63.1,
-      "endSec": 66.5,
-      "text": "\"Our ambition and roadmap towards decarbonizing."
+      "startSec": 57,
+      "endSec": 68,
+      "text": "The French news agency AFP reported Airbus also said it had reduced the program's budget by 25%."
     },
     {
-      "startSec": 66.5,
-      "endSec": 70.5,
-      "text": "remain unchanged,\" an Airbus spokesman told AFP."
+      "startSec": 68,
+      "endSec": 74,
+      "text": "But was still examining ways to reduce emissions."
     },
     {
-      "startSec": 70.5,
-      "endSec": 80.8,
-      "text": "In September 2020, Airbus presented three hydrogen-fueled airplane designs, called ZEROe, as part of its efforts to decarbonize."
+      "startSec": 74,
+      "endSec": 86,
+      "text": "Our ambition and roadmap towards decarbonizing remain unchanged and Airbus spokesman told AFP."
     },
     {
-      "startSec": 80.8,
-      "endSec": 91.7,
+      "startSec": 86,
+      "endSec": 100,
+      "text": "In September 2020, Airbus presented three hydrogen-fueled airplane designs called \"Zero-E\" as part of its efforts to decarbonize."
+    },
+    {
+      "startSec": 100,
+      "endSec": 114,
       "text": "Other airplane manufacturers, however, have centered more on renewable fuels or developing electric-powered planes for short-distance flights."
     },
     {
-      "startSec": 91.7,
-      "endSec": 99.7,
+      "startSec": 114,
+      "endSec": 124,
       "text": "Airbus noted it has no plans to completely stop developing hydrogen-powered aircraft technology."
     },
     {
-      "startSec": 99.7,
-      "endSec": 107.2,
-      "text": "The company said it sees hydrogen as “a revolutionary energy source for aviation."
+      "startSec": 124,
+      "endSec": 133,
+      "text": "The company said it sees hydrogen as a revolutionary energy source for aviation."
     },
     {
-      "startSec": 107.2,
-      "endSec": 123.3,
-      "text": "\" However, Airbus said in a statement to Reuters it recognizes that developing systems to produce, transport, and store hydrogen represent “a huge challenge requiring global collaboration and investment."
+      "startSec": 133,
+      "endSec": 155,
+      "text": "However, Airbus said in a statement to Reuters it recognizes that developing systems to produce, transport, and store hydrogen represent a huge challenge, requiring global collaboration and investment."
     },
     {
-      "startSec": 123.3,
-      "endSec": 131.8,
-      "text": "\" Difficulties with hydrogen Hydrogen motors do not release gases that can warm the earth's atmosphere."
+      "startSec": 155,
+      "endSec": 163,
+      "text": "Hydrogen motors do not release gases that can warm the Earth's atmosphere."
     },
     {
-      "startSec": 131.8,
-      "endSec": 134.1,
+      "startSec": 163,
+      "endSec": 167,
       "text": "Instead, they release water."
     },
     {
-      "startSec": 134.1,
-      "endSec": 142.7,
+      "startSec": 167,
+      "endSec": 176,
       "text": "However, much of the hydrogen used for fuel is produced using natural gas or coal."
     },
     {
-      "startSec": 142.7,
-      "endSec": 151.3,
+      "startSec": 176,
+      "endSec": 185,
       "text": "Both of these production methods often release carbon dioxide gas, which can warm the atmosphere."
     },
     {
-      "startSec": 151.3,
-      "endSec": 158.8,
+      "startSec": 185,
+      "endSec": 194,
       "text": "Running renewable electricity through water can produce hydrogen without adding to carbon emissions."
     },
     {
-      "startSec": 158.8,
-      "endSec": 162.8,
+      "startSec": 194,
+      "endSec": 199,
       "text": "However, this process is generally more costly."
     },
     {
-      "startSec": 162.8,
-      "endSec": 166.8,
+      "startSec": 199,
+      "endSec": 205,
       "text": "Transporting and storing hydrogen also present problems."
     },
     {
-      "startSec": 166.8,
-      "endSec": 174.3,
+      "startSec": 205,
+      "endSec": 213,
       "text": "As a gas at room temperature, hydrogen takes up a very large space."
     },
     {
-      "startSec": 174.3,
-      "endSec": 178.9,
+      "startSec": 213,
+      "endSec": 218,
       "text": "This makes it impossible to use as fuel."
     },
     {
-      "startSec": 178.9,
-      "endSec": 186.9,
-      "text": "It first needs to be turned into a liquid to be transported or stored."
+      "startSec": 218,
+      "endSec": 234,
+      "text": "It first needs to be turned into a liquid to be transported or stored, and it needs to be cooled to -253 degrees Celsius to be liquefied."
     },
     {
-      "startSec": 186.9,
-      "endSec": 193.2,
-      "text": "And it needs to be cooled to -253° Celsius to be liquefied."
-    },
-    {
-      "startSec": 193.2,
-      "endSec": 198.3,
+      "startSec": 234,
+      "endSec": 240,
       "text": "This cooling process requires its own source of energy."
     },
     {
-      "startSec": 198.3,
-      "endSec": 205.2,
-      "text": "Liquified hydrogen still takes up four times the space of jet fuel."
+      "startSec": 240,
+      "endSec": 247,
+      "text": "Liquefied hydrogen still takes up four times the space of jet fuel."
     },
     {
-      "startSec": 205.2,
-      "endSec": 217.8,
-      "text": "The airline industry trade association IATA believes aviation will reach most of its reduction in emissions by using sustainable aviation fuel (SAF)."
+      "startSec": 247,
+      "endSec": 264,
+      "text": "The Airline Industry Trade Association, IATA, believes aviation will reach most of its reduction in emissions by using sustainable aviation fuel or SAF."
     },
     {
-      "startSec": 217.8,
-      "endSec": 224.1,
+      "startSec": 264,
+      "endSec": 272,
       "text": "It believes other technologies, like hydrogen, will take longer to develop."
     },
     {
-      "startSec": 224.1,
-      "endSec": 233.9,
-      "text": "SAF uses food and plant waste from cities, agricultural and forest wastes, and other non-petroleum sources."
+      "startSec": 272,
+      "endSec": 284,
+      "text": "SAF uses food and plant waste from cities, agricultural and forest wastes, and other non-petrolium sources."
     },
     {
-      "startSec": 233.9,
-      "endSec": 243.1,
-      "text": "This fuel is then added to jet fuel in mixtures of 10 to 50 percent to become SAF."
+      "startSec": 284,
+      "endSec": 294,
+      "text": "This fuel is then added to jet fuel in mixtures of 10 to 50% to become SAF."
     },
     {
-      "startSec": 243.1,
-      "endSec": 255.7,
+      "startSec": 294,
+      "endSec": 310,
       "text": "Airbus says it agrees that SAF can also play an important part in reducing emissions, particularly for medium and long-distance flights."
     },
     {
-      "startSec": 255.7,
-      "endSec": 266,
-      "text": "Andrew Smith adapted this story for VOA Learning English based on reporting from Agence France-Presse and Reuters."
-    },
-    {
-      "startSec": 266,
-      "endSec": 267.1,
-      "text": "emission -n."
-    },
-    {
-      "startSec": 267.1,
-      "endSec": 270.6,
-      "text": "a release of gas ambition -n."
-    },
-    {
-      "startSec": 270.6,
-      "endSec": 275.7,
-      "text": "a strong desire to achieve a goal roadmap -n."
-    },
-    {
-      "startSec": 275.7,
-      "endSec": 281.5,
-      "text": "a plan of action to achieve a goal renewable -adj."
-    },
-    {
-      "startSec": 281.5,
-      "endSec": 289.5,
-      "text": "describing resources such as wind, water, and sunlight which are always available challenge -n."
-    },
-    {
-      "startSec": 289.5,
-      "endSec": 296.4,
-      "text": "a difficult thing to do or difficult goal to reach collaboration -n."
-    },
-    {
-      "startSec": 296.4,
-      "endSec": 300.4,
-      "text": "working well with other people sustainable -adj."
-    },
-    {
-      "startSec": 300.4,
-      "endSec": 307.3,
-      "text": "describing resources that can be used again without increasing pollution petroleum -n."
-    },
-    {
-      "startSec": 307.3,
+      "startSec": 310,
       "endSec": 313,
-      "text": "oil found under the surface of the earth or sea."
+      "text": "I'm Andrew Smith."
     }
   ],
   "cefr": "B2",

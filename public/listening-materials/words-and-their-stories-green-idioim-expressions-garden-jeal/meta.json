@@ -2,194 +2,344 @@
   "title": "Green Means Spring and Other Things",
   "source": "VOA Learning English (via 21voa.com)",
   "level": "intermediate",
-  "durationSec": 314,
+  "durationSec": 297,
   "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
   "audioFile": "audio.mp3",
   "segments": [
     {
       "startSec": 0,
-      "endSec": 6.2,
-      "text": "Now, the VOA Learning English program Words and Their Stories."
+      "endSec": 2.6,
+      "text": "(upbeat music)"
     },
     {
-      "startSec": 6.2,
-      "endSec": 13,
-      "text": "Today we talk about a color found all throughout nature – green!"
+      "startSec": 2.6,
+      "endSec": 12.2,
+      "text": "Now, the VOA Learning English Program,"
     },
     {
-      "startSec": 13,
-      "endSec": 18,
+      "startSec": 12.2,
+      "endSec": 14.2,
+      "text": "Words and Their Stories."
+    },
+    {
+      "startSec": 14.2,
+      "endSec": 16.5,
+      "text": "(whistling)"
+    },
+    {
+      "startSec": 16.5,
+      "endSec": 22.5,
+      "text": "Today, we talk about a color found all throughout nature."
+    },
+    {
+      "startSec": 22.5,
+      "endSec": 23.4,
+      "text": "Green."
+    },
+    {
+      "startSec": 23.4,
+      "endSec": 28.1,
       "text": "Green is also very common in American English."
     },
     {
-      "startSec": 18,
-      "endSec": 24.8,
-      "text": "Let's hear Warren Scheer read a story about these colorful expressions!"
+      "startSec": 29.1,
+      "endSec": 31.9,
+      "text": "Let's hear Warren Sheer read a story"
     },
     {
-      "startSec": 24.8,
-      "endSec": 29.1,
+      "startSec": 31.9,
+      "endSec": 34.5,
+      "text": "about these colorful expressions."
+    },
+    {
+      "startSec": 34.5,
+      "endSec": 40.2,
       "text": "Green is an important color in nature."
     },
     {
-      "startSec": 29.1,
-      "endSec": 35.9,
+      "startSec": 40.2,
+      "endSec": 45.5,
       "text": "It is the color of grass and the leaves on trees."
     },
     {
-      "startSec": 35.9,
-      "endSec": 41.5,
+      "startSec": 45.5,
+      "endSec": 50.5,
       "text": "It is also the color of most growing plants."
     },
     {
-      "startSec": 41.5,
-      "endSec": 47.1,
-      "text": "Sometimes, the word green means young, fresh and growing."
+      "startSec": 50.5,
+      "endSec": 57.3,
+      "text": "Sometimes the word green means young, fresh and growing."
     },
     {
-      "startSec": 47.1,
-      "endSec": 53.9,
-      "text": "Sometimes, it describes something that is not yet ripe or finished."
+      "startSec": 59.9,
+      "endSec": 63.1,
+      "text": "Sometimes it describes something"
     },
     {
-      "startSec": 53.9,
-      "endSec": 63.8,
-      "text": "For example, a greenhorn is someone who has no experience, who is new to a situation."
+      "startSec": 63.1,
+      "endSec": 66.5,
+      "text": "that is not yet ripe or finished."
     },
     {
-      "startSec": 63.8,
-      "endSec": 74.9,
-      "text": "In the fifteenth century, a greenhorn was a young cow or ox whose horns had not yet developed."
+      "startSec": 66.5,
+      "endSec": 72.3,
+      "text": "For example, a green horn is someone"
     },
     {
-      "startSec": 74.9,
-      "endSec": 86.7,
-      "text": "A century or so later, a greenhorn was a soldier who had not yet had any experience in battle."
+      "startSec": 72.3,
+      "endSec": 77.3,
+      "text": "who has no experience, who is new to a situation."
     },
     {
-      "startSec": 86.7,
-      "endSec": 99.1,
-      "text": "By the eighteenth century, a greenhorn had the meaning it has today - a person who is new in a job."
+      "startSec": 77.3,
+      "endSec": 83.8,
+      "text": "In the 15th century, a green horn was a young cow or ox"
     },
     {
-      "startSec": 99.1,
-      "endSec": 107.8,
-      "text": "About one hundred years ago, greenhorn was a popular expression in the American west."
+      "startSec": 83.8,
+      "endSec": 87.4,
+      "text": "whose horns had not yet developed."
     },
     {
-      "startSec": 107.8,
-      "endSec": 120.1,
-      "text": "Old-timers used it to describe a man who had just arrived from one of the big cities back east."
+      "startSec": 89.1,
+      "endSec": 94,
+      "text": "A century or so later, a green horn was a soldier"
     },
     {
-      "startSec": 120.1,
-      "endSec": 129.4,
-      "text": "The greenhorn lacked the skills he would need to live in the hard, rough country."
+      "startSec": 94,
+      "endSec": 97.7,
+      "text": "who had not yet had any experience in battle."
     },
     {
-      "startSec": 129.4,
-      "endSec": 139.3,
-      "text": "Someone who has the ability to grow plants well is said to have a green thumb."
+      "startSec": 97.7,
+      "endSec": 103.6,
+      "text": "By the 18th century, a green horn had the meaning"
     },
     {
-      "startSec": 139.3,
-      "endSec": 143.1,
+      "startSec": 103.6,
+      "endSec": 108.6,
+      "text": "it has today, a person who is new in a job."
+    },
+    {
+      "startSec": 108.6,
+      "endSec": 115.9,
+      "text": "About 100 years ago, green horn was a popular expression"
+    },
+    {
+      "startSec": 116.9,
+      "endSec": 121.5,
+      "text": "in the American West, old timers used it"
+    },
+    {
+      "startSec": 121.5,
+      "endSec": 125,
+      "text": "to describe a man who had just arrived"
+    },
+    {
+      "startSec": 125,
+      "endSec": 127.8,
+      "text": "from one of the big cities back east."
+    },
+    {
+      "startSec": 127.8,
+      "endSec": 132.9,
+      "text": "The green horn lacked the skills he would need"
+    },
+    {
+      "startSec": 132.9,
+      "endSec": 135.9,
+      "text": "to live in the hard, rough country."
+    },
+    {
+      "startSec": 135.9,
+      "endSec": 142.6,
+      "text": "Someone who has the ability to grow plants well"
+    },
+    {
+      "startSec": 142.6,
+      "endSec": 145.5,
+      "text": "is said to have a green thumb."
+    },
+    {
+      "startSec": 146.9,
+      "endSec": 150.9,
       "text": "The expression comes from the early 1900s."
     },
     {
-      "startSec": 143.1,
-      "endSec": 154.8,
-      "text": "A person with a green thumb seems to have a magic touch that makes plants grow quickly and well."
+      "startSec": 150.9,
+      "endSec": 157.6,
+      "text": "A person with a green thumb seems to have a magic touch"
     },
     {
-      "startSec": 154.8,
-      "endSec": 169.7,
-      "text": "You might say that the woman next door has a green thumb if her garden continues to grow long after your plants have died."
+      "startSec": 157.6,
+      "endSec": 160.8,
+      "text": "that makes plants grow quickly and well."
     },
     {
-      "startSec": 169.7,
-      "endSec": 182.7,
-      "text": "The Green Revolution is the name given some years ago to the development of new kinds of rice and other grains."
+      "startSec": 160.8,
+      "endSec": 166.3,
+      "text": "You might say that the woman next door has a green thumb"
     },
     {
-      "startSec": 182.7,
-      "endSec": 187,
+      "startSec": 166.3,
+      "endSec": 170.2,
+      "text": "if her garden continues to grow long after"
+    },
+    {
+      "startSec": 170.2,
+      "endSec": 172.1,
+      "text": "your plants have died."
+    },
+    {
+      "startSec": 174.8,
+      "endSec": 179.5,
+      "text": "The green revolution is the name given some years ago"
+    },
+    {
+      "startSec": 179.5,
+      "endSec": 184.1,
+      "text": "to the development of new kinds of rice and other grains."
+    },
+    {
+      "startSec": 184.1,
+      "endSec": 189.1,
       "text": "The new plants produced much larger crops."
     },
     {
-      "startSec": 187,
-      "endSec": 196.9,
-      "text": "The Green Revolution was the result of hard work by agricultural scientists who had green thumbs."
+      "startSec": 189.1,
+      "endSec": 193.7,
+      "text": "The green revolution was the result of hard work"
     },
     {
-      "startSec": 196.9,
-      "endSec": 204.4,
-      "text": "Green is also the color used to describe the powerful emotion, jealousy."
+      "startSec": 193.7,
+      "endSec": 198.6,
+      "text": "by agricultural scientists who had green thumbs."
     },
     {
-      "startSec": 204.4,
-      "endSec": 211.8,
-      "text": "The green-eyed monster is not a frightening creature from outer space."
+      "startSec": 198.6,
+      "endSec": 204.3,
+      "text": "Green is also the color used to describe"
     },
     {
-      "startSec": 211.8,
-      "endSec": 223.6,
-      "text": "It is an expression used about four hundred years ago by British writer William Shakespeare in his play \"Othello."
+      "startSec": 204.3,
+      "endSec": 207.1,
+      "text": "the powerful emotion jealousy."
     },
     {
-      "startSec": 223.6,
-      "endSec": 232.2,
-      "text": "\" It describes the unpleasant feeling a person has when someone has something he wants."
+      "startSec": 207.1,
+      "endSec": 212,
+      "text": "The green-eyed monster is not a frightening creature"
     },
     {
-      "startSec": 232.2,
-      "endSec": 244,
-      "text": "A young man may suffer from the green-eyed monster if his girlfriend begins going out with someone else."
+      "startSec": 212,
+      "endSec": 213.3,
+      "text": "from outer space."
     },
     {
-      "startSec": 244,
-      "endSec": 255.8,
-      "text": "Or, that green-eyed monster may affect your friend if you get a pay raise and she does not."
+      "startSec": 213.3,
+      "endSec": 218.8,
+      "text": "It is an expression used about 400 years ago"
     },
     {
-      "startSec": 255.8,
-      "endSec": 265.1,
-      "text": "In most places in the world, a green light is a sign to move ahead."
+      "startSec": 218.8,
+      "endSec": 223.8,
+      "text": "by British writer William Shakespeare in his play Othello."
     },
     {
-      "startSec": 265.1,
-      "endSec": 273.1,
-      "text": "A green light on a traffic signal means your car can continue on."
+      "startSec": 223.8,
+      "endSec": 230,
+      "text": "It describes the unpleasant feeling a person has"
     },
     {
-      "startSec": 273.1,
-      "endSec": 281.2,
-      "text": "In everyday speech, a green light means approval to continue with a project."
+      "startSec": 230,
+      "endSec": 232.8,
+      "text": "when someone has something he wants."
     },
     {
-      "startSec": 281.2,
-      "endSec": 291.1,
-      "text": "We want you to know we have a green light to continue this series next week."
+      "startSec": 235.3,
+      "endSec": 239.3,
+      "text": "A young man may suffer from the green-eyed monster"
     },
     {
-      "startSec": 291.1,
-      "endSec": 299.1,
-      "text": "And that's all the time we have for this Words and Their Stories."
+      "startSec": 239.3,
+      "endSec": 243.4,
+      "text": "if his girlfriend begins going out with someone else."
     },
     {
-      "startSec": 299.1,
-      "endSec": 307.2,
-      "text": "Don't forget to tune in again for another story about American English expressions."
+      "startSec": 243.4,
+      "endSec": 248.9,
+      "text": "Or that green-eyed monster may affect your friend"
     },
     {
-      "startSec": 307.2,
-      "endSec": 310.3,
-      "text": "Marilyn Christiano wrote this program."
+      "startSec": 248.9,
+      "endSec": 252.5,
+      "text": "if you get a pay raise and she does not."
     },
     {
-      "startSec": 310.3,
-      "endSec": 314,
-      "text": "Warren Scheer and Anna Matteo narrated."
+      "startSec": 252.5,
+      "endSec": 259,
+      "text": "In most places in the world, a green light is a sign"
+    },
+    {
+      "startSec": 259,
+      "endSec": 260.4,
+      "text": "to move ahead."
+    },
+    {
+      "startSec": 261.7,
+      "endSec": 264.7,
+      "text": "A green light on a traffic signal means"
+    },
+    {
+      "startSec": 264.7,
+      "endSec": 266.8,
+      "text": "your car can continue on."
+    },
+    {
+      "startSec": 266.8,
+      "endSec": 272.4,
+      "text": "In everyday speech, a green light means approval"
+    },
+    {
+      "startSec": 272.4,
+      "endSec": 274.2,
+      "text": "to continue with a project."
+    },
+    {
+      "startSec": 274.2,
+      "endSec": 279,
+      "text": "We want you to know we have a green light"
+    },
+    {
+      "startSec": 279,
+      "endSec": 281.8,
+      "text": "to continue this series next week."
+    },
+    {
+      "startSec": 281.8,
+      "endSec": 286,
+      "text": "And that's all the time we have for this words"
+    },
+    {
+      "startSec": 286,
+      "endSec": 287,
+      "text": "and their stories."
+    },
+    {
+      "startSec": 287,
+      "endSec": 291.2,
+      "text": "Don't forget to tune in again for another story"
+    },
+    {
+      "startSec": 291.2,
+      "endSec": 294.3,
+      "text": "about American English expressions."
+    },
+    {
+      "startSec": 294.3,
+      "endSec": 297.1,
+      "text": "Until next time, I'm Anna Mateo."
     }
   ],
   "cefr": "B2",
