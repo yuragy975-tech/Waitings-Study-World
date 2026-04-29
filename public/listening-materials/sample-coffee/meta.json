@@ -2,14 +2,34 @@
   "title": "Why People Love Coffee",
   "source": "示例素材（占位）",
   "level": "beginner",
-  "durationSec": 38,
-  "coverGradient": "from-amber-400 via-orange-500 to-rose-500",
+  "durationSec": 19,
+  "coverGradient": "from-yellow-400 via-amber-500 to-orange-500",
   "audioFile": "audio.mp3",
   "segments": [
-    { "startSec": 0, "endSec": 6, "text": "Coffee is one of the most popular drinks in the world." },
-    { "startSec": 6, "endSec": 13, "text": "Many people drink a cup of coffee every morning to wake up." },
-    { "startSec": 13, "endSec": 20, "text": "Some people like it black, while others add milk and sugar." },
-    { "startSec": 20, "endSec": 27, "text": "Coffee shops have become a place where friends meet and talk." },
-    { "startSec": 27, "endSec": 38, "text": "Whether at home or in a café, coffee brings people together." }
+    {
+      "startSec": 0,
+      "endSec": 3,
+      "text": "Coffee is one of the most popular drinks in the world."
+    },
+    {
+      "startSec": 3,
+      "endSec": 6.5,
+      "text": "Many people drink a cup of coffee every morning to wake up."
+    },
+    {
+      "startSec": 6.5,
+      "endSec": 10,
+      "text": "Some people like it black, while others add milk and sugar."
+    },
+    {
+      "startSec": 10,
+      "endSec": 13.5,
+      "text": "Coffee shops have become a place where friends meet and talk."
+    },
+    {
+      "startSec": 13.5,
+      "endSec": 19,
+      "text": "Whether at home or in a café, coffee brings people together."
+    }
   ]
 }

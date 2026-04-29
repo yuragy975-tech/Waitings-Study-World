@@ -1,0 +1,310 @@
+{
+  "title": "Important Terms and Ideas for Describing Artificial Intelligence",
+  "source": "VOA Learning English (via 21voa.com)",
+  "level": "advanced",
+  "durationSec": 461,
+  "coverGradient": "from-zinc-700 via-zinc-800 to-zinc-900",
+  "audioFile": "audio.mp3",
+  "segments": [
+    {
+      "startSec": 0,
+      "endSec": 7.7,
+      "text": "There are several terms experts use to describe computer systems in the field of artificial intelligence."
+    },
+    {
+      "startSec": 7.7,
+      "endSec": 15.4,
+      "text": "Recently, the French News Agency (AFP) defined some of the common terms and ideas used in that field."
+    },
+    {
+      "startSec": 15.4,
+      "endSec": 23.1,
+      "text": "Here is a version for English learners: Artificial intelligence The first term is “artificial intelligence."
+    },
+    {
+      "startSec": 23.1,
+      "endSec": 30.8,
+      "text": "” When asked what artificial intelligence is, the AI-powered ChatGPT system says that the term means “the simulation of human intelligence in machines that are programmed to think, learn and make decisions\"."
+    },
+    {
+      "startSec": 30.8,
+      "endSec": 38.4,
+      "text": "AI's main quality or characteristic is taking in large amounts of data and then processing it using methods from statistics."
+    },
+    {
+      "startSec": 38.4,
+      "endSec": 46.1,
+      "text": "AI involves using ideas from many fields including computing, mathematics, languages, psychology, and others."
+    },
+    {
+      "startSec": 46.1,
+      "endSec": 53.8,
+      "text": "Currently, the technology is being used heavily for investigating health issues, translating human languages, and predicting problems in machine tools and self-driving cars."
+    },
+    {
+      "startSec": 53.8,
+      "endSec": 61.5,
+      "text": "But AI is affecting many fields of business and industry."
+    },
+    {
+      "startSec": 61.5,
+      "endSec": 69.2,
+      "text": "A second important term is “algorithm."
+    },
+    {
+      "startSec": 69.2,
+      "endSec": 76.8,
+      "text": "” An algorithm is important to all computer operations."
+    },
+    {
+      "startSec": 76.8,
+      "endSec": 84.5,
+      "text": "It is a series of steps or instructions followed by a computer program to get a result."
+    },
+    {
+      "startSec": 84.5,
+      "endSec": 92.2,
+      "text": "Algorithms can give rules for an AI's behavior, helping it to realize the objectives of computer program developers."
+    },
+    {
+      "startSec": 92.2,
+      "endSec": 99.9,
+      "text": "Unlike a simple computer program, AI algorithms permit a computer system to “learn” for itself."
+    },
+    {
+      "startSec": 99.9,
+      "endSec": 107.6,
+      "text": "A third important term is “machine learning."
+    },
+    {
+      "startSec": 107.6,
+      "endSec": 115.3,
+      "text": "” Machine learning is one method that researchers have used in their efforts to produce artificial intelligence."
+    },
+    {
+      "startSec": 115.3,
+      "endSec": 122.9,
+      "text": "Machine learning lets computers learn from data without being directly programmed on what results to produce."
+    },
+    {
+      "startSec": 122.9,
+      "endSec": 130.6,
+      "text": "In recent years, the field of neural networks has given important results."
+    },
+    {
+      "startSec": 130.6,
+      "endSec": 138.3,
+      "text": "In a neural network, connections between some nodes are strengthened and others weakened as the system learns and makes changes."
+    },
+    {
+      "startSec": 138.3,
+      "endSec": 146,
+      "text": "Learning can be \"supervised."
+    },
+    {
+      "startSec": 146,
+      "endSec": 153.7,
+      "text": "\" This means the system learns to put new data into specific groups based on a model."
+    },
+    {
+      "startSec": 153.7,
+      "endSec": 161.4,
+      "text": "For example, the system could learn to identify spam in an email or other messaging programs."
+    },
+    {
+      "startSec": 161.4,
+      "endSec": 169,
+      "text": "\"Unsupervised\" learning permits the system to independently discover new areas or ways of doing things."
+    },
+    {
+      "startSec": 169,
+      "endSec": 176.7,
+      "text": "These discoveries in the available data might not have been immediately clear."
+    },
+    {
+      "startSec": 176.7,
+      "endSec": 184.4,
+      "text": "An example would be letting an online store identify buying trends in sales data."
+    },
+    {
+      "startSec": 184.4,
+      "endSec": 192.1,
+      "text": "\"Reinforcement\" learning adds a process of repeated trial-and-error."
+    },
+    {
+      "startSec": 192.1,
+      "endSec": 199.8,
+      "text": "In this process, the system is rewarded based on its outcomes, causing it to learn and improve."
+    },
+    {
+      "startSec": 199.8,
+      "endSec": 207.4,
+      "text": "One example might be a self-driving vehicle whose objective is to reach its destination as quickly as possible but also safely."
+    },
+    {
+      "startSec": 207.4,
+      "endSec": 215.1,
+      "text": "That requirement would lead it to learn to stop at red lights although it requires additional time."
+    },
+    {
+      "startSec": 215.1,
+      "endSec": 222.8,
+      "text": "Deep learning owes its name to its use of many layers of neural networks."
+    },
+    {
+      "startSec": 222.8,
+      "endSec": 230.5,
+      "text": "Raw data is examined by each layer in turn at growing levels of abstraction."
+    },
+    {
+      "startSec": 230.5,
+      "endSec": 238.2,
+      "text": "Geoffrey Hinton received the 2024 Nobel Prize in Physics."
+    },
+    {
+      "startSec": 238.2,
+      "endSec": 245.9,
+      "text": "Hinton is credited with developing deep learning."
+    },
+    {
+      "startSec": 245.9,
+      "endSec": 253.5,
+      "text": "Hinton received the prize along with 1980s neural-network developer John Hopfield."
+    },
+    {
+      "startSec": 253.5,
+      "endSec": 261.2,
+      "text": "Francis Bach, head of France's SIERRA statistical learning laboratory, said this about deep learning: \"The more layers you have, the more complex behavior can become, and the more complex the behavior can be, the easier it is to learn a desired behavior efficiently."
+    },
+    {
+      "startSec": 261.2,
+      "endSec": 268.9,
+      "text": "\" The method might help lead to scientific discoveries."
+    },
+    {
+      "startSec": 268.9,
+      "endSec": 276.6,
+      "text": "We now turn to large language models (LLMs)."
+    },
+    {
+      "startSec": 276.6,
+      "endSec": 284.3,
+      "text": "These might be the most popular example of generative AI."
+    },
+    {
+      "startSec": 284.3,
+      "endSec": 291.9,
+      "text": "Large language models power tools like OpenAI's ChatGPT or Google's Gemini."
+    },
+    {
+      "startSec": 291.9,
+      "endSec": 299.6,
+      "text": "Such systems are able to write long papers, answer legal questions or even produce a cake recipe based on their statistical models."
+    },
+    {
+      "startSec": 299.6,
+      "endSec": 307.3,
+      "text": "But the technology is still new."
+    },
+    {
+      "startSec": 307.3,
+      "endSec": 315,
+      "text": "LLM's can suffer from \"hallucinations\"- the creation of content that is false or incorrect."
+    },
+    {
+      "startSec": 315,
+      "endSec": 322.7,
+      "text": "Artificial general intelligence A final important term is artificial general intelligence (AGI) - one the big goals of the whole AI field."
+    },
+    {
+      "startSec": 322.7,
+      "endSec": 330.4,
+      "text": "AGI suggests the unrealized dream of a machine able to reproduce all human processes of human thinking."
+    },
+    {
+      "startSec": 330.4,
+      "endSec": 338,
+      "text": "People who push the idea include OpenAI chief Sam Altman and his competitors at Anthropic."
+    },
+    {
+      "startSec": 338,
+      "endSec": 345.7,
+      "text": "They consider such a system to be within reach."
+    },
+    {
+      "startSec": 345.7,
+      "endSec": 353.4,
+      "text": "The goal is to use large amounts of data and processing power to train LLMs that are increasingly powerful."
+    },
+    {
+      "startSec": 353.4,
+      "endSec": 361.1,
+      "text": "But critics say that LLM technology has important limits, including its ability to reason."
+    },
+    {
+      "startSec": 361.1,
+      "endSec": 368.8,
+      "text": "Maxime Amblard, computing professor at France's University of Lorraine, told AFP last year, \"LLMs do not work like human beings."
+    },
+    {
+      "startSec": 368.8,
+      "endSec": 376.5,
+      "text": "\" Amblard added that humans, as flesh-and-blood -intelligent beings, are \"sense-making machines\" with different abilities from today's computer systems."
+    },
+    {
+      "startSec": 376.5,
+      "endSec": 384.1,
+      "text": "I'm Anna Matteo."
+    },
+    {
+      "startSec": 384.1,
+      "endSec": 391.8,
+      "text": "And I'm John Russell."
+    },
+    {
+      "startSec": 391.8,
+      "endSec": 399.5,
+      "text": "Pierre Celerier reported on this story for Agence France-Presse."
+    },
+    {
+      "startSec": 399.5,
+      "endSec": 407.2,
+      "text": "John Russell adapted it for VOA Learning simulation – n."
+    },
+    {
+      "startSec": 407.2,
+      "endSec": 414.9,
+      "text": "the representation of the functioning of one system or process by means of the functioning of another system statistics –n."
+    },
+    {
+      "startSec": 414.9,
+      "endSec": 422.5,
+      "text": "(science) the field of processing numerical information to describe processes and things neural –adj."
+    },
+    {
+      "startSec": 422.5,
+      "endSec": 430.2,
+      "text": "related to the brain or nerves node – n."
+    },
+    {
+      "startSec": 430.2,
+      "endSec": 437.9,
+      "text": "a point at which smaller parts begin or center spam – n."
+    },
+    {
+      "startSec": 437.9,
+      "endSec": 445.6,
+      "text": "unsolicited messages (such as an email) that often have a commercial purpose trend – n."
+    },
+    {
+      "startSec": 445.6,
+      "endSec": 453.3,
+      "text": "a line or direction of movement or change abstraction –n."
+    },
+    {
+      "startSec": 453.3,
+      "endSec": 461,
+      "text": "the formation of ideas efficiently – adv."
+    }
+  ]
+}
