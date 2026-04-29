@@ -8,301 +8,301 @@
   "segments": [
     {
       "startSec": 0,
-      "endSec": 7.7,
+      "endSec": 8.7,
       "text": "There are several terms experts use to describe computer systems in the field of artificial intelligence."
     },
     {
-      "startSec": 7.7,
-      "endSec": 15.4,
+      "startSec": 8.7,
+      "endSec": 18.5,
       "text": "Recently, the French News Agency (AFP) defined some of the common terms and ideas used in that field."
     },
     {
-      "startSec": 15.4,
-      "endSec": 23.1,
+      "startSec": 18.5,
+      "endSec": 26.6,
       "text": "Here is a version for English learners: Artificial intelligence The first term is “artificial intelligence."
     },
     {
-      "startSec": 23.1,
-      "endSec": 30.8,
+      "startSec": 26.6,
+      "endSec": 44,
       "text": "” When asked what artificial intelligence is, the AI-powered ChatGPT system says that the term means “the simulation of human intelligence in machines that are programmed to think, learn and make decisions\"."
     },
     {
-      "startSec": 30.8,
-      "endSec": 38.4,
+      "startSec": 44,
+      "endSec": 54.9,
       "text": "AI's main quality or characteristic is taking in large amounts of data and then processing it using methods from statistics."
     },
     {
-      "startSec": 38.4,
-      "endSec": 46.1,
+      "startSec": 54.9,
+      "endSec": 62.5,
       "text": "AI involves using ideas from many fields including computing, mathematics, languages, psychology, and others."
     },
     {
-      "startSec": 46.1,
-      "endSec": 53.8,
+      "startSec": 62.5,
+      "endSec": 75.6,
       "text": "Currently, the technology is being used heavily for investigating health issues, translating human languages, and predicting problems in machine tools and self-driving cars."
     },
     {
-      "startSec": 53.8,
-      "endSec": 61.5,
+      "startSec": 75.6,
+      "endSec": 81,
       "text": "But AI is affecting many fields of business and industry."
     },
     {
-      "startSec": 61.5,
-      "endSec": 69.2,
+      "startSec": 81,
+      "endSec": 84.3,
       "text": "A second important term is “algorithm."
     },
     {
-      "startSec": 69.2,
-      "endSec": 76.8,
+      "startSec": 84.3,
+      "endSec": 88.6,
       "text": "” An algorithm is important to all computer operations."
     },
     {
-      "startSec": 76.8,
-      "endSec": 84.5,
+      "startSec": 88.6,
+      "endSec": 97.9,
       "text": "It is a series of steps or instructions followed by a computer program to get a result."
     },
     {
-      "startSec": 84.5,
-      "endSec": 92.2,
+      "startSec": 97.9,
+      "endSec": 107.6,
       "text": "Algorithms can give rules for an AI's behavior, helping it to realize the objectives of computer program developers."
     },
     {
-      "startSec": 92.2,
-      "endSec": 99.9,
+      "startSec": 107.6,
+      "endSec": 115.8,
       "text": "Unlike a simple computer program, AI algorithms permit a computer system to “learn” for itself."
     },
     {
-      "startSec": 99.9,
-      "endSec": 107.6,
+      "startSec": 115.8,
+      "endSec": 119.6,
       "text": "A third important term is “machine learning."
     },
     {
-      "startSec": 107.6,
-      "endSec": 115.3,
+      "startSec": 119.6,
+      "endSec": 128.3,
       "text": "” Machine learning is one method that researchers have used in their efforts to produce artificial intelligence."
     },
     {
-      "startSec": 115.3,
-      "endSec": 122.9,
+      "startSec": 128.3,
+      "endSec": 137,
       "text": "Machine learning lets computers learn from data without being directly programmed on what results to produce."
     },
     {
-      "startSec": 122.9,
-      "endSec": 130.6,
+      "startSec": 137,
+      "endSec": 143.5,
       "text": "In recent years, the field of neural networks has given important results."
     },
     {
-      "startSec": 130.6,
-      "endSec": 138.3,
+      "startSec": 143.5,
+      "endSec": 154.4,
       "text": "In a neural network, connections between some nodes are strengthened and others weakened as the system learns and makes changes."
     },
     {
-      "startSec": 138.3,
-      "endSec": 146,
+      "startSec": 154.4,
+      "endSec": 156.6,
       "text": "Learning can be \"supervised."
     },
     {
-      "startSec": 146,
-      "endSec": 153.7,
+      "startSec": 156.6,
+      "endSec": 165.3,
       "text": "\" This means the system learns to put new data into specific groups based on a model."
     },
     {
-      "startSec": 153.7,
-      "endSec": 161.4,
+      "startSec": 165.3,
+      "endSec": 174,
       "text": "For example, the system could learn to identify spam in an email or other messaging programs."
     },
     {
-      "startSec": 161.4,
-      "endSec": 169,
+      "startSec": 174,
+      "endSec": 182.1,
       "text": "\"Unsupervised\" learning permits the system to independently discover new areas or ways of doing things."
     },
     {
-      "startSec": 169,
-      "endSec": 176.7,
+      "startSec": 182.1,
+      "endSec": 188.6,
       "text": "These discoveries in the available data might not have been immediately clear."
     },
     {
-      "startSec": 176.7,
-      "endSec": 184.4,
+      "startSec": 188.6,
+      "endSec": 196.3,
       "text": "An example would be letting an online store identify buying trends in sales data."
     },
     {
-      "startSec": 184.4,
-      "endSec": 192.1,
+      "startSec": 196.3,
+      "endSec": 201.7,
       "text": "\"Reinforcement\" learning adds a process of repeated trial-and-error."
     },
     {
-      "startSec": 192.1,
-      "endSec": 199.8,
+      "startSec": 201.7,
+      "endSec": 210.9,
       "text": "In this process, the system is rewarded based on its outcomes, causing it to learn and improve."
     },
     {
-      "startSec": 199.8,
-      "endSec": 207.4,
+      "startSec": 210.9,
+      "endSec": 222.9,
       "text": "One example might be a self-driving vehicle whose objective is to reach its destination as quickly as possible but also safely."
     },
     {
-      "startSec": 207.4,
-      "endSec": 215.1,
+      "startSec": 222.9,
+      "endSec": 232.1,
       "text": "That requirement would lead it to learn to stop at red lights although it requires additional time."
     },
     {
-      "startSec": 215.1,
-      "endSec": 222.8,
+      "startSec": 232.1,
+      "endSec": 239.7,
       "text": "Deep learning owes its name to its use of many layers of neural networks."
     },
     {
-      "startSec": 222.8,
-      "endSec": 230.5,
+      "startSec": 239.7,
+      "endSec": 247.4,
       "text": "Raw data is examined by each layer in turn at growing levels of abstraction."
     },
     {
-      "startSec": 230.5,
-      "endSec": 238.2,
+      "startSec": 247.4,
+      "endSec": 251.7,
       "text": "Geoffrey Hinton received the 2024 Nobel Prize in Physics."
     },
     {
-      "startSec": 238.2,
-      "endSec": 245.9,
+      "startSec": 251.7,
+      "endSec": 255.5,
       "text": "Hinton is credited with developing deep learning."
     },
     {
-      "startSec": 245.9,
-      "endSec": 253.5,
+      "startSec": 255.5,
+      "endSec": 261.5,
       "text": "Hinton received the prize along with 1980s neural-network developer John Hopfield."
     },
     {
-      "startSec": 253.5,
-      "endSec": 261.2,
+      "startSec": 261.5,
+      "endSec": 284.9,
       "text": "Francis Bach, head of France's SIERRA statistical learning laboratory, said this about deep learning: \"The more layers you have, the more complex behavior can become, and the more complex the behavior can be, the easier it is to learn a desired behavior efficiently."
     },
     {
-      "startSec": 261.2,
-      "endSec": 268.9,
+      "startSec": 284.9,
+      "endSec": 289.2,
       "text": "\" The method might help lead to scientific discoveries."
     },
     {
-      "startSec": 268.9,
-      "endSec": 276.6,
+      "startSec": 289.2,
+      "endSec": 293.6,
       "text": "We now turn to large language models (LLMs)."
     },
     {
-      "startSec": 276.6,
-      "endSec": 284.3,
+      "startSec": 293.6,
+      "endSec": 299,
       "text": "These might be the most popular example of generative AI."
     },
     {
-      "startSec": 284.3,
-      "endSec": 291.9,
+      "startSec": 299,
+      "endSec": 305,
       "text": "Large language models power tools like OpenAI's ChatGPT or Google's Gemini."
     },
     {
-      "startSec": 291.9,
-      "endSec": 299.6,
+      "startSec": 305,
+      "endSec": 316.9,
       "text": "Such systems are able to write long papers, answer legal questions or even produce a cake recipe based on their statistical models."
     },
     {
-      "startSec": 299.6,
-      "endSec": 307.3,
+      "startSec": 316.9,
+      "endSec": 320.2,
       "text": "But the technology is still new."
     },
     {
-      "startSec": 307.3,
-      "endSec": 315,
+      "startSec": 320.2,
+      "endSec": 327.8,
       "text": "LLM's can suffer from \"hallucinations\"- the creation of content that is false or incorrect."
     },
     {
-      "startSec": 315,
-      "endSec": 322.7,
+      "startSec": 327.8,
+      "endSec": 339.2,
       "text": "Artificial general intelligence A final important term is artificial general intelligence (AGI) - one the big goals of the whole AI field."
     },
     {
-      "startSec": 322.7,
-      "endSec": 330.4,
+      "startSec": 339.2,
+      "endSec": 348.5,
       "text": "AGI suggests the unrealized dream of a machine able to reproduce all human processes of human thinking."
     },
     {
-      "startSec": 330.4,
-      "endSec": 338,
+      "startSec": 348.5,
+      "endSec": 356.6,
       "text": "People who push the idea include OpenAI chief Sam Altman and his competitors at Anthropic."
     },
     {
-      "startSec": 338,
-      "endSec": 345.7,
+      "startSec": 356.6,
+      "endSec": 361.5,
       "text": "They consider such a system to be within reach."
     },
     {
-      "startSec": 345.7,
-      "endSec": 353.4,
+      "startSec": 361.5,
+      "endSec": 371.8,
       "text": "The goal is to use large amounts of data and processing power to train LLMs that are increasingly powerful."
     },
     {
-      "startSec": 353.4,
-      "endSec": 361.1,
+      "startSec": 371.8,
+      "endSec": 379.5,
       "text": "But critics say that LLM technology has important limits, including its ability to reason."
     },
     {
-      "startSec": 361.1,
-      "endSec": 368.8,
+      "startSec": 379.5,
+      "endSec": 390.3,
       "text": "Maxime Amblard, computing professor at France's University of Lorraine, told AFP last year, \"LLMs do not work like human beings."
     },
     {
-      "startSec": 368.8,
-      "endSec": 376.5,
+      "startSec": 390.3,
+      "endSec": 401.7,
       "text": "\" Amblard added that humans, as flesh-and-blood -intelligent beings, are \"sense-making machines\" with different abilities from today's computer systems."
     },
     {
-      "startSec": 376.5,
-      "endSec": 384.1,
+      "startSec": 401.7,
+      "endSec": 403.4,
       "text": "I'm Anna Matteo."
     },
     {
-      "startSec": 384.1,
-      "endSec": 391.8,
+      "startSec": 403.4,
+      "endSec": 405.5,
       "text": "And I'm John Russell."
     },
     {
-      "startSec": 391.8,
-      "endSec": 399.5,
+      "startSec": 405.5,
+      "endSec": 411,
       "text": "Pierre Celerier reported on this story for Agence France-Presse."
     },
     {
-      "startSec": 399.5,
-      "endSec": 407.2,
+      "startSec": 411,
+      "endSec": 415.9,
       "text": "John Russell adapted it for VOA Learning simulation – n."
     },
     {
-      "startSec": 407.2,
-      "endSec": 414.9,
+      "startSec": 415.9,
+      "endSec": 426.8,
       "text": "the representation of the functioning of one system or process by means of the functioning of another system statistics –n."
     },
     {
-      "startSec": 414.9,
-      "endSec": 422.5,
+      "startSec": 426.8,
+      "endSec": 434.4,
       "text": "(science) the field of processing numerical information to describe processes and things neural –adj."
     },
     {
-      "startSec": 422.5,
-      "endSec": 430.2,
+      "startSec": 434.4,
+      "endSec": 438.7,
       "text": "related to the brain or nerves node – n."
     },
     {
-      "startSec": 430.2,
-      "endSec": 437.9,
+      "startSec": 438.7,
+      "endSec": 444.7,
       "text": "a point at which smaller parts begin or center spam – n."
     },
     {
-      "startSec": 437.9,
-      "endSec": 445.6,
+      "startSec": 444.7,
+      "endSec": 452.3,
       "text": "unsolicited messages (such as an email) that often have a commercial purpose trend – n."
     },
     {
-      "startSec": 445.6,
-      "endSec": 453.3,
+      "startSec": 452.3,
+      "endSec": 457.7,
       "text": "a line or direction of movement or change abstraction –n."
     },
     {
-      "startSec": 453.3,
+      "startSec": 457.7,
       "endSec": 461,
       "text": "the formation of ideas efficiently – adv."
     }

@@ -51,12 +51,31 @@ export function ListeningPlayer({
   const [rate, setRate] = useState(1);
   const [mode, setMode] = useState<DisplayMode>("blind");
   const [audioMissing, setAudioMissing] = useState(false);
+  const [realDuration, setRealDuration] = useState<number | null>(null);
+
+  // 用真实音频时长重算尺度。meta 里的 durationSec 可能是估算的。
+  const scale =
+    realDuration && material.durationSec > 0
+      ? realDuration / material.durationSec
+      : 1;
+
+  const scaledSegments = useMemo(
+    () =>
+      material.segments.map((s) => ({
+        ...s,
+        startSec: s.startSec * scale,
+        endSec: s.endSec * scale,
+      })),
+    [material.segments, scale],
+  );
+
+  const displayDuration = realDuration ?? material.durationSec;
 
   const activeIndex = useMemo(() => {
-    return material.segments.findIndex(
+    return scaledSegments.findIndex(
       (s) => currentTime >= s.startSec && currentTime < s.endSec,
     );
-  }, [currentTime, material.segments]);
+  }, [currentTime, scaledSegments]);
 
   useEffect(() => {
     const audio = audioRef.current;
@@ -117,6 +136,10 @@ export function ListeningPlayer({
           ref={audioRef}
           src={material.audioUrl}
           preload="metadata"
+          onLoadedMetadata={(e) => {
+            const d = e.currentTarget.duration;
+            if (!isNaN(d) && d > 0) setRealDuration(d);
+          }}
           onTimeUpdate={(e) => setCurrentTime(e.currentTarget.currentTime)}
           onPlay={() => setPlaying(true)}
           onPause={() => setPlaying(false)}
@@ -132,7 +155,7 @@ export function ListeningPlayer({
             {playing ? "⏸ 暂停" : "▶ 播放"}
           </button>
           <span className="text-sm text-zinc-500 dark:text-zinc-400 tabular-nums">
-            {formatDuration(currentTime)} / {formatDuration(material.durationSec)}
+            {formatDuration(currentTime)} / {formatDuration(displayDuration)}
           </span>
           <div className="ml-auto flex items-center gap-1.5 text-xs">
             {RATE_OPTIONS.map((r) => (
@@ -155,7 +178,7 @@ export function ListeningPlayer({
         <input
           type="range"
           min={0}
-          max={material.durationSec}
+          max={displayDuration}
           step={0.1}
           value={currentTime}
           onChange={(e) => jumpTo(Number(e.target.value))}
@@ -193,7 +216,7 @@ export function ListeningPlayer({
       </div>
 
       <div className="rounded-2xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-5 sm:p-7 space-y-4 text-lg leading-loose">
-        {material.segments.map((seg, i) => (
+        {scaledSegments.map((seg, i) => (
           <div key={i}>
             <SegmentLine
               segment={seg}
