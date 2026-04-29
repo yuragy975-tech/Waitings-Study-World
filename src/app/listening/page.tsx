@@ -52,12 +52,17 @@ export default async function ListeningHomePage() {
                 <div
                   className={`relative aspect-[16/9] sm:aspect-[2/1] bg-gradient-to-br ${m.coverGradient} flex items-end p-6 sm:p-8`}
                 >
-                  <div className="absolute top-4 left-4 flex items-center gap-2">
+                  <div className="absolute top-4 left-4 flex items-center gap-2 flex-wrap">
                     <span
                       className={`text-xs font-semibold text-white px-2.5 py-1 rounded-full ${LEVEL_COLOR[m.level]}`}
                     >
                       {levelLabel(m.level)}
                     </span>
+                    {m.cefr && (
+                      <span className="text-xs font-bold text-white px-2.5 py-1 rounded-full bg-black/30 backdrop-blur-sm tracking-wide">
+                        {m.cefr}
+                      </span>
+                    )}
                     <span className="text-xs font-medium text-white/90 px-2.5 py-1 rounded-full bg-black/20 backdrop-blur-sm">
                       {formatDuration(m.durationSec)}
                     </span>
@@ -69,6 +74,11 @@ export default async function ListeningHomePage() {
                     <h2 className="text-2xl sm:text-3xl font-bold leading-tight group-hover:translate-x-0.5 transition-transform">
                       {m.title}
                     </h2>
+                    {m.difficultyReason && (
+                      <p className="text-xs text-white/85 mt-1.5">
+                        {m.difficultyReason}
+                      </p>
+                    )}
                   </div>
                 </div>
               </Link>

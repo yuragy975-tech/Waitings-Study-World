@@ -23,9 +23,15 @@ export function TrainingClient({ material }: { material: Material }) {
             {material.title}
           </h1>
           <p className="mt-1 text-sm text-zinc-500 dark:text-zinc-400">
-            {material.source} · {levelLabel(material.level)} ·{" "}
+            {material.source} · {levelLabel(material.level)}
+            {material.cefr ? ` · ${material.cefr}` : ""} ·{" "}
             {formatDuration(material.durationSec)}
           </p>
+          {material.difficultyReason && (
+            <p className="mt-1 text-xs text-zinc-400 dark:text-zinc-500">
+              {material.difficultyReason}
+            </p>
+          )}
         </header>
 
         <ListeningPlayer

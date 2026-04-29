@@ -1,9 +1,9 @@
 {
   "title": "Study: Asteroid Hit Created Two ‘Grand Canyons’ on Moon",
   "source": "VOA Learning English (via 21voa.com)",
-  "level": "advanced",
+  "level": "intermediate",
   "durationSec": 377,
-  "coverGradient": "from-zinc-700 via-zinc-800 to-zinc-900",
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
   "audioFile": "audio.mp3",
   "segments": [
     {
@@ -241,5 +241,7 @@
       "endSec": 377,
       "text": "throwing material from one place to another shadow – n."
     }
-  ]
+  ],
+  "cefr": "B2",
+  "difficultyReason": "涉及复杂科学概念和长句结构"
 }

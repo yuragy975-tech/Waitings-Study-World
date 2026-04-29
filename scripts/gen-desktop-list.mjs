@@ -31,6 +31,8 @@ export async function regenerate(summary) {
           title: m.title,
           dur: m.durationSec,
           segCount: m.segments?.length ?? 0,
+          cefr: m.cefr,
+          reason: m.difficultyReason,
         });
       } catch {}
     }
@@ -50,13 +52,13 @@ export async function regenerate(summary) {
       md += `_这一档暂无素材。_\n\n`;
       continue;
     }
-    md += `| # | 标题 | 时长 | 句数 | 训练 |\n`;
-    md += `|---|---|---|---|---|\n`;
+    md += `| # | 标题 | CEFR | 时长 | 句数 | 难度备注 | 训练 |\n`;
+    md += `|---|---|---|---|---|---|---|\n`;
     summary[lvl]
-      .sort((a, b) => (a.dur ?? 0) - (b.dur ?? 0))
+      .sort((a, b) => (a.cefr ?? "").localeCompare(b.cefr ?? "") || (a.dur ?? 0) - (b.dur ?? 0))
       .forEach((r, idx) => {
         const localUrl = `http://localhost:3000/listening/${r.id}`;
-        md += `| ${idx + 1} | ${r.title} | ${fmtDuration(r.dur ?? 0)} | ${r.segCount ?? "?"} | [打开](${localUrl}) |\n`;
+        md += `| ${idx + 1} | ${r.title} | ${r.cefr ?? "-"} | ${fmtDuration(r.dur ?? 0)} | ${r.segCount ?? "?"} | ${r.reason ?? ""} | [打开](${localUrl}) |\n`;
       });
     md += `\n`;
   }

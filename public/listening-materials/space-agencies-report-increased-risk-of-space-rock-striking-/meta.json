@@ -1,9 +1,9 @@
 {
   "title": "Space Agencies Report Increased Risk of Space Rock Striking Earth in 2032",
   "source": "VOA Learning English (via 21voa.com)",
-  "level": "advanced",
+  "level": "intermediate",
   "durationSec": 364,
-  "coverGradient": "from-zinc-700 via-zinc-800 to-zinc-900",
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
   "audioFile": "audio.mp3",
   "segments": [
     {
@@ -271,5 +271,7 @@
       "endSec": 364,
       "text": "to cause an object to move in another direction possibly by striking it and changing its path a little companion—n."
     }
-  ]
+  ],
+  "cefr": "B2",
+  "difficultyReason": "涉及复杂科学概念和词汇"
 }

@@ -11,6 +11,8 @@ export type Material = {
   title: string;
   source: string;
   level: Level;
+  cefr?: string;              // A2 / B1 / B2 / C1 / C2
+  difficultyReason?: string;  // 中文一句话说明
   durationSec: number;
   coverGradient: string;
   audioUrl: string;

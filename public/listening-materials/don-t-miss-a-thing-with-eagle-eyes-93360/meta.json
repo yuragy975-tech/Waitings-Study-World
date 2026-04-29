@@ -1,9 +1,9 @@
 {
   "title": "Don't Miss a Thing With 'Eagle Eyes'",
   "source": "VOA Learning English (via 21voa.com)",
-  "level": "beginner",
+  "level": "intermediate",
   "durationSec": 176,
-  "coverGradient": "from-yellow-400 via-amber-500 to-orange-500",
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
   "audioFile": "audio.mp3",
   "segments": [
     {
@@ -331,5 +331,7 @@
       "endSec": 175.5,
       "text": "very sharp perceive –v."
     }
-  ]
+  ],
+  "cefr": "B2",
+  "difficultyReason": "含抽象概念和习语"
 }

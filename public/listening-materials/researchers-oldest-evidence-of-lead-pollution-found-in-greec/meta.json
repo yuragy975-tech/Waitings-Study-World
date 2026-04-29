@@ -1,9 +1,9 @@
 {
   "title": "Researchers: Oldest Evidence of Lead Pollution Found in Greece",
   "source": "VOA Learning English (via 21voa.com)",
-  "level": "intermediate",
+  "level": "advanced",
   "durationSec": 271,
-  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
+  "coverGradient": "from-zinc-700 via-zinc-800 to-zinc-900",
   "audioFile": "audio.mp3",
   "segments": [
     {
@@ -151,5 +151,7 @@
       "endSec": 271,
       "text": "to melt or fuse a substance to separate the metals abrupt – adj."
     }
-  ]
+  ],
+  "cefr": "C1",
+  "difficultyReason": "含抽象概念和复杂语法结构"
 }

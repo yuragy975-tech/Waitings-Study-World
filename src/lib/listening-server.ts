@@ -9,6 +9,8 @@ interface MetaJson {
   title: string;
   source: string;
   level: Level;
+  cefr?: string;
+  difficultyReason?: string;
   durationSec: number;
   coverGradient: string;
   audioFile?: string; // 默认 audio.mp3
@@ -51,6 +53,8 @@ async function readMeta(id: string): Promise<Material | null> {
     title: parsed.title,
     source: parsed.source,
     level: parsed.level,
+    cefr: parsed.cefr,
+    difficultyReason: parsed.difficultyReason,
     durationSec: parsed.durationSec,
     coverGradient: parsed.coverGradient,
     audioUrl: `/listening-materials/${id}/${audioFile}`,
@@ -67,9 +71,15 @@ export async function loadAllMaterials(): Promise<Material[]> {
     return [];
   }
   const all = await Promise.all(entries.map(readMeta));
+  const LEVEL_ORDER = { beginner: 0, intermediate: 1, advanced: 2 };
   return all
     .filter((m): m is Material => m !== null)
-    .sort((a, b) => a.title.localeCompare(b.title));
+    .sort(
+      (a, b) =>
+        LEVEL_ORDER[a.level] - LEVEL_ORDER[b.level] ||
+        (a.cefr ?? "").localeCompare(b.cefr ?? "") ||
+        a.durationSec - b.durationSec,
+    );
 }
 
 export async function loadMaterial(id: string): Promise<Material | null> {

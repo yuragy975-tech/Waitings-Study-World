@@ -1,9 +1,9 @@
 {
   "title": "Sometimes We 'Spread Ourself Too Thin'",
   "source": "VOA Learning English (via 21voa.com)",
-  "level": "beginner",
+  "level": "intermediate",
   "durationSec": 210,
-  "coverGradient": "from-yellow-400 via-amber-500 to-orange-500",
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
   "audioFile": "audio.mp3",
   "segments": [
     {
@@ -221,5 +221,7 @@
       "endSec": 209.5,
       "text": "talking or a talk between two or more people rehearsal – n."
     }
-  ]
+  ],
+  "cefr": "B2",
+  "difficultyReason": "含抽象概念和习语"
 }

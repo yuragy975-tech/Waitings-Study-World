@@ -1,9 +1,9 @@
 {
   "title": "Tech Tip: How to Block Location Tracking on your Phone",
   "source": "VOA Learning English (via 21voa.com)",
-  "level": "advanced",
+  "level": "intermediate",
   "durationSec": 416,
-  "coverGradient": "from-zinc-700 via-zinc-800 to-zinc-900",
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
   "audioFile": "audio.mp3",
   "segments": [
     {
@@ -286,5 +286,7 @@
       "endSec": 415.5,
       "text": "a container made of paper, plastic, etc."
     }
-  ]
+  ],
+  "cefr": "B2",
+  "difficultyReason": "涉及复杂话题和词汇"
 }

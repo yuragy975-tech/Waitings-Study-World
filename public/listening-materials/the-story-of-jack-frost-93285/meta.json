@@ -1,9 +1,9 @@
 {
   "title": "The Story of Jack Frost",
   "source": "VOA Learning English (via 21voa.com)",
-  "level": "beginner",
+  "level": "intermediate",
   "durationSec": 167,
-  "coverGradient": "from-yellow-400 via-amber-500 to-orange-500",
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
   "audioFile": "audio.mp3",
   "segments": [
     {
@@ -391,5 +391,7 @@
       "endSec": 167,
       "text": "a vehicle equipped for transporting the injured or sick EMT – n."
     }
-  ]
+  ],
+  "cefr": "B2",
+  "difficultyReason": "涉及复杂语法和抽象概念"
 }

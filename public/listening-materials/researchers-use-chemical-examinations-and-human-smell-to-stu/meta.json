@@ -1,9 +1,9 @@
 {
   "title": "Researchers Use Chemical Examinations and Human Smell to Study Ancient Remains",
   "source": "VOA Learning English (via 21voa.com)",
-  "level": "intermediate",
+  "level": "advanced",
   "durationSec": 342,
-  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
+  "coverGradient": "from-zinc-700 via-zinc-800 to-zinc-900",
   "audioFile": "audio.mp3",
   "segments": [
     {
@@ -256,5 +256,7 @@
       "endSec": 341.5,
       "text": "a way of dealing with something preserve – v."
     }
-  ]
+  ],
+  "cefr": "C1",
+  "difficultyReason": "含抽象/习语/学术"
 }
