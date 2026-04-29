@@ -58,25 +58,5 @@ export function formatDuration(sec: number): string {
   return `${m}:${s.toString().padStart(2, "0")}`;
 }
 
-export const MATERIALS: Material[] = [
-  {
-    id: "sample-coffee",
-    title: "Why People Love Coffee",
-    source: "示例素材（占位）",
-    level: "beginner",
-    durationSec: 38,
-    coverGradient: "from-amber-400 via-orange-500 to-rose-500",
-    audioUrl: "/listening-materials/sample-coffee.mp3",
-    segments: [
-      { startSec: 0, endSec: 6, text: "Coffee is one of the most popular drinks in the world." },
-      { startSec: 6, endSec: 13, text: "Many people drink a cup of coffee every morning to wake up." },
-      { startSec: 13, endSec: 20, text: "Some people like it black, while others add milk and sugar." },
-      { startSec: 20, endSec: 27, text: "Coffee shops have become a place where friends meet and talk." },
-      { startSec: 27, endSec: 38, text: "Whether at home or in a café, coffee brings people together." },
-    ],
-  },
-];
-
-export function findMaterial(id: string): Material | undefined {
-  return MATERIALS.find((m) => m.id === id);
-}
+// 素材数据从 public/listening-materials/{id}/meta.json 加载
+// 加载逻辑见 src/lib/listening-server.ts

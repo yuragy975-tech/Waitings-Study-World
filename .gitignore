@@ -46,6 +46,11 @@ next-env.d.ts
 # 生成的 SQLite 词典（33MB，运行 scripts/build-dict.mjs 重新生成）
 /data/ecdict.db
 
+# 啃料音频文件不上 git（meta.json 上 git，mp3 太大）
+/public/listening-materials/**/*.mp3
+/public/listening-materials/**/*.m4a
+/public/listening-materials/**/*.wav
+
 # IDE
 .vscode/
 .idea/
