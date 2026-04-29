@@ -28,6 +28,20 @@ export default function Home() {
             status="可用"
             statusTone="ready"
           />
+          <FeatureCard
+            href="/listening"
+            title="啃料训练"
+            description="选一篇音频，模糊文本盲听 → 对照听 → 再盲听。三档挖空切换，点词即查，自动入生词本。"
+            status="新功能"
+            statusTone="ready"
+          />
+          <FeatureCard
+            href="/sentences"
+            title="我的句子本"
+            description="收藏好句子，AI 一键给出同义改写 + 中文翻译 + 语法点提示，随时朗读复习。"
+            status="新功能"
+            statusTone="ready"
+          />
         </section>
 
         <footer className="text-sm text-zinc-400 dark:text-zinc-600 pt-8">
