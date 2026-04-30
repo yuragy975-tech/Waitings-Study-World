@@ -240,6 +240,7 @@ export function ListeningPlayer({
               }}
               visible={mode !== "blind"}
               onPlay={() => playSegment(seg)}
+              durationSec={seg.endSec - seg.startSec}
             />
           </div>
         ))}
