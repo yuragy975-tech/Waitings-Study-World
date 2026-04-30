@@ -1,0 +1,5207 @@
+{
+  "title": "Finding and eating wild food",
+  "source": "BBC 6 Minute English",
+  "level": "advanced",
+  "durationSec": 376,
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
+  "audioFile": "audio.mp3",
+  "segments": [
+    {
+      "startSec": 0,
+      "endSec": 13.2,
+      "text": "Hello, this is Six Minute English from BBC Learning English. I'm Pippa.",
+      "words": [
+        {
+          "startSec": 0.2,
+          "endSec": 1.8,
+          "text": "Hello,"
+        },
+        {
+          "startSec": 1.8,
+          "endSec": 2.8,
+          "text": "this"
+        },
+        {
+          "startSec": 2.8,
+          "endSec": 3.3,
+          "text": "is"
+        },
+        {
+          "startSec": 3.3,
+          "endSec": 4.1,
+          "text": "Six"
+        },
+        {
+          "startSec": 4.1,
+          "endSec": 5.4,
+          "text": "Minute"
+        },
+        {
+          "startSec": 5.4,
+          "endSec": 8,
+          "text": "English"
+        },
+        {
+          "startSec": 8,
+          "endSec": 8.4,
+          "text": "from"
+        },
+        {
+          "startSec": 8.4,
+          "endSec": 9.2,
+          "text": "BBC"
+        },
+        {
+          "startSec": 9.2,
+          "endSec": 11.3,
+          "text": "Learning"
+        },
+        {
+          "startSec": 11.3,
+          "endSec": 12.1,
+          "text": "English."
+        },
+        {
+          "startSec": 12.1,
+          "endSec": 12.3,
+          "text": "I'm"
+        },
+        {
+          "startSec": 12.3,
+          "endSec": 13.2,
+          "text": "Pippa."
+        },
+        {
+          "startSec": 13.2,
+          "endSec": 13.5,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 13.2,
+      "endSec": 19.6,
+      "text": "And I'm Beth. Foraging is the activity of walking in the countryside, looking for plants",
+      "words": [
+        {
+          "startSec": 13.2,
+          "endSec": 13.5,
+          "text": "And"
+        },
+        {
+          "startSec": 13.5,
+          "endSec": 13.8,
+          "text": "I'm"
+        },
+        {
+          "startSec": 13.8,
+          "endSec": 14.6,
+          "text": "Beth."
+        },
+        {
+          "startSec": 14.6,
+          "endSec": 15.3,
+          "text": "Foraging"
+        },
+        {
+          "startSec": 15.3,
+          "endSec": 15.5,
+          "text": "is"
+        },
+        {
+          "startSec": 15.5,
+          "endSec": 15.7,
+          "text": "the"
+        },
+        {
+          "startSec": 15.7,
+          "endSec": 16.4,
+          "text": "activity"
+        },
+        {
+          "startSec": 16.4,
+          "endSec": 16.6,
+          "text": "of"
+        },
+        {
+          "startSec": 16.6,
+          "endSec": 17.2,
+          "text": "walking"
+        },
+        {
+          "startSec": 17.2,
+          "endSec": 17.4,
+          "text": "in"
+        },
+        {
+          "startSec": 17.4,
+          "endSec": 17.5,
+          "text": "the"
+        },
+        {
+          "startSec": 17.5,
+          "endSec": 18.7,
+          "text": "countryside,"
+        },
+        {
+          "startSec": 18.7,
+          "endSec": 19.1,
+          "text": "looking"
+        },
+        {
+          "startSec": 19.1,
+          "endSec": 19.3,
+          "text": "for"
+        },
+        {
+          "startSec": 19.3,
+          "endSec": 19.6,
+          "text": "plants"
+        },
+        {
+          "startSec": 19.6,
+          "endSec": 19.9,
+          "text": "you"
+        }
+      ]
+    },
+    {
+      "startSec": 19.6,
+      "endSec": 25.9,
+      "text": "you can eat that grow in the wild. That's anything from blackberries and chestnuts",
+      "words": [
+        {
+          "startSec": 19.6,
+          "endSec": 19.9,
+          "text": "you"
+        },
+        {
+          "startSec": 19.9,
+          "endSec": 20.2,
+          "text": "can"
+        },
+        {
+          "startSec": 20.2,
+          "endSec": 20.4,
+          "text": "eat"
+        },
+        {
+          "startSec": 20.4,
+          "endSec": 20.8,
+          "text": "that"
+        },
+        {
+          "startSec": 20.8,
+          "endSec": 21.2,
+          "text": "grow"
+        },
+        {
+          "startSec": 21.2,
+          "endSec": 21.4,
+          "text": "in"
+        },
+        {
+          "startSec": 21.4,
+          "endSec": 21.6,
+          "text": "the"
+        },
+        {
+          "startSec": 21.6,
+          "endSec": 22.3,
+          "text": "wild."
+        },
+        {
+          "startSec": 22.3,
+          "endSec": 22.8,
+          "text": "That's"
+        },
+        {
+          "startSec": 22.8,
+          "endSec": 23.5,
+          "text": "anything"
+        },
+        {
+          "startSec": 23.5,
+          "endSec": 23.9,
+          "text": "from"
+        },
+        {
+          "startSec": 23.9,
+          "endSec": 24.9,
+          "text": "blackberries"
+        },
+        {
+          "startSec": 24.9,
+          "endSec": 25.1,
+          "text": "and"
+        },
+        {
+          "startSec": 25.1,
+          "endSec": 25.9,
+          "text": "chestnuts"
+        }
+      ]
+    },
+    {
+      "startSec": 25.9,
+      "endSec": 32.4,
+      "text": "to mushrooms and wild garlic. It's something humans have always done. And recently, it's",
+      "words": [
+        {
+          "startSec": 26,
+          "endSec": 26.1,
+          "text": "to"
+        },
+        {
+          "startSec": 26.1,
+          "endSec": 26.9,
+          "text": "mushrooms"
+        },
+        {
+          "startSec": 26.9,
+          "endSec": 27.2,
+          "text": "and"
+        },
+        {
+          "startSec": 27.2,
+          "endSec": 27.5,
+          "text": "wild"
+        },
+        {
+          "startSec": 27.5,
+          "endSec": 28.4,
+          "text": "garlic."
+        },
+        {
+          "startSec": 28.4,
+          "endSec": 28.7,
+          "text": "It's"
+        },
+        {
+          "startSec": 28.7,
+          "endSec": 29.5,
+          "text": "something"
+        },
+        {
+          "startSec": 29.5,
+          "endSec": 30.1,
+          "text": "humans"
+        },
+        {
+          "startSec": 30.1,
+          "endSec": 30.4,
+          "text": "have"
+        },
+        {
+          "startSec": 30.4,
+          "endSec": 31,
+          "text": "always"
+        },
+        {
+          "startSec": 31,
+          "endSec": 31.5,
+          "text": "done."
+        },
+        {
+          "startSec": 31.5,
+          "endSec": 31.6,
+          "text": "And"
+        },
+        {
+          "startSec": 31.6,
+          "endSec": 32.3,
+          "text": "recently,"
+        },
+        {
+          "startSec": 32.3,
+          "endSec": 32.4,
+          "text": "it's"
+        },
+        {
+          "startSec": 32.4,
+          "endSec": 32.8,
+          "text": "become"
+        }
+      ]
+    },
+    {
+      "startSec": 32.4,
+      "endSec": 37.6,
+      "text": "become fashionable among groups of young people. Pippa, have you ever been foraging?",
+      "words": [
+        {
+          "startSec": 32.4,
+          "endSec": 32.8,
+          "text": "become"
+        },
+        {
+          "startSec": 32.8,
+          "endSec": 33.6,
+          "text": "fashionable"
+        },
+        {
+          "startSec": 33.6,
+          "endSec": 34,
+          "text": "among"
+        },
+        {
+          "startSec": 34,
+          "endSec": 34.4,
+          "text": "groups"
+        },
+        {
+          "startSec": 34.4,
+          "endSec": 34.6,
+          "text": "of"
+        },
+        {
+          "startSec": 34.6,
+          "endSec": 34.9,
+          "text": "young"
+        },
+        {
+          "startSec": 34.9,
+          "endSec": 35.6,
+          "text": "people."
+        },
+        {
+          "startSec": 35.6,
+          "endSec": 36,
+          "text": "Pippa,"
+        },
+        {
+          "startSec": 36,
+          "endSec": 36.3,
+          "text": "have"
+        },
+        {
+          "startSec": 36.3,
+          "endSec": 36.4,
+          "text": "you"
+        },
+        {
+          "startSec": 36.4,
+          "endSec": 36.7,
+          "text": "ever"
+        },
+        {
+          "startSec": 36.7,
+          "endSec": 36.9,
+          "text": "been"
+        },
+        {
+          "startSec": 36.9,
+          "endSec": 37.6,
+          "text": "foraging?"
+        },
+        {
+          "startSec": 37.6,
+          "endSec": 38.1,
+          "text": "Yes,"
+        }
+      ]
+    },
+    {
+      "startSec": 37.6,
+      "endSec": 44.2,
+      "text": "Yes, we used to go and pick blackberries when I was younger, but I haven't really done it as an",
+      "words": [
+        {
+          "startSec": 37.6,
+          "endSec": 38.1,
+          "text": "Yes,"
+        },
+        {
+          "startSec": 38.1,
+          "endSec": 38.2,
+          "text": "we"
+        },
+        {
+          "startSec": 38.2,
+          "endSec": 38.6,
+          "text": "used"
+        },
+        {
+          "startSec": 38.6,
+          "endSec": 38.8,
+          "text": "to"
+        },
+        {
+          "startSec": 38.8,
+          "endSec": 39,
+          "text": "go"
+        },
+        {
+          "startSec": 39,
+          "endSec": 39.2,
+          "text": "and"
+        },
+        {
+          "startSec": 39.2,
+          "endSec": 39.6,
+          "text": "pick"
+        },
+        {
+          "startSec": 39.6,
+          "endSec": 40.7,
+          "text": "blackberries"
+        },
+        {
+          "startSec": 40.7,
+          "endSec": 41.1,
+          "text": "when"
+        },
+        {
+          "startSec": 41.1,
+          "endSec": 41.2,
+          "text": "I"
+        },
+        {
+          "startSec": 41.2,
+          "endSec": 41.4,
+          "text": "was"
+        },
+        {
+          "startSec": 41.4,
+          "endSec": 42.3,
+          "text": "younger,"
+        },
+        {
+          "startSec": 42.3,
+          "endSec": 42.5,
+          "text": "but"
+        },
+        {
+          "startSec": 42.5,
+          "endSec": 42.6,
+          "text": "I"
+        },
+        {
+          "startSec": 42.6,
+          "endSec": 43.1,
+          "text": "haven't"
+        },
+        {
+          "startSec": 43.1,
+          "endSec": 43.4,
+          "text": "really"
+        },
+        {
+          "startSec": 43.4,
+          "endSec": 43.7,
+          "text": "done"
+        },
+        {
+          "startSec": 43.7,
+          "endSec": 43.8,
+          "text": "it"
+        },
+        {
+          "startSec": 43.8,
+          "endSec": 44.1,
+          "text": "as"
+        },
+        {
+          "startSec": 44.1,
+          "endSec": 44.2,
+          "text": "an"
+        },
+        {
+          "startSec": 44.2,
+          "endSec": 44.8,
+          "text": "adult."
+        }
+      ]
+    },
+    {
+      "startSec": 44.2,
+      "endSec": 50.3,
+      "text": "adult. And I would be a bit nervous to look for mushrooms or things like that. What about you?",
+      "words": [
+        {
+          "startSec": 44.2,
+          "endSec": 44.8,
+          "text": "adult."
+        },
+        {
+          "startSec": 44.8,
+          "endSec": 45.1,
+          "text": "And"
+        },
+        {
+          "startSec": 45.1,
+          "endSec": 45.1,
+          "text": "I"
+        },
+        {
+          "startSec": 45.1,
+          "endSec": 45.5,
+          "text": "would"
+        },
+        {
+          "startSec": 45.5,
+          "endSec": 45.6,
+          "text": "be"
+        },
+        {
+          "startSec": 45.6,
+          "endSec": 45.7,
+          "text": "a"
+        },
+        {
+          "startSec": 45.7,
+          "endSec": 45.9,
+          "text": "bit"
+        },
+        {
+          "startSec": 45.9,
+          "endSec": 46.5,
+          "text": "nervous"
+        },
+        {
+          "startSec": 46.5,
+          "endSec": 46.6,
+          "text": "to"
+        },
+        {
+          "startSec": 46.6,
+          "endSec": 46.9,
+          "text": "look"
+        },
+        {
+          "startSec": 46.9,
+          "endSec": 47.1,
+          "text": "for"
+        },
+        {
+          "startSec": 47.1,
+          "endSec": 47.8,
+          "text": "mushrooms"
+        },
+        {
+          "startSec": 47.8,
+          "endSec": 47.9,
+          "text": "or"
+        },
+        {
+          "startSec": 47.9,
+          "endSec": 48.4,
+          "text": "things"
+        },
+        {
+          "startSec": 48.4,
+          "endSec": 48.7,
+          "text": "like"
+        },
+        {
+          "startSec": 48.7,
+          "endSec": 49.3,
+          "text": "that."
+        },
+        {
+          "startSec": 49.3,
+          "endSec": 49.5,
+          "text": "What"
+        },
+        {
+          "startSec": 49.5,
+          "endSec": 49.7,
+          "text": "about"
+        },
+        {
+          "startSec": 49.7,
+          "endSec": 50.3,
+          "text": "you?"
+        }
+      ]
+    },
+    {
+      "startSec": 50.3,
+      "endSec": 57.2,
+      "text": "I'm exactly the same. If I see a blackberry on a bush, I will eat it. But mushrooms, no, too scary.",
+      "words": [
+        {
+          "startSec": 50.4,
+          "endSec": 50.6,
+          "text": "I'm"
+        },
+        {
+          "startSec": 50.6,
+          "endSec": 51.1,
+          "text": "exactly"
+        },
+        {
+          "startSec": 51.1,
+          "endSec": 51.3,
+          "text": "the"
+        },
+        {
+          "startSec": 51.3,
+          "endSec": 51.9,
+          "text": "same."
+        },
+        {
+          "startSec": 51.9,
+          "endSec": 52,
+          "text": "If"
+        },
+        {
+          "startSec": 52,
+          "endSec": 52.1,
+          "text": "I"
+        },
+        {
+          "startSec": 52.1,
+          "endSec": 52.4,
+          "text": "see"
+        },
+        {
+          "startSec": 52.4,
+          "endSec": 52.5,
+          "text": "a"
+        },
+        {
+          "startSec": 52.5,
+          "endSec": 53.2,
+          "text": "blackberry"
+        },
+        {
+          "startSec": 53.2,
+          "endSec": 53.4,
+          "text": "on"
+        },
+        {
+          "startSec": 53.4,
+          "endSec": 53.5,
+          "text": "a"
+        },
+        {
+          "startSec": 53.5,
+          "endSec": 53.9,
+          "text": "bush,"
+        },
+        {
+          "startSec": 53.9,
+          "endSec": 54,
+          "text": "I"
+        },
+        {
+          "startSec": 54,
+          "endSec": 54.3,
+          "text": "will"
+        },
+        {
+          "startSec": 54.3,
+          "endSec": 54.6,
+          "text": "eat"
+        },
+        {
+          "startSec": 54.6,
+          "endSec": 55,
+          "text": "it."
+        },
+        {
+          "startSec": 55,
+          "endSec": 55.3,
+          "text": "But"
+        },
+        {
+          "startSec": 55.3,
+          "endSec": 56.3,
+          "text": "mushrooms,"
+        },
+        {
+          "startSec": 56.3,
+          "endSec": 56.6,
+          "text": "no,"
+        },
+        {
+          "startSec": 56.6,
+          "endSec": 56.8,
+          "text": "too"
+        },
+        {
+          "startSec": 56.8,
+          "endSec": 57.2,
+          "text": "scary."
+        },
+        {
+          "startSec": 57.2,
+          "endSec": 57.4,
+          "text": "So"
+        }
+      ]
+    },
+    {
+      "startSec": 57.2,
+      "endSec": 63.6,
+      "text": "So in this episode, we'll meet two young women from different countries who are passionate about",
+      "words": [
+        {
+          "startSec": 57.2,
+          "endSec": 57.4,
+          "text": "So"
+        },
+        {
+          "startSec": 57.4,
+          "endSec": 57.6,
+          "text": "in"
+        },
+        {
+          "startSec": 57.6,
+          "endSec": 57.9,
+          "text": "this"
+        },
+        {
+          "startSec": 57.9,
+          "endSec": 58.7,
+          "text": "episode,"
+        },
+        {
+          "startSec": 58.7,
+          "endSec": 59.2,
+          "text": "we'll"
+        },
+        {
+          "startSec": 59.2,
+          "endSec": 59.6,
+          "text": "meet"
+        },
+        {
+          "startSec": 59.6,
+          "endSec": 59.8,
+          "text": "two"
+        },
+        {
+          "startSec": 59.8,
+          "endSec": 60.3,
+          "text": "young"
+        },
+        {
+          "startSec": 60.3,
+          "endSec": 60.8,
+          "text": "women"
+        },
+        {
+          "startSec": 60.8,
+          "endSec": 61,
+          "text": "from"
+        },
+        {
+          "startSec": 61,
+          "endSec": 61.5,
+          "text": "different"
+        },
+        {
+          "startSec": 61.5,
+          "endSec": 62,
+          "text": "countries"
+        },
+        {
+          "startSec": 62,
+          "endSec": 62.3,
+          "text": "who"
+        },
+        {
+          "startSec": 62.3,
+          "endSec": 62.5,
+          "text": "are"
+        },
+        {
+          "startSec": 62.5,
+          "endSec": 63.2,
+          "text": "passionate"
+        },
+        {
+          "startSec": 63.2,
+          "endSec": 63.6,
+          "text": "about"
+        },
+        {
+          "startSec": 63.6,
+          "endSec": 64.1,
+          "text": "foraging"
+        }
+      ]
+    },
+    {
+      "startSec": 63.6,
+      "endSec": 69,
+      "text": "foraging wild food. They're both self-taught, having learned to flourish by studying the natural",
+      "words": [
+        {
+          "startSec": 63.6,
+          "endSec": 64.1,
+          "text": "foraging"
+        },
+        {
+          "startSec": 64.1,
+          "endSec": 64.4,
+          "text": "wild"
+        },
+        {
+          "startSec": 64.4,
+          "endSec": 64.9,
+          "text": "food."
+        },
+        {
+          "startSec": 64.9,
+          "endSec": 65.3,
+          "text": "They're"
+        },
+        {
+          "startSec": 65.3,
+          "endSec": 65.6,
+          "text": "both"
+        },
+        {
+          "startSec": 65.6,
+          "endSec": 66.5,
+          "text": "self-taught,"
+        },
+        {
+          "startSec": 66.5,
+          "endSec": 66.9,
+          "text": "having"
+        },
+        {
+          "startSec": 66.9,
+          "endSec": 67.3,
+          "text": "learned"
+        },
+        {
+          "startSec": 67.3,
+          "endSec": 67.5,
+          "text": "to"
+        },
+        {
+          "startSec": 67.5,
+          "endSec": 67.9,
+          "text": "flourish"
+        },
+        {
+          "startSec": 67.9,
+          "endSec": 68,
+          "text": "by"
+        },
+        {
+          "startSec": 68,
+          "endSec": 68.5,
+          "text": "studying"
+        },
+        {
+          "startSec": 68.5,
+          "endSec": 68.6,
+          "text": "the"
+        },
+        {
+          "startSec": 68.6,
+          "endSec": 69,
+          "text": "natural"
+        },
+        {
+          "startSec": 69,
+          "endSec": 69.4,
+          "text": "world"
+        }
+      ]
+    },
+    {
+      "startSec": 69,
+      "endSec": 75.5,
+      "text": "world around them. And it's important to say that they only eat what they can identify with 100%",
+      "words": [
+        {
+          "startSec": 69,
+          "endSec": 69.4,
+          "text": "world"
+        },
+        {
+          "startSec": 69.4,
+          "endSec": 69.8,
+          "text": "around"
+        },
+        {
+          "startSec": 69.8,
+          "endSec": 70.3,
+          "text": "them."
+        },
+        {
+          "startSec": 70.3,
+          "endSec": 70.5,
+          "text": "And"
+        },
+        {
+          "startSec": 70.5,
+          "endSec": 70.8,
+          "text": "it's"
+        },
+        {
+          "startSec": 70.8,
+          "endSec": 71.4,
+          "text": "important"
+        },
+        {
+          "startSec": 71.4,
+          "endSec": 71.6,
+          "text": "to"
+        },
+        {
+          "startSec": 71.6,
+          "endSec": 71.8,
+          "text": "say"
+        },
+        {
+          "startSec": 71.8,
+          "endSec": 72,
+          "text": "that"
+        },
+        {
+          "startSec": 72,
+          "endSec": 72.3,
+          "text": "they"
+        },
+        {
+          "startSec": 72.3,
+          "endSec": 72.6,
+          "text": "only"
+        },
+        {
+          "startSec": 72.6,
+          "endSec": 72.8,
+          "text": "eat"
+        },
+        {
+          "startSec": 72.8,
+          "endSec": 73.1,
+          "text": "what"
+        },
+        {
+          "startSec": 73.1,
+          "endSec": 73.4,
+          "text": "they"
+        },
+        {
+          "startSec": 73.4,
+          "endSec": 73.6,
+          "text": "can"
+        },
+        {
+          "startSec": 73.6,
+          "endSec": 74.2,
+          "text": "identify"
+        },
+        {
+          "startSec": 74.2,
+          "endSec": 74.4,
+          "text": "with"
+        },
+        {
+          "startSec": 74.4,
+          "endSec": 75.5,
+          "text": "100%"
+        }
+      ]
+    },
+    {
+      "startSec": 75.5,
+      "endSec": 82.3,
+      "text": "certainty, sticking to the rule. If in doubt, leave it out. We'll also be learning some useful new",
+      "words": [
+        {
+          "startSec": 75.6,
+          "endSec": 76.5,
+          "text": "certainty,"
+        },
+        {
+          "startSec": 76.5,
+          "endSec": 77.2,
+          "text": "sticking"
+        },
+        {
+          "startSec": 77.2,
+          "endSec": 77.3,
+          "text": "to"
+        },
+        {
+          "startSec": 77.3,
+          "endSec": 77.6,
+          "text": "the"
+        },
+        {
+          "startSec": 77.6,
+          "endSec": 78.2,
+          "text": "rule."
+        },
+        {
+          "startSec": 78.2,
+          "endSec": 78.4,
+          "text": "If"
+        },
+        {
+          "startSec": 78.4,
+          "endSec": 78.5,
+          "text": "in"
+        },
+        {
+          "startSec": 78.5,
+          "endSec": 79.1,
+          "text": "doubt,"
+        },
+        {
+          "startSec": 79.1,
+          "endSec": 79.6,
+          "text": "leave"
+        },
+        {
+          "startSec": 79.6,
+          "endSec": 79.7,
+          "text": "it"
+        },
+        {
+          "startSec": 79.7,
+          "endSec": 80.3,
+          "text": "out."
+        },
+        {
+          "startSec": 80.3,
+          "endSec": 80.6,
+          "text": "We'll"
+        },
+        {
+          "startSec": 80.6,
+          "endSec": 80.8,
+          "text": "also"
+        },
+        {
+          "startSec": 80.8,
+          "endSec": 80.9,
+          "text": "be"
+        },
+        {
+          "startSec": 80.9,
+          "endSec": 81.3,
+          "text": "learning"
+        },
+        {
+          "startSec": 81.3,
+          "endSec": 81.5,
+          "text": "some"
+        },
+        {
+          "startSec": 81.5,
+          "endSec": 82,
+          "text": "useful"
+        },
+        {
+          "startSec": 82,
+          "endSec": 82.3,
+          "text": "new"
+        },
+        {
+          "startSec": 82.3,
+          "endSec": 82.7,
+          "text": "words"
+        }
+      ]
+    },
+    {
+      "startSec": 82.3,
+      "endSec": 89.4,
+      "text": "words and phrases, all of which you'll find on our website, bbclearningenglish.com. But before that,",
+      "words": [
+        {
+          "startSec": 82.3,
+          "endSec": 82.7,
+          "text": "words"
+        },
+        {
+          "startSec": 82.7,
+          "endSec": 82.9,
+          "text": "and"
+        },
+        {
+          "startSec": 82.9,
+          "endSec": 83.6,
+          "text": "phrases,"
+        },
+        {
+          "startSec": 83.6,
+          "endSec": 83.8,
+          "text": "all"
+        },
+        {
+          "startSec": 83.8,
+          "endSec": 84,
+          "text": "of"
+        },
+        {
+          "startSec": 84,
+          "endSec": 84.3,
+          "text": "which"
+        },
+        {
+          "startSec": 84.3,
+          "endSec": 84.8,
+          "text": "you'll"
+        },
+        {
+          "startSec": 84.8,
+          "endSec": 85.1,
+          "text": "find"
+        },
+        {
+          "startSec": 85.1,
+          "endSec": 85.2,
+          "text": "on"
+        },
+        {
+          "startSec": 85.2,
+          "endSec": 85.4,
+          "text": "our"
+        },
+        {
+          "startSec": 85.4,
+          "endSec": 86.1,
+          "text": "website,"
+        },
+        {
+          "startSec": 86.1,
+          "endSec": 88.1,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 88.1,
+          "endSec": 88.8,
+          "text": "But"
+        },
+        {
+          "startSec": 88.8,
+          "endSec": 89.2,
+          "text": "before"
+        },
+        {
+          "startSec": 89.2,
+          "endSec": 89.4,
+          "text": "that,"
+        },
+        {
+          "startSec": 89.4,
+          "endSec": 89.5,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 89.4,
+      "endSec": 96.6,
+      "text": "I have a question for you, Pippa. As mentioned, when foraging, you must know for certain what is",
+      "words": [
+        {
+          "startSec": 89.4,
+          "endSec": 89.5,
+          "text": "I"
+        },
+        {
+          "startSec": 89.5,
+          "endSec": 89.8,
+          "text": "have"
+        },
+        {
+          "startSec": 89.8,
+          "endSec": 89.9,
+          "text": "a"
+        },
+        {
+          "startSec": 89.9,
+          "endSec": 90.6,
+          "text": "question"
+        },
+        {
+          "startSec": 90.6,
+          "endSec": 90.8,
+          "text": "for"
+        },
+        {
+          "startSec": 90.8,
+          "endSec": 91.2,
+          "text": "you,"
+        },
+        {
+          "startSec": 91.2,
+          "endSec": 91.9,
+          "text": "Pippa."
+        },
+        {
+          "startSec": 91.9,
+          "endSec": 92,
+          "text": "As"
+        },
+        {
+          "startSec": 92,
+          "endSec": 92.9,
+          "text": "mentioned,"
+        },
+        {
+          "startSec": 92.9,
+          "endSec": 93.2,
+          "text": "when"
+        },
+        {
+          "startSec": 93.2,
+          "endSec": 94.1,
+          "text": "foraging,"
+        },
+        {
+          "startSec": 94.1,
+          "endSec": 94.4,
+          "text": "you"
+        },
+        {
+          "startSec": 94.4,
+          "endSec": 94.8,
+          "text": "must"
+        },
+        {
+          "startSec": 94.8,
+          "endSec": 95.2,
+          "text": "know"
+        },
+        {
+          "startSec": 95.2,
+          "endSec": 95.5,
+          "text": "for"
+        },
+        {
+          "startSec": 95.5,
+          "endSec": 96.2,
+          "text": "certain"
+        },
+        {
+          "startSec": 96.2,
+          "endSec": 96.5,
+          "text": "what"
+        },
+        {
+          "startSec": 96.5,
+          "endSec": 96.6,
+          "text": "is"
+        },
+        {
+          "startSec": 96.6,
+          "endSec": 97,
+          "text": "safe"
+        }
+      ]
+    },
+    {
+      "startSec": 96.6,
+      "endSec": 104.4,
+      "text": "safe to eat. Something definitely not safe to eat is the mushroom death cap. As the name suggests,",
+      "words": [
+        {
+          "startSec": 96.6,
+          "endSec": 97,
+          "text": "safe"
+        },
+        {
+          "startSec": 97,
+          "endSec": 97.2,
+          "text": "to"
+        },
+        {
+          "startSec": 97.2,
+          "endSec": 97.7,
+          "text": "eat."
+        },
+        {
+          "startSec": 97.7,
+          "endSec": 98.5,
+          "text": "Something"
+        },
+        {
+          "startSec": 98.5,
+          "endSec": 99.4,
+          "text": "definitely"
+        },
+        {
+          "startSec": 99.4,
+          "endSec": 99.7,
+          "text": "not"
+        },
+        {
+          "startSec": 99.7,
+          "endSec": 100.1,
+          "text": "safe"
+        },
+        {
+          "startSec": 100.1,
+          "endSec": 100.2,
+          "text": "to"
+        },
+        {
+          "startSec": 100.2,
+          "endSec": 100.5,
+          "text": "eat"
+        },
+        {
+          "startSec": 100.5,
+          "endSec": 100.7,
+          "text": "is"
+        },
+        {
+          "startSec": 100.7,
+          "endSec": 101,
+          "text": "the"
+        },
+        {
+          "startSec": 101,
+          "endSec": 101.7,
+          "text": "mushroom"
+        },
+        {
+          "startSec": 101.7,
+          "endSec": 102.1,
+          "text": "death"
+        },
+        {
+          "startSec": 102.1,
+          "endSec": 102.7,
+          "text": "cap."
+        },
+        {
+          "startSec": 102.7,
+          "endSec": 102.9,
+          "text": "As"
+        },
+        {
+          "startSec": 102.9,
+          "endSec": 103.1,
+          "text": "the"
+        },
+        {
+          "startSec": 103.1,
+          "endSec": 103.5,
+          "text": "name"
+        },
+        {
+          "startSec": 103.5,
+          "endSec": 104.4,
+          "text": "suggests,"
+        }
+      ]
+    },
+    {
+      "startSec": 104.4,
+      "endSec": 110.4,
+      "text": "it's one of the world's deadliest mushrooms, and it's common across the British Isles.",
+      "words": [
+        {
+          "startSec": 104.5,
+          "endSec": 104.7,
+          "text": "it's"
+        },
+        {
+          "startSec": 104.7,
+          "endSec": 104.9,
+          "text": "one"
+        },
+        {
+          "startSec": 104.9,
+          "endSec": 105.1,
+          "text": "of"
+        },
+        {
+          "startSec": 105.1,
+          "endSec": 105.3,
+          "text": "the"
+        },
+        {
+          "startSec": 105.3,
+          "endSec": 105.9,
+          "text": "world's"
+        },
+        {
+          "startSec": 105.9,
+          "endSec": 106.6,
+          "text": "deadliest"
+        },
+        {
+          "startSec": 106.6,
+          "endSec": 107.4,
+          "text": "mushrooms,"
+        },
+        {
+          "startSec": 107.4,
+          "endSec": 107.7,
+          "text": "and"
+        },
+        {
+          "startSec": 107.7,
+          "endSec": 108,
+          "text": "it's"
+        },
+        {
+          "startSec": 108,
+          "endSec": 108.4,
+          "text": "common"
+        },
+        {
+          "startSec": 108.4,
+          "endSec": 108.9,
+          "text": "across"
+        },
+        {
+          "startSec": 108.9,
+          "endSec": 109.1,
+          "text": "the"
+        },
+        {
+          "startSec": 109.1,
+          "endSec": 109.7,
+          "text": "British"
+        },
+        {
+          "startSec": 109.7,
+          "endSec": 110.4,
+          "text": "Isles."
+        },
+        {
+          "startSec": 110.4,
+          "endSec": 110.7,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 110.4,
+      "endSec": 118.5,
+      "text": "But what colour is it? Are death cap mushrooms A, brown, B, white, or C, red?",
+      "words": [
+        {
+          "startSec": 110.4,
+          "endSec": 110.7,
+          "text": "But"
+        },
+        {
+          "startSec": 110.7,
+          "endSec": 111,
+          "text": "what"
+        },
+        {
+          "startSec": 111,
+          "endSec": 111.5,
+          "text": "colour"
+        },
+        {
+          "startSec": 111.5,
+          "endSec": 111.7,
+          "text": "is"
+        },
+        {
+          "startSec": 111.7,
+          "endSec": 112.1,
+          "text": "it?"
+        },
+        {
+          "startSec": 112.1,
+          "endSec": 112.4,
+          "text": "Are"
+        },
+        {
+          "startSec": 112.4,
+          "endSec": 112.8,
+          "text": "death"
+        },
+        {
+          "startSec": 112.8,
+          "endSec": 113.1,
+          "text": "cap"
+        },
+        {
+          "startSec": 113.1,
+          "endSec": 113.9,
+          "text": "mushrooms"
+        },
+        {
+          "startSec": 113.9,
+          "endSec": 114.4,
+          "text": "A,"
+        },
+        {
+          "startSec": 114.4,
+          "endSec": 115.5,
+          "text": "brown,"
+        },
+        {
+          "startSec": 115.5,
+          "endSec": 115.9,
+          "text": "B,"
+        },
+        {
+          "startSec": 115.9,
+          "endSec": 116.9,
+          "text": "white,"
+        },
+        {
+          "startSec": 116.9,
+          "endSec": 117.2,
+          "text": "or"
+        },
+        {
+          "startSec": 117.2,
+          "endSec": 117.6,
+          "text": "C,"
+        },
+        {
+          "startSec": 117.6,
+          "endSec": 118.5,
+          "text": "red?"
+        },
+        {
+          "startSec": 118.5,
+          "endSec": 118.8,
+          "text": "I'm"
+        }
+      ]
+    },
+    {
+      "startSec": 118.5,
+      "endSec": 123,
+      "text": "I'm going to say if it's dangerous, maybe it's red.",
+      "words": [
+        {
+          "startSec": 118.5,
+          "endSec": 118.8,
+          "text": "I'm"
+        },
+        {
+          "startSec": 118.8,
+          "endSec": 119.3,
+          "text": "going"
+        },
+        {
+          "startSec": 119.3,
+          "endSec": 119.5,
+          "text": "to"
+        },
+        {
+          "startSec": 119.5,
+          "endSec": 119.8,
+          "text": "say"
+        },
+        {
+          "startSec": 119.8,
+          "endSec": 120,
+          "text": "if"
+        },
+        {
+          "startSec": 120,
+          "endSec": 120.4,
+          "text": "it's"
+        },
+        {
+          "startSec": 120.4,
+          "endSec": 121.5,
+          "text": "dangerous,"
+        },
+        {
+          "startSec": 121.5,
+          "endSec": 122,
+          "text": "maybe"
+        },
+        {
+          "startSec": 122,
+          "endSec": 122.4,
+          "text": "it's"
+        },
+        {
+          "startSec": 122.4,
+          "endSec": 123,
+          "text": "red."
+        },
+        {
+          "startSec": 123,
+          "endSec": 123.5,
+          "text": "Okay,"
+        }
+      ]
+    },
+    {
+      "startSec": 123,
+      "endSec": 126.4,
+      "text": "Okay, well, we'll find out later in the programme.",
+      "words": [
+        {
+          "startSec": 123,
+          "endSec": 123.5,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 123.5,
+          "endSec": 123.9,
+          "text": "well,"
+        },
+        {
+          "startSec": 123.9,
+          "endSec": 124.3,
+          "text": "we'll"
+        },
+        {
+          "startSec": 124.3,
+          "endSec": 124.5,
+          "text": "find"
+        },
+        {
+          "startSec": 124.5,
+          "endSec": 124.8,
+          "text": "out"
+        },
+        {
+          "startSec": 124.8,
+          "endSec": 125.1,
+          "text": "later"
+        },
+        {
+          "startSec": 125.1,
+          "endSec": 125.3,
+          "text": "in"
+        },
+        {
+          "startSec": 125.3,
+          "endSec": 125.5,
+          "text": "the"
+        },
+        {
+          "startSec": 125.5,
+          "endSec": 126.4,
+          "text": "programme."
+        },
+        {
+          "startSec": 126.4,
+          "endSec": 127.1,
+          "text": "First,"
+        }
+      ]
+    },
+    {
+      "startSec": 126.4,
+      "endSec": 133.9,
+      "text": "First, let's meet Roshana Gray, a wild food forager living in Cape Point, South Africa.",
+      "words": [
+        {
+          "startSec": 126.4,
+          "endSec": 127.1,
+          "text": "First,"
+        },
+        {
+          "startSec": 127.1,
+          "endSec": 127.6,
+          "text": "let's"
+        },
+        {
+          "startSec": 127.6,
+          "endSec": 127.9,
+          "text": "meet"
+        },
+        {
+          "startSec": 127.9,
+          "endSec": 128.6,
+          "text": "Roshana"
+        },
+        {
+          "startSec": 128.6,
+          "endSec": 129.2,
+          "text": "Gray,"
+        },
+        {
+          "startSec": 129.2,
+          "endSec": 129.3,
+          "text": "a"
+        },
+        {
+          "startSec": 129.3,
+          "endSec": 129.7,
+          "text": "wild"
+        },
+        {
+          "startSec": 129.7,
+          "endSec": 130.1,
+          "text": "food"
+        },
+        {
+          "startSec": 130.1,
+          "endSec": 130.7,
+          "text": "forager"
+        },
+        {
+          "startSec": 130.7,
+          "endSec": 131.3,
+          "text": "living"
+        },
+        {
+          "startSec": 131.3,
+          "endSec": 131.5,
+          "text": "in"
+        },
+        {
+          "startSec": 131.5,
+          "endSec": 131.9,
+          "text": "Cape"
+        },
+        {
+          "startSec": 131.9,
+          "endSec": 132.6,
+          "text": "Point,"
+        },
+        {
+          "startSec": 132.6,
+          "endSec": 133.1,
+          "text": "South"
+        },
+        {
+          "startSec": 133.1,
+          "endSec": 133.9,
+          "text": "Africa."
+        }
+      ]
+    },
+    {
+      "startSec": 133.9,
+      "endSec": 140.2,
+      "text": "Roshana learned how to forage from her mother-in-law, as she explains here to BBC World Service programme,",
+      "words": [
+        {
+          "startSec": 134,
+          "endSec": 134.4,
+          "text": "Roshana"
+        },
+        {
+          "startSec": 134.4,
+          "endSec": 134.9,
+          "text": "learned"
+        },
+        {
+          "startSec": 134.9,
+          "endSec": 135.1,
+          "text": "how"
+        },
+        {
+          "startSec": 135.1,
+          "endSec": 135.3,
+          "text": "to"
+        },
+        {
+          "startSec": 135.3,
+          "endSec": 135.7,
+          "text": "forage"
+        },
+        {
+          "startSec": 135.7,
+          "endSec": 136,
+          "text": "from"
+        },
+        {
+          "startSec": 136,
+          "endSec": 136.2,
+          "text": "her"
+        },
+        {
+          "startSec": 136.2,
+          "endSec": 137.2,
+          "text": "mother-in-law,"
+        },
+        {
+          "startSec": 137.2,
+          "endSec": 137.3,
+          "text": "as"
+        },
+        {
+          "startSec": 137.3,
+          "endSec": 137.5,
+          "text": "she"
+        },
+        {
+          "startSec": 137.5,
+          "endSec": 138,
+          "text": "explains"
+        },
+        {
+          "startSec": 138,
+          "endSec": 138.3,
+          "text": "here"
+        },
+        {
+          "startSec": 138.3,
+          "endSec": 138.5,
+          "text": "to"
+        },
+        {
+          "startSec": 138.5,
+          "endSec": 139,
+          "text": "BBC"
+        },
+        {
+          "startSec": 139,
+          "endSec": 139.4,
+          "text": "World"
+        },
+        {
+          "startSec": 139.4,
+          "endSec": 139.8,
+          "text": "Service"
+        },
+        {
+          "startSec": 139.8,
+          "endSec": 140.2,
+          "text": "programme,"
+        },
+        {
+          "startSec": 140.2,
+          "endSec": 140.5,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 140.2,
+      "endSec": 145.4,
+      "text": "the conversation. So she is a horticulturist. She has a deep knowledge of plants,",
+      "words": [
+        {
+          "startSec": 140.2,
+          "endSec": 140.5,
+          "text": "the"
+        },
+        {
+          "startSec": 140.5,
+          "endSec": 141.5,
+          "text": "conversation."
+        },
+        {
+          "startSec": 141.5,
+          "endSec": 141.7,
+          "text": "So"
+        },
+        {
+          "startSec": 141.7,
+          "endSec": 141.9,
+          "text": "she"
+        },
+        {
+          "startSec": 141.9,
+          "endSec": 142,
+          "text": "is"
+        },
+        {
+          "startSec": 142,
+          "endSec": 142.1,
+          "text": "a"
+        },
+        {
+          "startSec": 142.1,
+          "endSec": 143.3,
+          "text": "horticulturist."
+        },
+        {
+          "startSec": 143.3,
+          "endSec": 143.5,
+          "text": "She"
+        },
+        {
+          "startSec": 143.5,
+          "endSec": 143.8,
+          "text": "has"
+        },
+        {
+          "startSec": 143.8,
+          "endSec": 143.8,
+          "text": "a"
+        },
+        {
+          "startSec": 143.8,
+          "endSec": 144.1,
+          "text": "deep"
+        },
+        {
+          "startSec": 144.1,
+          "endSec": 144.8,
+          "text": "knowledge"
+        },
+        {
+          "startSec": 144.8,
+          "endSec": 144.9,
+          "text": "of"
+        },
+        {
+          "startSec": 144.9,
+          "endSec": 145.4,
+          "text": "plants,"
+        },
+        {
+          "startSec": 145.4,
+          "endSec": 145.7,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 145.4,
+      "endSec": 152.2,
+      "text": "and so I would be kind of scanning the landscape and learning about these new plants, all new to me,",
+      "words": [
+        {
+          "startSec": 145.4,
+          "endSec": 145.7,
+          "text": "and"
+        },
+        {
+          "startSec": 145.7,
+          "endSec": 145.9,
+          "text": "so"
+        },
+        {
+          "startSec": 145.9,
+          "endSec": 146,
+          "text": "I"
+        },
+        {
+          "startSec": 146,
+          "endSec": 146.4,
+          "text": "would"
+        },
+        {
+          "startSec": 146.4,
+          "endSec": 146.6,
+          "text": "be"
+        },
+        {
+          "startSec": 146.6,
+          "endSec": 146.9,
+          "text": "kind"
+        },
+        {
+          "startSec": 146.9,
+          "endSec": 147.1,
+          "text": "of"
+        },
+        {
+          "startSec": 147.1,
+          "endSec": 147.8,
+          "text": "scanning"
+        },
+        {
+          "startSec": 147.8,
+          "endSec": 148,
+          "text": "the"
+        },
+        {
+          "startSec": 148,
+          "endSec": 148.8,
+          "text": "landscape"
+        },
+        {
+          "startSec": 148.8,
+          "endSec": 149.1,
+          "text": "and"
+        },
+        {
+          "startSec": 149.1,
+          "endSec": 149.8,
+          "text": "learning"
+        },
+        {
+          "startSec": 149.8,
+          "endSec": 150.3,
+          "text": "about"
+        },
+        {
+          "startSec": 150.3,
+          "endSec": 150.6,
+          "text": "these"
+        },
+        {
+          "startSec": 150.6,
+          "endSec": 150.9,
+          "text": "new"
+        },
+        {
+          "startSec": 150.9,
+          "endSec": 151.5,
+          "text": "plants,"
+        },
+        {
+          "startSec": 151.5,
+          "endSec": 151.7,
+          "text": "all"
+        },
+        {
+          "startSec": 151.7,
+          "endSec": 151.9,
+          "text": "new"
+        },
+        {
+          "startSec": 151.9,
+          "endSec": 152.1,
+          "text": "to"
+        },
+        {
+          "startSec": 152.1,
+          "endSec": 152.2,
+          "text": "me,"
+        },
+        {
+          "startSec": 152.2,
+          "endSec": 152.5,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 152.2,
+      "endSec": 158.6,
+      "text": "and wondering if you could eat them. Something that's incredibly important and foraging is to know",
+      "words": [
+        {
+          "startSec": 152.2,
+          "endSec": 152.5,
+          "text": "and"
+        },
+        {
+          "startSec": 152.5,
+          "endSec": 153.1,
+          "text": "wondering"
+        },
+        {
+          "startSec": 153.1,
+          "endSec": 153.2,
+          "text": "if"
+        },
+        {
+          "startSec": 153.2,
+          "endSec": 153.4,
+          "text": "you"
+        },
+        {
+          "startSec": 153.4,
+          "endSec": 153.8,
+          "text": "could"
+        },
+        {
+          "startSec": 153.8,
+          "endSec": 154,
+          "text": "eat"
+        },
+        {
+          "startSec": 154,
+          "endSec": 154.5,
+          "text": "them."
+        },
+        {
+          "startSec": 154.5,
+          "endSec": 155.1,
+          "text": "Something"
+        },
+        {
+          "startSec": 155.1,
+          "endSec": 155.5,
+          "text": "that's"
+        },
+        {
+          "startSec": 155.5,
+          "endSec": 156.2,
+          "text": "incredibly"
+        },
+        {
+          "startSec": 156.2,
+          "endSec": 156.6,
+          "text": "important"
+        },
+        {
+          "startSec": 156.6,
+          "endSec": 156.8,
+          "text": "and"
+        },
+        {
+          "startSec": 156.8,
+          "endSec": 157.4,
+          "text": "foraging"
+        },
+        {
+          "startSec": 157.4,
+          "endSec": 157.8,
+          "text": "is"
+        },
+        {
+          "startSec": 157.8,
+          "endSec": 157.9,
+          "text": "to"
+        },
+        {
+          "startSec": 157.9,
+          "endSec": 158.6,
+          "text": "know"
+        }
+      ]
+    },
+    {
+      "startSec": 158.6,
+      "endSec": 164.6,
+      "text": "110% if you can eat it. Positive identification of the plant, and so she was my plant person.",
+      "words": [
+        {
+          "startSec": 158.7,
+          "endSec": 159.2,
+          "text": "110%"
+        },
+        {
+          "startSec": 159.2,
+          "endSec": 159.4,
+          "text": "if"
+        },
+        {
+          "startSec": 159.4,
+          "endSec": 159.6,
+          "text": "you"
+        },
+        {
+          "startSec": 159.6,
+          "endSec": 159.8,
+          "text": "can"
+        },
+        {
+          "startSec": 159.8,
+          "endSec": 160,
+          "text": "eat"
+        },
+        {
+          "startSec": 160,
+          "endSec": 160.3,
+          "text": "it."
+        },
+        {
+          "startSec": 160.3,
+          "endSec": 160.9,
+          "text": "Positive"
+        },
+        {
+          "startSec": 160.9,
+          "endSec": 161.8,
+          "text": "identification"
+        },
+        {
+          "startSec": 161.8,
+          "endSec": 161.9,
+          "text": "of"
+        },
+        {
+          "startSec": 161.9,
+          "endSec": 162.1,
+          "text": "the"
+        },
+        {
+          "startSec": 162.1,
+          "endSec": 162.6,
+          "text": "plant,"
+        },
+        {
+          "startSec": 162.6,
+          "endSec": 162.8,
+          "text": "and"
+        },
+        {
+          "startSec": 162.8,
+          "endSec": 162.9,
+          "text": "so"
+        },
+        {
+          "startSec": 162.9,
+          "endSec": 163.1,
+          "text": "she"
+        },
+        {
+          "startSec": 163.1,
+          "endSec": 163.3,
+          "text": "was"
+        },
+        {
+          "startSec": 163.3,
+          "endSec": 163.5,
+          "text": "my"
+        },
+        {
+          "startSec": 163.5,
+          "endSec": 163.8,
+          "text": "plant"
+        },
+        {
+          "startSec": 163.8,
+          "endSec": 164.6,
+          "text": "person."
+        },
+        {
+          "startSec": 164.6,
+          "endSec": 165.2,
+          "text": "Roshana's"
+        }
+      ]
+    },
+    {
+      "startSec": 164.6,
+      "endSec": 170.2,
+      "text": "Roshana's mother-in-law is a horticulturist, a person who studies or grows plants such as",
+      "words": [
+        {
+          "startSec": 164.6,
+          "endSec": 165.2,
+          "text": "Roshana's"
+        },
+        {
+          "startSec": 165.2,
+          "endSec": 166.1,
+          "text": "mother-in-law"
+        },
+        {
+          "startSec": 166.1,
+          "endSec": 166.3,
+          "text": "is"
+        },
+        {
+          "startSec": 166.3,
+          "endSec": 166.3,
+          "text": "a"
+        },
+        {
+          "startSec": 166.3,
+          "endSec": 167.5,
+          "text": "horticulturist,"
+        },
+        {
+          "startSec": 167.5,
+          "endSec": 167.6,
+          "text": "a"
+        },
+        {
+          "startSec": 167.6,
+          "endSec": 168,
+          "text": "person"
+        },
+        {
+          "startSec": 168,
+          "endSec": 168.2,
+          "text": "who"
+        },
+        {
+          "startSec": 168.2,
+          "endSec": 168.7,
+          "text": "studies"
+        },
+        {
+          "startSec": 168.7,
+          "endSec": 168.9,
+          "text": "or"
+        },
+        {
+          "startSec": 168.9,
+          "endSec": 169.3,
+          "text": "grows"
+        },
+        {
+          "startSec": 169.3,
+          "endSec": 169.8,
+          "text": "plants"
+        },
+        {
+          "startSec": 169.8,
+          "endSec": 170,
+          "text": "such"
+        },
+        {
+          "startSec": 170,
+          "endSec": 170.2,
+          "text": "as"
+        },
+        {
+          "startSec": 170.2,
+          "endSec": 170.9,
+          "text": "flowers,"
+        }
+      ]
+    },
+    {
+      "startSec": 170.2,
+      "endSec": 176.6,
+      "text": "flowers, fruits, and vegetables. She has a deep knowledge of the wild plants growing in nature.",
+      "words": [
+        {
+          "startSec": 170.2,
+          "endSec": 170.9,
+          "text": "flowers,"
+        },
+        {
+          "startSec": 170.9,
+          "endSec": 171.5,
+          "text": "fruits,"
+        },
+        {
+          "startSec": 171.5,
+          "endSec": 171.7,
+          "text": "and"
+        },
+        {
+          "startSec": 171.7,
+          "endSec": 172.6,
+          "text": "vegetables."
+        },
+        {
+          "startSec": 172.6,
+          "endSec": 172.8,
+          "text": "She"
+        },
+        {
+          "startSec": 172.8,
+          "endSec": 173,
+          "text": "has"
+        },
+        {
+          "startSec": 173,
+          "endSec": 173.1,
+          "text": "a"
+        },
+        {
+          "startSec": 173.1,
+          "endSec": 173.4,
+          "text": "deep"
+        },
+        {
+          "startSec": 173.4,
+          "endSec": 174,
+          "text": "knowledge"
+        },
+        {
+          "startSec": 174,
+          "endSec": 174.2,
+          "text": "of"
+        },
+        {
+          "startSec": 174.2,
+          "endSec": 174.4,
+          "text": "the"
+        },
+        {
+          "startSec": 174.4,
+          "endSec": 174.7,
+          "text": "wild"
+        },
+        {
+          "startSec": 174.7,
+          "endSec": 175.1,
+          "text": "plants"
+        },
+        {
+          "startSec": 175.1,
+          "endSec": 175.7,
+          "text": "growing"
+        },
+        {
+          "startSec": 175.7,
+          "endSec": 175.9,
+          "text": "in"
+        },
+        {
+          "startSec": 175.9,
+          "endSec": 176.6,
+          "text": "nature."
+        },
+        {
+          "startSec": 176.6,
+          "endSec": 176.7,
+          "text": "A"
+        }
+      ]
+    },
+    {
+      "startSec": 176.6,
+      "endSec": 182.4,
+      "text": "A deep knowledge means a thorough understanding of a subject gained from experience and study,",
+      "words": [
+        {
+          "startSec": 176.6,
+          "endSec": 176.7,
+          "text": "A"
+        },
+        {
+          "startSec": 176.7,
+          "endSec": 177,
+          "text": "deep"
+        },
+        {
+          "startSec": 177,
+          "endSec": 177.6,
+          "text": "knowledge"
+        },
+        {
+          "startSec": 177.6,
+          "endSec": 177.9,
+          "text": "means"
+        },
+        {
+          "startSec": 177.9,
+          "endSec": 178,
+          "text": "a"
+        },
+        {
+          "startSec": 178,
+          "endSec": 178.5,
+          "text": "thorough"
+        },
+        {
+          "startSec": 178.5,
+          "endSec": 179.4,
+          "text": "understanding"
+        },
+        {
+          "startSec": 179.4,
+          "endSec": 179.6,
+          "text": "of"
+        },
+        {
+          "startSec": 179.6,
+          "endSec": 179.6,
+          "text": "a"
+        },
+        {
+          "startSec": 179.6,
+          "endSec": 180.2,
+          "text": "subject"
+        },
+        {
+          "startSec": 180.2,
+          "endSec": 180.5,
+          "text": "gained"
+        },
+        {
+          "startSec": 180.5,
+          "endSec": 180.7,
+          "text": "from"
+        },
+        {
+          "startSec": 180.7,
+          "endSec": 181.7,
+          "text": "experience"
+        },
+        {
+          "startSec": 181.7,
+          "endSec": 181.9,
+          "text": "and"
+        },
+        {
+          "startSec": 181.9,
+          "endSec": 182.4,
+          "text": "study,"
+        }
+      ]
+    },
+    {
+      "startSec": 182.4,
+      "endSec": 189.5,
+      "text": "not just knowing the basic facts. One skill foragers need is scanning the landscape. Scanning means",
+      "words": [
+        {
+          "startSec": 182.5,
+          "endSec": 182.6,
+          "text": "not"
+        },
+        {
+          "startSec": 182.6,
+          "endSec": 183,
+          "text": "just"
+        },
+        {
+          "startSec": 183,
+          "endSec": 183.5,
+          "text": "knowing"
+        },
+        {
+          "startSec": 183.5,
+          "endSec": 183.8,
+          "text": "the"
+        },
+        {
+          "startSec": 183.8,
+          "endSec": 184.2,
+          "text": "basic"
+        },
+        {
+          "startSec": 184.2,
+          "endSec": 184.8,
+          "text": "facts."
+        },
+        {
+          "startSec": 184.8,
+          "endSec": 185.1,
+          "text": "One"
+        },
+        {
+          "startSec": 185.1,
+          "endSec": 185.5,
+          "text": "skill"
+        },
+        {
+          "startSec": 185.5,
+          "endSec": 186.1,
+          "text": "foragers"
+        },
+        {
+          "startSec": 186.1,
+          "endSec": 186.4,
+          "text": "need"
+        },
+        {
+          "startSec": 186.4,
+          "endSec": 186.6,
+          "text": "is"
+        },
+        {
+          "startSec": 186.6,
+          "endSec": 187.3,
+          "text": "scanning"
+        },
+        {
+          "startSec": 187.3,
+          "endSec": 187.5,
+          "text": "the"
+        },
+        {
+          "startSec": 187.5,
+          "endSec": 188.6,
+          "text": "landscape."
+        },
+        {
+          "startSec": 188.6,
+          "endSec": 189,
+          "text": "Scanning"
+        },
+        {
+          "startSec": 189,
+          "endSec": 189.5,
+          "text": "means"
+        },
+        {
+          "startSec": 189.5,
+          "endSec": 190.2,
+          "text": "searching"
+        }
+      ]
+    },
+    {
+      "startSec": 189.5,
+      "endSec": 195.6,
+      "text": "searching a wide area with your eyes to find some particular thing. In this case, edible plants",
+      "words": [
+        {
+          "startSec": 189.5,
+          "endSec": 190.2,
+          "text": "searching"
+        },
+        {
+          "startSec": 190.2,
+          "endSec": 190.3,
+          "text": "a"
+        },
+        {
+          "startSec": 190.3,
+          "endSec": 190.6,
+          "text": "wide"
+        },
+        {
+          "startSec": 190.6,
+          "endSec": 190.9,
+          "text": "area"
+        },
+        {
+          "startSec": 190.9,
+          "endSec": 191.2,
+          "text": "with"
+        },
+        {
+          "startSec": 191.2,
+          "endSec": 191.5,
+          "text": "your"
+        },
+        {
+          "startSec": 191.5,
+          "endSec": 191.8,
+          "text": "eyes"
+        },
+        {
+          "startSec": 191.8,
+          "endSec": 191.9,
+          "text": "to"
+        },
+        {
+          "startSec": 191.9,
+          "endSec": 192.2,
+          "text": "find"
+        },
+        {
+          "startSec": 192.2,
+          "endSec": 192.5,
+          "text": "some"
+        },
+        {
+          "startSec": 192.5,
+          "endSec": 193.3,
+          "text": "particular"
+        },
+        {
+          "startSec": 193.3,
+          "endSec": 194,
+          "text": "thing."
+        },
+        {
+          "startSec": 194,
+          "endSec": 194.1,
+          "text": "In"
+        },
+        {
+          "startSec": 194.1,
+          "endSec": 194.4,
+          "text": "this"
+        },
+        {
+          "startSec": 194.4,
+          "endSec": 194.7,
+          "text": "case,"
+        },
+        {
+          "startSec": 194.7,
+          "endSec": 195.1,
+          "text": "edible"
+        },
+        {
+          "startSec": 195.1,
+          "endSec": 195.6,
+          "text": "plants"
+        },
+        {
+          "startSec": 195.6,
+          "endSec": 195.8,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 195.6,
+      "endSec": 201.9,
+      "text": "and herbs. And of course, Roshana only eats plants that she can positively identify. Plants that she",
+      "words": [
+        {
+          "startSec": 195.6,
+          "endSec": 195.8,
+          "text": "and"
+        },
+        {
+          "startSec": 195.8,
+          "endSec": 196.4,
+          "text": "herbs."
+        },
+        {
+          "startSec": 196.4,
+          "endSec": 196.6,
+          "text": "And"
+        },
+        {
+          "startSec": 196.6,
+          "endSec": 196.7,
+          "text": "of"
+        },
+        {
+          "startSec": 196.7,
+          "endSec": 197.3,
+          "text": "course,"
+        },
+        {
+          "startSec": 197.3,
+          "endSec": 197.8,
+          "text": "Roshana"
+        },
+        {
+          "startSec": 197.8,
+          "endSec": 198.1,
+          "text": "only"
+        },
+        {
+          "startSec": 198.1,
+          "endSec": 198.4,
+          "text": "eats"
+        },
+        {
+          "startSec": 198.4,
+          "endSec": 198.8,
+          "text": "plants"
+        },
+        {
+          "startSec": 198.8,
+          "endSec": 199.1,
+          "text": "that"
+        },
+        {
+          "startSec": 199.1,
+          "endSec": 199.3,
+          "text": "she"
+        },
+        {
+          "startSec": 199.3,
+          "endSec": 199.5,
+          "text": "can"
+        },
+        {
+          "startSec": 199.5,
+          "endSec": 200.2,
+          "text": "positively"
+        },
+        {
+          "startSec": 200.2,
+          "endSec": 201.1,
+          "text": "identify."
+        },
+        {
+          "startSec": 201.1,
+          "endSec": 201.5,
+          "text": "Plants"
+        },
+        {
+          "startSec": 201.5,
+          "endSec": 201.7,
+          "text": "that"
+        },
+        {
+          "startSec": 201.7,
+          "endSec": 201.9,
+          "text": "she"
+        },
+        {
+          "startSec": 201.9,
+          "endSec": 202.4,
+          "text": "knows"
+        }
+      ]
+    },
+    {
+      "startSec": 201.9,
+      "endSec": 211,
+      "text": "knows 110% are safe to eat. Here the idiom 110% means Roshana is completely short, she has no doubt.",
+      "words": [
+        {
+          "startSec": 201.9,
+          "endSec": 202.4,
+          "text": "knows"
+        },
+        {
+          "startSec": 202.4,
+          "endSec": 203.2,
+          "text": "110%"
+        },
+        {
+          "startSec": 203.2,
+          "endSec": 203.5,
+          "text": "are"
+        },
+        {
+          "startSec": 203.5,
+          "endSec": 203.8,
+          "text": "safe"
+        },
+        {
+          "startSec": 203.8,
+          "endSec": 204,
+          "text": "to"
+        },
+        {
+          "startSec": 204,
+          "endSec": 204.5,
+          "text": "eat."
+        },
+        {
+          "startSec": 204.5,
+          "endSec": 204.9,
+          "text": "Here"
+        },
+        {
+          "startSec": 204.9,
+          "endSec": 205.1,
+          "text": "the"
+        },
+        {
+          "startSec": 205.1,
+          "endSec": 205.6,
+          "text": "idiom"
+        },
+        {
+          "startSec": 205.6,
+          "endSec": 206.4,
+          "text": "110%"
+        },
+        {
+          "startSec": 206.4,
+          "endSec": 206.9,
+          "text": "means"
+        },
+        {
+          "startSec": 206.9,
+          "endSec": 207.5,
+          "text": "Roshana"
+        },
+        {
+          "startSec": 207.5,
+          "endSec": 207.7,
+          "text": "is"
+        },
+        {
+          "startSec": 207.7,
+          "endSec": 208.5,
+          "text": "completely"
+        },
+        {
+          "startSec": 208.5,
+          "endSec": 209.2,
+          "text": "short,"
+        },
+        {
+          "startSec": 209.2,
+          "endSec": 209.8,
+          "text": "she"
+        },
+        {
+          "startSec": 209.8,
+          "endSec": 209.9,
+          "text": "has"
+        },
+        {
+          "startSec": 209.9,
+          "endSec": 210.1,
+          "text": "no"
+        },
+        {
+          "startSec": 210.1,
+          "endSec": 211,
+          "text": "doubt."
+        },
+        {
+          "startSec": 211,
+          "endSec": 211.1,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 211,
+      "endSec": 216.2,
+      "text": "And that's important as the consequences of eating poisonous plants are serious, sickness,",
+      "words": [
+        {
+          "startSec": 211,
+          "endSec": 211.1,
+          "text": "And"
+        },
+        {
+          "startSec": 211.1,
+          "endSec": 211.5,
+          "text": "that's"
+        },
+        {
+          "startSec": 211.5,
+          "endSec": 212.1,
+          "text": "important"
+        },
+        {
+          "startSec": 212.1,
+          "endSec": 212.2,
+          "text": "as"
+        },
+        {
+          "startSec": 212.2,
+          "endSec": 212.4,
+          "text": "the"
+        },
+        {
+          "startSec": 212.4,
+          "endSec": 213.1,
+          "text": "consequences"
+        },
+        {
+          "startSec": 213.1,
+          "endSec": 213.2,
+          "text": "of"
+        },
+        {
+          "startSec": 213.2,
+          "endSec": 213.6,
+          "text": "eating"
+        },
+        {
+          "startSec": 213.6,
+          "endSec": 214.1,
+          "text": "poisonous"
+        },
+        {
+          "startSec": 214.1,
+          "endSec": 214.6,
+          "text": "plants"
+        },
+        {
+          "startSec": 214.6,
+          "endSec": 214.8,
+          "text": "are"
+        },
+        {
+          "startSec": 214.8,
+          "endSec": 215.7,
+          "text": "serious,"
+        },
+        {
+          "startSec": 215.7,
+          "endSec": 216.2,
+          "text": "sickness,"
+        },
+        {
+          "startSec": 216.2,
+          "endSec": 216.4,
+          "text": "or"
+        }
+      ]
+    },
+    {
+      "startSec": 216.2,
+      "endSec": 223.6,
+      "text": "or even death. Our second female forager, Emily Smith, moved to rural Japan to work on a project",
+      "words": [
+        {
+          "startSec": 216.2,
+          "endSec": 216.4,
+          "text": "or"
+        },
+        {
+          "startSec": 216.4,
+          "endSec": 216.8,
+          "text": "even"
+        },
+        {
+          "startSec": 216.8,
+          "endSec": 217.5,
+          "text": "death."
+        },
+        {
+          "startSec": 217.5,
+          "endSec": 217.7,
+          "text": "Our"
+        },
+        {
+          "startSec": 217.7,
+          "endSec": 218.2,
+          "text": "second"
+        },
+        {
+          "startSec": 218.2,
+          "endSec": 218.8,
+          "text": "female"
+        },
+        {
+          "startSec": 218.8,
+          "endSec": 219.5,
+          "text": "forager,"
+        },
+        {
+          "startSec": 219.5,
+          "endSec": 220,
+          "text": "Emily"
+        },
+        {
+          "startSec": 220,
+          "endSec": 220.6,
+          "text": "Smith,"
+        },
+        {
+          "startSec": 220.6,
+          "endSec": 221.1,
+          "text": "moved"
+        },
+        {
+          "startSec": 221.1,
+          "endSec": 221.3,
+          "text": "to"
+        },
+        {
+          "startSec": 221.3,
+          "endSec": 221.8,
+          "text": "rural"
+        },
+        {
+          "startSec": 221.8,
+          "endSec": 222.2,
+          "text": "Japan"
+        },
+        {
+          "startSec": 222.2,
+          "endSec": 222.4,
+          "text": "to"
+        },
+        {
+          "startSec": 222.4,
+          "endSec": 222.7,
+          "text": "work"
+        },
+        {
+          "startSec": 222.7,
+          "endSec": 222.9,
+          "text": "on"
+        },
+        {
+          "startSec": 222.9,
+          "endSec": 223,
+          "text": "a"
+        },
+        {
+          "startSec": 223,
+          "endSec": 223.6,
+          "text": "project"
+        },
+        {
+          "startSec": 223.6,
+          "endSec": 224.4,
+          "text": "cataloging"
+        }
+      ]
+    },
+    {
+      "startSec": 223.6,
+      "endSec": 232.1,
+      "text": "cataloging and collecting wild mushrooms. With around 5,000 varieties, 300 of which are edible,",
+      "words": [
+        {
+          "startSec": 223.6,
+          "endSec": 224.4,
+          "text": "cataloging"
+        },
+        {
+          "startSec": 224.4,
+          "endSec": 224.7,
+          "text": "and"
+        },
+        {
+          "startSec": 224.7,
+          "endSec": 225.5,
+          "text": "collecting"
+        },
+        {
+          "startSec": 225.5,
+          "endSec": 225.8,
+          "text": "wild"
+        },
+        {
+          "startSec": 225.8,
+          "endSec": 226.8,
+          "text": "mushrooms."
+        },
+        {
+          "startSec": 226.8,
+          "endSec": 227.1,
+          "text": "With"
+        },
+        {
+          "startSec": 227.1,
+          "endSec": 227.6,
+          "text": "around"
+        },
+        {
+          "startSec": 227.6,
+          "endSec": 228.8,
+          "text": "5,000"
+        },
+        {
+          "startSec": 228.8,
+          "endSec": 229.8,
+          "text": "varieties,"
+        },
+        {
+          "startSec": 229.8,
+          "endSec": 230.5,
+          "text": "300"
+        },
+        {
+          "startSec": 230.5,
+          "endSec": 230.6,
+          "text": "of"
+        },
+        {
+          "startSec": 230.6,
+          "endSec": 230.9,
+          "text": "which"
+        },
+        {
+          "startSec": 230.9,
+          "endSec": 231.6,
+          "text": "are"
+        },
+        {
+          "startSec": 231.6,
+          "endSec": 232.1,
+          "text": "edible,"
+        },
+        {
+          "startSec": 232.1,
+          "endSec": 232.8,
+          "text": "mushrooms"
+        }
+      ]
+    },
+    {
+      "startSec": 232.1,
+      "endSec": 238.8,
+      "text": "mushrooms are an important part of traditional Japanese cooking. But with names like death cap",
+      "words": [
+        {
+          "startSec": 232.1,
+          "endSec": 232.8,
+          "text": "mushrooms"
+        },
+        {
+          "startSec": 232.8,
+          "endSec": 233,
+          "text": "are"
+        },
+        {
+          "startSec": 233,
+          "endSec": 233.1,
+          "text": "an"
+        },
+        {
+          "startSec": 233.1,
+          "endSec": 233.8,
+          "text": "important"
+        },
+        {
+          "startSec": 233.8,
+          "endSec": 234.1,
+          "text": "part"
+        },
+        {
+          "startSec": 234.1,
+          "endSec": 234.2,
+          "text": "of"
+        },
+        {
+          "startSec": 234.2,
+          "endSec": 235,
+          "text": "traditional"
+        },
+        {
+          "startSec": 235,
+          "endSec": 235.6,
+          "text": "Japanese"
+        },
+        {
+          "startSec": 235.6,
+          "endSec": 236.4,
+          "text": "cooking."
+        },
+        {
+          "startSec": 236.4,
+          "endSec": 236.7,
+          "text": "But"
+        },
+        {
+          "startSec": 236.7,
+          "endSec": 237.1,
+          "text": "with"
+        },
+        {
+          "startSec": 237.1,
+          "endSec": 237.5,
+          "text": "names"
+        },
+        {
+          "startSec": 237.5,
+          "endSec": 237.9,
+          "text": "like"
+        },
+        {
+          "startSec": 237.9,
+          "endSec": 238.2,
+          "text": "death"
+        },
+        {
+          "startSec": 238.2,
+          "endSec": 238.8,
+          "text": "cap"
+        }
+      ]
+    },
+    {
+      "startSec": 238.8,
+      "endSec": 245.6,
+      "text": "and a reputation for being poisonous, mushrooms are what many wild foragers worry about the most.",
+      "words": [
+        {
+          "startSec": 238.9,
+          "endSec": 239,
+          "text": "and"
+        },
+        {
+          "startSec": 239,
+          "endSec": 239.1,
+          "text": "a"
+        },
+        {
+          "startSec": 239.1,
+          "endSec": 240,
+          "text": "reputation"
+        },
+        {
+          "startSec": 240,
+          "endSec": 240.2,
+          "text": "for"
+        },
+        {
+          "startSec": 240.2,
+          "endSec": 240.6,
+          "text": "being"
+        },
+        {
+          "startSec": 240.6,
+          "endSec": 241.5,
+          "text": "poisonous,"
+        },
+        {
+          "startSec": 241.5,
+          "endSec": 242.2,
+          "text": "mushrooms"
+        },
+        {
+          "startSec": 242.2,
+          "endSec": 242.5,
+          "text": "are"
+        },
+        {
+          "startSec": 242.5,
+          "endSec": 242.8,
+          "text": "what"
+        },
+        {
+          "startSec": 242.8,
+          "endSec": 243.1,
+          "text": "many"
+        },
+        {
+          "startSec": 243.1,
+          "endSec": 243.5,
+          "text": "wild"
+        },
+        {
+          "startSec": 243.5,
+          "endSec": 244.1,
+          "text": "foragers"
+        },
+        {
+          "startSec": 244.1,
+          "endSec": 244.5,
+          "text": "worry"
+        },
+        {
+          "startSec": 244.5,
+          "endSec": 244.9,
+          "text": "about"
+        },
+        {
+          "startSec": 244.9,
+          "endSec": 245.3,
+          "text": "the"
+        },
+        {
+          "startSec": 245.3,
+          "endSec": 245.6,
+          "text": "most."
+        },
+        {
+          "startSec": 245.6,
+          "endSec": 246.2,
+          "text": "Emily,"
+        }
+      ]
+    },
+    {
+      "startSec": 245.6,
+      "endSec": 251.6,
+      "text": "Emily, discuss these worries with BBC World Service programme, The Conversation.",
+      "words": [
+        {
+          "startSec": 245.6,
+          "endSec": 246.2,
+          "text": "Emily,"
+        },
+        {
+          "startSec": 246.2,
+          "endSec": 246.7,
+          "text": "discuss"
+        },
+        {
+          "startSec": 246.7,
+          "endSec": 247.2,
+          "text": "these"
+        },
+        {
+          "startSec": 247.2,
+          "endSec": 247.7,
+          "text": "worries"
+        },
+        {
+          "startSec": 247.7,
+          "endSec": 248.1,
+          "text": "with"
+        },
+        {
+          "startSec": 248.1,
+          "endSec": 248.3,
+          "text": "BBC"
+        },
+        {
+          "startSec": 248.3,
+          "endSec": 248.7,
+          "text": "World"
+        },
+        {
+          "startSec": 248.7,
+          "endSec": 249.3,
+          "text": "Service"
+        },
+        {
+          "startSec": 249.3,
+          "endSec": 250.2,
+          "text": "programme,"
+        },
+        {
+          "startSec": 250.2,
+          "endSec": 250.5,
+          "text": "The"
+        },
+        {
+          "startSec": 250.5,
+          "endSec": 251.6,
+          "text": "Conversation."
+        },
+        {
+          "startSec": 251.6,
+          "endSec": 251.9,
+          "text": "That"
+        }
+      ]
+    },
+    {
+      "startSec": 251.6,
+      "endSec": 257.5,
+      "text": "That stigma is a bit misplaced, I think, because plants can be just as dangerous, if not more",
+      "words": [
+        {
+          "startSec": 251.6,
+          "endSec": 251.9,
+          "text": "That"
+        },
+        {
+          "startSec": 251.9,
+          "endSec": 252.4,
+          "text": "stigma"
+        },
+        {
+          "startSec": 252.4,
+          "endSec": 252.6,
+          "text": "is"
+        },
+        {
+          "startSec": 252.6,
+          "endSec": 252.7,
+          "text": "a"
+        },
+        {
+          "startSec": 252.7,
+          "endSec": 252.9,
+          "text": "bit"
+        },
+        {
+          "startSec": 252.9,
+          "endSec": 253.8,
+          "text": "misplaced,"
+        },
+        {
+          "startSec": 253.8,
+          "endSec": 253.9,
+          "text": "I"
+        },
+        {
+          "startSec": 253.9,
+          "endSec": 254.5,
+          "text": "think,"
+        },
+        {
+          "startSec": 254.5,
+          "endSec": 255.1,
+          "text": "because"
+        },
+        {
+          "startSec": 255.1,
+          "endSec": 255.6,
+          "text": "plants"
+        },
+        {
+          "startSec": 255.6,
+          "endSec": 255.8,
+          "text": "can"
+        },
+        {
+          "startSec": 255.8,
+          "endSec": 256.1,
+          "text": "be"
+        },
+        {
+          "startSec": 256.1,
+          "endSec": 256.3,
+          "text": "just"
+        },
+        {
+          "startSec": 256.3,
+          "endSec": 256.4,
+          "text": "as"
+        },
+        {
+          "startSec": 256.4,
+          "endSec": 257,
+          "text": "dangerous,"
+        },
+        {
+          "startSec": 257,
+          "endSec": 257,
+          "text": "if"
+        },
+        {
+          "startSec": 257,
+          "endSec": 257.3,
+          "text": "not"
+        },
+        {
+          "startSec": 257.3,
+          "endSec": 257.5,
+          "text": "more"
+        },
+        {
+          "startSec": 257.5,
+          "endSec": 258.1,
+          "text": "dangerous,"
+        }
+      ]
+    },
+    {
+      "startSec": 257.5,
+      "endSec": 262.3,
+      "text": "dangerous, than mushrooms. And I think that mushrooms have been much maligned. I mean,",
+      "words": [
+        {
+          "startSec": 257.5,
+          "endSec": 258.1,
+          "text": "dangerous,"
+        },
+        {
+          "startSec": 258.1,
+          "endSec": 258.3,
+          "text": "than"
+        },
+        {
+          "startSec": 258.3,
+          "endSec": 258.9,
+          "text": "mushrooms."
+        },
+        {
+          "startSec": 258.9,
+          "endSec": 259,
+          "text": "And"
+        },
+        {
+          "startSec": 259,
+          "endSec": 259.1,
+          "text": "I"
+        },
+        {
+          "startSec": 259.1,
+          "endSec": 259.4,
+          "text": "think"
+        },
+        {
+          "startSec": 259.4,
+          "endSec": 259.6,
+          "text": "that"
+        },
+        {
+          "startSec": 259.6,
+          "endSec": 260,
+          "text": "mushrooms"
+        },
+        {
+          "startSec": 260,
+          "endSec": 260.2,
+          "text": "have"
+        },
+        {
+          "startSec": 260.2,
+          "endSec": 260.4,
+          "text": "been"
+        },
+        {
+          "startSec": 260.4,
+          "endSec": 260.6,
+          "text": "much"
+        },
+        {
+          "startSec": 260.6,
+          "endSec": 261.3,
+          "text": "maligned."
+        },
+        {
+          "startSec": 261.3,
+          "endSec": 261.5,
+          "text": "I"
+        },
+        {
+          "startSec": 261.5,
+          "endSec": 262.3,
+          "text": "mean,"
+        },
+        {
+          "startSec": 262.3,
+          "endSec": 262.7,
+          "text": "you've"
+        }
+      ]
+    },
+    {
+      "startSec": 262.3,
+      "endSec": 267.6,
+      "text": "you've got to exercise caution, as Roshana said, in anything that you pick, you need to know what",
+      "words": [
+        {
+          "startSec": 262.3,
+          "endSec": 262.7,
+          "text": "you've"
+        },
+        {
+          "startSec": 262.7,
+          "endSec": 262.8,
+          "text": "got"
+        },
+        {
+          "startSec": 262.8,
+          "endSec": 262.9,
+          "text": "to"
+        },
+        {
+          "startSec": 262.9,
+          "endSec": 263.4,
+          "text": "exercise"
+        },
+        {
+          "startSec": 263.4,
+          "endSec": 263.9,
+          "text": "caution,"
+        },
+        {
+          "startSec": 263.9,
+          "endSec": 264,
+          "text": "as"
+        },
+        {
+          "startSec": 264,
+          "endSec": 264.5,
+          "text": "Roshana"
+        },
+        {
+          "startSec": 264.5,
+          "endSec": 264.9,
+          "text": "said,"
+        },
+        {
+          "startSec": 264.9,
+          "endSec": 265.1,
+          "text": "in"
+        },
+        {
+          "startSec": 265.1,
+          "endSec": 265.8,
+          "text": "anything"
+        },
+        {
+          "startSec": 265.8,
+          "endSec": 266.1,
+          "text": "that"
+        },
+        {
+          "startSec": 266.1,
+          "endSec": 266.4,
+          "text": "you"
+        },
+        {
+          "startSec": 266.4,
+          "endSec": 267,
+          "text": "pick,"
+        },
+        {
+          "startSec": 267,
+          "endSec": 267.1,
+          "text": "you"
+        },
+        {
+          "startSec": 267.1,
+          "endSec": 267.2,
+          "text": "need"
+        },
+        {
+          "startSec": 267.2,
+          "endSec": 267.3,
+          "text": "to"
+        },
+        {
+          "startSec": 267.3,
+          "endSec": 267.4,
+          "text": "know"
+        },
+        {
+          "startSec": 267.4,
+          "endSec": 267.6,
+          "text": "what"
+        }
+      ]
+    },
+    {
+      "startSec": 267.6,
+      "endSec": 273.5,
+      "text": "it is before you consume it, if in doubt throw it out, is a very good phrase to say. Emily thinks",
+      "words": [
+        {
+          "startSec": 267.7,
+          "endSec": 267.7,
+          "text": "it"
+        },
+        {
+          "startSec": 267.7,
+          "endSec": 267.9,
+          "text": "is"
+        },
+        {
+          "startSec": 267.9,
+          "endSec": 268.3,
+          "text": "before"
+        },
+        {
+          "startSec": 268.3,
+          "endSec": 268.4,
+          "text": "you"
+        },
+        {
+          "startSec": 268.4,
+          "endSec": 268.9,
+          "text": "consume"
+        },
+        {
+          "startSec": 268.9,
+          "endSec": 269.1,
+          "text": "it,"
+        },
+        {
+          "startSec": 269.1,
+          "endSec": 269.3,
+          "text": "if"
+        },
+        {
+          "startSec": 269.3,
+          "endSec": 269.4,
+          "text": "in"
+        },
+        {
+          "startSec": 269.4,
+          "endSec": 269.7,
+          "text": "doubt"
+        },
+        {
+          "startSec": 269.7,
+          "endSec": 270,
+          "text": "throw"
+        },
+        {
+          "startSec": 270,
+          "endSec": 270.2,
+          "text": "it"
+        },
+        {
+          "startSec": 270.2,
+          "endSec": 270.5,
+          "text": "out,"
+        },
+        {
+          "startSec": 270.5,
+          "endSec": 270.6,
+          "text": "is"
+        },
+        {
+          "startSec": 270.6,
+          "endSec": 270.7,
+          "text": "a"
+        },
+        {
+          "startSec": 270.7,
+          "endSec": 270.9,
+          "text": "very"
+        },
+        {
+          "startSec": 270.9,
+          "endSec": 271.2,
+          "text": "good"
+        },
+        {
+          "startSec": 271.2,
+          "endSec": 271.6,
+          "text": "phrase"
+        },
+        {
+          "startSec": 271.6,
+          "endSec": 271.7,
+          "text": "to"
+        },
+        {
+          "startSec": 271.7,
+          "endSec": 272.2,
+          "text": "say."
+        },
+        {
+          "startSec": 272.2,
+          "endSec": 273.3,
+          "text": "Emily"
+        },
+        {
+          "startSec": 273.3,
+          "endSec": 273.5,
+          "text": "thinks"
+        },
+        {
+          "startSec": 273.5,
+          "endSec": 274,
+          "text": "there's"
+        }
+      ]
+    },
+    {
+      "startSec": 273.5,
+      "endSec": 279.3,
+      "text": "there's a stigma around mushrooms. A stigma is a negative belief about something, which is not",
+      "words": [
+        {
+          "startSec": 273.5,
+          "endSec": 274,
+          "text": "there's"
+        },
+        {
+          "startSec": 274,
+          "endSec": 274.1,
+          "text": "a"
+        },
+        {
+          "startSec": 274.1,
+          "endSec": 274.5,
+          "text": "stigma"
+        },
+        {
+          "startSec": 274.5,
+          "endSec": 274.9,
+          "text": "around"
+        },
+        {
+          "startSec": 274.9,
+          "endSec": 275.7,
+          "text": "mushrooms."
+        },
+        {
+          "startSec": 275.7,
+          "endSec": 275.7,
+          "text": "A"
+        },
+        {
+          "startSec": 275.7,
+          "endSec": 276.2,
+          "text": "stigma"
+        },
+        {
+          "startSec": 276.2,
+          "endSec": 276.3,
+          "text": "is"
+        },
+        {
+          "startSec": 276.3,
+          "endSec": 276.3,
+          "text": "a"
+        },
+        {
+          "startSec": 276.3,
+          "endSec": 276.9,
+          "text": "negative"
+        },
+        {
+          "startSec": 276.9,
+          "endSec": 277.3,
+          "text": "belief"
+        },
+        {
+          "startSec": 277.3,
+          "endSec": 277.6,
+          "text": "about"
+        },
+        {
+          "startSec": 277.6,
+          "endSec": 278.4,
+          "text": "something,"
+        },
+        {
+          "startSec": 278.4,
+          "endSec": 278.8,
+          "text": "which"
+        },
+        {
+          "startSec": 278.8,
+          "endSec": 279,
+          "text": "is"
+        },
+        {
+          "startSec": 279,
+          "endSec": 279.3,
+          "text": "not"
+        },
+        {
+          "startSec": 279.3,
+          "endSec": 280.2,
+          "text": "necessarily"
+        }
+      ]
+    },
+    {
+      "startSec": 279.3,
+      "endSec": 286.2,
+      "text": "necessarily true or fair. In fact, many plants are just as poisonous as mushrooms. The main thing",
+      "words": [
+        {
+          "startSec": 279.3,
+          "endSec": 280.2,
+          "text": "necessarily"
+        },
+        {
+          "startSec": 280.2,
+          "endSec": 280.5,
+          "text": "true"
+        },
+        {
+          "startSec": 280.5,
+          "endSec": 280.6,
+          "text": "or"
+        },
+        {
+          "startSec": 280.6,
+          "endSec": 281.2,
+          "text": "fair."
+        },
+        {
+          "startSec": 281.2,
+          "endSec": 281.3,
+          "text": "In"
+        },
+        {
+          "startSec": 281.3,
+          "endSec": 281.8,
+          "text": "fact,"
+        },
+        {
+          "startSec": 281.8,
+          "endSec": 282.1,
+          "text": "many"
+        },
+        {
+          "startSec": 282.1,
+          "endSec": 282.6,
+          "text": "plants"
+        },
+        {
+          "startSec": 282.6,
+          "endSec": 282.8,
+          "text": "are"
+        },
+        {
+          "startSec": 282.8,
+          "endSec": 283.2,
+          "text": "just"
+        },
+        {
+          "startSec": 283.2,
+          "endSec": 283.3,
+          "text": "as"
+        },
+        {
+          "startSec": 283.3,
+          "endSec": 284,
+          "text": "poisonous"
+        },
+        {
+          "startSec": 284,
+          "endSec": 284.2,
+          "text": "as"
+        },
+        {
+          "startSec": 284.2,
+          "endSec": 285.2,
+          "text": "mushrooms."
+        },
+        {
+          "startSec": 285.2,
+          "endSec": 285.4,
+          "text": "The"
+        },
+        {
+          "startSec": 285.4,
+          "endSec": 285.7,
+          "text": "main"
+        },
+        {
+          "startSec": 285.7,
+          "endSec": 286.2,
+          "text": "thing"
+        },
+        {
+          "startSec": 286.2,
+          "endSec": 286.3,
+          "text": "is"
+        }
+      ]
+    },
+    {
+      "startSec": 286.2,
+      "endSec": 292.9,
+      "text": "is to exercise caution, to act with care and attention so as to avoid possible dangers. In other",
+      "words": [
+        {
+          "startSec": 286.2,
+          "endSec": 286.3,
+          "text": "is"
+        },
+        {
+          "startSec": 286.3,
+          "endSec": 286.5,
+          "text": "to"
+        },
+        {
+          "startSec": 286.5,
+          "endSec": 287.2,
+          "text": "exercise"
+        },
+        {
+          "startSec": 287.2,
+          "endSec": 287.9,
+          "text": "caution,"
+        },
+        {
+          "startSec": 287.9,
+          "endSec": 288.1,
+          "text": "to"
+        },
+        {
+          "startSec": 288.1,
+          "endSec": 288.4,
+          "text": "act"
+        },
+        {
+          "startSec": 288.4,
+          "endSec": 288.7,
+          "text": "with"
+        },
+        {
+          "startSec": 288.7,
+          "endSec": 289,
+          "text": "care"
+        },
+        {
+          "startSec": 289,
+          "endSec": 289.3,
+          "text": "and"
+        },
+        {
+          "startSec": 289.3,
+          "endSec": 290.1,
+          "text": "attention"
+        },
+        {
+          "startSec": 290.1,
+          "endSec": 290.2,
+          "text": "so"
+        },
+        {
+          "startSec": 290.2,
+          "endSec": 290.4,
+          "text": "as"
+        },
+        {
+          "startSec": 290.4,
+          "endSec": 290.6,
+          "text": "to"
+        },
+        {
+          "startSec": 290.6,
+          "endSec": 291,
+          "text": "avoid"
+        },
+        {
+          "startSec": 291,
+          "endSec": 291.6,
+          "text": "possible"
+        },
+        {
+          "startSec": 291.6,
+          "endSec": 292.6,
+          "text": "dangers."
+        },
+        {
+          "startSec": 292.6,
+          "endSec": 292.7,
+          "text": "In"
+        },
+        {
+          "startSec": 292.7,
+          "endSec": 292.9,
+          "text": "other"
+        }
+      ]
+    },
+    {
+      "startSec": 292.9,
+      "endSec": 298.7,
+      "text": "words, to be careful. And the best way of doing that is learning the difference between what safety",
+      "words": [
+        {
+          "startSec": 293,
+          "endSec": 293.3,
+          "text": "words,"
+        },
+        {
+          "startSec": 293.3,
+          "endSec": 293.5,
+          "text": "to"
+        },
+        {
+          "startSec": 293.5,
+          "endSec": 293.6,
+          "text": "be"
+        },
+        {
+          "startSec": 293.6,
+          "endSec": 294.2,
+          "text": "careful."
+        },
+        {
+          "startSec": 294.2,
+          "endSec": 294.4,
+          "text": "And"
+        },
+        {
+          "startSec": 294.4,
+          "endSec": 294.6,
+          "text": "the"
+        },
+        {
+          "startSec": 294.6,
+          "endSec": 294.9,
+          "text": "best"
+        },
+        {
+          "startSec": 294.9,
+          "endSec": 295.1,
+          "text": "way"
+        },
+        {
+          "startSec": 295.1,
+          "endSec": 295.2,
+          "text": "of"
+        },
+        {
+          "startSec": 295.2,
+          "endSec": 295.5,
+          "text": "doing"
+        },
+        {
+          "startSec": 295.5,
+          "endSec": 295.8,
+          "text": "that"
+        },
+        {
+          "startSec": 295.8,
+          "endSec": 295.9,
+          "text": "is"
+        },
+        {
+          "startSec": 295.9,
+          "endSec": 296.4,
+          "text": "learning"
+        },
+        {
+          "startSec": 296.4,
+          "endSec": 296.6,
+          "text": "the"
+        },
+        {
+          "startSec": 296.6,
+          "endSec": 297.2,
+          "text": "difference"
+        },
+        {
+          "startSec": 297.2,
+          "endSec": 297.8,
+          "text": "between"
+        },
+        {
+          "startSec": 297.8,
+          "endSec": 298,
+          "text": "what"
+        },
+        {
+          "startSec": 298,
+          "endSec": 298.7,
+          "text": "safety"
+        },
+        {
+          "startSec": 298.7,
+          "endSec": 298.9,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 298.7,
+      "endSec": 302.9,
+      "text": "and what's not. Speaking of which, what was the answer to your question, Beth?",
+      "words": [
+        {
+          "startSec": 298.7,
+          "endSec": 298.9,
+          "text": "and"
+        },
+        {
+          "startSec": 298.9,
+          "endSec": 299.2,
+          "text": "what's"
+        },
+        {
+          "startSec": 299.2,
+          "endSec": 299.6,
+          "text": "not."
+        },
+        {
+          "startSec": 299.6,
+          "endSec": 300,
+          "text": "Speaking"
+        },
+        {
+          "startSec": 300,
+          "endSec": 300.1,
+          "text": "of"
+        },
+        {
+          "startSec": 300.1,
+          "endSec": 300.5,
+          "text": "which,"
+        },
+        {
+          "startSec": 300.5,
+          "endSec": 300.8,
+          "text": "what"
+        },
+        {
+          "startSec": 300.8,
+          "endSec": 300.9,
+          "text": "was"
+        },
+        {
+          "startSec": 300.9,
+          "endSec": 301.1,
+          "text": "the"
+        },
+        {
+          "startSec": 301.1,
+          "endSec": 301.5,
+          "text": "answer"
+        },
+        {
+          "startSec": 301.5,
+          "endSec": 301.6,
+          "text": "to"
+        },
+        {
+          "startSec": 301.6,
+          "endSec": 301.8,
+          "text": "your"
+        },
+        {
+          "startSec": 301.8,
+          "endSec": 302.4,
+          "text": "question,"
+        },
+        {
+          "startSec": 302.4,
+          "endSec": 302.9,
+          "text": "Beth?"
+        },
+        {
+          "startSec": 302.9,
+          "endSec": 303.2,
+          "text": "Ah,"
+        }
+      ]
+    },
+    {
+      "startSec": 302.9,
+      "endSec": 309.9,
+      "text": "Ah, I asked you what colour are death cap mushrooms? You said red, which I also thought was the answer,",
+      "words": [
+        {
+          "startSec": 302.9,
+          "endSec": 303.2,
+          "text": "Ah,"
+        },
+        {
+          "startSec": 303.2,
+          "endSec": 303.3,
+          "text": "I"
+        },
+        {
+          "startSec": 303.3,
+          "endSec": 303.7,
+          "text": "asked"
+        },
+        {
+          "startSec": 303.7,
+          "endSec": 304,
+          "text": "you"
+        },
+        {
+          "startSec": 304,
+          "endSec": 304.3,
+          "text": "what"
+        },
+        {
+          "startSec": 304.3,
+          "endSec": 304.9,
+          "text": "colour"
+        },
+        {
+          "startSec": 304.9,
+          "endSec": 305.1,
+          "text": "are"
+        },
+        {
+          "startSec": 305.1,
+          "endSec": 305.5,
+          "text": "death"
+        },
+        {
+          "startSec": 305.5,
+          "endSec": 305.8,
+          "text": "cap"
+        },
+        {
+          "startSec": 305.8,
+          "endSec": 306.9,
+          "text": "mushrooms?"
+        },
+        {
+          "startSec": 306.9,
+          "endSec": 307.2,
+          "text": "You"
+        },
+        {
+          "startSec": 307.2,
+          "endSec": 307.6,
+          "text": "said"
+        },
+        {
+          "startSec": 307.6,
+          "endSec": 308.1,
+          "text": "red,"
+        },
+        {
+          "startSec": 308.1,
+          "endSec": 308.6,
+          "text": "which"
+        },
+        {
+          "startSec": 308.6,
+          "endSec": 308.7,
+          "text": "I"
+        },
+        {
+          "startSec": 308.7,
+          "endSec": 309,
+          "text": "also"
+        },
+        {
+          "startSec": 309,
+          "endSec": 309.2,
+          "text": "thought"
+        },
+        {
+          "startSec": 309.2,
+          "endSec": 309.4,
+          "text": "was"
+        },
+        {
+          "startSec": 309.4,
+          "endSec": 309.5,
+          "text": "the"
+        },
+        {
+          "startSec": 309.5,
+          "endSec": 309.9,
+          "text": "answer,"
+        },
+        {
+          "startSec": 309.9,
+          "endSec": 310.2,
+          "text": "but"
+        }
+      ]
+    },
+    {
+      "startSec": 309.9,
+      "endSec": 316,
+      "text": "but actually they are white. Right, it's time to recap the vocabulary we've learned about",
+      "words": [
+        {
+          "startSec": 309.9,
+          "endSec": 310.2,
+          "text": "but"
+        },
+        {
+          "startSec": 310.2,
+          "endSec": 310.8,
+          "text": "actually"
+        },
+        {
+          "startSec": 310.8,
+          "endSec": 311.2,
+          "text": "they"
+        },
+        {
+          "startSec": 311.2,
+          "endSec": 311.4,
+          "text": "are"
+        },
+        {
+          "startSec": 311.4,
+          "endSec": 312.1,
+          "text": "white."
+        },
+        {
+          "startSec": 312.1,
+          "endSec": 312.6,
+          "text": "Right,"
+        },
+        {
+          "startSec": 312.6,
+          "endSec": 312.9,
+          "text": "it's"
+        },
+        {
+          "startSec": 312.9,
+          "endSec": 313.3,
+          "text": "time"
+        },
+        {
+          "startSec": 313.3,
+          "endSec": 313.4,
+          "text": "to"
+        },
+        {
+          "startSec": 313.4,
+          "endSec": 313.8,
+          "text": "recap"
+        },
+        {
+          "startSec": 313.8,
+          "endSec": 314.1,
+          "text": "the"
+        },
+        {
+          "startSec": 314.1,
+          "endSec": 315,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 315,
+          "endSec": 315.2,
+          "text": "we've"
+        },
+        {
+          "startSec": 315.2,
+          "endSec": 315.6,
+          "text": "learned"
+        },
+        {
+          "startSec": 315.6,
+          "endSec": 316,
+          "text": "about"
+        }
+      ]
+    },
+    {
+      "startSec": 316,
+      "endSec": 323.3,
+      "text": "foraging, starting with horticulturalist, a person who studies or grows plants. If you have a deep",
+      "words": [
+        {
+          "startSec": 316.1,
+          "endSec": 316.8,
+          "text": "foraging,"
+        },
+        {
+          "startSec": 316.8,
+          "endSec": 317.5,
+          "text": "starting"
+        },
+        {
+          "startSec": 317.5,
+          "endSec": 317.8,
+          "text": "with"
+        },
+        {
+          "startSec": 317.8,
+          "endSec": 319.3,
+          "text": "horticulturalist,"
+        },
+        {
+          "startSec": 319.3,
+          "endSec": 319.3,
+          "text": "a"
+        },
+        {
+          "startSec": 319.3,
+          "endSec": 319.8,
+          "text": "person"
+        },
+        {
+          "startSec": 319.8,
+          "endSec": 320.1,
+          "text": "who"
+        },
+        {
+          "startSec": 320.1,
+          "endSec": 320.7,
+          "text": "studies"
+        },
+        {
+          "startSec": 320.7,
+          "endSec": 320.8,
+          "text": "or"
+        },
+        {
+          "startSec": 320.8,
+          "endSec": 321.2,
+          "text": "grows"
+        },
+        {
+          "startSec": 321.2,
+          "endSec": 322,
+          "text": "plants."
+        },
+        {
+          "startSec": 322,
+          "endSec": 322.1,
+          "text": "If"
+        },
+        {
+          "startSec": 322.1,
+          "endSec": 322.5,
+          "text": "you"
+        },
+        {
+          "startSec": 322.5,
+          "endSec": 322.7,
+          "text": "have"
+        },
+        {
+          "startSec": 322.7,
+          "endSec": 322.9,
+          "text": "a"
+        },
+        {
+          "startSec": 322.9,
+          "endSec": 323.3,
+          "text": "deep"
+        },
+        {
+          "startSec": 323.3,
+          "endSec": 323.9,
+          "text": "knowledge"
+        }
+      ]
+    },
+    {
+      "startSec": 323.3,
+      "endSec": 329.9,
+      "text": "knowledge of a subject, you have a thorough understanding of it gained from experience and study. Scanning",
+      "words": [
+        {
+          "startSec": 323.3,
+          "endSec": 323.9,
+          "text": "knowledge"
+        },
+        {
+          "startSec": 323.9,
+          "endSec": 324,
+          "text": "of"
+        },
+        {
+          "startSec": 324,
+          "endSec": 324,
+          "text": "a"
+        },
+        {
+          "startSec": 324,
+          "endSec": 324.6,
+          "text": "subject,"
+        },
+        {
+          "startSec": 324.6,
+          "endSec": 324.8,
+          "text": "you"
+        },
+        {
+          "startSec": 324.8,
+          "endSec": 325,
+          "text": "have"
+        },
+        {
+          "startSec": 325,
+          "endSec": 325.1,
+          "text": "a"
+        },
+        {
+          "startSec": 325.1,
+          "endSec": 325.6,
+          "text": "thorough"
+        },
+        {
+          "startSec": 325.6,
+          "endSec": 326.4,
+          "text": "understanding"
+        },
+        {
+          "startSec": 326.4,
+          "endSec": 326.5,
+          "text": "of"
+        },
+        {
+          "startSec": 326.5,
+          "endSec": 326.7,
+          "text": "it"
+        },
+        {
+          "startSec": 326.7,
+          "endSec": 327,
+          "text": "gained"
+        },
+        {
+          "startSec": 327,
+          "endSec": 327.3,
+          "text": "from"
+        },
+        {
+          "startSec": 327.3,
+          "endSec": 328,
+          "text": "experience"
+        },
+        {
+          "startSec": 328,
+          "endSec": 328.2,
+          "text": "and"
+        },
+        {
+          "startSec": 328.2,
+          "endSec": 328.6,
+          "text": "study."
+        },
+        {
+          "startSec": 328.6,
+          "endSec": 329.9,
+          "text": "Scanning"
+        },
+        {
+          "startSec": 329.9,
+          "endSec": 330.5,
+          "text": "involves"
+        }
+      ]
+    },
+    {
+      "startSec": 329.9,
+      "endSec": 337.2,
+      "text": "involves searching a wide area with your eyes to find some particular thing. If you're 110% sure",
+      "words": [
+        {
+          "startSec": 329.9,
+          "endSec": 330.5,
+          "text": "involves"
+        },
+        {
+          "startSec": 330.5,
+          "endSec": 331.2,
+          "text": "searching"
+        },
+        {
+          "startSec": 331.2,
+          "endSec": 331.3,
+          "text": "a"
+        },
+        {
+          "startSec": 331.3,
+          "endSec": 331.6,
+          "text": "wide"
+        },
+        {
+          "startSec": 331.6,
+          "endSec": 331.9,
+          "text": "area"
+        },
+        {
+          "startSec": 331.9,
+          "endSec": 332.2,
+          "text": "with"
+        },
+        {
+          "startSec": 332.2,
+          "endSec": 332.5,
+          "text": "your"
+        },
+        {
+          "startSec": 332.5,
+          "endSec": 332.8,
+          "text": "eyes"
+        },
+        {
+          "startSec": 332.8,
+          "endSec": 332.9,
+          "text": "to"
+        },
+        {
+          "startSec": 332.9,
+          "endSec": 333.2,
+          "text": "find"
+        },
+        {
+          "startSec": 333.2,
+          "endSec": 333.5,
+          "text": "some"
+        },
+        {
+          "startSec": 333.5,
+          "endSec": 334.3,
+          "text": "particular"
+        },
+        {
+          "startSec": 334.3,
+          "endSec": 335,
+          "text": "thing."
+        },
+        {
+          "startSec": 335,
+          "endSec": 335.1,
+          "text": "If"
+        },
+        {
+          "startSec": 335.1,
+          "endSec": 335.6,
+          "text": "you're"
+        },
+        {
+          "startSec": 335.6,
+          "endSec": 336.9,
+          "text": "110%"
+        },
+        {
+          "startSec": 336.9,
+          "endSec": 337.2,
+          "text": "sure"
+        },
+        {
+          "startSec": 337.2,
+          "endSec": 337.6,
+          "text": "about"
+        }
+      ]
+    },
+    {
+      "startSec": 337.2,
+      "endSec": 343.6,
+      "text": "about something, you're absolutely certain you have no doubt. A stigma is an unfair negative",
+      "words": [
+        {
+          "startSec": 337.2,
+          "endSec": 337.6,
+          "text": "about"
+        },
+        {
+          "startSec": 337.6,
+          "endSec": 338.5,
+          "text": "something,"
+        },
+        {
+          "startSec": 338.5,
+          "endSec": 338.9,
+          "text": "you're"
+        },
+        {
+          "startSec": 338.9,
+          "endSec": 339.7,
+          "text": "absolutely"
+        },
+        {
+          "startSec": 339.7,
+          "endSec": 340.3,
+          "text": "certain"
+        },
+        {
+          "startSec": 340.3,
+          "endSec": 340.5,
+          "text": "you"
+        },
+        {
+          "startSec": 340.5,
+          "endSec": 340.8,
+          "text": "have"
+        },
+        {
+          "startSec": 340.8,
+          "endSec": 341,
+          "text": "no"
+        },
+        {
+          "startSec": 341,
+          "endSec": 341.6,
+          "text": "doubt."
+        },
+        {
+          "startSec": 341.6,
+          "endSec": 341.7,
+          "text": "A"
+        },
+        {
+          "startSec": 341.7,
+          "endSec": 342.2,
+          "text": "stigma"
+        },
+        {
+          "startSec": 342.2,
+          "endSec": 342.3,
+          "text": "is"
+        },
+        {
+          "startSec": 342.3,
+          "endSec": 342.5,
+          "text": "an"
+        },
+        {
+          "startSec": 342.5,
+          "endSec": 343,
+          "text": "unfair"
+        },
+        {
+          "startSec": 343,
+          "endSec": 343.6,
+          "text": "negative"
+        }
+      ]
+    },
+    {
+      "startSec": 343.6,
+      "endSec": 349.4,
+      "text": "belief about something. And finally, to exercise caution is a more formal way of saying to be",
+      "words": [
+        {
+          "startSec": 343.7,
+          "endSec": 344,
+          "text": "belief"
+        },
+        {
+          "startSec": 344,
+          "endSec": 344.4,
+          "text": "about"
+        },
+        {
+          "startSec": 344.4,
+          "endSec": 345.3,
+          "text": "something."
+        },
+        {
+          "startSec": 345.3,
+          "endSec": 345.5,
+          "text": "And"
+        },
+        {
+          "startSec": 345.5,
+          "endSec": 346.2,
+          "text": "finally,"
+        },
+        {
+          "startSec": 346.2,
+          "endSec": 346.3,
+          "text": "to"
+        },
+        {
+          "startSec": 346.3,
+          "endSec": 346.9,
+          "text": "exercise"
+        },
+        {
+          "startSec": 346.9,
+          "endSec": 347.4,
+          "text": "caution"
+        },
+        {
+          "startSec": 347.4,
+          "endSec": 347.5,
+          "text": "is"
+        },
+        {
+          "startSec": 347.5,
+          "endSec": 347.6,
+          "text": "a"
+        },
+        {
+          "startSec": 347.6,
+          "endSec": 347.9,
+          "text": "more"
+        },
+        {
+          "startSec": 347.9,
+          "endSec": 348.3,
+          "text": "formal"
+        },
+        {
+          "startSec": 348.3,
+          "endSec": 348.6,
+          "text": "way"
+        },
+        {
+          "startSec": 348.6,
+          "endSec": 348.8,
+          "text": "of"
+        },
+        {
+          "startSec": 348.8,
+          "endSec": 349.1,
+          "text": "saying"
+        },
+        {
+          "startSec": 349.1,
+          "endSec": 349.2,
+          "text": "to"
+        },
+        {
+          "startSec": 349.2,
+          "endSec": 349.4,
+          "text": "be"
+        },
+        {
+          "startSec": 349.4,
+          "endSec": 350,
+          "text": "careful,"
+        }
+      ]
+    },
+    {
+      "startSec": 349.4,
+      "endSec": 355.1,
+      "text": "careful, something you should definitely remember if you go wild foraging yourself. Once again,",
+      "words": [
+        {
+          "startSec": 349.4,
+          "endSec": 350,
+          "text": "careful,"
+        },
+        {
+          "startSec": 350,
+          "endSec": 350.5,
+          "text": "something"
+        },
+        {
+          "startSec": 350.5,
+          "endSec": 350.7,
+          "text": "you"
+        },
+        {
+          "startSec": 350.7,
+          "endSec": 351,
+          "text": "should"
+        },
+        {
+          "startSec": 351,
+          "endSec": 351.6,
+          "text": "definitely"
+        },
+        {
+          "startSec": 351.6,
+          "endSec": 352,
+          "text": "remember"
+        },
+        {
+          "startSec": 352,
+          "endSec": 352.2,
+          "text": "if"
+        },
+        {
+          "startSec": 352.2,
+          "endSec": 352.3,
+          "text": "you"
+        },
+        {
+          "startSec": 352.3,
+          "endSec": 352.4,
+          "text": "go"
+        },
+        {
+          "startSec": 352.4,
+          "endSec": 352.7,
+          "text": "wild"
+        },
+        {
+          "startSec": 352.7,
+          "endSec": 353.1,
+          "text": "foraging"
+        },
+        {
+          "startSec": 353.1,
+          "endSec": 353.8,
+          "text": "yourself."
+        },
+        {
+          "startSec": 353.8,
+          "endSec": 354.4,
+          "text": "Once"
+        },
+        {
+          "startSec": 354.4,
+          "endSec": 355.1,
+          "text": "again,"
+        },
+        {
+          "startSec": 355.1,
+          "endSec": 355.3,
+          "text": "our"
+        }
+      ]
+    },
+    {
+      "startSec": 355.1,
+      "endSec": 359.9,
+      "text": "our six minutes are up. If you enjoyed this episode, you'll find a quiz and worksheet to",
+      "words": [
+        {
+          "startSec": 355.1,
+          "endSec": 355.3,
+          "text": "our"
+        },
+        {
+          "startSec": 355.3,
+          "endSec": 355.5,
+          "text": "six"
+        },
+        {
+          "startSec": 355.5,
+          "endSec": 355.9,
+          "text": "minutes"
+        },
+        {
+          "startSec": 355.9,
+          "endSec": 356.1,
+          "text": "are"
+        },
+        {
+          "startSec": 356.1,
+          "endSec": 356.4,
+          "text": "up."
+        },
+        {
+          "startSec": 356.4,
+          "endSec": 356.5,
+          "text": "If"
+        },
+        {
+          "startSec": 356.5,
+          "endSec": 356.7,
+          "text": "you"
+        },
+        {
+          "startSec": 356.7,
+          "endSec": 357.1,
+          "text": "enjoyed"
+        },
+        {
+          "startSec": 357.1,
+          "endSec": 357.4,
+          "text": "this"
+        },
+        {
+          "startSec": 357.4,
+          "endSec": 358,
+          "text": "episode,"
+        },
+        {
+          "startSec": 358,
+          "endSec": 358.4,
+          "text": "you'll"
+        },
+        {
+          "startSec": 358.4,
+          "endSec": 358.7,
+          "text": "find"
+        },
+        {
+          "startSec": 358.7,
+          "endSec": 358.8,
+          "text": "a"
+        },
+        {
+          "startSec": 358.8,
+          "endSec": 359.1,
+          "text": "quiz"
+        },
+        {
+          "startSec": 359.1,
+          "endSec": 359.3,
+          "text": "and"
+        },
+        {
+          "startSec": 359.3,
+          "endSec": 359.8,
+          "text": "worksheet"
+        },
+        {
+          "startSec": 359.8,
+          "endSec": 359.9,
+          "text": "to"
+        },
+        {
+          "startSec": 359.9,
+          "endSec": 360.5,
+          "text": "practice"
+        }
+      ]
+    },
+    {
+      "startSec": 359.9,
+      "endSec": 367.2,
+      "text": "practice the vocabulary on our website, bbclearningenglish.com. See you again soon. Bye for now. Goodbye.",
+      "words": [
+        {
+          "startSec": 359.9,
+          "endSec": 360.5,
+          "text": "practice"
+        },
+        {
+          "startSec": 360.5,
+          "endSec": 360.7,
+          "text": "the"
+        },
+        {
+          "startSec": 360.7,
+          "endSec": 361.5,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 361.5,
+          "endSec": 361.7,
+          "text": "on"
+        },
+        {
+          "startSec": 361.7,
+          "endSec": 361.9,
+          "text": "our"
+        },
+        {
+          "startSec": 361.9,
+          "endSec": 362.6,
+          "text": "website,"
+        },
+        {
+          "startSec": 362.6,
+          "endSec": 364.6,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 364.6,
+          "endSec": 364.8,
+          "text": "See"
+        },
+        {
+          "startSec": 364.8,
+          "endSec": 365,
+          "text": "you"
+        },
+        {
+          "startSec": 365,
+          "endSec": 365.3,
+          "text": "again"
+        },
+        {
+          "startSec": 365.3,
+          "endSec": 365.8,
+          "text": "soon."
+        },
+        {
+          "startSec": 365.8,
+          "endSec": 366,
+          "text": "Bye"
+        },
+        {
+          "startSec": 366,
+          "endSec": 366.2,
+          "text": "for"
+        },
+        {
+          "startSec": 366.2,
+          "endSec": 366.7,
+          "text": "now."
+        },
+        {
+          "startSec": 366.7,
+          "endSec": 367.2,
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "startSec": 373.6,
+      "endSec": 375.7,
+      "text": "[MUSIC PLAYING]",
+      "words": [
+        {
+          "startSec": 373.7,
+          "endSec": 374.5,
+          "text": "[MUSIC"
+        },
+        {
+          "startSec": 374.5,
+          "endSec": 375.7,
+          "text": "PLAYING]"
+        }
+      ]
+    }
+  ],
+  "introSec": 0
+}

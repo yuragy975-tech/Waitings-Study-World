@@ -1,0 +1,5223 @@
+{
+  "title": "How do we adapt to the cold",
+  "source": "BBC 6 Minute English",
+  "level": "advanced",
+  "durationSec": 367,
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
+  "audioFile": "audio.mp3",
+  "segments": [
+    {
+      "startSec": 0,
+      "endSec": 13,
+      "text": "Hello, this is Six Minute English from BBC Learning English. I'm Phil.",
+      "words": [
+        {
+          "startSec": 0.2,
+          "endSec": 2.4,
+          "text": "Hello,"
+        },
+        {
+          "startSec": 2.4,
+          "endSec": 3.8,
+          "text": "this"
+        },
+        {
+          "startSec": 3.8,
+          "endSec": 4.4,
+          "text": "is"
+        },
+        {
+          "startSec": 4.4,
+          "endSec": 5.4,
+          "text": "Six"
+        },
+        {
+          "startSec": 5.4,
+          "endSec": 7.9,
+          "text": "Minute"
+        },
+        {
+          "startSec": 7.9,
+          "endSec": 10,
+          "text": "English"
+        },
+        {
+          "startSec": 10,
+          "endSec": 10.3,
+          "text": "from"
+        },
+        {
+          "startSec": 10.3,
+          "endSec": 10.5,
+          "text": "BBC"
+        },
+        {
+          "startSec": 10.5,
+          "endSec": 11.1,
+          "text": "Learning"
+        },
+        {
+          "startSec": 11.1,
+          "endSec": 11.8,
+          "text": "English."
+        },
+        {
+          "startSec": 11.8,
+          "endSec": 12.2,
+          "text": "I'm"
+        },
+        {
+          "startSec": 12.2,
+          "endSec": 13,
+          "text": "Phil."
+        },
+        {
+          "startSec": 13,
+          "endSec": 13.2,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 13,
+      "endSec": 18.1,
+      "text": "And I'm Becca. Six Minute English listeners are truly global, coming from all over the",
+      "words": [
+        {
+          "startSec": 13,
+          "endSec": 13.2,
+          "text": "And"
+        },
+        {
+          "startSec": 13.2,
+          "endSec": 13.4,
+          "text": "I'm"
+        },
+        {
+          "startSec": 13.4,
+          "endSec": 14,
+          "text": "Becca."
+        },
+        {
+          "startSec": 14,
+          "endSec": 14.2,
+          "text": "Six"
+        },
+        {
+          "startSec": 14.2,
+          "endSec": 14.6,
+          "text": "Minute"
+        },
+        {
+          "startSec": 14.6,
+          "endSec": 15,
+          "text": "English"
+        },
+        {
+          "startSec": 15,
+          "endSec": 15.6,
+          "text": "listeners"
+        },
+        {
+          "startSec": 15.6,
+          "endSec": 15.8,
+          "text": "are"
+        },
+        {
+          "startSec": 15.8,
+          "endSec": 16.2,
+          "text": "truly"
+        },
+        {
+          "startSec": 16.2,
+          "endSec": 17,
+          "text": "global,"
+        },
+        {
+          "startSec": 17,
+          "endSec": 17.2,
+          "text": "coming"
+        },
+        {
+          "startSec": 17.2,
+          "endSec": 17.4,
+          "text": "from"
+        },
+        {
+          "startSec": 17.4,
+          "endSec": 17.6,
+          "text": "all"
+        },
+        {
+          "startSec": 17.6,
+          "endSec": 17.9,
+          "text": "over"
+        },
+        {
+          "startSec": 17.9,
+          "endSec": 18.1,
+          "text": "the"
+        },
+        {
+          "startSec": 18.1,
+          "endSec": 18.5,
+          "text": "world"
+        }
+      ]
+    },
+    {
+      "startSec": 18.1,
+      "endSec": 22.8,
+      "text": "world including some of the coldest countries on Earth. Places like Finland, where winter",
+      "words": [
+        {
+          "startSec": 18.1,
+          "endSec": 18.5,
+          "text": "world"
+        },
+        {
+          "startSec": 18.5,
+          "endSec": 19.1,
+          "text": "including"
+        },
+        {
+          "startSec": 19.1,
+          "endSec": 19.4,
+          "text": "some"
+        },
+        {
+          "startSec": 19.4,
+          "endSec": 19.5,
+          "text": "of"
+        },
+        {
+          "startSec": 19.5,
+          "endSec": 19.7,
+          "text": "the"
+        },
+        {
+          "startSec": 19.7,
+          "endSec": 20.2,
+          "text": "coldest"
+        },
+        {
+          "startSec": 20.2,
+          "endSec": 20.9,
+          "text": "countries"
+        },
+        {
+          "startSec": 20.9,
+          "endSec": 21,
+          "text": "on"
+        },
+        {
+          "startSec": 21,
+          "endSec": 21.6,
+          "text": "Earth."
+        },
+        {
+          "startSec": 21.6,
+          "endSec": 21.8,
+          "text": "Places"
+        },
+        {
+          "startSec": 21.8,
+          "endSec": 22,
+          "text": "like"
+        },
+        {
+          "startSec": 22,
+          "endSec": 22.4,
+          "text": "Finland,"
+        },
+        {
+          "startSec": 22.4,
+          "endSec": 22.6,
+          "text": "where"
+        },
+        {
+          "startSec": 22.6,
+          "endSec": 22.8,
+          "text": "winter"
+        },
+        {
+          "startSec": 22.8,
+          "endSec": 23.7,
+          "text": "temperatures"
+        }
+      ]
+    },
+    {
+      "startSec": 22.8,
+      "endSec": 28.3,
+      "text": "temperatures drop to -20 degrees Celsius. Are you good at dealing with the cold, Phil?",
+      "words": [
+        {
+          "startSec": 22.8,
+          "endSec": 23.7,
+          "text": "temperatures"
+        },
+        {
+          "startSec": 23.7,
+          "endSec": 23.9,
+          "text": "drop"
+        },
+        {
+          "startSec": 23.9,
+          "endSec": 24.1,
+          "text": "to"
+        },
+        {
+          "startSec": 24.1,
+          "endSec": 24.5,
+          "text": "-20"
+        },
+        {
+          "startSec": 24.5,
+          "endSec": 25,
+          "text": "degrees"
+        },
+        {
+          "startSec": 25,
+          "endSec": 25.7,
+          "text": "Celsius."
+        },
+        {
+          "startSec": 25.7,
+          "endSec": 25.9,
+          "text": "Are"
+        },
+        {
+          "startSec": 25.9,
+          "endSec": 26.1,
+          "text": "you"
+        },
+        {
+          "startSec": 26.1,
+          "endSec": 26.4,
+          "text": "good"
+        },
+        {
+          "startSec": 26.4,
+          "endSec": 26.5,
+          "text": "at"
+        },
+        {
+          "startSec": 26.5,
+          "endSec": 26.9,
+          "text": "dealing"
+        },
+        {
+          "startSec": 26.9,
+          "endSec": 27.2,
+          "text": "with"
+        },
+        {
+          "startSec": 27.2,
+          "endSec": 27.4,
+          "text": "the"
+        },
+        {
+          "startSec": 27.4,
+          "endSec": 27.8,
+          "text": "cold,"
+        },
+        {
+          "startSec": 27.8,
+          "endSec": 28.3,
+          "text": "Phil?"
+        },
+        {
+          "startSec": 28.3,
+          "endSec": 28.5,
+          "text": "I'm"
+        }
+      ]
+    },
+    {
+      "startSec": 28.3,
+      "endSec": 32.6,
+      "text": "I'm not sure, but I do know that I don't like it. What about you Becca?",
+      "words": [
+        {
+          "startSec": 28.3,
+          "endSec": 28.5,
+          "text": "I'm"
+        },
+        {
+          "startSec": 28.5,
+          "endSec": 28.8,
+          "text": "not"
+        },
+        {
+          "startSec": 28.8,
+          "endSec": 29.2,
+          "text": "sure,"
+        },
+        {
+          "startSec": 29.2,
+          "endSec": 29.5,
+          "text": "but"
+        },
+        {
+          "startSec": 29.5,
+          "endSec": 29.6,
+          "text": "I"
+        },
+        {
+          "startSec": 29.6,
+          "endSec": 29.7,
+          "text": "do"
+        },
+        {
+          "startSec": 29.7,
+          "endSec": 30,
+          "text": "know"
+        },
+        {
+          "startSec": 30,
+          "endSec": 30.4,
+          "text": "that"
+        },
+        {
+          "startSec": 30.4,
+          "endSec": 30.4,
+          "text": "I"
+        },
+        {
+          "startSec": 30.4,
+          "endSec": 30.8,
+          "text": "don't"
+        },
+        {
+          "startSec": 30.8,
+          "endSec": 31.2,
+          "text": "like"
+        },
+        {
+          "startSec": 31.2,
+          "endSec": 31.6,
+          "text": "it."
+        },
+        {
+          "startSec": 31.6,
+          "endSec": 31.8,
+          "text": "What"
+        },
+        {
+          "startSec": 31.8,
+          "endSec": 32.1,
+          "text": "about"
+        },
+        {
+          "startSec": 32.1,
+          "endSec": 32.2,
+          "text": "you"
+        },
+        {
+          "startSec": 32.2,
+          "endSec": 32.6,
+          "text": "Becca?"
+        },
+        {
+          "startSec": 32.6,
+          "endSec": 33.1,
+          "text": "Well,"
+        }
+      ]
+    },
+    {
+      "startSec": 32.6,
+      "endSec": 38.2,
+      "text": "Well, I'd rather be too hot and cool down than too cold and try to warm up.",
+      "words": [
+        {
+          "startSec": 32.6,
+          "endSec": 33.1,
+          "text": "Well,"
+        },
+        {
+          "startSec": 33.1,
+          "endSec": 33.4,
+          "text": "I'd"
+        },
+        {
+          "startSec": 33.4,
+          "endSec": 33.9,
+          "text": "rather"
+        },
+        {
+          "startSec": 33.9,
+          "endSec": 34.1,
+          "text": "be"
+        },
+        {
+          "startSec": 34.1,
+          "endSec": 34.4,
+          "text": "too"
+        },
+        {
+          "startSec": 34.4,
+          "endSec": 34.6,
+          "text": "hot"
+        },
+        {
+          "startSec": 34.6,
+          "endSec": 34.9,
+          "text": "and"
+        },
+        {
+          "startSec": 34.9,
+          "endSec": 35.3,
+          "text": "cool"
+        },
+        {
+          "startSec": 35.3,
+          "endSec": 35.6,
+          "text": "down"
+        },
+        {
+          "startSec": 35.6,
+          "endSec": 36,
+          "text": "than"
+        },
+        {
+          "startSec": 36,
+          "endSec": 36.3,
+          "text": "too"
+        },
+        {
+          "startSec": 36.3,
+          "endSec": 36.6,
+          "text": "cold"
+        },
+        {
+          "startSec": 36.6,
+          "endSec": 36.9,
+          "text": "and"
+        },
+        {
+          "startSec": 36.9,
+          "endSec": 37.2,
+          "text": "try"
+        },
+        {
+          "startSec": 37.2,
+          "endSec": 37.3,
+          "text": "to"
+        },
+        {
+          "startSec": 37.3,
+          "endSec": 37.7,
+          "text": "warm"
+        },
+        {
+          "startSec": 37.7,
+          "endSec": 38.2,
+          "text": "up."
+        },
+        {
+          "startSec": 38.2,
+          "endSec": 38.9,
+          "text": "Yes,"
+        }
+      ]
+    },
+    {
+      "startSec": 38.2,
+      "endSec": 44.9,
+      "text": "Yes, me too. Here in the UK, it never gets as cold as Finland. But it's not unusual",
+      "words": [
+        {
+          "startSec": 38.2,
+          "endSec": 38.9,
+          "text": "Yes,"
+        },
+        {
+          "startSec": 38.9,
+          "endSec": 39.1,
+          "text": "me"
+        },
+        {
+          "startSec": 39.1,
+          "endSec": 40,
+          "text": "too."
+        },
+        {
+          "startSec": 40,
+          "endSec": 40.3,
+          "text": "Here"
+        },
+        {
+          "startSec": 40.3,
+          "endSec": 40.5,
+          "text": "in"
+        },
+        {
+          "startSec": 40.5,
+          "endSec": 40.7,
+          "text": "the"
+        },
+        {
+          "startSec": 40.7,
+          "endSec": 41,
+          "text": "UK,"
+        },
+        {
+          "startSec": 41,
+          "endSec": 41.1,
+          "text": "it"
+        },
+        {
+          "startSec": 41.1,
+          "endSec": 41.5,
+          "text": "never"
+        },
+        {
+          "startSec": 41.5,
+          "endSec": 41.8,
+          "text": "gets"
+        },
+        {
+          "startSec": 41.8,
+          "endSec": 41.9,
+          "text": "as"
+        },
+        {
+          "startSec": 41.9,
+          "endSec": 42.3,
+          "text": "cold"
+        },
+        {
+          "startSec": 42.3,
+          "endSec": 42.5,
+          "text": "as"
+        },
+        {
+          "startSec": 42.5,
+          "endSec": 43.5,
+          "text": "Finland."
+        },
+        {
+          "startSec": 43.5,
+          "endSec": 43.7,
+          "text": "But"
+        },
+        {
+          "startSec": 43.7,
+          "endSec": 44.1,
+          "text": "it's"
+        },
+        {
+          "startSec": 44.1,
+          "endSec": 44.3,
+          "text": "not"
+        },
+        {
+          "startSec": 44.3,
+          "endSec": 44.9,
+          "text": "unusual"
+        },
+        {
+          "startSec": 44.9,
+          "endSec": 45.1,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 44.9,
+      "endSec": 50.4,
+      "text": "to see some people dressed in t-shirts while others are wrapped up in warm clothes. Why",
+      "words": [
+        {
+          "startSec": 44.9,
+          "endSec": 45.1,
+          "text": "to"
+        },
+        {
+          "startSec": 45.1,
+          "endSec": 45.3,
+          "text": "see"
+        },
+        {
+          "startSec": 45.3,
+          "endSec": 45.6,
+          "text": "some"
+        },
+        {
+          "startSec": 45.6,
+          "endSec": 46.1,
+          "text": "people"
+        },
+        {
+          "startSec": 46.1,
+          "endSec": 46.6,
+          "text": "dressed"
+        },
+        {
+          "startSec": 46.6,
+          "endSec": 46.7,
+          "text": "in"
+        },
+        {
+          "startSec": 46.7,
+          "endSec": 47.3,
+          "text": "t-shirts"
+        },
+        {
+          "startSec": 47.3,
+          "endSec": 47.7,
+          "text": "while"
+        },
+        {
+          "startSec": 47.7,
+          "endSec": 48.2,
+          "text": "others"
+        },
+        {
+          "startSec": 48.2,
+          "endSec": 48.4,
+          "text": "are"
+        },
+        {
+          "startSec": 48.4,
+          "endSec": 48.9,
+          "text": "wrapped"
+        },
+        {
+          "startSec": 48.9,
+          "endSec": 49.1,
+          "text": "up"
+        },
+        {
+          "startSec": 49.1,
+          "endSec": 49.2,
+          "text": "in"
+        },
+        {
+          "startSec": 49.2,
+          "endSec": 49.5,
+          "text": "warm"
+        },
+        {
+          "startSec": 49.5,
+          "endSec": 50.4,
+          "text": "clothes."
+        },
+        {
+          "startSec": 50.4,
+          "endSec": 50.4,
+          "text": "Why"
+        },
+        {
+          "startSec": 50.4,
+          "endSec": 50.5,
+          "text": "do"
+        }
+      ]
+    },
+    {
+      "startSec": 50.4,
+      "endSec": 55.9,
+      "text": "do people feel the cold so differently? That's what we'll be discussing in this episode,",
+      "words": [
+        {
+          "startSec": 50.4,
+          "endSec": 50.4,
+          "text": "Why"
+        },
+        {
+          "startSec": 50.4,
+          "endSec": 50.5,
+          "text": "do"
+        },
+        {
+          "startSec": 50.5,
+          "endSec": 50.9,
+          "text": "people"
+        },
+        {
+          "startSec": 50.9,
+          "endSec": 51.2,
+          "text": "feel"
+        },
+        {
+          "startSec": 51.2,
+          "endSec": 51.4,
+          "text": "the"
+        },
+        {
+          "startSec": 51.4,
+          "endSec": 51.6,
+          "text": "cold"
+        },
+        {
+          "startSec": 51.6,
+          "endSec": 51.8,
+          "text": "so"
+        },
+        {
+          "startSec": 51.8,
+          "endSec": 52.7,
+          "text": "differently?"
+        },
+        {
+          "startSec": 52.7,
+          "endSec": 53.1,
+          "text": "That's"
+        },
+        {
+          "startSec": 53.1,
+          "endSec": 53.3,
+          "text": "what"
+        },
+        {
+          "startSec": 53.3,
+          "endSec": 53.6,
+          "text": "we'll"
+        },
+        {
+          "startSec": 53.6,
+          "endSec": 53.8,
+          "text": "be"
+        },
+        {
+          "startSec": 53.8,
+          "endSec": 54.4,
+          "text": "discussing"
+        },
+        {
+          "startSec": 54.4,
+          "endSec": 54.6,
+          "text": "in"
+        },
+        {
+          "startSec": 54.6,
+          "endSec": 54.9,
+          "text": "this"
+        },
+        {
+          "startSec": 54.9,
+          "endSec": 55.9,
+          "text": "episode,"
+        },
+        {
+          "startSec": 55.9,
+          "endSec": 56,
+          "text": "as"
+        }
+      ]
+    },
+    {
+      "startSec": 55.9,
+      "endSec": 59.2,
+      "text": "as well as learning some useful new words and phrases.",
+      "words": [
+        {
+          "startSec": 55.9,
+          "endSec": 56,
+          "text": "as"
+        },
+        {
+          "startSec": 56,
+          "endSec": 56.3,
+          "text": "well"
+        },
+        {
+          "startSec": 56.3,
+          "endSec": 56.4,
+          "text": "as"
+        },
+        {
+          "startSec": 56.4,
+          "endSec": 57,
+          "text": "learning"
+        },
+        {
+          "startSec": 57,
+          "endSec": 57.3,
+          "text": "some"
+        },
+        {
+          "startSec": 57.3,
+          "endSec": 57.7,
+          "text": "useful"
+        },
+        {
+          "startSec": 57.7,
+          "endSec": 57.9,
+          "text": "new"
+        },
+        {
+          "startSec": 57.9,
+          "endSec": 58.3,
+          "text": "words"
+        },
+        {
+          "startSec": 58.3,
+          "endSec": 58.5,
+          "text": "and"
+        },
+        {
+          "startSec": 58.5,
+          "endSec": 59.2,
+          "text": "phrases."
+        },
+        {
+          "startSec": 59.2,
+          "endSec": 59.4,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 59.2,
+      "endSec": 64.1,
+      "text": "And as always, you'll find all the vocabulary from this episode plus a quiz and worksheet",
+      "words": [
+        {
+          "startSec": 59.2,
+          "endSec": 59.4,
+          "text": "And"
+        },
+        {
+          "startSec": 59.4,
+          "endSec": 59.6,
+          "text": "as"
+        },
+        {
+          "startSec": 59.6,
+          "endSec": 60.1,
+          "text": "always,"
+        },
+        {
+          "startSec": 60.1,
+          "endSec": 60.5,
+          "text": "you'll"
+        },
+        {
+          "startSec": 60.5,
+          "endSec": 60.7,
+          "text": "find"
+        },
+        {
+          "startSec": 60.7,
+          "endSec": 60.9,
+          "text": "all"
+        },
+        {
+          "startSec": 60.9,
+          "endSec": 61.1,
+          "text": "the"
+        },
+        {
+          "startSec": 61.1,
+          "endSec": 61.8,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 61.8,
+          "endSec": 62,
+          "text": "from"
+        },
+        {
+          "startSec": 62,
+          "endSec": 62.3,
+          "text": "this"
+        },
+        {
+          "startSec": 62.3,
+          "endSec": 62.7,
+          "text": "episode"
+        },
+        {
+          "startSec": 62.7,
+          "endSec": 63,
+          "text": "plus"
+        },
+        {
+          "startSec": 63,
+          "endSec": 63,
+          "text": "a"
+        },
+        {
+          "startSec": 63,
+          "endSec": 63.3,
+          "text": "quiz"
+        },
+        {
+          "startSec": 63.3,
+          "endSec": 63.5,
+          "text": "and"
+        },
+        {
+          "startSec": 63.5,
+          "endSec": 64.1,
+          "text": "worksheet"
+        },
+        {
+          "startSec": 64.1,
+          "endSec": 64.3,
+          "text": "on"
+        }
+      ]
+    },
+    {
+      "startSec": 64.1,
+      "endSec": 69.8,
+      "text": "on our website, bbclearningenglish.com. But now I have a question for you Becca. According",
+      "words": [
+        {
+          "startSec": 64.1,
+          "endSec": 64.3,
+          "text": "on"
+        },
+        {
+          "startSec": 64.3,
+          "endSec": 64.5,
+          "text": "our"
+        },
+        {
+          "startSec": 64.5,
+          "endSec": 65.3,
+          "text": "website,"
+        },
+        {
+          "startSec": 65.3,
+          "endSec": 67.5,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 67.5,
+          "endSec": 67.7,
+          "text": "But"
+        },
+        {
+          "startSec": 67.7,
+          "endSec": 67.9,
+          "text": "now"
+        },
+        {
+          "startSec": 67.9,
+          "endSec": 67.9,
+          "text": "I"
+        },
+        {
+          "startSec": 67.9,
+          "endSec": 68.2,
+          "text": "have"
+        },
+        {
+          "startSec": 68.2,
+          "endSec": 68.3,
+          "text": "a"
+        },
+        {
+          "startSec": 68.3,
+          "endSec": 68.8,
+          "text": "question"
+        },
+        {
+          "startSec": 68.8,
+          "endSec": 69,
+          "text": "for"
+        },
+        {
+          "startSec": 69,
+          "endSec": 69.2,
+          "text": "you"
+        },
+        {
+          "startSec": 69.2,
+          "endSec": 69.8,
+          "text": "Becca."
+        },
+        {
+          "startSec": 69.8,
+          "endSec": 69.8,
+          "text": "According"
+        },
+        {
+          "startSec": 69.8,
+          "endSec": 70,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 69.8,
+      "endSec": 75.6,
+      "text": "to the Guinness Book of World Records, the lowest temperature ever recorded was a very",
+      "words": [
+        {
+          "startSec": 69.8,
+          "endSec": 69.8,
+          "text": "According"
+        },
+        {
+          "startSec": 69.8,
+          "endSec": 70,
+          "text": "to"
+        },
+        {
+          "startSec": 70,
+          "endSec": 70.2,
+          "text": "the"
+        },
+        {
+          "startSec": 70.2,
+          "endSec": 70.8,
+          "text": "Guinness"
+        },
+        {
+          "startSec": 70.8,
+          "endSec": 71.1,
+          "text": "Book"
+        },
+        {
+          "startSec": 71.1,
+          "endSec": 71.3,
+          "text": "of"
+        },
+        {
+          "startSec": 71.3,
+          "endSec": 71.7,
+          "text": "World"
+        },
+        {
+          "startSec": 71.7,
+          "endSec": 72.4,
+          "text": "Records,"
+        },
+        {
+          "startSec": 72.4,
+          "endSec": 72.6,
+          "text": "the"
+        },
+        {
+          "startSec": 72.6,
+          "endSec": 73.1,
+          "text": "lowest"
+        },
+        {
+          "startSec": 73.1,
+          "endSec": 73.9,
+          "text": "temperature"
+        },
+        {
+          "startSec": 73.9,
+          "endSec": 74.2,
+          "text": "ever"
+        },
+        {
+          "startSec": 74.2,
+          "endSec": 74.9,
+          "text": "recorded"
+        },
+        {
+          "startSec": 74.9,
+          "endSec": 75.1,
+          "text": "was"
+        },
+        {
+          "startSec": 75.1,
+          "endSec": 75.2,
+          "text": "a"
+        },
+        {
+          "startSec": 75.2,
+          "endSec": 75.6,
+          "text": "very"
+        },
+        {
+          "startSec": 75.6,
+          "endSec": 76,
+          "text": "cold"
+        }
+      ]
+    },
+    {
+      "startSec": 75.6,
+      "endSec": 85.4,
+      "text": "cold minus 89 degrees Celsius. But where? Was it A) the Arctic, B) Antarctica, or C)",
+      "words": [
+        {
+          "startSec": 75.6,
+          "endSec": 76,
+          "text": "cold"
+        },
+        {
+          "startSec": 76,
+          "endSec": 76.5,
+          "text": "minus"
+        },
+        {
+          "startSec": 76.5,
+          "endSec": 77.2,
+          "text": "89"
+        },
+        {
+          "startSec": 77.2,
+          "endSec": 77.9,
+          "text": "degrees"
+        },
+        {
+          "startSec": 77.9,
+          "endSec": 79,
+          "text": "Celsius."
+        },
+        {
+          "startSec": 79,
+          "endSec": 79.3,
+          "text": "But"
+        },
+        {
+          "startSec": 79.3,
+          "endSec": 80.3,
+          "text": "where?"
+        },
+        {
+          "startSec": 80.3,
+          "endSec": 80.7,
+          "text": "Was"
+        },
+        {
+          "startSec": 80.7,
+          "endSec": 80.9,
+          "text": "it"
+        },
+        {
+          "startSec": 80.9,
+          "endSec": 81.2,
+          "text": "A)"
+        },
+        {
+          "startSec": 81.2,
+          "endSec": 81.5,
+          "text": "the"
+        },
+        {
+          "startSec": 81.5,
+          "endSec": 82.5,
+          "text": "Arctic,"
+        },
+        {
+          "startSec": 82.5,
+          "endSec": 82.8,
+          "text": "B)"
+        },
+        {
+          "startSec": 82.8,
+          "endSec": 84.3,
+          "text": "Antarctica,"
+        },
+        {
+          "startSec": 84.3,
+          "endSec": 84.5,
+          "text": "or"
+        },
+        {
+          "startSec": 84.5,
+          "endSec": 85.4,
+          "text": "C)"
+        },
+        {
+          "startSec": 85.4,
+          "endSec": 85.5,
+          "text": "at"
+        }
+      ]
+    },
+    {
+      "startSec": 85.4,
+      "endSec": 91.6,
+      "text": "at the top of Mount Everest? I'm going to guess B) Antarctica.",
+      "words": [
+        {
+          "startSec": 85.4,
+          "endSec": 85.5,
+          "text": "at"
+        },
+        {
+          "startSec": 85.5,
+          "endSec": 85.7,
+          "text": "the"
+        },
+        {
+          "startSec": 85.7,
+          "endSec": 86,
+          "text": "top"
+        },
+        {
+          "startSec": 86,
+          "endSec": 86.1,
+          "text": "of"
+        },
+        {
+          "startSec": 86.1,
+          "endSec": 86.5,
+          "text": "Mount"
+        },
+        {
+          "startSec": 86.5,
+          "endSec": 87.3,
+          "text": "Everest?"
+        },
+        {
+          "startSec": 87.3,
+          "endSec": 87.7,
+          "text": "I'm"
+        },
+        {
+          "startSec": 87.7,
+          "endSec": 88.4,
+          "text": "going"
+        },
+        {
+          "startSec": 88.4,
+          "endSec": 88.7,
+          "text": "to"
+        },
+        {
+          "startSec": 88.7,
+          "endSec": 89.4,
+          "text": "guess"
+        },
+        {
+          "startSec": 89.4,
+          "endSec": 89.7,
+          "text": "B)"
+        },
+        {
+          "startSec": 89.7,
+          "endSec": 91.6,
+          "text": "Antarctica."
+        },
+        {
+          "startSec": 91.6,
+          "endSec": 92,
+          "text": "Okay,"
+        }
+      ]
+    },
+    {
+      "startSec": 91.6,
+      "endSec": 95.8,
+      "text": "Okay, well, we'll find out the answer at the end of the programme.",
+      "words": [
+        {
+          "startSec": 91.6,
+          "endSec": 92,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 92,
+          "endSec": 92.5,
+          "text": "well,"
+        },
+        {
+          "startSec": 92.5,
+          "endSec": 92.8,
+          "text": "we'll"
+        },
+        {
+          "startSec": 92.8,
+          "endSec": 93.1,
+          "text": "find"
+        },
+        {
+          "startSec": 93.1,
+          "endSec": 93.3,
+          "text": "out"
+        },
+        {
+          "startSec": 93.3,
+          "endSec": 93.5,
+          "text": "the"
+        },
+        {
+          "startSec": 93.5,
+          "endSec": 94,
+          "text": "answer"
+        },
+        {
+          "startSec": 94,
+          "endSec": 94.1,
+          "text": "at"
+        },
+        {
+          "startSec": 94.1,
+          "endSec": 94.3,
+          "text": "the"
+        },
+        {
+          "startSec": 94.3,
+          "endSec": 94.5,
+          "text": "end"
+        },
+        {
+          "startSec": 94.5,
+          "endSec": 94.7,
+          "text": "of"
+        },
+        {
+          "startSec": 94.7,
+          "endSec": 94.9,
+          "text": "the"
+        },
+        {
+          "startSec": 94.9,
+          "endSec": 95.8,
+          "text": "programme."
+        },
+        {
+          "startSec": 95.8,
+          "endSec": 96.1,
+          "text": "Our"
+        }
+      ]
+    },
+    {
+      "startSec": 95.8,
+      "endSec": 102.1,
+      "text": "Our experience of cold depends on many things, including our genes, culture and place of",
+      "words": [
+        {
+          "startSec": 95.8,
+          "endSec": 96.1,
+          "text": "Our"
+        },
+        {
+          "startSec": 96.1,
+          "endSec": 96.9,
+          "text": "experience"
+        },
+        {
+          "startSec": 96.9,
+          "endSec": 97.1,
+          "text": "of"
+        },
+        {
+          "startSec": 97.1,
+          "endSec": 97.4,
+          "text": "cold"
+        },
+        {
+          "startSec": 97.4,
+          "endSec": 98,
+          "text": "depends"
+        },
+        {
+          "startSec": 98,
+          "endSec": 98.1,
+          "text": "on"
+        },
+        {
+          "startSec": 98.1,
+          "endSec": 98.5,
+          "text": "many"
+        },
+        {
+          "startSec": 98.5,
+          "endSec": 99.1,
+          "text": "things,"
+        },
+        {
+          "startSec": 99.1,
+          "endSec": 99.8,
+          "text": "including"
+        },
+        {
+          "startSec": 99.8,
+          "endSec": 100.1,
+          "text": "our"
+        },
+        {
+          "startSec": 100.1,
+          "endSec": 100.7,
+          "text": "genes,"
+        },
+        {
+          "startSec": 100.7,
+          "endSec": 101.2,
+          "text": "culture"
+        },
+        {
+          "startSec": 101.2,
+          "endSec": 101.5,
+          "text": "and"
+        },
+        {
+          "startSec": 101.5,
+          "endSec": 101.9,
+          "text": "place"
+        },
+        {
+          "startSec": 101.9,
+          "endSec": 102.1,
+          "text": "of"
+        },
+        {
+          "startSec": 102.1,
+          "endSec": 102.8,
+          "text": "birth."
+        }
+      ]
+    },
+    {
+      "startSec": 102.1,
+      "endSec": 109.5,
+      "text": "birth. But perhaps the most obvious thing is the clothes we wear. Professor Ganyan Sartran",
+      "words": [
+        {
+          "startSec": 102.1,
+          "endSec": 102.8,
+          "text": "birth."
+        },
+        {
+          "startSec": 102.8,
+          "endSec": 103.1,
+          "text": "But"
+        },
+        {
+          "startSec": 103.1,
+          "endSec": 103.7,
+          "text": "perhaps"
+        },
+        {
+          "startSec": 103.7,
+          "endSec": 103.9,
+          "text": "the"
+        },
+        {
+          "startSec": 103.9,
+          "endSec": 104.3,
+          "text": "most"
+        },
+        {
+          "startSec": 104.3,
+          "endSec": 104.9,
+          "text": "obvious"
+        },
+        {
+          "startSec": 104.9,
+          "endSec": 105.3,
+          "text": "thing"
+        },
+        {
+          "startSec": 105.3,
+          "endSec": 105.5,
+          "text": "is"
+        },
+        {
+          "startSec": 105.5,
+          "endSec": 105.8,
+          "text": "the"
+        },
+        {
+          "startSec": 105.8,
+          "endSec": 106.7,
+          "text": "clothes"
+        },
+        {
+          "startSec": 106.7,
+          "endSec": 106.9,
+          "text": "we"
+        },
+        {
+          "startSec": 106.9,
+          "endSec": 107.8,
+          "text": "wear."
+        },
+        {
+          "startSec": 107.8,
+          "endSec": 108.3,
+          "text": "Professor"
+        },
+        {
+          "startSec": 108.3,
+          "endSec": 108.6,
+          "text": "Ganyan"
+        },
+        {
+          "startSec": 108.6,
+          "endSec": 109.5,
+          "text": "Sartran"
+        }
+      ]
+    },
+    {
+      "startSec": 109.5,
+      "endSec": 117,
+      "text": "lives on the icy island of Svalbard, 800 miles inside the Arctic Circle. Here, she advises",
+      "words": [
+        {
+          "startSec": 109.6,
+          "endSec": 110,
+          "text": "lives"
+        },
+        {
+          "startSec": 110,
+          "endSec": 110.1,
+          "text": "on"
+        },
+        {
+          "startSec": 110.1,
+          "endSec": 110.4,
+          "text": "the"
+        },
+        {
+          "startSec": 110.4,
+          "endSec": 110.7,
+          "text": "icy"
+        },
+        {
+          "startSec": 110.7,
+          "endSec": 111.3,
+          "text": "island"
+        },
+        {
+          "startSec": 111.3,
+          "endSec": 111.4,
+          "text": "of"
+        },
+        {
+          "startSec": 111.4,
+          "endSec": 112.4,
+          "text": "Svalbard,"
+        },
+        {
+          "startSec": 112.4,
+          "endSec": 113.2,
+          "text": "800"
+        },
+        {
+          "startSec": 113.2,
+          "endSec": 113.7,
+          "text": "miles"
+        },
+        {
+          "startSec": 113.7,
+          "endSec": 114.2,
+          "text": "inside"
+        },
+        {
+          "startSec": 114.2,
+          "endSec": 114.5,
+          "text": "the"
+        },
+        {
+          "startSec": 114.5,
+          "endSec": 115,
+          "text": "Arctic"
+        },
+        {
+          "startSec": 115,
+          "endSec": 116,
+          "text": "Circle."
+        },
+        {
+          "startSec": 116,
+          "endSec": 116.3,
+          "text": "Here,"
+        },
+        {
+          "startSec": 116.3,
+          "endSec": 116.4,
+          "text": "she"
+        },
+        {
+          "startSec": 116.4,
+          "endSec": 117,
+          "text": "advises"
+        },
+        {
+          "startSec": 117,
+          "endSec": 117.8,
+          "text": "presenter"
+        }
+      ]
+    },
+    {
+      "startSec": 117,
+      "endSec": 124.1,
+      "text": "presenter Caroline Steele on how to dress against the cold for BBC World Service programme,",
+      "words": [
+        {
+          "startSec": 117,
+          "endSec": 117.8,
+          "text": "presenter"
+        },
+        {
+          "startSec": 117.8,
+          "endSec": 118.5,
+          "text": "Caroline"
+        },
+        {
+          "startSec": 118.5,
+          "endSec": 119.1,
+          "text": "Steele"
+        },
+        {
+          "startSec": 119.1,
+          "endSec": 119.2,
+          "text": "on"
+        },
+        {
+          "startSec": 119.2,
+          "endSec": 119.5,
+          "text": "how"
+        },
+        {
+          "startSec": 119.5,
+          "endSec": 119.7,
+          "text": "to"
+        },
+        {
+          "startSec": 119.7,
+          "endSec": 120.2,
+          "text": "dress"
+        },
+        {
+          "startSec": 120.2,
+          "endSec": 120.8,
+          "text": "against"
+        },
+        {
+          "startSec": 120.8,
+          "endSec": 121.1,
+          "text": "the"
+        },
+        {
+          "startSec": 121.1,
+          "endSec": 121.4,
+          "text": "cold"
+        },
+        {
+          "startSec": 121.4,
+          "endSec": 121.7,
+          "text": "for"
+        },
+        {
+          "startSec": 121.7,
+          "endSec": 122,
+          "text": "BBC"
+        },
+        {
+          "startSec": 122,
+          "endSec": 122.4,
+          "text": "World"
+        },
+        {
+          "startSec": 122.4,
+          "endSec": 123.1,
+          "text": "Service"
+        },
+        {
+          "startSec": 123.1,
+          "endSec": 124.1,
+          "text": "programme,"
+        },
+        {
+          "startSec": 124.1,
+          "endSec": 124.7,
+          "text": "Crowd"
+        }
+      ]
+    },
+    {
+      "startSec": 124.1,
+      "endSec": 125.8,
+      "text": "Crowd Science.",
+      "words": [
+        {
+          "startSec": 124.1,
+          "endSec": 124.7,
+          "text": "Crowd"
+        },
+        {
+          "startSec": 124.7,
+          "endSec": 125.8,
+          "text": "Science."
+        },
+        {
+          "startSec": 125.8,
+          "endSec": 125.9,
+          "text": "So"
+        }
+      ]
+    },
+    {
+      "startSec": 125.8,
+      "endSec": 129.5,
+      "text": "So what should we consider when choosing our clothes?",
+      "words": [
+        {
+          "startSec": 125.8,
+          "endSec": 125.9,
+          "text": "So"
+        },
+        {
+          "startSec": 125.9,
+          "endSec": 126.2,
+          "text": "what"
+        },
+        {
+          "startSec": 126.2,
+          "endSec": 126.7,
+          "text": "should"
+        },
+        {
+          "startSec": 126.7,
+          "endSec": 126.9,
+          "text": "we"
+        },
+        {
+          "startSec": 126.9,
+          "endSec": 127.5,
+          "text": "consider"
+        },
+        {
+          "startSec": 127.5,
+          "endSec": 127.8,
+          "text": "when"
+        },
+        {
+          "startSec": 127.8,
+          "endSec": 128.5,
+          "text": "choosing"
+        },
+        {
+          "startSec": 128.5,
+          "endSec": 128.7,
+          "text": "our"
+        },
+        {
+          "startSec": 128.7,
+          "endSec": 129.5,
+          "text": "clothes?"
+        },
+        {
+          "startSec": 129.5,
+          "endSec": 130.1,
+          "text": "First"
+        }
+      ]
+    },
+    {
+      "startSec": 129.5,
+      "endSec": 137.6,
+      "text": "First or foremost, I would say that perhaps the gender differs. So male often are more",
+      "words": [
+        {
+          "startSec": 129.5,
+          "endSec": 130.1,
+          "text": "First"
+        },
+        {
+          "startSec": 130.1,
+          "endSec": 130.3,
+          "text": "or"
+        },
+        {
+          "startSec": 130.3,
+          "endSec": 131.5,
+          "text": "foremost,"
+        },
+        {
+          "startSec": 131.5,
+          "endSec": 131.6,
+          "text": "I"
+        },
+        {
+          "startSec": 131.6,
+          "endSec": 132.2,
+          "text": "would"
+        },
+        {
+          "startSec": 132.2,
+          "endSec": 132.5,
+          "text": "say"
+        },
+        {
+          "startSec": 132.5,
+          "endSec": 133,
+          "text": "that"
+        },
+        {
+          "startSec": 133,
+          "endSec": 133.8,
+          "text": "perhaps"
+        },
+        {
+          "startSec": 133.8,
+          "endSec": 134.1,
+          "text": "the"
+        },
+        {
+          "startSec": 134.1,
+          "endSec": 134.8,
+          "text": "gender"
+        },
+        {
+          "startSec": 134.8,
+          "endSec": 136,
+          "text": "differs."
+        },
+        {
+          "startSec": 136,
+          "endSec": 136.2,
+          "text": "So"
+        },
+        {
+          "startSec": 136.2,
+          "endSec": 136.5,
+          "text": "male"
+        },
+        {
+          "startSec": 136.5,
+          "endSec": 136.9,
+          "text": "often"
+        },
+        {
+          "startSec": 136.9,
+          "endSec": 137.5,
+          "text": "are"
+        },
+        {
+          "startSec": 137.5,
+          "endSec": 137.6,
+          "text": "more"
+        }
+      ]
+    },
+    {
+      "startSec": 137.6,
+      "endSec": 142.4,
+      "text": "tolerant, perhaps, than females. Then it's of course what you're used to. Are you used",
+      "words": [
+        {
+          "startSec": 137.7,
+          "endSec": 138.3,
+          "text": "tolerant,"
+        },
+        {
+          "startSec": 138.3,
+          "endSec": 138.9,
+          "text": "perhaps,"
+        },
+        {
+          "startSec": 138.9,
+          "endSec": 139.2,
+          "text": "than"
+        },
+        {
+          "startSec": 139.2,
+          "endSec": 139.9,
+          "text": "females."
+        },
+        {
+          "startSec": 139.9,
+          "endSec": 140.1,
+          "text": "Then"
+        },
+        {
+          "startSec": 140.1,
+          "endSec": 140.3,
+          "text": "it's"
+        },
+        {
+          "startSec": 140.3,
+          "endSec": 140.4,
+          "text": "of"
+        },
+        {
+          "startSec": 140.4,
+          "endSec": 140.8,
+          "text": "course"
+        },
+        {
+          "startSec": 140.8,
+          "endSec": 141,
+          "text": "what"
+        },
+        {
+          "startSec": 141,
+          "endSec": 141.3,
+          "text": "you're"
+        },
+        {
+          "startSec": 141.3,
+          "endSec": 141.5,
+          "text": "used"
+        },
+        {
+          "startSec": 141.5,
+          "endSec": 141.8,
+          "text": "to."
+        },
+        {
+          "startSec": 141.8,
+          "endSec": 141.9,
+          "text": "Are"
+        },
+        {
+          "startSec": 141.9,
+          "endSec": 141.9,
+          "text": "you"
+        },
+        {
+          "startSec": 141.9,
+          "endSec": 142.4,
+          "text": "used"
+        },
+        {
+          "startSec": 142.4,
+          "endSec": 142.5,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 142.4,
+      "endSec": 145.3,
+      "text": "to dealing with the cold? Are you not?",
+      "words": [
+        {
+          "startSec": 142.4,
+          "endSec": 142.5,
+          "text": "to"
+        },
+        {
+          "startSec": 142.5,
+          "endSec": 143.1,
+          "text": "dealing"
+        },
+        {
+          "startSec": 143.1,
+          "endSec": 143.5,
+          "text": "with"
+        },
+        {
+          "startSec": 143.5,
+          "endSec": 143.7,
+          "text": "the"
+        },
+        {
+          "startSec": 143.7,
+          "endSec": 144.3,
+          "text": "cold?"
+        },
+        {
+          "startSec": 144.3,
+          "endSec": 144.5,
+          "text": "Are"
+        },
+        {
+          "startSec": 144.5,
+          "endSec": 144.8,
+          "text": "you"
+        },
+        {
+          "startSec": 144.8,
+          "endSec": 145.3,
+          "text": "not?"
+        },
+        {
+          "startSec": 145.3,
+          "endSec": 145.8,
+          "text": "Ganyan"
+        }
+      ]
+    },
+    {
+      "startSec": 145.3,
+      "endSec": 151,
+      "text": "Ganyan Hill says that first and foremost, men and women filled the cold differently. She",
+      "words": [
+        {
+          "startSec": 145.3,
+          "endSec": 145.8,
+          "text": "Ganyan"
+        },
+        {
+          "startSec": 145.8,
+          "endSec": 146.1,
+          "text": "Hill"
+        },
+        {
+          "startSec": 146.1,
+          "endSec": 146.4,
+          "text": "says"
+        },
+        {
+          "startSec": 146.4,
+          "endSec": 146.7,
+          "text": "that"
+        },
+        {
+          "startSec": 146.7,
+          "endSec": 147,
+          "text": "first"
+        },
+        {
+          "startSec": 147,
+          "endSec": 147.3,
+          "text": "and"
+        },
+        {
+          "startSec": 147.3,
+          "endSec": 148,
+          "text": "foremost,"
+        },
+        {
+          "startSec": 148,
+          "endSec": 148.2,
+          "text": "men"
+        },
+        {
+          "startSec": 148.2,
+          "endSec": 148.5,
+          "text": "and"
+        },
+        {
+          "startSec": 148.5,
+          "endSec": 148.8,
+          "text": "women"
+        },
+        {
+          "startSec": 148.8,
+          "endSec": 149.3,
+          "text": "filled"
+        },
+        {
+          "startSec": 149.3,
+          "endSec": 149.5,
+          "text": "the"
+        },
+        {
+          "startSec": 149.5,
+          "endSec": 149.8,
+          "text": "cold"
+        },
+        {
+          "startSec": 149.8,
+          "endSec": 151,
+          "text": "differently."
+        },
+        {
+          "startSec": 151,
+          "endSec": 151,
+          "text": "She"
+        },
+        {
+          "startSec": 151,
+          "endSec": 151.3,
+          "text": "uses"
+        }
+      ]
+    },
+    {
+      "startSec": 151,
+      "endSec": 156.5,
+      "text": "uses the phrase first and foremost to mean more than anything else. She wants to emphasise",
+      "words": [
+        {
+          "startSec": 151,
+          "endSec": 151,
+          "text": "She"
+        },
+        {
+          "startSec": 151,
+          "endSec": 151.3,
+          "text": "uses"
+        },
+        {
+          "startSec": 151.3,
+          "endSec": 151.5,
+          "text": "the"
+        },
+        {
+          "startSec": 151.5,
+          "endSec": 152,
+          "text": "phrase"
+        },
+        {
+          "startSec": 152,
+          "endSec": 152.4,
+          "text": "first"
+        },
+        {
+          "startSec": 152.4,
+          "endSec": 152.6,
+          "text": "and"
+        },
+        {
+          "startSec": 152.6,
+          "endSec": 153.2,
+          "text": "foremost"
+        },
+        {
+          "startSec": 153.2,
+          "endSec": 153.4,
+          "text": "to"
+        },
+        {
+          "startSec": 153.4,
+          "endSec": 153.7,
+          "text": "mean"
+        },
+        {
+          "startSec": 153.7,
+          "endSec": 154,
+          "text": "more"
+        },
+        {
+          "startSec": 154,
+          "endSec": 154.3,
+          "text": "than"
+        },
+        {
+          "startSec": 154.3,
+          "endSec": 154.9,
+          "text": "anything"
+        },
+        {
+          "startSec": 154.9,
+          "endSec": 155.6,
+          "text": "else."
+        },
+        {
+          "startSec": 155.6,
+          "endSec": 155.7,
+          "text": "She"
+        },
+        {
+          "startSec": 155.7,
+          "endSec": 156,
+          "text": "wants"
+        },
+        {
+          "startSec": 156,
+          "endSec": 156.1,
+          "text": "to"
+        },
+        {
+          "startSec": 156.1,
+          "endSec": 156.5,
+          "text": "emphasise"
+        },
+        {
+          "startSec": 156.5,
+          "endSec": 156.8,
+          "text": "that"
+        }
+      ]
+    },
+    {
+      "startSec": 156.5,
+      "endSec": 162,
+      "text": "that something, in this case, someone's gender, is the most important thing to consider.",
+      "words": [
+        {
+          "startSec": 156.5,
+          "endSec": 156.8,
+          "text": "that"
+        },
+        {
+          "startSec": 156.8,
+          "endSec": 157.5,
+          "text": "something,"
+        },
+        {
+          "startSec": 157.5,
+          "endSec": 157.7,
+          "text": "in"
+        },
+        {
+          "startSec": 157.7,
+          "endSec": 157.9,
+          "text": "this"
+        },
+        {
+          "startSec": 157.9,
+          "endSec": 158.3,
+          "text": "case,"
+        },
+        {
+          "startSec": 158.3,
+          "endSec": 159,
+          "text": "someone's"
+        },
+        {
+          "startSec": 159,
+          "endSec": 159.5,
+          "text": "gender,"
+        },
+        {
+          "startSec": 159.5,
+          "endSec": 159.6,
+          "text": "is"
+        },
+        {
+          "startSec": 159.6,
+          "endSec": 159.8,
+          "text": "the"
+        },
+        {
+          "startSec": 159.8,
+          "endSec": 160.1,
+          "text": "most"
+        },
+        {
+          "startSec": 160.1,
+          "endSec": 160.7,
+          "text": "important"
+        },
+        {
+          "startSec": 160.7,
+          "endSec": 161.1,
+          "text": "thing"
+        },
+        {
+          "startSec": 161.1,
+          "endSec": 161.2,
+          "text": "to"
+        },
+        {
+          "startSec": 161.2,
+          "endSec": 162,
+          "text": "consider."
+        },
+        {
+          "startSec": 162,
+          "endSec": 162.5,
+          "text": "There"
+        }
+      ]
+    },
+    {
+      "startSec": 162,
+      "endSec": 167.5,
+      "text": "There is some debate about whether men or women are more tolerant of the cold. Being",
+      "words": [
+        {
+          "startSec": 162,
+          "endSec": 162.5,
+          "text": "There"
+        },
+        {
+          "startSec": 162.5,
+          "endSec": 162.6,
+          "text": "is"
+        },
+        {
+          "startSec": 162.6,
+          "endSec": 162.9,
+          "text": "some"
+        },
+        {
+          "startSec": 162.9,
+          "endSec": 163.4,
+          "text": "debate"
+        },
+        {
+          "startSec": 163.4,
+          "endSec": 163.8,
+          "text": "about"
+        },
+        {
+          "startSec": 163.8,
+          "endSec": 164.4,
+          "text": "whether"
+        },
+        {
+          "startSec": 164.4,
+          "endSec": 164.6,
+          "text": "men"
+        },
+        {
+          "startSec": 164.6,
+          "endSec": 164.8,
+          "text": "or"
+        },
+        {
+          "startSec": 164.8,
+          "endSec": 165.2,
+          "text": "women"
+        },
+        {
+          "startSec": 165.2,
+          "endSec": 165.5,
+          "text": "are"
+        },
+        {
+          "startSec": 165.5,
+          "endSec": 165.8,
+          "text": "more"
+        },
+        {
+          "startSec": 165.8,
+          "endSec": 166.4,
+          "text": "tolerant"
+        },
+        {
+          "startSec": 166.4,
+          "endSec": 166.6,
+          "text": "of"
+        },
+        {
+          "startSec": 166.6,
+          "endSec": 166.8,
+          "text": "the"
+        },
+        {
+          "startSec": 166.8,
+          "endSec": 167.5,
+          "text": "cold."
+        },
+        {
+          "startSec": 167.5,
+          "endSec": 167.5,
+          "text": "Being"
+        }
+      ]
+    },
+    {
+      "startSec": 167.5,
+      "endSec": 173,
+      "text": "tolerant of something means being able to endure it without getting hurt.",
+      "words": [
+        {
+          "startSec": 167.5,
+          "endSec": 167.5,
+          "text": "Being"
+        },
+        {
+          "startSec": 167.6,
+          "endSec": 168.2,
+          "text": "tolerant"
+        },
+        {
+          "startSec": 168.2,
+          "endSec": 168.3,
+          "text": "of"
+        },
+        {
+          "startSec": 168.3,
+          "endSec": 169.1,
+          "text": "something"
+        },
+        {
+          "startSec": 169.1,
+          "endSec": 169.5,
+          "text": "means"
+        },
+        {
+          "startSec": 169.5,
+          "endSec": 169.9,
+          "text": "being"
+        },
+        {
+          "startSec": 169.9,
+          "endSec": 170.3,
+          "text": "able"
+        },
+        {
+          "startSec": 170.3,
+          "endSec": 170.5,
+          "text": "to"
+        },
+        {
+          "startSec": 170.5,
+          "endSec": 171,
+          "text": "endure"
+        },
+        {
+          "startSec": 171,
+          "endSec": 171.1,
+          "text": "it"
+        },
+        {
+          "startSec": 171.1,
+          "endSec": 171.7,
+          "text": "without"
+        },
+        {
+          "startSec": 171.7,
+          "endSec": 172.3,
+          "text": "getting"
+        },
+        {
+          "startSec": 172.3,
+          "endSec": 173,
+          "text": "hurt."
+        },
+        {
+          "startSec": 173,
+          "endSec": 173.4,
+          "text": "Another"
+        }
+      ]
+    },
+    {
+      "startSec": 173,
+      "endSec": 178.3,
+      "text": "Another important factor is whether you are used to the cold, if being in cold environments",
+      "words": [
+        {
+          "startSec": 173,
+          "endSec": 173.4,
+          "text": "Another"
+        },
+        {
+          "startSec": 173.4,
+          "endSec": 174.1,
+          "text": "important"
+        },
+        {
+          "startSec": 174.1,
+          "endSec": 174.5,
+          "text": "factor"
+        },
+        {
+          "startSec": 174.5,
+          "endSec": 174.6,
+          "text": "is"
+        },
+        {
+          "startSec": 174.6,
+          "endSec": 175.1,
+          "text": "whether"
+        },
+        {
+          "startSec": 175.1,
+          "endSec": 175.3,
+          "text": "you"
+        },
+        {
+          "startSec": 175.3,
+          "endSec": 175.5,
+          "text": "are"
+        },
+        {
+          "startSec": 175.5,
+          "endSec": 175.8,
+          "text": "used"
+        },
+        {
+          "startSec": 175.8,
+          "endSec": 175.9,
+          "text": "to"
+        },
+        {
+          "startSec": 175.9,
+          "endSec": 176.1,
+          "text": "the"
+        },
+        {
+          "startSec": 176.1,
+          "endSec": 176.5,
+          "text": "cold,"
+        },
+        {
+          "startSec": 176.5,
+          "endSec": 176.6,
+          "text": "if"
+        },
+        {
+          "startSec": 176.6,
+          "endSec": 177,
+          "text": "being"
+        },
+        {
+          "startSec": 177,
+          "endSec": 177.1,
+          "text": "in"
+        },
+        {
+          "startSec": 177.1,
+          "endSec": 177.3,
+          "text": "cold"
+        },
+        {
+          "startSec": 177.3,
+          "endSec": 178.3,
+          "text": "environments"
+        },
+        {
+          "startSec": 178.3,
+          "endSec": 178.4,
+          "text": "is"
+        }
+      ]
+    },
+    {
+      "startSec": 178.3,
+      "endSec": 180.8,
+      "text": "is something you're familiar with.",
+      "words": [
+        {
+          "startSec": 178.3,
+          "endSec": 178.4,
+          "text": "is"
+        },
+        {
+          "startSec": 178.4,
+          "endSec": 179.1,
+          "text": "something"
+        },
+        {
+          "startSec": 179.1,
+          "endSec": 179.6,
+          "text": "you're"
+        },
+        {
+          "startSec": 179.6,
+          "endSec": 180.2,
+          "text": "familiar"
+        },
+        {
+          "startSec": 180.2,
+          "endSec": 180.8,
+          "text": "with."
+        },
+        {
+          "startSec": 180.8,
+          "endSec": 180.9,
+          "text": "It"
+        }
+      ]
+    },
+    {
+      "startSec": 180.8,
+      "endSec": 186,
+      "text": "It might sound obvious that someone born in Arctic Svalbard would feel less cold than",
+      "words": [
+        {
+          "startSec": 180.8,
+          "endSec": 180.9,
+          "text": "It"
+        },
+        {
+          "startSec": 180.9,
+          "endSec": 181.3,
+          "text": "might"
+        },
+        {
+          "startSec": 181.3,
+          "endSec": 181.6,
+          "text": "sound"
+        },
+        {
+          "startSec": 181.6,
+          "endSec": 182.2,
+          "text": "obvious"
+        },
+        {
+          "startSec": 182.2,
+          "endSec": 182.5,
+          "text": "that"
+        },
+        {
+          "startSec": 182.5,
+          "endSec": 183,
+          "text": "someone"
+        },
+        {
+          "startSec": 183,
+          "endSec": 183.3,
+          "text": "born"
+        },
+        {
+          "startSec": 183.3,
+          "endSec": 183.4,
+          "text": "in"
+        },
+        {
+          "startSec": 183.4,
+          "endSec": 183.8,
+          "text": "Arctic"
+        },
+        {
+          "startSec": 183.8,
+          "endSec": 184.4,
+          "text": "Svalbard"
+        },
+        {
+          "startSec": 184.4,
+          "endSec": 184.8,
+          "text": "would"
+        },
+        {
+          "startSec": 184.8,
+          "endSec": 185.1,
+          "text": "feel"
+        },
+        {
+          "startSec": 185.1,
+          "endSec": 185.4,
+          "text": "less"
+        },
+        {
+          "startSec": 185.4,
+          "endSec": 185.7,
+          "text": "cold"
+        },
+        {
+          "startSec": 185.7,
+          "endSec": 186,
+          "text": "than"
+        },
+        {
+          "startSec": 186,
+          "endSec": 186.5,
+          "text": "someone"
+        }
+      ]
+    },
+    {
+      "startSec": 186,
+      "endSec": 191.8,
+      "text": "someone born in Brazil, but apart from environmental factors, are there actual physical differences",
+      "words": [
+        {
+          "startSec": 186,
+          "endSec": 186.5,
+          "text": "someone"
+        },
+        {
+          "startSec": 186.5,
+          "endSec": 186.8,
+          "text": "born"
+        },
+        {
+          "startSec": 186.8,
+          "endSec": 186.9,
+          "text": "in"
+        },
+        {
+          "startSec": 186.9,
+          "endSec": 187.4,
+          "text": "Brazil,"
+        },
+        {
+          "startSec": 187.4,
+          "endSec": 187.6,
+          "text": "but"
+        },
+        {
+          "startSec": 187.6,
+          "endSec": 188,
+          "text": "apart"
+        },
+        {
+          "startSec": 188,
+          "endSec": 188.2,
+          "text": "from"
+        },
+        {
+          "startSec": 188.2,
+          "endSec": 189.1,
+          "text": "environmental"
+        },
+        {
+          "startSec": 189.1,
+          "endSec": 189.7,
+          "text": "factors,"
+        },
+        {
+          "startSec": 189.7,
+          "endSec": 189.9,
+          "text": "are"
+        },
+        {
+          "startSec": 189.9,
+          "endSec": 190.2,
+          "text": "there"
+        },
+        {
+          "startSec": 190.2,
+          "endSec": 190.6,
+          "text": "actual"
+        },
+        {
+          "startSec": 190.6,
+          "endSec": 191.2,
+          "text": "physical"
+        },
+        {
+          "startSec": 191.2,
+          "endSec": 191.8,
+          "text": "differences"
+        },
+        {
+          "startSec": 191.8,
+          "endSec": 192.2,
+          "text": "that"
+        }
+      ]
+    },
+    {
+      "startSec": 191.8,
+      "endSec": 195.1,
+      "text": "that allow people to cope better with the cold?",
+      "words": [
+        {
+          "startSec": 191.8,
+          "endSec": 192.2,
+          "text": "that"
+        },
+        {
+          "startSec": 192.2,
+          "endSec": 192.6,
+          "text": "allow"
+        },
+        {
+          "startSec": 192.6,
+          "endSec": 193,
+          "text": "people"
+        },
+        {
+          "startSec": 193,
+          "endSec": 193.2,
+          "text": "to"
+        },
+        {
+          "startSec": 193.2,
+          "endSec": 193.5,
+          "text": "cope"
+        },
+        {
+          "startSec": 193.5,
+          "endSec": 194,
+          "text": "better"
+        },
+        {
+          "startSec": 194,
+          "endSec": 194.3,
+          "text": "with"
+        },
+        {
+          "startSec": 194.3,
+          "endSec": 194.5,
+          "text": "the"
+        },
+        {
+          "startSec": 194.5,
+          "endSec": 195.1,
+          "text": "cold?"
+        }
+      ]
+    },
+    {
+      "startSec": 195.1,
+      "endSec": 201.4,
+      "text": "Dr Cara Okubok studies reindeer herders in Northern Finland, people who live in cold temperatures",
+      "words": [
+        {
+          "startSec": 195.2,
+          "endSec": 195.3,
+          "text": "Dr"
+        },
+        {
+          "startSec": 195.3,
+          "endSec": 195.6,
+          "text": "Cara"
+        },
+        {
+          "startSec": 195.6,
+          "endSec": 196.1,
+          "text": "Okubok"
+        },
+        {
+          "startSec": 196.1,
+          "endSec": 196.6,
+          "text": "studies"
+        },
+        {
+          "startSec": 196.6,
+          "endSec": 197.2,
+          "text": "reindeer"
+        },
+        {
+          "startSec": 197.2,
+          "endSec": 197.8,
+          "text": "herders"
+        },
+        {
+          "startSec": 197.8,
+          "endSec": 197.9,
+          "text": "in"
+        },
+        {
+          "startSec": 197.9,
+          "endSec": 198.6,
+          "text": "Northern"
+        },
+        {
+          "startSec": 198.6,
+          "endSec": 199.3,
+          "text": "Finland,"
+        },
+        {
+          "startSec": 199.3,
+          "endSec": 199.7,
+          "text": "people"
+        },
+        {
+          "startSec": 199.7,
+          "endSec": 200,
+          "text": "who"
+        },
+        {
+          "startSec": 200,
+          "endSec": 200.3,
+          "text": "live"
+        },
+        {
+          "startSec": 200.3,
+          "endSec": 200.5,
+          "text": "in"
+        },
+        {
+          "startSec": 200.5,
+          "endSec": 200.9,
+          "text": "cold"
+        },
+        {
+          "startSec": 200.9,
+          "endSec": 201.4,
+          "text": "temperatures"
+        },
+        {
+          "startSec": 201.4,
+          "endSec": 201.8,
+          "text": "every"
+        }
+      ]
+    },
+    {
+      "startSec": 201.4,
+      "endSec": 206.6,
+      "text": "every day and have done for centuries. She measures their reaction to extreme cold and",
+      "words": [
+        {
+          "startSec": 201.4,
+          "endSec": 201.8,
+          "text": "every"
+        },
+        {
+          "startSec": 201.8,
+          "endSec": 202.1,
+          "text": "day"
+        },
+        {
+          "startSec": 202.1,
+          "endSec": 202.3,
+          "text": "and"
+        },
+        {
+          "startSec": 202.3,
+          "endSec": 202.6,
+          "text": "have"
+        },
+        {
+          "startSec": 202.6,
+          "endSec": 202.9,
+          "text": "done"
+        },
+        {
+          "startSec": 202.9,
+          "endSec": 203.1,
+          "text": "for"
+        },
+        {
+          "startSec": 203.1,
+          "endSec": 204.1,
+          "text": "centuries."
+        },
+        {
+          "startSec": 204.1,
+          "endSec": 204.3,
+          "text": "She"
+        },
+        {
+          "startSec": 204.3,
+          "endSec": 204.8,
+          "text": "measures"
+        },
+        {
+          "startSec": 204.8,
+          "endSec": 205.1,
+          "text": "their"
+        },
+        {
+          "startSec": 205.1,
+          "endSec": 205.6,
+          "text": "reaction"
+        },
+        {
+          "startSec": 205.6,
+          "endSec": 205.7,
+          "text": "to"
+        },
+        {
+          "startSec": 205.7,
+          "endSec": 206.2,
+          "text": "extreme"
+        },
+        {
+          "startSec": 206.2,
+          "endSec": 206.5,
+          "text": "cold"
+        },
+        {
+          "startSec": 206.5,
+          "endSec": 206.6,
+          "text": "and"
+        },
+        {
+          "startSec": 206.6,
+          "endSec": 207.2,
+          "text": "compares"
+        }
+      ]
+    },
+    {
+      "startSec": 206.6,
+      "endSec": 212.9,
+      "text": "compares it to ordinary fins from warmer parts of the country. Here, Cara shares her findings",
+      "words": [
+        {
+          "startSec": 206.6,
+          "endSec": 207.2,
+          "text": "compares"
+        },
+        {
+          "startSec": 207.2,
+          "endSec": 207.4,
+          "text": "it"
+        },
+        {
+          "startSec": 207.4,
+          "endSec": 207.5,
+          "text": "to"
+        },
+        {
+          "startSec": 207.5,
+          "endSec": 208.1,
+          "text": "ordinary"
+        },
+        {
+          "startSec": 208.1,
+          "endSec": 208.4,
+          "text": "fins"
+        },
+        {
+          "startSec": 208.4,
+          "endSec": 208.7,
+          "text": "from"
+        },
+        {
+          "startSec": 208.7,
+          "endSec": 209.1,
+          "text": "warmer"
+        },
+        {
+          "startSec": 209.1,
+          "endSec": 209.5,
+          "text": "parts"
+        },
+        {
+          "startSec": 209.5,
+          "endSec": 209.6,
+          "text": "of"
+        },
+        {
+          "startSec": 209.6,
+          "endSec": 209.8,
+          "text": "the"
+        },
+        {
+          "startSec": 209.8,
+          "endSec": 210.6,
+          "text": "country."
+        },
+        {
+          "startSec": 210.6,
+          "endSec": 211.1,
+          "text": "Here,"
+        },
+        {
+          "startSec": 211.1,
+          "endSec": 211.4,
+          "text": "Cara"
+        },
+        {
+          "startSec": 211.4,
+          "endSec": 211.9,
+          "text": "shares"
+        },
+        {
+          "startSec": 211.9,
+          "endSec": 212.2,
+          "text": "her"
+        },
+        {
+          "startSec": 212.2,
+          "endSec": 212.9,
+          "text": "findings"
+        },
+        {
+          "startSec": 212.9,
+          "endSec": 213.2,
+          "text": "with"
+        }
+      ]
+    },
+    {
+      "startSec": 212.9,
+      "endSec": 217.1,
+      "text": "with Caroline Steele from BBC World Services, CrowdScience.",
+      "words": [
+        {
+          "startSec": 212.9,
+          "endSec": 213.2,
+          "text": "with"
+        },
+        {
+          "startSec": 213.2,
+          "endSec": 213.8,
+          "text": "Caroline"
+        },
+        {
+          "startSec": 213.8,
+          "endSec": 214.3,
+          "text": "Steele"
+        },
+        {
+          "startSec": 214.3,
+          "endSec": 214.6,
+          "text": "from"
+        },
+        {
+          "startSec": 214.6,
+          "endSec": 214.9,
+          "text": "BBC"
+        },
+        {
+          "startSec": 214.9,
+          "endSec": 215.3,
+          "text": "World"
+        },
+        {
+          "startSec": 215.3,
+          "endSec": 216.1,
+          "text": "Services,"
+        },
+        {
+          "startSec": 216.1,
+          "endSec": 217.1,
+          "text": "CrowdScience."
+        }
+      ]
+    },
+    {
+      "startSec": 217.1,
+      "endSec": 225.4,
+      "text": "Okay, and my guess is, the reindeer herders deal better in the cold?",
+      "words": [
+        {
+          "startSec": 217.2,
+          "endSec": 217.9,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 217.9,
+          "endSec": 218.4,
+          "text": "and"
+        },
+        {
+          "startSec": 218.4,
+          "endSec": 218.6,
+          "text": "my"
+        },
+        {
+          "startSec": 218.6,
+          "endSec": 219.3,
+          "text": "guess"
+        },
+        {
+          "startSec": 219.3,
+          "endSec": 219.9,
+          "text": "is,"
+        },
+        {
+          "startSec": 219.9,
+          "endSec": 220.3,
+          "text": "the"
+        },
+        {
+          "startSec": 220.3,
+          "endSec": 221.4,
+          "text": "reindeer"
+        },
+        {
+          "startSec": 221.4,
+          "endSec": 222.3,
+          "text": "herders"
+        },
+        {
+          "startSec": 222.3,
+          "endSec": 222.9,
+          "text": "deal"
+        },
+        {
+          "startSec": 222.9,
+          "endSec": 223.7,
+          "text": "better"
+        },
+        {
+          "startSec": 223.7,
+          "endSec": 224,
+          "text": "in"
+        },
+        {
+          "startSec": 224,
+          "endSec": 224.4,
+          "text": "the"
+        },
+        {
+          "startSec": 224.4,
+          "endSec": 225.4,
+          "text": "cold?"
+        },
+        {
+          "startSec": 225.4,
+          "endSec": 225.7,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 225.4,
+      "endSec": 231,
+      "text": "The more data we collect within this area, the more confusing the picture gets. I can",
+      "words": [
+        {
+          "startSec": 225.4,
+          "endSec": 225.7,
+          "text": "The"
+        },
+        {
+          "startSec": 225.7,
+          "endSec": 225.9,
+          "text": "more"
+        },
+        {
+          "startSec": 225.9,
+          "endSec": 226.2,
+          "text": "data"
+        },
+        {
+          "startSec": 226.2,
+          "endSec": 226.4,
+          "text": "we"
+        },
+        {
+          "startSec": 226.4,
+          "endSec": 226.9,
+          "text": "collect"
+        },
+        {
+          "startSec": 226.9,
+          "endSec": 227.3,
+          "text": "within"
+        },
+        {
+          "startSec": 227.3,
+          "endSec": 227.6,
+          "text": "this"
+        },
+        {
+          "startSec": 227.6,
+          "endSec": 228,
+          "text": "area,"
+        },
+        {
+          "startSec": 228,
+          "endSec": 228.2,
+          "text": "the"
+        },
+        {
+          "startSec": 228.2,
+          "endSec": 228.5,
+          "text": "more"
+        },
+        {
+          "startSec": 228.5,
+          "endSec": 229.2,
+          "text": "confusing"
+        },
+        {
+          "startSec": 229.2,
+          "endSec": 229.4,
+          "text": "the"
+        },
+        {
+          "startSec": 229.4,
+          "endSec": 229.9,
+          "text": "picture"
+        },
+        {
+          "startSec": 229.9,
+          "endSec": 230.5,
+          "text": "gets."
+        },
+        {
+          "startSec": 230.5,
+          "endSec": 230.6,
+          "text": "I"
+        },
+        {
+          "startSec": 230.6,
+          "endSec": 231,
+          "text": "can"
+        },
+        {
+          "startSec": 231,
+          "endSec": 231.3,
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "startSec": 231,
+      "endSec": 236.7,
+      "text": "say that, subjectively, at this point, the reindeer herders at least kind of mentally",
+      "words": [
+        {
+          "startSec": 231,
+          "endSec": 231.3,
+          "text": "say"
+        },
+        {
+          "startSec": 231.3,
+          "endSec": 231.7,
+          "text": "that,"
+        },
+        {
+          "startSec": 231.7,
+          "endSec": 232.8,
+          "text": "subjectively,"
+        },
+        {
+          "startSec": 232.8,
+          "endSec": 232.9,
+          "text": "at"
+        },
+        {
+          "startSec": 232.9,
+          "endSec": 233.2,
+          "text": "this"
+        },
+        {
+          "startSec": 233.2,
+          "endSec": 233.7,
+          "text": "point,"
+        },
+        {
+          "startSec": 233.7,
+          "endSec": 233.9,
+          "text": "the"
+        },
+        {
+          "startSec": 233.9,
+          "endSec": 234.5,
+          "text": "reindeer"
+        },
+        {
+          "startSec": 234.5,
+          "endSec": 235.1,
+          "text": "herders"
+        },
+        {
+          "startSec": 235.1,
+          "endSec": 235.2,
+          "text": "at"
+        },
+        {
+          "startSec": 235.2,
+          "endSec": 235.6,
+          "text": "least"
+        },
+        {
+          "startSec": 235.6,
+          "endSec": 235.9,
+          "text": "kind"
+        },
+        {
+          "startSec": 235.9,
+          "endSec": 236,
+          "text": "of"
+        },
+        {
+          "startSec": 236,
+          "endSec": 236.7,
+          "text": "mentally"
+        },
+        {
+          "startSec": 236.7,
+          "endSec": 237.2,
+          "text": "handle"
+        }
+      ]
+    },
+    {
+      "startSec": 236.7,
+      "endSec": 241,
+      "text": "handle the cold far better. They are far less likely to shiver.",
+      "words": [
+        {
+          "startSec": 236.7,
+          "endSec": 237.2,
+          "text": "handle"
+        },
+        {
+          "startSec": 237.2,
+          "endSec": 237.4,
+          "text": "the"
+        },
+        {
+          "startSec": 237.4,
+          "endSec": 237.6,
+          "text": "cold"
+        },
+        {
+          "startSec": 237.6,
+          "endSec": 237.9,
+          "text": "far"
+        },
+        {
+          "startSec": 237.9,
+          "endSec": 238.5,
+          "text": "better."
+        },
+        {
+          "startSec": 238.5,
+          "endSec": 238.8,
+          "text": "They"
+        },
+        {
+          "startSec": 238.8,
+          "endSec": 239,
+          "text": "are"
+        },
+        {
+          "startSec": 239,
+          "endSec": 239.2,
+          "text": "far"
+        },
+        {
+          "startSec": 239.2,
+          "endSec": 239.5,
+          "text": "less"
+        },
+        {
+          "startSec": 239.5,
+          "endSec": 239.9,
+          "text": "likely"
+        },
+        {
+          "startSec": 239.9,
+          "endSec": 240,
+          "text": "to"
+        },
+        {
+          "startSec": 240,
+          "endSec": 241,
+          "text": "shiver."
+        },
+        {
+          "startSec": 241,
+          "endSec": 241.2,
+          "text": "So"
+        }
+      ]
+    },
+    {
+      "startSec": 241,
+      "endSec": 245.8,
+      "text": "So do the reindeer herders deal better with the cold?",
+      "words": [
+        {
+          "startSec": 241,
+          "endSec": 241.2,
+          "text": "So"
+        },
+        {
+          "startSec": 241.2,
+          "endSec": 241.4,
+          "text": "do"
+        },
+        {
+          "startSec": 241.4,
+          "endSec": 241.7,
+          "text": "the"
+        },
+        {
+          "startSec": 241.7,
+          "endSec": 242.5,
+          "text": "reindeer"
+        },
+        {
+          "startSec": 242.5,
+          "endSec": 243.2,
+          "text": "herders"
+        },
+        {
+          "startSec": 243.2,
+          "endSec": 243.6,
+          "text": "deal"
+        },
+        {
+          "startSec": 243.6,
+          "endSec": 244.3,
+          "text": "better"
+        },
+        {
+          "startSec": 244.3,
+          "endSec": 244.7,
+          "text": "with"
+        },
+        {
+          "startSec": 244.7,
+          "endSec": 245,
+          "text": "the"
+        },
+        {
+          "startSec": 245,
+          "endSec": 245.8,
+          "text": "cold?"
+        },
+        {
+          "startSec": 245.8,
+          "endSec": 246,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 245.8,
+      "endSec": 251.9,
+      "text": "The answer is yes and no, a phrase meaning partly and partly not, used when there is",
+      "words": [
+        {
+          "startSec": 245.8,
+          "endSec": 246,
+          "text": "The"
+        },
+        {
+          "startSec": 246,
+          "endSec": 246.5,
+          "text": "answer"
+        },
+        {
+          "startSec": 246.5,
+          "endSec": 246.7,
+          "text": "is"
+        },
+        {
+          "startSec": 246.7,
+          "endSec": 247,
+          "text": "yes"
+        },
+        {
+          "startSec": 247,
+          "endSec": 247.2,
+          "text": "and"
+        },
+        {
+          "startSec": 247.2,
+          "endSec": 247.6,
+          "text": "no,"
+        },
+        {
+          "startSec": 247.6,
+          "endSec": 247.7,
+          "text": "a"
+        },
+        {
+          "startSec": 247.7,
+          "endSec": 248.2,
+          "text": "phrase"
+        },
+        {
+          "startSec": 248.2,
+          "endSec": 248.8,
+          "text": "meaning"
+        },
+        {
+          "startSec": 248.8,
+          "endSec": 249.3,
+          "text": "partly"
+        },
+        {
+          "startSec": 249.3,
+          "endSec": 249.6,
+          "text": "and"
+        },
+        {
+          "startSec": 249.6,
+          "endSec": 250.1,
+          "text": "partly"
+        },
+        {
+          "startSec": 250.1,
+          "endSec": 250.5,
+          "text": "not,"
+        },
+        {
+          "startSec": 250.5,
+          "endSec": 250.9,
+          "text": "used"
+        },
+        {
+          "startSec": 250.9,
+          "endSec": 251.2,
+          "text": "when"
+        },
+        {
+          "startSec": 251.2,
+          "endSec": 251.6,
+          "text": "there"
+        },
+        {
+          "startSec": 251.6,
+          "endSec": 251.9,
+          "text": "is"
+        },
+        {
+          "startSec": 251.9,
+          "endSec": 252.1,
+          "text": "no"
+        }
+      ]
+    },
+    {
+      "startSec": 251.9,
+      "endSec": 260.2,
+      "text": "no clear answer to a question. However, Cara does say, subjectively, the herders manage",
+      "words": [
+        {
+          "startSec": 251.9,
+          "endSec": 252.1,
+          "text": "no"
+        },
+        {
+          "startSec": 252.1,
+          "endSec": 252.6,
+          "text": "clear"
+        },
+        {
+          "startSec": 252.6,
+          "endSec": 253.2,
+          "text": "answer"
+        },
+        {
+          "startSec": 253.2,
+          "endSec": 253.4,
+          "text": "to"
+        },
+        {
+          "startSec": 253.4,
+          "endSec": 253.5,
+          "text": "a"
+        },
+        {
+          "startSec": 253.5,
+          "endSec": 254.6,
+          "text": "question."
+        },
+        {
+          "startSec": 254.6,
+          "endSec": 255.7,
+          "text": "However,"
+        },
+        {
+          "startSec": 255.7,
+          "endSec": 256.2,
+          "text": "Cara"
+        },
+        {
+          "startSec": 256.2,
+          "endSec": 256.7,
+          "text": "does"
+        },
+        {
+          "startSec": 256.7,
+          "endSec": 257.3,
+          "text": "say,"
+        },
+        {
+          "startSec": 257.3,
+          "endSec": 259,
+          "text": "subjectively,"
+        },
+        {
+          "startSec": 259,
+          "endSec": 259.2,
+          "text": "the"
+        },
+        {
+          "startSec": 259.2,
+          "endSec": 259.8,
+          "text": "herders"
+        },
+        {
+          "startSec": 259.8,
+          "endSec": 260.2,
+          "text": "manage"
+        },
+        {
+          "startSec": 260.2,
+          "endSec": 261.1,
+          "text": "better."
+        }
+      ]
+    },
+    {
+      "startSec": 260.2,
+      "endSec": 267.9,
+      "text": "better. They don't feel so cold. Subjectively means based on your personal inner experience",
+      "words": [
+        {
+          "startSec": 260.2,
+          "endSec": 261.1,
+          "text": "better."
+        },
+        {
+          "startSec": 261.1,
+          "endSec": 261.4,
+          "text": "They"
+        },
+        {
+          "startSec": 261.4,
+          "endSec": 261.9,
+          "text": "don't"
+        },
+        {
+          "startSec": 261.9,
+          "endSec": 262.2,
+          "text": "feel"
+        },
+        {
+          "startSec": 262.2,
+          "endSec": 262.4,
+          "text": "so"
+        },
+        {
+          "startSec": 262.4,
+          "endSec": 263,
+          "text": "cold."
+        },
+        {
+          "startSec": 263,
+          "endSec": 264.1,
+          "text": "Subjectively"
+        },
+        {
+          "startSec": 264.1,
+          "endSec": 264.6,
+          "text": "means"
+        },
+        {
+          "startSec": 264.6,
+          "endSec": 265,
+          "text": "based"
+        },
+        {
+          "startSec": 265,
+          "endSec": 265.2,
+          "text": "on"
+        },
+        {
+          "startSec": 265.2,
+          "endSec": 265.6,
+          "text": "your"
+        },
+        {
+          "startSec": 265.6,
+          "endSec": 266.4,
+          "text": "personal"
+        },
+        {
+          "startSec": 266.4,
+          "endSec": 266.6,
+          "text": "inner"
+        },
+        {
+          "startSec": 266.6,
+          "endSec": 267.9,
+          "text": "experience"
+        },
+        {
+          "startSec": 267.9,
+          "endSec": 268.5,
+          "text": "rather"
+        }
+      ]
+    },
+    {
+      "startSec": 267.9,
+      "endSec": 270.8,
+      "text": "rather than objective facts.",
+      "words": [
+        {
+          "startSec": 267.9,
+          "endSec": 268.5,
+          "text": "rather"
+        },
+        {
+          "startSec": 268.5,
+          "endSec": 269,
+          "text": "than"
+        },
+        {
+          "startSec": 269,
+          "endSec": 269.9,
+          "text": "objective"
+        },
+        {
+          "startSec": 269.9,
+          "endSec": 270.8,
+          "text": "facts."
+        }
+      ]
+    },
+    {
+      "startSec": 270.8,
+      "endSec": 277.1,
+      "text": "And physically, there are differences too. Reindeer herders are less likely to shiver.",
+      "words": [
+        {
+          "startSec": 270.9,
+          "endSec": 271,
+          "text": "And"
+        },
+        {
+          "startSec": 271,
+          "endSec": 271.8,
+          "text": "physically,"
+        },
+        {
+          "startSec": 271.8,
+          "endSec": 272.2,
+          "text": "there"
+        },
+        {
+          "startSec": 272.2,
+          "endSec": 272.4,
+          "text": "are"
+        },
+        {
+          "startSec": 272.4,
+          "endSec": 273.1,
+          "text": "differences"
+        },
+        {
+          "startSec": 273.1,
+          "endSec": 273.5,
+          "text": "too."
+        },
+        {
+          "startSec": 273.5,
+          "endSec": 274,
+          "text": "Reindeer"
+        },
+        {
+          "startSec": 274,
+          "endSec": 274.5,
+          "text": "herders"
+        },
+        {
+          "startSec": 274.5,
+          "endSec": 274.7,
+          "text": "are"
+        },
+        {
+          "startSec": 274.7,
+          "endSec": 275,
+          "text": "less"
+        },
+        {
+          "startSec": 275,
+          "endSec": 275.4,
+          "text": "likely"
+        },
+        {
+          "startSec": 275.4,
+          "endSec": 275.5,
+          "text": "to"
+        },
+        {
+          "startSec": 275.5,
+          "endSec": 277.1,
+          "text": "shiver."
+        },
+        {
+          "startSec": 277.1,
+          "endSec": 277.3,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 277.1,
+      "endSec": 282.9,
+      "text": "The shaky movement that cold muscles make to try and warm them up. In fact, how we experience",
+      "words": [
+        {
+          "startSec": 277.1,
+          "endSec": 277.3,
+          "text": "The"
+        },
+        {
+          "startSec": 277.3,
+          "endSec": 277.7,
+          "text": "shaky"
+        },
+        {
+          "startSec": 277.7,
+          "endSec": 278.3,
+          "text": "movement"
+        },
+        {
+          "startSec": 278.3,
+          "endSec": 278.5,
+          "text": "that"
+        },
+        {
+          "startSec": 278.5,
+          "endSec": 278.8,
+          "text": "cold"
+        },
+        {
+          "startSec": 278.8,
+          "endSec": 279.3,
+          "text": "muscles"
+        },
+        {
+          "startSec": 279.3,
+          "endSec": 279.6,
+          "text": "make"
+        },
+        {
+          "startSec": 279.6,
+          "endSec": 279.7,
+          "text": "to"
+        },
+        {
+          "startSec": 279.7,
+          "endSec": 279.9,
+          "text": "try"
+        },
+        {
+          "startSec": 279.9,
+          "endSec": 280.1,
+          "text": "and"
+        },
+        {
+          "startSec": 280.1,
+          "endSec": 280.4,
+          "text": "warm"
+        },
+        {
+          "startSec": 280.4,
+          "endSec": 280.7,
+          "text": "them"
+        },
+        {
+          "startSec": 280.7,
+          "endSec": 281.1,
+          "text": "up."
+        },
+        {
+          "startSec": 281.1,
+          "endSec": 281.3,
+          "text": "In"
+        },
+        {
+          "startSec": 281.3,
+          "endSec": 281.7,
+          "text": "fact,"
+        },
+        {
+          "startSec": 281.7,
+          "endSec": 282,
+          "text": "how"
+        },
+        {
+          "startSec": 282,
+          "endSec": 282.2,
+          "text": "we"
+        },
+        {
+          "startSec": 282.2,
+          "endSec": 282.9,
+          "text": "experience"
+        },
+        {
+          "startSec": 282.9,
+          "endSec": 283.1,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 282.9,
+      "endSec": 288.8,
+      "text": "the cold is probably a combination of everything we've discussed, including genetic adaptations",
+      "words": [
+        {
+          "startSec": 282.9,
+          "endSec": 283.1,
+          "text": "the"
+        },
+        {
+          "startSec": 283.1,
+          "endSec": 283.4,
+          "text": "cold"
+        },
+        {
+          "startSec": 283.4,
+          "endSec": 283.5,
+          "text": "is"
+        },
+        {
+          "startSec": 283.5,
+          "endSec": 284.1,
+          "text": "probably"
+        },
+        {
+          "startSec": 284.1,
+          "endSec": 284.1,
+          "text": "a"
+        },
+        {
+          "startSec": 284.1,
+          "endSec": 284.9,
+          "text": "combination"
+        },
+        {
+          "startSec": 284.9,
+          "endSec": 285.1,
+          "text": "of"
+        },
+        {
+          "startSec": 285.1,
+          "endSec": 285.8,
+          "text": "everything"
+        },
+        {
+          "startSec": 285.8,
+          "endSec": 286.1,
+          "text": "we've"
+        },
+        {
+          "startSec": 286.1,
+          "endSec": 286.9,
+          "text": "discussed,"
+        },
+        {
+          "startSec": 286.9,
+          "endSec": 287.5,
+          "text": "including"
+        },
+        {
+          "startSec": 287.5,
+          "endSec": 288,
+          "text": "genetic"
+        },
+        {
+          "startSec": 288,
+          "endSec": 288.8,
+          "text": "adaptations"
+        },
+        {
+          "startSec": 288.8,
+          "endSec": 289.2,
+          "text": "passed"
+        }
+      ]
+    },
+    {
+      "startSec": 288.8,
+      "endSec": 294.3,
+      "text": "passed on from parents to children. Right, I'm off to find my gloves and willy hat, so",
+      "words": [
+        {
+          "startSec": 288.8,
+          "endSec": 289.2,
+          "text": "passed"
+        },
+        {
+          "startSec": 289.2,
+          "endSec": 289.4,
+          "text": "on"
+        },
+        {
+          "startSec": 289.4,
+          "endSec": 289.6,
+          "text": "from"
+        },
+        {
+          "startSec": 289.6,
+          "endSec": 290.1,
+          "text": "parents"
+        },
+        {
+          "startSec": 290.1,
+          "endSec": 290.2,
+          "text": "to"
+        },
+        {
+          "startSec": 290.2,
+          "endSec": 291,
+          "text": "children."
+        },
+        {
+          "startSec": 291,
+          "endSec": 291.6,
+          "text": "Right,"
+        },
+        {
+          "startSec": 291.6,
+          "endSec": 291.8,
+          "text": "I'm"
+        },
+        {
+          "startSec": 291.8,
+          "endSec": 292.1,
+          "text": "off"
+        },
+        {
+          "startSec": 292.1,
+          "endSec": 292.2,
+          "text": "to"
+        },
+        {
+          "startSec": 292.2,
+          "endSec": 292.5,
+          "text": "find"
+        },
+        {
+          "startSec": 292.5,
+          "endSec": 292.7,
+          "text": "my"
+        },
+        {
+          "startSec": 292.7,
+          "endSec": 293.2,
+          "text": "gloves"
+        },
+        {
+          "startSec": 293.2,
+          "endSec": 293.4,
+          "text": "and"
+        },
+        {
+          "startSec": 293.4,
+          "endSec": 293.8,
+          "text": "willy"
+        },
+        {
+          "startSec": 293.8,
+          "endSec": 294.3,
+          "text": "hat,"
+        },
+        {
+          "startSec": 294.3,
+          "endSec": 294.3,
+          "text": "so"
+        },
+        {
+          "startSec": 294.3,
+          "endSec": 294.5,
+          "text": "why"
+        }
+      ]
+    },
+    {
+      "startSec": 294.3,
+      "endSec": 297,
+      "text": "why don't you reveal the answer to the question, Phil?",
+      "words": [
+        {
+          "startSec": 294.3,
+          "endSec": 294.3,
+          "text": "so"
+        },
+        {
+          "startSec": 294.3,
+          "endSec": 294.5,
+          "text": "why"
+        },
+        {
+          "startSec": 294.5,
+          "endSec": 294.8,
+          "text": "don't"
+        },
+        {
+          "startSec": 294.8,
+          "endSec": 294.9,
+          "text": "you"
+        },
+        {
+          "startSec": 294.9,
+          "endSec": 295.3,
+          "text": "reveal"
+        },
+        {
+          "startSec": 295.3,
+          "endSec": 295.4,
+          "text": "the"
+        },
+        {
+          "startSec": 295.4,
+          "endSec": 295.8,
+          "text": "answer"
+        },
+        {
+          "startSec": 295.8,
+          "endSec": 295.9,
+          "text": "to"
+        },
+        {
+          "startSec": 295.9,
+          "endSec": 296.1,
+          "text": "the"
+        },
+        {
+          "startSec": 296.1,
+          "endSec": 296.6,
+          "text": "question,"
+        },
+        {
+          "startSec": 296.6,
+          "endSec": 297,
+          "text": "Phil?"
+        }
+      ]
+    },
+    {
+      "startSec": 297,
+      "endSec": 305.5,
+      "text": "Yes, I asked where the lowest temperature on Earth was ever recorded. You said B, Antarctica,",
+      "words": [
+        {
+          "startSec": 297.1,
+          "endSec": 297.5,
+          "text": "Yes,"
+        },
+        {
+          "startSec": 297.5,
+          "endSec": 297.6,
+          "text": "I"
+        },
+        {
+          "startSec": 297.6,
+          "endSec": 298.1,
+          "text": "asked"
+        },
+        {
+          "startSec": 298.1,
+          "endSec": 298.6,
+          "text": "where"
+        },
+        {
+          "startSec": 298.6,
+          "endSec": 298.9,
+          "text": "the"
+        },
+        {
+          "startSec": 298.9,
+          "endSec": 299.4,
+          "text": "lowest"
+        },
+        {
+          "startSec": 299.4,
+          "endSec": 300.5,
+          "text": "temperature"
+        },
+        {
+          "startSec": 300.5,
+          "endSec": 300.7,
+          "text": "on"
+        },
+        {
+          "startSec": 300.7,
+          "endSec": 301.2,
+          "text": "Earth"
+        },
+        {
+          "startSec": 301.2,
+          "endSec": 301.5,
+          "text": "was"
+        },
+        {
+          "startSec": 301.5,
+          "endSec": 301.9,
+          "text": "ever"
+        },
+        {
+          "startSec": 301.9,
+          "endSec": 303,
+          "text": "recorded."
+        },
+        {
+          "startSec": 303,
+          "endSec": 303.3,
+          "text": "You"
+        },
+        {
+          "startSec": 303.3,
+          "endSec": 303.8,
+          "text": "said"
+        },
+        {
+          "startSec": 303.8,
+          "endSec": 304.1,
+          "text": "B,"
+        },
+        {
+          "startSec": 304.1,
+          "endSec": 305.5,
+          "text": "Antarctica,"
+        },
+        {
+          "startSec": 305.5,
+          "endSec": 305.8,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 305.5,
+      "endSec": 311.4,
+      "text": "and that is the right answer. The lowest temperature ever recorded on Earth was at the Vostok",
+      "words": [
+        {
+          "startSec": 305.5,
+          "endSec": 305.8,
+          "text": "and"
+        },
+        {
+          "startSec": 305.8,
+          "endSec": 306.2,
+          "text": "that"
+        },
+        {
+          "startSec": 306.2,
+          "endSec": 306.4,
+          "text": "is"
+        },
+        {
+          "startSec": 306.4,
+          "endSec": 306.7,
+          "text": "the"
+        },
+        {
+          "startSec": 306.7,
+          "endSec": 307.2,
+          "text": "right"
+        },
+        {
+          "startSec": 307.2,
+          "endSec": 308.2,
+          "text": "answer."
+        },
+        {
+          "startSec": 308.2,
+          "endSec": 308.3,
+          "text": "The"
+        },
+        {
+          "startSec": 308.3,
+          "endSec": 308.7,
+          "text": "lowest"
+        },
+        {
+          "startSec": 308.7,
+          "endSec": 309.3,
+          "text": "temperature"
+        },
+        {
+          "startSec": 309.3,
+          "endSec": 309.5,
+          "text": "ever"
+        },
+        {
+          "startSec": 309.5,
+          "endSec": 309.9,
+          "text": "recorded"
+        },
+        {
+          "startSec": 309.9,
+          "endSec": 310,
+          "text": "on"
+        },
+        {
+          "startSec": 310,
+          "endSec": 310.3,
+          "text": "Earth"
+        },
+        {
+          "startSec": 310.3,
+          "endSec": 310.5,
+          "text": "was"
+        },
+        {
+          "startSec": 310.5,
+          "endSec": 310.6,
+          "text": "at"
+        },
+        {
+          "startSec": 310.6,
+          "endSec": 310.8,
+          "text": "the"
+        },
+        {
+          "startSec": 310.8,
+          "endSec": 311.4,
+          "text": "Vostok"
+        },
+        {
+          "startSec": 311.4,
+          "endSec": 312.2,
+          "text": "Research"
+        }
+      ]
+    },
+    {
+      "startSec": 311.4,
+      "endSec": 318.4,
+      "text": "Research Station in Antarctica in 1983. Let's recap the vocabulary we've learnt, starting",
+      "words": [
+        {
+          "startSec": 311.4,
+          "endSec": 312.2,
+          "text": "Research"
+        },
+        {
+          "startSec": 312.2,
+          "endSec": 312.9,
+          "text": "Station"
+        },
+        {
+          "startSec": 312.9,
+          "endSec": 313.1,
+          "text": "in"
+        },
+        {
+          "startSec": 313.1,
+          "endSec": 314.2,
+          "text": "Antarctica"
+        },
+        {
+          "startSec": 314.2,
+          "endSec": 314.4,
+          "text": "in"
+        },
+        {
+          "startSec": 314.4,
+          "endSec": 316,
+          "text": "1983."
+        },
+        {
+          "startSec": 316,
+          "endSec": 316.3,
+          "text": "Let's"
+        },
+        {
+          "startSec": 316.3,
+          "endSec": 316.6,
+          "text": "recap"
+        },
+        {
+          "startSec": 316.6,
+          "endSec": 316.8,
+          "text": "the"
+        },
+        {
+          "startSec": 316.8,
+          "endSec": 317.4,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 317.4,
+          "endSec": 317.7,
+          "text": "we've"
+        },
+        {
+          "startSec": 317.7,
+          "endSec": 318.2,
+          "text": "learnt,"
+        },
+        {
+          "startSec": 318.2,
+          "endSec": 318.4,
+          "text": "starting"
+        },
+        {
+          "startSec": 318.4,
+          "endSec": 318.7,
+          "text": "with"
+        }
+      ]
+    },
+    {
+      "startSec": 318.4,
+      "endSec": 323.8,
+      "text": "with the phrase first and foremost, meaning more than anything else.",
+      "words": [
+        {
+          "startSec": 318.4,
+          "endSec": 318.7,
+          "text": "with"
+        },
+        {
+          "startSec": 318.7,
+          "endSec": 319,
+          "text": "the"
+        },
+        {
+          "startSec": 319,
+          "endSec": 319.5,
+          "text": "phrase"
+        },
+        {
+          "startSec": 319.5,
+          "endSec": 319.9,
+          "text": "first"
+        },
+        {
+          "startSec": 319.9,
+          "endSec": 320.2,
+          "text": "and"
+        },
+        {
+          "startSec": 320.2,
+          "endSec": 321.1,
+          "text": "foremost,"
+        },
+        {
+          "startSec": 321.1,
+          "endSec": 321.7,
+          "text": "meaning"
+        },
+        {
+          "startSec": 321.7,
+          "endSec": 322,
+          "text": "more"
+        },
+        {
+          "startSec": 322,
+          "endSec": 322.4,
+          "text": "than"
+        },
+        {
+          "startSec": 322.4,
+          "endSec": 323.1,
+          "text": "anything"
+        },
+        {
+          "startSec": 323.1,
+          "endSec": 323.8,
+          "text": "else."
+        },
+        {
+          "startSec": 323.8,
+          "endSec": 323.9,
+          "text": "A"
+        }
+      ]
+    },
+    {
+      "startSec": 323.8,
+      "endSec": 329.6,
+      "text": "A person who is tolerant of something is able to endure it without being hurt.",
+      "words": [
+        {
+          "startSec": 323.8,
+          "endSec": 323.9,
+          "text": "A"
+        },
+        {
+          "startSec": 323.9,
+          "endSec": 324.4,
+          "text": "person"
+        },
+        {
+          "startSec": 324.4,
+          "endSec": 324.6,
+          "text": "who"
+        },
+        {
+          "startSec": 324.6,
+          "endSec": 324.8,
+          "text": "is"
+        },
+        {
+          "startSec": 324.8,
+          "endSec": 325.5,
+          "text": "tolerant"
+        },
+        {
+          "startSec": 325.5,
+          "endSec": 325.7,
+          "text": "of"
+        },
+        {
+          "startSec": 325.7,
+          "endSec": 326.4,
+          "text": "something"
+        },
+        {
+          "startSec": 326.4,
+          "endSec": 326.6,
+          "text": "is"
+        },
+        {
+          "startSec": 326.6,
+          "endSec": 327,
+          "text": "able"
+        },
+        {
+          "startSec": 327,
+          "endSec": 327.1,
+          "text": "to"
+        },
+        {
+          "startSec": 327.1,
+          "endSec": 327.7,
+          "text": "endure"
+        },
+        {
+          "startSec": 327.7,
+          "endSec": 327.8,
+          "text": "it"
+        },
+        {
+          "startSec": 327.8,
+          "endSec": 328.4,
+          "text": "without"
+        },
+        {
+          "startSec": 328.4,
+          "endSec": 328.9,
+          "text": "being"
+        },
+        {
+          "startSec": 328.9,
+          "endSec": 329.6,
+          "text": "hurt."
+        },
+        {
+          "startSec": 329.6,
+          "endSec": 329.7,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 329.6,
+      "endSec": 333.2,
+      "text": "If you're used to something, you're familiar with it.",
+      "words": [
+        {
+          "startSec": 329.6,
+          "endSec": 329.7,
+          "text": "If"
+        },
+        {
+          "startSec": 329.7,
+          "endSec": 330.2,
+          "text": "you're"
+        },
+        {
+          "startSec": 330.2,
+          "endSec": 330.5,
+          "text": "used"
+        },
+        {
+          "startSec": 330.5,
+          "endSec": 330.6,
+          "text": "to"
+        },
+        {
+          "startSec": 330.6,
+          "endSec": 331.4,
+          "text": "something,"
+        },
+        {
+          "startSec": 331.4,
+          "endSec": 331.9,
+          "text": "you're"
+        },
+        {
+          "startSec": 331.9,
+          "endSec": 332.4,
+          "text": "familiar"
+        },
+        {
+          "startSec": 332.4,
+          "endSec": 332.7,
+          "text": "with"
+        },
+        {
+          "startSec": 332.7,
+          "endSec": 333.2,
+          "text": "it."
+        },
+        {
+          "startSec": 333.2,
+          "endSec": 333.4,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 333.2,
+      "endSec": 339.2,
+      "text": "The idiom yes and no means partly and partly not, and is used when you can't give a clear",
+      "words": [
+        {
+          "startSec": 333.2,
+          "endSec": 333.4,
+          "text": "The"
+        },
+        {
+          "startSec": 333.4,
+          "endSec": 333.8,
+          "text": "idiom"
+        },
+        {
+          "startSec": 333.8,
+          "endSec": 334.1,
+          "text": "yes"
+        },
+        {
+          "startSec": 334.1,
+          "endSec": 334.3,
+          "text": "and"
+        },
+        {
+          "startSec": 334.3,
+          "endSec": 334.5,
+          "text": "no"
+        },
+        {
+          "startSec": 334.5,
+          "endSec": 334.9,
+          "text": "means"
+        },
+        {
+          "startSec": 334.9,
+          "endSec": 335.4,
+          "text": "partly"
+        },
+        {
+          "startSec": 335.4,
+          "endSec": 335.6,
+          "text": "and"
+        },
+        {
+          "startSec": 335.6,
+          "endSec": 336.1,
+          "text": "partly"
+        },
+        {
+          "startSec": 336.1,
+          "endSec": 336.6,
+          "text": "not,"
+        },
+        {
+          "startSec": 336.6,
+          "endSec": 336.8,
+          "text": "and"
+        },
+        {
+          "startSec": 336.8,
+          "endSec": 337,
+          "text": "is"
+        },
+        {
+          "startSec": 337,
+          "endSec": 337.3,
+          "text": "used"
+        },
+        {
+          "startSec": 337.3,
+          "endSec": 337.6,
+          "text": "when"
+        },
+        {
+          "startSec": 337.6,
+          "endSec": 337.9,
+          "text": "you"
+        },
+        {
+          "startSec": 337.9,
+          "endSec": 338.3,
+          "text": "can't"
+        },
+        {
+          "startSec": 338.3,
+          "endSec": 338.6,
+          "text": "give"
+        },
+        {
+          "startSec": 338.6,
+          "endSec": 338.7,
+          "text": "a"
+        },
+        {
+          "startSec": 338.7,
+          "endSec": 339.2,
+          "text": "clear"
+        },
+        {
+          "startSec": 339.2,
+          "endSec": 339.8,
+          "text": "answer"
+        }
+      ]
+    },
+    {
+      "startSec": 339.2,
+      "endSec": 344.9,
+      "text": "answer to a question. The adverb subjectively means in a way that's based on your personal",
+      "words": [
+        {
+          "startSec": 339.2,
+          "endSec": 339.8,
+          "text": "answer"
+        },
+        {
+          "startSec": 339.8,
+          "endSec": 340,
+          "text": "to"
+        },
+        {
+          "startSec": 340,
+          "endSec": 340.1,
+          "text": "a"
+        },
+        {
+          "startSec": 340.1,
+          "endSec": 341.1,
+          "text": "question."
+        },
+        {
+          "startSec": 341.1,
+          "endSec": 341.3,
+          "text": "The"
+        },
+        {
+          "startSec": 341.3,
+          "endSec": 341.8,
+          "text": "adverb"
+        },
+        {
+          "startSec": 341.8,
+          "endSec": 342.7,
+          "text": "subjectively"
+        },
+        {
+          "startSec": 342.7,
+          "endSec": 343,
+          "text": "means"
+        },
+        {
+          "startSec": 343,
+          "endSec": 343.2,
+          "text": "in"
+        },
+        {
+          "startSec": 343.2,
+          "endSec": 343.3,
+          "text": "a"
+        },
+        {
+          "startSec": 343.3,
+          "endSec": 343.5,
+          "text": "way"
+        },
+        {
+          "startSec": 343.5,
+          "endSec": 343.8,
+          "text": "that's"
+        },
+        {
+          "startSec": 343.8,
+          "endSec": 344.1,
+          "text": "based"
+        },
+        {
+          "startSec": 344.1,
+          "endSec": 344.2,
+          "text": "on"
+        },
+        {
+          "startSec": 344.2,
+          "endSec": 344.4,
+          "text": "your"
+        },
+        {
+          "startSec": 344.4,
+          "endSec": 344.9,
+          "text": "personal"
+        },
+        {
+          "startSec": 344.9,
+          "endSec": 345.8,
+          "text": "experience"
+        }
+      ]
+    },
+    {
+      "startSec": 344.9,
+      "endSec": 351.2,
+      "text": "experience rather than objective facts. And finally, a shiver is the shaking movement",
+      "words": [
+        {
+          "startSec": 344.9,
+          "endSec": 345.8,
+          "text": "experience"
+        },
+        {
+          "startSec": 345.8,
+          "endSec": 346.4,
+          "text": "rather"
+        },
+        {
+          "startSec": 346.4,
+          "endSec": 346.8,
+          "text": "than"
+        },
+        {
+          "startSec": 346.8,
+          "endSec": 347.6,
+          "text": "objective"
+        },
+        {
+          "startSec": 347.6,
+          "endSec": 348.4,
+          "text": "facts."
+        },
+        {
+          "startSec": 348.4,
+          "endSec": 348.6,
+          "text": "And"
+        },
+        {
+          "startSec": 348.6,
+          "endSec": 349.3,
+          "text": "finally,"
+        },
+        {
+          "startSec": 349.3,
+          "endSec": 349.3,
+          "text": "a"
+        },
+        {
+          "startSec": 349.3,
+          "endSec": 349.7,
+          "text": "shiver"
+        },
+        {
+          "startSec": 349.7,
+          "endSec": 349.9,
+          "text": "is"
+        },
+        {
+          "startSec": 349.9,
+          "endSec": 350.1,
+          "text": "the"
+        },
+        {
+          "startSec": 350.1,
+          "endSec": 350.6,
+          "text": "shaking"
+        },
+        {
+          "startSec": 350.6,
+          "endSec": 351.2,
+          "text": "movement"
+        }
+      ]
+    },
+    {
+      "startSec": 351.2,
+      "endSec": 355,
+      "text": "made by your muscles when you feel cold or afraid.",
+      "words": [
+        {
+          "startSec": 351.3,
+          "endSec": 351.6,
+          "text": "made"
+        },
+        {
+          "startSec": 351.6,
+          "endSec": 351.7,
+          "text": "by"
+        },
+        {
+          "startSec": 351.7,
+          "endSec": 352.1,
+          "text": "your"
+        },
+        {
+          "startSec": 352.1,
+          "endSec": 352.7,
+          "text": "muscles"
+        },
+        {
+          "startSec": 352.7,
+          "endSec": 353,
+          "text": "when"
+        },
+        {
+          "startSec": 353,
+          "endSec": 353.3,
+          "text": "you"
+        },
+        {
+          "startSec": 353.3,
+          "endSec": 353.7,
+          "text": "feel"
+        },
+        {
+          "startSec": 353.7,
+          "endSec": 354,
+          "text": "cold"
+        },
+        {
+          "startSec": 354,
+          "endSec": 354.2,
+          "text": "or"
+        },
+        {
+          "startSec": 354.2,
+          "endSec": 355,
+          "text": "afraid."
+        },
+        {
+          "startSec": 355,
+          "endSec": 355.3,
+          "text": "Once"
+        }
+      ]
+    },
+    {
+      "startSec": 355,
+      "endSec": 360,
+      "text": "Once again, our six minutes are up. But remember, you'll find a quiz and a worksheet for this",
+      "words": [
+        {
+          "startSec": 355,
+          "endSec": 355.3,
+          "text": "Once"
+        },
+        {
+          "startSec": 355.3,
+          "endSec": 355.8,
+          "text": "again,"
+        },
+        {
+          "startSec": 355.8,
+          "endSec": 356,
+          "text": "our"
+        },
+        {
+          "startSec": 356,
+          "endSec": 356.2,
+          "text": "six"
+        },
+        {
+          "startSec": 356.2,
+          "endSec": 356.7,
+          "text": "minutes"
+        },
+        {
+          "startSec": 356.7,
+          "endSec": 356.9,
+          "text": "are"
+        },
+        {
+          "startSec": 356.9,
+          "endSec": 357.3,
+          "text": "up."
+        },
+        {
+          "startSec": 357.3,
+          "endSec": 357.5,
+          "text": "But"
+        },
+        {
+          "startSec": 357.5,
+          "endSec": 358.1,
+          "text": "remember,"
+        },
+        {
+          "startSec": 358.1,
+          "endSec": 358.4,
+          "text": "you'll"
+        },
+        {
+          "startSec": 358.4,
+          "endSec": 358.6,
+          "text": "find"
+        },
+        {
+          "startSec": 358.6,
+          "endSec": 358.7,
+          "text": "a"
+        },
+        {
+          "startSec": 358.7,
+          "endSec": 358.9,
+          "text": "quiz"
+        },
+        {
+          "startSec": 358.9,
+          "endSec": 359.1,
+          "text": "and"
+        },
+        {
+          "startSec": 359.1,
+          "endSec": 359.1,
+          "text": "a"
+        },
+        {
+          "startSec": 359.1,
+          "endSec": 359.8,
+          "text": "worksheet"
+        },
+        {
+          "startSec": 359.8,
+          "endSec": 359.9,
+          "text": "for"
+        },
+        {
+          "startSec": 359.9,
+          "endSec": 360,
+          "text": "this"
+        },
+        {
+          "startSec": 360,
+          "endSec": 360.7,
+          "text": "episode"
+        }
+      ]
+    },
+    {
+      "startSec": 360,
+      "endSec": 366.6,
+      "text": "episode on our website, bbclearningenglish.com. See you there soon, but for now, it's goodbye.",
+      "words": [
+        {
+          "startSec": 360,
+          "endSec": 360.7,
+          "text": "episode"
+        },
+        {
+          "startSec": 360.7,
+          "endSec": 360.9,
+          "text": "on"
+        },
+        {
+          "startSec": 360.9,
+          "endSec": 361.2,
+          "text": "our"
+        },
+        {
+          "startSec": 361.2,
+          "endSec": 362,
+          "text": "website,"
+        },
+        {
+          "startSec": 362,
+          "endSec": 364.4,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 364.4,
+          "endSec": 364.5,
+          "text": "See"
+        },
+        {
+          "startSec": 364.5,
+          "endSec": 364.7,
+          "text": "you"
+        },
+        {
+          "startSec": 364.7,
+          "endSec": 364.9,
+          "text": "there"
+        },
+        {
+          "startSec": 364.9,
+          "endSec": 365.2,
+          "text": "soon,"
+        },
+        {
+          "startSec": 365.2,
+          "endSec": 365.3,
+          "text": "but"
+        },
+        {
+          "startSec": 365.3,
+          "endSec": 365.5,
+          "text": "for"
+        },
+        {
+          "startSec": 365.5,
+          "endSec": 365.7,
+          "text": "now,"
+        },
+        {
+          "startSec": 365.7,
+          "endSec": 366,
+          "text": "it's"
+        },
+        {
+          "startSec": 366,
+          "endSec": 366.6,
+          "text": "goodbye."
+        },
+        {
+          "startSec": 366.6,
+          "endSec": 367.4,
+          "text": "Bye!"
+        }
+      ]
+    },
+    {
+      "startSec": 366.6,
+      "endSec": 367.4,
+      "text": "Bye!",
+      "words": [
+        {
+          "startSec": 366.6,
+          "endSec": 367.4,
+          "text": "Bye!"
+        }
+      ]
+    }
+  ],
+  "introSec": 0
+}

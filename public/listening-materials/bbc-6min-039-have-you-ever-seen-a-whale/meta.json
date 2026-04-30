@@ -1,0 +1,5573 @@
+{
+  "title": "Have you ever seen a whale",
+  "source": "BBC 6 Minute English",
+  "level": "intermediate",
+  "durationSec": 373,
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
+  "audioFile": "audio.mp3",
+  "segments": [
+    {
+      "startSec": 0,
+      "endSec": 8.4,
+      "text": "6 minutes English from bbclearningenglish.com",
+      "words": [
+        {
+          "startSec": 0.1,
+          "endSec": 0.5,
+          "text": "6"
+        },
+        {
+          "startSec": 0.5,
+          "endSec": 1.5,
+          "text": "minutes"
+        },
+        {
+          "startSec": 1.5,
+          "endSec": 2.6,
+          "text": "English"
+        },
+        {
+          "startSec": 2.6,
+          "endSec": 3.4,
+          "text": "from"
+        },
+        {
+          "startSec": 3.4,
+          "endSec": 8.4,
+          "text": "bbclearningenglish.com"
+        },
+        {
+          "startSec": 8.4,
+          "endSec": 8.7,
+          "text": "Hello"
+        }
+      ]
+    },
+    {
+      "startSec": 8.4,
+      "endSec": 12.9,
+      "text": "Hello this is 6 minute English from BBC Learning English, I'm Phil.",
+      "words": [
+        {
+          "startSec": 8.4,
+          "endSec": 8.7,
+          "text": "Hello"
+        },
+        {
+          "startSec": 8.7,
+          "endSec": 9,
+          "text": "this"
+        },
+        {
+          "startSec": 9,
+          "endSec": 9.2,
+          "text": "is"
+        },
+        {
+          "startSec": 9.2,
+          "endSec": 9.4,
+          "text": "6"
+        },
+        {
+          "startSec": 9.4,
+          "endSec": 9.8,
+          "text": "minute"
+        },
+        {
+          "startSec": 9.8,
+          "endSec": 10.3,
+          "text": "English"
+        },
+        {
+          "startSec": 10.3,
+          "endSec": 10.6,
+          "text": "from"
+        },
+        {
+          "startSec": 10.6,
+          "endSec": 10.8,
+          "text": "BBC"
+        },
+        {
+          "startSec": 10.8,
+          "endSec": 11.4,
+          "text": "Learning"
+        },
+        {
+          "startSec": 11.4,
+          "endSec": 12.1,
+          "text": "English,"
+        },
+        {
+          "startSec": 12.1,
+          "endSec": 12.3,
+          "text": "I'm"
+        },
+        {
+          "startSec": 12.3,
+          "endSec": 12.9,
+          "text": "Phil."
+        },
+        {
+          "startSec": 12.9,
+          "endSec": 13.2,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 12.9,
+      "endSec": 14.2,
+      "text": "And I'm Georgie.",
+      "words": [
+        {
+          "startSec": 12.9,
+          "endSec": 13.2,
+          "text": "And"
+        },
+        {
+          "startSec": 13.2,
+          "endSec": 13.5,
+          "text": "I'm"
+        },
+        {
+          "startSec": 13.5,
+          "endSec": 14.2,
+          "text": "Georgie."
+        },
+        {
+          "startSec": 14.2,
+          "endSec": 15.2,
+          "text": "Encountering"
+        }
+      ]
+    },
+    {
+      "startSec": 14.2,
+      "endSec": 19.1,
+      "text": "Encountering an animal in its natural habitat is a magical experience.",
+      "words": [
+        {
+          "startSec": 14.2,
+          "endSec": 15.2,
+          "text": "Encountering"
+        },
+        {
+          "startSec": 15.2,
+          "endSec": 15.3,
+          "text": "an"
+        },
+        {
+          "startSec": 15.3,
+          "endSec": 15.8,
+          "text": "animal"
+        },
+        {
+          "startSec": 15.8,
+          "endSec": 15.9,
+          "text": "in"
+        },
+        {
+          "startSec": 15.9,
+          "endSec": 16.2,
+          "text": "its"
+        },
+        {
+          "startSec": 16.2,
+          "endSec": 16.7,
+          "text": "natural"
+        },
+        {
+          "startSec": 16.7,
+          "endSec": 17.2,
+          "text": "habitat"
+        },
+        {
+          "startSec": 17.2,
+          "endSec": 17.4,
+          "text": "is"
+        },
+        {
+          "startSec": 17.4,
+          "endSec": 17.5,
+          "text": "a"
+        },
+        {
+          "startSec": 17.5,
+          "endSec": 18,
+          "text": "magical"
+        },
+        {
+          "startSec": 18,
+          "endSec": 19.1,
+          "text": "experience."
+        },
+        {
+          "startSec": 19.1,
+          "endSec": 19.3,
+          "text": "Have"
+        }
+      ]
+    },
+    {
+      "startSec": 19.1,
+      "endSec": 21.8,
+      "text": "Have you ever seen an animal in the wild, Georgie?",
+      "words": [
+        {
+          "startSec": 19.1,
+          "endSec": 19.3,
+          "text": "Have"
+        },
+        {
+          "startSec": 19.3,
+          "endSec": 19.5,
+          "text": "you"
+        },
+        {
+          "startSec": 19.5,
+          "endSec": 19.7,
+          "text": "ever"
+        },
+        {
+          "startSec": 19.7,
+          "endSec": 20,
+          "text": "seen"
+        },
+        {
+          "startSec": 20,
+          "endSec": 20.1,
+          "text": "an"
+        },
+        {
+          "startSec": 20.1,
+          "endSec": 20.5,
+          "text": "animal"
+        },
+        {
+          "startSec": 20.5,
+          "endSec": 20.6,
+          "text": "in"
+        },
+        {
+          "startSec": 20.6,
+          "endSec": 20.8,
+          "text": "the"
+        },
+        {
+          "startSec": 20.8,
+          "endSec": 21.1,
+          "text": "wild,"
+        },
+        {
+          "startSec": 21.1,
+          "endSec": 21.8,
+          "text": "Georgie?"
+        },
+        {
+          "startSec": 21.8,
+          "endSec": 22.1,
+          "text": "Yes,"
+        }
+      ]
+    },
+    {
+      "startSec": 21.8,
+      "endSec": 23.1,
+      "text": "Yes, I have actually.",
+      "words": [
+        {
+          "startSec": 21.8,
+          "endSec": 22.1,
+          "text": "Yes,"
+        },
+        {
+          "startSec": 22.1,
+          "endSec": 22.1,
+          "text": "I"
+        },
+        {
+          "startSec": 22.1,
+          "endSec": 22.4,
+          "text": "have"
+        },
+        {
+          "startSec": 22.4,
+          "endSec": 23.1,
+          "text": "actually."
+        },
+        {
+          "startSec": 23.1,
+          "endSec": 23.2,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 23.1,
+      "endSec": 27,
+      "text": "I was on a walk and we saw a baby badger.",
+      "words": [
+        {
+          "startSec": 23.1,
+          "endSec": 23.2,
+          "text": "I"
+        },
+        {
+          "startSec": 23.2,
+          "endSec": 23.6,
+          "text": "was"
+        },
+        {
+          "startSec": 23.6,
+          "endSec": 23.8,
+          "text": "on"
+        },
+        {
+          "startSec": 23.8,
+          "endSec": 23.9,
+          "text": "a"
+        },
+        {
+          "startSec": 23.9,
+          "endSec": 24.4,
+          "text": "walk"
+        },
+        {
+          "startSec": 24.4,
+          "endSec": 24.7,
+          "text": "and"
+        },
+        {
+          "startSec": 24.7,
+          "endSec": 24.9,
+          "text": "we"
+        },
+        {
+          "startSec": 24.9,
+          "endSec": 25.3,
+          "text": "saw"
+        },
+        {
+          "startSec": 25.3,
+          "endSec": 25.4,
+          "text": "a"
+        },
+        {
+          "startSec": 25.4,
+          "endSec": 25.9,
+          "text": "baby"
+        },
+        {
+          "startSec": 25.9,
+          "endSec": 27,
+          "text": "badger."
+        },
+        {
+          "startSec": 27,
+          "endSec": 27.1,
+          "text": "It"
+        }
+      ]
+    },
+    {
+      "startSec": 27,
+      "endSec": 29.3,
+      "text": "It was on its own and it was really cute.",
+      "words": [
+        {
+          "startSec": 27,
+          "endSec": 27.1,
+          "text": "It"
+        },
+        {
+          "startSec": 27.1,
+          "endSec": 27.3,
+          "text": "was"
+        },
+        {
+          "startSec": 27.3,
+          "endSec": 27.4,
+          "text": "on"
+        },
+        {
+          "startSec": 27.4,
+          "endSec": 27.6,
+          "text": "its"
+        },
+        {
+          "startSec": 27.6,
+          "endSec": 27.8,
+          "text": "own"
+        },
+        {
+          "startSec": 27.8,
+          "endSec": 28,
+          "text": "and"
+        },
+        {
+          "startSec": 28,
+          "endSec": 28.2,
+          "text": "it"
+        },
+        {
+          "startSec": 28.2,
+          "endSec": 28.4,
+          "text": "was"
+        },
+        {
+          "startSec": 28.4,
+          "endSec": 28.8,
+          "text": "really"
+        },
+        {
+          "startSec": 28.8,
+          "endSec": 29.3,
+          "text": "cute."
+        },
+        {
+          "startSec": 29.3,
+          "endSec": 29.5,
+          "text": "What"
+        }
+      ]
+    },
+    {
+      "startSec": 29.3,
+      "endSec": 30.3,
+      "text": "What about you Phil?",
+      "words": [
+        {
+          "startSec": 29.3,
+          "endSec": 29.5,
+          "text": "What"
+        },
+        {
+          "startSec": 29.5,
+          "endSec": 29.8,
+          "text": "about"
+        },
+        {
+          "startSec": 29.8,
+          "endSec": 29.9,
+          "text": "you"
+        },
+        {
+          "startSec": 29.9,
+          "endSec": 30.3,
+          "text": "Phil?"
+        },
+        {
+          "startSec": 30.3,
+          "endSec": 30.5,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 30.3,
+      "endSec": 33.7,
+      "text": "The most impressive one I've ever seen is actually a whale.",
+      "words": [
+        {
+          "startSec": 30.3,
+          "endSec": 30.5,
+          "text": "The"
+        },
+        {
+          "startSec": 30.5,
+          "endSec": 30.7,
+          "text": "most"
+        },
+        {
+          "startSec": 30.7,
+          "endSec": 31.4,
+          "text": "impressive"
+        },
+        {
+          "startSec": 31.4,
+          "endSec": 31.6,
+          "text": "one"
+        },
+        {
+          "startSec": 31.6,
+          "endSec": 31.9,
+          "text": "I've"
+        },
+        {
+          "startSec": 31.9,
+          "endSec": 32.1,
+          "text": "ever"
+        },
+        {
+          "startSec": 32.1,
+          "endSec": 32.4,
+          "text": "seen"
+        },
+        {
+          "startSec": 32.4,
+          "endSec": 32.5,
+          "text": "is"
+        },
+        {
+          "startSec": 32.5,
+          "endSec": 33.1,
+          "text": "actually"
+        },
+        {
+          "startSec": 33.1,
+          "endSec": 33.1,
+          "text": "a"
+        },
+        {
+          "startSec": 33.1,
+          "endSec": 33.7,
+          "text": "whale."
+        },
+        {
+          "startSec": 33.7,
+          "endSec": 33.8,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 33.7,
+      "endSec": 38.4,
+      "text": "I was driving by the coast in Patagonia and you could see them in the sea.",
+      "words": [
+        {
+          "startSec": 33.7,
+          "endSec": 33.8,
+          "text": "I"
+        },
+        {
+          "startSec": 33.8,
+          "endSec": 34,
+          "text": "was"
+        },
+        {
+          "startSec": 34,
+          "endSec": 34.6,
+          "text": "driving"
+        },
+        {
+          "startSec": 34.6,
+          "endSec": 34.7,
+          "text": "by"
+        },
+        {
+          "startSec": 34.7,
+          "endSec": 34.9,
+          "text": "the"
+        },
+        {
+          "startSec": 34.9,
+          "endSec": 35.3,
+          "text": "coast"
+        },
+        {
+          "startSec": 35.3,
+          "endSec": 35.5,
+          "text": "in"
+        },
+        {
+          "startSec": 35.5,
+          "endSec": 36.2,
+          "text": "Patagonia"
+        },
+        {
+          "startSec": 36.2,
+          "endSec": 36.4,
+          "text": "and"
+        },
+        {
+          "startSec": 36.4,
+          "endSec": 36.6,
+          "text": "you"
+        },
+        {
+          "startSec": 36.6,
+          "endSec": 37,
+          "text": "could"
+        },
+        {
+          "startSec": 37,
+          "endSec": 37.2,
+          "text": "see"
+        },
+        {
+          "startSec": 37.2,
+          "endSec": 37.5,
+          "text": "them"
+        },
+        {
+          "startSec": 37.5,
+          "endSec": 37.7,
+          "text": "in"
+        },
+        {
+          "startSec": 37.7,
+          "endSec": 37.9,
+          "text": "the"
+        },
+        {
+          "startSec": 37.9,
+          "endSec": 38.4,
+          "text": "sea."
+        },
+        {
+          "startSec": 38.4,
+          "endSec": 38.8,
+          "text": "Well,"
+        }
+      ]
+    },
+    {
+      "startSec": 38.4,
+      "endSec": 43.4,
+      "text": "Well, that sounds amazing and funny you say that because whale watching has become popular",
+      "words": [
+        {
+          "startSec": 38.4,
+          "endSec": 38.8,
+          "text": "Well,"
+        },
+        {
+          "startSec": 38.8,
+          "endSec": 39,
+          "text": "that"
+        },
+        {
+          "startSec": 39,
+          "endSec": 39.4,
+          "text": "sounds"
+        },
+        {
+          "startSec": 39.4,
+          "endSec": 39.8,
+          "text": "amazing"
+        },
+        {
+          "startSec": 39.8,
+          "endSec": 40,
+          "text": "and"
+        },
+        {
+          "startSec": 40,
+          "endSec": 40.3,
+          "text": "funny"
+        },
+        {
+          "startSec": 40.3,
+          "endSec": 40.4,
+          "text": "you"
+        },
+        {
+          "startSec": 40.4,
+          "endSec": 40.6,
+          "text": "say"
+        },
+        {
+          "startSec": 40.6,
+          "endSec": 40.9,
+          "text": "that"
+        },
+        {
+          "startSec": 40.9,
+          "endSec": 41.4,
+          "text": "because"
+        },
+        {
+          "startSec": 41.4,
+          "endSec": 41.7,
+          "text": "whale"
+        },
+        {
+          "startSec": 41.7,
+          "endSec": 42.2,
+          "text": "watching"
+        },
+        {
+          "startSec": 42.2,
+          "endSec": 42.4,
+          "text": "has"
+        },
+        {
+          "startSec": 42.4,
+          "endSec": 42.8,
+          "text": "become"
+        },
+        {
+          "startSec": 42.8,
+          "endSec": 43.4,
+          "text": "popular"
+        },
+        {
+          "startSec": 43.4,
+          "endSec": 43.6,
+          "text": "in"
+        }
+      ]
+    },
+    {
+      "startSec": 43.4,
+      "endSec": 45.9,
+      "text": "in many coastal parts of the world.",
+      "words": [
+        {
+          "startSec": 43.4,
+          "endSec": 43.6,
+          "text": "in"
+        },
+        {
+          "startSec": 43.6,
+          "endSec": 43.9,
+          "text": "many"
+        },
+        {
+          "startSec": 43.9,
+          "endSec": 44.4,
+          "text": "coastal"
+        },
+        {
+          "startSec": 44.4,
+          "endSec": 44.8,
+          "text": "parts"
+        },
+        {
+          "startSec": 44.8,
+          "endSec": 45,
+          "text": "of"
+        },
+        {
+          "startSec": 45,
+          "endSec": 45.2,
+          "text": "the"
+        },
+        {
+          "startSec": 45.2,
+          "endSec": 45.9,
+          "text": "world."
+        },
+        {
+          "startSec": 45.9,
+          "endSec": 46.1,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 45.9,
+      "endSec": 51,
+      "text": "But watching whales is very different from what humans used to do - hunt and kill them",
+      "words": [
+        {
+          "startSec": 45.9,
+          "endSec": 46.1,
+          "text": "But"
+        },
+        {
+          "startSec": 46.1,
+          "endSec": 46.7,
+          "text": "watching"
+        },
+        {
+          "startSec": 46.7,
+          "endSec": 47.1,
+          "text": "whales"
+        },
+        {
+          "startSec": 47.1,
+          "endSec": 47.3,
+          "text": "is"
+        },
+        {
+          "startSec": 47.3,
+          "endSec": 47.6,
+          "text": "very"
+        },
+        {
+          "startSec": 47.6,
+          "endSec": 48.2,
+          "text": "different"
+        },
+        {
+          "startSec": 48.2,
+          "endSec": 48.5,
+          "text": "from"
+        },
+        {
+          "startSec": 48.5,
+          "endSec": 48.8,
+          "text": "what"
+        },
+        {
+          "startSec": 48.8,
+          "endSec": 49.2,
+          "text": "humans"
+        },
+        {
+          "startSec": 49.2,
+          "endSec": 49.5,
+          "text": "used"
+        },
+        {
+          "startSec": 49.5,
+          "endSec": 49.7,
+          "text": "to"
+        },
+        {
+          "startSec": 49.7,
+          "endSec": 49.8,
+          "text": "do"
+        },
+        {
+          "startSec": 49.8,
+          "endSec": 49.9,
+          "text": "-"
+        },
+        {
+          "startSec": 49.9,
+          "endSec": 50.2,
+          "text": "hunt"
+        },
+        {
+          "startSec": 50.2,
+          "endSec": 50.4,
+          "text": "and"
+        },
+        {
+          "startSec": 50.4,
+          "endSec": 50.7,
+          "text": "kill"
+        },
+        {
+          "startSec": 50.7,
+          "endSec": 51,
+          "text": "them"
+        },
+        {
+          "startSec": 51,
+          "endSec": 51.3,
+          "text": "for"
+        }
+      ]
+    },
+    {
+      "startSec": 51,
+      "endSec": 55.4,
+      "text": "for their oil and meat, an activity known as whaling.",
+      "words": [
+        {
+          "startSec": 51,
+          "endSec": 51.3,
+          "text": "for"
+        },
+        {
+          "startSec": 51.3,
+          "endSec": 51.8,
+          "text": "their"
+        },
+        {
+          "startSec": 51.8,
+          "endSec": 52,
+          "text": "oil"
+        },
+        {
+          "startSec": 52,
+          "endSec": 52.3,
+          "text": "and"
+        },
+        {
+          "startSec": 52.3,
+          "endSec": 52.9,
+          "text": "meat,"
+        },
+        {
+          "startSec": 52.9,
+          "endSec": 53,
+          "text": "an"
+        },
+        {
+          "startSec": 53,
+          "endSec": 53.8,
+          "text": "activity"
+        },
+        {
+          "startSec": 53.8,
+          "endSec": 54.3,
+          "text": "known"
+        },
+        {
+          "startSec": 54.3,
+          "endSec": 54.4,
+          "text": "as"
+        },
+        {
+          "startSec": 54.4,
+          "endSec": 55.4,
+          "text": "whaling."
+        }
+      ]
+    },
+    {
+      "startSec": 55.4,
+      "endSec": 59.9,
+      "text": "This year marked the 40th anniversary of the International Whaling Commission's global",
+      "words": [
+        {
+          "startSec": 55.5,
+          "endSec": 55.7,
+          "text": "This"
+        },
+        {
+          "startSec": 55.7,
+          "endSec": 55.9,
+          "text": "year"
+        },
+        {
+          "startSec": 55.9,
+          "endSec": 56.3,
+          "text": "marked"
+        },
+        {
+          "startSec": 56.3,
+          "endSec": 56.4,
+          "text": "the"
+        },
+        {
+          "startSec": 56.4,
+          "endSec": 56.9,
+          "text": "40th"
+        },
+        {
+          "startSec": 56.9,
+          "endSec": 57.5,
+          "text": "anniversary"
+        },
+        {
+          "startSec": 57.5,
+          "endSec": 57.6,
+          "text": "of"
+        },
+        {
+          "startSec": 57.6,
+          "endSec": 57.8,
+          "text": "the"
+        },
+        {
+          "startSec": 57.8,
+          "endSec": 58.6,
+          "text": "International"
+        },
+        {
+          "startSec": 58.6,
+          "endSec": 59,
+          "text": "Whaling"
+        },
+        {
+          "startSec": 59,
+          "endSec": 59.8,
+          "text": "Commission's"
+        },
+        {
+          "startSec": 59.8,
+          "endSec": 59.9,
+          "text": "global"
+        },
+        {
+          "startSec": 59.9,
+          "endSec": 60.9,
+          "text": "moratorium."
+        }
+      ]
+    },
+    {
+      "startSec": 59.9,
+      "endSec": 60.9,
+      "text": "moratorium.",
+      "words": [
+        {
+          "startSec": 59.9,
+          "endSec": 60.9,
+          "text": "moratorium."
+        },
+        {
+          "startSec": 60.9,
+          "endSec": 61.4,
+          "text": "That's"
+        }
+      ]
+    },
+    {
+      "startSec": 60.9,
+      "endSec": 65,
+      "text": "That's a temporary ban on the commercial killing of whales.",
+      "words": [
+        {
+          "startSec": 60.9,
+          "endSec": 61.4,
+          "text": "That's"
+        },
+        {
+          "startSec": 61.4,
+          "endSec": 61.4,
+          "text": "a"
+        },
+        {
+          "startSec": 61.4,
+          "endSec": 62.1,
+          "text": "temporary"
+        },
+        {
+          "startSec": 62.1,
+          "endSec": 62.4,
+          "text": "ban"
+        },
+        {
+          "startSec": 62.4,
+          "endSec": 62.5,
+          "text": "on"
+        },
+        {
+          "startSec": 62.5,
+          "endSec": 62.8,
+          "text": "the"
+        },
+        {
+          "startSec": 62.8,
+          "endSec": 63.6,
+          "text": "commercial"
+        },
+        {
+          "startSec": 63.6,
+          "endSec": 64.1,
+          "text": "killing"
+        },
+        {
+          "startSec": 64.1,
+          "endSec": 64.3,
+          "text": "of"
+        },
+        {
+          "startSec": 64.3,
+          "endSec": 65,
+          "text": "whales."
+        },
+        {
+          "startSec": 65,
+          "endSec": 65.7,
+          "text": "Although"
+        }
+      ]
+    },
+    {
+      "startSec": 65,
+      "endSec": 70.5,
+      "text": "Although Japan, Iceland and Norway continue to hunt whales, there's no doubt the ban",
+      "words": [
+        {
+          "startSec": 65,
+          "endSec": 65.7,
+          "text": "Although"
+        },
+        {
+          "startSec": 65.7,
+          "endSec": 66.3,
+          "text": "Japan,"
+        },
+        {
+          "startSec": 66.3,
+          "endSec": 66.8,
+          "text": "Iceland"
+        },
+        {
+          "startSec": 66.8,
+          "endSec": 67.1,
+          "text": "and"
+        },
+        {
+          "startSec": 67.1,
+          "endSec": 67.6,
+          "text": "Norway"
+        },
+        {
+          "startSec": 67.6,
+          "endSec": 68.2,
+          "text": "continue"
+        },
+        {
+          "startSec": 68.2,
+          "endSec": 68.4,
+          "text": "to"
+        },
+        {
+          "startSec": 68.4,
+          "endSec": 68.7,
+          "text": "hunt"
+        },
+        {
+          "startSec": 68.7,
+          "endSec": 69.4,
+          "text": "whales,"
+        },
+        {
+          "startSec": 69.4,
+          "endSec": 69.8,
+          "text": "there's"
+        },
+        {
+          "startSec": 69.8,
+          "endSec": 69.9,
+          "text": "no"
+        },
+        {
+          "startSec": 69.9,
+          "endSec": 70.1,
+          "text": "doubt"
+        },
+        {
+          "startSec": 70.1,
+          "endSec": 70.3,
+          "text": "the"
+        },
+        {
+          "startSec": 70.3,
+          "endSec": 70.5,
+          "text": "ban"
+        },
+        {
+          "startSec": 70.5,
+          "endSec": 70.7,
+          "text": "has"
+        }
+      ]
+    },
+    {
+      "startSec": 70.5,
+      "endSec": 74.1,
+      "text": "has saved many whales species from extinction.",
+      "words": [
+        {
+          "startSec": 70.5,
+          "endSec": 70.7,
+          "text": "has"
+        },
+        {
+          "startSec": 70.7,
+          "endSec": 71.2,
+          "text": "saved"
+        },
+        {
+          "startSec": 71.2,
+          "endSec": 71.5,
+          "text": "many"
+        },
+        {
+          "startSec": 71.5,
+          "endSec": 72,
+          "text": "whales"
+        },
+        {
+          "startSec": 72,
+          "endSec": 72.6,
+          "text": "species"
+        },
+        {
+          "startSec": 72.6,
+          "endSec": 73,
+          "text": "from"
+        },
+        {
+          "startSec": 73,
+          "endSec": 74.1,
+          "text": "extinction."
+        },
+        {
+          "startSec": 74.1,
+          "endSec": 74.2,
+          "text": "In"
+        }
+      ]
+    },
+    {
+      "startSec": 74.1,
+      "endSec": 78.8,
+      "text": "In this program we'll discuss our past and present relationship with these giants of the",
+      "words": [
+        {
+          "startSec": 74.1,
+          "endSec": 74.2,
+          "text": "In"
+        },
+        {
+          "startSec": 74.2,
+          "endSec": 74.5,
+          "text": "this"
+        },
+        {
+          "startSec": 74.5,
+          "endSec": 74.9,
+          "text": "program"
+        },
+        {
+          "startSec": 74.9,
+          "endSec": 75.3,
+          "text": "we'll"
+        },
+        {
+          "startSec": 75.3,
+          "endSec": 75.7,
+          "text": "discuss"
+        },
+        {
+          "startSec": 75.7,
+          "endSec": 75.9,
+          "text": "our"
+        },
+        {
+          "startSec": 75.9,
+          "endSec": 76.1,
+          "text": "past"
+        },
+        {
+          "startSec": 76.1,
+          "endSec": 76.3,
+          "text": "and"
+        },
+        {
+          "startSec": 76.3,
+          "endSec": 76.8,
+          "text": "present"
+        },
+        {
+          "startSec": 76.8,
+          "endSec": 77.6,
+          "text": "relationship"
+        },
+        {
+          "startSec": 77.6,
+          "endSec": 77.8,
+          "text": "with"
+        },
+        {
+          "startSec": 77.8,
+          "endSec": 78.1,
+          "text": "these"
+        },
+        {
+          "startSec": 78.1,
+          "endSec": 78.6,
+          "text": "giants"
+        },
+        {
+          "startSec": 78.6,
+          "endSec": 78.7,
+          "text": "of"
+        },
+        {
+          "startSec": 78.7,
+          "endSec": 78.8,
+          "text": "the"
+        },
+        {
+          "startSec": 78.8,
+          "endSec": 79.2,
+          "text": "ocean"
+        }
+      ]
+    },
+    {
+      "startSec": 78.8,
+      "endSec": 83.9,
+      "text": "ocean and as usual we'll learn some useful new words and phrases too.",
+      "words": [
+        {
+          "startSec": 78.8,
+          "endSec": 79.2,
+          "text": "ocean"
+        },
+        {
+          "startSec": 79.2,
+          "endSec": 79.5,
+          "text": "and"
+        },
+        {
+          "startSec": 79.5,
+          "endSec": 79.6,
+          "text": "as"
+        },
+        {
+          "startSec": 79.6,
+          "endSec": 80.1,
+          "text": "usual"
+        },
+        {
+          "startSec": 80.1,
+          "endSec": 80.5,
+          "text": "we'll"
+        },
+        {
+          "startSec": 80.5,
+          "endSec": 80.9,
+          "text": "learn"
+        },
+        {
+          "startSec": 80.9,
+          "endSec": 81.3,
+          "text": "some"
+        },
+        {
+          "startSec": 81.3,
+          "endSec": 81.8,
+          "text": "useful"
+        },
+        {
+          "startSec": 81.8,
+          "endSec": 82.1,
+          "text": "new"
+        },
+        {
+          "startSec": 82.1,
+          "endSec": 82.5,
+          "text": "words"
+        },
+        {
+          "startSec": 82.5,
+          "endSec": 82.7,
+          "text": "and"
+        },
+        {
+          "startSec": 82.7,
+          "endSec": 83.3,
+          "text": "phrases"
+        },
+        {
+          "startSec": 83.3,
+          "endSec": 83.9,
+          "text": "too."
+        }
+      ]
+    },
+    {
+      "startSec": 83.9,
+      "endSec": 88.7,
+      "text": "Plus, you'll find all the vocabulary for this episode along with a quiz and worksheet",
+      "words": [
+        {
+          "startSec": 84,
+          "endSec": 84.3,
+          "text": "Plus,"
+        },
+        {
+          "startSec": 84.3,
+          "endSec": 84.7,
+          "text": "you'll"
+        },
+        {
+          "startSec": 84.7,
+          "endSec": 85,
+          "text": "find"
+        },
+        {
+          "startSec": 85,
+          "endSec": 85.1,
+          "text": "all"
+        },
+        {
+          "startSec": 85.1,
+          "endSec": 85.3,
+          "text": "the"
+        },
+        {
+          "startSec": 85.3,
+          "endSec": 86,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 86,
+          "endSec": 86.2,
+          "text": "for"
+        },
+        {
+          "startSec": 86.2,
+          "endSec": 86.4,
+          "text": "this"
+        },
+        {
+          "startSec": 86.4,
+          "endSec": 86.9,
+          "text": "episode"
+        },
+        {
+          "startSec": 86.9,
+          "endSec": 87.2,
+          "text": "along"
+        },
+        {
+          "startSec": 87.2,
+          "endSec": 87.5,
+          "text": "with"
+        },
+        {
+          "startSec": 87.5,
+          "endSec": 87.6,
+          "text": "a"
+        },
+        {
+          "startSec": 87.6,
+          "endSec": 87.8,
+          "text": "quiz"
+        },
+        {
+          "startSec": 87.8,
+          "endSec": 88,
+          "text": "and"
+        },
+        {
+          "startSec": 88,
+          "endSec": 88.7,
+          "text": "worksheet"
+        },
+        {
+          "startSec": 88.7,
+          "endSec": 88.9,
+          "text": "on"
+        }
+      ]
+    },
+    {
+      "startSec": 88.7,
+      "endSec": 92.4,
+      "text": "on our website - bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 88.7,
+          "endSec": 88.9,
+          "text": "on"
+        },
+        {
+          "startSec": 88.9,
+          "endSec": 89.2,
+          "text": "our"
+        },
+        {
+          "startSec": 89.2,
+          "endSec": 89.9,
+          "text": "website"
+        },
+        {
+          "startSec": 89.9,
+          "endSec": 90,
+          "text": "-"
+        },
+        {
+          "startSec": 90,
+          "endSec": 92.4,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 92.4,
+          "endSec": 92.6,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 92.4,
+      "endSec": 95.8,
+      "text": "But first I have a question for you Georgie.",
+      "words": [
+        {
+          "startSec": 92.4,
+          "endSec": 92.6,
+          "text": "But"
+        },
+        {
+          "startSec": 92.6,
+          "endSec": 93.1,
+          "text": "first"
+        },
+        {
+          "startSec": 93.1,
+          "endSec": 93.2,
+          "text": "I"
+        },
+        {
+          "startSec": 93.2,
+          "endSec": 93.5,
+          "text": "have"
+        },
+        {
+          "startSec": 93.5,
+          "endSec": 93.6,
+          "text": "a"
+        },
+        {
+          "startSec": 93.6,
+          "endSec": 94.3,
+          "text": "question"
+        },
+        {
+          "startSec": 94.3,
+          "endSec": 94.6,
+          "text": "for"
+        },
+        {
+          "startSec": 94.6,
+          "endSec": 94.8,
+          "text": "you"
+        },
+        {
+          "startSec": 94.8,
+          "endSec": 95.8,
+          "text": "Georgie."
+        },
+        {
+          "startSec": 95.8,
+          "endSec": 96,
+          "text": "You"
+        }
+      ]
+    },
+    {
+      "startSec": 95.8,
+      "endSec": 102.2,
+      "text": "You probably know that the world's largest whale is the blue whale growing up to 30 metres",
+      "words": [
+        {
+          "startSec": 95.8,
+          "endSec": 96,
+          "text": "You"
+        },
+        {
+          "startSec": 96,
+          "endSec": 96.7,
+          "text": "probably"
+        },
+        {
+          "startSec": 96.7,
+          "endSec": 97,
+          "text": "know"
+        },
+        {
+          "startSec": 97,
+          "endSec": 97.3,
+          "text": "that"
+        },
+        {
+          "startSec": 97.3,
+          "endSec": 97.5,
+          "text": "the"
+        },
+        {
+          "startSec": 97.5,
+          "endSec": 98.1,
+          "text": "world's"
+        },
+        {
+          "startSec": 98.1,
+          "endSec": 98.7,
+          "text": "largest"
+        },
+        {
+          "startSec": 98.7,
+          "endSec": 99.1,
+          "text": "whale"
+        },
+        {
+          "startSec": 99.1,
+          "endSec": 99.2,
+          "text": "is"
+        },
+        {
+          "startSec": 99.2,
+          "endSec": 99.5,
+          "text": "the"
+        },
+        {
+          "startSec": 99.5,
+          "endSec": 99.8,
+          "text": "blue"
+        },
+        {
+          "startSec": 99.8,
+          "endSec": 100.2,
+          "text": "whale"
+        },
+        {
+          "startSec": 100.2,
+          "endSec": 100.8,
+          "text": "growing"
+        },
+        {
+          "startSec": 100.8,
+          "endSec": 100.9,
+          "text": "up"
+        },
+        {
+          "startSec": 100.9,
+          "endSec": 101.1,
+          "text": "to"
+        },
+        {
+          "startSec": 101.1,
+          "endSec": 101.7,
+          "text": "30"
+        },
+        {
+          "startSec": 101.7,
+          "endSec": 102.2,
+          "text": "metres"
+        },
+        {
+          "startSec": 102.2,
+          "endSec": 103.2,
+          "text": "long."
+        }
+      ]
+    },
+    {
+      "startSec": 102.2,
+      "endSec": 103.2,
+      "text": "long.",
+      "words": [
+        {
+          "startSec": 102.2,
+          "endSec": 103.2,
+          "text": "long."
+        },
+        {
+          "startSec": 103.2,
+          "endSec": 103.6,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 103.2,
+      "endSec": 107,
+      "text": "But which whale species is the smallest?",
+      "words": [
+        {
+          "startSec": 103.2,
+          "endSec": 103.6,
+          "text": "But"
+        },
+        {
+          "startSec": 103.6,
+          "endSec": 104.1,
+          "text": "which"
+        },
+        {
+          "startSec": 104.1,
+          "endSec": 104.6,
+          "text": "whale"
+        },
+        {
+          "startSec": 104.6,
+          "endSec": 105.3,
+          "text": "species"
+        },
+        {
+          "startSec": 105.3,
+          "endSec": 105.5,
+          "text": "is"
+        },
+        {
+          "startSec": 105.5,
+          "endSec": 105.8,
+          "text": "the"
+        },
+        {
+          "startSec": 105.8,
+          "endSec": 107,
+          "text": "smallest?"
+        }
+      ]
+    },
+    {
+      "startSec": 107,
+      "endSec": 114.5,
+      "text": "Is it a) the beluga whale, b) the vaquita whale, or c) the pygmy right whale?",
+      "words": [
+        {
+          "startSec": 107.1,
+          "endSec": 107.2,
+          "text": "Is"
+        },
+        {
+          "startSec": 107.2,
+          "endSec": 107.4,
+          "text": "it"
+        },
+        {
+          "startSec": 107.4,
+          "endSec": 107.7,
+          "text": "a)"
+        },
+        {
+          "startSec": 107.7,
+          "endSec": 108,
+          "text": "the"
+        },
+        {
+          "startSec": 108,
+          "endSec": 108.7,
+          "text": "beluga"
+        },
+        {
+          "startSec": 108.7,
+          "endSec": 109.5,
+          "text": "whale,"
+        },
+        {
+          "startSec": 109.5,
+          "endSec": 109.7,
+          "text": "b)"
+        },
+        {
+          "startSec": 109.7,
+          "endSec": 110,
+          "text": "the"
+        },
+        {
+          "startSec": 110,
+          "endSec": 110.8,
+          "text": "vaquita"
+        },
+        {
+          "startSec": 110.8,
+          "endSec": 111.6,
+          "text": "whale,"
+        },
+        {
+          "startSec": 111.6,
+          "endSec": 111.8,
+          "text": "or"
+        },
+        {
+          "startSec": 111.8,
+          "endSec": 112,
+          "text": "c)"
+        },
+        {
+          "startSec": 112,
+          "endSec": 112.4,
+          "text": "the"
+        },
+        {
+          "startSec": 112.4,
+          "endSec": 112.9,
+          "text": "pygmy"
+        },
+        {
+          "startSec": 112.9,
+          "endSec": 113.5,
+          "text": "right"
+        },
+        {
+          "startSec": 113.5,
+          "endSec": 114.5,
+          "text": "whale?"
+        },
+        {
+          "startSec": 114.5,
+          "endSec": 114.8,
+          "text": "Well"
+        }
+      ]
+    },
+    {
+      "startSec": 114.5,
+      "endSec": 119.8,
+      "text": "Well pygmy makes me think small so I'm going to go with c) the pygmy right whale.",
+      "words": [
+        {
+          "startSec": 114.5,
+          "endSec": 114.8,
+          "text": "Well"
+        },
+        {
+          "startSec": 114.8,
+          "endSec": 115.2,
+          "text": "pygmy"
+        },
+        {
+          "startSec": 115.2,
+          "endSec": 115.6,
+          "text": "makes"
+        },
+        {
+          "startSec": 115.6,
+          "endSec": 115.7,
+          "text": "me"
+        },
+        {
+          "startSec": 115.7,
+          "endSec": 116.1,
+          "text": "think"
+        },
+        {
+          "startSec": 116.1,
+          "endSec": 116.5,
+          "text": "small"
+        },
+        {
+          "startSec": 116.5,
+          "endSec": 116.7,
+          "text": "so"
+        },
+        {
+          "startSec": 116.7,
+          "endSec": 116.9,
+          "text": "I'm"
+        },
+        {
+          "startSec": 116.9,
+          "endSec": 117.3,
+          "text": "going"
+        },
+        {
+          "startSec": 117.3,
+          "endSec": 117.4,
+          "text": "to"
+        },
+        {
+          "startSec": 117.4,
+          "endSec": 117.6,
+          "text": "go"
+        },
+        {
+          "startSec": 117.6,
+          "endSec": 117.9,
+          "text": "with"
+        },
+        {
+          "startSec": 117.9,
+          "endSec": 118,
+          "text": "c)"
+        },
+        {
+          "startSec": 118,
+          "endSec": 118.3,
+          "text": "the"
+        },
+        {
+          "startSec": 118.3,
+          "endSec": 118.6,
+          "text": "pygmy"
+        },
+        {
+          "startSec": 118.6,
+          "endSec": 119,
+          "text": "right"
+        },
+        {
+          "startSec": 119,
+          "endSec": 119.8,
+          "text": "whale."
+        },
+        {
+          "startSec": 119.8,
+          "endSec": 120.2,
+          "text": "Ok,"
+        }
+      ]
+    },
+    {
+      "startSec": 119.8,
+      "endSec": 124,
+      "text": "Ok, we'll find out later in the program.",
+      "words": [
+        {
+          "startSec": 119.8,
+          "endSec": 120.2,
+          "text": "Ok,"
+        },
+        {
+          "startSec": 120.2,
+          "endSec": 120.8,
+          "text": "we'll"
+        },
+        {
+          "startSec": 120.8,
+          "endSec": 121.3,
+          "text": "find"
+        },
+        {
+          "startSec": 121.3,
+          "endSec": 121.6,
+          "text": "out"
+        },
+        {
+          "startSec": 121.6,
+          "endSec": 122.2,
+          "text": "later"
+        },
+        {
+          "startSec": 122.2,
+          "endSec": 122.4,
+          "text": "in"
+        },
+        {
+          "startSec": 122.4,
+          "endSec": 122.8,
+          "text": "the"
+        },
+        {
+          "startSec": 122.8,
+          "endSec": 124,
+          "text": "program."
+        },
+        {
+          "startSec": 124,
+          "endSec": 124.4,
+          "text": "Humans"
+        }
+      ]
+    },
+    {
+      "startSec": 124,
+      "endSec": 129.4,
+      "text": "Humans have hunted whales for at least a thousand years, starting with small groups of hunters",
+      "words": [
+        {
+          "startSec": 124,
+          "endSec": 124.4,
+          "text": "Humans"
+        },
+        {
+          "startSec": 124.4,
+          "endSec": 124.7,
+          "text": "have"
+        },
+        {
+          "startSec": 124.7,
+          "endSec": 125,
+          "text": "hunted"
+        },
+        {
+          "startSec": 125,
+          "endSec": 125.4,
+          "text": "whales"
+        },
+        {
+          "startSec": 125.4,
+          "endSec": 125.6,
+          "text": "for"
+        },
+        {
+          "startSec": 125.6,
+          "endSec": 125.8,
+          "text": "at"
+        },
+        {
+          "startSec": 125.8,
+          "endSec": 126.1,
+          "text": "least"
+        },
+        {
+          "startSec": 126.1,
+          "endSec": 126.1,
+          "text": "a"
+        },
+        {
+          "startSec": 126.1,
+          "endSec": 126.7,
+          "text": "thousand"
+        },
+        {
+          "startSec": 126.7,
+          "endSec": 127.1,
+          "text": "years,"
+        },
+        {
+          "startSec": 127.1,
+          "endSec": 127.7,
+          "text": "starting"
+        },
+        {
+          "startSec": 127.7,
+          "endSec": 127.9,
+          "text": "with"
+        },
+        {
+          "startSec": 127.9,
+          "endSec": 128.3,
+          "text": "small"
+        },
+        {
+          "startSec": 128.3,
+          "endSec": 128.7,
+          "text": "groups"
+        },
+        {
+          "startSec": 128.7,
+          "endSec": 128.8,
+          "text": "of"
+        },
+        {
+          "startSec": 128.8,
+          "endSec": 129.4,
+          "text": "hunters"
+        },
+        {
+          "startSec": 129.4,
+          "endSec": 129.6,
+          "text": "in"
+        }
+      ]
+    },
+    {
+      "startSec": 129.4,
+      "endSec": 132.4,
+      "text": "in slow moving wooden boats.",
+      "words": [
+        {
+          "startSec": 129.4,
+          "endSec": 129.6,
+          "text": "in"
+        },
+        {
+          "startSec": 129.6,
+          "endSec": 130.1,
+          "text": "slow"
+        },
+        {
+          "startSec": 130.1,
+          "endSec": 130.8,
+          "text": "moving"
+        },
+        {
+          "startSec": 130.8,
+          "endSec": 131.5,
+          "text": "wooden"
+        },
+        {
+          "startSec": 131.5,
+          "endSec": 132.4,
+          "text": "boats."
+        }
+      ]
+    },
+    {
+      "startSec": 132.4,
+      "endSec": 138,
+      "text": "Everything whales like this was often unsuccessful, especially big whales like blue and humpback",
+      "words": [
+        {
+          "startSec": 132.5,
+          "endSec": 133.1,
+          "text": "Everything"
+        },
+        {
+          "startSec": 133.1,
+          "endSec": 133.5,
+          "text": "whales"
+        },
+        {
+          "startSec": 133.5,
+          "endSec": 133.8,
+          "text": "like"
+        },
+        {
+          "startSec": 133.8,
+          "endSec": 134,
+          "text": "this"
+        },
+        {
+          "startSec": 134,
+          "endSec": 134.2,
+          "text": "was"
+        },
+        {
+          "startSec": 134.2,
+          "endSec": 134.6,
+          "text": "often"
+        },
+        {
+          "startSec": 134.6,
+          "endSec": 135.5,
+          "text": "unsuccessful,"
+        },
+        {
+          "startSec": 135.5,
+          "endSec": 136.1,
+          "text": "especially"
+        },
+        {
+          "startSec": 136.1,
+          "endSec": 136.3,
+          "text": "big"
+        },
+        {
+          "startSec": 136.3,
+          "endSec": 136.7,
+          "text": "whales"
+        },
+        {
+          "startSec": 136.7,
+          "endSec": 137,
+          "text": "like"
+        },
+        {
+          "startSec": 137,
+          "endSec": 137.3,
+          "text": "blue"
+        },
+        {
+          "startSec": 137.3,
+          "endSec": 137.5,
+          "text": "and"
+        },
+        {
+          "startSec": 137.5,
+          "endSec": 138,
+          "text": "humpback"
+        },
+        {
+          "startSec": 138,
+          "endSec": 138.5,
+          "text": "whales"
+        }
+      ]
+    },
+    {
+      "startSec": 138,
+      "endSec": 141.7,
+      "text": "whales which can swim up to 30 kilometres per hour.",
+      "words": [
+        {
+          "startSec": 138,
+          "endSec": 138.5,
+          "text": "whales"
+        },
+        {
+          "startSec": 138.5,
+          "endSec": 138.9,
+          "text": "which"
+        },
+        {
+          "startSec": 138.9,
+          "endSec": 139.1,
+          "text": "can"
+        },
+        {
+          "startSec": 139.1,
+          "endSec": 139.4,
+          "text": "swim"
+        },
+        {
+          "startSec": 139.4,
+          "endSec": 139.5,
+          "text": "up"
+        },
+        {
+          "startSec": 139.5,
+          "endSec": 139.7,
+          "text": "to"
+        },
+        {
+          "startSec": 139.7,
+          "endSec": 140.1,
+          "text": "30"
+        },
+        {
+          "startSec": 140.1,
+          "endSec": 140.9,
+          "text": "kilometres"
+        },
+        {
+          "startSec": 140.9,
+          "endSec": 141.1,
+          "text": "per"
+        },
+        {
+          "startSec": 141.1,
+          "endSec": 141.7,
+          "text": "hour."
+        },
+        {
+          "startSec": 141.7,
+          "endSec": 141.9,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 141.7,
+      "endSec": 147.8,
+      "text": "But all that changed in the late 1800s as Jane Piers of the South Georgia Heritage Trust",
+      "words": [
+        {
+          "startSec": 141.7,
+          "endSec": 141.9,
+          "text": "But"
+        },
+        {
+          "startSec": 141.9,
+          "endSec": 142.1,
+          "text": "all"
+        },
+        {
+          "startSec": 142.1,
+          "endSec": 142.4,
+          "text": "that"
+        },
+        {
+          "startSec": 142.4,
+          "endSec": 142.8,
+          "text": "changed"
+        },
+        {
+          "startSec": 142.8,
+          "endSec": 143,
+          "text": "in"
+        },
+        {
+          "startSec": 143,
+          "endSec": 143.2,
+          "text": "the"
+        },
+        {
+          "startSec": 143.2,
+          "endSec": 143.4,
+          "text": "late"
+        },
+        {
+          "startSec": 143.4,
+          "endSec": 144.3,
+          "text": "1800s"
+        },
+        {
+          "startSec": 144.3,
+          "endSec": 144.5,
+          "text": "as"
+        },
+        {
+          "startSec": 144.5,
+          "endSec": 144.7,
+          "text": "Jane"
+        },
+        {
+          "startSec": 144.7,
+          "endSec": 145.1,
+          "text": "Piers"
+        },
+        {
+          "startSec": 145.1,
+          "endSec": 145.2,
+          "text": "of"
+        },
+        {
+          "startSec": 145.2,
+          "endSec": 145.4,
+          "text": "the"
+        },
+        {
+          "startSec": 145.4,
+          "endSec": 145.7,
+          "text": "South"
+        },
+        {
+          "startSec": 145.7,
+          "endSec": 146.2,
+          "text": "Georgia"
+        },
+        {
+          "startSec": 146.2,
+          "endSec": 146.9,
+          "text": "Heritage"
+        },
+        {
+          "startSec": 146.9,
+          "endSec": 147.8,
+          "text": "Trust"
+        },
+        {
+          "startSec": 147.8,
+          "endSec": 148.9,
+          "text": "explained"
+        }
+      ]
+    },
+    {
+      "startSec": 147.8,
+      "endSec": 153,
+      "text": "explained to BBC Radio 4 program Rare Earth.",
+      "words": [
+        {
+          "startSec": 147.8,
+          "endSec": 148.9,
+          "text": "explained"
+        },
+        {
+          "startSec": 148.9,
+          "endSec": 149.2,
+          "text": "to"
+        },
+        {
+          "startSec": 149.2,
+          "endSec": 149.5,
+          "text": "BBC"
+        },
+        {
+          "startSec": 149.5,
+          "endSec": 150.1,
+          "text": "Radio"
+        },
+        {
+          "startSec": 150.1,
+          "endSec": 150.5,
+          "text": "4"
+        },
+        {
+          "startSec": 150.5,
+          "endSec": 151.3,
+          "text": "program"
+        },
+        {
+          "startSec": 151.3,
+          "endSec": 151.8,
+          "text": "Rare"
+        },
+        {
+          "startSec": 151.8,
+          "endSec": 153,
+          "text": "Earth."
+        },
+        {
+          "startSec": 153,
+          "endSec": 153.4,
+          "text": "Something"
+        }
+      ]
+    },
+    {
+      "startSec": 153,
+      "endSec": 154.4,
+      "text": "Something happened in Norway.",
+      "words": [
+        {
+          "startSec": 153,
+          "endSec": 153.4,
+          "text": "Something"
+        },
+        {
+          "startSec": 153.4,
+          "endSec": 153.9,
+          "text": "happened"
+        },
+        {
+          "startSec": 153.9,
+          "endSec": 154,
+          "text": "in"
+        },
+        {
+          "startSec": 154,
+          "endSec": 154.4,
+          "text": "Norway."
+        },
+        {
+          "startSec": 154.4,
+          "endSec": 154.6,
+          "text": "In"
+        }
+      ]
+    },
+    {
+      "startSec": 154.4,
+      "endSec": 158.8,
+      "text": "In the late 1800s a chap called Sven Boyn, who was a whaler.",
+      "words": [
+        {
+          "startSec": 154.4,
+          "endSec": 154.6,
+          "text": "In"
+        },
+        {
+          "startSec": 154.6,
+          "endSec": 154.8,
+          "text": "the"
+        },
+        {
+          "startSec": 154.8,
+          "endSec": 155.1,
+          "text": "late"
+        },
+        {
+          "startSec": 155.1,
+          "endSec": 156,
+          "text": "1800s"
+        },
+        {
+          "startSec": 156,
+          "endSec": 156.1,
+          "text": "a"
+        },
+        {
+          "startSec": 156.1,
+          "endSec": 156.4,
+          "text": "chap"
+        },
+        {
+          "startSec": 156.4,
+          "endSec": 156.8,
+          "text": "called"
+        },
+        {
+          "startSec": 156.8,
+          "endSec": 157.1,
+          "text": "Sven"
+        },
+        {
+          "startSec": 157.1,
+          "endSec": 157.6,
+          "text": "Boyn,"
+        },
+        {
+          "startSec": 157.6,
+          "endSec": 157.8,
+          "text": "who"
+        },
+        {
+          "startSec": 157.8,
+          "endSec": 158,
+          "text": "was"
+        },
+        {
+          "startSec": 158,
+          "endSec": 158.1,
+          "text": "a"
+        },
+        {
+          "startSec": 158.1,
+          "endSec": 158.8,
+          "text": "whaler."
+        }
+      ]
+    },
+    {
+      "startSec": 158.8,
+      "endSec": 165.5,
+      "text": "He invented what we now know as the exploding harpoon and that was a turning point for the",
+      "words": [
+        {
+          "startSec": 158.9,
+          "endSec": 159,
+          "text": "He"
+        },
+        {
+          "startSec": 159,
+          "endSec": 159.8,
+          "text": "invented"
+        },
+        {
+          "startSec": 159.8,
+          "endSec": 160.1,
+          "text": "what"
+        },
+        {
+          "startSec": 160.1,
+          "endSec": 160.3,
+          "text": "we"
+        },
+        {
+          "startSec": 160.3,
+          "endSec": 160.6,
+          "text": "now"
+        },
+        {
+          "startSec": 160.6,
+          "endSec": 161,
+          "text": "know"
+        },
+        {
+          "startSec": 161,
+          "endSec": 161.2,
+          "text": "as"
+        },
+        {
+          "startSec": 161.2,
+          "endSec": 161.5,
+          "text": "the"
+        },
+        {
+          "startSec": 161.5,
+          "endSec": 162.3,
+          "text": "exploding"
+        },
+        {
+          "startSec": 162.3,
+          "endSec": 163,
+          "text": "harpoon"
+        },
+        {
+          "startSec": 163,
+          "endSec": 163.3,
+          "text": "and"
+        },
+        {
+          "startSec": 163.3,
+          "endSec": 163.6,
+          "text": "that"
+        },
+        {
+          "startSec": 163.6,
+          "endSec": 163.9,
+          "text": "was"
+        },
+        {
+          "startSec": 163.9,
+          "endSec": 164,
+          "text": "a"
+        },
+        {
+          "startSec": 164,
+          "endSec": 164.7,
+          "text": "turning"
+        },
+        {
+          "startSec": 164.7,
+          "endSec": 165.1,
+          "text": "point"
+        },
+        {
+          "startSec": 165.1,
+          "endSec": 165.5,
+          "text": "for"
+        },
+        {
+          "startSec": 165.5,
+          "endSec": 165.5,
+          "text": "the"
+        },
+        {
+          "startSec": 165.5,
+          "endSec": 165.9,
+          "text": "whale,"
+        }
+      ]
+    },
+    {
+      "startSec": 165.5,
+      "endSec": 167.6,
+      "text": "whale, the whale can't stand a chance.",
+      "words": [
+        {
+          "startSec": 165.5,
+          "endSec": 165.5,
+          "text": "the"
+        },
+        {
+          "startSec": 165.5,
+          "endSec": 165.9,
+          "text": "whale,"
+        },
+        {
+          "startSec": 165.9,
+          "endSec": 166.1,
+          "text": "the"
+        },
+        {
+          "startSec": 166.1,
+          "endSec": 166.4,
+          "text": "whale"
+        },
+        {
+          "startSec": 166.4,
+          "endSec": 166.7,
+          "text": "can't"
+        },
+        {
+          "startSec": 166.7,
+          "endSec": 166.9,
+          "text": "stand"
+        },
+        {
+          "startSec": 166.9,
+          "endSec": 167,
+          "text": "a"
+        },
+        {
+          "startSec": 167,
+          "endSec": 167.6,
+          "text": "chance."
+        },
+        {
+          "startSec": 167.6,
+          "endSec": 167.7,
+          "text": "In"
+        }
+      ]
+    },
+    {
+      "startSec": 167.6,
+      "endSec": 174.4,
+      "text": "In 1870 a chap, that's an informal word for a man called Sven Boyn, invented the exploding",
+      "words": [
+        {
+          "startSec": 167.6,
+          "endSec": 167.7,
+          "text": "In"
+        },
+        {
+          "startSec": 167.7,
+          "endSec": 168.7,
+          "text": "1870"
+        },
+        {
+          "startSec": 168.7,
+          "endSec": 168.8,
+          "text": "a"
+        },
+        {
+          "startSec": 168.8,
+          "endSec": 169.3,
+          "text": "chap,"
+        },
+        {
+          "startSec": 169.3,
+          "endSec": 169.7,
+          "text": "that's"
+        },
+        {
+          "startSec": 169.7,
+          "endSec": 169.9,
+          "text": "an"
+        },
+        {
+          "startSec": 169.9,
+          "endSec": 170.6,
+          "text": "informal"
+        },
+        {
+          "startSec": 170.6,
+          "endSec": 170.9,
+          "text": "word"
+        },
+        {
+          "startSec": 170.9,
+          "endSec": 171.1,
+          "text": "for"
+        },
+        {
+          "startSec": 171.1,
+          "endSec": 171.2,
+          "text": "a"
+        },
+        {
+          "startSec": 171.2,
+          "endSec": 171.4,
+          "text": "man"
+        },
+        {
+          "startSec": 171.4,
+          "endSec": 171.9,
+          "text": "called"
+        },
+        {
+          "startSec": 171.9,
+          "endSec": 172.2,
+          "text": "Sven"
+        },
+        {
+          "startSec": 172.2,
+          "endSec": 172.7,
+          "text": "Boyn,"
+        },
+        {
+          "startSec": 172.7,
+          "endSec": 173.4,
+          "text": "invented"
+        },
+        {
+          "startSec": 173.4,
+          "endSec": 173.6,
+          "text": "the"
+        },
+        {
+          "startSec": 173.6,
+          "endSec": 174.4,
+          "text": "exploding"
+        },
+        {
+          "startSec": 174.4,
+          "endSec": 175.3,
+          "text": "harpoon,"
+        }
+      ]
+    },
+    {
+      "startSec": 174.4,
+      "endSec": 178,
+      "text": "harpoon, a weapon for killing whales.",
+      "words": [
+        {
+          "startSec": 174.4,
+          "endSec": 175.3,
+          "text": "harpoon,"
+        },
+        {
+          "startSec": 175.3,
+          "endSec": 175.4,
+          "text": "a"
+        },
+        {
+          "startSec": 175.4,
+          "endSec": 176,
+          "text": "weapon"
+        },
+        {
+          "startSec": 176,
+          "endSec": 176.3,
+          "text": "for"
+        },
+        {
+          "startSec": 176.3,
+          "endSec": 177,
+          "text": "killing"
+        },
+        {
+          "startSec": 177,
+          "endSec": 178,
+          "text": "whales."
+        },
+        {
+          "startSec": 178,
+          "endSec": 178.3,
+          "text": "This"
+        }
+      ]
+    },
+    {
+      "startSec": 178,
+      "endSec": 179.8,
+      "text": "This was a turning point.",
+      "words": [
+        {
+          "startSec": 178,
+          "endSec": 178.3,
+          "text": "This"
+        },
+        {
+          "startSec": 178.3,
+          "endSec": 178.5,
+          "text": "was"
+        },
+        {
+          "startSec": 178.5,
+          "endSec": 178.6,
+          "text": "a"
+        },
+        {
+          "startSec": 178.6,
+          "endSec": 179.1,
+          "text": "turning"
+        },
+        {
+          "startSec": 179.1,
+          "endSec": 179.8,
+          "text": "point."
+        },
+        {
+          "startSec": 179.8,
+          "endSec": 180,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 179.8,
+      "endSec": 184.9,
+      "text": "The phrase \"turning point\" means a time when a situation starts to change, especially",
+      "words": [
+        {
+          "startSec": 179.8,
+          "endSec": 180,
+          "text": "The"
+        },
+        {
+          "startSec": 180,
+          "endSec": 180.4,
+          "text": "phrase"
+        },
+        {
+          "startSec": 180.4,
+          "endSec": 181,
+          "text": "\"turning"
+        },
+        {
+          "startSec": 181,
+          "endSec": 181.4,
+          "text": "point\""
+        },
+        {
+          "startSec": 181.4,
+          "endSec": 181.7,
+          "text": "means"
+        },
+        {
+          "startSec": 181.7,
+          "endSec": 181.8,
+          "text": "a"
+        },
+        {
+          "startSec": 181.8,
+          "endSec": 182,
+          "text": "time"
+        },
+        {
+          "startSec": 182,
+          "endSec": 182.3,
+          "text": "when"
+        },
+        {
+          "startSec": 182.3,
+          "endSec": 182.4,
+          "text": "a"
+        },
+        {
+          "startSec": 182.4,
+          "endSec": 183,
+          "text": "situation"
+        },
+        {
+          "startSec": 183,
+          "endSec": 183.4,
+          "text": "starts"
+        },
+        {
+          "startSec": 183.4,
+          "endSec": 183.5,
+          "text": "to"
+        },
+        {
+          "startSec": 183.5,
+          "endSec": 184.1,
+          "text": "change,"
+        },
+        {
+          "startSec": 184.1,
+          "endSec": 184.9,
+          "text": "especially"
+        },
+        {
+          "startSec": 184.9,
+          "endSec": 185.1,
+          "text": "in"
+        }
+      ]
+    },
+    {
+      "startSec": 184.9,
+      "endSec": 188.7,
+      "text": "in a positive way, although sadly not in this case.",
+      "words": [
+        {
+          "startSec": 184.9,
+          "endSec": 185.1,
+          "text": "in"
+        },
+        {
+          "startSec": 185.1,
+          "endSec": 185.1,
+          "text": "a"
+        },
+        {
+          "startSec": 185.1,
+          "endSec": 185.8,
+          "text": "positive"
+        },
+        {
+          "startSec": 185.8,
+          "endSec": 186.2,
+          "text": "way,"
+        },
+        {
+          "startSec": 186.2,
+          "endSec": 186.9,
+          "text": "although"
+        },
+        {
+          "startSec": 186.9,
+          "endSec": 187.3,
+          "text": "sadly"
+        },
+        {
+          "startSec": 187.3,
+          "endSec": 187.6,
+          "text": "not"
+        },
+        {
+          "startSec": 187.6,
+          "endSec": 187.8,
+          "text": "in"
+        },
+        {
+          "startSec": 187.8,
+          "endSec": 188.1,
+          "text": "this"
+        },
+        {
+          "startSec": 188.1,
+          "endSec": 188.7,
+          "text": "case."
+        }
+      ]
+    },
+    {
+      "startSec": 188.7,
+      "endSec": 194.9,
+      "text": "After this the whales didn't stand a chance, meaning they had no chance of successfully",
+      "words": [
+        {
+          "startSec": 188.8,
+          "endSec": 189.1,
+          "text": "After"
+        },
+        {
+          "startSec": 189.1,
+          "endSec": 189.5,
+          "text": "this"
+        },
+        {
+          "startSec": 189.5,
+          "endSec": 189.7,
+          "text": "the"
+        },
+        {
+          "startSec": 189.7,
+          "endSec": 190.2,
+          "text": "whales"
+        },
+        {
+          "startSec": 190.2,
+          "endSec": 190.7,
+          "text": "didn't"
+        },
+        {
+          "startSec": 190.7,
+          "endSec": 191.1,
+          "text": "stand"
+        },
+        {
+          "startSec": 191.1,
+          "endSec": 191.2,
+          "text": "a"
+        },
+        {
+          "startSec": 191.2,
+          "endSec": 191.8,
+          "text": "chance,"
+        },
+        {
+          "startSec": 191.8,
+          "endSec": 192.4,
+          "text": "meaning"
+        },
+        {
+          "startSec": 192.4,
+          "endSec": 192.7,
+          "text": "they"
+        },
+        {
+          "startSec": 192.7,
+          "endSec": 193,
+          "text": "had"
+        },
+        {
+          "startSec": 193,
+          "endSec": 193.2,
+          "text": "no"
+        },
+        {
+          "startSec": 193.2,
+          "endSec": 193.6,
+          "text": "chance"
+        },
+        {
+          "startSec": 193.6,
+          "endSec": 193.8,
+          "text": "of"
+        },
+        {
+          "startSec": 193.8,
+          "endSec": 194.9,
+          "text": "successfully"
+        },
+        {
+          "startSec": 194.9,
+          "endSec": 195.6,
+          "text": "avoiding"
+        }
+      ]
+    },
+    {
+      "startSec": 194.9,
+      "endSec": 196.7,
+      "text": "avoiding the hunters.",
+      "words": [
+        {
+          "startSec": 194.9,
+          "endSec": 195.6,
+          "text": "avoiding"
+        },
+        {
+          "startSec": 195.6,
+          "endSec": 195.8,
+          "text": "the"
+        },
+        {
+          "startSec": 195.8,
+          "endSec": 196.7,
+          "text": "hunters."
+        },
+        {
+          "startSec": 196.7,
+          "endSec": 197.1,
+          "text": "Boyn's"
+        }
+      ]
+    },
+    {
+      "startSec": 196.7,
+      "endSec": 202.4,
+      "text": "Boyn's exploding harpoon, added to the invention of faster steam powered boats, increased",
+      "words": [
+        {
+          "startSec": 196.7,
+          "endSec": 197.1,
+          "text": "Boyn's"
+        },
+        {
+          "startSec": 197.1,
+          "endSec": 197.8,
+          "text": "exploding"
+        },
+        {
+          "startSec": 197.8,
+          "endSec": 198.4,
+          "text": "harpoon,"
+        },
+        {
+          "startSec": 198.4,
+          "endSec": 198.7,
+          "text": "added"
+        },
+        {
+          "startSec": 198.7,
+          "endSec": 198.9,
+          "text": "to"
+        },
+        {
+          "startSec": 198.9,
+          "endSec": 199.1,
+          "text": "the"
+        },
+        {
+          "startSec": 199.1,
+          "endSec": 199.7,
+          "text": "invention"
+        },
+        {
+          "startSec": 199.7,
+          "endSec": 199.9,
+          "text": "of"
+        },
+        {
+          "startSec": 199.9,
+          "endSec": 200.3,
+          "text": "faster"
+        },
+        {
+          "startSec": 200.3,
+          "endSec": 200.7,
+          "text": "steam"
+        },
+        {
+          "startSec": 200.7,
+          "endSec": 201.2,
+          "text": "powered"
+        },
+        {
+          "startSec": 201.2,
+          "endSec": 201.7,
+          "text": "boats,"
+        },
+        {
+          "startSec": 201.7,
+          "endSec": 202.4,
+          "text": "increased"
+        },
+        {
+          "startSec": 202.4,
+          "endSec": 202.9,
+          "text": "whaling"
+        }
+      ]
+    },
+    {
+      "startSec": 202.4,
+      "endSec": 208.5,
+      "text": "whaling massively throughout the 20th century, to the point where over 3 million whales had",
+      "words": [
+        {
+          "startSec": 202.4,
+          "endSec": 202.9,
+          "text": "whaling"
+        },
+        {
+          "startSec": 202.9,
+          "endSec": 203.6,
+          "text": "massively"
+        },
+        {
+          "startSec": 203.6,
+          "endSec": 204.3,
+          "text": "throughout"
+        },
+        {
+          "startSec": 204.3,
+          "endSec": 204.5,
+          "text": "the"
+        },
+        {
+          "startSec": 204.5,
+          "endSec": 205.1,
+          "text": "20th"
+        },
+        {
+          "startSec": 205.1,
+          "endSec": 205.7,
+          "text": "century,"
+        },
+        {
+          "startSec": 205.7,
+          "endSec": 205.9,
+          "text": "to"
+        },
+        {
+          "startSec": 205.9,
+          "endSec": 206.1,
+          "text": "the"
+        },
+        {
+          "startSec": 206.1,
+          "endSec": 206.5,
+          "text": "point"
+        },
+        {
+          "startSec": 206.5,
+          "endSec": 206.8,
+          "text": "where"
+        },
+        {
+          "startSec": 206.8,
+          "endSec": 207.1,
+          "text": "over"
+        },
+        {
+          "startSec": 207.1,
+          "endSec": 207.3,
+          "text": "3"
+        },
+        {
+          "startSec": 207.3,
+          "endSec": 207.8,
+          "text": "million"
+        },
+        {
+          "startSec": 207.8,
+          "endSec": 208.4,
+          "text": "whales"
+        },
+        {
+          "startSec": 208.4,
+          "endSec": 208.5,
+          "text": "had"
+        },
+        {
+          "startSec": 208.5,
+          "endSec": 208.9,
+          "text": "been"
+        }
+      ]
+    },
+    {
+      "startSec": 208.5,
+      "endSec": 212.2,
+      "text": "been killed and many species faced extinction.",
+      "words": [
+        {
+          "startSec": 208.5,
+          "endSec": 208.9,
+          "text": "been"
+        },
+        {
+          "startSec": 208.9,
+          "endSec": 209.4,
+          "text": "killed"
+        },
+        {
+          "startSec": 209.4,
+          "endSec": 209.7,
+          "text": "and"
+        },
+        {
+          "startSec": 209.7,
+          "endSec": 210,
+          "text": "many"
+        },
+        {
+          "startSec": 210,
+          "endSec": 210.6,
+          "text": "species"
+        },
+        {
+          "startSec": 210.6,
+          "endSec": 211,
+          "text": "faced"
+        },
+        {
+          "startSec": 211,
+          "endSec": 212.2,
+          "text": "extinction."
+        },
+        {
+          "startSec": 212.2,
+          "endSec": 212.3,
+          "text": "By"
+        }
+      ]
+    },
+    {
+      "startSec": 212.2,
+      "endSec": 215.8,
+      "text": "By the 1970s there were only a few great whales left.",
+      "words": [
+        {
+          "startSec": 212.2,
+          "endSec": 212.3,
+          "text": "By"
+        },
+        {
+          "startSec": 212.3,
+          "endSec": 212.5,
+          "text": "the"
+        },
+        {
+          "startSec": 212.5,
+          "endSec": 213.4,
+          "text": "1970s"
+        },
+        {
+          "startSec": 213.4,
+          "endSec": 213.8,
+          "text": "there"
+        },
+        {
+          "startSec": 213.8,
+          "endSec": 214,
+          "text": "were"
+        },
+        {
+          "startSec": 214,
+          "endSec": 214.3,
+          "text": "only"
+        },
+        {
+          "startSec": 214.3,
+          "endSec": 214.4,
+          "text": "a"
+        },
+        {
+          "startSec": 214.4,
+          "endSec": 214.6,
+          "text": "few"
+        },
+        {
+          "startSec": 214.6,
+          "endSec": 214.9,
+          "text": "great"
+        },
+        {
+          "startSec": 214.9,
+          "endSec": 215.3,
+          "text": "whales"
+        },
+        {
+          "startSec": 215.3,
+          "endSec": 215.8,
+          "text": "left."
+        }
+      ]
+    },
+    {
+      "startSec": 215.8,
+      "endSec": 220.6,
+      "text": "An environmental group like Greenpeace started the \"Save the Whales\" campaign to make",
+      "words": [
+        {
+          "startSec": 215.9,
+          "endSec": 216,
+          "text": "An"
+        },
+        {
+          "startSec": 216,
+          "endSec": 216.8,
+          "text": "environmental"
+        },
+        {
+          "startSec": 216.8,
+          "endSec": 217.1,
+          "text": "group"
+        },
+        {
+          "startSec": 217.1,
+          "endSec": 217.4,
+          "text": "like"
+        },
+        {
+          "startSec": 217.4,
+          "endSec": 218,
+          "text": "Greenpeace"
+        },
+        {
+          "startSec": 218,
+          "endSec": 218.5,
+          "text": "started"
+        },
+        {
+          "startSec": 218.5,
+          "endSec": 218.7,
+          "text": "the"
+        },
+        {
+          "startSec": 218.7,
+          "endSec": 219,
+          "text": "\"Save"
+        },
+        {
+          "startSec": 219,
+          "endSec": 219.2,
+          "text": "the"
+        },
+        {
+          "startSec": 219.2,
+          "endSec": 219.6,
+          "text": "Whales\""
+        },
+        {
+          "startSec": 219.6,
+          "endSec": 220.2,
+          "text": "campaign"
+        },
+        {
+          "startSec": 220.2,
+          "endSec": 220.3,
+          "text": "to"
+        },
+        {
+          "startSec": 220.3,
+          "endSec": 220.6,
+          "text": "make"
+        },
+        {
+          "startSec": 220.6,
+          "endSec": 221,
+          "text": "people"
+        }
+      ]
+    },
+    {
+      "startSec": 220.6,
+      "endSec": 225.6,
+      "text": "people aware of devastation in whale populations and the cruelty of whaling.",
+      "words": [
+        {
+          "startSec": 220.6,
+          "endSec": 221,
+          "text": "people"
+        },
+        {
+          "startSec": 221,
+          "endSec": 221.4,
+          "text": "aware"
+        },
+        {
+          "startSec": 221.4,
+          "endSec": 221.6,
+          "text": "of"
+        },
+        {
+          "startSec": 221.6,
+          "endSec": 222.4,
+          "text": "devastation"
+        },
+        {
+          "startSec": 222.4,
+          "endSec": 222.5,
+          "text": "in"
+        },
+        {
+          "startSec": 222.5,
+          "endSec": 222.9,
+          "text": "whale"
+        },
+        {
+          "startSec": 222.9,
+          "endSec": 223.7,
+          "text": "populations"
+        },
+        {
+          "startSec": 223.7,
+          "endSec": 223.9,
+          "text": "and"
+        },
+        {
+          "startSec": 223.9,
+          "endSec": 224.1,
+          "text": "the"
+        },
+        {
+          "startSec": 224.1,
+          "endSec": 224.7,
+          "text": "cruelty"
+        },
+        {
+          "startSec": 224.7,
+          "endSec": 224.8,
+          "text": "of"
+        },
+        {
+          "startSec": 224.8,
+          "endSec": 225.6,
+          "text": "whaling."
+        },
+        {
+          "startSec": 225.6,
+          "endSec": 225.7,
+          "text": "It"
+        }
+      ]
+    },
+    {
+      "startSec": 225.6,
+      "endSec": 230.5,
+      "text": "It became popular to listen to the song of the whale, recordings of whales communicating",
+      "words": [
+        {
+          "startSec": 225.6,
+          "endSec": 225.7,
+          "text": "It"
+        },
+        {
+          "startSec": 225.7,
+          "endSec": 226.1,
+          "text": "became"
+        },
+        {
+          "startSec": 226.1,
+          "endSec": 226.6,
+          "text": "popular"
+        },
+        {
+          "startSec": 226.6,
+          "endSec": 226.7,
+          "text": "to"
+        },
+        {
+          "startSec": 226.7,
+          "endSec": 227.1,
+          "text": "listen"
+        },
+        {
+          "startSec": 227.1,
+          "endSec": 227.2,
+          "text": "to"
+        },
+        {
+          "startSec": 227.2,
+          "endSec": 227.4,
+          "text": "the"
+        },
+        {
+          "startSec": 227.4,
+          "endSec": 227.7,
+          "text": "song"
+        },
+        {
+          "startSec": 227.7,
+          "endSec": 227.8,
+          "text": "of"
+        },
+        {
+          "startSec": 227.8,
+          "endSec": 228,
+          "text": "the"
+        },
+        {
+          "startSec": 228,
+          "endSec": 228.4,
+          "text": "whale,"
+        },
+        {
+          "startSec": 228.4,
+          "endSec": 229.1,
+          "text": "recordings"
+        },
+        {
+          "startSec": 229.1,
+          "endSec": 229.2,
+          "text": "of"
+        },
+        {
+          "startSec": 229.2,
+          "endSec": 229.6,
+          "text": "whales"
+        },
+        {
+          "startSec": 229.6,
+          "endSec": 230.5,
+          "text": "communicating"
+        },
+        {
+          "startSec": 230.5,
+          "endSec": 230.6,
+          "text": "at"
+        }
+      ]
+    },
+    {
+      "startSec": 230.5,
+      "endSec": 239.8,
+      "text": "at sea, which sound something like this.",
+      "words": [
+        {
+          "startSec": 230.5,
+          "endSec": 230.6,
+          "text": "at"
+        },
+        {
+          "startSec": 230.6,
+          "endSec": 231,
+          "text": "sea,"
+        },
+        {
+          "startSec": 231,
+          "endSec": 231.3,
+          "text": "which"
+        },
+        {
+          "startSec": 231.3,
+          "endSec": 231.7,
+          "text": "sound"
+        },
+        {
+          "startSec": 231.7,
+          "endSec": 232.3,
+          "text": "something"
+        },
+        {
+          "startSec": 232.3,
+          "endSec": 232.6,
+          "text": "like"
+        },
+        {
+          "startSec": 232.6,
+          "endSec": 239.8,
+          "text": "this."
+        }
+      ]
+    },
+    {
+      "startSec": 239.8,
+      "endSec": 248.6,
+      "text": "Here's marine biologist Joe Roman discussing the \"Save the Whales\" campaign with BBC",
+      "words": [
+        {
+          "startSec": 239.9,
+          "endSec": 240.5,
+          "text": "Here's"
+        },
+        {
+          "startSec": 240.5,
+          "endSec": 241.2,
+          "text": "marine"
+        },
+        {
+          "startSec": 241.2,
+          "endSec": 242.3,
+          "text": "biologist"
+        },
+        {
+          "startSec": 242.3,
+          "endSec": 242.7,
+          "text": "Joe"
+        },
+        {
+          "startSec": 242.7,
+          "endSec": 243.3,
+          "text": "Roman"
+        },
+        {
+          "startSec": 243.3,
+          "endSec": 244.5,
+          "text": "discussing"
+        },
+        {
+          "startSec": 244.5,
+          "endSec": 244.9,
+          "text": "the"
+        },
+        {
+          "startSec": 244.9,
+          "endSec": 245.5,
+          "text": "\"Save"
+        },
+        {
+          "startSec": 245.5,
+          "endSec": 245.8,
+          "text": "the"
+        },
+        {
+          "startSec": 245.8,
+          "endSec": 246.7,
+          "text": "Whales\""
+        },
+        {
+          "startSec": 246.7,
+          "endSec": 248.1,
+          "text": "campaign"
+        },
+        {
+          "startSec": 248.1,
+          "endSec": 248.2,
+          "text": "with"
+        },
+        {
+          "startSec": 248.2,
+          "endSec": 248.6,
+          "text": "BBC"
+        },
+        {
+          "startSec": 248.6,
+          "endSec": 249.2,
+          "text": "Radio"
+        }
+      ]
+    },
+    {
+      "startSec": 248.6,
+      "endSec": 251,
+      "text": "Radio 4's Rare Earth.",
+      "words": [
+        {
+          "startSec": 248.6,
+          "endSec": 249.2,
+          "text": "Radio"
+        },
+        {
+          "startSec": 249.2,
+          "endSec": 249.7,
+          "text": "4's"
+        },
+        {
+          "startSec": 249.7,
+          "endSec": 250.2,
+          "text": "Rare"
+        },
+        {
+          "startSec": 250.2,
+          "endSec": 251,
+          "text": "Earth."
+        },
+        {
+          "startSec": 251,
+          "endSec": 251.4,
+          "text": "People"
+        }
+      ]
+    },
+    {
+      "startSec": 251,
+      "endSec": 255.2,
+      "text": "People started thinking about whales in different ways, and then we have to give a shout out",
+      "words": [
+        {
+          "startSec": 251,
+          "endSec": 251.4,
+          "text": "People"
+        },
+        {
+          "startSec": 251.4,
+          "endSec": 251.7,
+          "text": "started"
+        },
+        {
+          "startSec": 251.7,
+          "endSec": 252.2,
+          "text": "thinking"
+        },
+        {
+          "startSec": 252.2,
+          "endSec": 252.4,
+          "text": "about"
+        },
+        {
+          "startSec": 252.4,
+          "endSec": 252.8,
+          "text": "whales"
+        },
+        {
+          "startSec": 252.8,
+          "endSec": 252.9,
+          "text": "in"
+        },
+        {
+          "startSec": 252.9,
+          "endSec": 253.3,
+          "text": "different"
+        },
+        {
+          "startSec": 253.3,
+          "endSec": 253.6,
+          "text": "ways,"
+        },
+        {
+          "startSec": 253.6,
+          "endSec": 253.8,
+          "text": "and"
+        },
+        {
+          "startSec": 253.8,
+          "endSec": 254,
+          "text": "then"
+        },
+        {
+          "startSec": 254,
+          "endSec": 254.1,
+          "text": "we"
+        },
+        {
+          "startSec": 254.1,
+          "endSec": 254.3,
+          "text": "have"
+        },
+        {
+          "startSec": 254.3,
+          "endSec": 254.4,
+          "text": "to"
+        },
+        {
+          "startSec": 254.4,
+          "endSec": 254.6,
+          "text": "give"
+        },
+        {
+          "startSec": 254.6,
+          "endSec": 254.7,
+          "text": "a"
+        },
+        {
+          "startSec": 254.7,
+          "endSec": 255,
+          "text": "shout"
+        },
+        {
+          "startSec": 255,
+          "endSec": 255.2,
+          "text": "out"
+        },
+        {
+          "startSec": 255.2,
+          "endSec": 255.4,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 255.2,
+      "endSec": 261.4,
+      "text": "to activist groups like Greenpeace, who put their rib boats, they put their zodiacs in",
+      "words": [
+        {
+          "startSec": 255.2,
+          "endSec": 255.4,
+          "text": "to"
+        },
+        {
+          "startSec": 255.4,
+          "endSec": 256,
+          "text": "activist"
+        },
+        {
+          "startSec": 256,
+          "endSec": 256.5,
+          "text": "groups"
+        },
+        {
+          "startSec": 256.5,
+          "endSec": 256.8,
+          "text": "like"
+        },
+        {
+          "startSec": 256.8,
+          "endSec": 257.8,
+          "text": "Greenpeace,"
+        },
+        {
+          "startSec": 257.8,
+          "endSec": 258.1,
+          "text": "who"
+        },
+        {
+          "startSec": 258.1,
+          "endSec": 258.3,
+          "text": "put"
+        },
+        {
+          "startSec": 258.3,
+          "endSec": 258.7,
+          "text": "their"
+        },
+        {
+          "startSec": 258.7,
+          "endSec": 259,
+          "text": "rib"
+        },
+        {
+          "startSec": 259,
+          "endSec": 259.6,
+          "text": "boats,"
+        },
+        {
+          "startSec": 259.6,
+          "endSec": 259.9,
+          "text": "they"
+        },
+        {
+          "startSec": 259.9,
+          "endSec": 260.1,
+          "text": "put"
+        },
+        {
+          "startSec": 260.1,
+          "endSec": 260.6,
+          "text": "their"
+        },
+        {
+          "startSec": 260.6,
+          "endSec": 261.2,
+          "text": "zodiacs"
+        },
+        {
+          "startSec": 261.2,
+          "endSec": 261.4,
+          "text": "in"
+        },
+        {
+          "startSec": 261.4,
+          "endSec": 262,
+          "text": "between"
+        }
+      ]
+    },
+    {
+      "startSec": 261.4,
+      "endSec": 267.4,
+      "text": "between Soviet hunting vessels and sperm whales, and they were very good at media.",
+      "words": [
+        {
+          "startSec": 261.4,
+          "endSec": 262,
+          "text": "between"
+        },
+        {
+          "startSec": 262,
+          "endSec": 262.5,
+          "text": "Soviet"
+        },
+        {
+          "startSec": 262.5,
+          "endSec": 263,
+          "text": "hunting"
+        },
+        {
+          "startSec": 263,
+          "endSec": 263.6,
+          "text": "vessels"
+        },
+        {
+          "startSec": 263.6,
+          "endSec": 263.8,
+          "text": "and"
+        },
+        {
+          "startSec": 263.8,
+          "endSec": 264.3,
+          "text": "sperm"
+        },
+        {
+          "startSec": 264.3,
+          "endSec": 264.9,
+          "text": "whales,"
+        },
+        {
+          "startSec": 264.9,
+          "endSec": 265.1,
+          "text": "and"
+        },
+        {
+          "startSec": 265.1,
+          "endSec": 265.5,
+          "text": "they"
+        },
+        {
+          "startSec": 265.5,
+          "endSec": 265.8,
+          "text": "were"
+        },
+        {
+          "startSec": 265.8,
+          "endSec": 266.1,
+          "text": "very"
+        },
+        {
+          "startSec": 266.1,
+          "endSec": 266.5,
+          "text": "good"
+        },
+        {
+          "startSec": 266.5,
+          "endSec": 266.6,
+          "text": "at"
+        },
+        {
+          "startSec": 266.6,
+          "endSec": 267.4,
+          "text": "media."
+        },
+        {
+          "startSec": 267.4,
+          "endSec": 267.6,
+          "text": "Joe"
+        }
+      ]
+    },
+    {
+      "startSec": 267.4,
+      "endSec": 271.7,
+      "text": "Joe gives a shout out to Greenpeace activists for protecting whales.",
+      "words": [
+        {
+          "startSec": 267.4,
+          "endSec": 267.6,
+          "text": "Joe"
+        },
+        {
+          "startSec": 267.6,
+          "endSec": 267.9,
+          "text": "gives"
+        },
+        {
+          "startSec": 267.9,
+          "endSec": 268,
+          "text": "a"
+        },
+        {
+          "startSec": 268,
+          "endSec": 268.4,
+          "text": "shout"
+        },
+        {
+          "startSec": 268.4,
+          "endSec": 268.6,
+          "text": "out"
+        },
+        {
+          "startSec": 268.6,
+          "endSec": 268.7,
+          "text": "to"
+        },
+        {
+          "startSec": 268.7,
+          "endSec": 269.4,
+          "text": "Greenpeace"
+        },
+        {
+          "startSec": 269.4,
+          "endSec": 270.1,
+          "text": "activists"
+        },
+        {
+          "startSec": 270.1,
+          "endSec": 270.3,
+          "text": "for"
+        },
+        {
+          "startSec": 270.3,
+          "endSec": 271,
+          "text": "protecting"
+        },
+        {
+          "startSec": 271,
+          "endSec": 271.7,
+          "text": "whales."
+        },
+        {
+          "startSec": 271.7,
+          "endSec": 271.8,
+          "text": "To"
+        }
+      ]
+    },
+    {
+      "startSec": 271.7,
+      "endSec": 275.7,
+      "text": "To give a shout out to someone means to praise them in public.",
+      "words": [
+        {
+          "startSec": 271.7,
+          "endSec": 271.8,
+          "text": "To"
+        },
+        {
+          "startSec": 271.8,
+          "endSec": 272.1,
+          "text": "give"
+        },
+        {
+          "startSec": 272.1,
+          "endSec": 272.2,
+          "text": "a"
+        },
+        {
+          "startSec": 272.2,
+          "endSec": 272.6,
+          "text": "shout"
+        },
+        {
+          "startSec": 272.6,
+          "endSec": 272.8,
+          "text": "out"
+        },
+        {
+          "startSec": 272.8,
+          "endSec": 273,
+          "text": "to"
+        },
+        {
+          "startSec": 273,
+          "endSec": 273.5,
+          "text": "someone"
+        },
+        {
+          "startSec": 273.5,
+          "endSec": 273.9,
+          "text": "means"
+        },
+        {
+          "startSec": 273.9,
+          "endSec": 274,
+          "text": "to"
+        },
+        {
+          "startSec": 274,
+          "endSec": 274.5,
+          "text": "praise"
+        },
+        {
+          "startSec": 274.5,
+          "endSec": 274.8,
+          "text": "them"
+        },
+        {
+          "startSec": 274.8,
+          "endSec": 274.9,
+          "text": "in"
+        },
+        {
+          "startSec": 274.9,
+          "endSec": 275.7,
+          "text": "public."
+        },
+        {
+          "startSec": 275.7,
+          "endSec": 276.2,
+          "text": "Videos"
+        }
+      ]
+    },
+    {
+      "startSec": 275.7,
+      "endSec": 281,
+      "text": "Videos and photos taken by Greenpeace changed public opinion about whaling.",
+      "words": [
+        {
+          "startSec": 275.7,
+          "endSec": 276.2,
+          "text": "Videos"
+        },
+        {
+          "startSec": 276.2,
+          "endSec": 276.4,
+          "text": "and"
+        },
+        {
+          "startSec": 276.4,
+          "endSec": 276.9,
+          "text": "photos"
+        },
+        {
+          "startSec": 276.9,
+          "endSec": 277.2,
+          "text": "taken"
+        },
+        {
+          "startSec": 277.2,
+          "endSec": 277.4,
+          "text": "by"
+        },
+        {
+          "startSec": 277.4,
+          "endSec": 278.2,
+          "text": "Greenpeace"
+        },
+        {
+          "startSec": 278.2,
+          "endSec": 278.7,
+          "text": "changed"
+        },
+        {
+          "startSec": 278.7,
+          "endSec": 279.2,
+          "text": "public"
+        },
+        {
+          "startSec": 279.2,
+          "endSec": 279.7,
+          "text": "opinion"
+        },
+        {
+          "startSec": 279.7,
+          "endSec": 280.1,
+          "text": "about"
+        },
+        {
+          "startSec": 280.1,
+          "endSec": 281,
+          "text": "whaling."
+        },
+        {
+          "startSec": 281,
+          "endSec": 281.2,
+          "text": "Joe"
+        }
+      ]
+    },
+    {
+      "startSec": 281,
+      "endSec": 286.5,
+      "text": "Joe says Greenpeace worked good at media, meaning they skillfully used media outlets",
+      "words": [
+        {
+          "startSec": 281,
+          "endSec": 281.2,
+          "text": "Joe"
+        },
+        {
+          "startSec": 281.2,
+          "endSec": 281.5,
+          "text": "says"
+        },
+        {
+          "startSec": 281.5,
+          "endSec": 282.2,
+          "text": "Greenpeace"
+        },
+        {
+          "startSec": 282.2,
+          "endSec": 282.7,
+          "text": "worked"
+        },
+        {
+          "startSec": 282.7,
+          "endSec": 283,
+          "text": "good"
+        },
+        {
+          "startSec": 283,
+          "endSec": 283.1,
+          "text": "at"
+        },
+        {
+          "startSec": 283.1,
+          "endSec": 283.7,
+          "text": "media,"
+        },
+        {
+          "startSec": 283.7,
+          "endSec": 284.2,
+          "text": "meaning"
+        },
+        {
+          "startSec": 284.2,
+          "endSec": 284.5,
+          "text": "they"
+        },
+        {
+          "startSec": 284.5,
+          "endSec": 285.2,
+          "text": "skillfully"
+        },
+        {
+          "startSec": 285.2,
+          "endSec": 285.5,
+          "text": "used"
+        },
+        {
+          "startSec": 285.5,
+          "endSec": 285.9,
+          "text": "media"
+        },
+        {
+          "startSec": 285.9,
+          "endSec": 286.5,
+          "text": "outlets"
+        },
+        {
+          "startSec": 286.5,
+          "endSec": 286.8,
+          "text": "like"
+        }
+      ]
+    },
+    {
+      "startSec": 286.5,
+      "endSec": 290.9,
+      "text": "like TV and newspapers to convey their message to the public.",
+      "words": [
+        {
+          "startSec": 286.5,
+          "endSec": 286.8,
+          "text": "like"
+        },
+        {
+          "startSec": 286.8,
+          "endSec": 287,
+          "text": "TV"
+        },
+        {
+          "startSec": 287,
+          "endSec": 287.2,
+          "text": "and"
+        },
+        {
+          "startSec": 287.2,
+          "endSec": 288.1,
+          "text": "newspapers"
+        },
+        {
+          "startSec": 288.1,
+          "endSec": 288.2,
+          "text": "to"
+        },
+        {
+          "startSec": 288.2,
+          "endSec": 288.7,
+          "text": "convey"
+        },
+        {
+          "startSec": 288.7,
+          "endSec": 289.1,
+          "text": "their"
+        },
+        {
+          "startSec": 289.1,
+          "endSec": 289.7,
+          "text": "message"
+        },
+        {
+          "startSec": 289.7,
+          "endSec": 289.9,
+          "text": "to"
+        },
+        {
+          "startSec": 289.9,
+          "endSec": 290.1,
+          "text": "the"
+        },
+        {
+          "startSec": 290.1,
+          "endSec": 290.9,
+          "text": "public."
+        },
+        {
+          "startSec": 290.9,
+          "endSec": 291.2,
+          "text": "Many"
+        }
+      ]
+    },
+    {
+      "startSec": 290.9,
+      "endSec": 297.1,
+      "text": "Many whale species are still endangered, and all whales still face danger from ocean acidification",
+      "words": [
+        {
+          "startSec": 290.9,
+          "endSec": 291.2,
+          "text": "Many"
+        },
+        {
+          "startSec": 291.2,
+          "endSec": 291.5,
+          "text": "whale"
+        },
+        {
+          "startSec": 291.5,
+          "endSec": 292,
+          "text": "species"
+        },
+        {
+          "startSec": 292,
+          "endSec": 292.2,
+          "text": "are"
+        },
+        {
+          "startSec": 292.2,
+          "endSec": 292.6,
+          "text": "still"
+        },
+        {
+          "startSec": 292.6,
+          "endSec": 293.4,
+          "text": "endangered,"
+        },
+        {
+          "startSec": 293.4,
+          "endSec": 293.6,
+          "text": "and"
+        },
+        {
+          "startSec": 293.6,
+          "endSec": 293.8,
+          "text": "all"
+        },
+        {
+          "startSec": 293.8,
+          "endSec": 294.2,
+          "text": "whales"
+        },
+        {
+          "startSec": 294.2,
+          "endSec": 294.5,
+          "text": "still"
+        },
+        {
+          "startSec": 294.5,
+          "endSec": 294.8,
+          "text": "face"
+        },
+        {
+          "startSec": 294.8,
+          "endSec": 295.2,
+          "text": "danger"
+        },
+        {
+          "startSec": 295.2,
+          "endSec": 295.5,
+          "text": "from"
+        },
+        {
+          "startSec": 295.5,
+          "endSec": 295.9,
+          "text": "ocean"
+        },
+        {
+          "startSec": 295.9,
+          "endSec": 297.1,
+          "text": "acidification"
+        }
+      ]
+    },
+    {
+      "startSec": 297.1,
+      "endSec": 299,
+      "text": "and plastic pollution.",
+      "words": [
+        {
+          "startSec": 297.2,
+          "endSec": 297.3,
+          "text": "and"
+        },
+        {
+          "startSec": 297.3,
+          "endSec": 298,
+          "text": "plastic"
+        },
+        {
+          "startSec": 298,
+          "endSec": 299,
+          "text": "pollution."
+        },
+        {
+          "startSec": 299,
+          "endSec": 299.2,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 299,
+      "endSec": 304.2,
+      "text": "But the moratorium, that means the temporary suspension on hunting them, has lasted 40",
+      "words": [
+        {
+          "startSec": 299,
+          "endSec": 299.2,
+          "text": "But"
+        },
+        {
+          "startSec": 299.2,
+          "endSec": 299.4,
+          "text": "the"
+        },
+        {
+          "startSec": 299.4,
+          "endSec": 300.2,
+          "text": "moratorium,"
+        },
+        {
+          "startSec": 300.2,
+          "endSec": 300.4,
+          "text": "that"
+        },
+        {
+          "startSec": 300.4,
+          "endSec": 300.8,
+          "text": "means"
+        },
+        {
+          "startSec": 300.8,
+          "endSec": 301,
+          "text": "the"
+        },
+        {
+          "startSec": 301,
+          "endSec": 301.5,
+          "text": "temporary"
+        },
+        {
+          "startSec": 301.5,
+          "endSec": 302.2,
+          "text": "suspension"
+        },
+        {
+          "startSec": 302.2,
+          "endSec": 302.3,
+          "text": "on"
+        },
+        {
+          "startSec": 302.3,
+          "endSec": 302.8,
+          "text": "hunting"
+        },
+        {
+          "startSec": 302.8,
+          "endSec": 303.2,
+          "text": "them,"
+        },
+        {
+          "startSec": 303.2,
+          "endSec": 303.4,
+          "text": "has"
+        },
+        {
+          "startSec": 303.4,
+          "endSec": 303.8,
+          "text": "lasted"
+        },
+        {
+          "startSec": 303.8,
+          "endSec": 304.2,
+          "text": "40"
+        },
+        {
+          "startSec": 304.2,
+          "endSec": 304.7,
+          "text": "years,"
+        }
+      ]
+    },
+    {
+      "startSec": 304.2,
+      "endSec": 307.7,
+      "text": "years, and hopefully will help protect whales for decades more.",
+      "words": [
+        {
+          "startSec": 304.2,
+          "endSec": 304.7,
+          "text": "years,"
+        },
+        {
+          "startSec": 304.7,
+          "endSec": 304.8,
+          "text": "and"
+        },
+        {
+          "startSec": 304.8,
+          "endSec": 305.4,
+          "text": "hopefully"
+        },
+        {
+          "startSec": 305.4,
+          "endSec": 305.6,
+          "text": "will"
+        },
+        {
+          "startSec": 305.6,
+          "endSec": 305.9,
+          "text": "help"
+        },
+        {
+          "startSec": 305.9,
+          "endSec": 306.3,
+          "text": "protect"
+        },
+        {
+          "startSec": 306.3,
+          "endSec": 306.6,
+          "text": "whales"
+        },
+        {
+          "startSec": 306.6,
+          "endSec": 306.8,
+          "text": "for"
+        },
+        {
+          "startSec": 306.8,
+          "endSec": 307.2,
+          "text": "decades"
+        },
+        {
+          "startSec": 307.2,
+          "endSec": 307.7,
+          "text": "more."
+        },
+        {
+          "startSec": 307.7,
+          "endSec": 308,
+          "text": "Okay"
+        }
+      ]
+    },
+    {
+      "startSec": 307.7,
+      "endSec": 311.1,
+      "text": "Okay Phil, isn't it time you revealed the answer to your question?",
+      "words": [
+        {
+          "startSec": 307.7,
+          "endSec": 308,
+          "text": "Okay"
+        },
+        {
+          "startSec": 308,
+          "endSec": 308.3,
+          "text": "Phil,"
+        },
+        {
+          "startSec": 308.3,
+          "endSec": 308.6,
+          "text": "isn't"
+        },
+        {
+          "startSec": 308.6,
+          "endSec": 308.7,
+          "text": "it"
+        },
+        {
+          "startSec": 308.7,
+          "endSec": 308.9,
+          "text": "time"
+        },
+        {
+          "startSec": 308.9,
+          "endSec": 309.1,
+          "text": "you"
+        },
+        {
+          "startSec": 309.1,
+          "endSec": 309.5,
+          "text": "revealed"
+        },
+        {
+          "startSec": 309.5,
+          "endSec": 309.7,
+          "text": "the"
+        },
+        {
+          "startSec": 309.7,
+          "endSec": 310.1,
+          "text": "answer"
+        },
+        {
+          "startSec": 310.1,
+          "endSec": 310.2,
+          "text": "to"
+        },
+        {
+          "startSec": 310.2,
+          "endSec": 310.4,
+          "text": "your"
+        },
+        {
+          "startSec": 310.4,
+          "endSec": 311.1,
+          "text": "question?"
+        },
+        {
+          "startSec": 311.1,
+          "endSec": 311.7,
+          "text": "Okay,"
+        }
+      ]
+    },
+    {
+      "startSec": 311.1,
+      "endSec": 316,
+      "text": "Okay, I asked you which was the smallest species of whale?",
+      "words": [
+        {
+          "startSec": 311.1,
+          "endSec": 311.7,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 311.7,
+          "endSec": 311.8,
+          "text": "I"
+        },
+        {
+          "startSec": 311.8,
+          "endSec": 312.3,
+          "text": "asked"
+        },
+        {
+          "startSec": 312.3,
+          "endSec": 312.5,
+          "text": "you"
+        },
+        {
+          "startSec": 312.5,
+          "endSec": 313,
+          "text": "which"
+        },
+        {
+          "startSec": 313,
+          "endSec": 313.3,
+          "text": "was"
+        },
+        {
+          "startSec": 313.3,
+          "endSec": 313.6,
+          "text": "the"
+        },
+        {
+          "startSec": 313.6,
+          "endSec": 314.4,
+          "text": "smallest"
+        },
+        {
+          "startSec": 314.4,
+          "endSec": 315,
+          "text": "species"
+        },
+        {
+          "startSec": 315,
+          "endSec": 315.2,
+          "text": "of"
+        },
+        {
+          "startSec": 315.2,
+          "endSec": 316,
+          "text": "whale?"
+        },
+        {
+          "startSec": 316,
+          "endSec": 316.3,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 316,
+      "endSec": 318.9,
+      "text": "And I said the pygmy right whale, didn't I?",
+      "words": [
+        {
+          "startSec": 316,
+          "endSec": 316.3,
+          "text": "And"
+        },
+        {
+          "startSec": 316.3,
+          "endSec": 316.3,
+          "text": "I"
+        },
+        {
+          "startSec": 316.3,
+          "endSec": 316.6,
+          "text": "said"
+        },
+        {
+          "startSec": 316.6,
+          "endSec": 316.8,
+          "text": "the"
+        },
+        {
+          "startSec": 316.8,
+          "endSec": 317.2,
+          "text": "pygmy"
+        },
+        {
+          "startSec": 317.2,
+          "endSec": 317.6,
+          "text": "right"
+        },
+        {
+          "startSec": 317.6,
+          "endSec": 318.1,
+          "text": "whale,"
+        },
+        {
+          "startSec": 318.1,
+          "endSec": 318.5,
+          "text": "didn't"
+        },
+        {
+          "startSec": 318.5,
+          "endSec": 318.9,
+          "text": "I?"
+        },
+        {
+          "startSec": 318.9,
+          "endSec": 319.2,
+          "text": "You"
+        }
+      ]
+    },
+    {
+      "startSec": 318.9,
+      "endSec": 319.9,
+      "text": "You did.",
+      "words": [
+        {
+          "startSec": 318.9,
+          "endSec": 319.2,
+          "text": "You"
+        },
+        {
+          "startSec": 319.2,
+          "endSec": 319.9,
+          "text": "did."
+        },
+        {
+          "startSec": 319.9,
+          "endSec": 320.9,
+          "text": "Unfortunately,"
+        }
+      ]
+    },
+    {
+      "startSec": 319.9,
+      "endSec": 325.4,
+      "text": "Unfortunately, the answer is actually the Vakita whale, which is about 1.5 metres long.",
+      "words": [
+        {
+          "startSec": 319.9,
+          "endSec": 320.9,
+          "text": "Unfortunately,"
+        },
+        {
+          "startSec": 320.9,
+          "endSec": 321.1,
+          "text": "the"
+        },
+        {
+          "startSec": 321.1,
+          "endSec": 321.6,
+          "text": "answer"
+        },
+        {
+          "startSec": 321.6,
+          "endSec": 321.7,
+          "text": "is"
+        },
+        {
+          "startSec": 321.7,
+          "endSec": 322.3,
+          "text": "actually"
+        },
+        {
+          "startSec": 322.3,
+          "endSec": 322.5,
+          "text": "the"
+        },
+        {
+          "startSec": 322.5,
+          "endSec": 322.9,
+          "text": "Vakita"
+        },
+        {
+          "startSec": 322.9,
+          "endSec": 323.4,
+          "text": "whale,"
+        },
+        {
+          "startSec": 323.4,
+          "endSec": 323.7,
+          "text": "which"
+        },
+        {
+          "startSec": 323.7,
+          "endSec": 323.9,
+          "text": "is"
+        },
+        {
+          "startSec": 323.9,
+          "endSec": 324.2,
+          "text": "about"
+        },
+        {
+          "startSec": 324.2,
+          "endSec": 324.9,
+          "text": "1.5"
+        },
+        {
+          "startSec": 324.9,
+          "endSec": 325.3,
+          "text": "metres"
+        },
+        {
+          "startSec": 325.3,
+          "endSec": 325.4,
+          "text": "long."
+        }
+      ]
+    },
+    {
+      "startSec": 325.4,
+      "endSec": 327.3,
+      "text": "Oh, so cute.",
+      "words": [
+        {
+          "startSec": 325.5,
+          "endSec": 326,
+          "text": "Oh,"
+        },
+        {
+          "startSec": 326,
+          "endSec": 326.3,
+          "text": "so"
+        },
+        {
+          "startSec": 326.3,
+          "endSec": 327.3,
+          "text": "cute."
+        },
+        {
+          "startSec": 327.3,
+          "endSec": 327.6,
+          "text": "Okay,"
+        }
+      ]
+    },
+    {
+      "startSec": 327.3,
+      "endSec": 330.5,
+      "text": "Okay, let's recap the rest of the vocabulary we've learned.",
+      "words": [
+        {
+          "startSec": 327.3,
+          "endSec": 327.6,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 327.6,
+          "endSec": 327.9,
+          "text": "let's"
+        },
+        {
+          "startSec": 327.9,
+          "endSec": 328.2,
+          "text": "recap"
+        },
+        {
+          "startSec": 328.2,
+          "endSec": 328.4,
+          "text": "the"
+        },
+        {
+          "startSec": 328.4,
+          "endSec": 328.7,
+          "text": "rest"
+        },
+        {
+          "startSec": 328.7,
+          "endSec": 328.8,
+          "text": "of"
+        },
+        {
+          "startSec": 328.8,
+          "endSec": 329,
+          "text": "the"
+        },
+        {
+          "startSec": 329,
+          "endSec": 329.6,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 329.6,
+          "endSec": 329.9,
+          "text": "we've"
+        },
+        {
+          "startSec": 329.9,
+          "endSec": 330.5,
+          "text": "learned."
+        },
+        {
+          "startSec": 330.5,
+          "endSec": 330.6,
+          "text": "A"
+        }
+      ]
+    },
+    {
+      "startSec": 330.5,
+      "endSec": 333,
+      "text": "A chap is an informal word for a man.",
+      "words": [
+        {
+          "startSec": 330.5,
+          "endSec": 330.6,
+          "text": "A"
+        },
+        {
+          "startSec": 330.6,
+          "endSec": 330.9,
+          "text": "chap"
+        },
+        {
+          "startSec": 330.9,
+          "endSec": 331,
+          "text": "is"
+        },
+        {
+          "startSec": 331,
+          "endSec": 331.2,
+          "text": "an"
+        },
+        {
+          "startSec": 331.2,
+          "endSec": 331.8,
+          "text": "informal"
+        },
+        {
+          "startSec": 331.8,
+          "endSec": 332.2,
+          "text": "word"
+        },
+        {
+          "startSec": 332.2,
+          "endSec": 332.4,
+          "text": "for"
+        },
+        {
+          "startSec": 332.4,
+          "endSec": 332.5,
+          "text": "a"
+        },
+        {
+          "startSec": 332.5,
+          "endSec": 333,
+          "text": "man."
+        },
+        {
+          "startSec": 333,
+          "endSec": 333.1,
+          "text": "A"
+        }
+      ]
+    },
+    {
+      "startSec": 333,
+      "endSec": 338.5,
+      "text": "A turning point is when a situation starts to change, especially for the better.",
+      "words": [
+        {
+          "startSec": 333,
+          "endSec": 333.1,
+          "text": "A"
+        },
+        {
+          "startSec": 333.1,
+          "endSec": 333.6,
+          "text": "turning"
+        },
+        {
+          "startSec": 333.6,
+          "endSec": 334,
+          "text": "point"
+        },
+        {
+          "startSec": 334,
+          "endSec": 334.2,
+          "text": "is"
+        },
+        {
+          "startSec": 334.2,
+          "endSec": 334.5,
+          "text": "when"
+        },
+        {
+          "startSec": 334.5,
+          "endSec": 334.5,
+          "text": "a"
+        },
+        {
+          "startSec": 334.5,
+          "endSec": 335.2,
+          "text": "situation"
+        },
+        {
+          "startSec": 335.2,
+          "endSec": 335.7,
+          "text": "starts"
+        },
+        {
+          "startSec": 335.7,
+          "endSec": 335.9,
+          "text": "to"
+        },
+        {
+          "startSec": 335.9,
+          "endSec": 336.5,
+          "text": "change,"
+        },
+        {
+          "startSec": 336.5,
+          "endSec": 337.3,
+          "text": "especially"
+        },
+        {
+          "startSec": 337.3,
+          "endSec": 337.5,
+          "text": "for"
+        },
+        {
+          "startSec": 337.5,
+          "endSec": 337.7,
+          "text": "the"
+        },
+        {
+          "startSec": 337.7,
+          "endSec": 338.5,
+          "text": "better."
+        },
+        {
+          "startSec": 338.5,
+          "endSec": 338.7,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 338.5,
+      "endSec": 342.6,
+      "text": "If someone doesn't stand a chance, they have no chance of success.",
+      "words": [
+        {
+          "startSec": 338.5,
+          "endSec": 338.7,
+          "text": "If"
+        },
+        {
+          "startSec": 338.7,
+          "endSec": 339.2,
+          "text": "someone"
+        },
+        {
+          "startSec": 339.2,
+          "endSec": 339.6,
+          "text": "doesn't"
+        },
+        {
+          "startSec": 339.6,
+          "endSec": 340,
+          "text": "stand"
+        },
+        {
+          "startSec": 340,
+          "endSec": 340.1,
+          "text": "a"
+        },
+        {
+          "startSec": 340.1,
+          "endSec": 340.6,
+          "text": "chance,"
+        },
+        {
+          "startSec": 340.6,
+          "endSec": 340.9,
+          "text": "they"
+        },
+        {
+          "startSec": 340.9,
+          "endSec": 341.2,
+          "text": "have"
+        },
+        {
+          "startSec": 341.2,
+          "endSec": 341.3,
+          "text": "no"
+        },
+        {
+          "startSec": 341.3,
+          "endSec": 341.7,
+          "text": "chance"
+        },
+        {
+          "startSec": 341.7,
+          "endSec": 341.9,
+          "text": "of"
+        },
+        {
+          "startSec": 341.9,
+          "endSec": 342.6,
+          "text": "success."
+        },
+        {
+          "startSec": 342.6,
+          "endSec": 342.8,
+          "text": "To"
+        }
+      ]
+    },
+    {
+      "startSec": 342.6,
+      "endSec": 346.7,
+      "text": "To give a shout out to someone means to publicly praise them.",
+      "words": [
+        {
+          "startSec": 342.6,
+          "endSec": 342.8,
+          "text": "To"
+        },
+        {
+          "startSec": 342.8,
+          "endSec": 343.1,
+          "text": "give"
+        },
+        {
+          "startSec": 343.1,
+          "endSec": 343.1,
+          "text": "a"
+        },
+        {
+          "startSec": 343.1,
+          "endSec": 343.5,
+          "text": "shout"
+        },
+        {
+          "startSec": 343.5,
+          "endSec": 343.8,
+          "text": "out"
+        },
+        {
+          "startSec": 343.8,
+          "endSec": 343.9,
+          "text": "to"
+        },
+        {
+          "startSec": 343.9,
+          "endSec": 344.5,
+          "text": "someone"
+        },
+        {
+          "startSec": 344.5,
+          "endSec": 344.8,
+          "text": "means"
+        },
+        {
+          "startSec": 344.8,
+          "endSec": 345,
+          "text": "to"
+        },
+        {
+          "startSec": 345,
+          "endSec": 345.6,
+          "text": "publicly"
+        },
+        {
+          "startSec": 345.6,
+          "endSec": 346.1,
+          "text": "praise"
+        },
+        {
+          "startSec": 346.1,
+          "endSec": 346.7,
+          "text": "them."
+        },
+        {
+          "startSec": 346.7,
+          "endSec": 346.9,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 346.7,
+      "endSec": 351.6,
+      "text": "And finally, if you're good at media, you are skillful at using media outlets to convey",
+      "words": [
+        {
+          "startSec": 346.7,
+          "endSec": 346.9,
+          "text": "And"
+        },
+        {
+          "startSec": 346.9,
+          "endSec": 347.5,
+          "text": "finally,"
+        },
+        {
+          "startSec": 347.5,
+          "endSec": 347.6,
+          "text": "if"
+        },
+        {
+          "startSec": 347.6,
+          "endSec": 348,
+          "text": "you're"
+        },
+        {
+          "startSec": 348,
+          "endSec": 348.3,
+          "text": "good"
+        },
+        {
+          "startSec": 348.3,
+          "endSec": 348.4,
+          "text": "at"
+        },
+        {
+          "startSec": 348.4,
+          "endSec": 348.9,
+          "text": "media,"
+        },
+        {
+          "startSec": 348.9,
+          "endSec": 349,
+          "text": "you"
+        },
+        {
+          "startSec": 349,
+          "endSec": 349.2,
+          "text": "are"
+        },
+        {
+          "startSec": 349.2,
+          "endSec": 349.7,
+          "text": "skillful"
+        },
+        {
+          "startSec": 349.7,
+          "endSec": 349.9,
+          "text": "at"
+        },
+        {
+          "startSec": 349.9,
+          "endSec": 350.2,
+          "text": "using"
+        },
+        {
+          "startSec": 350.2,
+          "endSec": 350.5,
+          "text": "media"
+        },
+        {
+          "startSec": 350.5,
+          "endSec": 351,
+          "text": "outlets"
+        },
+        {
+          "startSec": 351,
+          "endSec": 351.1,
+          "text": "to"
+        },
+        {
+          "startSec": 351.1,
+          "endSec": 351.6,
+          "text": "convey"
+        },
+        {
+          "startSec": 351.6,
+          "endSec": 351.7,
+          "text": "a"
+        }
+      ]
+    },
+    {
+      "startSec": 351.6,
+      "endSec": 353.9,
+      "text": "a message to the public.",
+      "words": [
+        {
+          "startSec": 351.6,
+          "endSec": 351.7,
+          "text": "a"
+        },
+        {
+          "startSec": 351.7,
+          "endSec": 352.4,
+          "text": "message"
+        },
+        {
+          "startSec": 352.4,
+          "endSec": 352.6,
+          "text": "to"
+        },
+        {
+          "startSec": 352.6,
+          "endSec": 352.9,
+          "text": "the"
+        },
+        {
+          "startSec": 352.9,
+          "endSec": 353.9,
+          "text": "public."
+        },
+        {
+          "startSec": 353.9,
+          "endSec": 354.1,
+          "text": "Once"
+        }
+      ]
+    },
+    {
+      "startSec": 353.9,
+      "endSec": 358.7,
+      "text": "Once again, our six minutes are up, but remember, you can find worksheets, quizzes, and loads",
+      "words": [
+        {
+          "startSec": 353.9,
+          "endSec": 354.1,
+          "text": "Once"
+        },
+        {
+          "startSec": 354.1,
+          "endSec": 354.5,
+          "text": "again,"
+        },
+        {
+          "startSec": 354.5,
+          "endSec": 354.7,
+          "text": "our"
+        },
+        {
+          "startSec": 354.7,
+          "endSec": 354.9,
+          "text": "six"
+        },
+        {
+          "startSec": 354.9,
+          "endSec": 355.3,
+          "text": "minutes"
+        },
+        {
+          "startSec": 355.3,
+          "endSec": 355.4,
+          "text": "are"
+        },
+        {
+          "startSec": 355.4,
+          "endSec": 355.7,
+          "text": "up,"
+        },
+        {
+          "startSec": 355.7,
+          "endSec": 355.8,
+          "text": "but"
+        },
+        {
+          "startSec": 355.8,
+          "endSec": 356.4,
+          "text": "remember,"
+        },
+        {
+          "startSec": 356.4,
+          "endSec": 356.6,
+          "text": "you"
+        },
+        {
+          "startSec": 356.6,
+          "endSec": 356.7,
+          "text": "can"
+        },
+        {
+          "startSec": 356.7,
+          "endSec": 357,
+          "text": "find"
+        },
+        {
+          "startSec": 357,
+          "endSec": 357.7,
+          "text": "worksheets,"
+        },
+        {
+          "startSec": 357.7,
+          "endSec": 358.4,
+          "text": "quizzes,"
+        },
+        {
+          "startSec": 358.4,
+          "endSec": 358.5,
+          "text": "and"
+        },
+        {
+          "startSec": 358.5,
+          "endSec": 358.7,
+          "text": "loads"
+        },
+        {
+          "startSec": 358.7,
+          "endSec": 359,
+          "text": "more"
+        }
+      ]
+    },
+    {
+      "startSec": 358.7,
+      "endSec": 364.1,
+      "text": "more resources to improve your English on our website, bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 358.7,
+          "endSec": 359,
+          "text": "more"
+        },
+        {
+          "startSec": 359,
+          "endSec": 359.7,
+          "text": "resources"
+        },
+        {
+          "startSec": 359.7,
+          "endSec": 359.8,
+          "text": "to"
+        },
+        {
+          "startSec": 359.8,
+          "endSec": 360.4,
+          "text": "improve"
+        },
+        {
+          "startSec": 360.4,
+          "endSec": 360.7,
+          "text": "your"
+        },
+        {
+          "startSec": 360.7,
+          "endSec": 361.2,
+          "text": "English"
+        },
+        {
+          "startSec": 361.2,
+          "endSec": 361.3,
+          "text": "on"
+        },
+        {
+          "startSec": 361.3,
+          "endSec": 361.6,
+          "text": "our"
+        },
+        {
+          "startSec": 361.6,
+          "endSec": 362.2,
+          "text": "website,"
+        },
+        {
+          "startSec": 362.2,
+          "endSec": 364.1,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 364.1,
+          "endSec": 364.8,
+          "text": "See"
+        }
+      ]
+    },
+    {
+      "startSec": 364.1,
+      "endSec": 373.2,
+      "text": "See you there soon, but for now, it's goodbye.",
+      "words": [
+        {
+          "startSec": 364.1,
+          "endSec": 364.8,
+          "text": "See"
+        },
+        {
+          "startSec": 364.8,
+          "endSec": 365.4,
+          "text": "you"
+        },
+        {
+          "startSec": 365.4,
+          "endSec": 366.5,
+          "text": "there"
+        },
+        {
+          "startSec": 366.5,
+          "endSec": 367.8,
+          "text": "soon,"
+        },
+        {
+          "startSec": 367.8,
+          "endSec": 368.4,
+          "text": "but"
+        },
+        {
+          "startSec": 368.4,
+          "endSec": 369.1,
+          "text": "for"
+        },
+        {
+          "startSec": 369.1,
+          "endSec": 370.1,
+          "text": "now,"
+        },
+        {
+          "startSec": 370.1,
+          "endSec": 371,
+          "text": "it's"
+        },
+        {
+          "startSec": 371,
+          "endSec": 373.2,
+          "text": "goodbye."
+        }
+      ]
+    }
+  ],
+  "introSec": 8.4
+}

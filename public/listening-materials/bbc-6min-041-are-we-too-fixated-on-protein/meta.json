@@ -1,0 +1,6696 @@
+{
+  "title": "Are we too fixated on protein",
+  "source": "BBC 6 Minute English",
+  "level": "advanced",
+  "durationSec": 373,
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
+  "audioFile": "audio.mp3",
+  "segments": [
+    {
+      "startSec": 0,
+      "endSec": 2.6,
+      "text": "♪ Oh six minutes English ♪",
+      "words": [
+        {
+          "startSec": 0.1,
+          "endSec": 0.3,
+          "text": "♪"
+        },
+        {
+          "startSec": 0.3,
+          "endSec": 0.6,
+          "text": "Oh"
+        },
+        {
+          "startSec": 0.6,
+          "endSec": 0.9,
+          "text": "six"
+        },
+        {
+          "startSec": 0.9,
+          "endSec": 1.7,
+          "text": "minutes"
+        },
+        {
+          "startSec": 1.7,
+          "endSec": 2.5,
+          "text": "English"
+        },
+        {
+          "startSec": 2.5,
+          "endSec": 2.6,
+          "text": "♪"
+        },
+        {
+          "startSec": 2.6,
+          "endSec": 2.7,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 2.6,
+      "endSec": 5.6,
+      "text": "- From bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 2.6,
+          "endSec": 2.7,
+          "text": "-"
+        },
+        {
+          "startSec": 2.7,
+          "endSec": 3.1,
+          "text": "From"
+        },
+        {
+          "startSec": 3.1,
+          "endSec": 5.6,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 5.6,
+          "endSec": 5.8,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 5.6,
+      "endSec": 9.7,
+      "text": "- Hello, this is Six Minute English",
+      "words": [
+        {
+          "startSec": 5.6,
+          "endSec": 5.8,
+          "text": "-"
+        },
+        {
+          "startSec": 5.8,
+          "endSec": 6.7,
+          "text": "Hello,"
+        },
+        {
+          "startSec": 6.7,
+          "endSec": 7.2,
+          "text": "this"
+        },
+        {
+          "startSec": 7.2,
+          "endSec": 7.5,
+          "text": "is"
+        },
+        {
+          "startSec": 7.5,
+          "endSec": 7.9,
+          "text": "Six"
+        },
+        {
+          "startSec": 7.9,
+          "endSec": 8.7,
+          "text": "Minute"
+        },
+        {
+          "startSec": 8.7,
+          "endSec": 9.7,
+          "text": "English"
+        },
+        {
+          "startSec": 9.7,
+          "endSec": 10,
+          "text": "from"
+        }
+      ]
+    },
+    {
+      "startSec": 9.7,
+      "endSec": 12.2,
+      "text": "from BBC Learning English, I'm Neil.",
+      "words": [
+        {
+          "startSec": 9.7,
+          "endSec": 10,
+          "text": "from"
+        },
+        {
+          "startSec": 10,
+          "endSec": 10.2,
+          "text": "BBC"
+        },
+        {
+          "startSec": 10.2,
+          "endSec": 10.9,
+          "text": "Learning"
+        },
+        {
+          "startSec": 10.9,
+          "endSec": 11.6,
+          "text": "English,"
+        },
+        {
+          "startSec": 11.6,
+          "endSec": 11.9,
+          "text": "I'm"
+        },
+        {
+          "startSec": 11.9,
+          "endSec": 12.2,
+          "text": "Neil."
+        },
+        {
+          "startSec": 12.2,
+          "endSec": 12.3,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 12.2,
+      "endSec": 13.5,
+      "text": "- And I'm Georgie.",
+      "words": [
+        {
+          "startSec": 12.2,
+          "endSec": 12.3,
+          "text": "-"
+        },
+        {
+          "startSec": 12.3,
+          "endSec": 12.5,
+          "text": "And"
+        },
+        {
+          "startSec": 12.5,
+          "endSec": 12.7,
+          "text": "I'm"
+        },
+        {
+          "startSec": 12.7,
+          "endSec": 13.5,
+          "text": "Georgie."
+        },
+        {
+          "startSec": 13.5,
+          "endSec": 14,
+          "text": "Neil,"
+        }
+      ]
+    },
+    {
+      "startSec": 13.5,
+      "endSec": 16.3,
+      "text": "Neil, we're talking about protein today.",
+      "words": [
+        {
+          "startSec": 13.5,
+          "endSec": 14,
+          "text": "Neil,"
+        },
+        {
+          "startSec": 14,
+          "endSec": 14.3,
+          "text": "we're"
+        },
+        {
+          "startSec": 14.3,
+          "endSec": 14.8,
+          "text": "talking"
+        },
+        {
+          "startSec": 14.8,
+          "endSec": 15.2,
+          "text": "about"
+        },
+        {
+          "startSec": 15.2,
+          "endSec": 15.7,
+          "text": "protein"
+        },
+        {
+          "startSec": 15.7,
+          "endSec": 16.3,
+          "text": "today."
+        },
+        {
+          "startSec": 16.3,
+          "endSec": 16.6,
+          "text": "What"
+        }
+      ]
+    },
+    {
+      "startSec": 16.3,
+      "endSec": 18.9,
+      "text": "What type of protein do you usually eat?",
+      "words": [
+        {
+          "startSec": 16.3,
+          "endSec": 16.6,
+          "text": "What"
+        },
+        {
+          "startSec": 16.6,
+          "endSec": 16.9,
+          "text": "type"
+        },
+        {
+          "startSec": 16.9,
+          "endSec": 17,
+          "text": "of"
+        },
+        {
+          "startSec": 17,
+          "endSec": 17.5,
+          "text": "protein"
+        },
+        {
+          "startSec": 17.5,
+          "endSec": 17.7,
+          "text": "do"
+        },
+        {
+          "startSec": 17.7,
+          "endSec": 17.9,
+          "text": "you"
+        },
+        {
+          "startSec": 17.9,
+          "endSec": 18.4,
+          "text": "usually"
+        },
+        {
+          "startSec": 18.4,
+          "endSec": 18.9,
+          "text": "eat?"
+        },
+        {
+          "startSec": 18.9,
+          "endSec": 19,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 18.9,
+      "endSec": 22.3,
+      "text": "- Well, I like all kinds of proteins, fish,",
+      "words": [
+        {
+          "startSec": 18.9,
+          "endSec": 19,
+          "text": "-"
+        },
+        {
+          "startSec": 19,
+          "endSec": 19.5,
+          "text": "Well,"
+        },
+        {
+          "startSec": 19.5,
+          "endSec": 19.6,
+          "text": "I"
+        },
+        {
+          "startSec": 19.6,
+          "endSec": 19.9,
+          "text": "like"
+        },
+        {
+          "startSec": 19.9,
+          "endSec": 20.1,
+          "text": "all"
+        },
+        {
+          "startSec": 20.1,
+          "endSec": 20.5,
+          "text": "kinds"
+        },
+        {
+          "startSec": 20.5,
+          "endSec": 20.7,
+          "text": "of"
+        },
+        {
+          "startSec": 20.7,
+          "endSec": 21.6,
+          "text": "proteins,"
+        },
+        {
+          "startSec": 21.6,
+          "endSec": 22.3,
+          "text": "fish,"
+        },
+        {
+          "startSec": 22.3,
+          "endSec": 22.5,
+          "text": "bit"
+        }
+      ]
+    },
+    {
+      "startSec": 22.3,
+      "endSec": 26.2,
+      "text": "bit of chicken, but I think I really like an egg.",
+      "words": [
+        {
+          "startSec": 22.3,
+          "endSec": 22.5,
+          "text": "bit"
+        },
+        {
+          "startSec": 22.5,
+          "endSec": 22.6,
+          "text": "of"
+        },
+        {
+          "startSec": 22.6,
+          "endSec": 23.2,
+          "text": "chicken,"
+        },
+        {
+          "startSec": 23.2,
+          "endSec": 23.6,
+          "text": "but"
+        },
+        {
+          "startSec": 23.6,
+          "endSec": 23.7,
+          "text": "I"
+        },
+        {
+          "startSec": 23.7,
+          "endSec": 24.5,
+          "text": "think"
+        },
+        {
+          "startSec": 24.5,
+          "endSec": 24.6,
+          "text": "I"
+        },
+        {
+          "startSec": 24.6,
+          "endSec": 25.2,
+          "text": "really"
+        },
+        {
+          "startSec": 25.2,
+          "endSec": 25.6,
+          "text": "like"
+        },
+        {
+          "startSec": 25.6,
+          "endSec": 25.8,
+          "text": "an"
+        },
+        {
+          "startSec": 25.8,
+          "endSec": 26.2,
+          "text": "egg."
+        },
+        {
+          "startSec": 26.2,
+          "endSec": 26.3,
+          "text": "An"
+        }
+      ]
+    },
+    {
+      "startSec": 26.2,
+      "endSec": 28.3,
+      "text": "An egg is my favorite kind of protein.",
+      "words": [
+        {
+          "startSec": 26.2,
+          "endSec": 26.3,
+          "text": "An"
+        },
+        {
+          "startSec": 26.3,
+          "endSec": 26.5,
+          "text": "egg"
+        },
+        {
+          "startSec": 26.5,
+          "endSec": 26.6,
+          "text": "is"
+        },
+        {
+          "startSec": 26.6,
+          "endSec": 26.7,
+          "text": "my"
+        },
+        {
+          "startSec": 26.7,
+          "endSec": 27.3,
+          "text": "favorite"
+        },
+        {
+          "startSec": 27.3,
+          "endSec": 27.5,
+          "text": "kind"
+        },
+        {
+          "startSec": 27.5,
+          "endSec": 27.7,
+          "text": "of"
+        },
+        {
+          "startSec": 27.7,
+          "endSec": 28.3,
+          "text": "protein."
+        },
+        {
+          "startSec": 28.3,
+          "endSec": 28.4,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 28.3,
+      "endSec": 29.8,
+      "text": "- Oh, I was gonna say that too.",
+      "words": [
+        {
+          "startSec": 28.3,
+          "endSec": 28.4,
+          "text": "-"
+        },
+        {
+          "startSec": 28.4,
+          "endSec": 28.6,
+          "text": "Oh,"
+        },
+        {
+          "startSec": 28.6,
+          "endSec": 28.6,
+          "text": "I"
+        },
+        {
+          "startSec": 28.6,
+          "endSec": 28.8,
+          "text": "was"
+        },
+        {
+          "startSec": 28.8,
+          "endSec": 29.1,
+          "text": "gonna"
+        },
+        {
+          "startSec": 29.1,
+          "endSec": 29.2,
+          "text": "say"
+        },
+        {
+          "startSec": 29.2,
+          "endSec": 29.4,
+          "text": "that"
+        },
+        {
+          "startSec": 29.4,
+          "endSec": 29.8,
+          "text": "too."
+        }
+      ]
+    },
+    {
+      "startSec": 29.8,
+      "endSec": 34,
+      "text": "I'm a big fan of breakfast foods and eggs are my favorite.",
+      "words": [
+        {
+          "startSec": 29.9,
+          "endSec": 30,
+          "text": "I'm"
+        },
+        {
+          "startSec": 30,
+          "endSec": 30.1,
+          "text": "a"
+        },
+        {
+          "startSec": 30.1,
+          "endSec": 30.3,
+          "text": "big"
+        },
+        {
+          "startSec": 30.3,
+          "endSec": 30.5,
+          "text": "fan"
+        },
+        {
+          "startSec": 30.5,
+          "endSec": 30.7,
+          "text": "of"
+        },
+        {
+          "startSec": 30.7,
+          "endSec": 31.3,
+          "text": "breakfast"
+        },
+        {
+          "startSec": 31.3,
+          "endSec": 31.7,
+          "text": "foods"
+        },
+        {
+          "startSec": 31.7,
+          "endSec": 32.2,
+          "text": "and"
+        },
+        {
+          "startSec": 32.2,
+          "endSec": 32.8,
+          "text": "eggs"
+        },
+        {
+          "startSec": 32.8,
+          "endSec": 33,
+          "text": "are"
+        },
+        {
+          "startSec": 33,
+          "endSec": 33.1,
+          "text": "my"
+        },
+        {
+          "startSec": 33.1,
+          "endSec": 34,
+          "text": "favorite."
+        },
+        {
+          "startSec": 34,
+          "endSec": 34,
+          "text": "-"
+        },
+        {
+          "startSec": 34,
+          "endSec": 34.4,
+          "text": "Well,"
+        }
+      ]
+    },
+    {
+      "startSec": 34,
+      "endSec": 36.2,
+      "text": "- Well, you can't beat a good breakfast.",
+      "words": [
+        {
+          "startSec": 34,
+          "endSec": 34,
+          "text": "-"
+        },
+        {
+          "startSec": 34,
+          "endSec": 34.4,
+          "text": "Well,"
+        },
+        {
+          "startSec": 34.4,
+          "endSec": 34.6,
+          "text": "you"
+        },
+        {
+          "startSec": 34.6,
+          "endSec": 34.9,
+          "text": "can't"
+        },
+        {
+          "startSec": 34.9,
+          "endSec": 35.2,
+          "text": "beat"
+        },
+        {
+          "startSec": 35.2,
+          "endSec": 35.3,
+          "text": "a"
+        },
+        {
+          "startSec": 35.3,
+          "endSec": 35.5,
+          "text": "good"
+        },
+        {
+          "startSec": 35.5,
+          "endSec": 36.2,
+          "text": "breakfast."
+        },
+        {
+          "startSec": 36.2,
+          "endSec": 36.3,
+          "text": "Of"
+        }
+      ]
+    },
+    {
+      "startSec": 36.2,
+      "endSec": 39.8,
+      "text": "Of all the main food groups, such as carbohydrate, fat,",
+      "words": [
+        {
+          "startSec": 36.2,
+          "endSec": 36.3,
+          "text": "Of"
+        },
+        {
+          "startSec": 36.3,
+          "endSec": 36.5,
+          "text": "all"
+        },
+        {
+          "startSec": 36.5,
+          "endSec": 36.8,
+          "text": "the"
+        },
+        {
+          "startSec": 36.8,
+          "endSec": 37.1,
+          "text": "main"
+        },
+        {
+          "startSec": 37.1,
+          "endSec": 37.4,
+          "text": "food"
+        },
+        {
+          "startSec": 37.4,
+          "endSec": 38,
+          "text": "groups,"
+        },
+        {
+          "startSec": 38,
+          "endSec": 38.3,
+          "text": "such"
+        },
+        {
+          "startSec": 38.3,
+          "endSec": 38.4,
+          "text": "as"
+        },
+        {
+          "startSec": 38.4,
+          "endSec": 39.3,
+          "text": "carbohydrate,"
+        },
+        {
+          "startSec": 39.3,
+          "endSec": 39.8,
+          "text": "fat,"
+        },
+        {
+          "startSec": 39.8,
+          "endSec": 40.1,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 39.8,
+      "endSec": 43.9,
+      "text": "and fiber, it's protein that seems to be most in the news.",
+      "words": [
+        {
+          "startSec": 39.8,
+          "endSec": 40.1,
+          "text": "and"
+        },
+        {
+          "startSec": 40.1,
+          "endSec": 40.7,
+          "text": "fiber,"
+        },
+        {
+          "startSec": 40.7,
+          "endSec": 41.1,
+          "text": "it's"
+        },
+        {
+          "startSec": 41.1,
+          "endSec": 41.7,
+          "text": "protein"
+        },
+        {
+          "startSec": 41.7,
+          "endSec": 41.9,
+          "text": "that"
+        },
+        {
+          "startSec": 41.9,
+          "endSec": 42.2,
+          "text": "seems"
+        },
+        {
+          "startSec": 42.2,
+          "endSec": 42.3,
+          "text": "to"
+        },
+        {
+          "startSec": 42.3,
+          "endSec": 42.4,
+          "text": "be"
+        },
+        {
+          "startSec": 42.4,
+          "endSec": 42.8,
+          "text": "most"
+        },
+        {
+          "startSec": 42.8,
+          "endSec": 43,
+          "text": "in"
+        },
+        {
+          "startSec": 43,
+          "endSec": 43.3,
+          "text": "the"
+        },
+        {
+          "startSec": 43.3,
+          "endSec": 43.9,
+          "text": "news."
+        },
+        {
+          "startSec": 43.9,
+          "endSec": 44,
+          "text": "In"
+        }
+      ]
+    },
+    {
+      "startSec": 43.9,
+      "endSec": 45.6,
+      "text": "In shops and on social media,",
+      "words": [
+        {
+          "startSec": 43.9,
+          "endSec": 44,
+          "text": "In"
+        },
+        {
+          "startSec": 44,
+          "endSec": 44.4,
+          "text": "shops"
+        },
+        {
+          "startSec": 44.4,
+          "endSec": 44.6,
+          "text": "and"
+        },
+        {
+          "startSec": 44.6,
+          "endSec": 44.8,
+          "text": "on"
+        },
+        {
+          "startSec": 44.8,
+          "endSec": 45.2,
+          "text": "social"
+        },
+        {
+          "startSec": 45.2,
+          "endSec": 45.6,
+          "text": "media,"
+        },
+        {
+          "startSec": 45.6,
+          "endSec": 46.1,
+          "text": "you'll"
+        }
+      ]
+    },
+    {
+      "startSec": 45.6,
+      "endSec": 48.3,
+      "text": "you'll find all kinds of high protein foods",
+      "words": [
+        {
+          "startSec": 45.6,
+          "endSec": 46.1,
+          "text": "you'll"
+        },
+        {
+          "startSec": 46.1,
+          "endSec": 46.4,
+          "text": "find"
+        },
+        {
+          "startSec": 46.4,
+          "endSec": 46.6,
+          "text": "all"
+        },
+        {
+          "startSec": 46.6,
+          "endSec": 47,
+          "text": "kinds"
+        },
+        {
+          "startSec": 47,
+          "endSec": 47.1,
+          "text": "of"
+        },
+        {
+          "startSec": 47.1,
+          "endSec": 47.4,
+          "text": "high"
+        },
+        {
+          "startSec": 47.4,
+          "endSec": 47.9,
+          "text": "protein"
+        },
+        {
+          "startSec": 47.9,
+          "endSec": 48.3,
+          "text": "foods"
+        },
+        {
+          "startSec": 48.3,
+          "endSec": 48.7,
+          "text": "being"
+        }
+      ]
+    },
+    {
+      "startSec": 48.3,
+      "endSec": 52.2,
+      "text": "being advertised, from shakes and yogurts to chocolate.",
+      "words": [
+        {
+          "startSec": 48.3,
+          "endSec": 48.7,
+          "text": "being"
+        },
+        {
+          "startSec": 48.7,
+          "endSec": 49.7,
+          "text": "advertised,"
+        },
+        {
+          "startSec": 49.7,
+          "endSec": 50,
+          "text": "from"
+        },
+        {
+          "startSec": 50,
+          "endSec": 50.5,
+          "text": "shakes"
+        },
+        {
+          "startSec": 50.5,
+          "endSec": 50.6,
+          "text": "and"
+        },
+        {
+          "startSec": 50.6,
+          "endSec": 51.1,
+          "text": "yogurts"
+        },
+        {
+          "startSec": 51.1,
+          "endSec": 51.3,
+          "text": "to"
+        },
+        {
+          "startSec": 51.3,
+          "endSec": 52.2,
+          "text": "chocolate."
+        },
+        {
+          "startSec": 52.2,
+          "endSec": 52.6,
+          "text": "Here's"
+        }
+      ]
+    },
+    {
+      "startSec": 52.2,
+      "endSec": 53.5,
+      "text": "Here's Ruth Alexander,",
+      "words": [
+        {
+          "startSec": 52.2,
+          "endSec": 52.6,
+          "text": "Here's"
+        },
+        {
+          "startSec": 52.6,
+          "endSec": 52.8,
+          "text": "Ruth"
+        },
+        {
+          "startSec": 52.8,
+          "endSec": 53.5,
+          "text": "Alexander,"
+        },
+        {
+          "startSec": 53.5,
+          "endSec": 54.1,
+          "text": "presenter"
+        }
+      ]
+    },
+    {
+      "startSec": 53.5,
+      "endSec": 57.6,
+      "text": "presenter of BBC World Service Program, the food chain.",
+      "words": [
+        {
+          "startSec": 53.5,
+          "endSec": 54.1,
+          "text": "presenter"
+        },
+        {
+          "startSec": 54.1,
+          "endSec": 54.3,
+          "text": "of"
+        },
+        {
+          "startSec": 54.3,
+          "endSec": 54.5,
+          "text": "BBC"
+        },
+        {
+          "startSec": 54.5,
+          "endSec": 54.9,
+          "text": "World"
+        },
+        {
+          "startSec": 54.9,
+          "endSec": 55.4,
+          "text": "Service"
+        },
+        {
+          "startSec": 55.4,
+          "endSec": 56.1,
+          "text": "Program,"
+        },
+        {
+          "startSec": 56.1,
+          "endSec": 56.4,
+          "text": "the"
+        },
+        {
+          "startSec": 56.4,
+          "endSec": 56.8,
+          "text": "food"
+        },
+        {
+          "startSec": 56.8,
+          "endSec": 57.6,
+          "text": "chain."
+        },
+        {
+          "startSec": 57.6,
+          "endSec": 57.7,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 57.6,
+      "endSec": 60.6,
+      "text": "- Cast your eye over most dials in the supermarkets now,",
+      "words": [
+        {
+          "startSec": 57.6,
+          "endSec": 57.7,
+          "text": "-"
+        },
+        {
+          "startSec": 57.7,
+          "endSec": 57.9,
+          "text": "Cast"
+        },
+        {
+          "startSec": 57.9,
+          "endSec": 58.2,
+          "text": "your"
+        },
+        {
+          "startSec": 58.2,
+          "endSec": 58.4,
+          "text": "eye"
+        },
+        {
+          "startSec": 58.4,
+          "endSec": 58.6,
+          "text": "over"
+        },
+        {
+          "startSec": 58.6,
+          "endSec": 58.9,
+          "text": "most"
+        },
+        {
+          "startSec": 58.9,
+          "endSec": 59.2,
+          "text": "dials"
+        },
+        {
+          "startSec": 59.2,
+          "endSec": 59.4,
+          "text": "in"
+        },
+        {
+          "startSec": 59.4,
+          "endSec": 59.6,
+          "text": "the"
+        },
+        {
+          "startSec": 59.6,
+          "endSec": 60.4,
+          "text": "supermarkets"
+        },
+        {
+          "startSec": 60.4,
+          "endSec": 60.6,
+          "text": "now,"
+        },
+        {
+          "startSec": 60.6,
+          "endSec": 60.9,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 60.6,
+      "endSec": 63.8,
+      "text": "and you'll see high protein products in abundance.",
+      "words": [
+        {
+          "startSec": 60.6,
+          "endSec": 60.9,
+          "text": "and"
+        },
+        {
+          "startSec": 60.9,
+          "endSec": 61.3,
+          "text": "you'll"
+        },
+        {
+          "startSec": 61.3,
+          "endSec": 61.5,
+          "text": "see"
+        },
+        {
+          "startSec": 61.5,
+          "endSec": 61.8,
+          "text": "high"
+        },
+        {
+          "startSec": 61.8,
+          "endSec": 62.4,
+          "text": "protein"
+        },
+        {
+          "startSec": 62.4,
+          "endSec": 63,
+          "text": "products"
+        },
+        {
+          "startSec": 63,
+          "endSec": 63.1,
+          "text": "in"
+        },
+        {
+          "startSec": 63.1,
+          "endSec": 63.8,
+          "text": "abundance."
+        },
+        {
+          "startSec": 63.8,
+          "endSec": 64.2,
+          "text": "Pasta"
+        }
+      ]
+    },
+    {
+      "startSec": 63.8,
+      "endSec": 66.1,
+      "text": "Pasta made with lentils and chickpeas,",
+      "words": [
+        {
+          "startSec": 63.8,
+          "endSec": 64.2,
+          "text": "Pasta"
+        },
+        {
+          "startSec": 64.2,
+          "endSec": 64.5,
+          "text": "made"
+        },
+        {
+          "startSec": 64.5,
+          "endSec": 64.8,
+          "text": "with"
+        },
+        {
+          "startSec": 64.8,
+          "endSec": 65.4,
+          "text": "lentils"
+        },
+        {
+          "startSec": 65.4,
+          "endSec": 65.6,
+          "text": "and"
+        },
+        {
+          "startSec": 65.6,
+          "endSec": 66.1,
+          "text": "chickpeas,"
+        },
+        {
+          "startSec": 66.1,
+          "endSec": 66.5,
+          "text": "rather"
+        }
+      ]
+    },
+    {
+      "startSec": 66.1,
+      "endSec": 67.7,
+      "text": "rather than wheat flour.",
+      "words": [
+        {
+          "startSec": 66.1,
+          "endSec": 66.5,
+          "text": "rather"
+        },
+        {
+          "startSec": 66.5,
+          "endSec": 66.8,
+          "text": "than"
+        },
+        {
+          "startSec": 66.8,
+          "endSec": 67.1,
+          "text": "wheat"
+        },
+        {
+          "startSec": 67.1,
+          "endSec": 67.7,
+          "text": "flour."
+        },
+        {
+          "startSec": 67.7,
+          "endSec": 68.1,
+          "text": "Bread"
+        }
+      ]
+    },
+    {
+      "startSec": 67.7,
+      "endSec": 70.3,
+      "text": "Bread fortified with beans and pulses.",
+      "words": [
+        {
+          "startSec": 67.7,
+          "endSec": 68.1,
+          "text": "Bread"
+        },
+        {
+          "startSec": 68.1,
+          "endSec": 68.7,
+          "text": "fortified"
+        },
+        {
+          "startSec": 68.7,
+          "endSec": 69,
+          "text": "with"
+        },
+        {
+          "startSec": 69,
+          "endSec": 69.4,
+          "text": "beans"
+        },
+        {
+          "startSec": 69.4,
+          "endSec": 69.6,
+          "text": "and"
+        },
+        {
+          "startSec": 69.6,
+          "endSec": 70.3,
+          "text": "pulses."
+        },
+        {
+          "startSec": 70.3,
+          "endSec": 70.4,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 70.3,
+      "endSec": 73.4,
+      "text": "- Ruth cast her eye over the supermarket shelves.",
+      "words": [
+        {
+          "startSec": 70.3,
+          "endSec": 70.4,
+          "text": "-"
+        },
+        {
+          "startSec": 70.4,
+          "endSec": 70.7,
+          "text": "Ruth"
+        },
+        {
+          "startSec": 70.7,
+          "endSec": 71,
+          "text": "cast"
+        },
+        {
+          "startSec": 71,
+          "endSec": 71.2,
+          "text": "her"
+        },
+        {
+          "startSec": 71.2,
+          "endSec": 71.4,
+          "text": "eye"
+        },
+        {
+          "startSec": 71.4,
+          "endSec": 71.7,
+          "text": "over"
+        },
+        {
+          "startSec": 71.7,
+          "endSec": 71.9,
+          "text": "the"
+        },
+        {
+          "startSec": 71.9,
+          "endSec": 72.7,
+          "text": "supermarket"
+        },
+        {
+          "startSec": 72.7,
+          "endSec": 73.4,
+          "text": "shelves."
+        },
+        {
+          "startSec": 73.4,
+          "endSec": 73.6,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 73.4,
+      "endSec": 75.1,
+      "text": "If you cast your eye over something,",
+      "words": [
+        {
+          "startSec": 73.4,
+          "endSec": 73.6,
+          "text": "If"
+        },
+        {
+          "startSec": 73.6,
+          "endSec": 73.7,
+          "text": "you"
+        },
+        {
+          "startSec": 73.7,
+          "endSec": 73.9,
+          "text": "cast"
+        },
+        {
+          "startSec": 73.9,
+          "endSec": 74.2,
+          "text": "your"
+        },
+        {
+          "startSec": 74.2,
+          "endSec": 74.3,
+          "text": "eye"
+        },
+        {
+          "startSec": 74.3,
+          "endSec": 74.5,
+          "text": "over"
+        },
+        {
+          "startSec": 74.5,
+          "endSec": 75.1,
+          "text": "something,"
+        },
+        {
+          "startSec": 75.1,
+          "endSec": 75.3,
+          "text": "you"
+        }
+      ]
+    },
+    {
+      "startSec": 75.1,
+      "endSec": 76.9,
+      "text": "you take a quick look at it.",
+      "words": [
+        {
+          "startSec": 75.1,
+          "endSec": 75.3,
+          "text": "you"
+        },
+        {
+          "startSec": 75.3,
+          "endSec": 75.6,
+          "text": "take"
+        },
+        {
+          "startSec": 75.6,
+          "endSec": 75.7,
+          "text": "a"
+        },
+        {
+          "startSec": 75.7,
+          "endSec": 76.1,
+          "text": "quick"
+        },
+        {
+          "startSec": 76.1,
+          "endSec": 76.4,
+          "text": "look"
+        },
+        {
+          "startSec": 76.4,
+          "endSec": 76.5,
+          "text": "at"
+        },
+        {
+          "startSec": 76.5,
+          "endSec": 76.9,
+          "text": "it."
+        },
+        {
+          "startSec": 76.9,
+          "endSec": 77,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 76.9,
+      "endSec": 80.3,
+      "text": "- What she sees are protein products in abundance.",
+      "words": [
+        {
+          "startSec": 76.9,
+          "endSec": 77,
+          "text": "-"
+        },
+        {
+          "startSec": 77,
+          "endSec": 77.3,
+          "text": "What"
+        },
+        {
+          "startSec": 77.3,
+          "endSec": 77.5,
+          "text": "she"
+        },
+        {
+          "startSec": 77.5,
+          "endSec": 77.8,
+          "text": "sees"
+        },
+        {
+          "startSec": 77.8,
+          "endSec": 78,
+          "text": "are"
+        },
+        {
+          "startSec": 78,
+          "endSec": 78.6,
+          "text": "protein"
+        },
+        {
+          "startSec": 78.6,
+          "endSec": 79.2,
+          "text": "products"
+        },
+        {
+          "startSec": 79.2,
+          "endSec": 79.3,
+          "text": "in"
+        },
+        {
+          "startSec": 79.3,
+          "endSec": 80.3,
+          "text": "abundance."
+        },
+        {
+          "startSec": 80.3,
+          "endSec": 80.4,
+          "text": "In"
+        }
+      ]
+    },
+    {
+      "startSec": 80.3,
+      "endSec": 82.8,
+      "text": "In other words, in large quantities.",
+      "words": [
+        {
+          "startSec": 80.3,
+          "endSec": 80.4,
+          "text": "In"
+        },
+        {
+          "startSec": 80.4,
+          "endSec": 80.8,
+          "text": "other"
+        },
+        {
+          "startSec": 80.8,
+          "endSec": 81.3,
+          "text": "words,"
+        },
+        {
+          "startSec": 81.3,
+          "endSec": 81.5,
+          "text": "in"
+        },
+        {
+          "startSec": 81.5,
+          "endSec": 81.8,
+          "text": "large"
+        },
+        {
+          "startSec": 81.8,
+          "endSec": 82.8,
+          "text": "quantities."
+        },
+        {
+          "startSec": 82.8,
+          "endSec": 83.4,
+          "text": "Products"
+        }
+      ]
+    },
+    {
+      "startSec": 82.8,
+      "endSec": 86.3,
+      "text": "Products which already contain protein, like yogurt,",
+      "words": [
+        {
+          "startSec": 82.8,
+          "endSec": 83.4,
+          "text": "Products"
+        },
+        {
+          "startSec": 83.4,
+          "endSec": 83.8,
+          "text": "which"
+        },
+        {
+          "startSec": 83.8,
+          "endSec": 84.3,
+          "text": "already"
+        },
+        {
+          "startSec": 84.3,
+          "endSec": 84.8,
+          "text": "contain"
+        },
+        {
+          "startSec": 84.8,
+          "endSec": 85.5,
+          "text": "protein,"
+        },
+        {
+          "startSec": 85.5,
+          "endSec": 85.8,
+          "text": "like"
+        },
+        {
+          "startSec": 85.8,
+          "endSec": 86.3,
+          "text": "yogurt,"
+        }
+      ]
+    },
+    {
+      "startSec": 86.3,
+      "endSec": 88.7,
+      "text": "are repackaged as high protein,",
+      "words": [
+        {
+          "startSec": 86.4,
+          "endSec": 86.6,
+          "text": "are"
+        },
+        {
+          "startSec": 86.6,
+          "endSec": 87.5,
+          "text": "repackaged"
+        },
+        {
+          "startSec": 87.5,
+          "endSec": 87.7,
+          "text": "as"
+        },
+        {
+          "startSec": 87.7,
+          "endSec": 88,
+          "text": "high"
+        },
+        {
+          "startSec": 88,
+          "endSec": 88.7,
+          "text": "protein,"
+        },
+        {
+          "startSec": 88.7,
+          "endSec": 89.1,
+          "text": "while"
+        }
+      ]
+    },
+    {
+      "startSec": 88.7,
+      "endSec": 91.5,
+      "text": "while other items have extra protein added,",
+      "words": [
+        {
+          "startSec": 88.7,
+          "endSec": 89.1,
+          "text": "while"
+        },
+        {
+          "startSec": 89.1,
+          "endSec": 89.5,
+          "text": "other"
+        },
+        {
+          "startSec": 89.5,
+          "endSec": 89.9,
+          "text": "items"
+        },
+        {
+          "startSec": 89.9,
+          "endSec": 90.2,
+          "text": "have"
+        },
+        {
+          "startSec": 90.2,
+          "endSec": 90.6,
+          "text": "extra"
+        },
+        {
+          "startSec": 90.6,
+          "endSec": 91.1,
+          "text": "protein"
+        },
+        {
+          "startSec": 91.1,
+          "endSec": 91.5,
+          "text": "added,"
+        },
+        {
+          "startSec": 91.5,
+          "endSec": 91.9,
+          "text": "often"
+        }
+      ]
+    },
+    {
+      "startSec": 91.5,
+      "endSec": 94.3,
+      "text": "often in the form of beans and pulses.",
+      "words": [
+        {
+          "startSec": 91.5,
+          "endSec": 91.9,
+          "text": "often"
+        },
+        {
+          "startSec": 91.9,
+          "endSec": 92.1,
+          "text": "in"
+        },
+        {
+          "startSec": 92.1,
+          "endSec": 92.4,
+          "text": "the"
+        },
+        {
+          "startSec": 92.4,
+          "endSec": 92.7,
+          "text": "form"
+        },
+        {
+          "startSec": 92.7,
+          "endSec": 92.9,
+          "text": "of"
+        },
+        {
+          "startSec": 92.9,
+          "endSec": 93.3,
+          "text": "beans"
+        },
+        {
+          "startSec": 93.3,
+          "endSec": 93.5,
+          "text": "and"
+        },
+        {
+          "startSec": 93.5,
+          "endSec": 94.3,
+          "text": "pulses."
+        },
+        {
+          "startSec": 94.3,
+          "endSec": 94.9,
+          "text": "Protein"
+        }
+      ]
+    },
+    {
+      "startSec": 94.3,
+      "endSec": 96.2,
+      "text": "Protein is big business.",
+      "words": [
+        {
+          "startSec": 94.3,
+          "endSec": 94.9,
+          "text": "Protein"
+        },
+        {
+          "startSec": 94.9,
+          "endSec": 95.1,
+          "text": "is"
+        },
+        {
+          "startSec": 95.1,
+          "endSec": 95.3,
+          "text": "big"
+        },
+        {
+          "startSec": 95.3,
+          "endSec": 96.2,
+          "text": "business."
+        },
+        {
+          "startSec": 96.2,
+          "endSec": 96.3,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 96.2,
+      "endSec": 99.6,
+      "text": "- Our bodies need protein for health and to build muscle.",
+      "words": [
+        {
+          "startSec": 96.2,
+          "endSec": 96.3,
+          "text": "-"
+        },
+        {
+          "startSec": 96.3,
+          "endSec": 96.5,
+          "text": "Our"
+        },
+        {
+          "startSec": 96.5,
+          "endSec": 96.8,
+          "text": "bodies"
+        },
+        {
+          "startSec": 96.8,
+          "endSec": 97.1,
+          "text": "need"
+        },
+        {
+          "startSec": 97.1,
+          "endSec": 97.5,
+          "text": "protein"
+        },
+        {
+          "startSec": 97.5,
+          "endSec": 97.7,
+          "text": "for"
+        },
+        {
+          "startSec": 97.7,
+          "endSec": 98.1,
+          "text": "health"
+        },
+        {
+          "startSec": 98.1,
+          "endSec": 98.4,
+          "text": "and"
+        },
+        {
+          "startSec": 98.4,
+          "endSec": 98.5,
+          "text": "to"
+        },
+        {
+          "startSec": 98.5,
+          "endSec": 98.9,
+          "text": "build"
+        },
+        {
+          "startSec": 98.9,
+          "endSec": 99.6,
+          "text": "muscle."
+        },
+        {
+          "startSec": 99.6,
+          "endSec": 99.8,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 99.6,
+      "endSec": 101.7,
+      "text": "But with all this focus on protein,",
+      "words": [
+        {
+          "startSec": 99.6,
+          "endSec": 99.8,
+          "text": "But"
+        },
+        {
+          "startSec": 99.8,
+          "endSec": 100.1,
+          "text": "with"
+        },
+        {
+          "startSec": 100.1,
+          "endSec": 100.3,
+          "text": "all"
+        },
+        {
+          "startSec": 100.3,
+          "endSec": 100.6,
+          "text": "this"
+        },
+        {
+          "startSec": 100.6,
+          "endSec": 100.9,
+          "text": "focus"
+        },
+        {
+          "startSec": 100.9,
+          "endSec": 101.1,
+          "text": "on"
+        },
+        {
+          "startSec": 101.1,
+          "endSec": 101.7,
+          "text": "protein,"
+        },
+        {
+          "startSec": 101.7,
+          "endSec": 101.9,
+          "text": "are"
+        }
+      ]
+    },
+    {
+      "startSec": 101.7,
+      "endSec": 104.5,
+      "text": "are we forgetting about other important nutrients,",
+      "words": [
+        {
+          "startSec": 101.7,
+          "endSec": 101.9,
+          "text": "are"
+        },
+        {
+          "startSec": 101.9,
+          "endSec": 102,
+          "text": "we"
+        },
+        {
+          "startSec": 102,
+          "endSec": 102.7,
+          "text": "forgetting"
+        },
+        {
+          "startSec": 102.7,
+          "endSec": 103,
+          "text": "about"
+        },
+        {
+          "startSec": 103,
+          "endSec": 103.4,
+          "text": "other"
+        },
+        {
+          "startSec": 103.4,
+          "endSec": 103.9,
+          "text": "important"
+        },
+        {
+          "startSec": 103.9,
+          "endSec": 104.5,
+          "text": "nutrients,"
+        },
+        {
+          "startSec": 104.5,
+          "endSec": 104.8,
+          "text": "such"
+        }
+      ]
+    },
+    {
+      "startSec": 104.5,
+      "endSec": 105.4,
+      "text": "such as fiber?",
+      "words": [
+        {
+          "startSec": 104.5,
+          "endSec": 104.8,
+          "text": "such"
+        },
+        {
+          "startSec": 104.8,
+          "endSec": 104.9,
+          "text": "as"
+        },
+        {
+          "startSec": 104.9,
+          "endSec": 105.4,
+          "text": "fiber?"
+        },
+        {
+          "startSec": 105.4,
+          "endSec": 105.7,
+          "text": "That's"
+        }
+      ]
+    },
+    {
+      "startSec": 105.4,
+      "endSec": 107.7,
+      "text": "That's what we'll be discussing in this program,",
+      "words": [
+        {
+          "startSec": 105.4,
+          "endSec": 105.7,
+          "text": "That's"
+        },
+        {
+          "startSec": 105.7,
+          "endSec": 105.9,
+          "text": "what"
+        },
+        {
+          "startSec": 105.9,
+          "endSec": 106.1,
+          "text": "we'll"
+        },
+        {
+          "startSec": 106.1,
+          "endSec": 106.2,
+          "text": "be"
+        },
+        {
+          "startSec": 106.2,
+          "endSec": 106.7,
+          "text": "discussing"
+        },
+        {
+          "startSec": 106.7,
+          "endSec": 106.9,
+          "text": "in"
+        },
+        {
+          "startSec": 106.9,
+          "endSec": 107.2,
+          "text": "this"
+        },
+        {
+          "startSec": 107.2,
+          "endSec": 107.7,
+          "text": "program,"
+        },
+        {
+          "startSec": 107.7,
+          "endSec": 108.2,
+          "text": "hearing"
+        }
+      ]
+    },
+    {
+      "startSec": 107.7,
+      "endSec": 110.2,
+      "text": "hearing some useful new words and phrases.",
+      "words": [
+        {
+          "startSec": 107.7,
+          "endSec": 108.2,
+          "text": "hearing"
+        },
+        {
+          "startSec": 108.2,
+          "endSec": 108.4,
+          "text": "some"
+        },
+        {
+          "startSec": 108.4,
+          "endSec": 108.8,
+          "text": "useful"
+        },
+        {
+          "startSec": 108.8,
+          "endSec": 109,
+          "text": "new"
+        },
+        {
+          "startSec": 109,
+          "endSec": 109.3,
+          "text": "words"
+        },
+        {
+          "startSec": 109.3,
+          "endSec": 109.5,
+          "text": "and"
+        },
+        {
+          "startSec": 109.5,
+          "endSec": 110.2,
+          "text": "phrases."
+        },
+        {
+          "startSec": 110.2,
+          "endSec": 110.3,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 110.2,
+      "endSec": 113.2,
+      "text": "- But first, I have a question for you, Georgie.",
+      "words": [
+        {
+          "startSec": 110.2,
+          "endSec": 110.3,
+          "text": "-"
+        },
+        {
+          "startSec": 110.3,
+          "endSec": 110.5,
+          "text": "But"
+        },
+        {
+          "startSec": 110.5,
+          "endSec": 111,
+          "text": "first,"
+        },
+        {
+          "startSec": 111,
+          "endSec": 111,
+          "text": "I"
+        },
+        {
+          "startSec": 111,
+          "endSec": 111.3,
+          "text": "have"
+        },
+        {
+          "startSec": 111.3,
+          "endSec": 111.4,
+          "text": "a"
+        },
+        {
+          "startSec": 111.4,
+          "endSec": 111.9,
+          "text": "question"
+        },
+        {
+          "startSec": 111.9,
+          "endSec": 112.1,
+          "text": "for"
+        },
+        {
+          "startSec": 112.1,
+          "endSec": 112.4,
+          "text": "you,"
+        },
+        {
+          "startSec": 112.4,
+          "endSec": 113.2,
+          "text": "Georgie."
+        }
+      ]
+    },
+    {
+      "startSec": 113.2,
+      "endSec": 116.4,
+      "text": "The popularity of protein started with bodybuilders",
+      "words": [
+        {
+          "startSec": 113.3,
+          "endSec": 113.4,
+          "text": "The"
+        },
+        {
+          "startSec": 113.4,
+          "endSec": 114.1,
+          "text": "popularity"
+        },
+        {
+          "startSec": 114.1,
+          "endSec": 114.3,
+          "text": "of"
+        },
+        {
+          "startSec": 114.3,
+          "endSec": 114.8,
+          "text": "protein"
+        },
+        {
+          "startSec": 114.8,
+          "endSec": 115.2,
+          "text": "started"
+        },
+        {
+          "startSec": 115.2,
+          "endSec": 115.5,
+          "text": "with"
+        },
+        {
+          "startSec": 115.5,
+          "endSec": 116.4,
+          "text": "bodybuilders"
+        },
+        {
+          "startSec": 116.4,
+          "endSec": 116.6,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 116.4,
+      "endSec": 118.3,
+      "text": "and people working out in gyms",
+      "words": [
+        {
+          "startSec": 116.4,
+          "endSec": 116.6,
+          "text": "and"
+        },
+        {
+          "startSec": 116.6,
+          "endSec": 117.1,
+          "text": "people"
+        },
+        {
+          "startSec": 117.1,
+          "endSec": 117.6,
+          "text": "working"
+        },
+        {
+          "startSec": 117.6,
+          "endSec": 117.8,
+          "text": "out"
+        },
+        {
+          "startSec": 117.8,
+          "endSec": 118,
+          "text": "in"
+        },
+        {
+          "startSec": 118,
+          "endSec": 118.3,
+          "text": "gyms"
+        },
+        {
+          "startSec": 118.3,
+          "endSec": 118.5,
+          "text": "who"
+        }
+      ]
+    },
+    {
+      "startSec": 118.3,
+      "endSec": 121,
+      "text": "who add extra protein to gain muscle.",
+      "words": [
+        {
+          "startSec": 118.3,
+          "endSec": 118.5,
+          "text": "who"
+        },
+        {
+          "startSec": 118.5,
+          "endSec": 118.8,
+          "text": "add"
+        },
+        {
+          "startSec": 118.8,
+          "endSec": 119.2,
+          "text": "extra"
+        },
+        {
+          "startSec": 119.2,
+          "endSec": 119.7,
+          "text": "protein"
+        },
+        {
+          "startSec": 119.7,
+          "endSec": 119.9,
+          "text": "to"
+        },
+        {
+          "startSec": 119.9,
+          "endSec": 120.2,
+          "text": "gain"
+        },
+        {
+          "startSec": 120.2,
+          "endSec": 121,
+          "text": "muscle."
+        },
+        {
+          "startSec": 121,
+          "endSec": 121.6,
+          "text": "Irishman"
+        }
+      ]
+    },
+    {
+      "startSec": 121,
+      "endSec": 123.4,
+      "text": "Irishman Patrick Callahan is a big name",
+      "words": [
+        {
+          "startSec": 121,
+          "endSec": 121.6,
+          "text": "Irishman"
+        },
+        {
+          "startSec": 121.6,
+          "endSec": 122.1,
+          "text": "Patrick"
+        },
+        {
+          "startSec": 122.1,
+          "endSec": 122.6,
+          "text": "Callahan"
+        },
+        {
+          "startSec": 122.6,
+          "endSec": 122.8,
+          "text": "is"
+        },
+        {
+          "startSec": 122.8,
+          "endSec": 122.9,
+          "text": "a"
+        },
+        {
+          "startSec": 122.9,
+          "endSec": 123.1,
+          "text": "big"
+        },
+        {
+          "startSec": 123.1,
+          "endSec": 123.4,
+          "text": "name"
+        },
+        {
+          "startSec": 123.4,
+          "endSec": 123.6,
+          "text": "in"
+        }
+      ]
+    },
+    {
+      "startSec": 123.4,
+      "endSec": 125.4,
+      "text": "in the protein muscle world.",
+      "words": [
+        {
+          "startSec": 123.4,
+          "endSec": 123.6,
+          "text": "in"
+        },
+        {
+          "startSec": 123.6,
+          "endSec": 123.8,
+          "text": "the"
+        },
+        {
+          "startSec": 123.8,
+          "endSec": 124.4,
+          "text": "protein"
+        },
+        {
+          "startSec": 124.4,
+          "endSec": 124.8,
+          "text": "muscle"
+        },
+        {
+          "startSec": 124.8,
+          "endSec": 125.4,
+          "text": "world."
+        },
+        {
+          "startSec": 125.4,
+          "endSec": 125.7,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 125.4,
+      "endSec": 127.4,
+      "text": "But do you know who he is?",
+      "words": [
+        {
+          "startSec": 125.4,
+          "endSec": 125.7,
+          "text": "But"
+        },
+        {
+          "startSec": 125.7,
+          "endSec": 125.9,
+          "text": "do"
+        },
+        {
+          "startSec": 125.9,
+          "endSec": 126.2,
+          "text": "you"
+        },
+        {
+          "startSec": 126.2,
+          "endSec": 126.5,
+          "text": "know"
+        },
+        {
+          "startSec": 126.5,
+          "endSec": 126.8,
+          "text": "who"
+        },
+        {
+          "startSec": 126.8,
+          "endSec": 127,
+          "text": "he"
+        },
+        {
+          "startSec": 127,
+          "endSec": 127.4,
+          "text": "is?"
+        },
+        {
+          "startSec": 127.4,
+          "endSec": 127.6,
+          "text": "Is"
+        }
+      ]
+    },
+    {
+      "startSec": 127.4,
+      "endSec": 131.6,
+      "text": "Is he A, the owner of a company which makes protein shakes?",
+      "words": [
+        {
+          "startSec": 127.4,
+          "endSec": 127.6,
+          "text": "Is"
+        },
+        {
+          "startSec": 127.6,
+          "endSec": 127.8,
+          "text": "he"
+        },
+        {
+          "startSec": 127.8,
+          "endSec": 128.1,
+          "text": "A,"
+        },
+        {
+          "startSec": 128.1,
+          "endSec": 128.3,
+          "text": "the"
+        },
+        {
+          "startSec": 128.3,
+          "endSec": 128.8,
+          "text": "owner"
+        },
+        {
+          "startSec": 128.8,
+          "endSec": 129,
+          "text": "of"
+        },
+        {
+          "startSec": 129,
+          "endSec": 129.1,
+          "text": "a"
+        },
+        {
+          "startSec": 129.1,
+          "endSec": 129.7,
+          "text": "company"
+        },
+        {
+          "startSec": 129.7,
+          "endSec": 130.1,
+          "text": "which"
+        },
+        {
+          "startSec": 130.1,
+          "endSec": 130.4,
+          "text": "makes"
+        },
+        {
+          "startSec": 130.4,
+          "endSec": 130.9,
+          "text": "protein"
+        },
+        {
+          "startSec": 130.9,
+          "endSec": 131.6,
+          "text": "shakes?"
+        },
+        {
+          "startSec": 131.6,
+          "endSec": 131.8,
+          "text": "B,"
+        }
+      ]
+    },
+    {
+      "startSec": 131.6,
+      "endSec": 136.6,
+      "text": "B, the winner of the 2024 Mr. Universe bodybuilding contest?",
+      "words": [
+        {
+          "startSec": 131.6,
+          "endSec": 131.8,
+          "text": "B,"
+        },
+        {
+          "startSec": 131.8,
+          "endSec": 132.1,
+          "text": "the"
+        },
+        {
+          "startSec": 132.1,
+          "endSec": 132.5,
+          "text": "winner"
+        },
+        {
+          "startSec": 132.5,
+          "endSec": 132.7,
+          "text": "of"
+        },
+        {
+          "startSec": 132.7,
+          "endSec": 132.9,
+          "text": "the"
+        },
+        {
+          "startSec": 132.9,
+          "endSec": 133.9,
+          "text": "2024"
+        },
+        {
+          "startSec": 133.9,
+          "endSec": 134.2,
+          "text": "Mr."
+        },
+        {
+          "startSec": 134.2,
+          "endSec": 134.8,
+          "text": "Universe"
+        },
+        {
+          "startSec": 134.8,
+          "endSec": 135.9,
+          "text": "bodybuilding"
+        },
+        {
+          "startSec": 135.9,
+          "endSec": 136.6,
+          "text": "contest?"
+        },
+        {
+          "startSec": 136.6,
+          "endSec": 136.8,
+          "text": "Or"
+        }
+      ]
+    },
+    {
+      "startSec": 136.6,
+      "endSec": 139.8,
+      "text": "Or C, the scientist who discovered a new protein",
+      "words": [
+        {
+          "startSec": 136.6,
+          "endSec": 136.8,
+          "text": "Or"
+        },
+        {
+          "startSec": 136.8,
+          "endSec": 137.1,
+          "text": "C,"
+        },
+        {
+          "startSec": 137.1,
+          "endSec": 137.3,
+          "text": "the"
+        },
+        {
+          "startSec": 137.3,
+          "endSec": 138.2,
+          "text": "scientist"
+        },
+        {
+          "startSec": 138.2,
+          "endSec": 138.3,
+          "text": "who"
+        },
+        {
+          "startSec": 138.3,
+          "endSec": 138.8,
+          "text": "discovered"
+        },
+        {
+          "startSec": 138.8,
+          "endSec": 138.9,
+          "text": "a"
+        },
+        {
+          "startSec": 138.9,
+          "endSec": 139.2,
+          "text": "new"
+        },
+        {
+          "startSec": 139.2,
+          "endSec": 139.8,
+          "text": "protein"
+        },
+        {
+          "startSec": 139.8,
+          "endSec": 139.9,
+          "text": "in"
+        }
+      ]
+    },
+    {
+      "startSec": 139.8,
+      "endSec": 141,
+      "text": "in outer space?",
+      "words": [
+        {
+          "startSec": 139.8,
+          "endSec": 139.9,
+          "text": "in"
+        },
+        {
+          "startSec": 139.9,
+          "endSec": 140.3,
+          "text": "outer"
+        },
+        {
+          "startSec": 140.3,
+          "endSec": 141,
+          "text": "space?"
+        },
+        {
+          "startSec": 141,
+          "endSec": 141.3,
+          "text": "Ooh,"
+        }
+      ]
+    },
+    {
+      "startSec": 141,
+      "endSec": 144.3,
+      "text": "Ooh, I'm going to say Patrick Callahan is the winner",
+      "words": [
+        {
+          "startSec": 141,
+          "endSec": 141.3,
+          "text": "Ooh,"
+        },
+        {
+          "startSec": 141.3,
+          "endSec": 141.5,
+          "text": "I'm"
+        },
+        {
+          "startSec": 141.5,
+          "endSec": 141.9,
+          "text": "going"
+        },
+        {
+          "startSec": 141.9,
+          "endSec": 142,
+          "text": "to"
+        },
+        {
+          "startSec": 142,
+          "endSec": 142.2,
+          "text": "say"
+        },
+        {
+          "startSec": 142.2,
+          "endSec": 142.7,
+          "text": "Patrick"
+        },
+        {
+          "startSec": 142.7,
+          "endSec": 143.4,
+          "text": "Callahan"
+        },
+        {
+          "startSec": 143.4,
+          "endSec": 143.8,
+          "text": "is"
+        },
+        {
+          "startSec": 143.8,
+          "endSec": 143.9,
+          "text": "the"
+        },
+        {
+          "startSec": 143.9,
+          "endSec": 144.3,
+          "text": "winner"
+        },
+        {
+          "startSec": 144.3,
+          "endSec": 144.5,
+          "text": "of"
+        }
+      ]
+    },
+    {
+      "startSec": 144.3,
+      "endSec": 148.9,
+      "text": "of the 2024 Mr. Universe bodybuilding contest.",
+      "words": [
+        {
+          "startSec": 144.3,
+          "endSec": 144.5,
+          "text": "of"
+        },
+        {
+          "startSec": 144.5,
+          "endSec": 144.7,
+          "text": "the"
+        },
+        {
+          "startSec": 144.7,
+          "endSec": 145.6,
+          "text": "2024"
+        },
+        {
+          "startSec": 145.6,
+          "endSec": 146.1,
+          "text": "Mr."
+        },
+        {
+          "startSec": 146.1,
+          "endSec": 146.8,
+          "text": "Universe"
+        },
+        {
+          "startSec": 146.8,
+          "endSec": 148,
+          "text": "bodybuilding"
+        },
+        {
+          "startSec": 148,
+          "endSec": 148.9,
+          "text": "contest."
+        },
+        {
+          "startSec": 148.9,
+          "endSec": 149,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 148.9,
+      "endSec": 152,
+      "text": "- Okay, we'll find out if you're right at the end.",
+      "words": [
+        {
+          "startSec": 148.9,
+          "endSec": 149,
+          "text": "-"
+        },
+        {
+          "startSec": 149,
+          "endSec": 149.3,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 149.3,
+          "endSec": 149.5,
+          "text": "we'll"
+        },
+        {
+          "startSec": 149.5,
+          "endSec": 149.7,
+          "text": "find"
+        },
+        {
+          "startSec": 149.7,
+          "endSec": 149.9,
+          "text": "out"
+        },
+        {
+          "startSec": 149.9,
+          "endSec": 150.1,
+          "text": "if"
+        },
+        {
+          "startSec": 150.1,
+          "endSec": 150.6,
+          "text": "you're"
+        },
+        {
+          "startSec": 150.6,
+          "endSec": 151.1,
+          "text": "right"
+        },
+        {
+          "startSec": 151.1,
+          "endSec": 151.2,
+          "text": "at"
+        },
+        {
+          "startSec": 151.2,
+          "endSec": 151.5,
+          "text": "the"
+        },
+        {
+          "startSec": 151.5,
+          "endSec": 152,
+          "text": "end."
+        },
+        {
+          "startSec": 152,
+          "endSec": 152.6,
+          "text": "Marketing"
+        }
+      ]
+    },
+    {
+      "startSec": 152,
+      "endSec": 154.2,
+      "text": "Marketing campaigns that promote sales",
+      "words": [
+        {
+          "startSec": 152,
+          "endSec": 152.6,
+          "text": "Marketing"
+        },
+        {
+          "startSec": 152.6,
+          "endSec": 153.2,
+          "text": "campaigns"
+        },
+        {
+          "startSec": 153.2,
+          "endSec": 153.4,
+          "text": "that"
+        },
+        {
+          "startSec": 153.4,
+          "endSec": 153.8,
+          "text": "promote"
+        },
+        {
+          "startSec": 153.8,
+          "endSec": 154.2,
+          "text": "sales"
+        },
+        {
+          "startSec": 154.2,
+          "endSec": 154.4,
+          "text": "of"
+        }
+      ]
+    },
+    {
+      "startSec": 154.2,
+      "endSec": 157.1,
+      "text": "of high protein food are certainly working.",
+      "words": [
+        {
+          "startSec": 154.2,
+          "endSec": 154.4,
+          "text": "of"
+        },
+        {
+          "startSec": 154.4,
+          "endSec": 154.7,
+          "text": "high"
+        },
+        {
+          "startSec": 154.7,
+          "endSec": 155.2,
+          "text": "protein"
+        },
+        {
+          "startSec": 155.2,
+          "endSec": 155.5,
+          "text": "food"
+        },
+        {
+          "startSec": 155.5,
+          "endSec": 155.7,
+          "text": "are"
+        },
+        {
+          "startSec": 155.7,
+          "endSec": 156.3,
+          "text": "certainly"
+        },
+        {
+          "startSec": 156.3,
+          "endSec": 157.1,
+          "text": "working."
+        },
+        {
+          "startSec": 157.1,
+          "endSec": 157.4,
+          "text": "Sales"
+        }
+      ]
+    },
+    {
+      "startSec": 157.1,
+      "endSec": 159.2,
+      "text": "Sales of protein products make around",
+      "words": [
+        {
+          "startSec": 157.1,
+          "endSec": 157.4,
+          "text": "Sales"
+        },
+        {
+          "startSec": 157.4,
+          "endSec": 157.6,
+          "text": "of"
+        },
+        {
+          "startSec": 157.6,
+          "endSec": 158.1,
+          "text": "protein"
+        },
+        {
+          "startSec": 158.1,
+          "endSec": 158.6,
+          "text": "products"
+        },
+        {
+          "startSec": 158.6,
+          "endSec": 158.9,
+          "text": "make"
+        },
+        {
+          "startSec": 158.9,
+          "endSec": 159.2,
+          "text": "around"
+        },
+        {
+          "startSec": 159.2,
+          "endSec": 159.5,
+          "text": "7"
+        }
+      ]
+    },
+    {
+      "startSec": 159.2,
+      "endSec": 162,
+      "text": "7 billion pounds globally.",
+      "words": [
+        {
+          "startSec": 159.2,
+          "endSec": 159.5,
+          "text": "7"
+        },
+        {
+          "startSec": 159.5,
+          "endSec": 160.3,
+          "text": "billion"
+        },
+        {
+          "startSec": 160.3,
+          "endSec": 160.9,
+          "text": "pounds"
+        },
+        {
+          "startSec": 160.9,
+          "endSec": 162,
+          "text": "globally."
+        },
+        {
+          "startSec": 162,
+          "endSec": 162.5,
+          "text": "Here's"
+        }
+      ]
+    },
+    {
+      "startSec": 162,
+      "endSec": 164.4,
+      "text": "Here's Scott Dicker from Spins,",
+      "words": [
+        {
+          "startSec": 162,
+          "endSec": 162.5,
+          "text": "Here's"
+        },
+        {
+          "startSec": 162.5,
+          "endSec": 163,
+          "text": "Scott"
+        },
+        {
+          "startSec": 163,
+          "endSec": 163.5,
+          "text": "Dicker"
+        },
+        {
+          "startSec": 163.5,
+          "endSec": 163.9,
+          "text": "from"
+        },
+        {
+          "startSec": 163.9,
+          "endSec": 164.4,
+          "text": "Spins,"
+        },
+        {
+          "startSec": 164.4,
+          "endSec": 164.5,
+          "text": "a"
+        }
+      ]
+    },
+    {
+      "startSec": 164.4,
+      "endSec": 166.8,
+      "text": "a market research company in Chicago,",
+      "words": [
+        {
+          "startSec": 164.4,
+          "endSec": 164.5,
+          "text": "a"
+        },
+        {
+          "startSec": 164.5,
+          "endSec": 164.9,
+          "text": "market"
+        },
+        {
+          "startSec": 164.9,
+          "endSec": 165.5,
+          "text": "research"
+        },
+        {
+          "startSec": 165.5,
+          "endSec": 166.1,
+          "text": "company"
+        },
+        {
+          "startSec": 166.1,
+          "endSec": 166.2,
+          "text": "in"
+        },
+        {
+          "startSec": 166.2,
+          "endSec": 166.8,
+          "text": "Chicago,"
+        },
+        {
+          "startSec": 166.8,
+          "endSec": 167.4,
+          "text": "talking"
+        }
+      ]
+    },
+    {
+      "startSec": 166.8,
+      "endSec": 170,
+      "text": "talking with BBC program The Food Chain.",
+      "words": [
+        {
+          "startSec": 166.8,
+          "endSec": 167.4,
+          "text": "talking"
+        },
+        {
+          "startSec": 167.4,
+          "endSec": 167.8,
+          "text": "with"
+        },
+        {
+          "startSec": 167.8,
+          "endSec": 168.1,
+          "text": "BBC"
+        },
+        {
+          "startSec": 168.1,
+          "endSec": 168.7,
+          "text": "program"
+        },
+        {
+          "startSec": 168.7,
+          "endSec": 168.9,
+          "text": "The"
+        },
+        {
+          "startSec": 168.9,
+          "endSec": 169.3,
+          "text": "Food"
+        },
+        {
+          "startSec": 169.3,
+          "endSec": 170,
+          "text": "Chain."
+        }
+      ]
+    },
+    {
+      "startSec": 170,
+      "endSec": 172.2,
+      "text": "- So sometimes carbs are good,",
+      "words": [
+        {
+          "startSec": 170.1,
+          "endSec": 170.1,
+          "text": "-"
+        },
+        {
+          "startSec": 170.1,
+          "endSec": 170.3,
+          "text": "So"
+        },
+        {
+          "startSec": 170.3,
+          "endSec": 171.1,
+          "text": "sometimes"
+        },
+        {
+          "startSec": 171.1,
+          "endSec": 171.5,
+          "text": "carbs"
+        },
+        {
+          "startSec": 171.5,
+          "endSec": 171.8,
+          "text": "are"
+        },
+        {
+          "startSec": 171.8,
+          "endSec": 172.2,
+          "text": "good,"
+        },
+        {
+          "startSec": 172.2,
+          "endSec": 172.6,
+          "text": "sometimes"
+        }
+      ]
+    },
+    {
+      "startSec": 172.2,
+      "endSec": 173.9,
+      "text": "sometimes they're bad for consumers,",
+      "words": [
+        {
+          "startSec": 172.2,
+          "endSec": 172.6,
+          "text": "sometimes"
+        },
+        {
+          "startSec": 172.6,
+          "endSec": 173,
+          "text": "they're"
+        },
+        {
+          "startSec": 173,
+          "endSec": 173.2,
+          "text": "bad"
+        },
+        {
+          "startSec": 173.2,
+          "endSec": 173.3,
+          "text": "for"
+        },
+        {
+          "startSec": 173.3,
+          "endSec": 173.9,
+          "text": "consumers,"
+        },
+        {
+          "startSec": 173.9,
+          "endSec": 174.5,
+          "text": "sometimes"
+        }
+      ]
+    },
+    {
+      "startSec": 173.9,
+      "endSec": 175.1,
+      "text": "sometimes fat is good,",
+      "words": [
+        {
+          "startSec": 173.9,
+          "endSec": 174.5,
+          "text": "sometimes"
+        },
+        {
+          "startSec": 174.5,
+          "endSec": 174.6,
+          "text": "fat"
+        },
+        {
+          "startSec": 174.6,
+          "endSec": 174.8,
+          "text": "is"
+        },
+        {
+          "startSec": 174.8,
+          "endSec": 175.1,
+          "text": "good,"
+        },
+        {
+          "startSec": 175.1,
+          "endSec": 175.7,
+          "text": "sometimes"
+        }
+      ]
+    },
+    {
+      "startSec": 175.1,
+      "endSec": 177,
+      "text": "sometimes it's bad for consumers.",
+      "words": [
+        {
+          "startSec": 175.1,
+          "endSec": 175.7,
+          "text": "sometimes"
+        },
+        {
+          "startSec": 175.7,
+          "endSec": 176,
+          "text": "it's"
+        },
+        {
+          "startSec": 176,
+          "endSec": 176.2,
+          "text": "bad"
+        },
+        {
+          "startSec": 176.2,
+          "endSec": 176.4,
+          "text": "for"
+        },
+        {
+          "startSec": 176.4,
+          "endSec": 177,
+          "text": "consumers."
+        },
+        {
+          "startSec": 177,
+          "endSec": 177.3,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 177,
+      "endSec": 181,
+      "text": "But protein seems to have this continuous health halo on it.",
+      "words": [
+        {
+          "startSec": 177,
+          "endSec": 177.3,
+          "text": "But"
+        },
+        {
+          "startSec": 177.3,
+          "endSec": 177.9,
+          "text": "protein"
+        },
+        {
+          "startSec": 177.9,
+          "endSec": 178.3,
+          "text": "seems"
+        },
+        {
+          "startSec": 178.3,
+          "endSec": 178.5,
+          "text": "to"
+        },
+        {
+          "startSec": 178.5,
+          "endSec": 178.8,
+          "text": "have"
+        },
+        {
+          "startSec": 178.8,
+          "endSec": 179,
+          "text": "this"
+        },
+        {
+          "startSec": 179,
+          "endSec": 179.5,
+          "text": "continuous"
+        },
+        {
+          "startSec": 179.5,
+          "endSec": 180,
+          "text": "health"
+        },
+        {
+          "startSec": 180,
+          "endSec": 180.4,
+          "text": "halo"
+        },
+        {
+          "startSec": 180.4,
+          "endSec": 180.6,
+          "text": "on"
+        },
+        {
+          "startSec": 180.6,
+          "endSec": 181,
+          "text": "it."
+        },
+        {
+          "startSec": 181,
+          "endSec": 181.1,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 181,
+      "endSec": 184.2,
+      "text": "- Unlike carbs, that's carbohydrates and fat,",
+      "words": [
+        {
+          "startSec": 181,
+          "endSec": 181.1,
+          "text": "-"
+        },
+        {
+          "startSec": 181.1,
+          "endSec": 181.5,
+          "text": "Unlike"
+        },
+        {
+          "startSec": 181.5,
+          "endSec": 182,
+          "text": "carbs,"
+        },
+        {
+          "startSec": 182,
+          "endSec": 182.4,
+          "text": "that's"
+        },
+        {
+          "startSec": 182.4,
+          "endSec": 183.3,
+          "text": "carbohydrates"
+        },
+        {
+          "startSec": 183.3,
+          "endSec": 183.7,
+          "text": "and"
+        },
+        {
+          "startSec": 183.7,
+          "endSec": 184.2,
+          "text": "fat,"
+        },
+        {
+          "startSec": 184.2,
+          "endSec": 184.9,
+          "text": "consumers"
+        }
+      ]
+    },
+    {
+      "startSec": 184.2,
+      "endSec": 187.7,
+      "text": "consumers don't see any downside to eating protein.",
+      "words": [
+        {
+          "startSec": 184.2,
+          "endSec": 184.9,
+          "text": "consumers"
+        },
+        {
+          "startSec": 184.9,
+          "endSec": 185.3,
+          "text": "don't"
+        },
+        {
+          "startSec": 185.3,
+          "endSec": 185.5,
+          "text": "see"
+        },
+        {
+          "startSec": 185.5,
+          "endSec": 185.7,
+          "text": "any"
+        },
+        {
+          "startSec": 185.7,
+          "endSec": 186.3,
+          "text": "downside"
+        },
+        {
+          "startSec": 186.3,
+          "endSec": 186.5,
+          "text": "to"
+        },
+        {
+          "startSec": 186.5,
+          "endSec": 186.9,
+          "text": "eating"
+        },
+        {
+          "startSec": 186.9,
+          "endSec": 187.7,
+          "text": "protein."
+        },
+        {
+          "startSec": 187.7,
+          "endSec": 188.2,
+          "text": "Scott"
+        }
+      ]
+    },
+    {
+      "startSec": 187.7,
+      "endSec": 190.6,
+      "text": "Scott says protein has a health halo,",
+      "words": [
+        {
+          "startSec": 187.7,
+          "endSec": 188.2,
+          "text": "Scott"
+        },
+        {
+          "startSec": 188.2,
+          "endSec": 188.6,
+          "text": "says"
+        },
+        {
+          "startSec": 188.6,
+          "endSec": 189.2,
+          "text": "protein"
+        },
+        {
+          "startSec": 189.2,
+          "endSec": 189.5,
+          "text": "has"
+        },
+        {
+          "startSec": 189.5,
+          "endSec": 189.6,
+          "text": "a"
+        },
+        {
+          "startSec": 189.6,
+          "endSec": 190.2,
+          "text": "health"
+        },
+        {
+          "startSec": 190.2,
+          "endSec": 190.6,
+          "text": "halo,"
+        },
+        {
+          "startSec": 190.6,
+          "endSec": 190.7,
+          "text": "a"
+        }
+      ]
+    },
+    {
+      "startSec": 190.6,
+      "endSec": 193.3,
+      "text": "a marketing term which describes perceiving of food",
+      "words": [
+        {
+          "startSec": 190.6,
+          "endSec": 190.7,
+          "text": "a"
+        },
+        {
+          "startSec": 190.7,
+          "endSec": 191.2,
+          "text": "marketing"
+        },
+        {
+          "startSec": 191.2,
+          "endSec": 191.5,
+          "text": "term"
+        },
+        {
+          "startSec": 191.5,
+          "endSec": 191.7,
+          "text": "which"
+        },
+        {
+          "startSec": 191.7,
+          "endSec": 192.2,
+          "text": "describes"
+        },
+        {
+          "startSec": 192.2,
+          "endSec": 192.7,
+          "text": "perceiving"
+        },
+        {
+          "startSec": 192.7,
+          "endSec": 192.9,
+          "text": "of"
+        },
+        {
+          "startSec": 192.9,
+          "endSec": 193.3,
+          "text": "food"
+        },
+        {
+          "startSec": 193.3,
+          "endSec": 193.5,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 193.3,
+      "endSec": 196.1,
+      "text": "to be healthy based on a single feature,",
+      "words": [
+        {
+          "startSec": 193.3,
+          "endSec": 193.5,
+          "text": "to"
+        },
+        {
+          "startSec": 193.5,
+          "endSec": 193.6,
+          "text": "be"
+        },
+        {
+          "startSec": 193.6,
+          "endSec": 194.2,
+          "text": "healthy"
+        },
+        {
+          "startSec": 194.2,
+          "endSec": 194.7,
+          "text": "based"
+        },
+        {
+          "startSec": 194.7,
+          "endSec": 194.8,
+          "text": "on"
+        },
+        {
+          "startSec": 194.8,
+          "endSec": 194.9,
+          "text": "a"
+        },
+        {
+          "startSec": 194.9,
+          "endSec": 195.4,
+          "text": "single"
+        },
+        {
+          "startSec": 195.4,
+          "endSec": 196.1,
+          "text": "feature,"
+        }
+      ]
+    },
+    {
+      "startSec": 196.1,
+      "endSec": 200.4,
+      "text": "such as being organic, gluten-free, or in this case, high protein,",
+      "words": [
+        {
+          "startSec": 196.2,
+          "endSec": 196.4,
+          "text": "such"
+        },
+        {
+          "startSec": 196.4,
+          "endSec": 196.5,
+          "text": "as"
+        },
+        {
+          "startSec": 196.5,
+          "endSec": 196.9,
+          "text": "being"
+        },
+        {
+          "startSec": 196.9,
+          "endSec": 197.6,
+          "text": "organic,"
+        },
+        {
+          "startSec": 197.6,
+          "endSec": 198.5,
+          "text": "gluten-free,"
+        },
+        {
+          "startSec": 198.5,
+          "endSec": 198.7,
+          "text": "or"
+        },
+        {
+          "startSec": 198.7,
+          "endSec": 198.8,
+          "text": "in"
+        },
+        {
+          "startSec": 198.8,
+          "endSec": 199.1,
+          "text": "this"
+        },
+        {
+          "startSec": 199.1,
+          "endSec": 199.6,
+          "text": "case,"
+        },
+        {
+          "startSec": 199.6,
+          "endSec": 199.9,
+          "text": "high"
+        },
+        {
+          "startSec": 199.9,
+          "endSec": 200.4,
+          "text": "protein,"
+        },
+        {
+          "startSec": 200.4,
+          "endSec": 200.8,
+          "text": "even"
+        }
+      ]
+    },
+    {
+      "startSec": 200.4,
+      "endSec": 203.8,
+      "text": "even if it's overall nutritional value is poor.",
+      "words": [
+        {
+          "startSec": 200.4,
+          "endSec": 200.8,
+          "text": "even"
+        },
+        {
+          "startSec": 200.8,
+          "endSec": 200.9,
+          "text": "if"
+        },
+        {
+          "startSec": 200.9,
+          "endSec": 201.2,
+          "text": "it's"
+        },
+        {
+          "startSec": 201.2,
+          "endSec": 201.8,
+          "text": "overall"
+        },
+        {
+          "startSec": 201.8,
+          "endSec": 202.7,
+          "text": "nutritional"
+        },
+        {
+          "startSec": 202.7,
+          "endSec": 203.1,
+          "text": "value"
+        },
+        {
+          "startSec": 203.1,
+          "endSec": 203.2,
+          "text": "is"
+        },
+        {
+          "startSec": 203.2,
+          "endSec": 203.8,
+          "text": "poor."
+        },
+        {
+          "startSec": 203.8,
+          "endSec": 203.9,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 203.8,
+      "endSec": 207,
+      "text": "- Yes, food which used to be considered unhealthy",
+      "words": [
+        {
+          "startSec": 203.8,
+          "endSec": 203.9,
+          "text": "-"
+        },
+        {
+          "startSec": 203.9,
+          "endSec": 204.3,
+          "text": "Yes,"
+        },
+        {
+          "startSec": 204.3,
+          "endSec": 204.6,
+          "text": "food"
+        },
+        {
+          "startSec": 204.6,
+          "endSec": 205,
+          "text": "which"
+        },
+        {
+          "startSec": 205,
+          "endSec": 205.3,
+          "text": "used"
+        },
+        {
+          "startSec": 205.3,
+          "endSec": 205.4,
+          "text": "to"
+        },
+        {
+          "startSec": 205.4,
+          "endSec": 205.6,
+          "text": "be"
+        },
+        {
+          "startSec": 205.6,
+          "endSec": 206.3,
+          "text": "considered"
+        },
+        {
+          "startSec": 206.3,
+          "endSec": 207,
+          "text": "unhealthy"
+        },
+        {
+          "startSec": 207,
+          "endSec": 207.2,
+          "text": "is"
+        }
+      ]
+    },
+    {
+      "startSec": 207,
+      "endSec": 208.5,
+      "text": "is now called healthy,",
+      "words": [
+        {
+          "startSec": 207,
+          "endSec": 207.2,
+          "text": "is"
+        },
+        {
+          "startSec": 207.2,
+          "endSec": 207.4,
+          "text": "now"
+        },
+        {
+          "startSec": 207.4,
+          "endSec": 207.9,
+          "text": "called"
+        },
+        {
+          "startSec": 207.9,
+          "endSec": 208.5,
+          "text": "healthy,"
+        },
+        {
+          "startSec": 208.5,
+          "endSec": 208.8,
+          "text": "just"
+        }
+      ]
+    },
+    {
+      "startSec": 208.5,
+      "endSec": 211.9,
+      "text": "just because a spoonful of protein powder has been added.",
+      "words": [
+        {
+          "startSec": 208.5,
+          "endSec": 208.8,
+          "text": "just"
+        },
+        {
+          "startSec": 208.8,
+          "endSec": 209.3,
+          "text": "because"
+        },
+        {
+          "startSec": 209.3,
+          "endSec": 209.3,
+          "text": "a"
+        },
+        {
+          "startSec": 209.3,
+          "endSec": 209.8,
+          "text": "spoonful"
+        },
+        {
+          "startSec": 209.8,
+          "endSec": 210,
+          "text": "of"
+        },
+        {
+          "startSec": 210,
+          "endSec": 210.4,
+          "text": "protein"
+        },
+        {
+          "startSec": 210.4,
+          "endSec": 210.8,
+          "text": "powder"
+        },
+        {
+          "startSec": 210.8,
+          "endSec": 211,
+          "text": "has"
+        },
+        {
+          "startSec": 211,
+          "endSec": 211.3,
+          "text": "been"
+        },
+        {
+          "startSec": 211.3,
+          "endSec": 211.9,
+          "text": "added."
+        },
+        {
+          "startSec": 211.9,
+          "endSec": 212,
+          "text": "So"
+        }
+      ]
+    },
+    {
+      "startSec": 211.9,
+      "endSec": 214.7,
+      "text": "So could our modern obsession with protein",
+      "words": [
+        {
+          "startSec": 211.9,
+          "endSec": 212,
+          "text": "So"
+        },
+        {
+          "startSec": 212,
+          "endSec": 212.4,
+          "text": "could"
+        },
+        {
+          "startSec": 212.4,
+          "endSec": 212.6,
+          "text": "our"
+        },
+        {
+          "startSec": 212.6,
+          "endSec": 213,
+          "text": "modern"
+        },
+        {
+          "startSec": 213,
+          "endSec": 213.7,
+          "text": "obsession"
+        },
+        {
+          "startSec": 213.7,
+          "endSec": 214.1,
+          "text": "with"
+        },
+        {
+          "startSec": 214.1,
+          "endSec": 214.7,
+          "text": "protein"
+        },
+        {
+          "startSec": 214.7,
+          "endSec": 215.1,
+          "text": "mean"
+        }
+      ]
+    },
+    {
+      "startSec": 214.7,
+      "endSec": 218.6,
+      "text": "mean that we ignore other important food groups like fiber?",
+      "words": [
+        {
+          "startSec": 214.7,
+          "endSec": 215.1,
+          "text": "mean"
+        },
+        {
+          "startSec": 215.1,
+          "endSec": 215.4,
+          "text": "that"
+        },
+        {
+          "startSec": 215.4,
+          "endSec": 215.5,
+          "text": "we"
+        },
+        {
+          "startSec": 215.5,
+          "endSec": 216,
+          "text": "ignore"
+        },
+        {
+          "startSec": 216,
+          "endSec": 216.3,
+          "text": "other"
+        },
+        {
+          "startSec": 216.3,
+          "endSec": 216.9,
+          "text": "important"
+        },
+        {
+          "startSec": 216.9,
+          "endSec": 217.1,
+          "text": "food"
+        },
+        {
+          "startSec": 217.1,
+          "endSec": 217.6,
+          "text": "groups"
+        },
+        {
+          "startSec": 217.6,
+          "endSec": 217.9,
+          "text": "like"
+        },
+        {
+          "startSec": 217.9,
+          "endSec": 218.6,
+          "text": "fiber?"
+        },
+        {
+          "startSec": 218.6,
+          "endSec": 218.9,
+          "text": "NHS"
+        }
+      ]
+    },
+    {
+      "startSec": 218.6,
+      "endSec": 222.3,
+      "text": "NHS surgeon and blogger Dr. Karen Rajan thinks so",
+      "words": [
+        {
+          "startSec": 218.6,
+          "endSec": 218.9,
+          "text": "NHS"
+        },
+        {
+          "startSec": 218.9,
+          "endSec": 219.4,
+          "text": "surgeon"
+        },
+        {
+          "startSec": 219.4,
+          "endSec": 219.7,
+          "text": "and"
+        },
+        {
+          "startSec": 219.7,
+          "endSec": 220.2,
+          "text": "blogger"
+        },
+        {
+          "startSec": 220.2,
+          "endSec": 220.6,
+          "text": "Dr."
+        },
+        {
+          "startSec": 220.6,
+          "endSec": 221,
+          "text": "Karen"
+        },
+        {
+          "startSec": 221,
+          "endSec": 221.5,
+          "text": "Rajan"
+        },
+        {
+          "startSec": 221.5,
+          "endSec": 222.1,
+          "text": "thinks"
+        },
+        {
+          "startSec": 222.1,
+          "endSec": 222.3,
+          "text": "so"
+        },
+        {
+          "startSec": 222.3,
+          "endSec": 222.6,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 222.3,
+      "endSec": 225.3,
+      "text": "and explains why here to Ruth Alexander,",
+      "words": [
+        {
+          "startSec": 222.3,
+          "endSec": 222.6,
+          "text": "and"
+        },
+        {
+          "startSec": 222.6,
+          "endSec": 223.3,
+          "text": "explains"
+        },
+        {
+          "startSec": 223.3,
+          "endSec": 223.5,
+          "text": "why"
+        },
+        {
+          "startSec": 223.5,
+          "endSec": 223.9,
+          "text": "here"
+        },
+        {
+          "startSec": 223.9,
+          "endSec": 224.1,
+          "text": "to"
+        },
+        {
+          "startSec": 224.1,
+          "endSec": 224.4,
+          "text": "Ruth"
+        },
+        {
+          "startSec": 224.4,
+          "endSec": 225.3,
+          "text": "Alexander,"
+        },
+        {
+          "startSec": 225.3,
+          "endSec": 225.4,
+          "text": "on"
+        }
+      ]
+    },
+    {
+      "startSec": 225.3,
+      "endSec": 228.5,
+      "text": "on BBC World Service Program, the Food Chain.",
+      "words": [
+        {
+          "startSec": 225.3,
+          "endSec": 225.4,
+          "text": "on"
+        },
+        {
+          "startSec": 225.4,
+          "endSec": 225.6,
+          "text": "BBC"
+        },
+        {
+          "startSec": 225.6,
+          "endSec": 226,
+          "text": "World"
+        },
+        {
+          "startSec": 226,
+          "endSec": 226.5,
+          "text": "Service"
+        },
+        {
+          "startSec": 226.5,
+          "endSec": 227.2,
+          "text": "Program,"
+        },
+        {
+          "startSec": 227.2,
+          "endSec": 227.5,
+          "text": "the"
+        },
+        {
+          "startSec": 227.5,
+          "endSec": 227.8,
+          "text": "Food"
+        },
+        {
+          "startSec": 227.8,
+          "endSec": 228.5,
+          "text": "Chain."
+        },
+        {
+          "startSec": 228.5,
+          "endSec": 228.6,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 228.5,
+      "endSec": 231.7,
+      "text": "- And do you think we're paying enough attention to fiber?",
+      "words": [
+        {
+          "startSec": 228.5,
+          "endSec": 228.6,
+          "text": "-"
+        },
+        {
+          "startSec": 228.6,
+          "endSec": 228.7,
+          "text": "And"
+        },
+        {
+          "startSec": 228.7,
+          "endSec": 228.8,
+          "text": "do"
+        },
+        {
+          "startSec": 228.8,
+          "endSec": 229,
+          "text": "you"
+        },
+        {
+          "startSec": 229,
+          "endSec": 229.3,
+          "text": "think"
+        },
+        {
+          "startSec": 229.3,
+          "endSec": 229.5,
+          "text": "we're"
+        },
+        {
+          "startSec": 229.5,
+          "endSec": 229.9,
+          "text": "paying"
+        },
+        {
+          "startSec": 229.9,
+          "endSec": 230.4,
+          "text": "enough"
+        },
+        {
+          "startSec": 230.4,
+          "endSec": 230.9,
+          "text": "attention"
+        },
+        {
+          "startSec": 230.9,
+          "endSec": 231.1,
+          "text": "to"
+        },
+        {
+          "startSec": 231.1,
+          "endSec": 231.7,
+          "text": "fiber?"
+        },
+        {
+          "startSec": 231.7,
+          "endSec": 231.8,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 231.7,
+      "endSec": 233.2,
+      "text": "- Historically, probably not.",
+      "words": [
+        {
+          "startSec": 231.7,
+          "endSec": 231.8,
+          "text": "-"
+        },
+        {
+          "startSec": 231.8,
+          "endSec": 232.5,
+          "text": "Historically,"
+        },
+        {
+          "startSec": 232.5,
+          "endSec": 232.9,
+          "text": "probably"
+        },
+        {
+          "startSec": 232.9,
+          "endSec": 233.2,
+          "text": "not."
+        },
+        {
+          "startSec": 233.2,
+          "endSec": 233.3,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 233.2,
+      "endSec": 234.7,
+      "text": "I think the tide is turning",
+      "words": [
+        {
+          "startSec": 233.2,
+          "endSec": 233.3,
+          "text": "I"
+        },
+        {
+          "startSec": 233.3,
+          "endSec": 233.6,
+          "text": "think"
+        },
+        {
+          "startSec": 233.6,
+          "endSec": 233.8,
+          "text": "the"
+        },
+        {
+          "startSec": 233.8,
+          "endSec": 234.1,
+          "text": "tide"
+        },
+        {
+          "startSec": 234.1,
+          "endSec": 234.2,
+          "text": "is"
+        },
+        {
+          "startSec": 234.2,
+          "endSec": 234.7,
+          "text": "turning"
+        },
+        {
+          "startSec": 234.7,
+          "endSec": 234.8,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 234.7,
+      "endSec": 236.9,
+      "text": "and there's more people interested in fiber",
+      "words": [
+        {
+          "startSec": 234.7,
+          "endSec": 234.8,
+          "text": "and"
+        },
+        {
+          "startSec": 234.8,
+          "endSec": 235.2,
+          "text": "there's"
+        },
+        {
+          "startSec": 235.2,
+          "endSec": 235.4,
+          "text": "more"
+        },
+        {
+          "startSec": 235.4,
+          "endSec": 235.7,
+          "text": "people"
+        },
+        {
+          "startSec": 235.7,
+          "endSec": 236.3,
+          "text": "interested"
+        },
+        {
+          "startSec": 236.3,
+          "endSec": 236.5,
+          "text": "in"
+        },
+        {
+          "startSec": 236.5,
+          "endSec": 236.9,
+          "text": "fiber"
+        },
+        {
+          "startSec": 236.9,
+          "endSec": 237.1,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 236.9,
+      "endSec": 240.4,
+      "text": "and optimizing their fiber intake and fiber maxing even",
+      "words": [
+        {
+          "startSec": 236.9,
+          "endSec": 237.1,
+          "text": "and"
+        },
+        {
+          "startSec": 237.1,
+          "endSec": 237.7,
+          "text": "optimizing"
+        },
+        {
+          "startSec": 237.7,
+          "endSec": 238.1,
+          "text": "their"
+        },
+        {
+          "startSec": 238.1,
+          "endSec": 238.4,
+          "text": "fiber"
+        },
+        {
+          "startSec": 238.4,
+          "endSec": 238.8,
+          "text": "intake"
+        },
+        {
+          "startSec": 238.8,
+          "endSec": 239,
+          "text": "and"
+        },
+        {
+          "startSec": 239,
+          "endSec": 239.4,
+          "text": "fiber"
+        },
+        {
+          "startSec": 239.4,
+          "endSec": 239.8,
+          "text": "maxing"
+        },
+        {
+          "startSec": 239.8,
+          "endSec": 240.4,
+          "text": "even"
+        },
+        {
+          "startSec": 240.4,
+          "endSec": 240.5,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 240.4,
+      "endSec": 241.6,
+      "text": "to trend on TikTok.",
+      "words": [
+        {
+          "startSec": 240.4,
+          "endSec": 240.5,
+          "text": "to"
+        },
+        {
+          "startSec": 240.5,
+          "endSec": 240.9,
+          "text": "trend"
+        },
+        {
+          "startSec": 240.9,
+          "endSec": 241,
+          "text": "on"
+        },
+        {
+          "startSec": 241,
+          "endSec": 241.6,
+          "text": "TikTok."
+        },
+        {
+          "startSec": 241.6,
+          "endSec": 241.7,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 241.6,
+      "endSec": 243.9,
+      "text": "- What is fiber maxing?",
+      "words": [
+        {
+          "startSec": 241.6,
+          "endSec": 241.7,
+          "text": "-"
+        },
+        {
+          "startSec": 241.7,
+          "endSec": 242.2,
+          "text": "What"
+        },
+        {
+          "startSec": 242.2,
+          "endSec": 242.4,
+          "text": "is"
+        },
+        {
+          "startSec": 242.4,
+          "endSec": 242.9,
+          "text": "fiber"
+        },
+        {
+          "startSec": 242.9,
+          "endSec": 243.9,
+          "text": "maxing?"
+        },
+        {
+          "startSec": 243.9,
+          "endSec": 244.1,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 243.9,
+      "endSec": 246.9,
+      "text": "- Fiber maxing is, as it suggests,",
+      "words": [
+        {
+          "startSec": 243.9,
+          "endSec": 244.1,
+          "text": "-"
+        },
+        {
+          "startSec": 244.1,
+          "endSec": 244.7,
+          "text": "Fiber"
+        },
+        {
+          "startSec": 244.7,
+          "endSec": 245.4,
+          "text": "maxing"
+        },
+        {
+          "startSec": 245.4,
+          "endSec": 246.2,
+          "text": "is,"
+        },
+        {
+          "startSec": 246.2,
+          "endSec": 246.4,
+          "text": "as"
+        },
+        {
+          "startSec": 246.4,
+          "endSec": 246.5,
+          "text": "it"
+        },
+        {
+          "startSec": 246.5,
+          "endSec": 246.9,
+          "text": "suggests,"
+        },
+        {
+          "startSec": 246.9,
+          "endSec": 247.4,
+          "text": "similar"
+        }
+      ]
+    },
+    {
+      "startSec": 246.9,
+      "endSec": 248.8,
+      "text": "similar to the protein maxing trend",
+      "words": [
+        {
+          "startSec": 246.9,
+          "endSec": 247.4,
+          "text": "similar"
+        },
+        {
+          "startSec": 247.4,
+          "endSec": 247.5,
+          "text": "to"
+        },
+        {
+          "startSec": 247.5,
+          "endSec": 247.7,
+          "text": "the"
+        },
+        {
+          "startSec": 247.7,
+          "endSec": 248.1,
+          "text": "protein"
+        },
+        {
+          "startSec": 248.1,
+          "endSec": 248.5,
+          "text": "maxing"
+        },
+        {
+          "startSec": 248.5,
+          "endSec": 248.8,
+          "text": "trend"
+        },
+        {
+          "startSec": 248.8,
+          "endSec": 249.2,
+          "text": "where"
+        }
+      ]
+    },
+    {
+      "startSec": 248.8,
+      "endSec": 252.2,
+      "text": "where people are trying to maximize their fiber intake",
+      "words": [
+        {
+          "startSec": 248.8,
+          "endSec": 249.2,
+          "text": "where"
+        },
+        {
+          "startSec": 249.2,
+          "endSec": 249.6,
+          "text": "people"
+        },
+        {
+          "startSec": 249.6,
+          "endSec": 249.8,
+          "text": "are"
+        },
+        {
+          "startSec": 249.8,
+          "endSec": 250.2,
+          "text": "trying"
+        },
+        {
+          "startSec": 250.2,
+          "endSec": 250.3,
+          "text": "to"
+        },
+        {
+          "startSec": 250.3,
+          "endSec": 250.8,
+          "text": "maximize"
+        },
+        {
+          "startSec": 250.8,
+          "endSec": 251.3,
+          "text": "their"
+        },
+        {
+          "startSec": 251.3,
+          "endSec": 251.7,
+          "text": "fiber"
+        },
+        {
+          "startSec": 251.7,
+          "endSec": 252.2,
+          "text": "intake"
+        },
+        {
+          "startSec": 252.2,
+          "endSec": 252.6,
+          "text": "with"
+        }
+      ]
+    },
+    {
+      "startSec": 252.2,
+      "endSec": 254.6,
+      "text": "with little hacks or tricks or tips",
+      "words": [
+        {
+          "startSec": 252.2,
+          "endSec": 252.6,
+          "text": "with"
+        },
+        {
+          "startSec": 252.6,
+          "endSec": 253.1,
+          "text": "little"
+        },
+        {
+          "startSec": 253.1,
+          "endSec": 253.5,
+          "text": "hacks"
+        },
+        {
+          "startSec": 253.5,
+          "endSec": 253.6,
+          "text": "or"
+        },
+        {
+          "startSec": 253.6,
+          "endSec": 254.1,
+          "text": "tricks"
+        },
+        {
+          "startSec": 254.1,
+          "endSec": 254.3,
+          "text": "or"
+        },
+        {
+          "startSec": 254.3,
+          "endSec": 254.6,
+          "text": "tips"
+        }
+      ]
+    },
+    {
+      "startSec": 254.6,
+      "endSec": 256.4,
+      "text": "that they could do whether it's, you know,",
+      "words": [
+        {
+          "startSec": 254.7,
+          "endSec": 254.9,
+          "text": "that"
+        },
+        {
+          "startSec": 254.9,
+          "endSec": 255.1,
+          "text": "they"
+        },
+        {
+          "startSec": 255.1,
+          "endSec": 255.5,
+          "text": "could"
+        },
+        {
+          "startSec": 255.5,
+          "endSec": 255.6,
+          "text": "do"
+        },
+        {
+          "startSec": 255.6,
+          "endSec": 256.1,
+          "text": "whether"
+        },
+        {
+          "startSec": 256.1,
+          "endSec": 256.4,
+          "text": "it's,"
+        },
+        {
+          "startSec": 256.4,
+          "endSec": 256.4,
+          "text": "you"
+        },
+        {
+          "startSec": 256.4,
+          "endSec": 256.4,
+          "text": "know,"
+        },
+        {
+          "startSec": 256.4,
+          "endSec": 256.9,
+          "text": "adding"
+        }
+      ]
+    },
+    {
+      "startSec": 256.4,
+      "endSec": 259.4,
+      "text": "adding certain seeds or nuts to snacks.",
+      "words": [
+        {
+          "startSec": 256.4,
+          "endSec": 256.4,
+          "text": "you"
+        },
+        {
+          "startSec": 256.4,
+          "endSec": 256.4,
+          "text": "know,"
+        },
+        {
+          "startSec": 256.4,
+          "endSec": 256.9,
+          "text": "adding"
+        },
+        {
+          "startSec": 256.9,
+          "endSec": 257.5,
+          "text": "certain"
+        },
+        {
+          "startSec": 257.5,
+          "endSec": 257.9,
+          "text": "seeds"
+        },
+        {
+          "startSec": 257.9,
+          "endSec": 258.1,
+          "text": "or"
+        },
+        {
+          "startSec": 258.1,
+          "endSec": 258.4,
+          "text": "nuts"
+        },
+        {
+          "startSec": 258.4,
+          "endSec": 258.6,
+          "text": "to"
+        },
+        {
+          "startSec": 258.6,
+          "endSec": 259.4,
+          "text": "snacks."
+        },
+        {
+          "startSec": 259.4,
+          "endSec": 259.4,
+          "text": "-"
+        },
+        {
+          "startSec": 259.4,
+          "endSec": 259.7,
+          "text": "Many"
+        }
+      ]
+    },
+    {
+      "startSec": 259.4,
+      "endSec": 261.7,
+      "text": "- Many people pay more attention to protein",
+      "words": [
+        {
+          "startSec": 259.4,
+          "endSec": 259.4,
+          "text": "-"
+        },
+        {
+          "startSec": 259.4,
+          "endSec": 259.7,
+          "text": "Many"
+        },
+        {
+          "startSec": 259.7,
+          "endSec": 260,
+          "text": "people"
+        },
+        {
+          "startSec": 260,
+          "endSec": 260.2,
+          "text": "pay"
+        },
+        {
+          "startSec": 260.2,
+          "endSec": 260.4,
+          "text": "more"
+        },
+        {
+          "startSec": 260.4,
+          "endSec": 261,
+          "text": "attention"
+        },
+        {
+          "startSec": 261,
+          "endSec": 261.2,
+          "text": "to"
+        },
+        {
+          "startSec": 261.2,
+          "endSec": 261.7,
+          "text": "protein"
+        },
+        {
+          "startSec": 261.7,
+          "endSec": 262.1,
+          "text": "than"
+        }
+      ]
+    },
+    {
+      "startSec": 261.7,
+      "endSec": 263.5,
+      "text": "than fiber in their diet,",
+      "words": [
+        {
+          "startSec": 261.7,
+          "endSec": 262.1,
+          "text": "than"
+        },
+        {
+          "startSec": 262.1,
+          "endSec": 262.5,
+          "text": "fiber"
+        },
+        {
+          "startSec": 262.5,
+          "endSec": 262.7,
+          "text": "in"
+        },
+        {
+          "startSec": 262.7,
+          "endSec": 263.1,
+          "text": "their"
+        },
+        {
+          "startSec": 263.1,
+          "endSec": 263.5,
+          "text": "diet,"
+        },
+        {
+          "startSec": 263.5,
+          "endSec": 263.7,
+          "text": "but"
+        }
+      ]
+    },
+    {
+      "startSec": 263.5,
+      "endSec": 266.4,
+      "text": "but Dr. Karen thinks the tide is turning",
+      "words": [
+        {
+          "startSec": 263.5,
+          "endSec": 263.7,
+          "text": "but"
+        },
+        {
+          "startSec": 263.7,
+          "endSec": 264.1,
+          "text": "Dr."
+        },
+        {
+          "startSec": 264.1,
+          "endSec": 264.5,
+          "text": "Karen"
+        },
+        {
+          "startSec": 264.5,
+          "endSec": 265,
+          "text": "thinks"
+        },
+        {
+          "startSec": 265,
+          "endSec": 265.3,
+          "text": "the"
+        },
+        {
+          "startSec": 265.3,
+          "endSec": 265.6,
+          "text": "tide"
+        },
+        {
+          "startSec": 265.6,
+          "endSec": 265.7,
+          "text": "is"
+        },
+        {
+          "startSec": 265.7,
+          "endSec": 266.4,
+          "text": "turning"
+        },
+        {
+          "startSec": 266.4,
+          "endSec": 266.5,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 266.4,
+      "endSec": 268.8,
+      "text": "and idiom which means that things are changing.",
+      "words": [
+        {
+          "startSec": 266.4,
+          "endSec": 266.5,
+          "text": "and"
+        },
+        {
+          "startSec": 266.5,
+          "endSec": 266.8,
+          "text": "idiom"
+        },
+        {
+          "startSec": 266.8,
+          "endSec": 267.1,
+          "text": "which"
+        },
+        {
+          "startSec": 267.1,
+          "endSec": 267.4,
+          "text": "means"
+        },
+        {
+          "startSec": 267.4,
+          "endSec": 267.6,
+          "text": "that"
+        },
+        {
+          "startSec": 267.6,
+          "endSec": 268,
+          "text": "things"
+        },
+        {
+          "startSec": 268,
+          "endSec": 268.1,
+          "text": "are"
+        },
+        {
+          "startSec": 268.1,
+          "endSec": 268.8,
+          "text": "changing."
+        },
+        {
+          "startSec": 268.8,
+          "endSec": 269,
+          "text": "In"
+        }
+      ]
+    },
+    {
+      "startSec": 268.8,
+      "endSec": 271.7,
+      "text": "In part, this is thanks to a new trend from America",
+      "words": [
+        {
+          "startSec": 268.8,
+          "endSec": 269,
+          "text": "In"
+        },
+        {
+          "startSec": 269,
+          "endSec": 269.3,
+          "text": "part,"
+        },
+        {
+          "startSec": 269.3,
+          "endSec": 269.6,
+          "text": "this"
+        },
+        {
+          "startSec": 269.6,
+          "endSec": 269.7,
+          "text": "is"
+        },
+        {
+          "startSec": 269.7,
+          "endSec": 270.1,
+          "text": "thanks"
+        },
+        {
+          "startSec": 270.1,
+          "endSec": 270.3,
+          "text": "to"
+        },
+        {
+          "startSec": 270.3,
+          "endSec": 270.3,
+          "text": "a"
+        },
+        {
+          "startSec": 270.3,
+          "endSec": 270.5,
+          "text": "new"
+        },
+        {
+          "startSec": 270.5,
+          "endSec": 270.8,
+          "text": "trend"
+        },
+        {
+          "startSec": 270.8,
+          "endSec": 271.1,
+          "text": "from"
+        },
+        {
+          "startSec": 271.1,
+          "endSec": 271.7,
+          "text": "America"
+        },
+        {
+          "startSec": 271.7,
+          "endSec": 272.3,
+          "text": "called"
+        }
+      ]
+    },
+    {
+      "startSec": 271.7,
+      "endSec": 273.4,
+      "text": "called fiber maxing,",
+      "words": [
+        {
+          "startSec": 271.7,
+          "endSec": 272.3,
+          "text": "called"
+        },
+        {
+          "startSec": 272.3,
+          "endSec": 272.8,
+          "text": "fiber"
+        },
+        {
+          "startSec": 272.8,
+          "endSec": 273.4,
+          "text": "maxing,"
+        },
+        {
+          "startSec": 273.4,
+          "endSec": 274,
+          "text": "consuming"
+        }
+      ]
+    },
+    {
+      "startSec": 273.4,
+      "endSec": 276.5,
+      "text": "consuming lots of fiber by eating fiber rich foods",
+      "words": [
+        {
+          "startSec": 273.4,
+          "endSec": 274,
+          "text": "consuming"
+        },
+        {
+          "startSec": 274,
+          "endSec": 274.3,
+          "text": "lots"
+        },
+        {
+          "startSec": 274.3,
+          "endSec": 274.4,
+          "text": "of"
+        },
+        {
+          "startSec": 274.4,
+          "endSec": 274.7,
+          "text": "fiber"
+        },
+        {
+          "startSec": 274.7,
+          "endSec": 274.9,
+          "text": "by"
+        },
+        {
+          "startSec": 274.9,
+          "endSec": 275.3,
+          "text": "eating"
+        },
+        {
+          "startSec": 275.3,
+          "endSec": 275.8,
+          "text": "fiber"
+        },
+        {
+          "startSec": 275.8,
+          "endSec": 276.1,
+          "text": "rich"
+        },
+        {
+          "startSec": 276.1,
+          "endSec": 276.5,
+          "text": "foods"
+        },
+        {
+          "startSec": 276.5,
+          "endSec": 276.7,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 276.5,
+      "endSec": 278.7,
+      "text": "and supplements for their health benefits.",
+      "words": [
+        {
+          "startSec": 276.5,
+          "endSec": 276.7,
+          "text": "and"
+        },
+        {
+          "startSec": 276.7,
+          "endSec": 277.3,
+          "text": "supplements"
+        },
+        {
+          "startSec": 277.3,
+          "endSec": 277.5,
+          "text": "for"
+        },
+        {
+          "startSec": 277.5,
+          "endSec": 277.7,
+          "text": "their"
+        },
+        {
+          "startSec": 277.7,
+          "endSec": 278.1,
+          "text": "health"
+        },
+        {
+          "startSec": 278.1,
+          "endSec": 278.7,
+          "text": "benefits."
+        },
+        {
+          "startSec": 278.7,
+          "endSec": 278.8,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 278.7,
+      "endSec": 281.4,
+      "text": "- Dr. Karen also gives some hacks,",
+      "words": [
+        {
+          "startSec": 278.7,
+          "endSec": 278.8,
+          "text": "-"
+        },
+        {
+          "startSec": 278.8,
+          "endSec": 279.2,
+          "text": "Dr."
+        },
+        {
+          "startSec": 279.2,
+          "endSec": 279.7,
+          "text": "Karen"
+        },
+        {
+          "startSec": 279.7,
+          "endSec": 280,
+          "text": "also"
+        },
+        {
+          "startSec": 280,
+          "endSec": 280.4,
+          "text": "gives"
+        },
+        {
+          "startSec": 280.4,
+          "endSec": 280.8,
+          "text": "some"
+        },
+        {
+          "startSec": 280.8,
+          "endSec": 281.4,
+          "text": "hacks,"
+        },
+        {
+          "startSec": 281.4,
+          "endSec": 281.7,
+          "text": "good"
+        }
+      ]
+    },
+    {
+      "startSec": 281.4,
+      "endSec": 283.6,
+      "text": "good solutions or pieces of advice",
+      "words": [
+        {
+          "startSec": 281.4,
+          "endSec": 281.7,
+          "text": "good"
+        },
+        {
+          "startSec": 281.7,
+          "endSec": 282.4,
+          "text": "solutions"
+        },
+        {
+          "startSec": 282.4,
+          "endSec": 282.5,
+          "text": "or"
+        },
+        {
+          "startSec": 282.5,
+          "endSec": 283,
+          "text": "pieces"
+        },
+        {
+          "startSec": 283,
+          "endSec": 283.2,
+          "text": "of"
+        },
+        {
+          "startSec": 283.2,
+          "endSec": 283.6,
+          "text": "advice"
+        }
+      ]
+    },
+    {
+      "startSec": 283.6,
+      "endSec": 285.9,
+      "text": "to help boost your fiber intake,",
+      "words": [
+        {
+          "startSec": 283.7,
+          "endSec": 283.8,
+          "text": "to"
+        },
+        {
+          "startSec": 283.8,
+          "endSec": 284.2,
+          "text": "help"
+        },
+        {
+          "startSec": 284.2,
+          "endSec": 284.6,
+          "text": "boost"
+        },
+        {
+          "startSec": 284.6,
+          "endSec": 284.9,
+          "text": "your"
+        },
+        {
+          "startSec": 284.9,
+          "endSec": 285.4,
+          "text": "fiber"
+        },
+        {
+          "startSec": 285.4,
+          "endSec": 285.9,
+          "text": "intake,"
+        },
+        {
+          "startSec": 285.9,
+          "endSec": 286.1,
+          "text": "for"
+        }
+      ]
+    },
+    {
+      "startSec": 285.9,
+      "endSec": 289.3,
+      "text": "for example, adding seeds and nuts to meals.",
+      "words": [
+        {
+          "startSec": 285.9,
+          "endSec": 286.1,
+          "text": "for"
+        },
+        {
+          "startSec": 286.1,
+          "endSec": 286.9,
+          "text": "example,"
+        },
+        {
+          "startSec": 286.9,
+          "endSec": 287.4,
+          "text": "adding"
+        },
+        {
+          "startSec": 287.4,
+          "endSec": 287.8,
+          "text": "seeds"
+        },
+        {
+          "startSec": 287.8,
+          "endSec": 288.1,
+          "text": "and"
+        },
+        {
+          "startSec": 288.1,
+          "endSec": 288.4,
+          "text": "nuts"
+        },
+        {
+          "startSec": 288.4,
+          "endSec": 288.6,
+          "text": "to"
+        },
+        {
+          "startSec": 288.6,
+          "endSec": 289.3,
+          "text": "meals."
+        },
+        {
+          "startSec": 289.3,
+          "endSec": 289.3,
+          "text": "-"
+        },
+        {
+          "startSec": 289.3,
+          "endSec": 289.5,
+          "text": "In"
+        }
+      ]
+    },
+    {
+      "startSec": 289.3,
+      "endSec": 292.9,
+      "text": "- In fact, the healthiest diet is probably a balanced diet,",
+      "words": [
+        {
+          "startSec": 289.3,
+          "endSec": 289.3,
+          "text": "-"
+        },
+        {
+          "startSec": 289.3,
+          "endSec": 289.5,
+          "text": "In"
+        },
+        {
+          "startSec": 289.5,
+          "endSec": 289.8,
+          "text": "fact,"
+        },
+        {
+          "startSec": 289.8,
+          "endSec": 290,
+          "text": "the"
+        },
+        {
+          "startSec": 290,
+          "endSec": 290.6,
+          "text": "healthiest"
+        },
+        {
+          "startSec": 290.6,
+          "endSec": 290.9,
+          "text": "diet"
+        },
+        {
+          "startSec": 290.9,
+          "endSec": 291.1,
+          "text": "is"
+        },
+        {
+          "startSec": 291.1,
+          "endSec": 291.6,
+          "text": "probably"
+        },
+        {
+          "startSec": 291.6,
+          "endSec": 291.7,
+          "text": "a"
+        },
+        {
+          "startSec": 291.7,
+          "endSec": 292.5,
+          "text": "balanced"
+        },
+        {
+          "startSec": 292.5,
+          "endSec": 292.9,
+          "text": "diet,"
+        },
+        {
+          "startSec": 292.9,
+          "endSec": 293.1,
+          "text": "one"
+        }
+      ]
+    },
+    {
+      "startSec": 292.9,
+      "endSec": 296,
+      "text": "one containing items from all the major food groups,",
+      "words": [
+        {
+          "startSec": 292.9,
+          "endSec": 293.1,
+          "text": "one"
+        },
+        {
+          "startSec": 293.1,
+          "endSec": 293.8,
+          "text": "containing"
+        },
+        {
+          "startSec": 293.8,
+          "endSec": 294.2,
+          "text": "items"
+        },
+        {
+          "startSec": 294.2,
+          "endSec": 294.5,
+          "text": "from"
+        },
+        {
+          "startSec": 294.5,
+          "endSec": 294.7,
+          "text": "all"
+        },
+        {
+          "startSec": 294.7,
+          "endSec": 294.9,
+          "text": "the"
+        },
+        {
+          "startSec": 294.9,
+          "endSec": 295.3,
+          "text": "major"
+        },
+        {
+          "startSec": 295.3,
+          "endSec": 295.6,
+          "text": "food"
+        },
+        {
+          "startSec": 295.6,
+          "endSec": 296,
+          "text": "groups,"
+        },
+        {
+          "startSec": 296,
+          "endSec": 296.2,
+          "text": "but"
+        }
+      ]
+    },
+    {
+      "startSec": 296,
+      "endSec": 298.7,
+      "text": "but I'm still intrigued by your question, Neil.",
+      "words": [
+        {
+          "startSec": 296,
+          "endSec": 296.2,
+          "text": "but"
+        },
+        {
+          "startSec": 296.2,
+          "endSec": 296.4,
+          "text": "I'm"
+        },
+        {
+          "startSec": 296.4,
+          "endSec": 296.7,
+          "text": "still"
+        },
+        {
+          "startSec": 296.7,
+          "endSec": 297.2,
+          "text": "intrigued"
+        },
+        {
+          "startSec": 297.2,
+          "endSec": 297.4,
+          "text": "by"
+        },
+        {
+          "startSec": 297.4,
+          "endSec": 297.6,
+          "text": "your"
+        },
+        {
+          "startSec": 297.6,
+          "endSec": 298.2,
+          "text": "question,"
+        },
+        {
+          "startSec": 298.2,
+          "endSec": 298.7,
+          "text": "Neil."
+        },
+        {
+          "startSec": 298.7,
+          "endSec": 299,
+          "text": "Isn't"
+        }
+      ]
+    },
+    {
+      "startSec": 298.7,
+      "endSec": 300.9,
+      "text": "Isn't it time you revealed the answer?",
+      "words": [
+        {
+          "startSec": 298.7,
+          "endSec": 299,
+          "text": "Isn't"
+        },
+        {
+          "startSec": 299,
+          "endSec": 299.2,
+          "text": "it"
+        },
+        {
+          "startSec": 299.2,
+          "endSec": 299.4,
+          "text": "time"
+        },
+        {
+          "startSec": 299.4,
+          "endSec": 299.6,
+          "text": "you"
+        },
+        {
+          "startSec": 299.6,
+          "endSec": 300.1,
+          "text": "revealed"
+        },
+        {
+          "startSec": 300.1,
+          "endSec": 300.3,
+          "text": "the"
+        },
+        {
+          "startSec": 300.3,
+          "endSec": 300.9,
+          "text": "answer?"
+        },
+        {
+          "startSec": 300.9,
+          "endSec": 301,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 300.9,
+      "endSec": 305.1,
+      "text": "- I asked you who the Irishman Patrick Callahan was.",
+      "words": [
+        {
+          "startSec": 300.9,
+          "endSec": 301,
+          "text": "-"
+        },
+        {
+          "startSec": 301,
+          "endSec": 301,
+          "text": "I"
+        },
+        {
+          "startSec": 301,
+          "endSec": 301.5,
+          "text": "asked"
+        },
+        {
+          "startSec": 301.5,
+          "endSec": 301.7,
+          "text": "you"
+        },
+        {
+          "startSec": 301.7,
+          "endSec": 302,
+          "text": "who"
+        },
+        {
+          "startSec": 302,
+          "endSec": 302.3,
+          "text": "the"
+        },
+        {
+          "startSec": 302.3,
+          "endSec": 303.2,
+          "text": "Irishman"
+        },
+        {
+          "startSec": 303.2,
+          "endSec": 303.9,
+          "text": "Patrick"
+        },
+        {
+          "startSec": 303.9,
+          "endSec": 304.8,
+          "text": "Callahan"
+        },
+        {
+          "startSec": 304.8,
+          "endSec": 305.1,
+          "text": "was."
+        },
+        {
+          "startSec": 305.1,
+          "endSec": 305.2,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 305.1,
+      "endSec": 308.8,
+      "text": "- And I said he was the winner of the Mr. Universe contest.",
+      "words": [
+        {
+          "startSec": 305.1,
+          "endSec": 305.2,
+          "text": "-"
+        },
+        {
+          "startSec": 305.2,
+          "endSec": 305.4,
+          "text": "And"
+        },
+        {
+          "startSec": 305.4,
+          "endSec": 305.4,
+          "text": "I"
+        },
+        {
+          "startSec": 305.4,
+          "endSec": 305.7,
+          "text": "said"
+        },
+        {
+          "startSec": 305.7,
+          "endSec": 305.8,
+          "text": "he"
+        },
+        {
+          "startSec": 305.8,
+          "endSec": 306,
+          "text": "was"
+        },
+        {
+          "startSec": 306,
+          "endSec": 306.1,
+          "text": "the"
+        },
+        {
+          "startSec": 306.1,
+          "endSec": 306.5,
+          "text": "winner"
+        },
+        {
+          "startSec": 306.5,
+          "endSec": 306.7,
+          "text": "of"
+        },
+        {
+          "startSec": 306.7,
+          "endSec": 306.8,
+          "text": "the"
+        },
+        {
+          "startSec": 306.8,
+          "endSec": 307.3,
+          "text": "Mr."
+        },
+        {
+          "startSec": 307.3,
+          "endSec": 307.9,
+          "text": "Universe"
+        },
+        {
+          "startSec": 307.9,
+          "endSec": 308.8,
+          "text": "contest."
+        },
+        {
+          "startSec": 308.8,
+          "endSec": 308.9,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 308.8,
+      "endSec": 309.9,
+      "text": "- And you were?",
+      "words": [
+        {
+          "startSec": 308.8,
+          "endSec": 308.9,
+          "text": "-"
+        },
+        {
+          "startSec": 308.9,
+          "endSec": 309.1,
+          "text": "And"
+        },
+        {
+          "startSec": 309.1,
+          "endSec": 309.4,
+          "text": "you"
+        },
+        {
+          "startSec": 309.4,
+          "endSec": 309.9,
+          "text": "were?"
+        },
+        {
+          "startSec": 309.9,
+          "endSec": 310.8,
+          "text": "Correct."
+        }
+      ]
+    },
+    {
+      "startSec": 309.9,
+      "endSec": 310.8,
+      "text": "Correct.",
+      "words": [
+        {
+          "startSec": 309.9,
+          "endSec": 310.8,
+          "text": "Correct."
+        },
+        {
+          "startSec": 310.8,
+          "endSec": 310.9,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 310.8,
+      "endSec": 311.6,
+      "text": "- Yay.",
+      "words": [
+        {
+          "startSec": 310.8,
+          "endSec": 310.9,
+          "text": "-"
+        },
+        {
+          "startSec": 310.9,
+          "endSec": 311.6,
+          "text": "Yay."
+        },
+        {
+          "startSec": 311.6,
+          "endSec": 311.7,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 311.6,
+      "endSec": 315.1,
+      "text": "- Let's recap the vocabulary we've learned in this episode.",
+      "words": [
+        {
+          "startSec": 311.6,
+          "endSec": 311.7,
+          "text": "-"
+        },
+        {
+          "startSec": 311.7,
+          "endSec": 311.9,
+          "text": "Let's"
+        },
+        {
+          "startSec": 311.9,
+          "endSec": 312.2,
+          "text": "recap"
+        },
+        {
+          "startSec": 312.2,
+          "endSec": 312.4,
+          "text": "the"
+        },
+        {
+          "startSec": 312.4,
+          "endSec": 313,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 313,
+          "endSec": 313.2,
+          "text": "we've"
+        },
+        {
+          "startSec": 313.2,
+          "endSec": 313.7,
+          "text": "learned"
+        },
+        {
+          "startSec": 313.7,
+          "endSec": 313.9,
+          "text": "in"
+        },
+        {
+          "startSec": 313.9,
+          "endSec": 314.2,
+          "text": "this"
+        },
+        {
+          "startSec": 314.2,
+          "endSec": 315.1,
+          "text": "episode."
+        },
+        {
+          "startSec": 315.1,
+          "endSec": 315.2,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 315.1,
+      "endSec": 317.4,
+      "text": "If you cast your eye over something,",
+      "words": [
+        {
+          "startSec": 315.1,
+          "endSec": 315.2,
+          "text": "If"
+        },
+        {
+          "startSec": 315.2,
+          "endSec": 315.5,
+          "text": "you"
+        },
+        {
+          "startSec": 315.5,
+          "endSec": 315.8,
+          "text": "cast"
+        },
+        {
+          "startSec": 315.8,
+          "endSec": 316.1,
+          "text": "your"
+        },
+        {
+          "startSec": 316.1,
+          "endSec": 316.3,
+          "text": "eye"
+        },
+        {
+          "startSec": 316.3,
+          "endSec": 316.6,
+          "text": "over"
+        },
+        {
+          "startSec": 316.6,
+          "endSec": 317.4,
+          "text": "something,"
+        },
+        {
+          "startSec": 317.4,
+          "endSec": 317.6,
+          "text": "you"
+        }
+      ]
+    },
+    {
+      "startSec": 317.4,
+      "endSec": 319,
+      "text": "you have a quick look at it.",
+      "words": [
+        {
+          "startSec": 317.4,
+          "endSec": 317.6,
+          "text": "you"
+        },
+        {
+          "startSec": 317.6,
+          "endSec": 317.8,
+          "text": "have"
+        },
+        {
+          "startSec": 317.8,
+          "endSec": 317.9,
+          "text": "a"
+        },
+        {
+          "startSec": 317.9,
+          "endSec": 318.2,
+          "text": "quick"
+        },
+        {
+          "startSec": 318.2,
+          "endSec": 318.5,
+          "text": "look"
+        },
+        {
+          "startSec": 318.5,
+          "endSec": 318.6,
+          "text": "at"
+        },
+        {
+          "startSec": 318.6,
+          "endSec": 319,
+          "text": "it."
+        },
+        {
+          "startSec": 319,
+          "endSec": 319.1,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 319,
+      "endSec": 320.7,
+      "text": "- If something is in abundance,",
+      "words": [
+        {
+          "startSec": 319,
+          "endSec": 319.1,
+          "text": "-"
+        },
+        {
+          "startSec": 319.1,
+          "endSec": 319.2,
+          "text": "If"
+        },
+        {
+          "startSec": 319.2,
+          "endSec": 319.8,
+          "text": "something"
+        },
+        {
+          "startSec": 319.8,
+          "endSec": 319.9,
+          "text": "is"
+        },
+        {
+          "startSec": 319.9,
+          "endSec": 320.1,
+          "text": "in"
+        },
+        {
+          "startSec": 320.1,
+          "endSec": 320.7,
+          "text": "abundance,"
+        },
+        {
+          "startSec": 320.7,
+          "endSec": 321.2,
+          "text": "there's"
+        }
+      ]
+    },
+    {
+      "startSec": 320.7,
+      "endSec": 323,
+      "text": "there's a lot or more than enough of it.",
+      "words": [
+        {
+          "startSec": 320.7,
+          "endSec": 321.2,
+          "text": "there's"
+        },
+        {
+          "startSec": 321.2,
+          "endSec": 321.2,
+          "text": "a"
+        },
+        {
+          "startSec": 321.2,
+          "endSec": 321.4,
+          "text": "lot"
+        },
+        {
+          "startSec": 321.4,
+          "endSec": 321.6,
+          "text": "or"
+        },
+        {
+          "startSec": 321.6,
+          "endSec": 321.8,
+          "text": "more"
+        },
+        {
+          "startSec": 321.8,
+          "endSec": 322.1,
+          "text": "than"
+        },
+        {
+          "startSec": 322.1,
+          "endSec": 322.5,
+          "text": "enough"
+        },
+        {
+          "startSec": 322.5,
+          "endSec": 322.6,
+          "text": "of"
+        },
+        {
+          "startSec": 322.6,
+          "endSec": 323,
+          "text": "it."
+        },
+        {
+          "startSec": 323,
+          "endSec": 323.1,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 323,
+      "endSec": 325.7,
+      "text": "- A health halo refers to overestimating",
+      "words": [
+        {
+          "startSec": 323,
+          "endSec": 323.1,
+          "text": "-"
+        },
+        {
+          "startSec": 323.1,
+          "endSec": 323.2,
+          "text": "A"
+        },
+        {
+          "startSec": 323.2,
+          "endSec": 323.6,
+          "text": "health"
+        },
+        {
+          "startSec": 323.6,
+          "endSec": 324,
+          "text": "halo"
+        },
+        {
+          "startSec": 324,
+          "endSec": 324.4,
+          "text": "refers"
+        },
+        {
+          "startSec": 324.4,
+          "endSec": 324.6,
+          "text": "to"
+        },
+        {
+          "startSec": 324.6,
+          "endSec": 325.7,
+          "text": "overestimating"
+        },
+        {
+          "startSec": 325.7,
+          "endSec": 326,
+          "text": "how"
+        }
+      ]
+    },
+    {
+      "startSec": 325.7,
+      "endSec": 329.3,
+      "text": "how healthy an item is based on a single feature,",
+      "words": [
+        {
+          "startSec": 325.7,
+          "endSec": 326,
+          "text": "how"
+        },
+        {
+          "startSec": 326,
+          "endSec": 326.7,
+          "text": "healthy"
+        },
+        {
+          "startSec": 326.7,
+          "endSec": 326.9,
+          "text": "an"
+        },
+        {
+          "startSec": 326.9,
+          "endSec": 327.3,
+          "text": "item"
+        },
+        {
+          "startSec": 327.3,
+          "endSec": 327.6,
+          "text": "is"
+        },
+        {
+          "startSec": 327.6,
+          "endSec": 328,
+          "text": "based"
+        },
+        {
+          "startSec": 328,
+          "endSec": 328.1,
+          "text": "on"
+        },
+        {
+          "startSec": 328.1,
+          "endSec": 328.2,
+          "text": "a"
+        },
+        {
+          "startSec": 328.2,
+          "endSec": 328.7,
+          "text": "single"
+        },
+        {
+          "startSec": 328.7,
+          "endSec": 329.3,
+          "text": "feature,"
+        },
+        {
+          "startSec": 329.3,
+          "endSec": 329.6,
+          "text": "such"
+        }
+      ]
+    },
+    {
+      "startSec": 329.3,
+      "endSec": 333.8,
+      "text": "such as being low in calories, gluten-free or high in protein.",
+      "words": [
+        {
+          "startSec": 329.3,
+          "endSec": 329.6,
+          "text": "such"
+        },
+        {
+          "startSec": 329.6,
+          "endSec": 329.8,
+          "text": "as"
+        },
+        {
+          "startSec": 329.8,
+          "endSec": 330.2,
+          "text": "being"
+        },
+        {
+          "startSec": 330.2,
+          "endSec": 330.5,
+          "text": "low"
+        },
+        {
+          "startSec": 330.5,
+          "endSec": 330.7,
+          "text": "in"
+        },
+        {
+          "startSec": 330.7,
+          "endSec": 331.5,
+          "text": "calories,"
+        },
+        {
+          "startSec": 331.5,
+          "endSec": 332.4,
+          "text": "gluten-free"
+        },
+        {
+          "startSec": 332.4,
+          "endSec": 332.5,
+          "text": "or"
+        },
+        {
+          "startSec": 332.5,
+          "endSec": 332.8,
+          "text": "high"
+        },
+        {
+          "startSec": 332.8,
+          "endSec": 333,
+          "text": "in"
+        },
+        {
+          "startSec": 333,
+          "endSec": 333.8,
+          "text": "protein."
+        },
+        {
+          "startSec": 333.8,
+          "endSec": 333.9,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 333.8,
+      "endSec": 335.7,
+      "text": "- The idiom the tide is turning",
+      "words": [
+        {
+          "startSec": 333.8,
+          "endSec": 333.9,
+          "text": "-"
+        },
+        {
+          "startSec": 333.9,
+          "endSec": 334.1,
+          "text": "The"
+        },
+        {
+          "startSec": 334.1,
+          "endSec": 334.5,
+          "text": "idiom"
+        },
+        {
+          "startSec": 334.5,
+          "endSec": 334.7,
+          "text": "the"
+        },
+        {
+          "startSec": 334.7,
+          "endSec": 335,
+          "text": "tide"
+        },
+        {
+          "startSec": 335,
+          "endSec": 335.1,
+          "text": "is"
+        },
+        {
+          "startSec": 335.1,
+          "endSec": 335.7,
+          "text": "turning"
+        },
+        {
+          "startSec": 335.7,
+          "endSec": 336,
+          "text": "means"
+        }
+      ]
+    },
+    {
+      "startSec": 335.7,
+      "endSec": 337.7,
+      "text": "means that things are changing.",
+      "words": [
+        {
+          "startSec": 335.7,
+          "endSec": 336,
+          "text": "means"
+        },
+        {
+          "startSec": 336,
+          "endSec": 336.3,
+          "text": "that"
+        },
+        {
+          "startSec": 336.3,
+          "endSec": 336.7,
+          "text": "things"
+        },
+        {
+          "startSec": 336.7,
+          "endSec": 336.9,
+          "text": "are"
+        },
+        {
+          "startSec": 336.9,
+          "endSec": 337.7,
+          "text": "changing."
+        },
+        {
+          "startSec": 337.7,
+          "endSec": 337.8,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 337.7,
+      "endSec": 340.2,
+      "text": "- The trend fiber maxing means people",
+      "words": [
+        {
+          "startSec": 337.7,
+          "endSec": 337.8,
+          "text": "-"
+        },
+        {
+          "startSec": 337.8,
+          "endSec": 338.1,
+          "text": "The"
+        },
+        {
+          "startSec": 338.1,
+          "endSec": 338.5,
+          "text": "trend"
+        },
+        {
+          "startSec": 338.5,
+          "endSec": 339,
+          "text": "fiber"
+        },
+        {
+          "startSec": 339,
+          "endSec": 339.5,
+          "text": "maxing"
+        },
+        {
+          "startSec": 339.5,
+          "endSec": 339.9,
+          "text": "means"
+        },
+        {
+          "startSec": 339.9,
+          "endSec": 340.2,
+          "text": "people"
+        }
+      ]
+    },
+    {
+      "startSec": 340.2,
+      "endSec": 342.8,
+      "text": "intentionally consume lots of fiber",
+      "words": [
+        {
+          "startSec": 340.4,
+          "endSec": 341.3,
+          "text": "intentionally"
+        },
+        {
+          "startSec": 341.3,
+          "endSec": 341.9,
+          "text": "consume"
+        },
+        {
+          "startSec": 341.9,
+          "endSec": 342.2,
+          "text": "lots"
+        },
+        {
+          "startSec": 342.2,
+          "endSec": 342.4,
+          "text": "of"
+        },
+        {
+          "startSec": 342.4,
+          "endSec": 342.8,
+          "text": "fiber"
+        },
+        {
+          "startSec": 342.8,
+          "endSec": 343,
+          "text": "by"
+        }
+      ]
+    },
+    {
+      "startSec": 342.8,
+      "endSec": 345.3,
+      "text": "by eating fiber-rich foods and supplements",
+      "words": [
+        {
+          "startSec": 342.8,
+          "endSec": 343,
+          "text": "by"
+        },
+        {
+          "startSec": 343,
+          "endSec": 343.4,
+          "text": "eating"
+        },
+        {
+          "startSec": 343.4,
+          "endSec": 344,
+          "text": "fiber-rich"
+        },
+        {
+          "startSec": 344,
+          "endSec": 344.4,
+          "text": "foods"
+        },
+        {
+          "startSec": 344.4,
+          "endSec": 344.6,
+          "text": "and"
+        },
+        {
+          "startSec": 344.6,
+          "endSec": 345.3,
+          "text": "supplements"
+        },
+        {
+          "startSec": 345.3,
+          "endSec": 345.4,
+          "text": "for"
+        }
+      ]
+    },
+    {
+      "startSec": 345.3,
+      "endSec": 346.6,
+      "text": "for their health benefits.",
+      "words": [
+        {
+          "startSec": 345.3,
+          "endSec": 345.4,
+          "text": "for"
+        },
+        {
+          "startSec": 345.4,
+          "endSec": 345.7,
+          "text": "their"
+        },
+        {
+          "startSec": 345.7,
+          "endSec": 346,
+          "text": "health"
+        },
+        {
+          "startSec": 346,
+          "endSec": 346.6,
+          "text": "benefits."
+        },
+        {
+          "startSec": 346.6,
+          "endSec": 346.6,
+          "text": "-"
+        },
+        {
+          "startSec": 346.6,
+          "endSec": 346.9,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 346.6,
+      "endSec": 349.4,
+      "text": "- And finally, a hack is a good solution",
+      "words": [
+        {
+          "startSec": 346.6,
+          "endSec": 346.6,
+          "text": "-"
+        },
+        {
+          "startSec": 346.6,
+          "endSec": 346.9,
+          "text": "And"
+        },
+        {
+          "startSec": 346.9,
+          "endSec": 347.6,
+          "text": "finally,"
+        },
+        {
+          "startSec": 347.6,
+          "endSec": 347.7,
+          "text": "a"
+        },
+        {
+          "startSec": 347.7,
+          "endSec": 348.1,
+          "text": "hack"
+        },
+        {
+          "startSec": 348.1,
+          "endSec": 348.2,
+          "text": "is"
+        },
+        {
+          "startSec": 348.2,
+          "endSec": 348.3,
+          "text": "a"
+        },
+        {
+          "startSec": 348.3,
+          "endSec": 348.7,
+          "text": "good"
+        },
+        {
+          "startSec": 348.7,
+          "endSec": 349.4,
+          "text": "solution"
+        },
+        {
+          "startSec": 349.4,
+          "endSec": 349.6,
+          "text": "or"
+        }
+      ]
+    },
+    {
+      "startSec": 349.4,
+      "endSec": 350.9,
+      "text": "or piece of advice.",
+      "words": [
+        {
+          "startSec": 349.4,
+          "endSec": 349.6,
+          "text": "or"
+        },
+        {
+          "startSec": 349.6,
+          "endSec": 350,
+          "text": "piece"
+        },
+        {
+          "startSec": 350,
+          "endSec": 350.1,
+          "text": "of"
+        },
+        {
+          "startSec": 350.1,
+          "endSec": 350.9,
+          "text": "advice."
+        },
+        {
+          "startSec": 350.9,
+          "endSec": 351.2,
+          "text": "Once"
+        }
+      ]
+    },
+    {
+      "startSec": 350.9,
+      "endSec": 352.9,
+      "text": "Once again, our six minutes are up,",
+      "words": [
+        {
+          "startSec": 350.9,
+          "endSec": 351.2,
+          "text": "Once"
+        },
+        {
+          "startSec": 351.2,
+          "endSec": 351.7,
+          "text": "again,"
+        },
+        {
+          "startSec": 351.7,
+          "endSec": 351.9,
+          "text": "our"
+        },
+        {
+          "startSec": 351.9,
+          "endSec": 352.1,
+          "text": "six"
+        },
+        {
+          "startSec": 352.1,
+          "endSec": 352.5,
+          "text": "minutes"
+        },
+        {
+          "startSec": 352.5,
+          "endSec": 352.7,
+          "text": "are"
+        },
+        {
+          "startSec": 352.7,
+          "endSec": 352.9,
+          "text": "up,"
+        },
+        {
+          "startSec": 352.9,
+          "endSec": 353.1,
+          "text": "but"
+        }
+      ]
+    },
+    {
+      "startSec": 352.9,
+      "endSec": 354.9,
+      "text": "but here's another hack for you.",
+      "words": [
+        {
+          "startSec": 352.9,
+          "endSec": 353.1,
+          "text": "but"
+        },
+        {
+          "startSec": 353.1,
+          "endSec": 353.5,
+          "text": "here's"
+        },
+        {
+          "startSec": 353.5,
+          "endSec": 354,
+          "text": "another"
+        },
+        {
+          "startSec": 354,
+          "endSec": 354.3,
+          "text": "hack"
+        },
+        {
+          "startSec": 354.3,
+          "endSec": 354.5,
+          "text": "for"
+        },
+        {
+          "startSec": 354.5,
+          "endSec": 354.9,
+          "text": "you."
+        },
+        {
+          "startSec": 354.9,
+          "endSec": 355.5,
+          "text": "Remember,"
+        }
+      ]
+    },
+    {
+      "startSec": 354.9,
+      "endSec": 357.4,
+      "text": "Remember, you can find worksheets, quizzes",
+      "words": [
+        {
+          "startSec": 354.9,
+          "endSec": 355.5,
+          "text": "Remember,"
+        },
+        {
+          "startSec": 355.5,
+          "endSec": 355.7,
+          "text": "you"
+        },
+        {
+          "startSec": 355.7,
+          "endSec": 355.9,
+          "text": "can"
+        },
+        {
+          "startSec": 355.9,
+          "endSec": 356.1,
+          "text": "find"
+        },
+        {
+          "startSec": 356.1,
+          "endSec": 356.9,
+          "text": "worksheets,"
+        },
+        {
+          "startSec": 356.9,
+          "endSec": 357.4,
+          "text": "quizzes"
+        },
+        {
+          "startSec": 357.4,
+          "endSec": 357.6,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 357.4,
+      "endSec": 360.2,
+      "text": "and loads more resources to improve your English",
+      "words": [
+        {
+          "startSec": 357.4,
+          "endSec": 357.6,
+          "text": "and"
+        },
+        {
+          "startSec": 357.6,
+          "endSec": 358,
+          "text": "loads"
+        },
+        {
+          "startSec": 358,
+          "endSec": 358.3,
+          "text": "more"
+        },
+        {
+          "startSec": 358.3,
+          "endSec": 358.9,
+          "text": "resources"
+        },
+        {
+          "startSec": 358.9,
+          "endSec": 359,
+          "text": "to"
+        },
+        {
+          "startSec": 359,
+          "endSec": 359.4,
+          "text": "improve"
+        },
+        {
+          "startSec": 359.4,
+          "endSec": 359.7,
+          "text": "your"
+        },
+        {
+          "startSec": 359.7,
+          "endSec": 360.2,
+          "text": "English"
+        },
+        {
+          "startSec": 360.2,
+          "endSec": 360.5,
+          "text": "over"
+        }
+      ]
+    },
+    {
+      "startSec": 360.2,
+      "endSec": 363.8,
+      "text": "over on our website, bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 360.2,
+          "endSec": 360.5,
+          "text": "over"
+        },
+        {
+          "startSec": 360.5,
+          "endSec": 360.6,
+          "text": "on"
+        },
+        {
+          "startSec": 360.6,
+          "endSec": 360.9,
+          "text": "our"
+        },
+        {
+          "startSec": 360.9,
+          "endSec": 361.6,
+          "text": "website,"
+        },
+        {
+          "startSec": 361.6,
+          "endSec": 363.8,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 363.8,
+          "endSec": 364,
+          "text": "See"
+        }
+      ]
+    },
+    {
+      "startSec": 363.8,
+      "endSec": 366.3,
+      "text": "See you there soon, but for now, it's goodbye.",
+      "words": [
+        {
+          "startSec": 363.8,
+          "endSec": 364,
+          "text": "See"
+        },
+        {
+          "startSec": 364,
+          "endSec": 364.1,
+          "text": "you"
+        },
+        {
+          "startSec": 364.1,
+          "endSec": 364.4,
+          "text": "there"
+        },
+        {
+          "startSec": 364.4,
+          "endSec": 364.7,
+          "text": "soon,"
+        },
+        {
+          "startSec": 364.7,
+          "endSec": 364.9,
+          "text": "but"
+        },
+        {
+          "startSec": 364.9,
+          "endSec": 365.1,
+          "text": "for"
+        },
+        {
+          "startSec": 365.1,
+          "endSec": 365.4,
+          "text": "now,"
+        },
+        {
+          "startSec": 365.4,
+          "endSec": 365.6,
+          "text": "it's"
+        },
+        {
+          "startSec": 365.6,
+          "endSec": 366.3,
+          "text": "goodbye."
+        },
+        {
+          "startSec": 366.3,
+          "endSec": 366.4,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 366.3,
+      "endSec": 367.6,
+      "text": "- Goodbye.",
+      "words": [
+        {
+          "startSec": 366.3,
+          "endSec": 366.4,
+          "text": "-"
+        },
+        {
+          "startSec": 366.4,
+          "endSec": 367.6,
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "startSec": 367.6,
+      "endSec": 372.6,
+      "text": "- Six minutes English from bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 367.7,
+          "endSec": 367.8,
+          "text": "-"
+        },
+        {
+          "startSec": 367.8,
+          "endSec": 368.3,
+          "text": "Six"
+        },
+        {
+          "startSec": 368.3,
+          "endSec": 369.3,
+          "text": "minutes"
+        },
+        {
+          "startSec": 369.3,
+          "endSec": 370.4,
+          "text": "English"
+        },
+        {
+          "startSec": 370.4,
+          "endSec": 370.8,
+          "text": "from"
+        },
+        {
+          "startSec": 370.8,
+          "endSec": 372.6,
+          "text": "bbclearningenglish.com."
+        }
+      ]
+    }
+  ],
+  "introSec": 5.8
+}

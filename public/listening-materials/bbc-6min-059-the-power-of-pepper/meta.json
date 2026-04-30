@@ -1,0 +1,5823 @@
+{
+  "title": "The power of pepper",
+  "source": "BBC 6 Minute English",
+  "level": "advanced",
+  "durationSec": 367,
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
+  "audioFile": "audio.mp3",
+  "segments": [
+    {
+      "startSec": 0,
+      "endSec": 7.8,
+      "text": "6 minutes English from bbclearningenglish.com",
+      "words": [
+        {
+          "startSec": 0.1,
+          "endSec": 0.5,
+          "text": "6"
+        },
+        {
+          "startSec": 0.5,
+          "endSec": 1.5,
+          "text": "minutes"
+        },
+        {
+          "startSec": 1.5,
+          "endSec": 2.6,
+          "text": "English"
+        },
+        {
+          "startSec": 2.6,
+          "endSec": 3.3,
+          "text": "from"
+        },
+        {
+          "startSec": 3.3,
+          "endSec": 7.8,
+          "text": "bbclearningenglish.com"
+        },
+        {
+          "startSec": 7.8,
+          "endSec": 8.2,
+          "text": "Hello,"
+        }
+      ]
+    },
+    {
+      "startSec": 7.8,
+      "endSec": 12,
+      "text": "Hello, this is 6 Minute English from BBC Learning English, I'm Neil.",
+      "words": [
+        {
+          "startSec": 7.8,
+          "endSec": 8.2,
+          "text": "Hello,"
+        },
+        {
+          "startSec": 8.2,
+          "endSec": 8.5,
+          "text": "this"
+        },
+        {
+          "startSec": 8.5,
+          "endSec": 8.6,
+          "text": "is"
+        },
+        {
+          "startSec": 8.6,
+          "endSec": 8.8,
+          "text": "6"
+        },
+        {
+          "startSec": 8.8,
+          "endSec": 9.2,
+          "text": "Minute"
+        },
+        {
+          "startSec": 9.2,
+          "endSec": 9.7,
+          "text": "English"
+        },
+        {
+          "startSec": 9.7,
+          "endSec": 10,
+          "text": "from"
+        },
+        {
+          "startSec": 10,
+          "endSec": 10.2,
+          "text": "BBC"
+        },
+        {
+          "startSec": 10.2,
+          "endSec": 10.7,
+          "text": "Learning"
+        },
+        {
+          "startSec": 10.7,
+          "endSec": 11.4,
+          "text": "English,"
+        },
+        {
+          "startSec": 11.4,
+          "endSec": 11.7,
+          "text": "I'm"
+        },
+        {
+          "startSec": 11.7,
+          "endSec": 12,
+          "text": "Neil."
+        },
+        {
+          "startSec": 12,
+          "endSec": 12.3,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 12,
+      "endSec": 13.4,
+      "text": "And I'm Becca.",
+      "words": [
+        {
+          "startSec": 12,
+          "endSec": 12.3,
+          "text": "And"
+        },
+        {
+          "startSec": 12.3,
+          "endSec": 12.7,
+          "text": "I'm"
+        },
+        {
+          "startSec": 12.7,
+          "endSec": 13.4,
+          "text": "Becca."
+        },
+        {
+          "startSec": 13.4,
+          "endSec": 13.5,
+          "text": "In"
+        }
+      ]
+    },
+    {
+      "startSec": 13.4,
+      "endSec": 17.2,
+      "text": "In this episode we're discussing a food seasoning that's so popular",
+      "words": [
+        {
+          "startSec": 13.4,
+          "endSec": 13.5,
+          "text": "In"
+        },
+        {
+          "startSec": 13.5,
+          "endSec": 13.7,
+          "text": "this"
+        },
+        {
+          "startSec": 13.7,
+          "endSec": 14.1,
+          "text": "episode"
+        },
+        {
+          "startSec": 14.1,
+          "endSec": 14.4,
+          "text": "we're"
+        },
+        {
+          "startSec": 14.4,
+          "endSec": 15,
+          "text": "discussing"
+        },
+        {
+          "startSec": 15,
+          "endSec": 15.1,
+          "text": "a"
+        },
+        {
+          "startSec": 15.1,
+          "endSec": 15.3,
+          "text": "food"
+        },
+        {
+          "startSec": 15.3,
+          "endSec": 15.9,
+          "text": "seasoning"
+        },
+        {
+          "startSec": 15.9,
+          "endSec": 16.4,
+          "text": "that's"
+        },
+        {
+          "startSec": 16.4,
+          "endSec": 16.6,
+          "text": "so"
+        },
+        {
+          "startSec": 16.6,
+          "endSec": 17.2,
+          "text": "popular"
+        },
+        {
+          "startSec": 17.2,
+          "endSec": 17.3,
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "startSec": 17.2,
+      "endSec": 21.4,
+      "text": "we eat around three quarters of a million tonnes of it a year.",
+      "words": [
+        {
+          "startSec": 17.2,
+          "endSec": 17.3,
+          "text": "we"
+        },
+        {
+          "startSec": 17.3,
+          "endSec": 17.6,
+          "text": "eat"
+        },
+        {
+          "startSec": 17.6,
+          "endSec": 18,
+          "text": "around"
+        },
+        {
+          "startSec": 18,
+          "endSec": 18.3,
+          "text": "three"
+        },
+        {
+          "startSec": 18.3,
+          "endSec": 18.9,
+          "text": "quarters"
+        },
+        {
+          "startSec": 18.9,
+          "endSec": 19,
+          "text": "of"
+        },
+        {
+          "startSec": 19,
+          "endSec": 19.1,
+          "text": "a"
+        },
+        {
+          "startSec": 19.1,
+          "endSec": 19.6,
+          "text": "million"
+        },
+        {
+          "startSec": 19.6,
+          "endSec": 20,
+          "text": "tonnes"
+        },
+        {
+          "startSec": 20,
+          "endSec": 20.1,
+          "text": "of"
+        },
+        {
+          "startSec": 20.1,
+          "endSec": 20.3,
+          "text": "it"
+        },
+        {
+          "startSec": 20.3,
+          "endSec": 20.5,
+          "text": "a"
+        },
+        {
+          "startSec": 20.5,
+          "endSec": 21.4,
+          "text": "year."
+        },
+        {
+          "startSec": 21.4,
+          "endSec": 21.7,
+          "text": "We're"
+        }
+      ]
+    },
+    {
+      "startSec": 21.4,
+      "endSec": 25.1,
+      "text": "We're talking about pepper. Do you add pepper to your food Becca?",
+      "words": [
+        {
+          "startSec": 21.4,
+          "endSec": 21.7,
+          "text": "We're"
+        },
+        {
+          "startSec": 21.7,
+          "endSec": 22.2,
+          "text": "talking"
+        },
+        {
+          "startSec": 22.2,
+          "endSec": 22.6,
+          "text": "about"
+        },
+        {
+          "startSec": 22.6,
+          "endSec": 23.2,
+          "text": "pepper."
+        },
+        {
+          "startSec": 23.2,
+          "endSec": 23.3,
+          "text": "Do"
+        },
+        {
+          "startSec": 23.3,
+          "endSec": 23.5,
+          "text": "you"
+        },
+        {
+          "startSec": 23.5,
+          "endSec": 23.7,
+          "text": "add"
+        },
+        {
+          "startSec": 23.7,
+          "endSec": 24,
+          "text": "pepper"
+        },
+        {
+          "startSec": 24,
+          "endSec": 24.2,
+          "text": "to"
+        },
+        {
+          "startSec": 24.2,
+          "endSec": 24.4,
+          "text": "your"
+        },
+        {
+          "startSec": 24.4,
+          "endSec": 24.6,
+          "text": "food"
+        },
+        {
+          "startSec": 24.6,
+          "endSec": 25.1,
+          "text": "Becca?"
+        },
+        {
+          "startSec": 25.1,
+          "endSec": 25.2,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 25.1,
+      "endSec": 29.3,
+      "text": "I do, Neil. Yes, I think it's an easy way to add some spice.",
+      "words": [
+        {
+          "startSec": 25.1,
+          "endSec": 25.2,
+          "text": "I"
+        },
+        {
+          "startSec": 25.2,
+          "endSec": 25.6,
+          "text": "do,"
+        },
+        {
+          "startSec": 25.6,
+          "endSec": 26.4,
+          "text": "Neil."
+        },
+        {
+          "startSec": 26.4,
+          "endSec": 26.8,
+          "text": "Yes,"
+        },
+        {
+          "startSec": 26.8,
+          "endSec": 26.8,
+          "text": "I"
+        },
+        {
+          "startSec": 26.8,
+          "endSec": 27.2,
+          "text": "think"
+        },
+        {
+          "startSec": 27.2,
+          "endSec": 27.5,
+          "text": "it's"
+        },
+        {
+          "startSec": 27.5,
+          "endSec": 27.6,
+          "text": "an"
+        },
+        {
+          "startSec": 27.6,
+          "endSec": 27.9,
+          "text": "easy"
+        },
+        {
+          "startSec": 27.9,
+          "endSec": 28.1,
+          "text": "way"
+        },
+        {
+          "startSec": 28.1,
+          "endSec": 28.2,
+          "text": "to"
+        },
+        {
+          "startSec": 28.2,
+          "endSec": 28.4,
+          "text": "add"
+        },
+        {
+          "startSec": 28.4,
+          "endSec": 28.7,
+          "text": "some"
+        },
+        {
+          "startSec": 28.7,
+          "endSec": 29.3,
+          "text": "spice."
+        }
+      ]
+    },
+    {
+      "startSec": 30,
+      "endSec": 33.8,
+      "text": "Yeah, I love a bit of pepper. I grind pepper onto everything.",
+      "words": [
+        {
+          "startSec": 30.1,
+          "endSec": 30.3,
+          "text": "Yeah,"
+        },
+        {
+          "startSec": 30.3,
+          "endSec": 30.4,
+          "text": "I"
+        },
+        {
+          "startSec": 30.4,
+          "endSec": 30.6,
+          "text": "love"
+        },
+        {
+          "startSec": 30.6,
+          "endSec": 30.7,
+          "text": "a"
+        },
+        {
+          "startSec": 30.7,
+          "endSec": 30.8,
+          "text": "bit"
+        },
+        {
+          "startSec": 30.8,
+          "endSec": 31,
+          "text": "of"
+        },
+        {
+          "startSec": 31,
+          "endSec": 31.5,
+          "text": "pepper."
+        },
+        {
+          "startSec": 31.5,
+          "endSec": 31.6,
+          "text": "I"
+        },
+        {
+          "startSec": 31.6,
+          "endSec": 32.1,
+          "text": "grind"
+        },
+        {
+          "startSec": 32.1,
+          "endSec": 32.6,
+          "text": "pepper"
+        },
+        {
+          "startSec": 32.6,
+          "endSec": 33,
+          "text": "onto"
+        },
+        {
+          "startSec": 33,
+          "endSec": 33.8,
+          "text": "everything."
+        },
+        {
+          "startSec": 33.8,
+          "endSec": 34.3,
+          "text": "Well,"
+        }
+      ]
+    },
+    {
+      "startSec": 33.8,
+      "endSec": 37.6,
+      "text": "Well, not everything. But I do like it.",
+      "words": [
+        {
+          "startSec": 33.8,
+          "endSec": 34.3,
+          "text": "Well,"
+        },
+        {
+          "startSec": 34.3,
+          "endSec": 34.5,
+          "text": "not"
+        },
+        {
+          "startSec": 34.5,
+          "endSec": 35.7,
+          "text": "everything."
+        },
+        {
+          "startSec": 35.7,
+          "endSec": 36.1,
+          "text": "But"
+        },
+        {
+          "startSec": 36.1,
+          "endSec": 36.2,
+          "text": "I"
+        },
+        {
+          "startSec": 36.2,
+          "endSec": 36.4,
+          "text": "do"
+        },
+        {
+          "startSec": 36.4,
+          "endSec": 36.9,
+          "text": "like"
+        },
+        {
+          "startSec": 36.9,
+          "endSec": 37.6,
+          "text": "it."
+        },
+        {
+          "startSec": 37.6,
+          "endSec": 38,
+          "text": "Given"
+        }
+      ]
+    },
+    {
+      "startSec": 37.6,
+      "endSec": 42.6,
+      "text": "Given its popularity, it's surprising that most people know very little about pepper.",
+      "words": [
+        {
+          "startSec": 37.6,
+          "endSec": 38,
+          "text": "Given"
+        },
+        {
+          "startSec": 38,
+          "endSec": 38.2,
+          "text": "its"
+        },
+        {
+          "startSec": 38.2,
+          "endSec": 39.1,
+          "text": "popularity,"
+        },
+        {
+          "startSec": 39.1,
+          "endSec": 39.3,
+          "text": "it's"
+        },
+        {
+          "startSec": 39.3,
+          "endSec": 39.9,
+          "text": "surprising"
+        },
+        {
+          "startSec": 39.9,
+          "endSec": 40.1,
+          "text": "that"
+        },
+        {
+          "startSec": 40.1,
+          "endSec": 40.3,
+          "text": "most"
+        },
+        {
+          "startSec": 40.3,
+          "endSec": 40.6,
+          "text": "people"
+        },
+        {
+          "startSec": 40.6,
+          "endSec": 40.8,
+          "text": "know"
+        },
+        {
+          "startSec": 40.8,
+          "endSec": 41.2,
+          "text": "very"
+        },
+        {
+          "startSec": 41.2,
+          "endSec": 41.5,
+          "text": "little"
+        },
+        {
+          "startSec": 41.5,
+          "endSec": 41.8,
+          "text": "about"
+        },
+        {
+          "startSec": 41.8,
+          "endSec": 42.6,
+          "text": "pepper."
+        },
+        {
+          "startSec": 42.6,
+          "endSec": 42.8,
+          "text": "Did"
+        }
+      ]
+    },
+    {
+      "startSec": 42.6,
+      "endSec": 46.2,
+      "text": "Did you know, for example, that peppers are the fruit of vines",
+      "words": [
+        {
+          "startSec": 42.6,
+          "endSec": 42.8,
+          "text": "Did"
+        },
+        {
+          "startSec": 42.8,
+          "endSec": 43,
+          "text": "you"
+        },
+        {
+          "startSec": 43,
+          "endSec": 43.4,
+          "text": "know,"
+        },
+        {
+          "startSec": 43.4,
+          "endSec": 43.6,
+          "text": "for"
+        },
+        {
+          "startSec": 43.6,
+          "endSec": 44.2,
+          "text": "example,"
+        },
+        {
+          "startSec": 44.2,
+          "endSec": 44.4,
+          "text": "that"
+        },
+        {
+          "startSec": 44.4,
+          "endSec": 44.9,
+          "text": "peppers"
+        },
+        {
+          "startSec": 44.9,
+          "endSec": 45.1,
+          "text": "are"
+        },
+        {
+          "startSec": 45.1,
+          "endSec": 45.3,
+          "text": "the"
+        },
+        {
+          "startSec": 45.3,
+          "endSec": 45.7,
+          "text": "fruit"
+        },
+        {
+          "startSec": 45.7,
+          "endSec": 45.8,
+          "text": "of"
+        },
+        {
+          "startSec": 45.8,
+          "endSec": 46.2,
+          "text": "vines"
+        },
+        {
+          "startSec": 46.2,
+          "endSec": 46.7,
+          "text": "often"
+        }
+      ]
+    },
+    {
+      "startSec": 46.2,
+      "endSec": 49.3,
+      "text": "often growing over 10 metres high?",
+      "words": [
+        {
+          "startSec": 46.2,
+          "endSec": 46.7,
+          "text": "often"
+        },
+        {
+          "startSec": 46.7,
+          "endSec": 47.3,
+          "text": "growing"
+        },
+        {
+          "startSec": 47.3,
+          "endSec": 47.6,
+          "text": "over"
+        },
+        {
+          "startSec": 47.6,
+          "endSec": 48.1,
+          "text": "10"
+        },
+        {
+          "startSec": 48.1,
+          "endSec": 48.7,
+          "text": "metres"
+        },
+        {
+          "startSec": 48.7,
+          "endSec": 49.3,
+          "text": "high?"
+        },
+        {
+          "startSec": 49.3,
+          "endSec": 49.5,
+          "text": "Our"
+        }
+      ]
+    },
+    {
+      "startSec": 49.3,
+      "endSec": 52.5,
+      "text": "Our ancestors would be surprised how little we know.",
+      "words": [
+        {
+          "startSec": 49.3,
+          "endSec": 49.5,
+          "text": "Our"
+        },
+        {
+          "startSec": 49.5,
+          "endSec": 50.2,
+          "text": "ancestors"
+        },
+        {
+          "startSec": 50.2,
+          "endSec": 50.5,
+          "text": "would"
+        },
+        {
+          "startSec": 50.5,
+          "endSec": 50.7,
+          "text": "be"
+        },
+        {
+          "startSec": 50.7,
+          "endSec": 51.3,
+          "text": "surprised"
+        },
+        {
+          "startSec": 51.3,
+          "endSec": 51.6,
+          "text": "how"
+        },
+        {
+          "startSec": 51.6,
+          "endSec": 52,
+          "text": "little"
+        },
+        {
+          "startSec": 52,
+          "endSec": 52.1,
+          "text": "we"
+        },
+        {
+          "startSec": 52.1,
+          "endSec": 52.5,
+          "text": "know."
+        },
+        {
+          "startSec": 52.5,
+          "endSec": 52.7,
+          "text": "From"
+        }
+      ]
+    },
+    {
+      "startSec": 52.5,
+      "endSec": 57.2,
+      "text": "From ancient Greece onwards, pepper was prized as the black gold of ingredients",
+      "words": [
+        {
+          "startSec": 52.5,
+          "endSec": 52.7,
+          "text": "From"
+        },
+        {
+          "startSec": 52.7,
+          "endSec": 53.2,
+          "text": "ancient"
+        },
+        {
+          "startSec": 53.2,
+          "endSec": 53.5,
+          "text": "Greece"
+        },
+        {
+          "startSec": 53.5,
+          "endSec": 54.1,
+          "text": "onwards,"
+        },
+        {
+          "startSec": 54.1,
+          "endSec": 54.5,
+          "text": "pepper"
+        },
+        {
+          "startSec": 54.5,
+          "endSec": 54.7,
+          "text": "was"
+        },
+        {
+          "startSec": 54.7,
+          "endSec": 55.1,
+          "text": "prized"
+        },
+        {
+          "startSec": 55.1,
+          "endSec": 55.2,
+          "text": "as"
+        },
+        {
+          "startSec": 55.2,
+          "endSec": 55.4,
+          "text": "the"
+        },
+        {
+          "startSec": 55.4,
+          "endSec": 55.8,
+          "text": "black"
+        },
+        {
+          "startSec": 55.8,
+          "endSec": 56,
+          "text": "gold"
+        },
+        {
+          "startSec": 56,
+          "endSec": 56.2,
+          "text": "of"
+        },
+        {
+          "startSec": 56.2,
+          "endSec": 57.2,
+          "text": "ingredients"
+        }
+      ]
+    },
+    {
+      "startSec": 57.2,
+      "endSec": 62.2,
+      "text": "and explorers cross oceans in search of it, discovering new continents along the way.",
+      "words": [
+        {
+          "startSec": 57.3,
+          "endSec": 57.4,
+          "text": "and"
+        },
+        {
+          "startSec": 57.4,
+          "endSec": 58.1,
+          "text": "explorers"
+        },
+        {
+          "startSec": 58.1,
+          "endSec": 58.4,
+          "text": "cross"
+        },
+        {
+          "startSec": 58.4,
+          "endSec": 58.9,
+          "text": "oceans"
+        },
+        {
+          "startSec": 58.9,
+          "endSec": 59,
+          "text": "in"
+        },
+        {
+          "startSec": 59,
+          "endSec": 59.4,
+          "text": "search"
+        },
+        {
+          "startSec": 59.4,
+          "endSec": 59.6,
+          "text": "of"
+        },
+        {
+          "startSec": 59.6,
+          "endSec": 59.9,
+          "text": "it,"
+        },
+        {
+          "startSec": 59.9,
+          "endSec": 60.4,
+          "text": "discovering"
+        },
+        {
+          "startSec": 60.4,
+          "endSec": 60.5,
+          "text": "new"
+        },
+        {
+          "startSec": 60.5,
+          "endSec": 61,
+          "text": "continents"
+        },
+        {
+          "startSec": 61,
+          "endSec": 61.3,
+          "text": "along"
+        },
+        {
+          "startSec": 61.3,
+          "endSec": 61.4,
+          "text": "the"
+        },
+        {
+          "startSec": 61.4,
+          "endSec": 62.2,
+          "text": "way."
+        },
+        {
+          "startSec": 62.2,
+          "endSec": 62.4,
+          "text": "In"
+        }
+      ]
+    },
+    {
+      "startSec": 62.2,
+      "endSec": 65.8,
+      "text": "In this episode, we'll get reacquainted with pepper",
+      "words": [
+        {
+          "startSec": 62.2,
+          "endSec": 62.4,
+          "text": "In"
+        },
+        {
+          "startSec": 62.4,
+          "endSec": 62.7,
+          "text": "this"
+        },
+        {
+          "startSec": 62.7,
+          "endSec": 63.4,
+          "text": "episode,"
+        },
+        {
+          "startSec": 63.4,
+          "endSec": 63.8,
+          "text": "we'll"
+        },
+        {
+          "startSec": 63.8,
+          "endSec": 64,
+          "text": "get"
+        },
+        {
+          "startSec": 64,
+          "endSec": 64.9,
+          "text": "reacquainted"
+        },
+        {
+          "startSec": 64.9,
+          "endSec": 65.2,
+          "text": "with"
+        },
+        {
+          "startSec": 65.2,
+          "endSec": 65.8,
+          "text": "pepper"
+        },
+        {
+          "startSec": 65.8,
+          "endSec": 66,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 65.8,
+      "endSec": 68.6,
+      "text": "and learn some useful new words and phrases too.",
+      "words": [
+        {
+          "startSec": 65.8,
+          "endSec": 66,
+          "text": "and"
+        },
+        {
+          "startSec": 66,
+          "endSec": 66.3,
+          "text": "learn"
+        },
+        {
+          "startSec": 66.3,
+          "endSec": 66.6,
+          "text": "some"
+        },
+        {
+          "startSec": 66.6,
+          "endSec": 67.1,
+          "text": "useful"
+        },
+        {
+          "startSec": 67.1,
+          "endSec": 67.3,
+          "text": "new"
+        },
+        {
+          "startSec": 67.3,
+          "endSec": 67.7,
+          "text": "words"
+        },
+        {
+          "startSec": 67.7,
+          "endSec": 67.9,
+          "text": "and"
+        },
+        {
+          "startSec": 67.9,
+          "endSec": 68.4,
+          "text": "phrases"
+        },
+        {
+          "startSec": 68.4,
+          "endSec": 68.6,
+          "text": "too."
+        },
+        {
+          "startSec": 68.6,
+          "endSec": 68.8,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 68.6,
+      "endSec": 72.4,
+      "text": "And remember, you'll find a transcript for you to read along with us",
+      "words": [
+        {
+          "startSec": 68.6,
+          "endSec": 68.8,
+          "text": "And"
+        },
+        {
+          "startSec": 68.8,
+          "endSec": 69.5,
+          "text": "remember,"
+        },
+        {
+          "startSec": 69.5,
+          "endSec": 69.9,
+          "text": "you'll"
+        },
+        {
+          "startSec": 69.9,
+          "endSec": 70.1,
+          "text": "find"
+        },
+        {
+          "startSec": 70.1,
+          "endSec": 70.2,
+          "text": "a"
+        },
+        {
+          "startSec": 70.2,
+          "endSec": 70.8,
+          "text": "transcript"
+        },
+        {
+          "startSec": 70.8,
+          "endSec": 71,
+          "text": "for"
+        },
+        {
+          "startSec": 71,
+          "endSec": 71.2,
+          "text": "you"
+        },
+        {
+          "startSec": 71.2,
+          "endSec": 71.4,
+          "text": "to"
+        },
+        {
+          "startSec": 71.4,
+          "endSec": 71.7,
+          "text": "read"
+        },
+        {
+          "startSec": 71.7,
+          "endSec": 71.9,
+          "text": "along"
+        },
+        {
+          "startSec": 71.9,
+          "endSec": 72.1,
+          "text": "with"
+        },
+        {
+          "startSec": 72.1,
+          "endSec": 72.4,
+          "text": "us"
+        },
+        {
+          "startSec": 72.4,
+          "endSec": 72.6,
+          "text": "as"
+        }
+      ]
+    },
+    {
+      "startSec": 72.4,
+      "endSec": 76.9,
+      "text": "as you listen on our website, bbclearningenglish.com",
+      "words": [
+        {
+          "startSec": 72.4,
+          "endSec": 72.6,
+          "text": "as"
+        },
+        {
+          "startSec": 72.6,
+          "endSec": 72.9,
+          "text": "you"
+        },
+        {
+          "startSec": 72.9,
+          "endSec": 73.4,
+          "text": "listen"
+        },
+        {
+          "startSec": 73.4,
+          "endSec": 73.6,
+          "text": "on"
+        },
+        {
+          "startSec": 73.6,
+          "endSec": 73.8,
+          "text": "our"
+        },
+        {
+          "startSec": 73.8,
+          "endSec": 74.7,
+          "text": "website,"
+        },
+        {
+          "startSec": 74.7,
+          "endSec": 76.9,
+          "text": "bbclearningenglish.com"
+        },
+        {
+          "startSec": 76.9,
+          "endSec": 77.1,
+          "text": "OK,"
+        }
+      ]
+    },
+    {
+      "startSec": 76.9,
+      "endSec": 81.7,
+      "text": "OK, first I have a question for you, of course, Becca. Although it's black pepper,",
+      "words": [
+        {
+          "startSec": 76.9,
+          "endSec": 77.1,
+          "text": "OK,"
+        },
+        {
+          "startSec": 77.1,
+          "endSec": 77.4,
+          "text": "first"
+        },
+        {
+          "startSec": 77.4,
+          "endSec": 77.5,
+          "text": "I"
+        },
+        {
+          "startSec": 77.5,
+          "endSec": 77.7,
+          "text": "have"
+        },
+        {
+          "startSec": 77.7,
+          "endSec": 77.8,
+          "text": "a"
+        },
+        {
+          "startSec": 77.8,
+          "endSec": 78.3,
+          "text": "question"
+        },
+        {
+          "startSec": 78.3,
+          "endSec": 78.5,
+          "text": "for"
+        },
+        {
+          "startSec": 78.5,
+          "endSec": 78.8,
+          "text": "you,"
+        },
+        {
+          "startSec": 78.8,
+          "endSec": 78.9,
+          "text": "of"
+        },
+        {
+          "startSec": 78.9,
+          "endSec": 79.4,
+          "text": "course,"
+        },
+        {
+          "startSec": 79.4,
+          "endSec": 79.9,
+          "text": "Becca."
+        },
+        {
+          "startSec": 79.9,
+          "endSec": 80.5,
+          "text": "Although"
+        },
+        {
+          "startSec": 80.5,
+          "endSec": 80.8,
+          "text": "it's"
+        },
+        {
+          "startSec": 80.8,
+          "endSec": 81.4,
+          "text": "black"
+        },
+        {
+          "startSec": 81.4,
+          "endSec": 81.7,
+          "text": "pepper,"
+        },
+        {
+          "startSec": 81.7,
+          "endSec": 82,
+          "text": "you're"
+        }
+      ]
+    },
+    {
+      "startSec": 81.7,
+      "endSec": 85.2,
+      "text": "you're most likely to see in shops and restaurants in the UK,",
+      "words": [
+        {
+          "startSec": 81.7,
+          "endSec": 82,
+          "text": "you're"
+        },
+        {
+          "startSec": 82,
+          "endSec": 82.2,
+          "text": "most"
+        },
+        {
+          "startSec": 82.2,
+          "endSec": 82.6,
+          "text": "likely"
+        },
+        {
+          "startSec": 82.6,
+          "endSec": 82.7,
+          "text": "to"
+        },
+        {
+          "startSec": 82.7,
+          "endSec": 82.9,
+          "text": "see"
+        },
+        {
+          "startSec": 82.9,
+          "endSec": 83,
+          "text": "in"
+        },
+        {
+          "startSec": 83,
+          "endSec": 83.3,
+          "text": "shops"
+        },
+        {
+          "startSec": 83.3,
+          "endSec": 83.4,
+          "text": "and"
+        },
+        {
+          "startSec": 83.4,
+          "endSec": 84.1,
+          "text": "restaurants"
+        },
+        {
+          "startSec": 84.1,
+          "endSec": 84.4,
+          "text": "in"
+        },
+        {
+          "startSec": 84.4,
+          "endSec": 84.9,
+          "text": "the"
+        },
+        {
+          "startSec": 84.9,
+          "endSec": 85.2,
+          "text": "UK,"
+        }
+      ]
+    },
+    {
+      "startSec": 85.2,
+      "endSec": 88.5,
+      "text": "there are hundreds of different varieties worldwide.",
+      "words": [
+        {
+          "startSec": 85.3,
+          "endSec": 85.6,
+          "text": "there"
+        },
+        {
+          "startSec": 85.6,
+          "endSec": 85.8,
+          "text": "are"
+        },
+        {
+          "startSec": 85.8,
+          "endSec": 86.4,
+          "text": "hundreds"
+        },
+        {
+          "startSec": 86.4,
+          "endSec": 86.5,
+          "text": "of"
+        },
+        {
+          "startSec": 86.5,
+          "endSec": 87.1,
+          "text": "different"
+        },
+        {
+          "startSec": 87.1,
+          "endSec": 87.8,
+          "text": "varieties"
+        },
+        {
+          "startSec": 87.8,
+          "endSec": 88.5,
+          "text": "worldwide."
+        },
+        {
+          "startSec": 88.5,
+          "endSec": 88.8,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 88.5,
+      "endSec": 93.8,
+      "text": "But what is unusual about Fu Quok, a white pepper from Vietnam?",
+      "words": [
+        {
+          "startSec": 88.5,
+          "endSec": 88.8,
+          "text": "But"
+        },
+        {
+          "startSec": 88.8,
+          "endSec": 89.3,
+          "text": "what"
+        },
+        {
+          "startSec": 89.3,
+          "endSec": 89.5,
+          "text": "is"
+        },
+        {
+          "startSec": 89.5,
+          "endSec": 90.2,
+          "text": "unusual"
+        },
+        {
+          "startSec": 90.2,
+          "endSec": 90.8,
+          "text": "about"
+        },
+        {
+          "startSec": 90.8,
+          "endSec": 91,
+          "text": "Fu"
+        },
+        {
+          "startSec": 91,
+          "endSec": 91.7,
+          "text": "Quok,"
+        },
+        {
+          "startSec": 91.7,
+          "endSec": 91.8,
+          "text": "a"
+        },
+        {
+          "startSec": 91.8,
+          "endSec": 92.2,
+          "text": "white"
+        },
+        {
+          "startSec": 92.2,
+          "endSec": 92.6,
+          "text": "pepper"
+        },
+        {
+          "startSec": 92.6,
+          "endSec": 93,
+          "text": "from"
+        },
+        {
+          "startSec": 93,
+          "endSec": 93.8,
+          "text": "Vietnam?"
+        },
+        {
+          "startSec": 93.8,
+          "endSec": 94.2,
+          "text": "Does"
+        }
+      ]
+    },
+    {
+      "startSec": 93.8,
+      "endSec": 96.4,
+      "text": "Does it A) make people cry?",
+      "words": [
+        {
+          "startSec": 93.8,
+          "endSec": 94.2,
+          "text": "Does"
+        },
+        {
+          "startSec": 94.2,
+          "endSec": 94.4,
+          "text": "it"
+        },
+        {
+          "startSec": 94.4,
+          "endSec": 94.6,
+          "text": "A)"
+        },
+        {
+          "startSec": 94.6,
+          "endSec": 95.1,
+          "text": "make"
+        },
+        {
+          "startSec": 95.1,
+          "endSec": 95.7,
+          "text": "people"
+        },
+        {
+          "startSec": 95.7,
+          "endSec": 96.4,
+          "text": "cry?"
+        },
+        {
+          "startSec": 96.4,
+          "endSec": 96.6,
+          "text": "B)"
+        }
+      ]
+    },
+    {
+      "startSec": 96.4,
+      "endSec": 101,
+      "text": "B) taste like Parmesan cheese or C) cost more than gold?",
+      "words": [
+        {
+          "startSec": 96.4,
+          "endSec": 96.6,
+          "text": "B)"
+        },
+        {
+          "startSec": 96.6,
+          "endSec": 97.1,
+          "text": "taste"
+        },
+        {
+          "startSec": 97.1,
+          "endSec": 97.4,
+          "text": "like"
+        },
+        {
+          "startSec": 97.4,
+          "endSec": 98.2,
+          "text": "Parmesan"
+        },
+        {
+          "startSec": 98.2,
+          "endSec": 98.8,
+          "text": "cheese"
+        },
+        {
+          "startSec": 98.8,
+          "endSec": 99.1,
+          "text": "or"
+        },
+        {
+          "startSec": 99.1,
+          "endSec": 99.4,
+          "text": "C)"
+        },
+        {
+          "startSec": 99.4,
+          "endSec": 99.7,
+          "text": "cost"
+        },
+        {
+          "startSec": 99.7,
+          "endSec": 100.1,
+          "text": "more"
+        },
+        {
+          "startSec": 100.1,
+          "endSec": 100.4,
+          "text": "than"
+        },
+        {
+          "startSec": 100.4,
+          "endSec": 101,
+          "text": "gold?"
+        },
+        {
+          "startSec": 101,
+          "endSec": 101.4,
+          "text": "Hmm,"
+        }
+      ]
+    },
+    {
+      "startSec": 101,
+      "endSec": 105,
+      "text": "Hmm, well, I don't think it would be as expensive as gold,",
+      "words": [
+        {
+          "startSec": 101,
+          "endSec": 101.4,
+          "text": "Hmm,"
+        },
+        {
+          "startSec": 101.4,
+          "endSec": 101.8,
+          "text": "well,"
+        },
+        {
+          "startSec": 101.8,
+          "endSec": 101.9,
+          "text": "I"
+        },
+        {
+          "startSec": 101.9,
+          "endSec": 102.2,
+          "text": "don't"
+        },
+        {
+          "startSec": 102.2,
+          "endSec": 102.6,
+          "text": "think"
+        },
+        {
+          "startSec": 102.6,
+          "endSec": 102.7,
+          "text": "it"
+        },
+        {
+          "startSec": 102.7,
+          "endSec": 103.1,
+          "text": "would"
+        },
+        {
+          "startSec": 103.1,
+          "endSec": 103.2,
+          "text": "be"
+        },
+        {
+          "startSec": 103.2,
+          "endSec": 103.4,
+          "text": "as"
+        },
+        {
+          "startSec": 103.4,
+          "endSec": 104,
+          "text": "expensive"
+        },
+        {
+          "startSec": 104,
+          "endSec": 104.3,
+          "text": "as"
+        },
+        {
+          "startSec": 104.3,
+          "endSec": 105,
+          "text": "gold,"
+        },
+        {
+          "startSec": 105,
+          "endSec": 105.2,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 105,
+      "endSec": 108.3,
+      "text": "and I kind of want it to taste like Parmesan cheese.",
+      "words": [
+        {
+          "startSec": 105,
+          "endSec": 105.2,
+          "text": "and"
+        },
+        {
+          "startSec": 105.2,
+          "endSec": 105.3,
+          "text": "I"
+        },
+        {
+          "startSec": 105.3,
+          "endSec": 105.6,
+          "text": "kind"
+        },
+        {
+          "startSec": 105.6,
+          "endSec": 105.7,
+          "text": "of"
+        },
+        {
+          "startSec": 105.7,
+          "endSec": 106,
+          "text": "want"
+        },
+        {
+          "startSec": 106,
+          "endSec": 106.2,
+          "text": "it"
+        },
+        {
+          "startSec": 106.2,
+          "endSec": 106.3,
+          "text": "to"
+        },
+        {
+          "startSec": 106.3,
+          "endSec": 106.7,
+          "text": "taste"
+        },
+        {
+          "startSec": 106.7,
+          "endSec": 107,
+          "text": "like"
+        },
+        {
+          "startSec": 107,
+          "endSec": 107.6,
+          "text": "Parmesan"
+        },
+        {
+          "startSec": 107.6,
+          "endSec": 108.3,
+          "text": "cheese."
+        },
+        {
+          "startSec": 108.3,
+          "endSec": 108.7,
+          "text": "OK,"
+        }
+      ]
+    },
+    {
+      "startSec": 108.3,
+      "endSec": 112.4,
+      "text": "OK, well, we'll find out later in the programme.",
+      "words": [
+        {
+          "startSec": 108.3,
+          "endSec": 108.7,
+          "text": "OK,"
+        },
+        {
+          "startSec": 108.7,
+          "endSec": 109.2,
+          "text": "well,"
+        },
+        {
+          "startSec": 109.2,
+          "endSec": 109.7,
+          "text": "we'll"
+        },
+        {
+          "startSec": 109.7,
+          "endSec": 110.1,
+          "text": "find"
+        },
+        {
+          "startSec": 110.1,
+          "endSec": 110.3,
+          "text": "out"
+        },
+        {
+          "startSec": 110.3,
+          "endSec": 110.8,
+          "text": "later"
+        },
+        {
+          "startSec": 110.8,
+          "endSec": 111,
+          "text": "in"
+        },
+        {
+          "startSec": 111,
+          "endSec": 111.2,
+          "text": "the"
+        },
+        {
+          "startSec": 111.2,
+          "endSec": 112.4,
+          "text": "programme."
+        }
+      ]
+    },
+    {
+      "startSec": 112.4,
+      "endSec": 116,
+      "text": "Matilda Rawlinger is the daughter of Olivier Rawlinger,",
+      "words": [
+        {
+          "startSec": 112.5,
+          "endSec": 112.9,
+          "text": "Matilda"
+        },
+        {
+          "startSec": 112.9,
+          "endSec": 113.6,
+          "text": "Rawlinger"
+        },
+        {
+          "startSec": 113.6,
+          "endSec": 113.8,
+          "text": "is"
+        },
+        {
+          "startSec": 113.8,
+          "endSec": 114,
+          "text": "the"
+        },
+        {
+          "startSec": 114,
+          "endSec": 114.6,
+          "text": "daughter"
+        },
+        {
+          "startSec": 114.6,
+          "endSec": 114.8,
+          "text": "of"
+        },
+        {
+          "startSec": 114.8,
+          "endSec": 115.3,
+          "text": "Olivier"
+        },
+        {
+          "startSec": 115.3,
+          "endSec": 116,
+          "text": "Rawlinger,"
+        },
+        {
+          "startSec": 116,
+          "endSec": 116.2,
+          "text": "an"
+        }
+      ]
+    },
+    {
+      "startSec": 116,
+      "endSec": 120.2,
+      "text": "an award-winning French chef famous for his use of spices.",
+      "words": [
+        {
+          "startSec": 116,
+          "endSec": 116.2,
+          "text": "an"
+        },
+        {
+          "startSec": 116.2,
+          "endSec": 117.2,
+          "text": "award-winning"
+        },
+        {
+          "startSec": 117.2,
+          "endSec": 117.7,
+          "text": "French"
+        },
+        {
+          "startSec": 117.7,
+          "endSec": 118.1,
+          "text": "chef"
+        },
+        {
+          "startSec": 118.1,
+          "endSec": 118.5,
+          "text": "famous"
+        },
+        {
+          "startSec": 118.5,
+          "endSec": 118.8,
+          "text": "for"
+        },
+        {
+          "startSec": 118.8,
+          "endSec": 119,
+          "text": "his"
+        },
+        {
+          "startSec": 119,
+          "endSec": 119.3,
+          "text": "use"
+        },
+        {
+          "startSec": 119.3,
+          "endSec": 119.4,
+          "text": "of"
+        },
+        {
+          "startSec": 119.4,
+          "endSec": 120.2,
+          "text": "spices."
+        },
+        {
+          "startSec": 120.2,
+          "endSec": 120.5,
+          "text": "While"
+        }
+      ]
+    },
+    {
+      "startSec": 120.2,
+      "endSec": 125,
+      "text": "While other little girls of her age were sprinkling sugar on their breakfast yogurt,",
+      "words": [
+        {
+          "startSec": 120.2,
+          "endSec": 120.5,
+          "text": "While"
+        },
+        {
+          "startSec": 120.5,
+          "endSec": 120.8,
+          "text": "other"
+        },
+        {
+          "startSec": 120.8,
+          "endSec": 121.2,
+          "text": "little"
+        },
+        {
+          "startSec": 121.2,
+          "endSec": 121.5,
+          "text": "girls"
+        },
+        {
+          "startSec": 121.5,
+          "endSec": 121.6,
+          "text": "of"
+        },
+        {
+          "startSec": 121.6,
+          "endSec": 121.8,
+          "text": "her"
+        },
+        {
+          "startSec": 121.8,
+          "endSec": 122,
+          "text": "age"
+        },
+        {
+          "startSec": 122,
+          "endSec": 122.3,
+          "text": "were"
+        },
+        {
+          "startSec": 122.3,
+          "endSec": 122.9,
+          "text": "sprinkling"
+        },
+        {
+          "startSec": 122.9,
+          "endSec": 123.4,
+          "text": "sugar"
+        },
+        {
+          "startSec": 123.4,
+          "endSec": 123.5,
+          "text": "on"
+        },
+        {
+          "startSec": 123.5,
+          "endSec": 123.7,
+          "text": "their"
+        },
+        {
+          "startSec": 123.7,
+          "endSec": 124.2,
+          "text": "breakfast"
+        },
+        {
+          "startSec": 124.2,
+          "endSec": 125,
+          "text": "yogurt,"
+        },
+        {
+          "startSec": 125,
+          "endSec": 125.5,
+          "text": "Matilda"
+        }
+      ]
+    },
+    {
+      "startSec": 125,
+      "endSec": 129,
+      "text": "Matilda was the only girl in Paris sprinkling pepper.",
+      "words": [
+        {
+          "startSec": 125,
+          "endSec": 125.5,
+          "text": "Matilda"
+        },
+        {
+          "startSec": 125.5,
+          "endSec": 125.8,
+          "text": "was"
+        },
+        {
+          "startSec": 125.8,
+          "endSec": 126,
+          "text": "the"
+        },
+        {
+          "startSec": 126,
+          "endSec": 126.4,
+          "text": "only"
+        },
+        {
+          "startSec": 126.4,
+          "endSec": 126.7,
+          "text": "girl"
+        },
+        {
+          "startSec": 126.7,
+          "endSec": 126.9,
+          "text": "in"
+        },
+        {
+          "startSec": 126.9,
+          "endSec": 127.3,
+          "text": "Paris"
+        },
+        {
+          "startSec": 127.3,
+          "endSec": 128.2,
+          "text": "sprinkling"
+        },
+        {
+          "startSec": 128.2,
+          "endSec": 129,
+          "text": "pepper."
+        },
+        {
+          "startSec": 129,
+          "endSec": 129.5,
+          "text": "Today,"
+        }
+      ]
+    },
+    {
+      "startSec": 129,
+      "endSec": 135.4,
+      "text": "Today, Matilda runs the A-Peace Rawlinger spice shop in the opera area of the city.",
+      "words": [
+        {
+          "startSec": 129,
+          "endSec": 129.5,
+          "text": "Today,"
+        },
+        {
+          "startSec": 129.5,
+          "endSec": 130.1,
+          "text": "Matilda"
+        },
+        {
+          "startSec": 130.1,
+          "endSec": 130.4,
+          "text": "runs"
+        },
+        {
+          "startSec": 130.4,
+          "endSec": 130.7,
+          "text": "the"
+        },
+        {
+          "startSec": 130.7,
+          "endSec": 131.2,
+          "text": "A-Peace"
+        },
+        {
+          "startSec": 131.2,
+          "endSec": 132,
+          "text": "Rawlinger"
+        },
+        {
+          "startSec": 132,
+          "endSec": 132.4,
+          "text": "spice"
+        },
+        {
+          "startSec": 132.4,
+          "endSec": 132.8,
+          "text": "shop"
+        },
+        {
+          "startSec": 132.8,
+          "endSec": 133,
+          "text": "in"
+        },
+        {
+          "startSec": 133,
+          "endSec": 133.2,
+          "text": "the"
+        },
+        {
+          "startSec": 133.2,
+          "endSec": 133.7,
+          "text": "opera"
+        },
+        {
+          "startSec": 133.7,
+          "endSec": 134.1,
+          "text": "area"
+        },
+        {
+          "startSec": 134.1,
+          "endSec": 134.3,
+          "text": "of"
+        },
+        {
+          "startSec": 134.3,
+          "endSec": 134.6,
+          "text": "the"
+        },
+        {
+          "startSec": 134.6,
+          "endSec": 135.4,
+          "text": "city."
+        },
+        {
+          "startSec": 135.4,
+          "endSec": 135.8,
+          "text": "Here,"
+        }
+      ]
+    },
+    {
+      "startSec": 135.4,
+      "endSec": 140.1,
+      "text": "Here, customers can find a huge range of peppers from fruity red Cambodian",
+      "words": [
+        {
+          "startSec": 135.4,
+          "endSec": 135.8,
+          "text": "Here,"
+        },
+        {
+          "startSec": 135.8,
+          "endSec": 136.4,
+          "text": "customers"
+        },
+        {
+          "startSec": 136.4,
+          "endSec": 136.6,
+          "text": "can"
+        },
+        {
+          "startSec": 136.6,
+          "endSec": 136.9,
+          "text": "find"
+        },
+        {
+          "startSec": 136.9,
+          "endSec": 137,
+          "text": "a"
+        },
+        {
+          "startSec": 137,
+          "endSec": 137.3,
+          "text": "huge"
+        },
+        {
+          "startSec": 137.3,
+          "endSec": 137.6,
+          "text": "range"
+        },
+        {
+          "startSec": 137.6,
+          "endSec": 137.8,
+          "text": "of"
+        },
+        {
+          "startSec": 137.8,
+          "endSec": 138.3,
+          "text": "peppers"
+        },
+        {
+          "startSec": 138.3,
+          "endSec": 138.6,
+          "text": "from"
+        },
+        {
+          "startSec": 138.6,
+          "endSec": 139.1,
+          "text": "fruity"
+        },
+        {
+          "startSec": 139.1,
+          "endSec": 139.4,
+          "text": "red"
+        },
+        {
+          "startSec": 139.4,
+          "endSec": 140.1,
+          "text": "Cambodian"
+        },
+        {
+          "startSec": 140.1,
+          "endSec": 140.6,
+          "text": "kampot"
+        }
+      ]
+    },
+    {
+      "startSec": 140.1,
+      "endSec": 145.3,
+      "text": "kampot pepper to Borneo's Sarawak black pepper with its woody aroma.",
+      "words": [
+        {
+          "startSec": 140.1,
+          "endSec": 140.6,
+          "text": "kampot"
+        },
+        {
+          "startSec": 140.6,
+          "endSec": 141.1,
+          "text": "pepper"
+        },
+        {
+          "startSec": 141.1,
+          "endSec": 141.3,
+          "text": "to"
+        },
+        {
+          "startSec": 141.3,
+          "endSec": 142,
+          "text": "Borneo's"
+        },
+        {
+          "startSec": 142,
+          "endSec": 142.6,
+          "text": "Sarawak"
+        },
+        {
+          "startSec": 142.6,
+          "endSec": 143,
+          "text": "black"
+        },
+        {
+          "startSec": 143,
+          "endSec": 143.6,
+          "text": "pepper"
+        },
+        {
+          "startSec": 143.6,
+          "endSec": 143.9,
+          "text": "with"
+        },
+        {
+          "startSec": 143.9,
+          "endSec": 144.2,
+          "text": "its"
+        },
+        {
+          "startSec": 144.2,
+          "endSec": 144.6,
+          "text": "woody"
+        },
+        {
+          "startSec": 144.6,
+          "endSec": 145.3,
+          "text": "aroma."
+        },
+        {
+          "startSec": 145.3,
+          "endSec": 145.7,
+          "text": "These"
+        }
+      ]
+    },
+    {
+      "startSec": 145.3,
+      "endSec": 148.6,
+      "text": "These peppers have strong, distinctive tastes.",
+      "words": [
+        {
+          "startSec": 145.3,
+          "endSec": 145.7,
+          "text": "These"
+        },
+        {
+          "startSec": 145.7,
+          "endSec": 146.3,
+          "text": "peppers"
+        },
+        {
+          "startSec": 146.3,
+          "endSec": 146.6,
+          "text": "have"
+        },
+        {
+          "startSec": 146.6,
+          "endSec": 147.2,
+          "text": "strong,"
+        },
+        {
+          "startSec": 147.2,
+          "endSec": 148.1,
+          "text": "distinctive"
+        },
+        {
+          "startSec": 148.1,
+          "endSec": 148.6,
+          "text": "tastes."
+        },
+        {
+          "startSec": 148.6,
+          "endSec": 148.9,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 148.6,
+      "endSec": 153.8,
+      "text": "But curiously, they enhance, rather than overpower, the flavour of the food you're eating,",
+      "words": [
+        {
+          "startSec": 148.6,
+          "endSec": 148.9,
+          "text": "But"
+        },
+        {
+          "startSec": 148.9,
+          "endSec": 149.6,
+          "text": "curiously,"
+        },
+        {
+          "startSec": 149.6,
+          "endSec": 149.9,
+          "text": "they"
+        },
+        {
+          "startSec": 149.9,
+          "endSec": 150.6,
+          "text": "enhance,"
+        },
+        {
+          "startSec": 150.6,
+          "endSec": 151,
+          "text": "rather"
+        },
+        {
+          "startSec": 151,
+          "endSec": 151.3,
+          "text": "than"
+        },
+        {
+          "startSec": 151.3,
+          "endSec": 152,
+          "text": "overpower,"
+        },
+        {
+          "startSec": 152,
+          "endSec": 152.1,
+          "text": "the"
+        },
+        {
+          "startSec": 152.1,
+          "endSec": 152.4,
+          "text": "flavour"
+        },
+        {
+          "startSec": 152.4,
+          "endSec": 152.5,
+          "text": "of"
+        },
+        {
+          "startSec": 152.5,
+          "endSec": 152.7,
+          "text": "the"
+        },
+        {
+          "startSec": 152.7,
+          "endSec": 153,
+          "text": "food"
+        },
+        {
+          "startSec": 153,
+          "endSec": 153.1,
+          "text": "you're"
+        },
+        {
+          "startSec": 153.1,
+          "endSec": 153.8,
+          "text": "eating,"
+        },
+        {
+          "startSec": 153.8,
+          "endSec": 154,
+          "text": "as"
+        }
+      ]
+    },
+    {
+      "startSec": 153.8,
+      "endSec": 158.2,
+      "text": "as Matilda explained to BBC World Service programme, The Food Chain.",
+      "words": [
+        {
+          "startSec": 153.8,
+          "endSec": 154,
+          "text": "as"
+        },
+        {
+          "startSec": 154,
+          "endSec": 154.5,
+          "text": "Matilda"
+        },
+        {
+          "startSec": 154.5,
+          "endSec": 155.1,
+          "text": "explained"
+        },
+        {
+          "startSec": 155.1,
+          "endSec": 155.3,
+          "text": "to"
+        },
+        {
+          "startSec": 155.3,
+          "endSec": 155.5,
+          "text": "BBC"
+        },
+        {
+          "startSec": 155.5,
+          "endSec": 155.8,
+          "text": "World"
+        },
+        {
+          "startSec": 155.8,
+          "endSec": 156.4,
+          "text": "Service"
+        },
+        {
+          "startSec": 156.4,
+          "endSec": 157.2,
+          "text": "programme,"
+        },
+        {
+          "startSec": 157.2,
+          "endSec": 157.4,
+          "text": "The"
+        },
+        {
+          "startSec": 157.4,
+          "endSec": 157.8,
+          "text": "Food"
+        },
+        {
+          "startSec": 157.8,
+          "endSec": 158.2,
+          "text": "Chain."
+        },
+        {
+          "startSec": 158.2,
+          "endSec": 158.5,
+          "text": "\"It"
+        }
+      ]
+    },
+    {
+      "startSec": 158.2,
+      "endSec": 163,
+      "text": "\"It will give a kick and transform it, but you will still have the savour",
+      "words": [
+        {
+          "startSec": 158.2,
+          "endSec": 158.5,
+          "text": "\"It"
+        },
+        {
+          "startSec": 158.5,
+          "endSec": 158.8,
+          "text": "will"
+        },
+        {
+          "startSec": 158.8,
+          "endSec": 159.2,
+          "text": "give"
+        },
+        {
+          "startSec": 159.2,
+          "endSec": 159.3,
+          "text": "a"
+        },
+        {
+          "startSec": 159.3,
+          "endSec": 159.6,
+          "text": "kick"
+        },
+        {
+          "startSec": 159.6,
+          "endSec": 159.9,
+          "text": "and"
+        },
+        {
+          "startSec": 159.9,
+          "endSec": 160.7,
+          "text": "transform"
+        },
+        {
+          "startSec": 160.7,
+          "endSec": 161,
+          "text": "it,"
+        },
+        {
+          "startSec": 161,
+          "endSec": 161.3,
+          "text": "but"
+        },
+        {
+          "startSec": 161.3,
+          "endSec": 161.5,
+          "text": "you"
+        },
+        {
+          "startSec": 161.5,
+          "endSec": 161.8,
+          "text": "will"
+        },
+        {
+          "startSec": 161.8,
+          "endSec": 162,
+          "text": "still"
+        },
+        {
+          "startSec": 162,
+          "endSec": 162.2,
+          "text": "have"
+        },
+        {
+          "startSec": 162.2,
+          "endSec": 162.4,
+          "text": "the"
+        },
+        {
+          "startSec": 162.4,
+          "endSec": 163,
+          "text": "savour"
+        },
+        {
+          "startSec": 163,
+          "endSec": 163.2,
+          "text": "of"
+        }
+      ]
+    },
+    {
+      "startSec": 163,
+      "endSec": 168,
+      "text": "of the different ingredients. It will not disguise the other ingredients,",
+      "words": [
+        {
+          "startSec": 163,
+          "endSec": 163.2,
+          "text": "of"
+        },
+        {
+          "startSec": 163.2,
+          "endSec": 163.4,
+          "text": "the"
+        },
+        {
+          "startSec": 163.4,
+          "endSec": 164,
+          "text": "different"
+        },
+        {
+          "startSec": 164,
+          "endSec": 165,
+          "text": "ingredients."
+        },
+        {
+          "startSec": 165,
+          "endSec": 165.2,
+          "text": "It"
+        },
+        {
+          "startSec": 165.2,
+          "endSec": 165.6,
+          "text": "will"
+        },
+        {
+          "startSec": 165.6,
+          "endSec": 166,
+          "text": "not"
+        },
+        {
+          "startSec": 166,
+          "endSec": 166.9,
+          "text": "disguise"
+        },
+        {
+          "startSec": 166.9,
+          "endSec": 167.1,
+          "text": "the"
+        },
+        {
+          "startSec": 167.1,
+          "endSec": 167.3,
+          "text": "other"
+        },
+        {
+          "startSec": 167.3,
+          "endSec": 168,
+          "text": "ingredients,"
+        }
+      ]
+    },
+    {
+      "startSec": 168,
+      "endSec": 171.2,
+      "text": "but it will push them to flavour our catalyst.\"",
+      "words": [
+        {
+          "startSec": 168.1,
+          "endSec": 168.2,
+          "text": "but"
+        },
+        {
+          "startSec": 168.2,
+          "endSec": 168.4,
+          "text": "it"
+        },
+        {
+          "startSec": 168.4,
+          "endSec": 168.7,
+          "text": "will"
+        },
+        {
+          "startSec": 168.7,
+          "endSec": 169,
+          "text": "push"
+        },
+        {
+          "startSec": 169,
+          "endSec": 169.3,
+          "text": "them"
+        },
+        {
+          "startSec": 169.3,
+          "endSec": 169.5,
+          "text": "to"
+        },
+        {
+          "startSec": 169.5,
+          "endSec": 170,
+          "text": "flavour"
+        },
+        {
+          "startSec": 170,
+          "endSec": 170.2,
+          "text": "our"
+        },
+        {
+          "startSec": 170.2,
+          "endSec": 171.2,
+          "text": "catalyst.\""
+        },
+        {
+          "startSec": 171.2,
+          "endSec": 171.4,
+          "text": "We"
+        }
+      ]
+    },
+    {
+      "startSec": 171.2,
+      "endSec": 175,
+      "text": "We can say in punctuation, like it's an exclamation.",
+      "words": [
+        {
+          "startSec": 171.2,
+          "endSec": 171.4,
+          "text": "We"
+        },
+        {
+          "startSec": 171.4,
+          "endSec": 171.6,
+          "text": "can"
+        },
+        {
+          "startSec": 171.6,
+          "endSec": 171.8,
+          "text": "say"
+        },
+        {
+          "startSec": 171.8,
+          "endSec": 172,
+          "text": "in"
+        },
+        {
+          "startSec": 172,
+          "endSec": 173,
+          "text": "punctuation,"
+        },
+        {
+          "startSec": 173,
+          "endSec": 173.3,
+          "text": "like"
+        },
+        {
+          "startSec": 173.3,
+          "endSec": 173.7,
+          "text": "it's"
+        },
+        {
+          "startSec": 173.7,
+          "endSec": 173.8,
+          "text": "an"
+        },
+        {
+          "startSec": 173.8,
+          "endSec": 175,
+          "text": "exclamation."
+        },
+        {
+          "startSec": 175,
+          "endSec": 175.2,
+          "text": "\"It's"
+        }
+      ]
+    },
+    {
+      "startSec": 175,
+      "endSec": 176.3,
+      "text": "\"It's like an exclamation mark.\"",
+      "words": [
+        {
+          "startSec": 175,
+          "endSec": 175.2,
+          "text": "\"It's"
+        },
+        {
+          "startSec": 175.2,
+          "endSec": 175.4,
+          "text": "like"
+        },
+        {
+          "startSec": 175.4,
+          "endSec": 175.5,
+          "text": "an"
+        },
+        {
+          "startSec": 175.5,
+          "endSec": 175.9,
+          "text": "exclamation"
+        },
+        {
+          "startSec": 175.9,
+          "endSec": 176.3,
+          "text": "mark.\""
+        },
+        {
+          "startSec": 176.3,
+          "endSec": 177.1,
+          "text": "Exactly."
+        }
+      ]
+    },
+    {
+      "startSec": 176.3,
+      "endSec": 177.1,
+      "text": "Exactly.",
+      "words": [
+        {
+          "startSec": 176.3,
+          "endSec": 177.1,
+          "text": "Exactly."
+        },
+        {
+          "startSec": 177.1,
+          "endSec": 177.8,
+          "text": "Matilda"
+        }
+      ]
+    },
+    {
+      "startSec": 177.1,
+      "endSec": 180,
+      "text": "Matilda says pepper gives food a kick.",
+      "words": [
+        {
+          "startSec": 177.1,
+          "endSec": 177.8,
+          "text": "Matilda"
+        },
+        {
+          "startSec": 177.8,
+          "endSec": 178.1,
+          "text": "says"
+        },
+        {
+          "startSec": 178.1,
+          "endSec": 178.7,
+          "text": "pepper"
+        },
+        {
+          "startSec": 178.7,
+          "endSec": 179.1,
+          "text": "gives"
+        },
+        {
+          "startSec": 179.1,
+          "endSec": 179.5,
+          "text": "food"
+        },
+        {
+          "startSec": 179.5,
+          "endSec": 179.6,
+          "text": "a"
+        },
+        {
+          "startSec": 179.6,
+          "endSec": 180,
+          "text": "kick."
+        },
+        {
+          "startSec": 180,
+          "endSec": 180.2,
+          "text": "To"
+        }
+      ]
+    },
+    {
+      "startSec": 180,
+      "endSec": 185.4,
+      "text": "To give something a kick means to provide it with extra stimulation or excitement.",
+      "words": [
+        {
+          "startSec": 180,
+          "endSec": 180.2,
+          "text": "To"
+        },
+        {
+          "startSec": 180.2,
+          "endSec": 180.5,
+          "text": "give"
+        },
+        {
+          "startSec": 180.5,
+          "endSec": 181.1,
+          "text": "something"
+        },
+        {
+          "startSec": 181.1,
+          "endSec": 181.2,
+          "text": "a"
+        },
+        {
+          "startSec": 181.2,
+          "endSec": 181.5,
+          "text": "kick"
+        },
+        {
+          "startSec": 181.5,
+          "endSec": 181.8,
+          "text": "means"
+        },
+        {
+          "startSec": 181.8,
+          "endSec": 181.9,
+          "text": "to"
+        },
+        {
+          "startSec": 181.9,
+          "endSec": 182.3,
+          "text": "provide"
+        },
+        {
+          "startSec": 182.3,
+          "endSec": 182.5,
+          "text": "it"
+        },
+        {
+          "startSec": 182.5,
+          "endSec": 182.9,
+          "text": "with"
+        },
+        {
+          "startSec": 182.9,
+          "endSec": 183.3,
+          "text": "extra"
+        },
+        {
+          "startSec": 183.3,
+          "endSec": 184.1,
+          "text": "stimulation"
+        },
+        {
+          "startSec": 184.1,
+          "endSec": 184.3,
+          "text": "or"
+        },
+        {
+          "startSec": 184.3,
+          "endSec": 185.4,
+          "text": "excitement."
+        },
+        {
+          "startSec": 185.4,
+          "endSec": 185.8,
+          "text": "Pepper"
+        }
+      ]
+    },
+    {
+      "startSec": 185.4,
+      "endSec": 188.2,
+      "text": "Pepper also makes flavours more intense.",
+      "words": [
+        {
+          "startSec": 185.4,
+          "endSec": 185.8,
+          "text": "Pepper"
+        },
+        {
+          "startSec": 185.8,
+          "endSec": 186.1,
+          "text": "also"
+        },
+        {
+          "startSec": 186.1,
+          "endSec": 186.5,
+          "text": "makes"
+        },
+        {
+          "startSec": 186.5,
+          "endSec": 187.1,
+          "text": "flavours"
+        },
+        {
+          "startSec": 187.1,
+          "endSec": 187.4,
+          "text": "more"
+        },
+        {
+          "startSec": 187.4,
+          "endSec": 188.2,
+          "text": "intense."
+        },
+        {
+          "startSec": 188.2,
+          "endSec": 188.8,
+          "text": "Matilda"
+        }
+      ]
+    },
+    {
+      "startSec": 188.2,
+      "endSec": 193,
+      "text": "Matilda calls it a catalyst, something that causes another action to start,",
+      "words": [
+        {
+          "startSec": 188.2,
+          "endSec": 188.8,
+          "text": "Matilda"
+        },
+        {
+          "startSec": 188.8,
+          "endSec": 189.3,
+          "text": "calls"
+        },
+        {
+          "startSec": 189.3,
+          "endSec": 189.4,
+          "text": "it"
+        },
+        {
+          "startSec": 189.4,
+          "endSec": 189.5,
+          "text": "a"
+        },
+        {
+          "startSec": 189.5,
+          "endSec": 190.5,
+          "text": "catalyst,"
+        },
+        {
+          "startSec": 190.5,
+          "endSec": 191,
+          "text": "something"
+        },
+        {
+          "startSec": 191,
+          "endSec": 191.3,
+          "text": "that"
+        },
+        {
+          "startSec": 191.3,
+          "endSec": 191.7,
+          "text": "causes"
+        },
+        {
+          "startSec": 191.7,
+          "endSec": 192.1,
+          "text": "another"
+        },
+        {
+          "startSec": 192.1,
+          "endSec": 192.4,
+          "text": "action"
+        },
+        {
+          "startSec": 192.4,
+          "endSec": 192.6,
+          "text": "to"
+        },
+        {
+          "startSec": 192.6,
+          "endSec": 193,
+          "text": "start,"
+        },
+        {
+          "startSec": 193,
+          "endSec": 193.2,
+          "text": "or"
+        }
+      ]
+    },
+    {
+      "startSec": 193,
+      "endSec": 195.3,
+      "text": "or makes it happen more quickly.",
+      "words": [
+        {
+          "startSec": 193,
+          "endSec": 193.2,
+          "text": "or"
+        },
+        {
+          "startSec": 193.2,
+          "endSec": 193.6,
+          "text": "makes"
+        },
+        {
+          "startSec": 193.6,
+          "endSec": 193.7,
+          "text": "it"
+        },
+        {
+          "startSec": 193.7,
+          "endSec": 194.2,
+          "text": "happen"
+        },
+        {
+          "startSec": 194.2,
+          "endSec": 194.5,
+          "text": "more"
+        },
+        {
+          "startSec": 194.5,
+          "endSec": 195.3,
+          "text": "quickly."
+        },
+        {
+          "startSec": 195.3,
+          "endSec": 195.5,
+          "text": "In"
+        }
+      ]
+    },
+    {
+      "startSec": 195.3,
+      "endSec": 199.6,
+      "text": "In fact, she says pepper is like an exclamation mark.",
+      "words": [
+        {
+          "startSec": 195.3,
+          "endSec": 195.5,
+          "text": "In"
+        },
+        {
+          "startSec": 195.5,
+          "endSec": 196,
+          "text": "fact,"
+        },
+        {
+          "startSec": 196,
+          "endSec": 196.3,
+          "text": "she"
+        },
+        {
+          "startSec": 196.3,
+          "endSec": 196.6,
+          "text": "says"
+        },
+        {
+          "startSec": 196.6,
+          "endSec": 197.2,
+          "text": "pepper"
+        },
+        {
+          "startSec": 197.2,
+          "endSec": 197.4,
+          "text": "is"
+        },
+        {
+          "startSec": 197.4,
+          "endSec": 197.7,
+          "text": "like"
+        },
+        {
+          "startSec": 197.7,
+          "endSec": 197.9,
+          "text": "an"
+        },
+        {
+          "startSec": 197.9,
+          "endSec": 198.9,
+          "text": "exclamation"
+        },
+        {
+          "startSec": 198.9,
+          "endSec": 199.6,
+          "text": "mark."
+        },
+        {
+          "startSec": 199.6,
+          "endSec": 200,
+          "text": "Saying"
+        }
+      ]
+    },
+    {
+      "startSec": 199.6,
+      "endSec": 205.4,
+      "text": "Saying something is like an exclamation mark means it shows strong emotion or excitement.",
+      "words": [
+        {
+          "startSec": 199.6,
+          "endSec": 200,
+          "text": "Saying"
+        },
+        {
+          "startSec": 200,
+          "endSec": 200.6,
+          "text": "something"
+        },
+        {
+          "startSec": 200.6,
+          "endSec": 200.8,
+          "text": "is"
+        },
+        {
+          "startSec": 200.8,
+          "endSec": 201,
+          "text": "like"
+        },
+        {
+          "startSec": 201,
+          "endSec": 201.2,
+          "text": "an"
+        },
+        {
+          "startSec": 201.2,
+          "endSec": 201.9,
+          "text": "exclamation"
+        },
+        {
+          "startSec": 201.9,
+          "endSec": 202.2,
+          "text": "mark"
+        },
+        {
+          "startSec": 202.2,
+          "endSec": 202.6,
+          "text": "means"
+        },
+        {
+          "startSec": 202.6,
+          "endSec": 202.9,
+          "text": "it"
+        },
+        {
+          "startSec": 202.9,
+          "endSec": 203.2,
+          "text": "shows"
+        },
+        {
+          "startSec": 203.2,
+          "endSec": 203.6,
+          "text": "strong"
+        },
+        {
+          "startSec": 203.6,
+          "endSec": 204,
+          "text": "emotion"
+        },
+        {
+          "startSec": 204,
+          "endSec": 204.2,
+          "text": "or"
+        },
+        {
+          "startSec": 204.2,
+          "endSec": 205.4,
+          "text": "excitement."
+        },
+        {
+          "startSec": 205.4,
+          "endSec": 205.5,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 205.4,
+      "endSec": 208.9,
+      "text": "The same thing an exclamation mark does in written punctuation.",
+      "words": [
+        {
+          "startSec": 205.4,
+          "endSec": 205.5,
+          "text": "The"
+        },
+        {
+          "startSec": 205.5,
+          "endSec": 205.8,
+          "text": "same"
+        },
+        {
+          "startSec": 205.8,
+          "endSec": 206.1,
+          "text": "thing"
+        },
+        {
+          "startSec": 206.1,
+          "endSec": 206.2,
+          "text": "an"
+        },
+        {
+          "startSec": 206.2,
+          "endSec": 206.9,
+          "text": "exclamation"
+        },
+        {
+          "startSec": 206.9,
+          "endSec": 207.2,
+          "text": "mark"
+        },
+        {
+          "startSec": 207.2,
+          "endSec": 207.4,
+          "text": "does"
+        },
+        {
+          "startSec": 207.4,
+          "endSec": 207.5,
+          "text": "in"
+        },
+        {
+          "startSec": 207.5,
+          "endSec": 208,
+          "text": "written"
+        },
+        {
+          "startSec": 208,
+          "endSec": 208.9,
+          "text": "punctuation."
+        },
+        {
+          "startSec": 208.9,
+          "endSec": 209.7,
+          "text": "Matilda's"
+        }
+      ]
+    },
+    {
+      "startSec": 208.9,
+      "endSec": 213,
+      "text": "Matilda's spice shop holds pepper-tasting sessions,",
+      "words": [
+        {
+          "startSec": 208.9,
+          "endSec": 209.7,
+          "text": "Matilda's"
+        },
+        {
+          "startSec": 209.7,
+          "endSec": 210.2,
+          "text": "spice"
+        },
+        {
+          "startSec": 210.2,
+          "endSec": 210.5,
+          "text": "shop"
+        },
+        {
+          "startSec": 210.5,
+          "endSec": 211,
+          "text": "holds"
+        },
+        {
+          "startSec": 211,
+          "endSec": 212.3,
+          "text": "pepper-tasting"
+        },
+        {
+          "startSec": 212.3,
+          "endSec": 213,
+          "text": "sessions,"
+        },
+        {
+          "startSec": 213,
+          "endSec": 213.3,
+          "text": "where"
+        }
+      ]
+    },
+    {
+      "startSec": 213,
+      "endSec": 217.4,
+      "text": "where she explains to customers the origin of her peppers and how they grow,",
+      "words": [
+        {
+          "startSec": 213,
+          "endSec": 213.3,
+          "text": "where"
+        },
+        {
+          "startSec": 213.3,
+          "endSec": 213.5,
+          "text": "she"
+        },
+        {
+          "startSec": 213.5,
+          "endSec": 214,
+          "text": "explains"
+        },
+        {
+          "startSec": 214,
+          "endSec": 214.1,
+          "text": "to"
+        },
+        {
+          "startSec": 214.1,
+          "endSec": 214.6,
+          "text": "customers"
+        },
+        {
+          "startSec": 214.6,
+          "endSec": 214.8,
+          "text": "the"
+        },
+        {
+          "startSec": 214.8,
+          "endSec": 215.3,
+          "text": "origin"
+        },
+        {
+          "startSec": 215.3,
+          "endSec": 215.4,
+          "text": "of"
+        },
+        {
+          "startSec": 215.4,
+          "endSec": 215.6,
+          "text": "her"
+        },
+        {
+          "startSec": 215.6,
+          "endSec": 216.1,
+          "text": "peppers"
+        },
+        {
+          "startSec": 216.1,
+          "endSec": 216.3,
+          "text": "and"
+        },
+        {
+          "startSec": 216.3,
+          "endSec": 216.5,
+          "text": "how"
+        },
+        {
+          "startSec": 216.5,
+          "endSec": 216.8,
+          "text": "they"
+        },
+        {
+          "startSec": 216.8,
+          "endSec": 217.4,
+          "text": "grow,"
+        },
+        {
+          "startSec": 217.4,
+          "endSec": 217.8,
+          "text": "changing"
+        }
+      ]
+    },
+    {
+      "startSec": 217.4,
+      "endSec": 219.4,
+      "text": "changing colour as they harden in the sun.",
+      "words": [
+        {
+          "startSec": 217.4,
+          "endSec": 217.8,
+          "text": "changing"
+        },
+        {
+          "startSec": 217.8,
+          "endSec": 218.1,
+          "text": "colour"
+        },
+        {
+          "startSec": 218.1,
+          "endSec": 218.2,
+          "text": "as"
+        },
+        {
+          "startSec": 218.2,
+          "endSec": 218.4,
+          "text": "they"
+        },
+        {
+          "startSec": 218.4,
+          "endSec": 218.7,
+          "text": "harden"
+        },
+        {
+          "startSec": 218.7,
+          "endSec": 218.8,
+          "text": "in"
+        },
+        {
+          "startSec": 218.8,
+          "endSec": 219,
+          "text": "the"
+        },
+        {
+          "startSec": 219,
+          "endSec": 219.4,
+          "text": "sun."
+        }
+      ]
+    },
+    {
+      "startSec": 220.2,
+      "endSec": 225.6,
+      "text": "Reporter John Lawrenceon attended one of these tasting sessions for BBC World Service programme,",
+      "words": [
+        {
+          "startSec": 220.3,
+          "endSec": 220.7,
+          "text": "Reporter"
+        },
+        {
+          "startSec": 220.7,
+          "endSec": 221,
+          "text": "John"
+        },
+        {
+          "startSec": 221,
+          "endSec": 221.6,
+          "text": "Lawrenceon"
+        },
+        {
+          "startSec": 221.6,
+          "endSec": 222.1,
+          "text": "attended"
+        },
+        {
+          "startSec": 222.1,
+          "endSec": 222.3,
+          "text": "one"
+        },
+        {
+          "startSec": 222.3,
+          "endSec": 222.5,
+          "text": "of"
+        },
+        {
+          "startSec": 222.5,
+          "endSec": 222.8,
+          "text": "these"
+        },
+        {
+          "startSec": 222.8,
+          "endSec": 223.3,
+          "text": "tasting"
+        },
+        {
+          "startSec": 223.3,
+          "endSec": 223.8,
+          "text": "sessions"
+        },
+        {
+          "startSec": 223.8,
+          "endSec": 224,
+          "text": "for"
+        },
+        {
+          "startSec": 224,
+          "endSec": 224.2,
+          "text": "BBC"
+        },
+        {
+          "startSec": 224.2,
+          "endSec": 224.5,
+          "text": "World"
+        },
+        {
+          "startSec": 224.5,
+          "endSec": 225,
+          "text": "Service"
+        },
+        {
+          "startSec": 225,
+          "endSec": 225.6,
+          "text": "programme,"
+        },
+        {
+          "startSec": 225.6,
+          "endSec": 225.9,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 225.6,
+      "endSec": 226.8,
+      "text": "The Food Chain.",
+      "words": [
+        {
+          "startSec": 225.6,
+          "endSec": 225.9,
+          "text": "The"
+        },
+        {
+          "startSec": 225.9,
+          "endSec": 226.3,
+          "text": "Food"
+        },
+        {
+          "startSec": 226.3,
+          "endSec": 226.8,
+          "text": "Chain."
+        },
+        {
+          "startSec": 226.8,
+          "endSec": 227,
+          "text": "\"The"
+        }
+      ]
+    },
+    {
+      "startSec": 226.8,
+      "endSec": 231.4,
+      "text": "\"The different colours of pepper, though, as Matilda started to say,",
+      "words": [
+        {
+          "startSec": 226.8,
+          "endSec": 227,
+          "text": "\"The"
+        },
+        {
+          "startSec": 227,
+          "endSec": 227.5,
+          "text": "different"
+        },
+        {
+          "startSec": 227.5,
+          "endSec": 227.9,
+          "text": "colours"
+        },
+        {
+          "startSec": 227.9,
+          "endSec": 228,
+          "text": "of"
+        },
+        {
+          "startSec": 228,
+          "endSec": 228.5,
+          "text": "pepper,"
+        },
+        {
+          "startSec": 228.5,
+          "endSec": 229,
+          "text": "though,"
+        },
+        {
+          "startSec": 229,
+          "endSec": 229.2,
+          "text": "as"
+        },
+        {
+          "startSec": 229.2,
+          "endSec": 230,
+          "text": "Matilda"
+        },
+        {
+          "startSec": 230,
+          "endSec": 230.8,
+          "text": "started"
+        },
+        {
+          "startSec": 230.8,
+          "endSec": 231,
+          "text": "to"
+        },
+        {
+          "startSec": 231,
+          "endSec": 231.4,
+          "text": "say,"
+        },
+        {
+          "startSec": 231.4,
+          "endSec": 231.5,
+          "text": "do"
+        }
+      ]
+    },
+    {
+      "startSec": 231.4,
+      "endSec": 233.8,
+      "text": "do not correspond to the different varieties,",
+      "words": [
+        {
+          "startSec": 231.4,
+          "endSec": 231.5,
+          "text": "do"
+        },
+        {
+          "startSec": 231.5,
+          "endSec": 231.7,
+          "text": "not"
+        },
+        {
+          "startSec": 231.7,
+          "endSec": 232.3,
+          "text": "correspond"
+        },
+        {
+          "startSec": 232.3,
+          "endSec": 232.4,
+          "text": "to"
+        },
+        {
+          "startSec": 232.4,
+          "endSec": 232.6,
+          "text": "the"
+        },
+        {
+          "startSec": 232.6,
+          "endSec": 233.1,
+          "text": "different"
+        },
+        {
+          "startSec": 233.1,
+          "endSec": 233.8,
+          "text": "varieties,"
+        },
+        {
+          "startSec": 233.8,
+          "endSec": 234,
+          "text": "but"
+        }
+      ]
+    },
+    {
+      "startSec": 233.8,
+      "endSec": 236.9,
+      "text": "but to the maturity of the peppercorns and what people do to them.",
+      "words": [
+        {
+          "startSec": 233.8,
+          "endSec": 234,
+          "text": "but"
+        },
+        {
+          "startSec": 234,
+          "endSec": 234.1,
+          "text": "to"
+        },
+        {
+          "startSec": 234.1,
+          "endSec": 234.3,
+          "text": "the"
+        },
+        {
+          "startSec": 234.3,
+          "endSec": 234.7,
+          "text": "maturity"
+        },
+        {
+          "startSec": 234.7,
+          "endSec": 234.8,
+          "text": "of"
+        },
+        {
+          "startSec": 234.8,
+          "endSec": 235,
+          "text": "the"
+        },
+        {
+          "startSec": 235,
+          "endSec": 235.5,
+          "text": "peppercorns"
+        },
+        {
+          "startSec": 235.5,
+          "endSec": 235.7,
+          "text": "and"
+        },
+        {
+          "startSec": 235.7,
+          "endSec": 235.9,
+          "text": "what"
+        },
+        {
+          "startSec": 235.9,
+          "endSec": 236.2,
+          "text": "people"
+        },
+        {
+          "startSec": 236.2,
+          "endSec": 236.3,
+          "text": "do"
+        },
+        {
+          "startSec": 236.3,
+          "endSec": 236.4,
+          "text": "to"
+        },
+        {
+          "startSec": 236.4,
+          "endSec": 236.9,
+          "text": "them."
+        },
+        {
+          "startSec": 236.9,
+          "endSec": 237.4,
+          "text": "They're"
+        }
+      ]
+    },
+    {
+      "startSec": 236.9,
+      "endSec": 241.6,
+      "text": "They're green when they're young, black when they're mature and dried,",
+      "words": [
+        {
+          "startSec": 236.9,
+          "endSec": 237.4,
+          "text": "They're"
+        },
+        {
+          "startSec": 237.4,
+          "endSec": 237.7,
+          "text": "green"
+        },
+        {
+          "startSec": 237.7,
+          "endSec": 238,
+          "text": "when"
+        },
+        {
+          "startSec": 238,
+          "endSec": 238.5,
+          "text": "they're"
+        },
+        {
+          "startSec": 238.5,
+          "endSec": 239,
+          "text": "young,"
+        },
+        {
+          "startSec": 239,
+          "endSec": 239.5,
+          "text": "black"
+        },
+        {
+          "startSec": 239.5,
+          "endSec": 239.8,
+          "text": "when"
+        },
+        {
+          "startSec": 239.8,
+          "endSec": 240.2,
+          "text": "they're"
+        },
+        {
+          "startSec": 240.2,
+          "endSec": 240.6,
+          "text": "mature"
+        },
+        {
+          "startSec": 240.6,
+          "endSec": 240.9,
+          "text": "and"
+        },
+        {
+          "startSec": 240.9,
+          "endSec": 241.6,
+          "text": "dried,"
+        },
+        {
+          "startSec": 241.6,
+          "endSec": 241.8,
+          "text": "red"
+        }
+      ]
+    },
+    {
+      "startSec": 241.6,
+      "endSec": 243.2,
+      "text": "red when they're very mature.",
+      "words": [
+        {
+          "startSec": 241.6,
+          "endSec": 241.8,
+          "text": "red"
+        },
+        {
+          "startSec": 241.8,
+          "endSec": 242,
+          "text": "when"
+        },
+        {
+          "startSec": 242,
+          "endSec": 242.4,
+          "text": "they're"
+        },
+        {
+          "startSec": 242.4,
+          "endSec": 242.6,
+          "text": "very"
+        },
+        {
+          "startSec": 242.6,
+          "endSec": 243.2,
+          "text": "mature."
+        },
+        {
+          "startSec": 243.2,
+          "endSec": 243.5,
+          "text": "Grey"
+        }
+      ]
+    },
+    {
+      "startSec": 243.2,
+      "endSec": 247.9,
+      "text": "Grey pepper is an industrial creation, not a botanical one,",
+      "words": [
+        {
+          "startSec": 243.2,
+          "endSec": 243.5,
+          "text": "Grey"
+        },
+        {
+          "startSec": 243.5,
+          "endSec": 244,
+          "text": "pepper"
+        },
+        {
+          "startSec": 244,
+          "endSec": 244.2,
+          "text": "is"
+        },
+        {
+          "startSec": 244.2,
+          "endSec": 244.3,
+          "text": "an"
+        },
+        {
+          "startSec": 244.3,
+          "endSec": 245.1,
+          "text": "industrial"
+        },
+        {
+          "startSec": 245.1,
+          "endSec": 245.9,
+          "text": "creation,"
+        },
+        {
+          "startSec": 245.9,
+          "endSec": 246.3,
+          "text": "not"
+        },
+        {
+          "startSec": 246.3,
+          "endSec": 246.4,
+          "text": "a"
+        },
+        {
+          "startSec": 246.4,
+          "endSec": 247.5,
+          "text": "botanical"
+        },
+        {
+          "startSec": 247.5,
+          "endSec": 247.9,
+          "text": "one,"
+        }
+      ]
+    },
+    {
+      "startSec": 247.9,
+      "endSec": 253.2,
+      "text": "ground to a fine powder. It is, says Matilda, grey dust.",
+      "words": [
+        {
+          "startSec": 248,
+          "endSec": 248.4,
+          "text": "ground"
+        },
+        {
+          "startSec": 248.4,
+          "endSec": 248.6,
+          "text": "to"
+        },
+        {
+          "startSec": 248.6,
+          "endSec": 248.7,
+          "text": "a"
+        },
+        {
+          "startSec": 248.7,
+          "endSec": 249,
+          "text": "fine"
+        },
+        {
+          "startSec": 249,
+          "endSec": 249.8,
+          "text": "powder."
+        },
+        {
+          "startSec": 249.8,
+          "endSec": 249.9,
+          "text": "It"
+        },
+        {
+          "startSec": 249.9,
+          "endSec": 250.3,
+          "text": "is,"
+        },
+        {
+          "startSec": 250.3,
+          "endSec": 250.7,
+          "text": "says"
+        },
+        {
+          "startSec": 250.7,
+          "endSec": 251.5,
+          "text": "Matilda,"
+        },
+        {
+          "startSec": 251.5,
+          "endSec": 252.1,
+          "text": "grey"
+        },
+        {
+          "startSec": 252.1,
+          "endSec": 253.2,
+          "text": "dust."
+        },
+        {
+          "startSec": 253.2,
+          "endSec": 253.5,
+          "text": "She's"
+        }
+      ]
+    },
+    {
+      "startSec": 253.2,
+      "endSec": 254.7,
+      "text": "She's not very keen on that one.\"",
+      "words": [
+        {
+          "startSec": 253.2,
+          "endSec": 253.5,
+          "text": "She's"
+        },
+        {
+          "startSec": 253.5,
+          "endSec": 253.6,
+          "text": "not"
+        },
+        {
+          "startSec": 253.6,
+          "endSec": 253.8,
+          "text": "very"
+        },
+        {
+          "startSec": 253.8,
+          "endSec": 254,
+          "text": "keen"
+        },
+        {
+          "startSec": 254,
+          "endSec": 254.1,
+          "text": "on"
+        },
+        {
+          "startSec": 254.1,
+          "endSec": 254.3,
+          "text": "that"
+        },
+        {
+          "startSec": 254.3,
+          "endSec": 254.7,
+          "text": "one.\""
+        },
+        {
+          "startSec": 254.7,
+          "endSec": 255,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 254.7,
+      "endSec": 258.2,
+      "text": "The colour of pepper is not determined by the variety,",
+      "words": [
+        {
+          "startSec": 254.7,
+          "endSec": 255,
+          "text": "The"
+        },
+        {
+          "startSec": 255,
+          "endSec": 255.4,
+          "text": "colour"
+        },
+        {
+          "startSec": 255.4,
+          "endSec": 255.6,
+          "text": "of"
+        },
+        {
+          "startSec": 255.6,
+          "endSec": 256,
+          "text": "pepper"
+        },
+        {
+          "startSec": 256,
+          "endSec": 256.2,
+          "text": "is"
+        },
+        {
+          "startSec": 256.2,
+          "endSec": 256.4,
+          "text": "not"
+        },
+        {
+          "startSec": 256.4,
+          "endSec": 257.2,
+          "text": "determined"
+        },
+        {
+          "startSec": 257.2,
+          "endSec": 257.3,
+          "text": "by"
+        },
+        {
+          "startSec": 257.3,
+          "endSec": 257.6,
+          "text": "the"
+        },
+        {
+          "startSec": 257.6,
+          "endSec": 258.2,
+          "text": "variety,"
+        },
+        {
+          "startSec": 258.2,
+          "endSec": 258.4,
+          "text": "but"
+        }
+      ]
+    },
+    {
+      "startSec": 258.2,
+      "endSec": 259.5,
+      "text": "but by its maturity.",
+      "words": [
+        {
+          "startSec": 258.2,
+          "endSec": 258.4,
+          "text": "but"
+        },
+        {
+          "startSec": 258.4,
+          "endSec": 258.5,
+          "text": "by"
+        },
+        {
+          "startSec": 258.5,
+          "endSec": 258.7,
+          "text": "its"
+        },
+        {
+          "startSec": 258.7,
+          "endSec": 259.5,
+          "text": "maturity."
+        },
+        {
+          "startSec": 259.5,
+          "endSec": 259.6,
+          "text": "A"
+        }
+      ]
+    },
+    {
+      "startSec": 259.5,
+      "endSec": 265,
+      "text": "A food's maturity describes the stage when a food is fully grown and ready to harvest.",
+      "words": [
+        {
+          "startSec": 259.5,
+          "endSec": 259.6,
+          "text": "A"
+        },
+        {
+          "startSec": 259.6,
+          "endSec": 260.2,
+          "text": "food's"
+        },
+        {
+          "startSec": 260.2,
+          "endSec": 260.9,
+          "text": "maturity"
+        },
+        {
+          "startSec": 260.9,
+          "endSec": 261.7,
+          "text": "describes"
+        },
+        {
+          "startSec": 261.7,
+          "endSec": 262,
+          "text": "the"
+        },
+        {
+          "startSec": 262,
+          "endSec": 262.5,
+          "text": "stage"
+        },
+        {
+          "startSec": 262.5,
+          "endSec": 262.7,
+          "text": "when"
+        },
+        {
+          "startSec": 262.7,
+          "endSec": 262.8,
+          "text": "a"
+        },
+        {
+          "startSec": 262.8,
+          "endSec": 263,
+          "text": "food"
+        },
+        {
+          "startSec": 263,
+          "endSec": 263.2,
+          "text": "is"
+        },
+        {
+          "startSec": 263.2,
+          "endSec": 263.6,
+          "text": "fully"
+        },
+        {
+          "startSec": 263.6,
+          "endSec": 263.9,
+          "text": "grown"
+        },
+        {
+          "startSec": 263.9,
+          "endSec": 264.1,
+          "text": "and"
+        },
+        {
+          "startSec": 264.1,
+          "endSec": 264.4,
+          "text": "ready"
+        },
+        {
+          "startSec": 264.4,
+          "endSec": 264.5,
+          "text": "to"
+        },
+        {
+          "startSec": 264.5,
+          "endSec": 265,
+          "text": "harvest."
+        },
+        {
+          "startSec": 265,
+          "endSec": 265.3,
+          "text": "For"
+        }
+      ]
+    },
+    {
+      "startSec": 265,
+      "endSec": 268.4,
+      "text": "For peppers, this is when they wrinkle and go black.",
+      "words": [
+        {
+          "startSec": 265,
+          "endSec": 265.3,
+          "text": "For"
+        },
+        {
+          "startSec": 265.3,
+          "endSec": 265.9,
+          "text": "peppers,"
+        },
+        {
+          "startSec": 265.9,
+          "endSec": 266.2,
+          "text": "this"
+        },
+        {
+          "startSec": 266.2,
+          "endSec": 266.3,
+          "text": "is"
+        },
+        {
+          "startSec": 266.3,
+          "endSec": 266.6,
+          "text": "when"
+        },
+        {
+          "startSec": 266.6,
+          "endSec": 266.9,
+          "text": "they"
+        },
+        {
+          "startSec": 266.9,
+          "endSec": 267.4,
+          "text": "wrinkle"
+        },
+        {
+          "startSec": 267.4,
+          "endSec": 267.6,
+          "text": "and"
+        },
+        {
+          "startSec": 267.6,
+          "endSec": 267.8,
+          "text": "go"
+        },
+        {
+          "startSec": 267.8,
+          "endSec": 268.4,
+          "text": "black."
+        },
+        {
+          "startSec": 268.4,
+          "endSec": 269.3,
+          "text": "\"Often,"
+        }
+      ]
+    },
+    {
+      "startSec": 268.4,
+      "endSec": 272.8,
+      "text": "\"Often, a pepper mill is used to grind pepper,",
+      "words": [
+        {
+          "startSec": 268.4,
+          "endSec": 269.3,
+          "text": "\"Often,"
+        },
+        {
+          "startSec": 269.3,
+          "endSec": 269.4,
+          "text": "a"
+        },
+        {
+          "startSec": 269.4,
+          "endSec": 270.1,
+          "text": "pepper"
+        },
+        {
+          "startSec": 270.1,
+          "endSec": 270.6,
+          "text": "mill"
+        },
+        {
+          "startSec": 270.6,
+          "endSec": 270.8,
+          "text": "is"
+        },
+        {
+          "startSec": 270.8,
+          "endSec": 271.3,
+          "text": "used"
+        },
+        {
+          "startSec": 271.3,
+          "endSec": 271.5,
+          "text": "to"
+        },
+        {
+          "startSec": 271.5,
+          "endSec": 272.1,
+          "text": "grind"
+        },
+        {
+          "startSec": 272.1,
+          "endSec": 272.8,
+          "text": "pepper,"
+        },
+        {
+          "startSec": 272.8,
+          "endSec": 273,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 272.8,
+      "endSec": 277.2,
+      "text": "to crush it into powder by pressing it between two hard surfaces.",
+      "words": [
+        {
+          "startSec": 272.8,
+          "endSec": 273,
+          "text": "to"
+        },
+        {
+          "startSec": 273,
+          "endSec": 273.3,
+          "text": "crush"
+        },
+        {
+          "startSec": 273.3,
+          "endSec": 273.5,
+          "text": "it"
+        },
+        {
+          "startSec": 273.5,
+          "endSec": 273.8,
+          "text": "into"
+        },
+        {
+          "startSec": 273.8,
+          "endSec": 274.3,
+          "text": "powder"
+        },
+        {
+          "startSec": 274.3,
+          "endSec": 274.4,
+          "text": "by"
+        },
+        {
+          "startSec": 274.4,
+          "endSec": 275,
+          "text": "pressing"
+        },
+        {
+          "startSec": 275,
+          "endSec": 275.2,
+          "text": "it"
+        },
+        {
+          "startSec": 275.2,
+          "endSec": 275.7,
+          "text": "between"
+        },
+        {
+          "startSec": 275.7,
+          "endSec": 276,
+          "text": "two"
+        },
+        {
+          "startSec": 276,
+          "endSec": 276.3,
+          "text": "hard"
+        },
+        {
+          "startSec": 276.3,
+          "endSec": 277.2,
+          "text": "surfaces."
+        }
+      ]
+    },
+    {
+      "startSec": 277.2,
+      "endSec": 281.2,
+      "text": "This happens with grey pepper, an artificially produced pepper mix,",
+      "words": [
+        {
+          "startSec": 277.3,
+          "endSec": 277.5,
+          "text": "This"
+        },
+        {
+          "startSec": 277.5,
+          "endSec": 277.9,
+          "text": "happens"
+        },
+        {
+          "startSec": 277.9,
+          "endSec": 278.2,
+          "text": "with"
+        },
+        {
+          "startSec": 278.2,
+          "endSec": 278.4,
+          "text": "grey"
+        },
+        {
+          "startSec": 278.4,
+          "endSec": 279,
+          "text": "pepper,"
+        },
+        {
+          "startSec": 279,
+          "endSec": 279.1,
+          "text": "an"
+        },
+        {
+          "startSec": 279.1,
+          "endSec": 279.8,
+          "text": "artificially"
+        },
+        {
+          "startSec": 279.8,
+          "endSec": 280.3,
+          "text": "produced"
+        },
+        {
+          "startSec": 280.3,
+          "endSec": 280.7,
+          "text": "pepper"
+        },
+        {
+          "startSec": 280.7,
+          "endSec": 281.2,
+          "text": "mix,"
+        },
+        {
+          "startSec": 281.2,
+          "endSec": 281.6,
+          "text": "which"
+        }
+      ]
+    },
+    {
+      "startSec": 281.2,
+      "endSec": 285,
+      "text": "which Matilda is not keen on, meaning she doesn't like it.\"",
+      "words": [
+        {
+          "startSec": 281.2,
+          "endSec": 281.6,
+          "text": "which"
+        },
+        {
+          "startSec": 281.6,
+          "endSec": 282.1,
+          "text": "Matilda"
+        },
+        {
+          "startSec": 282.1,
+          "endSec": 282.3,
+          "text": "is"
+        },
+        {
+          "startSec": 282.3,
+          "endSec": 282.5,
+          "text": "not"
+        },
+        {
+          "startSec": 282.5,
+          "endSec": 282.9,
+          "text": "keen"
+        },
+        {
+          "startSec": 282.9,
+          "endSec": 283.2,
+          "text": "on,"
+        },
+        {
+          "startSec": 283.2,
+          "endSec": 283.7,
+          "text": "meaning"
+        },
+        {
+          "startSec": 283.7,
+          "endSec": 283.9,
+          "text": "she"
+        },
+        {
+          "startSec": 283.9,
+          "endSec": 284.3,
+          "text": "doesn't"
+        },
+        {
+          "startSec": 284.3,
+          "endSec": 284.6,
+          "text": "like"
+        },
+        {
+          "startSec": 284.6,
+          "endSec": 285,
+          "text": "it.\""
+        },
+        {
+          "startSec": 285,
+          "endSec": 285.4,
+          "text": "\"We've"
+        }
+      ]
+    },
+    {
+      "startSec": 285,
+      "endSec": 286.9,
+      "text": "\"We've learned so much about pepper.",
+      "words": [
+        {
+          "startSec": 285,
+          "endSec": 285.4,
+          "text": "\"We've"
+        },
+        {
+          "startSec": 285.4,
+          "endSec": 285.8,
+          "text": "learned"
+        },
+        {
+          "startSec": 285.8,
+          "endSec": 285.9,
+          "text": "so"
+        },
+        {
+          "startSec": 285.9,
+          "endSec": 286.1,
+          "text": "much"
+        },
+        {
+          "startSec": 286.1,
+          "endSec": 286.4,
+          "text": "about"
+        },
+        {
+          "startSec": 286.4,
+          "endSec": 286.9,
+          "text": "pepper."
+        },
+        {
+          "startSec": 286.9,
+          "endSec": 287.1,
+          "text": "I'll"
+        }
+      ]
+    },
+    {
+      "startSec": 286.9,
+      "endSec": 290.1,
+      "text": "I'll look at it differently the next time I sprinkle some on my food.\"",
+      "words": [
+        {
+          "startSec": 286.9,
+          "endSec": 287.1,
+          "text": "I'll"
+        },
+        {
+          "startSec": 287.1,
+          "endSec": 287.3,
+          "text": "look"
+        },
+        {
+          "startSec": 287.3,
+          "endSec": 287.4,
+          "text": "at"
+        },
+        {
+          "startSec": 287.4,
+          "endSec": 287.5,
+          "text": "it"
+        },
+        {
+          "startSec": 287.5,
+          "endSec": 288.1,
+          "text": "differently"
+        },
+        {
+          "startSec": 288.1,
+          "endSec": 288.3,
+          "text": "the"
+        },
+        {
+          "startSec": 288.3,
+          "endSec": 288.5,
+          "text": "next"
+        },
+        {
+          "startSec": 288.5,
+          "endSec": 288.7,
+          "text": "time"
+        },
+        {
+          "startSec": 288.7,
+          "endSec": 288.8,
+          "text": "I"
+        },
+        {
+          "startSec": 288.8,
+          "endSec": 289.2,
+          "text": "sprinkle"
+        },
+        {
+          "startSec": 289.2,
+          "endSec": 289.4,
+          "text": "some"
+        },
+        {
+          "startSec": 289.4,
+          "endSec": 289.5,
+          "text": "on"
+        },
+        {
+          "startSec": 289.5,
+          "endSec": 289.6,
+          "text": "my"
+        },
+        {
+          "startSec": 289.6,
+          "endSec": 290.1,
+          "text": "food.\""
+        },
+        {
+          "startSec": 290.1,
+          "endSec": 290.9,
+          "text": "\"Okay,"
+        }
+      ]
+    },
+    {
+      "startSec": 290.1,
+      "endSec": 294.7,
+      "text": "\"Okay, Neil, I think it's time to reveal the answer to your question.\"",
+      "words": [
+        {
+          "startSec": 290.1,
+          "endSec": 290.9,
+          "text": "\"Okay,"
+        },
+        {
+          "startSec": 290.9,
+          "endSec": 291.7,
+          "text": "Neil,"
+        },
+        {
+          "startSec": 291.7,
+          "endSec": 291.7,
+          "text": "I"
+        },
+        {
+          "startSec": 291.7,
+          "endSec": 292,
+          "text": "think"
+        },
+        {
+          "startSec": 292,
+          "endSec": 292.2,
+          "text": "it's"
+        },
+        {
+          "startSec": 292.2,
+          "endSec": 292.5,
+          "text": "time"
+        },
+        {
+          "startSec": 292.5,
+          "endSec": 292.6,
+          "text": "to"
+        },
+        {
+          "startSec": 292.6,
+          "endSec": 293,
+          "text": "reveal"
+        },
+        {
+          "startSec": 293,
+          "endSec": 293.1,
+          "text": "the"
+        },
+        {
+          "startSec": 293.1,
+          "endSec": 293.4,
+          "text": "answer"
+        },
+        {
+          "startSec": 293.4,
+          "endSec": 293.6,
+          "text": "to"
+        },
+        {
+          "startSec": 293.6,
+          "endSec": 293.9,
+          "text": "your"
+        },
+        {
+          "startSec": 293.9,
+          "endSec": 294.7,
+          "text": "question.\""
+        },
+        {
+          "startSec": 294.7,
+          "endSec": 295.2,
+          "text": "\"Yes,"
+        }
+      ]
+    },
+    {
+      "startSec": 294.7,
+      "endSec": 300.6,
+      "text": "\"Yes, I asked you what's unusual about Fu Quok, a white pepper from Vietnam.\"",
+      "words": [
+        {
+          "startSec": 294.7,
+          "endSec": 295.2,
+          "text": "\"Yes,"
+        },
+        {
+          "startSec": 295.2,
+          "endSec": 295.3,
+          "text": "I"
+        },
+        {
+          "startSec": 295.3,
+          "endSec": 295.7,
+          "text": "asked"
+        },
+        {
+          "startSec": 295.7,
+          "endSec": 296,
+          "text": "you"
+        },
+        {
+          "startSec": 296,
+          "endSec": 296.5,
+          "text": "what's"
+        },
+        {
+          "startSec": 296.5,
+          "endSec": 297.1,
+          "text": "unusual"
+        },
+        {
+          "startSec": 297.1,
+          "endSec": 297.6,
+          "text": "about"
+        },
+        {
+          "startSec": 297.6,
+          "endSec": 297.9,
+          "text": "Fu"
+        },
+        {
+          "startSec": 297.9,
+          "endSec": 298.5,
+          "text": "Quok,"
+        },
+        {
+          "startSec": 298.5,
+          "endSec": 298.6,
+          "text": "a"
+        },
+        {
+          "startSec": 298.6,
+          "endSec": 299,
+          "text": "white"
+        },
+        {
+          "startSec": 299,
+          "endSec": 299.4,
+          "text": "pepper"
+        },
+        {
+          "startSec": 299.4,
+          "endSec": 299.7,
+          "text": "from"
+        },
+        {
+          "startSec": 299.7,
+          "endSec": 300.6,
+          "text": "Vietnam.\""
+        },
+        {
+          "startSec": 300.6,
+          "endSec": 300.7,
+          "text": "\"I"
+        }
+      ]
+    },
+    {
+      "startSec": 300.6,
+      "endSec": 305.6,
+      "text": "\"I answered B because I wanted to taste like Parmesan cheese.\"",
+      "words": [
+        {
+          "startSec": 300.6,
+          "endSec": 300.7,
+          "text": "\"I"
+        },
+        {
+          "startSec": 300.7,
+          "endSec": 301.5,
+          "text": "answered"
+        },
+        {
+          "startSec": 301.5,
+          "endSec": 301.6,
+          "text": "B"
+        },
+        {
+          "startSec": 301.6,
+          "endSec": 302.2,
+          "text": "because"
+        },
+        {
+          "startSec": 302.2,
+          "endSec": 302.3,
+          "text": "I"
+        },
+        {
+          "startSec": 302.3,
+          "endSec": 302.9,
+          "text": "wanted"
+        },
+        {
+          "startSec": 302.9,
+          "endSec": 303.1,
+          "text": "to"
+        },
+        {
+          "startSec": 303.1,
+          "endSec": 303.5,
+          "text": "taste"
+        },
+        {
+          "startSec": 303.5,
+          "endSec": 303.9,
+          "text": "like"
+        },
+        {
+          "startSec": 303.9,
+          "endSec": 304.6,
+          "text": "Parmesan"
+        },
+        {
+          "startSec": 304.6,
+          "endSec": 305.6,
+          "text": "cheese.\""
+        }
+      ]
+    },
+    {
+      "startSec": 305.6,
+      "endSec": 309.2,
+      "text": "\"Well, you're lucky, because it is, in fact, B.",
+      "words": [
+        {
+          "startSec": 305.7,
+          "endSec": 306.1,
+          "text": "\"Well,"
+        },
+        {
+          "startSec": 306.1,
+          "endSec": 306.5,
+          "text": "you're"
+        },
+        {
+          "startSec": 306.5,
+          "endSec": 307,
+          "text": "lucky,"
+        },
+        {
+          "startSec": 307,
+          "endSec": 307.5,
+          "text": "because"
+        },
+        {
+          "startSec": 307.5,
+          "endSec": 307.7,
+          "text": "it"
+        },
+        {
+          "startSec": 307.7,
+          "endSec": 307.9,
+          "text": "is,"
+        },
+        {
+          "startSec": 307.9,
+          "endSec": 308.1,
+          "text": "in"
+        },
+        {
+          "startSec": 308.1,
+          "endSec": 308.6,
+          "text": "fact,"
+        },
+        {
+          "startSec": 308.6,
+          "endSec": 309.2,
+          "text": "B."
+        },
+        {
+          "startSec": 309.2,
+          "endSec": 309.3,
+          "text": "It"
+        }
+      ]
+    },
+    {
+      "startSec": 309.2,
+      "endSec": 311.1,
+      "text": "It tastes like Parmesan cheese.\"",
+      "words": [
+        {
+          "startSec": 309.2,
+          "endSec": 309.3,
+          "text": "It"
+        },
+        {
+          "startSec": 309.3,
+          "endSec": 309.7,
+          "text": "tastes"
+        },
+        {
+          "startSec": 309.7,
+          "endSec": 310,
+          "text": "like"
+        },
+        {
+          "startSec": 310,
+          "endSec": 310.5,
+          "text": "Parmesan"
+        },
+        {
+          "startSec": 310.5,
+          "endSec": 311.1,
+          "text": "cheese.\""
+        },
+        {
+          "startSec": 311.1,
+          "endSec": 311.3,
+          "text": "Well"
+        }
+      ]
+    },
+    {
+      "startSec": 311.1,
+      "endSec": 311.6,
+      "text": "Well done.",
+      "words": [
+        {
+          "startSec": 311.1,
+          "endSec": 311.3,
+          "text": "Well"
+        },
+        {
+          "startSec": 311.3,
+          "endSec": 311.6,
+          "text": "done."
+        },
+        {
+          "startSec": 311.6,
+          "endSec": 312.1,
+          "text": "Okay,"
+        }
+      ]
+    },
+    {
+      "startSec": 311.6,
+      "endSec": 315,
+      "text": "Okay, let's recap the vocabulary we've learned,",
+      "words": [
+        {
+          "startSec": 311.6,
+          "endSec": 312.1,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 312.1,
+          "endSec": 312.5,
+          "text": "let's"
+        },
+        {
+          "startSec": 312.5,
+          "endSec": 312.9,
+          "text": "recap"
+        },
+        {
+          "startSec": 312.9,
+          "endSec": 313.1,
+          "text": "the"
+        },
+        {
+          "startSec": 313.1,
+          "endSec": 313.9,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 313.9,
+          "endSec": 314.3,
+          "text": "we've"
+        },
+        {
+          "startSec": 314.3,
+          "endSec": 315,
+          "text": "learned,"
+        },
+        {
+          "startSec": 315,
+          "endSec": 315.5,
+          "text": "starting"
+        }
+      ]
+    },
+    {
+      "startSec": 315,
+      "endSec": 317.8,
+      "text": "starting with the phrase \"give something a kick,\"",
+      "words": [
+        {
+          "startSec": 315,
+          "endSec": 315.5,
+          "text": "starting"
+        },
+        {
+          "startSec": 315.5,
+          "endSec": 315.7,
+          "text": "with"
+        },
+        {
+          "startSec": 315.7,
+          "endSec": 315.9,
+          "text": "the"
+        },
+        {
+          "startSec": 315.9,
+          "endSec": 316.3,
+          "text": "phrase"
+        },
+        {
+          "startSec": 316.3,
+          "endSec": 316.6,
+          "text": "\"give"
+        },
+        {
+          "startSec": 316.6,
+          "endSec": 317.2,
+          "text": "something"
+        },
+        {
+          "startSec": 317.2,
+          "endSec": 317.3,
+          "text": "a"
+        },
+        {
+          "startSec": 317.3,
+          "endSec": 317.8,
+          "text": "kick,\""
+        },
+        {
+          "startSec": 317.8,
+          "endSec": 318.2,
+          "text": "meaning"
+        }
+      ]
+    },
+    {
+      "startSec": 317.8,
+      "endSec": 320.4,
+      "text": "meaning to add extra thrill or excitement.",
+      "words": [
+        {
+          "startSec": 317.8,
+          "endSec": 318.2,
+          "text": "meaning"
+        },
+        {
+          "startSec": 318.2,
+          "endSec": 318.4,
+          "text": "to"
+        },
+        {
+          "startSec": 318.4,
+          "endSec": 318.6,
+          "text": "add"
+        },
+        {
+          "startSec": 318.6,
+          "endSec": 318.9,
+          "text": "extra"
+        },
+        {
+          "startSec": 318.9,
+          "endSec": 319.3,
+          "text": "thrill"
+        },
+        {
+          "startSec": 319.3,
+          "endSec": 319.5,
+          "text": "or"
+        },
+        {
+          "startSec": 319.5,
+          "endSec": 320.4,
+          "text": "excitement."
+        },
+        {
+          "startSec": 320.4,
+          "endSec": 320.6,
+          "text": "\"A"
+        }
+      ]
+    },
+    {
+      "startSec": 320.4,
+      "endSec": 325,
+      "text": "\"A catalyst causes something to start or speeds it up.\"",
+      "words": [
+        {
+          "startSec": 320.4,
+          "endSec": 320.6,
+          "text": "\"A"
+        },
+        {
+          "startSec": 320.6,
+          "endSec": 321.4,
+          "text": "catalyst"
+        },
+        {
+          "startSec": 321.4,
+          "endSec": 321.9,
+          "text": "causes"
+        },
+        {
+          "startSec": 321.9,
+          "endSec": 322.8,
+          "text": "something"
+        },
+        {
+          "startSec": 322.8,
+          "endSec": 323,
+          "text": "to"
+        },
+        {
+          "startSec": 323,
+          "endSec": 323.5,
+          "text": "start"
+        },
+        {
+          "startSec": 323.5,
+          "endSec": 323.6,
+          "text": "or"
+        },
+        {
+          "startSec": 323.6,
+          "endSec": 324.2,
+          "text": "speeds"
+        },
+        {
+          "startSec": 324.2,
+          "endSec": 324.4,
+          "text": "it"
+        },
+        {
+          "startSec": 324.4,
+          "endSec": 325,
+          "text": "up.\""
+        },
+        {
+          "startSec": 325,
+          "endSec": 325.2,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 325,
+      "endSec": 328.2,
+      "text": "If you say something is like an exclamation mark,",
+      "words": [
+        {
+          "startSec": 325,
+          "endSec": 325.2,
+          "text": "If"
+        },
+        {
+          "startSec": 325.2,
+          "endSec": 325.4,
+          "text": "you"
+        },
+        {
+          "startSec": 325.4,
+          "endSec": 325.6,
+          "text": "say"
+        },
+        {
+          "startSec": 325.6,
+          "endSec": 326.3,
+          "text": "something"
+        },
+        {
+          "startSec": 326.3,
+          "endSec": 326.5,
+          "text": "is"
+        },
+        {
+          "startSec": 326.5,
+          "endSec": 326.8,
+          "text": "like"
+        },
+        {
+          "startSec": 326.8,
+          "endSec": 326.9,
+          "text": "an"
+        },
+        {
+          "startSec": 326.9,
+          "endSec": 327.7,
+          "text": "exclamation"
+        },
+        {
+          "startSec": 327.7,
+          "endSec": 328.2,
+          "text": "mark,"
+        },
+        {
+          "startSec": 328.2,
+          "endSec": 328.5,
+          "text": "you"
+        }
+      ]
+    },
+    {
+      "startSec": 328.2,
+      "endSec": 332.6,
+      "text": "you mean it signifies strong emotion, surprise, or excitement,",
+      "words": [
+        {
+          "startSec": 328.2,
+          "endSec": 328.5,
+          "text": "you"
+        },
+        {
+          "startSec": 328.5,
+          "endSec": 328.8,
+          "text": "mean"
+        },
+        {
+          "startSec": 328.8,
+          "endSec": 328.9,
+          "text": "it"
+        },
+        {
+          "startSec": 328.9,
+          "endSec": 329.6,
+          "text": "signifies"
+        },
+        {
+          "startSec": 329.6,
+          "endSec": 330.1,
+          "text": "strong"
+        },
+        {
+          "startSec": 330.1,
+          "endSec": 330.8,
+          "text": "emotion,"
+        },
+        {
+          "startSec": 330.8,
+          "endSec": 331.4,
+          "text": "surprise,"
+        },
+        {
+          "startSec": 331.4,
+          "endSec": 331.6,
+          "text": "or"
+        },
+        {
+          "startSec": 331.6,
+          "endSec": 332.6,
+          "text": "excitement,"
+        },
+        {
+          "startSec": 332.6,
+          "endSec": 332.8,
+          "text": "just"
+        }
+      ]
+    },
+    {
+      "startSec": 332.6,
+      "endSec": 335,
+      "text": "just like an exclamation mark does in writing.",
+      "words": [
+        {
+          "startSec": 332.6,
+          "endSec": 332.8,
+          "text": "just"
+        },
+        {
+          "startSec": 332.8,
+          "endSec": 333,
+          "text": "like"
+        },
+        {
+          "startSec": 333,
+          "endSec": 333.1,
+          "text": "an"
+        },
+        {
+          "startSec": 333.1,
+          "endSec": 333.8,
+          "text": "exclamation"
+        },
+        {
+          "startSec": 333.8,
+          "endSec": 334,
+          "text": "mark"
+        },
+        {
+          "startSec": 334,
+          "endSec": 334.2,
+          "text": "does"
+        },
+        {
+          "startSec": 334.2,
+          "endSec": 334.3,
+          "text": "in"
+        },
+        {
+          "startSec": 334.3,
+          "endSec": 335,
+          "text": "writing."
+        }
+      ]
+    },
+    {
+      "startSec": 335.6,
+      "endSec": 339.9,
+      "text": "A food's maturity refers to the stage when it's fully grown and ready for harvest.",
+      "words": [
+        {
+          "startSec": 335.7,
+          "endSec": 335.7,
+          "text": "A"
+        },
+        {
+          "startSec": 335.7,
+          "endSec": 336.1,
+          "text": "food's"
+        },
+        {
+          "startSec": 336.1,
+          "endSec": 336.7,
+          "text": "maturity"
+        },
+        {
+          "startSec": 336.7,
+          "endSec": 337.1,
+          "text": "refers"
+        },
+        {
+          "startSec": 337.1,
+          "endSec": 337.2,
+          "text": "to"
+        },
+        {
+          "startSec": 337.2,
+          "endSec": 337.4,
+          "text": "the"
+        },
+        {
+          "startSec": 337.4,
+          "endSec": 337.8,
+          "text": "stage"
+        },
+        {
+          "startSec": 337.8,
+          "endSec": 338,
+          "text": "when"
+        },
+        {
+          "startSec": 338,
+          "endSec": 338.2,
+          "text": "it's"
+        },
+        {
+          "startSec": 338.2,
+          "endSec": 338.6,
+          "text": "fully"
+        },
+        {
+          "startSec": 338.6,
+          "endSec": 338.9,
+          "text": "grown"
+        },
+        {
+          "startSec": 338.9,
+          "endSec": 339,
+          "text": "and"
+        },
+        {
+          "startSec": 339,
+          "endSec": 339.3,
+          "text": "ready"
+        },
+        {
+          "startSec": 339.3,
+          "endSec": 339.4,
+          "text": "for"
+        },
+        {
+          "startSec": 339.4,
+          "endSec": 339.9,
+          "text": "harvest."
+        },
+        {
+          "startSec": 339.9,
+          "endSec": 340.3,
+          "text": "\"To"
+        }
+      ]
+    },
+    {
+      "startSec": 339.9,
+      "endSec": 346.8,
+      "text": "\"To grind food means to crush it into powder by being pressed between two hard surfaces.\"",
+      "words": [
+        {
+          "startSec": 339.9,
+          "endSec": 340.3,
+          "text": "\"To"
+        },
+        {
+          "startSec": 340.3,
+          "endSec": 340.8,
+          "text": "grind"
+        },
+        {
+          "startSec": 340.8,
+          "endSec": 341.3,
+          "text": "food"
+        },
+        {
+          "startSec": 341.3,
+          "endSec": 341.9,
+          "text": "means"
+        },
+        {
+          "startSec": 341.9,
+          "endSec": 342.1,
+          "text": "to"
+        },
+        {
+          "startSec": 342.1,
+          "endSec": 342.7,
+          "text": "crush"
+        },
+        {
+          "startSec": 342.7,
+          "endSec": 342.9,
+          "text": "it"
+        },
+        {
+          "startSec": 342.9,
+          "endSec": 343.4,
+          "text": "into"
+        },
+        {
+          "startSec": 343.4,
+          "endSec": 344.2,
+          "text": "powder"
+        },
+        {
+          "startSec": 344.2,
+          "endSec": 344.4,
+          "text": "by"
+        },
+        {
+          "startSec": 344.4,
+          "endSec": 344.7,
+          "text": "being"
+        },
+        {
+          "startSec": 344.7,
+          "endSec": 345,
+          "text": "pressed"
+        },
+        {
+          "startSec": 345,
+          "endSec": 345.4,
+          "text": "between"
+        },
+        {
+          "startSec": 345.4,
+          "endSec": 345.8,
+          "text": "two"
+        },
+        {
+          "startSec": 345.8,
+          "endSec": 346,
+          "text": "hard"
+        },
+        {
+          "startSec": 346,
+          "endSec": 346.8,
+          "text": "surfaces.\""
+        },
+        {
+          "startSec": 346.8,
+          "endSec": 347.1,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 346.8,
+      "endSec": 352.2,
+      "text": "And finally, if you're keen on something, you like it and enjoy doing it.",
+      "words": [
+        {
+          "startSec": 346.8,
+          "endSec": 347.1,
+          "text": "And"
+        },
+        {
+          "startSec": 347.1,
+          "endSec": 347.8,
+          "text": "finally,"
+        },
+        {
+          "startSec": 347.8,
+          "endSec": 348,
+          "text": "if"
+        },
+        {
+          "startSec": 348,
+          "endSec": 348.5,
+          "text": "you're"
+        },
+        {
+          "startSec": 348.5,
+          "endSec": 348.8,
+          "text": "keen"
+        },
+        {
+          "startSec": 348.8,
+          "endSec": 348.9,
+          "text": "on"
+        },
+        {
+          "startSec": 348.9,
+          "endSec": 349.9,
+          "text": "something,"
+        },
+        {
+          "startSec": 349.9,
+          "endSec": 350.2,
+          "text": "you"
+        },
+        {
+          "startSec": 350.2,
+          "endSec": 350.5,
+          "text": "like"
+        },
+        {
+          "startSec": 350.5,
+          "endSec": 350.7,
+          "text": "it"
+        },
+        {
+          "startSec": 350.7,
+          "endSec": 350.9,
+          "text": "and"
+        },
+        {
+          "startSec": 350.9,
+          "endSec": 351.4,
+          "text": "enjoy"
+        },
+        {
+          "startSec": 351.4,
+          "endSec": 351.8,
+          "text": "doing"
+        },
+        {
+          "startSec": 351.8,
+          "endSec": 352.2,
+          "text": "it."
+        },
+        {
+          "startSec": 352.2,
+          "endSec": 352.5,
+          "text": "Once"
+        }
+      ]
+    },
+    {
+      "startSec": 352.2,
+      "endSec": 354.6,
+      "text": "Once again, our six minutes are up.",
+      "words": [
+        {
+          "startSec": 352.2,
+          "endSec": 352.5,
+          "text": "Once"
+        },
+        {
+          "startSec": 352.5,
+          "endSec": 353.1,
+          "text": "again,"
+        },
+        {
+          "startSec": 353.1,
+          "endSec": 353.3,
+          "text": "our"
+        },
+        {
+          "startSec": 353.3,
+          "endSec": 353.5,
+          "text": "six"
+        },
+        {
+          "startSec": 353.5,
+          "endSec": 354,
+          "text": "minutes"
+        },
+        {
+          "startSec": 354,
+          "endSec": 354.2,
+          "text": "are"
+        },
+        {
+          "startSec": 354.2,
+          "endSec": 354.6,
+          "text": "up."
+        },
+        {
+          "startSec": 354.6,
+          "endSec": 354.8,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 354.6,
+      "endSec": 359,
+      "text": "But remember, you can find worksheets, quizzes, and loads more resources",
+      "words": [
+        {
+          "startSec": 354.6,
+          "endSec": 354.8,
+          "text": "But"
+        },
+        {
+          "startSec": 354.8,
+          "endSec": 355.4,
+          "text": "remember,"
+        },
+        {
+          "startSec": 355.4,
+          "endSec": 355.6,
+          "text": "you"
+        },
+        {
+          "startSec": 355.6,
+          "endSec": 355.8,
+          "text": "can"
+        },
+        {
+          "startSec": 355.8,
+          "endSec": 356.1,
+          "text": "find"
+        },
+        {
+          "startSec": 356.1,
+          "endSec": 357,
+          "text": "worksheets,"
+        },
+        {
+          "startSec": 357,
+          "endSec": 357.7,
+          "text": "quizzes,"
+        },
+        {
+          "startSec": 357.7,
+          "endSec": 357.9,
+          "text": "and"
+        },
+        {
+          "startSec": 357.9,
+          "endSec": 358.2,
+          "text": "loads"
+        },
+        {
+          "startSec": 358.2,
+          "endSec": 358.5,
+          "text": "more"
+        },
+        {
+          "startSec": 358.5,
+          "endSec": 359,
+          "text": "resources"
+        },
+        {
+          "startSec": 359,
+          "endSec": 359.2,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 359,
+      "endSec": 363.1,
+      "text": "to improve your English on our website, bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 359,
+          "endSec": 359.2,
+          "text": "to"
+        },
+        {
+          "startSec": 359.2,
+          "endSec": 359.7,
+          "text": "improve"
+        },
+        {
+          "startSec": 359.7,
+          "endSec": 360,
+          "text": "your"
+        },
+        {
+          "startSec": 360,
+          "endSec": 360.4,
+          "text": "English"
+        },
+        {
+          "startSec": 360.4,
+          "endSec": 360.6,
+          "text": "on"
+        },
+        {
+          "startSec": 360.6,
+          "endSec": 360.8,
+          "text": "our"
+        },
+        {
+          "startSec": 360.8,
+          "endSec": 361.4,
+          "text": "website,"
+        },
+        {
+          "startSec": 361.4,
+          "endSec": 363.1,
+          "text": "bbclearningenglish.com."
+        }
+      ]
+    },
+    {
+      "startSec": 363.9,
+      "endSec": 366.3,
+      "text": "See you there soon, but for now, it's goodbye.",
+      "words": [
+        {
+          "startSec": 364,
+          "endSec": 364.1,
+          "text": "See"
+        },
+        {
+          "startSec": 364.1,
+          "endSec": 364.3,
+          "text": "you"
+        },
+        {
+          "startSec": 364.3,
+          "endSec": 364.5,
+          "text": "there"
+        },
+        {
+          "startSec": 364.5,
+          "endSec": 364.9,
+          "text": "soon,"
+        },
+        {
+          "startSec": 364.9,
+          "endSec": 365,
+          "text": "but"
+        },
+        {
+          "startSec": 365,
+          "endSec": 365.2,
+          "text": "for"
+        },
+        {
+          "startSec": 365.2,
+          "endSec": 365.5,
+          "text": "now,"
+        },
+        {
+          "startSec": 365.5,
+          "endSec": 365.7,
+          "text": "it's"
+        },
+        {
+          "startSec": 365.7,
+          "endSec": 366.3,
+          "text": "goodbye."
+        },
+        {
+          "startSec": 366.3,
+          "endSec": 366.9,
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "startSec": 366.3,
+      "endSec": 366.9,
+      "text": "Goodbye.",
+      "words": [
+        {
+          "startSec": 366.3,
+          "endSec": 366.9,
+          "text": "Goodbye."
+        }
+      ]
+    }
+  ],
+  "introSec": 7.8
+}

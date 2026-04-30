@@ -1,0 +1,5077 @@
+{
+  "title": "The joys of writing lists",
+  "source": "BBC 6 Minute English",
+  "level": "intermediate",
+  "durationSec": 367,
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
+  "audioFile": "audio.mp3",
+  "segments": [
+    {
+      "startSec": 0,
+      "endSec": 12.6,
+      "text": "Hello, this is Six Minute English from BBC Learning English, I'm Phil.",
+      "words": [
+        {
+          "startSec": 0.2,
+          "endSec": 1.8,
+          "text": "Hello,"
+        },
+        {
+          "startSec": 1.8,
+          "endSec": 2.8,
+          "text": "this"
+        },
+        {
+          "startSec": 2.8,
+          "endSec": 3.3,
+          "text": "is"
+        },
+        {
+          "startSec": 3.3,
+          "endSec": 4,
+          "text": "Six"
+        },
+        {
+          "startSec": 4,
+          "endSec": 5.4,
+          "text": "Minute"
+        },
+        {
+          "startSec": 5.4,
+          "endSec": 8.3,
+          "text": "English"
+        },
+        {
+          "startSec": 8.3,
+          "endSec": 8.3,
+          "text": "from"
+        },
+        {
+          "startSec": 8.3,
+          "endSec": 9,
+          "text": "BBC"
+        },
+        {
+          "startSec": 9,
+          "endSec": 11.1,
+          "text": "Learning"
+        },
+        {
+          "startSec": 11.1,
+          "endSec": 11.6,
+          "text": "English,"
+        },
+        {
+          "startSec": 11.6,
+          "endSec": 11.9,
+          "text": "I'm"
+        },
+        {
+          "startSec": 11.9,
+          "endSec": 12.6,
+          "text": "Phil."
+        },
+        {
+          "startSec": 12.6,
+          "endSec": 12.8,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 12.6,
+      "endSec": 13.6,
+      "text": "And I'm Beth.",
+      "words": [
+        {
+          "startSec": 12.6,
+          "endSec": 12.8,
+          "text": "And"
+        },
+        {
+          "startSec": 12.8,
+          "endSec": 13,
+          "text": "I'm"
+        },
+        {
+          "startSec": 13,
+          "endSec": 13.6,
+          "text": "Beth."
+        },
+        {
+          "startSec": 13.6,
+          "endSec": 13.7,
+          "text": "A"
+        }
+      ]
+    },
+    {
+      "startSec": 13.6,
+      "endSec": 20.8,
+      "text": "A list is a collection of items with a single item written on each line, and they're everywhere.",
+      "words": [
+        {
+          "startSec": 13.6,
+          "endSec": 13.7,
+          "text": "A"
+        },
+        {
+          "startSec": 13.7,
+          "endSec": 14.1,
+          "text": "list"
+        },
+        {
+          "startSec": 14.1,
+          "endSec": 14.3,
+          "text": "is"
+        },
+        {
+          "startSec": 14.3,
+          "endSec": 14.4,
+          "text": "a"
+        },
+        {
+          "startSec": 14.4,
+          "endSec": 15.4,
+          "text": "collection"
+        },
+        {
+          "startSec": 15.4,
+          "endSec": 15.5,
+          "text": "of"
+        },
+        {
+          "startSec": 15.5,
+          "endSec": 16,
+          "text": "items"
+        },
+        {
+          "startSec": 16,
+          "endSec": 16.4,
+          "text": "with"
+        },
+        {
+          "startSec": 16.4,
+          "endSec": 16.5,
+          "text": "a"
+        },
+        {
+          "startSec": 16.5,
+          "endSec": 17.1,
+          "text": "single"
+        },
+        {
+          "startSec": 17.1,
+          "endSec": 17.5,
+          "text": "item"
+        },
+        {
+          "startSec": 17.5,
+          "endSec": 18.2,
+          "text": "written"
+        },
+        {
+          "startSec": 18.2,
+          "endSec": 18.4,
+          "text": "on"
+        },
+        {
+          "startSec": 18.4,
+          "endSec": 18.8,
+          "text": "each"
+        },
+        {
+          "startSec": 18.8,
+          "endSec": 19.3,
+          "text": "line,"
+        },
+        {
+          "startSec": 19.3,
+          "endSec": 19.4,
+          "text": "and"
+        },
+        {
+          "startSec": 19.4,
+          "endSec": 19.6,
+          "text": "they're"
+        },
+        {
+          "startSec": 19.6,
+          "endSec": 20.8,
+          "text": "everywhere."
+        },
+        {
+          "startSec": 20.8,
+          "endSec": 21.3,
+          "text": "Shopping"
+        }
+      ]
+    },
+    {
+      "startSec": 20.8,
+      "endSec": 25.9,
+      "text": "Shopping lists, to-do lists, even bucket lists, a list of all the things a person would like",
+      "words": [
+        {
+          "startSec": 20.8,
+          "endSec": 21.3,
+          "text": "Shopping"
+        },
+        {
+          "startSec": 21.3,
+          "endSec": 21.8,
+          "text": "lists,"
+        },
+        {
+          "startSec": 21.8,
+          "endSec": 22.1,
+          "text": "to-do"
+        },
+        {
+          "startSec": 22.1,
+          "endSec": 22.6,
+          "text": "lists,"
+        },
+        {
+          "startSec": 22.6,
+          "endSec": 22.9,
+          "text": "even"
+        },
+        {
+          "startSec": 22.9,
+          "endSec": 23.3,
+          "text": "bucket"
+        },
+        {
+          "startSec": 23.3,
+          "endSec": 23.8,
+          "text": "lists,"
+        },
+        {
+          "startSec": 23.8,
+          "endSec": 23.8,
+          "text": "a"
+        },
+        {
+          "startSec": 23.8,
+          "endSec": 24.1,
+          "text": "list"
+        },
+        {
+          "startSec": 24.1,
+          "endSec": 24.2,
+          "text": "of"
+        },
+        {
+          "startSec": 24.2,
+          "endSec": 24.4,
+          "text": "all"
+        },
+        {
+          "startSec": 24.4,
+          "endSec": 24.6,
+          "text": "the"
+        },
+        {
+          "startSec": 24.6,
+          "endSec": 25,
+          "text": "things"
+        },
+        {
+          "startSec": 25,
+          "endSec": 25.1,
+          "text": "a"
+        },
+        {
+          "startSec": 25.1,
+          "endSec": 25.6,
+          "text": "person"
+        },
+        {
+          "startSec": 25.6,
+          "endSec": 25.7,
+          "text": "would"
+        },
+        {
+          "startSec": 25.7,
+          "endSec": 25.9,
+          "text": "like"
+        },
+        {
+          "startSec": 25.9,
+          "endSec": 26,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 25.9,
+      "endSec": 31.6,
+      "text": "to do before they die. In fact, there's an episode of Six Minute English all about them.",
+      "words": [
+        {
+          "startSec": 25.9,
+          "endSec": 26,
+          "text": "to"
+        },
+        {
+          "startSec": 26,
+          "endSec": 26.2,
+          "text": "do"
+        },
+        {
+          "startSec": 26.2,
+          "endSec": 26.6,
+          "text": "before"
+        },
+        {
+          "startSec": 26.6,
+          "endSec": 26.9,
+          "text": "they"
+        },
+        {
+          "startSec": 26.9,
+          "endSec": 27.3,
+          "text": "die."
+        },
+        {
+          "startSec": 27.3,
+          "endSec": 27.4,
+          "text": "In"
+        },
+        {
+          "startSec": 27.4,
+          "endSec": 27.9,
+          "text": "fact,"
+        },
+        {
+          "startSec": 27.9,
+          "endSec": 28.3,
+          "text": "there's"
+        },
+        {
+          "startSec": 28.3,
+          "endSec": 28.5,
+          "text": "an"
+        },
+        {
+          "startSec": 28.5,
+          "endSec": 29,
+          "text": "episode"
+        },
+        {
+          "startSec": 29,
+          "endSec": 29.1,
+          "text": "of"
+        },
+        {
+          "startSec": 29.1,
+          "endSec": 29.3,
+          "text": "Six"
+        },
+        {
+          "startSec": 29.3,
+          "endSec": 29.8,
+          "text": "Minute"
+        },
+        {
+          "startSec": 29.8,
+          "endSec": 30.3,
+          "text": "English"
+        },
+        {
+          "startSec": 30.3,
+          "endSec": 30.5,
+          "text": "all"
+        },
+        {
+          "startSec": 30.5,
+          "endSec": 30.9,
+          "text": "about"
+        },
+        {
+          "startSec": 30.9,
+          "endSec": 31.6,
+          "text": "them."
+        },
+        {
+          "startSec": 31.6,
+          "endSec": 32.1,
+          "text": "Imagine"
+        }
+      ]
+    },
+    {
+      "startSec": 31.6,
+      "endSec": 37,
+      "text": "Imagine you're at the supermarket and find someone's shopping list. This happens a lot",
+      "words": [
+        {
+          "startSec": 31.6,
+          "endSec": 32.1,
+          "text": "Imagine"
+        },
+        {
+          "startSec": 32.1,
+          "endSec": 32.5,
+          "text": "you're"
+        },
+        {
+          "startSec": 32.5,
+          "endSec": 32.7,
+          "text": "at"
+        },
+        {
+          "startSec": 32.7,
+          "endSec": 32.9,
+          "text": "the"
+        },
+        {
+          "startSec": 32.9,
+          "endSec": 33.7,
+          "text": "supermarket"
+        },
+        {
+          "startSec": 33.7,
+          "endSec": 34,
+          "text": "and"
+        },
+        {
+          "startSec": 34,
+          "endSec": 34.3,
+          "text": "find"
+        },
+        {
+          "startSec": 34.3,
+          "endSec": 34.9,
+          "text": "someone's"
+        },
+        {
+          "startSec": 34.9,
+          "endSec": 35.5,
+          "text": "shopping"
+        },
+        {
+          "startSec": 35.5,
+          "endSec": 36.1,
+          "text": "list."
+        },
+        {
+          "startSec": 36.1,
+          "endSec": 36.3,
+          "text": "This"
+        },
+        {
+          "startSec": 36.3,
+          "endSec": 36.6,
+          "text": "happens"
+        },
+        {
+          "startSec": 36.6,
+          "endSec": 36.7,
+          "text": "a"
+        },
+        {
+          "startSec": 36.7,
+          "endSec": 37,
+          "text": "lot"
+        },
+        {
+          "startSec": 37,
+          "endSec": 37.1,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 37,
+      "endSec": 43.6,
+      "text": "to Joe Nolan, a linguistics researcher whose new book explores our love of lists. Here's",
+      "words": [
+        {
+          "startSec": 37,
+          "endSec": 37.1,
+          "text": "to"
+        },
+        {
+          "startSec": 37.1,
+          "endSec": 37.4,
+          "text": "Joe"
+        },
+        {
+          "startSec": 37.4,
+          "endSec": 38,
+          "text": "Nolan,"
+        },
+        {
+          "startSec": 38,
+          "endSec": 38.1,
+          "text": "a"
+        },
+        {
+          "startSec": 38.1,
+          "endSec": 39.1,
+          "text": "linguistics"
+        },
+        {
+          "startSec": 39.1,
+          "endSec": 40,
+          "text": "researcher"
+        },
+        {
+          "startSec": 40,
+          "endSec": 40.5,
+          "text": "whose"
+        },
+        {
+          "startSec": 40.5,
+          "endSec": 40.7,
+          "text": "new"
+        },
+        {
+          "startSec": 40.7,
+          "endSec": 41.1,
+          "text": "book"
+        },
+        {
+          "startSec": 41.1,
+          "endSec": 41.8,
+          "text": "explores"
+        },
+        {
+          "startSec": 41.8,
+          "endSec": 42.1,
+          "text": "our"
+        },
+        {
+          "startSec": 42.1,
+          "endSec": 42.4,
+          "text": "love"
+        },
+        {
+          "startSec": 42.4,
+          "endSec": 42.6,
+          "text": "of"
+        },
+        {
+          "startSec": 42.6,
+          "endSec": 43.4,
+          "text": "lists."
+        },
+        {
+          "startSec": 43.4,
+          "endSec": 43.6,
+          "text": "Here's"
+        },
+        {
+          "startSec": 43.6,
+          "endSec": 43.9,
+          "text": "Joe"
+        }
+      ]
+    },
+    {
+      "startSec": 43.6,
+      "endSec": 49.8,
+      "text": "Joe reading her shopping list on BBC Radio 4 programme Word of Mouth.",
+      "words": [
+        {
+          "startSec": 43.6,
+          "endSec": 43.9,
+          "text": "Joe"
+        },
+        {
+          "startSec": 43.9,
+          "endSec": 44.6,
+          "text": "reading"
+        },
+        {
+          "startSec": 44.6,
+          "endSec": 44.9,
+          "text": "her"
+        },
+        {
+          "startSec": 44.9,
+          "endSec": 45.7,
+          "text": "shopping"
+        },
+        {
+          "startSec": 45.7,
+          "endSec": 46.2,
+          "text": "list"
+        },
+        {
+          "startSec": 46.2,
+          "endSec": 46.3,
+          "text": "on"
+        },
+        {
+          "startSec": 46.3,
+          "endSec": 46.6,
+          "text": "BBC"
+        },
+        {
+          "startSec": 46.6,
+          "endSec": 47.1,
+          "text": "Radio"
+        },
+        {
+          "startSec": 47.1,
+          "endSec": 47.4,
+          "text": "4"
+        },
+        {
+          "startSec": 47.4,
+          "endSec": 48.3,
+          "text": "programme"
+        },
+        {
+          "startSec": 48.3,
+          "endSec": 48.7,
+          "text": "Word"
+        },
+        {
+          "startSec": 48.7,
+          "endSec": 48.9,
+          "text": "of"
+        },
+        {
+          "startSec": 48.9,
+          "endSec": 49.8,
+          "text": "Mouth."
+        },
+        {
+          "startSec": 49.8,
+          "endSec": 49.9,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 49.8,
+      "endSec": 58.9,
+      "text": "I only list the first four items, but the list read Nana's, 'II' puke shrooms.",
+      "words": [
+        {
+          "startSec": 49.8,
+          "endSec": 49.9,
+          "text": "I"
+        },
+        {
+          "startSec": 49.9,
+          "endSec": 50.4,
+          "text": "only"
+        },
+        {
+          "startSec": 50.4,
+          "endSec": 51,
+          "text": "list"
+        },
+        {
+          "startSec": 51,
+          "endSec": 51.4,
+          "text": "the"
+        },
+        {
+          "startSec": 51.4,
+          "endSec": 52,
+          "text": "first"
+        },
+        {
+          "startSec": 52,
+          "endSec": 52.6,
+          "text": "four"
+        },
+        {
+          "startSec": 52.6,
+          "endSec": 53.5,
+          "text": "items,"
+        },
+        {
+          "startSec": 53.5,
+          "endSec": 53.9,
+          "text": "but"
+        },
+        {
+          "startSec": 53.9,
+          "endSec": 54.3,
+          "text": "the"
+        },
+        {
+          "startSec": 54.3,
+          "endSec": 54.8,
+          "text": "list"
+        },
+        {
+          "startSec": 54.8,
+          "endSec": 55.3,
+          "text": "read"
+        },
+        {
+          "startSec": 55.3,
+          "endSec": 56.4,
+          "text": "Nana's,"
+        },
+        {
+          "startSec": 56.4,
+          "endSec": 56.9,
+          "text": "'II'"
+        },
+        {
+          "startSec": 56.9,
+          "endSec": 57.6,
+          "text": "puke"
+        },
+        {
+          "startSec": 57.6,
+          "endSec": 58.9,
+          "text": "shrooms."
+        },
+        {
+          "startSec": 58.9,
+          "endSec": 60.2,
+          "text": "Nana's"
+        }
+      ]
+    },
+    {
+      "startSec": 58.9,
+      "endSec": 67.5,
+      "text": "Nana's 'II' puke shrooms? Can you work out what Joe was buying at the supermarket, Phil?",
+      "words": [
+        {
+          "startSec": 58.9,
+          "endSec": 60.2,
+          "text": "Nana's"
+        },
+        {
+          "startSec": 60.2,
+          "endSec": 61.1,
+          "text": "'II'"
+        },
+        {
+          "startSec": 61.1,
+          "endSec": 62,
+          "text": "puke"
+        },
+        {
+          "startSec": 62,
+          "endSec": 64.2,
+          "text": "shrooms?"
+        },
+        {
+          "startSec": 64.2,
+          "endSec": 64.4,
+          "text": "Can"
+        },
+        {
+          "startSec": 64.4,
+          "endSec": 64.5,
+          "text": "you"
+        },
+        {
+          "startSec": 64.5,
+          "endSec": 64.8,
+          "text": "work"
+        },
+        {
+          "startSec": 64.8,
+          "endSec": 64.9,
+          "text": "out"
+        },
+        {
+          "startSec": 64.9,
+          "endSec": 65.2,
+          "text": "what"
+        },
+        {
+          "startSec": 65.2,
+          "endSec": 65.3,
+          "text": "Joe"
+        },
+        {
+          "startSec": 65.3,
+          "endSec": 65.5,
+          "text": "was"
+        },
+        {
+          "startSec": 65.5,
+          "endSec": 65.9,
+          "text": "buying"
+        },
+        {
+          "startSec": 65.9,
+          "endSec": 66,
+          "text": "at"
+        },
+        {
+          "startSec": 66,
+          "endSec": 66.1,
+          "text": "the"
+        },
+        {
+          "startSec": 66.1,
+          "endSec": 67.2,
+          "text": "supermarket,"
+        },
+        {
+          "startSec": 67.2,
+          "endSec": 67.5,
+          "text": "Phil?"
+        },
+        {
+          "startSec": 67.5,
+          "endSec": 68,
+          "text": "Okay,"
+        }
+      ]
+    },
+    {
+      "startSec": 67.5,
+      "endSec": 73.7,
+      "text": "Okay, well, I'm going to guess that Nana's are bananas, and shrooms, they've got to be",
+      "words": [
+        {
+          "startSec": 67.5,
+          "endSec": 68,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 68,
+          "endSec": 68.5,
+          "text": "well,"
+        },
+        {
+          "startSec": 68.5,
+          "endSec": 68.7,
+          "text": "I'm"
+        },
+        {
+          "startSec": 68.7,
+          "endSec": 69.1,
+          "text": "going"
+        },
+        {
+          "startSec": 69.1,
+          "endSec": 69.3,
+          "text": "to"
+        },
+        {
+          "startSec": 69.3,
+          "endSec": 69.7,
+          "text": "guess"
+        },
+        {
+          "startSec": 69.7,
+          "endSec": 70,
+          "text": "that"
+        },
+        {
+          "startSec": 70,
+          "endSec": 70.5,
+          "text": "Nana's"
+        },
+        {
+          "startSec": 70.5,
+          "endSec": 70.8,
+          "text": "are"
+        },
+        {
+          "startSec": 70.8,
+          "endSec": 71.6,
+          "text": "bananas,"
+        },
+        {
+          "startSec": 71.6,
+          "endSec": 71.9,
+          "text": "and"
+        },
+        {
+          "startSec": 71.9,
+          "endSec": 72.5,
+          "text": "shrooms,"
+        },
+        {
+          "startSec": 72.5,
+          "endSec": 72.9,
+          "text": "they've"
+        },
+        {
+          "startSec": 72.9,
+          "endSec": 73.2,
+          "text": "got"
+        },
+        {
+          "startSec": 73.2,
+          "endSec": 73.3,
+          "text": "to"
+        },
+        {
+          "startSec": 73.3,
+          "endSec": 73.7,
+          "text": "be"
+        },
+        {
+          "startSec": 73.7,
+          "endSec": 74.3,
+          "text": "mushrooms,"
+        }
+      ]
+    },
+    {
+      "startSec": 73.7,
+      "endSec": 74.7,
+      "text": "mushrooms, right?",
+      "words": [
+        {
+          "startSec": 73.7,
+          "endSec": 74.3,
+          "text": "mushrooms,"
+        },
+        {
+          "startSec": 74.3,
+          "endSec": 74.7,
+          "text": "right?"
+        }
+      ]
+    },
+    {
+      "startSec": 74.7,
+      "endSec": 81.6,
+      "text": "Okay, but what about 'II' and puke? What could they mean? Well, here's Joe's explanation",
+      "words": [
+        {
+          "startSec": 74.8,
+          "endSec": 75.2,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 75.2,
+          "endSec": 75.5,
+          "text": "but"
+        },
+        {
+          "startSec": 75.5,
+          "endSec": 75.9,
+          "text": "what"
+        },
+        {
+          "startSec": 75.9,
+          "endSec": 76.3,
+          "text": "about"
+        },
+        {
+          "startSec": 76.3,
+          "endSec": 76.7,
+          "text": "'II'"
+        },
+        {
+          "startSec": 76.7,
+          "endSec": 76.9,
+          "text": "and"
+        },
+        {
+          "startSec": 76.9,
+          "endSec": 77.6,
+          "text": "puke?"
+        },
+        {
+          "startSec": 77.6,
+          "endSec": 77.9,
+          "text": "What"
+        },
+        {
+          "startSec": 77.9,
+          "endSec": 78.4,
+          "text": "could"
+        },
+        {
+          "startSec": 78.4,
+          "endSec": 78.8,
+          "text": "they"
+        },
+        {
+          "startSec": 78.8,
+          "endSec": 79.5,
+          "text": "mean?"
+        },
+        {
+          "startSec": 79.5,
+          "endSec": 79.9,
+          "text": "Well,"
+        },
+        {
+          "startSec": 79.9,
+          "endSec": 80.4,
+          "text": "here's"
+        },
+        {
+          "startSec": 80.4,
+          "endSec": 80.8,
+          "text": "Joe's"
+        },
+        {
+          "startSec": 80.8,
+          "endSec": 81.6,
+          "text": "explanation"
+        },
+        {
+          "startSec": 81.6,
+          "endSec": 81.9,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 81.6,
+      "endSec": 87.5,
+      "text": "to Michael Rosen, presenter of BBC Radio 4's Word of Mouth.",
+      "words": [
+        {
+          "startSec": 81.6,
+          "endSec": 81.9,
+          "text": "to"
+        },
+        {
+          "startSec": 81.9,
+          "endSec": 82.6,
+          "text": "Michael"
+        },
+        {
+          "startSec": 82.6,
+          "endSec": 83.4,
+          "text": "Rosen,"
+        },
+        {
+          "startSec": 83.4,
+          "endSec": 84.3,
+          "text": "presenter"
+        },
+        {
+          "startSec": 84.3,
+          "endSec": 84.6,
+          "text": "of"
+        },
+        {
+          "startSec": 84.6,
+          "endSec": 84.9,
+          "text": "BBC"
+        },
+        {
+          "startSec": 84.9,
+          "endSec": 85.4,
+          "text": "Radio"
+        },
+        {
+          "startSec": 85.4,
+          "endSec": 85.9,
+          "text": "4's"
+        },
+        {
+          "startSec": 85.9,
+          "endSec": 86.4,
+          "text": "Word"
+        },
+        {
+          "startSec": 86.4,
+          "endSec": 86.6,
+          "text": "of"
+        },
+        {
+          "startSec": 86.6,
+          "endSec": 87.5,
+          "text": "Mouth."
+        },
+        {
+          "startSec": 87.5,
+          "endSec": 87.8,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 87.5,
+      "endSec": 92.1,
+      "text": "And let's just come back to puke. I mean, were you instructing yourself to be sick in",
+      "words": [
+        {
+          "startSec": 87.5,
+          "endSec": 87.8,
+          "text": "And"
+        },
+        {
+          "startSec": 87.8,
+          "endSec": 88.1,
+          "text": "let's"
+        },
+        {
+          "startSec": 88.1,
+          "endSec": 88.4,
+          "text": "just"
+        },
+        {
+          "startSec": 88.4,
+          "endSec": 88.7,
+          "text": "come"
+        },
+        {
+          "startSec": 88.7,
+          "endSec": 88.9,
+          "text": "back"
+        },
+        {
+          "startSec": 88.9,
+          "endSec": 89.1,
+          "text": "to"
+        },
+        {
+          "startSec": 89.1,
+          "endSec": 89.6,
+          "text": "puke."
+        },
+        {
+          "startSec": 89.6,
+          "endSec": 89.7,
+          "text": "I"
+        },
+        {
+          "startSec": 89.7,
+          "endSec": 90,
+          "text": "mean,"
+        },
+        {
+          "startSec": 90,
+          "endSec": 90.2,
+          "text": "were"
+        },
+        {
+          "startSec": 90.2,
+          "endSec": 90.4,
+          "text": "you"
+        },
+        {
+          "startSec": 90.4,
+          "endSec": 91,
+          "text": "instructing"
+        },
+        {
+          "startSec": 91,
+          "endSec": 91.4,
+          "text": "yourself"
+        },
+        {
+          "startSec": 91.4,
+          "endSec": 91.5,
+          "text": "to"
+        },
+        {
+          "startSec": 91.5,
+          "endSec": 91.6,
+          "text": "be"
+        },
+        {
+          "startSec": 91.6,
+          "endSec": 91.9,
+          "text": "sick"
+        },
+        {
+          "startSec": 91.9,
+          "endSec": 92.1,
+          "text": "in"
+        },
+        {
+          "startSec": 92.1,
+          "endSec": 92.2,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 92.1,
+      "endSec": 94.2,
+      "text": "the supermarket, and just a bit lost there?",
+      "words": [
+        {
+          "startSec": 92.1,
+          "endSec": 92.2,
+          "text": "the"
+        },
+        {
+          "startSec": 92.2,
+          "endSec": 92.9,
+          "text": "supermarket,"
+        },
+        {
+          "startSec": 92.9,
+          "endSec": 93.1,
+          "text": "and"
+        },
+        {
+          "startSec": 93.1,
+          "endSec": 93.3,
+          "text": "just"
+        },
+        {
+          "startSec": 93.3,
+          "endSec": 93.3,
+          "text": "a"
+        },
+        {
+          "startSec": 93.3,
+          "endSec": 93.5,
+          "text": "bit"
+        },
+        {
+          "startSec": 93.5,
+          "endSec": 93.7,
+          "text": "lost"
+        },
+        {
+          "startSec": 93.7,
+          "endSec": 94.2,
+          "text": "there?"
+        },
+        {
+          "startSec": 94.2,
+          "endSec": 94.5,
+          "text": "No,"
+        }
+      ]
+    },
+    {
+      "startSec": 94.2,
+      "endSec": 99.8,
+      "text": "No, it's slightly grotesque. My husband doesn't like cucumber, and the abbreviation for cucumber",
+      "words": [
+        {
+          "startSec": 94.2,
+          "endSec": 94.5,
+          "text": "No,"
+        },
+        {
+          "startSec": 94.5,
+          "endSec": 94.8,
+          "text": "it's"
+        },
+        {
+          "startSec": 94.8,
+          "endSec": 95.4,
+          "text": "slightly"
+        },
+        {
+          "startSec": 95.4,
+          "endSec": 96.4,
+          "text": "grotesque."
+        },
+        {
+          "startSec": 96.4,
+          "endSec": 96.5,
+          "text": "My"
+        },
+        {
+          "startSec": 96.5,
+          "endSec": 96.9,
+          "text": "husband"
+        },
+        {
+          "startSec": 96.9,
+          "endSec": 97.3,
+          "text": "doesn't"
+        },
+        {
+          "startSec": 97.3,
+          "endSec": 97.6,
+          "text": "like"
+        },
+        {
+          "startSec": 97.6,
+          "endSec": 98.1,
+          "text": "cucumber,"
+        },
+        {
+          "startSec": 98.1,
+          "endSec": 98.3,
+          "text": "and"
+        },
+        {
+          "startSec": 98.3,
+          "endSec": 98.5,
+          "text": "the"
+        },
+        {
+          "startSec": 98.5,
+          "endSec": 99.2,
+          "text": "abbreviation"
+        },
+        {
+          "startSec": 99.2,
+          "endSec": 99.3,
+          "text": "for"
+        },
+        {
+          "startSec": 99.3,
+          "endSec": 99.8,
+          "text": "cucumber"
+        },
+        {
+          "startSec": 99.8,
+          "endSec": 100.1,
+          "text": "would"
+        }
+      ]
+    },
+    {
+      "startSec": 99.8,
+      "endSec": 102.9,
+      "text": "would be 'cuke', so he is always referred to it as 'puke'.",
+      "words": [
+        {
+          "startSec": 99.8,
+          "endSec": 100.1,
+          "text": "would"
+        },
+        {
+          "startSec": 100.1,
+          "endSec": 100.2,
+          "text": "be"
+        },
+        {
+          "startSec": 100.2,
+          "endSec": 100.7,
+          "text": "'cuke',"
+        },
+        {
+          "startSec": 100.7,
+          "endSec": 100.8,
+          "text": "so"
+        },
+        {
+          "startSec": 100.8,
+          "endSec": 100.9,
+          "text": "he"
+        },
+        {
+          "startSec": 100.9,
+          "endSec": 101,
+          "text": "is"
+        },
+        {
+          "startSec": 101,
+          "endSec": 101.4,
+          "text": "always"
+        },
+        {
+          "startSec": 101.4,
+          "endSec": 101.9,
+          "text": "referred"
+        },
+        {
+          "startSec": 101.9,
+          "endSec": 102,
+          "text": "to"
+        },
+        {
+          "startSec": 102,
+          "endSec": 102.1,
+          "text": "it"
+        },
+        {
+          "startSec": 102.1,
+          "endSec": 102.3,
+          "text": "as"
+        },
+        {
+          "startSec": 102.3,
+          "endSec": 102.9,
+          "text": "'puke'."
+        },
+        {
+          "startSec": 102.9,
+          "endSec": 103.6,
+          "text": "Aha!"
+        }
+      ]
+    },
+    {
+      "startSec": 102.9,
+      "endSec": 111.8,
+      "text": "Aha! Cucumbers make Joe Anna's husband 'puke', a slang word for vomit, and 'puke' rhymes",
+      "words": [
+        {
+          "startSec": 102.9,
+          "endSec": 103.6,
+          "text": "Aha!"
+        },
+        {
+          "startSec": 103.6,
+          "endSec": 104.7,
+          "text": "Cucumbers"
+        },
+        {
+          "startSec": 104.7,
+          "endSec": 105.2,
+          "text": "make"
+        },
+        {
+          "startSec": 105.2,
+          "endSec": 105.5,
+          "text": "Joe"
+        },
+        {
+          "startSec": 105.5,
+          "endSec": 106.3,
+          "text": "Anna's"
+        },
+        {
+          "startSec": 106.3,
+          "endSec": 107.1,
+          "text": "husband"
+        },
+        {
+          "startSec": 107.1,
+          "endSec": 108.2,
+          "text": "'puke',"
+        },
+        {
+          "startSec": 108.2,
+          "endSec": 108.3,
+          "text": "a"
+        },
+        {
+          "startSec": 108.3,
+          "endSec": 108.8,
+          "text": "slang"
+        },
+        {
+          "startSec": 108.8,
+          "endSec": 109.3,
+          "text": "word"
+        },
+        {
+          "startSec": 109.3,
+          "endSec": 109.6,
+          "text": "for"
+        },
+        {
+          "startSec": 109.6,
+          "endSec": 110.5,
+          "text": "vomit,"
+        },
+        {
+          "startSec": 110.5,
+          "endSec": 110.8,
+          "text": "and"
+        },
+        {
+          "startSec": 110.8,
+          "endSec": 111.5,
+          "text": "'puke'"
+        },
+        {
+          "startSec": 111.5,
+          "endSec": 111.8,
+          "text": "rhymes"
+        },
+        {
+          "startSec": 111.8,
+          "endSec": 112.2,
+          "text": "with"
+        }
+      ]
+    },
+    {
+      "startSec": 111.8,
+      "endSec": 118.8,
+      "text": "with 'cuke', so it's a way of reminding her to buy cucumbers. Wow, sometimes lists are",
+      "words": [
+        {
+          "startSec": 111.8,
+          "endSec": 112.2,
+          "text": "with"
+        },
+        {
+          "startSec": 112.2,
+          "endSec": 113,
+          "text": "'cuke',"
+        },
+        {
+          "startSec": 113,
+          "endSec": 113.2,
+          "text": "so"
+        },
+        {
+          "startSec": 113.2,
+          "endSec": 113.5,
+          "text": "it's"
+        },
+        {
+          "startSec": 113.5,
+          "endSec": 113.6,
+          "text": "a"
+        },
+        {
+          "startSec": 113.6,
+          "endSec": 113.9,
+          "text": "way"
+        },
+        {
+          "startSec": 113.9,
+          "endSec": 114.1,
+          "text": "of"
+        },
+        {
+          "startSec": 114.1,
+          "endSec": 115,
+          "text": "reminding"
+        },
+        {
+          "startSec": 115,
+          "endSec": 115.2,
+          "text": "her"
+        },
+        {
+          "startSec": 115.2,
+          "endSec": 115.4,
+          "text": "to"
+        },
+        {
+          "startSec": 115.4,
+          "endSec": 115.7,
+          "text": "buy"
+        },
+        {
+          "startSec": 115.7,
+          "endSec": 116.9,
+          "text": "cucumbers."
+        },
+        {
+          "startSec": 116.9,
+          "endSec": 117.4,
+          "text": "Wow,"
+        },
+        {
+          "startSec": 117.4,
+          "endSec": 118.2,
+          "text": "sometimes"
+        },
+        {
+          "startSec": 118.2,
+          "endSec": 118.6,
+          "text": "lists"
+        },
+        {
+          "startSec": 118.6,
+          "endSec": 118.8,
+          "text": "are"
+        },
+        {
+          "startSec": 118.8,
+          "endSec": 119.2,
+          "text": "like"
+        }
+      ]
+    },
+    {
+      "startSec": 118.8,
+      "endSec": 120.6,
+      "text": "like secret codes.",
+      "words": [
+        {
+          "startSec": 118.8,
+          "endSec": 119.2,
+          "text": "like"
+        },
+        {
+          "startSec": 119.2,
+          "endSec": 119.8,
+          "text": "secret"
+        },
+        {
+          "startSec": 119.8,
+          "endSec": 120.6,
+          "text": "codes."
+        },
+        {
+          "startSec": 120.6,
+          "endSec": 120.7,
+          "text": "In"
+        }
+      ]
+    },
+    {
+      "startSec": 120.6,
+      "endSec": 126.3,
+      "text": "In this episode, we'll find out why people love lists, and learn some useful new words",
+      "words": [
+        {
+          "startSec": 120.6,
+          "endSec": 120.7,
+          "text": "In"
+        },
+        {
+          "startSec": 120.7,
+          "endSec": 121,
+          "text": "this"
+        },
+        {
+          "startSec": 121,
+          "endSec": 121.7,
+          "text": "episode,"
+        },
+        {
+          "startSec": 121.7,
+          "endSec": 122.1,
+          "text": "we'll"
+        },
+        {
+          "startSec": 122.1,
+          "endSec": 122.4,
+          "text": "find"
+        },
+        {
+          "startSec": 122.4,
+          "endSec": 122.6,
+          "text": "out"
+        },
+        {
+          "startSec": 122.6,
+          "endSec": 122.9,
+          "text": "why"
+        },
+        {
+          "startSec": 122.9,
+          "endSec": 123.3,
+          "text": "people"
+        },
+        {
+          "startSec": 123.3,
+          "endSec": 123.7,
+          "text": "love"
+        },
+        {
+          "startSec": 123.7,
+          "endSec": 124.2,
+          "text": "lists,"
+        },
+        {
+          "startSec": 124.2,
+          "endSec": 124.4,
+          "text": "and"
+        },
+        {
+          "startSec": 124.4,
+          "endSec": 124.8,
+          "text": "learn"
+        },
+        {
+          "startSec": 124.8,
+          "endSec": 125.1,
+          "text": "some"
+        },
+        {
+          "startSec": 125.1,
+          "endSec": 125.6,
+          "text": "useful"
+        },
+        {
+          "startSec": 125.6,
+          "endSec": 125.8,
+          "text": "new"
+        },
+        {
+          "startSec": 125.8,
+          "endSec": 126.3,
+          "text": "words"
+        },
+        {
+          "startSec": 126.3,
+          "endSec": 126.6,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 126.3,
+      "endSec": 132.8,
+      "text": "and phrases. And remember, you'll find another list of all the vocabulary used on our website,",
+      "words": [
+        {
+          "startSec": 126.3,
+          "endSec": 126.6,
+          "text": "and"
+        },
+        {
+          "startSec": 126.6,
+          "endSec": 127.3,
+          "text": "phrases."
+        },
+        {
+          "startSec": 127.3,
+          "endSec": 127.5,
+          "text": "And"
+        },
+        {
+          "startSec": 127.5,
+          "endSec": 128.3,
+          "text": "remember,"
+        },
+        {
+          "startSec": 128.3,
+          "endSec": 128.7,
+          "text": "you'll"
+        },
+        {
+          "startSec": 128.7,
+          "endSec": 129,
+          "text": "find"
+        },
+        {
+          "startSec": 129,
+          "endSec": 129.6,
+          "text": "another"
+        },
+        {
+          "startSec": 129.6,
+          "endSec": 129.9,
+          "text": "list"
+        },
+        {
+          "startSec": 129.9,
+          "endSec": 130,
+          "text": "of"
+        },
+        {
+          "startSec": 130,
+          "endSec": 130.3,
+          "text": "all"
+        },
+        {
+          "startSec": 130.3,
+          "endSec": 130.5,
+          "text": "the"
+        },
+        {
+          "startSec": 130.5,
+          "endSec": 131.2,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 131.2,
+          "endSec": 131.5,
+          "text": "used"
+        },
+        {
+          "startSec": 131.5,
+          "endSec": 131.7,
+          "text": "on"
+        },
+        {
+          "startSec": 131.7,
+          "endSec": 132,
+          "text": "our"
+        },
+        {
+          "startSec": 132,
+          "endSec": 132.8,
+          "text": "website,"
+        }
+      ]
+    },
+    {
+      "startSec": 132.8,
+      "endSec": 135.5,
+      "text": "bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 132.9,
+          "endSec": 135.5,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 135.5,
+          "endSec": 135.7,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 135.5,
+      "endSec": 141.1,
+      "text": "But first, a question for you, Beth. According to the list on the Internet Movie Database",
+      "words": [
+        {
+          "startSec": 135.5,
+          "endSec": 135.7,
+          "text": "But"
+        },
+        {
+          "startSec": 135.7,
+          "endSec": 136.2,
+          "text": "first,"
+        },
+        {
+          "startSec": 136.2,
+          "endSec": 136.3,
+          "text": "a"
+        },
+        {
+          "startSec": 136.3,
+          "endSec": 136.9,
+          "text": "question"
+        },
+        {
+          "startSec": 136.9,
+          "endSec": 137.1,
+          "text": "for"
+        },
+        {
+          "startSec": 137.1,
+          "endSec": 137.5,
+          "text": "you,"
+        },
+        {
+          "startSec": 137.5,
+          "endSec": 138.1,
+          "text": "Beth."
+        },
+        {
+          "startSec": 138.1,
+          "endSec": 138.7,
+          "text": "According"
+        },
+        {
+          "startSec": 138.7,
+          "endSec": 138.8,
+          "text": "to"
+        },
+        {
+          "startSec": 138.8,
+          "endSec": 139,
+          "text": "the"
+        },
+        {
+          "startSec": 139,
+          "endSec": 139.3,
+          "text": "list"
+        },
+        {
+          "startSec": 139.3,
+          "endSec": 139.4,
+          "text": "on"
+        },
+        {
+          "startSec": 139.4,
+          "endSec": 139.6,
+          "text": "the"
+        },
+        {
+          "startSec": 139.6,
+          "endSec": 140.2,
+          "text": "Internet"
+        },
+        {
+          "startSec": 140.2,
+          "endSec": 140.5,
+          "text": "Movie"
+        },
+        {
+          "startSec": 140.5,
+          "endSec": 141.1,
+          "text": "Database"
+        },
+        {
+          "startSec": 141.1,
+          "endSec": 142.2,
+          "text": "website,"
+        }
+      ]
+    },
+    {
+      "startSec": 141.1,
+      "endSec": 152.8,
+      "text": "website, which movie has made the most money ever? Is it A) Titanic, B) Avengers End Game,",
+      "words": [
+        {
+          "startSec": 141.1,
+          "endSec": 142.2,
+          "text": "website,"
+        },
+        {
+          "startSec": 142.2,
+          "endSec": 142.8,
+          "text": "which"
+        },
+        {
+          "startSec": 142.8,
+          "endSec": 143.3,
+          "text": "movie"
+        },
+        {
+          "startSec": 143.3,
+          "endSec": 143.7,
+          "text": "has"
+        },
+        {
+          "startSec": 143.7,
+          "endSec": 144.1,
+          "text": "made"
+        },
+        {
+          "startSec": 144.1,
+          "endSec": 144.5,
+          "text": "the"
+        },
+        {
+          "startSec": 144.5,
+          "endSec": 145,
+          "text": "most"
+        },
+        {
+          "startSec": 145,
+          "endSec": 145.5,
+          "text": "money"
+        },
+        {
+          "startSec": 145.5,
+          "endSec": 146.4,
+          "text": "ever?"
+        },
+        {
+          "startSec": 146.4,
+          "endSec": 146.9,
+          "text": "Is"
+        },
+        {
+          "startSec": 146.9,
+          "endSec": 147.5,
+          "text": "it"
+        },
+        {
+          "startSec": 147.5,
+          "endSec": 148,
+          "text": "A)"
+        },
+        {
+          "startSec": 148,
+          "endSec": 150.1,
+          "text": "Titanic,"
+        },
+        {
+          "startSec": 150.1,
+          "endSec": 150.3,
+          "text": "B)"
+        },
+        {
+          "startSec": 150.3,
+          "endSec": 151.1,
+          "text": "Avengers"
+        },
+        {
+          "startSec": 151.1,
+          "endSec": 151.4,
+          "text": "End"
+        },
+        {
+          "startSec": 151.4,
+          "endSec": 152.8,
+          "text": "Game,"
+        },
+        {
+          "startSec": 152.8,
+          "endSec": 153.6,
+          "text": "we'll"
+        }
+      ]
+    },
+    {
+      "startSec": 152.8,
+      "endSec": 155.5,
+      "text": "we'll see Avatar.",
+      "words": [
+        {
+          "startSec": 152.8,
+          "endSec": 153.6,
+          "text": "we'll"
+        },
+        {
+          "startSec": 153.6,
+          "endSec": 154,
+          "text": "see"
+        },
+        {
+          "startSec": 154,
+          "endSec": 155.5,
+          "text": "Avatar."
+        },
+        {
+          "startSec": 155.5,
+          "endSec": 155.6,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 155.5,
+      "endSec": 161,
+      "text": "I think it might be Avatar, although that might have been the most expensive to make.",
+      "words": [
+        {
+          "startSec": 155.5,
+          "endSec": 155.6,
+          "text": "I"
+        },
+        {
+          "startSec": 155.6,
+          "endSec": 155.9,
+          "text": "think"
+        },
+        {
+          "startSec": 155.9,
+          "endSec": 156.1,
+          "text": "it"
+        },
+        {
+          "startSec": 156.1,
+          "endSec": 156.5,
+          "text": "might"
+        },
+        {
+          "startSec": 156.5,
+          "endSec": 156.6,
+          "text": "be"
+        },
+        {
+          "startSec": 156.6,
+          "endSec": 157.2,
+          "text": "Avatar,"
+        },
+        {
+          "startSec": 157.2,
+          "endSec": 157.8,
+          "text": "although"
+        },
+        {
+          "startSec": 157.8,
+          "endSec": 158.1,
+          "text": "that"
+        },
+        {
+          "startSec": 158.1,
+          "endSec": 158.5,
+          "text": "might"
+        },
+        {
+          "startSec": 158.5,
+          "endSec": 158.8,
+          "text": "have"
+        },
+        {
+          "startSec": 158.8,
+          "endSec": 159.1,
+          "text": "been"
+        },
+        {
+          "startSec": 159.1,
+          "endSec": 159.3,
+          "text": "the"
+        },
+        {
+          "startSec": 159.3,
+          "endSec": 159.6,
+          "text": "most"
+        },
+        {
+          "startSec": 159.6,
+          "endSec": 160.3,
+          "text": "expensive"
+        },
+        {
+          "startSec": 160.3,
+          "endSec": 160.4,
+          "text": "to"
+        },
+        {
+          "startSec": 160.4,
+          "endSec": 161,
+          "text": "make."
+        },
+        {
+          "startSec": 161,
+          "endSec": 161.3,
+          "text": "I'm"
+        }
+      ]
+    },
+    {
+      "startSec": 161,
+      "endSec": 162,
+      "text": "I'm not sure.",
+      "words": [
+        {
+          "startSec": 161,
+          "endSec": 161.3,
+          "text": "I'm"
+        },
+        {
+          "startSec": 161.3,
+          "endSec": 161.5,
+          "text": "not"
+        },
+        {
+          "startSec": 161.5,
+          "endSec": 162,
+          "text": "sure."
+        }
+      ]
+    },
+    {
+      "startSec": 162,
+      "endSec": 166.3,
+      "text": "Okay, well, we'll find out at the end of the programme.",
+      "words": [
+        {
+          "startSec": 162.1,
+          "endSec": 162.6,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 162.6,
+          "endSec": 163.1,
+          "text": "well,"
+        },
+        {
+          "startSec": 163.1,
+          "endSec": 163.5,
+          "text": "we'll"
+        },
+        {
+          "startSec": 163.5,
+          "endSec": 163.8,
+          "text": "find"
+        },
+        {
+          "startSec": 163.8,
+          "endSec": 164.1,
+          "text": "out"
+        },
+        {
+          "startSec": 164.1,
+          "endSec": 164.2,
+          "text": "at"
+        },
+        {
+          "startSec": 164.2,
+          "endSec": 164.5,
+          "text": "the"
+        },
+        {
+          "startSec": 164.5,
+          "endSec": 164.7,
+          "text": "end"
+        },
+        {
+          "startSec": 164.7,
+          "endSec": 164.9,
+          "text": "of"
+        },
+        {
+          "startSec": 164.9,
+          "endSec": 165.2,
+          "text": "the"
+        },
+        {
+          "startSec": 165.2,
+          "endSec": 166.3,
+          "text": "programme."
+        },
+        {
+          "startSec": 166.3,
+          "endSec": 166.8,
+          "text": "Popular"
+        }
+      ]
+    },
+    {
+      "startSec": 166.3,
+      "endSec": 171.7,
+      "text": "Popular songs are full of lists, and one of the most famous is My Favorite Things, sung",
+      "words": [
+        {
+          "startSec": 166.3,
+          "endSec": 166.8,
+          "text": "Popular"
+        },
+        {
+          "startSec": 166.8,
+          "endSec": 167.2,
+          "text": "songs"
+        },
+        {
+          "startSec": 167.2,
+          "endSec": 167.4,
+          "text": "are"
+        },
+        {
+          "startSec": 167.4,
+          "endSec": 167.7,
+          "text": "full"
+        },
+        {
+          "startSec": 167.7,
+          "endSec": 167.9,
+          "text": "of"
+        },
+        {
+          "startSec": 167.9,
+          "endSec": 168.4,
+          "text": "lists,"
+        },
+        {
+          "startSec": 168.4,
+          "endSec": 168.6,
+          "text": "and"
+        },
+        {
+          "startSec": 168.6,
+          "endSec": 168.8,
+          "text": "one"
+        },
+        {
+          "startSec": 168.8,
+          "endSec": 169,
+          "text": "of"
+        },
+        {
+          "startSec": 169,
+          "endSec": 169.2,
+          "text": "the"
+        },
+        {
+          "startSec": 169.2,
+          "endSec": 169.5,
+          "text": "most"
+        },
+        {
+          "startSec": 169.5,
+          "endSec": 170,
+          "text": "famous"
+        },
+        {
+          "startSec": 170,
+          "endSec": 170.1,
+          "text": "is"
+        },
+        {
+          "startSec": 170.1,
+          "endSec": 170.3,
+          "text": "My"
+        },
+        {
+          "startSec": 170.3,
+          "endSec": 170.9,
+          "text": "Favorite"
+        },
+        {
+          "startSec": 170.9,
+          "endSec": 171.6,
+          "text": "Things,"
+        },
+        {
+          "startSec": 171.6,
+          "endSec": 171.7,
+          "text": "sung"
+        },
+        {
+          "startSec": 171.7,
+          "endSec": 171.8,
+          "text": "by"
+        }
+      ]
+    },
+    {
+      "startSec": 171.7,
+      "endSec": 177.8,
+      "text": "by Judy Andrews in the film The Sound of Music. The song lists all her favourite things,",
+      "words": [
+        {
+          "startSec": 171.7,
+          "endSec": 171.8,
+          "text": "by"
+        },
+        {
+          "startSec": 171.8,
+          "endSec": 172.1,
+          "text": "Judy"
+        },
+        {
+          "startSec": 172.1,
+          "endSec": 172.7,
+          "text": "Andrews"
+        },
+        {
+          "startSec": 172.7,
+          "endSec": 172.8,
+          "text": "in"
+        },
+        {
+          "startSec": 172.8,
+          "endSec": 173,
+          "text": "the"
+        },
+        {
+          "startSec": 173,
+          "endSec": 173.3,
+          "text": "film"
+        },
+        {
+          "startSec": 173.3,
+          "endSec": 173.5,
+          "text": "The"
+        },
+        {
+          "startSec": 173.5,
+          "endSec": 173.9,
+          "text": "Sound"
+        },
+        {
+          "startSec": 173.9,
+          "endSec": 174.1,
+          "text": "of"
+        },
+        {
+          "startSec": 174.1,
+          "endSec": 174.7,
+          "text": "Music."
+        },
+        {
+          "startSec": 174.7,
+          "endSec": 174.9,
+          "text": "The"
+        },
+        {
+          "startSec": 174.9,
+          "endSec": 175.3,
+          "text": "song"
+        },
+        {
+          "startSec": 175.3,
+          "endSec": 175.7,
+          "text": "lists"
+        },
+        {
+          "startSec": 175.7,
+          "endSec": 175.9,
+          "text": "all"
+        },
+        {
+          "startSec": 175.9,
+          "endSec": 176.2,
+          "text": "her"
+        },
+        {
+          "startSec": 176.2,
+          "endSec": 176.9,
+          "text": "favourite"
+        },
+        {
+          "startSec": 176.9,
+          "endSec": 177.8,
+          "text": "things,"
+        },
+        {
+          "startSec": 177.8,
+          "endSec": 178.2,
+          "text": "from"
+        }
+      ]
+    },
+    {
+      "startSec": 177.8,
+      "endSec": 185.6,
+      "text": "from raindrops on roses to whiskers on kittens. Here, Joe Nolan and Michael Rose and discuss",
+      "words": [
+        {
+          "startSec": 177.8,
+          "endSec": 178.2,
+          "text": "from"
+        },
+        {
+          "startSec": 178.2,
+          "endSec": 179.2,
+          "text": "raindrops"
+        },
+        {
+          "startSec": 179.2,
+          "endSec": 179.4,
+          "text": "on"
+        },
+        {
+          "startSec": 179.4,
+          "endSec": 180,
+          "text": "roses"
+        },
+        {
+          "startSec": 180,
+          "endSec": 180.2,
+          "text": "to"
+        },
+        {
+          "startSec": 180.2,
+          "endSec": 181.1,
+          "text": "whiskers"
+        },
+        {
+          "startSec": 181.1,
+          "endSec": 181.3,
+          "text": "on"
+        },
+        {
+          "startSec": 181.3,
+          "endSec": 182.5,
+          "text": "kittens."
+        },
+        {
+          "startSec": 182.5,
+          "endSec": 183,
+          "text": "Here,"
+        },
+        {
+          "startSec": 183,
+          "endSec": 183.2,
+          "text": "Joe"
+        },
+        {
+          "startSec": 183.2,
+          "endSec": 183.6,
+          "text": "Nolan"
+        },
+        {
+          "startSec": 183.6,
+          "endSec": 183.8,
+          "text": "and"
+        },
+        {
+          "startSec": 183.8,
+          "endSec": 184.4,
+          "text": "Michael"
+        },
+        {
+          "startSec": 184.4,
+          "endSec": 184.8,
+          "text": "Rose"
+        },
+        {
+          "startSec": 184.8,
+          "endSec": 185,
+          "text": "and"
+        },
+        {
+          "startSec": 185,
+          "endSec": 185.6,
+          "text": "discuss"
+        }
+      ]
+    },
+    {
+      "startSec": 185.6,
+      "endSec": 195.9,
+      "text": "the song on BBC Radio 4 programme, Word of Mouth.",
+      "words": [
+        {
+          "startSec": 185.7,
+          "endSec": 186.2,
+          "text": "the"
+        },
+        {
+          "startSec": 186.2,
+          "endSec": 187.2,
+          "text": "song"
+        },
+        {
+          "startSec": 187.2,
+          "endSec": 187.6,
+          "text": "on"
+        },
+        {
+          "startSec": 187.6,
+          "endSec": 188.3,
+          "text": "BBC"
+        },
+        {
+          "startSec": 188.3,
+          "endSec": 189.4,
+          "text": "Radio"
+        },
+        {
+          "startSec": 189.4,
+          "endSec": 190.1,
+          "text": "4"
+        },
+        {
+          "startSec": 190.1,
+          "endSec": 192.6,
+          "text": "programme,"
+        },
+        {
+          "startSec": 192.6,
+          "endSec": 193.9,
+          "text": "Word"
+        },
+        {
+          "startSec": 193.9,
+          "endSec": 194,
+          "text": "of"
+        },
+        {
+          "startSec": 194,
+          "endSec": 195.9,
+          "text": "Mouth."
+        },
+        {
+          "startSec": 195.9,
+          "endSec": 196.2,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 195.9,
+      "endSec": 204.6,
+      "text": "The list encourages you to think really efficiently and economically. So I think you don't waste",
+      "words": [
+        {
+          "startSec": 195.9,
+          "endSec": 196.2,
+          "text": "The"
+        },
+        {
+          "startSec": 196.2,
+          "endSec": 196.7,
+          "text": "list"
+        },
+        {
+          "startSec": 196.7,
+          "endSec": 197.8,
+          "text": "encourages"
+        },
+        {
+          "startSec": 197.8,
+          "endSec": 198.2,
+          "text": "you"
+        },
+        {
+          "startSec": 198.2,
+          "endSec": 198.4,
+          "text": "to"
+        },
+        {
+          "startSec": 198.4,
+          "endSec": 199,
+          "text": "think"
+        },
+        {
+          "startSec": 199,
+          "endSec": 199.7,
+          "text": "really"
+        },
+        {
+          "startSec": 199.7,
+          "endSec": 201,
+          "text": "efficiently"
+        },
+        {
+          "startSec": 201,
+          "endSec": 201.3,
+          "text": "and"
+        },
+        {
+          "startSec": 201.3,
+          "endSec": 203.1,
+          "text": "economically."
+        },
+        {
+          "startSec": 203.1,
+          "endSec": 203.2,
+          "text": "So"
+        },
+        {
+          "startSec": 203.2,
+          "endSec": 203.3,
+          "text": "I"
+        },
+        {
+          "startSec": 203.3,
+          "endSec": 203.7,
+          "text": "think"
+        },
+        {
+          "startSec": 203.7,
+          "endSec": 204.1,
+          "text": "you"
+        },
+        {
+          "startSec": 204.1,
+          "endSec": 204.3,
+          "text": "don't"
+        },
+        {
+          "startSec": 204.3,
+          "endSec": 204.6,
+          "text": "waste"
+        },
+        {
+          "startSec": 204.6,
+          "endSec": 204.7,
+          "text": "a"
+        }
+      ]
+    },
+    {
+      "startSec": 204.6,
+      "endSec": 212.2,
+      "text": "a lot of time and effort making a nice sentence or using long words. You just get to the nub",
+      "words": [
+        {
+          "startSec": 204.6,
+          "endSec": 204.7,
+          "text": "a"
+        },
+        {
+          "startSec": 204.7,
+          "endSec": 205,
+          "text": "lot"
+        },
+        {
+          "startSec": 205,
+          "endSec": 205.2,
+          "text": "of"
+        },
+        {
+          "startSec": 205.2,
+          "endSec": 205.7,
+          "text": "time"
+        },
+        {
+          "startSec": 205.7,
+          "endSec": 206,
+          "text": "and"
+        },
+        {
+          "startSec": 206,
+          "endSec": 206.6,
+          "text": "effort"
+        },
+        {
+          "startSec": 206.6,
+          "endSec": 207.3,
+          "text": "making"
+        },
+        {
+          "startSec": 207.3,
+          "endSec": 207.4,
+          "text": "a"
+        },
+        {
+          "startSec": 207.4,
+          "endSec": 207.8,
+          "text": "nice"
+        },
+        {
+          "startSec": 207.8,
+          "endSec": 208.7,
+          "text": "sentence"
+        },
+        {
+          "startSec": 208.7,
+          "endSec": 208.9,
+          "text": "or"
+        },
+        {
+          "startSec": 208.9,
+          "endSec": 209.5,
+          "text": "using"
+        },
+        {
+          "startSec": 209.5,
+          "endSec": 209.9,
+          "text": "long"
+        },
+        {
+          "startSec": 209.9,
+          "endSec": 210.8,
+          "text": "words."
+        },
+        {
+          "startSec": 210.8,
+          "endSec": 211,
+          "text": "You"
+        },
+        {
+          "startSec": 211,
+          "endSec": 211.3,
+          "text": "just"
+        },
+        {
+          "startSec": 211.3,
+          "endSec": 211.5,
+          "text": "get"
+        },
+        {
+          "startSec": 211.5,
+          "endSec": 211.6,
+          "text": "to"
+        },
+        {
+          "startSec": 211.6,
+          "endSec": 211.8,
+          "text": "the"
+        },
+        {
+          "startSec": 211.8,
+          "endSec": 212.2,
+          "text": "nub"
+        },
+        {
+          "startSec": 212.2,
+          "endSec": 212.3,
+          "text": "of"
+        }
+      ]
+    },
+    {
+      "startSec": 212.2,
+      "endSec": 214.2,
+      "text": "of things quite quickly.",
+      "words": [
+        {
+          "startSec": 212.2,
+          "endSec": 212.3,
+          "text": "of"
+        },
+        {
+          "startSec": 212.3,
+          "endSec": 212.9,
+          "text": "things"
+        },
+        {
+          "startSec": 212.9,
+          "endSec": 213.3,
+          "text": "quite"
+        },
+        {
+          "startSec": 213.3,
+          "endSec": 214.2,
+          "text": "quickly."
+        }
+      ]
+    },
+    {
+      "startSec": 214.2,
+      "endSec": 220.5,
+      "text": "The song's list of favourite things is long, and Joe says you get a big bang for your buck.",
+      "words": [
+        {
+          "startSec": 214.3,
+          "endSec": 214.4,
+          "text": "The"
+        },
+        {
+          "startSec": 214.4,
+          "endSec": 214.9,
+          "text": "song's"
+        },
+        {
+          "startSec": 214.9,
+          "endSec": 215.2,
+          "text": "list"
+        },
+        {
+          "startSec": 215.2,
+          "endSec": 215.4,
+          "text": "of"
+        },
+        {
+          "startSec": 215.4,
+          "endSec": 216.1,
+          "text": "favourite"
+        },
+        {
+          "startSec": 216.1,
+          "endSec": 216.5,
+          "text": "things"
+        },
+        {
+          "startSec": 216.5,
+          "endSec": 216.7,
+          "text": "is"
+        },
+        {
+          "startSec": 216.7,
+          "endSec": 217.1,
+          "text": "long,"
+        },
+        {
+          "startSec": 217.1,
+          "endSec": 217.4,
+          "text": "and"
+        },
+        {
+          "startSec": 217.4,
+          "endSec": 217.6,
+          "text": "Joe"
+        },
+        {
+          "startSec": 217.6,
+          "endSec": 217.9,
+          "text": "says"
+        },
+        {
+          "startSec": 217.9,
+          "endSec": 218.1,
+          "text": "you"
+        },
+        {
+          "startSec": 218.1,
+          "endSec": 218.4,
+          "text": "get"
+        },
+        {
+          "startSec": 218.4,
+          "endSec": 218.4,
+          "text": "a"
+        },
+        {
+          "startSec": 218.4,
+          "endSec": 218.7,
+          "text": "big"
+        },
+        {
+          "startSec": 218.7,
+          "endSec": 219,
+          "text": "bang"
+        },
+        {
+          "startSec": 219,
+          "endSec": 219.2,
+          "text": "for"
+        },
+        {
+          "startSec": 219.2,
+          "endSec": 219.6,
+          "text": "your"
+        },
+        {
+          "startSec": 219.6,
+          "endSec": 220.5,
+          "text": "buck."
+        },
+        {
+          "startSec": 220.5,
+          "endSec": 220.7,
+          "text": "An"
+        }
+      ]
+    },
+    {
+      "startSec": 220.5,
+      "endSec": 226.8,
+      "text": "An idiom meaning that you gain a lot in return for the money or effort you spend on something.",
+      "words": [
+        {
+          "startSec": 220.5,
+          "endSec": 220.7,
+          "text": "An"
+        },
+        {
+          "startSec": 220.7,
+          "endSec": 221.1,
+          "text": "idiom"
+        },
+        {
+          "startSec": 221.1,
+          "endSec": 221.6,
+          "text": "meaning"
+        },
+        {
+          "startSec": 221.6,
+          "endSec": 221.9,
+          "text": "that"
+        },
+        {
+          "startSec": 221.9,
+          "endSec": 222.1,
+          "text": "you"
+        },
+        {
+          "startSec": 222.1,
+          "endSec": 222.5,
+          "text": "gain"
+        },
+        {
+          "startSec": 222.5,
+          "endSec": 222.5,
+          "text": "a"
+        },
+        {
+          "startSec": 222.5,
+          "endSec": 222.8,
+          "text": "lot"
+        },
+        {
+          "startSec": 222.8,
+          "endSec": 222.9,
+          "text": "in"
+        },
+        {
+          "startSec": 222.9,
+          "endSec": 223.4,
+          "text": "return"
+        },
+        {
+          "startSec": 223.4,
+          "endSec": 223.6,
+          "text": "for"
+        },
+        {
+          "startSec": 223.6,
+          "endSec": 223.8,
+          "text": "the"
+        },
+        {
+          "startSec": 223.8,
+          "endSec": 224.2,
+          "text": "money"
+        },
+        {
+          "startSec": 224.2,
+          "endSec": 224.4,
+          "text": "or"
+        },
+        {
+          "startSec": 224.4,
+          "endSec": 224.8,
+          "text": "effort"
+        },
+        {
+          "startSec": 224.8,
+          "endSec": 225.1,
+          "text": "you"
+        },
+        {
+          "startSec": 225.1,
+          "endSec": 225.5,
+          "text": "spend"
+        },
+        {
+          "startSec": 225.5,
+          "endSec": 225.6,
+          "text": "on"
+        },
+        {
+          "startSec": 225.6,
+          "endSec": 226.8,
+          "text": "something."
+        },
+        {
+          "startSec": 226.8,
+          "endSec": 227,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 226.8,
+      "endSec": 232.7,
+      "text": "But not everyone likes the song. Some call it saccharine, an adjective meaning excessively",
+      "words": [
+        {
+          "startSec": 226.8,
+          "endSec": 227,
+          "text": "But"
+        },
+        {
+          "startSec": 227,
+          "endSec": 227.3,
+          "text": "not"
+        },
+        {
+          "startSec": 227.3,
+          "endSec": 227.9,
+          "text": "everyone"
+        },
+        {
+          "startSec": 227.9,
+          "endSec": 228.4,
+          "text": "likes"
+        },
+        {
+          "startSec": 228.4,
+          "endSec": 228.6,
+          "text": "the"
+        },
+        {
+          "startSec": 228.6,
+          "endSec": 229.2,
+          "text": "song."
+        },
+        {
+          "startSec": 229.2,
+          "endSec": 229.5,
+          "text": "Some"
+        },
+        {
+          "startSec": 229.5,
+          "endSec": 229.7,
+          "text": "call"
+        },
+        {
+          "startSec": 229.7,
+          "endSec": 229.9,
+          "text": "it"
+        },
+        {
+          "startSec": 229.9,
+          "endSec": 230.7,
+          "text": "saccharine,"
+        },
+        {
+          "startSec": 230.7,
+          "endSec": 230.8,
+          "text": "an"
+        },
+        {
+          "startSec": 230.8,
+          "endSec": 231.4,
+          "text": "adjective"
+        },
+        {
+          "startSec": 231.4,
+          "endSec": 231.9,
+          "text": "meaning"
+        },
+        {
+          "startSec": 231.9,
+          "endSec": 232.7,
+          "text": "excessively"
+        },
+        {
+          "startSec": 232.7,
+          "endSec": 233.6,
+          "text": "sweet,"
+        }
+      ]
+    },
+    {
+      "startSec": 232.7,
+      "endSec": 236.7,
+      "text": "sweet, sentimental or insincere.",
+      "words": [
+        {
+          "startSec": 232.7,
+          "endSec": 233.6,
+          "text": "sweet,"
+        },
+        {
+          "startSec": 233.6,
+          "endSec": 234.9,
+          "text": "sentimental"
+        },
+        {
+          "startSec": 234.9,
+          "endSec": 235.2,
+          "text": "or"
+        },
+        {
+          "startSec": 235.2,
+          "endSec": 236.7,
+          "text": "insincere."
+        },
+        {
+          "startSec": 236.7,
+          "endSec": 237.1,
+          "text": "Lists"
+        }
+      ]
+    },
+    {
+      "startSec": 236.7,
+      "endSec": 242.7,
+      "text": "Lists often abbreviate the items they contain, so you get to the nub of things quickly. The",
+      "words": [
+        {
+          "startSec": 236.7,
+          "endSec": 237.1,
+          "text": "Lists"
+        },
+        {
+          "startSec": 237.1,
+          "endSec": 237.5,
+          "text": "often"
+        },
+        {
+          "startSec": 237.5,
+          "endSec": 238.3,
+          "text": "abbreviate"
+        },
+        {
+          "startSec": 238.3,
+          "endSec": 238.5,
+          "text": "the"
+        },
+        {
+          "startSec": 238.5,
+          "endSec": 238.9,
+          "text": "items"
+        },
+        {
+          "startSec": 238.9,
+          "endSec": 239.2,
+          "text": "they"
+        },
+        {
+          "startSec": 239.2,
+          "endSec": 240,
+          "text": "contain,"
+        },
+        {
+          "startSec": 240,
+          "endSec": 240.1,
+          "text": "so"
+        },
+        {
+          "startSec": 240.1,
+          "endSec": 240.4,
+          "text": "you"
+        },
+        {
+          "startSec": 240.4,
+          "endSec": 240.6,
+          "text": "get"
+        },
+        {
+          "startSec": 240.6,
+          "endSec": 240.8,
+          "text": "to"
+        },
+        {
+          "startSec": 240.8,
+          "endSec": 241,
+          "text": "the"
+        },
+        {
+          "startSec": 241,
+          "endSec": 241.2,
+          "text": "nub"
+        },
+        {
+          "startSec": 241.2,
+          "endSec": 241.4,
+          "text": "of"
+        },
+        {
+          "startSec": 241.4,
+          "endSec": 241.9,
+          "text": "things"
+        },
+        {
+          "startSec": 241.9,
+          "endSec": 242.7,
+          "text": "quickly."
+        },
+        {
+          "startSec": 242.7,
+          "endSec": 242.7,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 242.7,
+      "endSec": 247.6,
+      "text": "nub of something means the most important or essential point about it.",
+      "words": [
+        {
+          "startSec": 242.7,
+          "endSec": 242.7,
+          "text": "The"
+        },
+        {
+          "startSec": 242.8,
+          "endSec": 242.9,
+          "text": "nub"
+        },
+        {
+          "startSec": 242.9,
+          "endSec": 243.1,
+          "text": "of"
+        },
+        {
+          "startSec": 243.1,
+          "endSec": 243.8,
+          "text": "something"
+        },
+        {
+          "startSec": 243.8,
+          "endSec": 244.2,
+          "text": "means"
+        },
+        {
+          "startSec": 244.2,
+          "endSec": 244.4,
+          "text": "the"
+        },
+        {
+          "startSec": 244.4,
+          "endSec": 244.7,
+          "text": "most"
+        },
+        {
+          "startSec": 244.7,
+          "endSec": 245.4,
+          "text": "important"
+        },
+        {
+          "startSec": 245.4,
+          "endSec": 245.6,
+          "text": "or"
+        },
+        {
+          "startSec": 245.6,
+          "endSec": 246.3,
+          "text": "essential"
+        },
+        {
+          "startSec": 246.3,
+          "endSec": 246.7,
+          "text": "point"
+        },
+        {
+          "startSec": 246.7,
+          "endSec": 247.1,
+          "text": "about"
+        },
+        {
+          "startSec": 247.1,
+          "endSec": 247.6,
+          "text": "it."
+        },
+        {
+          "startSec": 247.6,
+          "endSec": 248,
+          "text": "Lists"
+        }
+      ]
+    },
+    {
+      "startSec": 247.6,
+      "endSec": 254.4,
+      "text": "Lists can be useful as well. Here's Joe Nolan giving an example of a useful list to BBC Radio",
+      "words": [
+        {
+          "startSec": 247.6,
+          "endSec": 248,
+          "text": "Lists"
+        },
+        {
+          "startSec": 248,
+          "endSec": 248.2,
+          "text": "can"
+        },
+        {
+          "startSec": 248.2,
+          "endSec": 248.3,
+          "text": "be"
+        },
+        {
+          "startSec": 248.3,
+          "endSec": 248.8,
+          "text": "useful"
+        },
+        {
+          "startSec": 248.8,
+          "endSec": 249,
+          "text": "as"
+        },
+        {
+          "startSec": 249,
+          "endSec": 249.5,
+          "text": "well."
+        },
+        {
+          "startSec": 249.5,
+          "endSec": 250,
+          "text": "Here's"
+        },
+        {
+          "startSec": 250,
+          "endSec": 250.3,
+          "text": "Joe"
+        },
+        {
+          "startSec": 250.3,
+          "endSec": 250.7,
+          "text": "Nolan"
+        },
+        {
+          "startSec": 250.7,
+          "endSec": 251.2,
+          "text": "giving"
+        },
+        {
+          "startSec": 251.2,
+          "endSec": 251.4,
+          "text": "an"
+        },
+        {
+          "startSec": 251.4,
+          "endSec": 252,
+          "text": "example"
+        },
+        {
+          "startSec": 252,
+          "endSec": 252.1,
+          "text": "of"
+        },
+        {
+          "startSec": 252.1,
+          "endSec": 252.2,
+          "text": "a"
+        },
+        {
+          "startSec": 252.2,
+          "endSec": 252.8,
+          "text": "useful"
+        },
+        {
+          "startSec": 252.8,
+          "endSec": 253.2,
+          "text": "list"
+        },
+        {
+          "startSec": 253.2,
+          "endSec": 253.4,
+          "text": "to"
+        },
+        {
+          "startSec": 253.4,
+          "endSec": 254,
+          "text": "BBC"
+        },
+        {
+          "startSec": 254,
+          "endSec": 254.4,
+          "text": "Radio"
+        },
+        {
+          "startSec": 254.4,
+          "endSec": 254.8,
+          "text": "4's"
+        }
+      ]
+    },
+    {
+      "startSec": 254.4,
+      "endSec": 256,
+      "text": "4's Word of Mouth.",
+      "words": [
+        {
+          "startSec": 254.4,
+          "endSec": 254.8,
+          "text": "4's"
+        },
+        {
+          "startSec": 254.8,
+          "endSec": 255.2,
+          "text": "Word"
+        },
+        {
+          "startSec": 255.2,
+          "endSec": 255.3,
+          "text": "of"
+        },
+        {
+          "startSec": 255.3,
+          "endSec": 256,
+          "text": "Mouth."
+        },
+        {
+          "startSec": 256,
+          "endSec": 256.1,
+          "text": "A"
+        }
+      ]
+    },
+    {
+      "startSec": 256,
+      "endSec": 262,
+      "text": "A friend of mine who makes pros and cons lists finds that it really helps her resolve a situation.",
+      "words": [
+        {
+          "startSec": 256,
+          "endSec": 256.1,
+          "text": "A"
+        },
+        {
+          "startSec": 256.1,
+          "endSec": 256.5,
+          "text": "friend"
+        },
+        {
+          "startSec": 256.5,
+          "endSec": 256.6,
+          "text": "of"
+        },
+        {
+          "startSec": 256.6,
+          "endSec": 256.9,
+          "text": "mine"
+        },
+        {
+          "startSec": 256.9,
+          "endSec": 257.1,
+          "text": "who"
+        },
+        {
+          "startSec": 257.1,
+          "endSec": 257.5,
+          "text": "makes"
+        },
+        {
+          "startSec": 257.5,
+          "endSec": 257.8,
+          "text": "pros"
+        },
+        {
+          "startSec": 257.8,
+          "endSec": 258,
+          "text": "and"
+        },
+        {
+          "startSec": 258,
+          "endSec": 258.2,
+          "text": "cons"
+        },
+        {
+          "startSec": 258.2,
+          "endSec": 258.6,
+          "text": "lists"
+        },
+        {
+          "startSec": 258.6,
+          "endSec": 258.9,
+          "text": "finds"
+        },
+        {
+          "startSec": 258.9,
+          "endSec": 259.2,
+          "text": "that"
+        },
+        {
+          "startSec": 259.2,
+          "endSec": 259.4,
+          "text": "it"
+        },
+        {
+          "startSec": 259.4,
+          "endSec": 259.8,
+          "text": "really"
+        },
+        {
+          "startSec": 259.8,
+          "endSec": 260.1,
+          "text": "helps"
+        },
+        {
+          "startSec": 260.1,
+          "endSec": 260.3,
+          "text": "her"
+        },
+        {
+          "startSec": 260.3,
+          "endSec": 260.9,
+          "text": "resolve"
+        },
+        {
+          "startSec": 260.9,
+          "endSec": 261.4,
+          "text": "a"
+        },
+        {
+          "startSec": 261.4,
+          "endSec": 262,
+          "text": "situation."
+        },
+        {
+          "startSec": 262,
+          "endSec": 262.3,
+          "text": "She"
+        }
+      ]
+    },
+    {
+      "startSec": 262,
+      "endSec": 268.2,
+      "text": "She halves her page, pros, cons and she said by the end of it, she knows what she's doing.",
+      "words": [
+        {
+          "startSec": 262,
+          "endSec": 262.3,
+          "text": "She"
+        },
+        {
+          "startSec": 262.3,
+          "endSec": 262.7,
+          "text": "halves"
+        },
+        {
+          "startSec": 262.7,
+          "endSec": 262.9,
+          "text": "her"
+        },
+        {
+          "startSec": 262.9,
+          "endSec": 263.4,
+          "text": "page,"
+        },
+        {
+          "startSec": 263.4,
+          "endSec": 263.8,
+          "text": "pros,"
+        },
+        {
+          "startSec": 263.8,
+          "endSec": 264.1,
+          "text": "cons"
+        },
+        {
+          "startSec": 264.1,
+          "endSec": 264.4,
+          "text": "and"
+        },
+        {
+          "startSec": 264.4,
+          "endSec": 264.6,
+          "text": "she"
+        },
+        {
+          "startSec": 264.6,
+          "endSec": 264.9,
+          "text": "said"
+        },
+        {
+          "startSec": 264.9,
+          "endSec": 265,
+          "text": "by"
+        },
+        {
+          "startSec": 265,
+          "endSec": 265.2,
+          "text": "the"
+        },
+        {
+          "startSec": 265.2,
+          "endSec": 265.5,
+          "text": "end"
+        },
+        {
+          "startSec": 265.5,
+          "endSec": 265.6,
+          "text": "of"
+        },
+        {
+          "startSec": 265.6,
+          "endSec": 265.9,
+          "text": "it,"
+        },
+        {
+          "startSec": 265.9,
+          "endSec": 266.1,
+          "text": "she"
+        },
+        {
+          "startSec": 266.1,
+          "endSec": 266.5,
+          "text": "knows"
+        },
+        {
+          "startSec": 266.5,
+          "endSec": 266.8,
+          "text": "what"
+        },
+        {
+          "startSec": 266.8,
+          "endSec": 267.3,
+          "text": "she's"
+        },
+        {
+          "startSec": 267.3,
+          "endSec": 268.2,
+          "text": "doing."
+        }
+      ]
+    },
+    {
+      "startSec": 268.2,
+      "endSec": 274.1,
+      "text": "Lists help us make decisions by writing down all the pros and cons of a situation. The",
+      "words": [
+        {
+          "startSec": 268.3,
+          "endSec": 268.6,
+          "text": "Lists"
+        },
+        {
+          "startSec": 268.6,
+          "endSec": 269,
+          "text": "help"
+        },
+        {
+          "startSec": 269,
+          "endSec": 269.1,
+          "text": "us"
+        },
+        {
+          "startSec": 269.1,
+          "endSec": 269.5,
+          "text": "make"
+        },
+        {
+          "startSec": 269.5,
+          "endSec": 270.2,
+          "text": "decisions"
+        },
+        {
+          "startSec": 270.2,
+          "endSec": 270.4,
+          "text": "by"
+        },
+        {
+          "startSec": 270.4,
+          "endSec": 271,
+          "text": "writing"
+        },
+        {
+          "startSec": 271,
+          "endSec": 271.3,
+          "text": "down"
+        },
+        {
+          "startSec": 271.3,
+          "endSec": 271.6,
+          "text": "all"
+        },
+        {
+          "startSec": 271.6,
+          "endSec": 271.8,
+          "text": "the"
+        },
+        {
+          "startSec": 271.8,
+          "endSec": 272.2,
+          "text": "pros"
+        },
+        {
+          "startSec": 272.2,
+          "endSec": 272.4,
+          "text": "and"
+        },
+        {
+          "startSec": 272.4,
+          "endSec": 272.8,
+          "text": "cons"
+        },
+        {
+          "startSec": 272.8,
+          "endSec": 272.9,
+          "text": "of"
+        },
+        {
+          "startSec": 272.9,
+          "endSec": 273,
+          "text": "a"
+        },
+        {
+          "startSec": 273,
+          "endSec": 274.1,
+          "text": "situation."
+        },
+        {
+          "startSec": 274.1,
+          "endSec": 274.1,
+          "text": "The"
+        },
+        {
+          "startSec": 274.1,
+          "endSec": 274.4,
+          "text": "pros"
+        }
+      ]
+    },
+    {
+      "startSec": 274.1,
+      "endSec": 279.8,
+      "text": "pros and cons is another way of saying the advantages and disadvantages of something,",
+      "words": [
+        {
+          "startSec": 274.1,
+          "endSec": 274.1,
+          "text": "The"
+        },
+        {
+          "startSec": 274.1,
+          "endSec": 274.4,
+          "text": "pros"
+        },
+        {
+          "startSec": 274.4,
+          "endSec": 274.7,
+          "text": "and"
+        },
+        {
+          "startSec": 274.7,
+          "endSec": 275,
+          "text": "cons"
+        },
+        {
+          "startSec": 275,
+          "endSec": 275.1,
+          "text": "is"
+        },
+        {
+          "startSec": 275.1,
+          "endSec": 275.7,
+          "text": "another"
+        },
+        {
+          "startSec": 275.7,
+          "endSec": 275.9,
+          "text": "way"
+        },
+        {
+          "startSec": 275.9,
+          "endSec": 276.1,
+          "text": "of"
+        },
+        {
+          "startSec": 276.1,
+          "endSec": 276.5,
+          "text": "saying"
+        },
+        {
+          "startSec": 276.5,
+          "endSec": 276.8,
+          "text": "the"
+        },
+        {
+          "startSec": 276.8,
+          "endSec": 277.5,
+          "text": "advantages"
+        },
+        {
+          "startSec": 277.5,
+          "endSec": 277.8,
+          "text": "and"
+        },
+        {
+          "startSec": 277.8,
+          "endSec": 278.8,
+          "text": "disadvantages"
+        },
+        {
+          "startSec": 278.8,
+          "endSec": 278.9,
+          "text": "of"
+        },
+        {
+          "startSec": 278.9,
+          "endSec": 279.8,
+          "text": "something,"
+        },
+        {
+          "startSec": 279.8,
+          "endSec": 280.5,
+          "text": "especially"
+        }
+      ]
+    },
+    {
+      "startSec": 279.8,
+      "endSec": 283.1,
+      "text": "especially when you're trying to choose between them.",
+      "words": [
+        {
+          "startSec": 279.8,
+          "endSec": 280.5,
+          "text": "especially"
+        },
+        {
+          "startSec": 280.5,
+          "endSec": 280.8,
+          "text": "when"
+        },
+        {
+          "startSec": 280.8,
+          "endSec": 281.2,
+          "text": "you're"
+        },
+        {
+          "startSec": 281.2,
+          "endSec": 281.6,
+          "text": "trying"
+        },
+        {
+          "startSec": 281.6,
+          "endSec": 281.7,
+          "text": "to"
+        },
+        {
+          "startSec": 281.7,
+          "endSec": 282.1,
+          "text": "choose"
+        },
+        {
+          "startSec": 282.1,
+          "endSec": 282.6,
+          "text": "between"
+        },
+        {
+          "startSec": 282.6,
+          "endSec": 283.1,
+          "text": "them."
+        },
+        {
+          "startSec": 283.1,
+          "endSec": 283.3,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 283.1,
+      "endSec": 289.1,
+      "text": "The more you think about it, the more you see lists everywhere, in menus and bank statements",
+      "words": [
+        {
+          "startSec": 283.1,
+          "endSec": 283.3,
+          "text": "The"
+        },
+        {
+          "startSec": 283.3,
+          "endSec": 283.6,
+          "text": "more"
+        },
+        {
+          "startSec": 283.6,
+          "endSec": 283.8,
+          "text": "you"
+        },
+        {
+          "startSec": 283.8,
+          "endSec": 284.2,
+          "text": "think"
+        },
+        {
+          "startSec": 284.2,
+          "endSec": 284.6,
+          "text": "about"
+        },
+        {
+          "startSec": 284.6,
+          "endSec": 284.9,
+          "text": "it,"
+        },
+        {
+          "startSec": 284.9,
+          "endSec": 285.1,
+          "text": "the"
+        },
+        {
+          "startSec": 285.1,
+          "endSec": 285.4,
+          "text": "more"
+        },
+        {
+          "startSec": 285.4,
+          "endSec": 285.7,
+          "text": "you"
+        },
+        {
+          "startSec": 285.7,
+          "endSec": 285.9,
+          "text": "see"
+        },
+        {
+          "startSec": 285.9,
+          "endSec": 286.3,
+          "text": "lists"
+        },
+        {
+          "startSec": 286.3,
+          "endSec": 287.2,
+          "text": "everywhere,"
+        },
+        {
+          "startSec": 287.2,
+          "endSec": 287.3,
+          "text": "in"
+        },
+        {
+          "startSec": 287.3,
+          "endSec": 287.7,
+          "text": "menus"
+        },
+        {
+          "startSec": 287.7,
+          "endSec": 288,
+          "text": "and"
+        },
+        {
+          "startSec": 288,
+          "endSec": 288.3,
+          "text": "bank"
+        },
+        {
+          "startSec": 288.3,
+          "endSec": 289.1,
+          "text": "statements"
+        },
+        {
+          "startSec": 289.1,
+          "endSec": 289.4,
+          "text": "for"
+        }
+      ]
+    },
+    {
+      "startSec": 289.1,
+      "endSec": 294.9,
+      "text": "for example, and therapists even recommend listing all the good things in your life to",
+      "words": [
+        {
+          "startSec": 289.1,
+          "endSec": 289.4,
+          "text": "for"
+        },
+        {
+          "startSec": 289.4,
+          "endSec": 290.1,
+          "text": "example,"
+        },
+        {
+          "startSec": 290.1,
+          "endSec": 290.3,
+          "text": "and"
+        },
+        {
+          "startSec": 290.3,
+          "endSec": 291.1,
+          "text": "therapists"
+        },
+        {
+          "startSec": 291.1,
+          "endSec": 291.4,
+          "text": "even"
+        },
+        {
+          "startSec": 291.4,
+          "endSec": 292.1,
+          "text": "recommend"
+        },
+        {
+          "startSec": 292.1,
+          "endSec": 292.7,
+          "text": "listing"
+        },
+        {
+          "startSec": 292.7,
+          "endSec": 292.9,
+          "text": "all"
+        },
+        {
+          "startSec": 292.9,
+          "endSec": 293.2,
+          "text": "the"
+        },
+        {
+          "startSec": 293.2,
+          "endSec": 293.5,
+          "text": "good"
+        },
+        {
+          "startSec": 293.5,
+          "endSec": 293.9,
+          "text": "things"
+        },
+        {
+          "startSec": 293.9,
+          "endSec": 294.1,
+          "text": "in"
+        },
+        {
+          "startSec": 294.1,
+          "endSec": 294.4,
+          "text": "your"
+        },
+        {
+          "startSec": 294.4,
+          "endSec": 294.8,
+          "text": "life"
+        },
+        {
+          "startSec": 294.8,
+          "endSec": 294.9,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 294.9,
+      "endSec": 299.5,
+      "text": "feel happier. Not bad for a few words on a scrap of paper.",
+      "words": [
+        {
+          "startSec": 295,
+          "endSec": 295.3,
+          "text": "feel"
+        },
+        {
+          "startSec": 295.3,
+          "endSec": 296.2,
+          "text": "happier."
+        },
+        {
+          "startSec": 296.2,
+          "endSec": 296.5,
+          "text": "Not"
+        },
+        {
+          "startSec": 296.5,
+          "endSec": 296.7,
+          "text": "bad"
+        },
+        {
+          "startSec": 296.7,
+          "endSec": 297,
+          "text": "for"
+        },
+        {
+          "startSec": 297,
+          "endSec": 297.1,
+          "text": "a"
+        },
+        {
+          "startSec": 297.1,
+          "endSec": 297.4,
+          "text": "few"
+        },
+        {
+          "startSec": 297.4,
+          "endSec": 297.8,
+          "text": "words"
+        },
+        {
+          "startSec": 297.8,
+          "endSec": 298,
+          "text": "on"
+        },
+        {
+          "startSec": 298,
+          "endSec": 298.1,
+          "text": "a"
+        },
+        {
+          "startSec": 298.1,
+          "endSec": 298.5,
+          "text": "scrap"
+        },
+        {
+          "startSec": 298.5,
+          "endSec": 298.7,
+          "text": "of"
+        },
+        {
+          "startSec": 298.7,
+          "endSec": 299.5,
+          "text": "paper."
+        },
+        {
+          "startSec": 299.5,
+          "endSec": 300,
+          "text": "Okay,"
+        }
+      ]
+    },
+    {
+      "startSec": 299.5,
+      "endSec": 307,
+      "text": "Okay, it's time to reveal the answer to my question. Beth, I asked you which movie had",
+      "words": [
+        {
+          "startSec": 299.5,
+          "endSec": 300,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 300,
+          "endSec": 300.4,
+          "text": "it's"
+        },
+        {
+          "startSec": 300.4,
+          "endSec": 300.7,
+          "text": "time"
+        },
+        {
+          "startSec": 300.7,
+          "endSec": 300.9,
+          "text": "to"
+        },
+        {
+          "startSec": 300.9,
+          "endSec": 301.5,
+          "text": "reveal"
+        },
+        {
+          "startSec": 301.5,
+          "endSec": 301.7,
+          "text": "the"
+        },
+        {
+          "startSec": 301.7,
+          "endSec": 302.3,
+          "text": "answer"
+        },
+        {
+          "startSec": 302.3,
+          "endSec": 302.5,
+          "text": "to"
+        },
+        {
+          "startSec": 302.5,
+          "endSec": 302.7,
+          "text": "my"
+        },
+        {
+          "startSec": 302.7,
+          "endSec": 303.7,
+          "text": "question."
+        },
+        {
+          "startSec": 303.7,
+          "endSec": 304.4,
+          "text": "Beth,"
+        },
+        {
+          "startSec": 304.4,
+          "endSec": 304.6,
+          "text": "I"
+        },
+        {
+          "startSec": 304.6,
+          "endSec": 305.1,
+          "text": "asked"
+        },
+        {
+          "startSec": 305.1,
+          "endSec": 305.5,
+          "text": "you"
+        },
+        {
+          "startSec": 305.5,
+          "endSec": 306.1,
+          "text": "which"
+        },
+        {
+          "startSec": 306.1,
+          "endSec": 306.7,
+          "text": "movie"
+        },
+        {
+          "startSec": 306.7,
+          "endSec": 307,
+          "text": "had"
+        },
+        {
+          "startSec": 307,
+          "endSec": 307.5,
+          "text": "made"
+        }
+      ]
+    },
+    {
+      "startSec": 307,
+      "endSec": 315.6,
+      "text": "made the most money ever. And you said, Avatar, and now according to the internet movie database,",
+      "words": [
+        {
+          "startSec": 307,
+          "endSec": 307.5,
+          "text": "made"
+        },
+        {
+          "startSec": 307.5,
+          "endSec": 307.8,
+          "text": "the"
+        },
+        {
+          "startSec": 307.8,
+          "endSec": 308.3,
+          "text": "most"
+        },
+        {
+          "startSec": 308.3,
+          "endSec": 309,
+          "text": "money"
+        },
+        {
+          "startSec": 309,
+          "endSec": 309.9,
+          "text": "ever."
+        },
+        {
+          "startSec": 309.9,
+          "endSec": 310.1,
+          "text": "And"
+        },
+        {
+          "startSec": 310.1,
+          "endSec": 310.4,
+          "text": "you"
+        },
+        {
+          "startSec": 310.4,
+          "endSec": 310.9,
+          "text": "said,"
+        },
+        {
+          "startSec": 310.9,
+          "endSec": 311.5,
+          "text": "Avatar,"
+        },
+        {
+          "startSec": 311.5,
+          "endSec": 311.8,
+          "text": "and"
+        },
+        {
+          "startSec": 311.8,
+          "endSec": 312,
+          "text": "now"
+        },
+        {
+          "startSec": 312,
+          "endSec": 312.8,
+          "text": "according"
+        },
+        {
+          "startSec": 312.8,
+          "endSec": 313.3,
+          "text": "to"
+        },
+        {
+          "startSec": 313.3,
+          "endSec": 313.5,
+          "text": "the"
+        },
+        {
+          "startSec": 313.5,
+          "endSec": 314,
+          "text": "internet"
+        },
+        {
+          "startSec": 314,
+          "endSec": 314.3,
+          "text": "movie"
+        },
+        {
+          "startSec": 314.3,
+          "endSec": 315.6,
+          "text": "database,"
+        },
+        {
+          "startSec": 315.6,
+          "endSec": 316,
+          "text": "that's"
+        }
+      ]
+    },
+    {
+      "startSec": 315.6,
+      "endSec": 317,
+      "text": "that's exactly right.",
+      "words": [
+        {
+          "startSec": 315.6,
+          "endSec": 316,
+          "text": "that's"
+        },
+        {
+          "startSec": 316,
+          "endSec": 316.5,
+          "text": "exactly"
+        },
+        {
+          "startSec": 316.5,
+          "endSec": 317,
+          "text": "right."
+        },
+        {
+          "startSec": 317,
+          "endSec": 318,
+          "text": "Yay!"
+        }
+      ]
+    },
+    {
+      "startSec": 317,
+      "endSec": 318,
+      "text": "Yay!",
+      "words": [
+        {
+          "startSec": 317,
+          "endSec": 318,
+          "text": "Yay!"
+        },
+        {
+          "startSec": 318,
+          "endSec": 318.5,
+          "text": "Okay,"
+        }
+      ]
+    },
+    {
+      "startSec": 318,
+      "endSec": 324.2,
+      "text": "Okay, let's recap the vocabulary we've learned, starting with bucket list. All the things",
+      "words": [
+        {
+          "startSec": 318,
+          "endSec": 318.5,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 318.5,
+          "endSec": 318.9,
+          "text": "let's"
+        },
+        {
+          "startSec": 318.9,
+          "endSec": 319.3,
+          "text": "recap"
+        },
+        {
+          "startSec": 319.3,
+          "endSec": 319.6,
+          "text": "the"
+        },
+        {
+          "startSec": 319.6,
+          "endSec": 320.4,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 320.4,
+          "endSec": 320.8,
+          "text": "we've"
+        },
+        {
+          "startSec": 320.8,
+          "endSec": 321.5,
+          "text": "learned,"
+        },
+        {
+          "startSec": 321.5,
+          "endSec": 322.2,
+          "text": "starting"
+        },
+        {
+          "startSec": 322.2,
+          "endSec": 322.5,
+          "text": "with"
+        },
+        {
+          "startSec": 322.5,
+          "endSec": 323,
+          "text": "bucket"
+        },
+        {
+          "startSec": 323,
+          "endSec": 323.7,
+          "text": "list."
+        },
+        {
+          "startSec": 323.7,
+          "endSec": 323.8,
+          "text": "All"
+        },
+        {
+          "startSec": 323.8,
+          "endSec": 323.9,
+          "text": "the"
+        },
+        {
+          "startSec": 323.9,
+          "endSec": 324.2,
+          "text": "things"
+        }
+      ]
+    },
+    {
+      "startSec": 324.2,
+      "endSec": 326.8,
+      "text": "you would like to do before you die.",
+      "words": [
+        {
+          "startSec": 324.3,
+          "endSec": 324.5,
+          "text": "you"
+        },
+        {
+          "startSec": 324.5,
+          "endSec": 324.9,
+          "text": "would"
+        },
+        {
+          "startSec": 324.9,
+          "endSec": 325.2,
+          "text": "like"
+        },
+        {
+          "startSec": 325.2,
+          "endSec": 325.4,
+          "text": "to"
+        },
+        {
+          "startSec": 325.4,
+          "endSec": 325.5,
+          "text": "do"
+        },
+        {
+          "startSec": 325.5,
+          "endSec": 326,
+          "text": "before"
+        },
+        {
+          "startSec": 326,
+          "endSec": 326.3,
+          "text": "you"
+        },
+        {
+          "startSec": 326.3,
+          "endSec": 326.8,
+          "text": "die."
+        },
+        {
+          "startSec": 326.8,
+          "endSec": 327.2,
+          "text": "Puke"
+        }
+      ]
+    },
+    {
+      "startSec": 326.8,
+      "endSec": 329.6,
+      "text": "Puke is slang for vomit or sick.",
+      "words": [
+        {
+          "startSec": 326.8,
+          "endSec": 327.2,
+          "text": "Puke"
+        },
+        {
+          "startSec": 327.2,
+          "endSec": 327.4,
+          "text": "is"
+        },
+        {
+          "startSec": 327.4,
+          "endSec": 327.9,
+          "text": "slang"
+        },
+        {
+          "startSec": 327.9,
+          "endSec": 328.2,
+          "text": "for"
+        },
+        {
+          "startSec": 328.2,
+          "endSec": 328.6,
+          "text": "vomit"
+        },
+        {
+          "startSec": 328.6,
+          "endSec": 328.8,
+          "text": "or"
+        },
+        {
+          "startSec": 328.8,
+          "endSec": 329.6,
+          "text": "sick."
+        },
+        {
+          "startSec": 329.6,
+          "endSec": 329.7,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 329.6,
+      "endSec": 335,
+      "text": "If something gives bang for your buck, you gain a lot of extra value in return for the",
+      "words": [
+        {
+          "startSec": 329.6,
+          "endSec": 329.7,
+          "text": "If"
+        },
+        {
+          "startSec": 329.7,
+          "endSec": 330.4,
+          "text": "something"
+        },
+        {
+          "startSec": 330.4,
+          "endSec": 330.8,
+          "text": "gives"
+        },
+        {
+          "startSec": 330.8,
+          "endSec": 331.1,
+          "text": "bang"
+        },
+        {
+          "startSec": 331.1,
+          "endSec": 331.3,
+          "text": "for"
+        },
+        {
+          "startSec": 331.3,
+          "endSec": 331.6,
+          "text": "your"
+        },
+        {
+          "startSec": 331.6,
+          "endSec": 332.1,
+          "text": "buck,"
+        },
+        {
+          "startSec": 332.1,
+          "endSec": 332.3,
+          "text": "you"
+        },
+        {
+          "startSec": 332.3,
+          "endSec": 332.6,
+          "text": "gain"
+        },
+        {
+          "startSec": 332.6,
+          "endSec": 332.7,
+          "text": "a"
+        },
+        {
+          "startSec": 332.7,
+          "endSec": 332.9,
+          "text": "lot"
+        },
+        {
+          "startSec": 332.9,
+          "endSec": 333,
+          "text": "of"
+        },
+        {
+          "startSec": 333,
+          "endSec": 333.4,
+          "text": "extra"
+        },
+        {
+          "startSec": 333.4,
+          "endSec": 333.8,
+          "text": "value"
+        },
+        {
+          "startSec": 333.8,
+          "endSec": 334,
+          "text": "in"
+        },
+        {
+          "startSec": 334,
+          "endSec": 334.4,
+          "text": "return"
+        },
+        {
+          "startSec": 334.4,
+          "endSec": 334.6,
+          "text": "for"
+        },
+        {
+          "startSec": 334.6,
+          "endSec": 335,
+          "text": "the"
+        },
+        {
+          "startSec": 335,
+          "endSec": 335.4,
+          "text": "money"
+        }
+      ]
+    },
+    {
+      "startSec": 335,
+      "endSec": 337.3,
+      "text": "money or effort you put into it.",
+      "words": [
+        {
+          "startSec": 335,
+          "endSec": 335.4,
+          "text": "money"
+        },
+        {
+          "startSec": 335.4,
+          "endSec": 335.5,
+          "text": "or"
+        },
+        {
+          "startSec": 335.5,
+          "endSec": 336,
+          "text": "effort"
+        },
+        {
+          "startSec": 336,
+          "endSec": 336.3,
+          "text": "you"
+        },
+        {
+          "startSec": 336.3,
+          "endSec": 336.5,
+          "text": "put"
+        },
+        {
+          "startSec": 336.5,
+          "endSec": 336.9,
+          "text": "into"
+        },
+        {
+          "startSec": 336.9,
+          "endSec": 337.3,
+          "text": "it."
+        },
+        {
+          "startSec": 337.3,
+          "endSec": 337.5,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 337.3,
+      "endSec": 342.8,
+      "text": "If you call something saccharine, you criticise it for being too sweet or sentimental.",
+      "words": [
+        {
+          "startSec": 337.3,
+          "endSec": 337.5,
+          "text": "If"
+        },
+        {
+          "startSec": 337.5,
+          "endSec": 337.7,
+          "text": "you"
+        },
+        {
+          "startSec": 337.7,
+          "endSec": 338,
+          "text": "call"
+        },
+        {
+          "startSec": 338,
+          "endSec": 338.6,
+          "text": "something"
+        },
+        {
+          "startSec": 338.6,
+          "endSec": 339.5,
+          "text": "saccharine,"
+        },
+        {
+          "startSec": 339.5,
+          "endSec": 339.6,
+          "text": "you"
+        },
+        {
+          "startSec": 339.6,
+          "endSec": 340.3,
+          "text": "criticise"
+        },
+        {
+          "startSec": 340.3,
+          "endSec": 340.4,
+          "text": "it"
+        },
+        {
+          "startSec": 340.4,
+          "endSec": 340.6,
+          "text": "for"
+        },
+        {
+          "startSec": 340.6,
+          "endSec": 341,
+          "text": "being"
+        },
+        {
+          "startSec": 341,
+          "endSec": 341.2,
+          "text": "too"
+        },
+        {
+          "startSec": 341.2,
+          "endSec": 341.6,
+          "text": "sweet"
+        },
+        {
+          "startSec": 341.6,
+          "endSec": 341.7,
+          "text": "or"
+        },
+        {
+          "startSec": 341.7,
+          "endSec": 342.8,
+          "text": "sentimental."
+        },
+        {
+          "startSec": 342.8,
+          "endSec": 343.1,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 342.8,
+      "endSec": 348.8,
+      "text": "The nub of a problem or situation is the most important or essential thing about it.",
+      "words": [
+        {
+          "startSec": 342.8,
+          "endSec": 343.1,
+          "text": "The"
+        },
+        {
+          "startSec": 343.1,
+          "endSec": 343.3,
+          "text": "nub"
+        },
+        {
+          "startSec": 343.3,
+          "endSec": 343.5,
+          "text": "of"
+        },
+        {
+          "startSec": 343.5,
+          "endSec": 343.5,
+          "text": "a"
+        },
+        {
+          "startSec": 343.5,
+          "endSec": 344.1,
+          "text": "problem"
+        },
+        {
+          "startSec": 344.1,
+          "endSec": 344.3,
+          "text": "or"
+        },
+        {
+          "startSec": 344.3,
+          "endSec": 345,
+          "text": "situation"
+        },
+        {
+          "startSec": 345,
+          "endSec": 345.2,
+          "text": "is"
+        },
+        {
+          "startSec": 345.2,
+          "endSec": 345.4,
+          "text": "the"
+        },
+        {
+          "startSec": 345.4,
+          "endSec": 345.8,
+          "text": "most"
+        },
+        {
+          "startSec": 345.8,
+          "endSec": 346.5,
+          "text": "important"
+        },
+        {
+          "startSec": 346.5,
+          "endSec": 346.7,
+          "text": "or"
+        },
+        {
+          "startSec": 346.7,
+          "endSec": 347.4,
+          "text": "essential"
+        },
+        {
+          "startSec": 347.4,
+          "endSec": 347.8,
+          "text": "thing"
+        },
+        {
+          "startSec": 347.8,
+          "endSec": 348.2,
+          "text": "about"
+        },
+        {
+          "startSec": 348.2,
+          "endSec": 348.8,
+          "text": "it."
+        },
+        {
+          "startSec": 348.8,
+          "endSec": 349,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 348.8,
+      "endSec": 355.5,
+      "text": "And finally, something's pros and cons are its advantages and disadvantages. Once again,",
+      "words": [
+        {
+          "startSec": 348.8,
+          "endSec": 349,
+          "text": "And"
+        },
+        {
+          "startSec": 349,
+          "endSec": 349.8,
+          "text": "finally,"
+        },
+        {
+          "startSec": 349.8,
+          "endSec": 350.8,
+          "text": "something's"
+        },
+        {
+          "startSec": 350.8,
+          "endSec": 351.2,
+          "text": "pros"
+        },
+        {
+          "startSec": 351.2,
+          "endSec": 351.5,
+          "text": "and"
+        },
+        {
+          "startSec": 351.5,
+          "endSec": 351.8,
+          "text": "cons"
+        },
+        {
+          "startSec": 351.8,
+          "endSec": 352.1,
+          "text": "are"
+        },
+        {
+          "startSec": 352.1,
+          "endSec": 352.4,
+          "text": "its"
+        },
+        {
+          "startSec": 352.4,
+          "endSec": 353.3,
+          "text": "advantages"
+        },
+        {
+          "startSec": 353.3,
+          "endSec": 353.5,
+          "text": "and"
+        },
+        {
+          "startSec": 353.5,
+          "endSec": 355,
+          "text": "disadvantages."
+        },
+        {
+          "startSec": 355,
+          "endSec": 355.2,
+          "text": "Once"
+        },
+        {
+          "startSec": 355.2,
+          "endSec": 355.5,
+          "text": "again,"
+        },
+        {
+          "startSec": 355.5,
+          "endSec": 355.8,
+          "text": "our"
+        }
+      ]
+    },
+    {
+      "startSec": 355.5,
+      "endSec": 361.1,
+      "text": "our 6 minutes are up. But remember, you'll find a quiz and worksheets for this episode",
+      "words": [
+        {
+          "startSec": 355.5,
+          "endSec": 355.8,
+          "text": "our"
+        },
+        {
+          "startSec": 355.8,
+          "endSec": 356.1,
+          "text": "6"
+        },
+        {
+          "startSec": 356.1,
+          "endSec": 356.7,
+          "text": "minutes"
+        },
+        {
+          "startSec": 356.7,
+          "endSec": 357,
+          "text": "are"
+        },
+        {
+          "startSec": 357,
+          "endSec": 357.5,
+          "text": "up."
+        },
+        {
+          "startSec": 357.5,
+          "endSec": 357.7,
+          "text": "But"
+        },
+        {
+          "startSec": 357.7,
+          "endSec": 358.3,
+          "text": "remember,"
+        },
+        {
+          "startSec": 358.3,
+          "endSec": 358.6,
+          "text": "you'll"
+        },
+        {
+          "startSec": 358.6,
+          "endSec": 358.9,
+          "text": "find"
+        },
+        {
+          "startSec": 358.9,
+          "endSec": 358.9,
+          "text": "a"
+        },
+        {
+          "startSec": 358.9,
+          "endSec": 359.2,
+          "text": "quiz"
+        },
+        {
+          "startSec": 359.2,
+          "endSec": 359.3,
+          "text": "and"
+        },
+        {
+          "startSec": 359.3,
+          "endSec": 360,
+          "text": "worksheets"
+        },
+        {
+          "startSec": 360,
+          "endSec": 360.2,
+          "text": "for"
+        },
+        {
+          "startSec": 360.2,
+          "endSec": 360.5,
+          "text": "this"
+        },
+        {
+          "startSec": 360.5,
+          "endSec": 361.1,
+          "text": "episode"
+        },
+        {
+          "startSec": 361.1,
+          "endSec": 361.5,
+          "text": "over"
+        }
+      ]
+    },
+    {
+      "startSec": 361.1,
+      "endSec": 366.4,
+      "text": "over on our website, bbclearningenglish.com. Goodbye for now.",
+      "words": [
+        {
+          "startSec": 361.1,
+          "endSec": 361.5,
+          "text": "over"
+        },
+        {
+          "startSec": 361.5,
+          "endSec": 361.7,
+          "text": "on"
+        },
+        {
+          "startSec": 361.7,
+          "endSec": 362,
+          "text": "our"
+        },
+        {
+          "startSec": 362,
+          "endSec": 362.8,
+          "text": "website,"
+        },
+        {
+          "startSec": 362.8,
+          "endSec": 365.3,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 365.3,
+          "endSec": 365.8,
+          "text": "Goodbye"
+        },
+        {
+          "startSec": 365.8,
+          "endSec": 366,
+          "text": "for"
+        },
+        {
+          "startSec": 366,
+          "endSec": 366.4,
+          "text": "now."
+        },
+        {
+          "startSec": 366.4,
+          "endSec": 366.9,
+          "text": "Bye."
+        }
+      ]
+    },
+    {
+      "startSec": 366.4,
+      "endSec": 366.9,
+      "text": "Bye.",
+      "words": [
+        {
+          "startSec": 366.4,
+          "endSec": 366.9,
+          "text": "Bye."
+        }
+      ]
+    }
+  ],
+  "introSec": 0
+}

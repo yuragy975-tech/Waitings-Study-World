@@ -1,0 +1,5737 @@
+{
+  "title": "Can we boost the immune system",
+  "source": "BBC 6 Minute English",
+  "level": "beginner",
+  "durationSec": 383,
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
+  "audioFile": "audio.mp3",
+  "segments": [
+    {
+      "startSec": 0,
+      "endSec": 12.8,
+      "text": "Hello, this is Six Minute English from BBC Learning English. I'm Georgie.",
+      "words": [
+        {
+          "startSec": 0.2,
+          "endSec": 1.5,
+          "text": "Hello,"
+        },
+        {
+          "startSec": 1.5,
+          "endSec": 2.4,
+          "text": "this"
+        },
+        {
+          "startSec": 2.4,
+          "endSec": 2.8,
+          "text": "is"
+        },
+        {
+          "startSec": 2.8,
+          "endSec": 3.5,
+          "text": "Six"
+        },
+        {
+          "startSec": 3.5,
+          "endSec": 4.8,
+          "text": "Minute"
+        },
+        {
+          "startSec": 4.8,
+          "endSec": 6.3,
+          "text": "English"
+        },
+        {
+          "startSec": 6.3,
+          "endSec": 7.1,
+          "text": "from"
+        },
+        {
+          "startSec": 7.1,
+          "endSec": 8.1,
+          "text": "BBC"
+        },
+        {
+          "startSec": 8.1,
+          "endSec": 9.5,
+          "text": "Learning"
+        },
+        {
+          "startSec": 9.5,
+          "endSec": 11.8,
+          "text": "English."
+        },
+        {
+          "startSec": 11.8,
+          "endSec": 11.9,
+          "text": "I'm"
+        },
+        {
+          "startSec": 11.9,
+          "endSec": 12.8,
+          "text": "Georgie."
+        },
+        {
+          "startSec": 12.8,
+          "endSec": 13,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 12.8,
+      "endSec": 17.8,
+      "text": "And I'm Neil. In this programme, we're talking about the immune system, which is the body's",
+      "words": [
+        {
+          "startSec": 12.8,
+          "endSec": 13,
+          "text": "And"
+        },
+        {
+          "startSec": 13,
+          "endSec": 13.2,
+          "text": "I'm"
+        },
+        {
+          "startSec": 13.2,
+          "endSec": 13.8,
+          "text": "Neil."
+        },
+        {
+          "startSec": 13.8,
+          "endSec": 13.9,
+          "text": "In"
+        },
+        {
+          "startSec": 13.9,
+          "endSec": 14.1,
+          "text": "this"
+        },
+        {
+          "startSec": 14.1,
+          "endSec": 14.7,
+          "text": "programme,"
+        },
+        {
+          "startSec": 14.7,
+          "endSec": 14.9,
+          "text": "we're"
+        },
+        {
+          "startSec": 14.9,
+          "endSec": 15.3,
+          "text": "talking"
+        },
+        {
+          "startSec": 15.3,
+          "endSec": 15.6,
+          "text": "about"
+        },
+        {
+          "startSec": 15.6,
+          "endSec": 15.7,
+          "text": "the"
+        },
+        {
+          "startSec": 15.7,
+          "endSec": 16.1,
+          "text": "immune"
+        },
+        {
+          "startSec": 16.1,
+          "endSec": 17,
+          "text": "system,"
+        },
+        {
+          "startSec": 17,
+          "endSec": 17.1,
+          "text": "which"
+        },
+        {
+          "startSec": 17.1,
+          "endSec": 17.2,
+          "text": "is"
+        },
+        {
+          "startSec": 17.2,
+          "endSec": 17.4,
+          "text": "the"
+        },
+        {
+          "startSec": 17.4,
+          "endSec": 17.8,
+          "text": "body's"
+        },
+        {
+          "startSec": 17.8,
+          "endSec": 18.3,
+          "text": "natural"
+        }
+      ]
+    },
+    {
+      "startSec": 17.8,
+      "endSec": 23.7,
+      "text": "natural defence against getting ill. Now, Georgie, is there anything you do to boost",
+      "words": [
+        {
+          "startSec": 17.8,
+          "endSec": 18.3,
+          "text": "natural"
+        },
+        {
+          "startSec": 18.3,
+          "endSec": 18.8,
+          "text": "defence"
+        },
+        {
+          "startSec": 18.8,
+          "endSec": 19.4,
+          "text": "against"
+        },
+        {
+          "startSec": 19.4,
+          "endSec": 19.9,
+          "text": "getting"
+        },
+        {
+          "startSec": 19.9,
+          "endSec": 20.4,
+          "text": "ill."
+        },
+        {
+          "startSec": 20.4,
+          "endSec": 20.8,
+          "text": "Now,"
+        },
+        {
+          "startSec": 20.8,
+          "endSec": 21.5,
+          "text": "Georgie,"
+        },
+        {
+          "startSec": 21.5,
+          "endSec": 21.6,
+          "text": "is"
+        },
+        {
+          "startSec": 21.6,
+          "endSec": 22,
+          "text": "there"
+        },
+        {
+          "startSec": 22,
+          "endSec": 22.7,
+          "text": "anything"
+        },
+        {
+          "startSec": 22.7,
+          "endSec": 22.9,
+          "text": "you"
+        },
+        {
+          "startSec": 22.9,
+          "endSec": 23.1,
+          "text": "do"
+        },
+        {
+          "startSec": 23.1,
+          "endSec": 23.2,
+          "text": "to"
+        },
+        {
+          "startSec": 23.2,
+          "endSec": 23.7,
+          "text": "boost"
+        },
+        {
+          "startSec": 23.7,
+          "endSec": 23.9,
+          "text": "your"
+        }
+      ]
+    },
+    {
+      "startSec": 23.7,
+      "endSec": 28,
+      "text": "your immune system? Yes, I try to eat lots of oranges, which apparently",
+      "words": [
+        {
+          "startSec": 23.7,
+          "endSec": 23.9,
+          "text": "your"
+        },
+        {
+          "startSec": 23.9,
+          "endSec": 24.3,
+          "text": "immune"
+        },
+        {
+          "startSec": 24.3,
+          "endSec": 24.9,
+          "text": "system?"
+        },
+        {
+          "startSec": 24.9,
+          "endSec": 25.3,
+          "text": "Yes,"
+        },
+        {
+          "startSec": 25.3,
+          "endSec": 25.4,
+          "text": "I"
+        },
+        {
+          "startSec": 25.4,
+          "endSec": 25.7,
+          "text": "try"
+        },
+        {
+          "startSec": 25.7,
+          "endSec": 25.8,
+          "text": "to"
+        },
+        {
+          "startSec": 25.8,
+          "endSec": 26.1,
+          "text": "eat"
+        },
+        {
+          "startSec": 26.1,
+          "endSec": 26.4,
+          "text": "lots"
+        },
+        {
+          "startSec": 26.4,
+          "endSec": 26.6,
+          "text": "of"
+        },
+        {
+          "startSec": 26.6,
+          "endSec": 27.4,
+          "text": "oranges,"
+        },
+        {
+          "startSec": 27.4,
+          "endSec": 27.6,
+          "text": "which"
+        },
+        {
+          "startSec": 27.6,
+          "endSec": 28,
+          "text": "apparently"
+        }
+      ]
+    },
+    {
+      "startSec": 28,
+      "endSec": 33.1,
+      "text": "have lots of vitamin C. And there are lots of things people do to try to improve their",
+      "words": [
+        {
+          "startSec": 28.1,
+          "endSec": 28.3,
+          "text": "have"
+        },
+        {
+          "startSec": 28.3,
+          "endSec": 28.6,
+          "text": "lots"
+        },
+        {
+          "startSec": 28.6,
+          "endSec": 28.7,
+          "text": "of"
+        },
+        {
+          "startSec": 28.7,
+          "endSec": 29.2,
+          "text": "vitamin"
+        },
+        {
+          "startSec": 29.2,
+          "endSec": 29.5,
+          "text": "C."
+        },
+        {
+          "startSec": 29.5,
+          "endSec": 29.7,
+          "text": "And"
+        },
+        {
+          "startSec": 29.7,
+          "endSec": 30.1,
+          "text": "there"
+        },
+        {
+          "startSec": 30.1,
+          "endSec": 30.3,
+          "text": "are"
+        },
+        {
+          "startSec": 30.3,
+          "endSec": 30.6,
+          "text": "lots"
+        },
+        {
+          "startSec": 30.6,
+          "endSec": 30.7,
+          "text": "of"
+        },
+        {
+          "startSec": 30.7,
+          "endSec": 31.1,
+          "text": "things"
+        },
+        {
+          "startSec": 31.1,
+          "endSec": 31.6,
+          "text": "people"
+        },
+        {
+          "startSec": 31.6,
+          "endSec": 31.7,
+          "text": "do"
+        },
+        {
+          "startSec": 31.7,
+          "endSec": 31.9,
+          "text": "to"
+        },
+        {
+          "startSec": 31.9,
+          "endSec": 32.2,
+          "text": "try"
+        },
+        {
+          "startSec": 32.2,
+          "endSec": 32.3,
+          "text": "to"
+        },
+        {
+          "startSec": 32.3,
+          "endSec": 32.8,
+          "text": "improve"
+        },
+        {
+          "startSec": 32.8,
+          "endSec": 33.1,
+          "text": "their"
+        },
+        {
+          "startSec": 33.1,
+          "endSec": 33.5,
+          "text": "immune"
+        }
+      ]
+    },
+    {
+      "startSec": 33.1,
+      "endSec": 38.7,
+      "text": "immune system and stay healthier, like eating certain foods, taking vitamins, or even activities",
+      "words": [
+        {
+          "startSec": 33.1,
+          "endSec": 33.5,
+          "text": "immune"
+        },
+        {
+          "startSec": 33.5,
+          "endSec": 33.8,
+          "text": "system"
+        },
+        {
+          "startSec": 33.8,
+          "endSec": 34,
+          "text": "and"
+        },
+        {
+          "startSec": 34,
+          "endSec": 34.3,
+          "text": "stay"
+        },
+        {
+          "startSec": 34.3,
+          "endSec": 35,
+          "text": "healthier,"
+        },
+        {
+          "startSec": 35,
+          "endSec": 35.3,
+          "text": "like"
+        },
+        {
+          "startSec": 35.3,
+          "endSec": 35.7,
+          "text": "eating"
+        },
+        {
+          "startSec": 35.7,
+          "endSec": 36.1,
+          "text": "certain"
+        },
+        {
+          "startSec": 36.1,
+          "endSec": 36.6,
+          "text": "foods,"
+        },
+        {
+          "startSec": 36.6,
+          "endSec": 37,
+          "text": "taking"
+        },
+        {
+          "startSec": 37,
+          "endSec": 37.7,
+          "text": "vitamins,"
+        },
+        {
+          "startSec": 37.7,
+          "endSec": 37.9,
+          "text": "or"
+        },
+        {
+          "startSec": 37.9,
+          "endSec": 38.1,
+          "text": "even"
+        },
+        {
+          "startSec": 38.1,
+          "endSec": 38.7,
+          "text": "activities"
+        },
+        {
+          "startSec": 38.7,
+          "endSec": 39,
+          "text": "like"
+        }
+      ]
+    },
+    {
+      "startSec": 38.7,
+      "endSec": 42.8,
+      "text": "like swimming in cold water. We'll find out how useful some of these",
+      "words": [
+        {
+          "startSec": 38.7,
+          "endSec": 39,
+          "text": "like"
+        },
+        {
+          "startSec": 39,
+          "endSec": 39.6,
+          "text": "swimming"
+        },
+        {
+          "startSec": 39.6,
+          "endSec": 39.7,
+          "text": "in"
+        },
+        {
+          "startSec": 39.7,
+          "endSec": 40,
+          "text": "cold"
+        },
+        {
+          "startSec": 40,
+          "endSec": 40.6,
+          "text": "water."
+        },
+        {
+          "startSec": 40.6,
+          "endSec": 40.9,
+          "text": "We'll"
+        },
+        {
+          "startSec": 40.9,
+          "endSec": 41.2,
+          "text": "find"
+        },
+        {
+          "startSec": 41.2,
+          "endSec": 41.4,
+          "text": "out"
+        },
+        {
+          "startSec": 41.4,
+          "endSec": 41.6,
+          "text": "how"
+        },
+        {
+          "startSec": 41.6,
+          "endSec": 42.1,
+          "text": "useful"
+        },
+        {
+          "startSec": 42.1,
+          "endSec": 42.3,
+          "text": "some"
+        },
+        {
+          "startSec": 42.3,
+          "endSec": 42.5,
+          "text": "of"
+        },
+        {
+          "startSec": 42.5,
+          "endSec": 42.8,
+          "text": "these"
+        },
+        {
+          "startSec": 42.8,
+          "endSec": 43.6,
+          "text": "techniques"
+        }
+      ]
+    },
+    {
+      "startSec": 42.8,
+      "endSec": 47.6,
+      "text": "techniques are in today's programme. But first, Georgie, a question, we all know",
+      "words": [
+        {
+          "startSec": 42.8,
+          "endSec": 43.6,
+          "text": "techniques"
+        },
+        {
+          "startSec": 43.6,
+          "endSec": 43.8,
+          "text": "are"
+        },
+        {
+          "startSec": 43.8,
+          "endSec": 43.9,
+          "text": "in"
+        },
+        {
+          "startSec": 43.9,
+          "endSec": 44.5,
+          "text": "today's"
+        },
+        {
+          "startSec": 44.5,
+          "endSec": 45.4,
+          "text": "programme."
+        },
+        {
+          "startSec": 45.4,
+          "endSec": 45.5,
+          "text": "But"
+        },
+        {
+          "startSec": 45.5,
+          "endSec": 46,
+          "text": "first,"
+        },
+        {
+          "startSec": 46,
+          "endSec": 46.5,
+          "text": "Georgie,"
+        },
+        {
+          "startSec": 46.5,
+          "endSec": 46.6,
+          "text": "a"
+        },
+        {
+          "startSec": 46.6,
+          "endSec": 47.2,
+          "text": "question,"
+        },
+        {
+          "startSec": 47.2,
+          "endSec": 47.3,
+          "text": "we"
+        },
+        {
+          "startSec": 47.3,
+          "endSec": 47.5,
+          "text": "all"
+        },
+        {
+          "startSec": 47.5,
+          "endSec": 47.6,
+          "text": "know"
+        },
+        {
+          "startSec": 47.6,
+          "endSec": 47.9,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 47.6,
+      "endSec": 52.3,
+      "text": "the common cold. Now, that's the illness that makes you cough and sneeze, have a sore",
+      "words": [
+        {
+          "startSec": 47.6,
+          "endSec": 47.9,
+          "text": "the"
+        },
+        {
+          "startSec": 47.9,
+          "endSec": 48.4,
+          "text": "common"
+        },
+        {
+          "startSec": 48.4,
+          "endSec": 49,
+          "text": "cold."
+        },
+        {
+          "startSec": 49,
+          "endSec": 49.2,
+          "text": "Now,"
+        },
+        {
+          "startSec": 49.2,
+          "endSec": 49.5,
+          "text": "that's"
+        },
+        {
+          "startSec": 49.5,
+          "endSec": 49.7,
+          "text": "the"
+        },
+        {
+          "startSec": 49.7,
+          "endSec": 50,
+          "text": "illness"
+        },
+        {
+          "startSec": 50,
+          "endSec": 50.2,
+          "text": "that"
+        },
+        {
+          "startSec": 50.2,
+          "endSec": 50.5,
+          "text": "makes"
+        },
+        {
+          "startSec": 50.5,
+          "endSec": 50.7,
+          "text": "you"
+        },
+        {
+          "startSec": 50.7,
+          "endSec": 51,
+          "text": "cough"
+        },
+        {
+          "startSec": 51,
+          "endSec": 51.2,
+          "text": "and"
+        },
+        {
+          "startSec": 51.2,
+          "endSec": 51.9,
+          "text": "sneeze,"
+        },
+        {
+          "startSec": 51.9,
+          "endSec": 51.9,
+          "text": "have"
+        },
+        {
+          "startSec": 51.9,
+          "endSec": 52,
+          "text": "a"
+        },
+        {
+          "startSec": 52,
+          "endSec": 52.3,
+          "text": "sore"
+        }
+      ]
+    },
+    {
+      "startSec": 52.3,
+      "endSec": 58.8,
+      "text": "frozen headache. But how many colds does the average adult get in the UK each year? Is",
+      "words": [
+        {
+          "startSec": 52.4,
+          "endSec": 52.9,
+          "text": "frozen"
+        },
+        {
+          "startSec": 52.9,
+          "endSec": 53.8,
+          "text": "headache."
+        },
+        {
+          "startSec": 53.8,
+          "endSec": 54.1,
+          "text": "But"
+        },
+        {
+          "startSec": 54.1,
+          "endSec": 54.4,
+          "text": "how"
+        },
+        {
+          "startSec": 54.4,
+          "endSec": 54.7,
+          "text": "many"
+        },
+        {
+          "startSec": 54.7,
+          "endSec": 55.2,
+          "text": "colds"
+        },
+        {
+          "startSec": 55.2,
+          "endSec": 55.5,
+          "text": "does"
+        },
+        {
+          "startSec": 55.5,
+          "endSec": 55.8,
+          "text": "the"
+        },
+        {
+          "startSec": 55.8,
+          "endSec": 56.4,
+          "text": "average"
+        },
+        {
+          "startSec": 56.4,
+          "endSec": 56.9,
+          "text": "adult"
+        },
+        {
+          "startSec": 56.9,
+          "endSec": 57.1,
+          "text": "get"
+        },
+        {
+          "startSec": 57.1,
+          "endSec": 57.3,
+          "text": "in"
+        },
+        {
+          "startSec": 57.3,
+          "endSec": 57.6,
+          "text": "the"
+        },
+        {
+          "startSec": 57.6,
+          "endSec": 57.7,
+          "text": "UK"
+        },
+        {
+          "startSec": 57.7,
+          "endSec": 58.1,
+          "text": "each"
+        },
+        {
+          "startSec": 58.1,
+          "endSec": 58.8,
+          "text": "year?"
+        },
+        {
+          "startSec": 58.8,
+          "endSec": 58.8,
+          "text": "Is"
+        },
+        {
+          "startSec": 58.8,
+          "endSec": 59.1,
+          "text": "it"
+        }
+      ]
+    },
+    {
+      "startSec": 58.8,
+      "endSec": 66.8,
+      "text": "it A, 2 to 3, B, 4 to 5, or C 7 to 8? Hmm, eight would be a lot. I'm going to go with",
+      "words": [
+        {
+          "startSec": 58.8,
+          "endSec": 58.8,
+          "text": "Is"
+        },
+        {
+          "startSec": 58.8,
+          "endSec": 59.1,
+          "text": "it"
+        },
+        {
+          "startSec": 59.1,
+          "endSec": 59.5,
+          "text": "A,"
+        },
+        {
+          "startSec": 59.5,
+          "endSec": 59.9,
+          "text": "2"
+        },
+        {
+          "startSec": 59.9,
+          "endSec": 60.1,
+          "text": "to"
+        },
+        {
+          "startSec": 60.1,
+          "endSec": 60.8,
+          "text": "3,"
+        },
+        {
+          "startSec": 60.8,
+          "endSec": 61.2,
+          "text": "B,"
+        },
+        {
+          "startSec": 61.2,
+          "endSec": 61.6,
+          "text": "4"
+        },
+        {
+          "startSec": 61.6,
+          "endSec": 61.9,
+          "text": "to"
+        },
+        {
+          "startSec": 61.9,
+          "endSec": 62.6,
+          "text": "5,"
+        },
+        {
+          "startSec": 62.6,
+          "endSec": 62.8,
+          "text": "or"
+        },
+        {
+          "startSec": 62.8,
+          "endSec": 63,
+          "text": "C"
+        },
+        {
+          "startSec": 63,
+          "endSec": 63.4,
+          "text": "7"
+        },
+        {
+          "startSec": 63.4,
+          "endSec": 63.6,
+          "text": "to"
+        },
+        {
+          "startSec": 63.6,
+          "endSec": 64.5,
+          "text": "8?"
+        },
+        {
+          "startSec": 64.5,
+          "endSec": 64.8,
+          "text": "Hmm,"
+        },
+        {
+          "startSec": 64.8,
+          "endSec": 65,
+          "text": "eight"
+        },
+        {
+          "startSec": 65,
+          "endSec": 65.3,
+          "text": "would"
+        },
+        {
+          "startSec": 65.3,
+          "endSec": 65.4,
+          "text": "be"
+        },
+        {
+          "startSec": 65.4,
+          "endSec": 65.4,
+          "text": "a"
+        },
+        {
+          "startSec": 65.4,
+          "endSec": 65.8,
+          "text": "lot."
+        },
+        {
+          "startSec": 65.8,
+          "endSec": 65.9,
+          "text": "I'm"
+        },
+        {
+          "startSec": 65.9,
+          "endSec": 66.1,
+          "text": "going"
+        },
+        {
+          "startSec": 66.1,
+          "endSec": 66.2,
+          "text": "to"
+        },
+        {
+          "startSec": 66.2,
+          "endSec": 66.6,
+          "text": "go"
+        },
+        {
+          "startSec": 66.6,
+          "endSec": 66.8,
+          "text": "with"
+        },
+        {
+          "startSec": 66.8,
+          "endSec": 67,
+          "text": "A,"
+        }
+      ]
+    },
+    {
+      "startSec": 66.8,
+      "endSec": 71.2,
+      "text": "A, 2 to 3 colds a year. Well, we'll find out at the end of the programme",
+      "words": [
+        {
+          "startSec": 66.8,
+          "endSec": 67,
+          "text": "A,"
+        },
+        {
+          "startSec": 67,
+          "endSec": 67.3,
+          "text": "2"
+        },
+        {
+          "startSec": 67.3,
+          "endSec": 67.4,
+          "text": "to"
+        },
+        {
+          "startSec": 67.4,
+          "endSec": 67.7,
+          "text": "3"
+        },
+        {
+          "startSec": 67.7,
+          "endSec": 68.1,
+          "text": "colds"
+        },
+        {
+          "startSec": 68.1,
+          "endSec": 68.2,
+          "text": "a"
+        },
+        {
+          "startSec": 68.2,
+          "endSec": 68.9,
+          "text": "year."
+        },
+        {
+          "startSec": 68.9,
+          "endSec": 69.2,
+          "text": "Well,"
+        },
+        {
+          "startSec": 69.2,
+          "endSec": 69.5,
+          "text": "we'll"
+        },
+        {
+          "startSec": 69.5,
+          "endSec": 69.7,
+          "text": "find"
+        },
+        {
+          "startSec": 69.7,
+          "endSec": 69.9,
+          "text": "out"
+        },
+        {
+          "startSec": 69.9,
+          "endSec": 70,
+          "text": "at"
+        },
+        {
+          "startSec": 70,
+          "endSec": 70.2,
+          "text": "the"
+        },
+        {
+          "startSec": 70.2,
+          "endSec": 70.4,
+          "text": "end"
+        },
+        {
+          "startSec": 70.4,
+          "endSec": 70.5,
+          "text": "of"
+        },
+        {
+          "startSec": 70.5,
+          "endSec": 70.7,
+          "text": "the"
+        },
+        {
+          "startSec": 70.7,
+          "endSec": 71.2,
+          "text": "programme"
+        },
+        {
+          "startSec": 71.2,
+          "endSec": 71.3,
+          "text": "if"
+        }
+      ]
+    },
+    {
+      "startSec": 71.2,
+      "endSec": 75.4,
+      "text": "if you're right. Now, many people can become ill over the winter",
+      "words": [
+        {
+          "startSec": 71.2,
+          "endSec": 71.3,
+          "text": "if"
+        },
+        {
+          "startSec": 71.3,
+          "endSec": 71.7,
+          "text": "you're"
+        },
+        {
+          "startSec": 71.7,
+          "endSec": 72.3,
+          "text": "right."
+        },
+        {
+          "startSec": 72.3,
+          "endSec": 72.7,
+          "text": "Now,"
+        },
+        {
+          "startSec": 72.7,
+          "endSec": 73,
+          "text": "many"
+        },
+        {
+          "startSec": 73,
+          "endSec": 73.4,
+          "text": "people"
+        },
+        {
+          "startSec": 73.4,
+          "endSec": 73.7,
+          "text": "can"
+        },
+        {
+          "startSec": 73.7,
+          "endSec": 74.1,
+          "text": "become"
+        },
+        {
+          "startSec": 74.1,
+          "endSec": 74.3,
+          "text": "ill"
+        },
+        {
+          "startSec": 74.3,
+          "endSec": 74.6,
+          "text": "over"
+        },
+        {
+          "startSec": 74.6,
+          "endSec": 74.9,
+          "text": "the"
+        },
+        {
+          "startSec": 74.9,
+          "endSec": 75.4,
+          "text": "winter"
+        }
+      ]
+    },
+    {
+      "startSec": 75.4,
+      "endSec": 82.7,
+      "text": "with diseases like colds, flu, and COVID-19. Host of BBC Radio 4 programme Inside Health,",
+      "words": [
+        {
+          "startSec": 75.5,
+          "endSec": 75.7,
+          "text": "with"
+        },
+        {
+          "startSec": 75.7,
+          "endSec": 76.4,
+          "text": "diseases"
+        },
+        {
+          "startSec": 76.4,
+          "endSec": 76.8,
+          "text": "like"
+        },
+        {
+          "startSec": 76.8,
+          "endSec": 77.4,
+          "text": "colds,"
+        },
+        {
+          "startSec": 77.4,
+          "endSec": 77.8,
+          "text": "flu,"
+        },
+        {
+          "startSec": 77.8,
+          "endSec": 78.1,
+          "text": "and"
+        },
+        {
+          "startSec": 78.1,
+          "endSec": 79.3,
+          "text": "COVID-19."
+        },
+        {
+          "startSec": 79.3,
+          "endSec": 79.7,
+          "text": "Host"
+        },
+        {
+          "startSec": 79.7,
+          "endSec": 79.9,
+          "text": "of"
+        },
+        {
+          "startSec": 79.9,
+          "endSec": 80.1,
+          "text": "BBC"
+        },
+        {
+          "startSec": 80.1,
+          "endSec": 80.5,
+          "text": "Radio"
+        },
+        {
+          "startSec": 80.5,
+          "endSec": 80.8,
+          "text": "4"
+        },
+        {
+          "startSec": 80.8,
+          "endSec": 81.7,
+          "text": "programme"
+        },
+        {
+          "startSec": 81.7,
+          "endSec": 82.1,
+          "text": "Inside"
+        },
+        {
+          "startSec": 82.1,
+          "endSec": 82.7,
+          "text": "Health,"
+        },
+        {
+          "startSec": 82.7,
+          "endSec": 83.1,
+          "text": "James"
+        }
+      ]
+    },
+    {
+      "startSec": 82.7,
+      "endSec": 88.4,
+      "text": "James Gallagher, gathered some experts to talk about immune systems. And he started off by",
+      "words": [
+        {
+          "startSec": 82.7,
+          "endSec": 83.1,
+          "text": "James"
+        },
+        {
+          "startSec": 83.1,
+          "endSec": 83.8,
+          "text": "Gallagher,"
+        },
+        {
+          "startSec": 83.8,
+          "endSec": 84.3,
+          "text": "gathered"
+        },
+        {
+          "startSec": 84.3,
+          "endSec": 84.6,
+          "text": "some"
+        },
+        {
+          "startSec": 84.6,
+          "endSec": 85.1,
+          "text": "experts"
+        },
+        {
+          "startSec": 85.1,
+          "endSec": 85.2,
+          "text": "to"
+        },
+        {
+          "startSec": 85.2,
+          "endSec": 85.5,
+          "text": "talk"
+        },
+        {
+          "startSec": 85.5,
+          "endSec": 85.8,
+          "text": "about"
+        },
+        {
+          "startSec": 85.8,
+          "endSec": 86.3,
+          "text": "immune"
+        },
+        {
+          "startSec": 86.3,
+          "endSec": 87.4,
+          "text": "systems."
+        },
+        {
+          "startSec": 87.4,
+          "endSec": 87.6,
+          "text": "And"
+        },
+        {
+          "startSec": 87.6,
+          "endSec": 87.7,
+          "text": "he"
+        },
+        {
+          "startSec": 87.7,
+          "endSec": 88,
+          "text": "started"
+        },
+        {
+          "startSec": 88,
+          "endSec": 88.2,
+          "text": "off"
+        },
+        {
+          "startSec": 88.2,
+          "endSec": 88.4,
+          "text": "by"
+        },
+        {
+          "startSec": 88.4,
+          "endSec": 88.9,
+          "text": "asking"
+        }
+      ]
+    },
+    {
+      "startSec": 88.4,
+      "endSec": 92.6,
+      "text": "asking whether they'd had more illnesses than usual this winter.",
+      "words": [
+        {
+          "startSec": 88.4,
+          "endSec": 88.9,
+          "text": "asking"
+        },
+        {
+          "startSec": 88.9,
+          "endSec": 89.4,
+          "text": "whether"
+        },
+        {
+          "startSec": 89.4,
+          "endSec": 89.8,
+          "text": "they'd"
+        },
+        {
+          "startSec": 89.8,
+          "endSec": 90,
+          "text": "had"
+        },
+        {
+          "startSec": 90,
+          "endSec": 90.3,
+          "text": "more"
+        },
+        {
+          "startSec": 90.3,
+          "endSec": 90.9,
+          "text": "illnesses"
+        },
+        {
+          "startSec": 90.9,
+          "endSec": 91.2,
+          "text": "than"
+        },
+        {
+          "startSec": 91.2,
+          "endSec": 91.6,
+          "text": "usual"
+        },
+        {
+          "startSec": 91.6,
+          "endSec": 91.9,
+          "text": "this"
+        },
+        {
+          "startSec": 91.9,
+          "endSec": 92.6,
+          "text": "winter."
+        },
+        {
+          "startSec": 92.6,
+          "endSec": 93.4,
+          "text": "Hello."
+        }
+      ]
+    },
+    {
+      "startSec": 92.6,
+      "endSec": 99.4,
+      "text": "Hello. Hi. Right. How has everyone been this winter? Because I've had a rotten one and",
+      "words": [
+        {
+          "startSec": 92.6,
+          "endSec": 93.4,
+          "text": "Hello."
+        },
+        {
+          "startSec": 93.4,
+          "endSec": 94.1,
+          "text": "Hi."
+        },
+        {
+          "startSec": 94.1,
+          "endSec": 94.9,
+          "text": "Right."
+        },
+        {
+          "startSec": 94.9,
+          "endSec": 95.2,
+          "text": "How"
+        },
+        {
+          "startSec": 95.2,
+          "endSec": 95.4,
+          "text": "has"
+        },
+        {
+          "startSec": 95.4,
+          "endSec": 96.1,
+          "text": "everyone"
+        },
+        {
+          "startSec": 96.1,
+          "endSec": 96.4,
+          "text": "been"
+        },
+        {
+          "startSec": 96.4,
+          "endSec": 96.8,
+          "text": "this"
+        },
+        {
+          "startSec": 96.8,
+          "endSec": 97.2,
+          "text": "winter?"
+        },
+        {
+          "startSec": 97.2,
+          "endSec": 97.4,
+          "text": "Because"
+        },
+        {
+          "startSec": 97.4,
+          "endSec": 97.6,
+          "text": "I've"
+        },
+        {
+          "startSec": 97.6,
+          "endSec": 98,
+          "text": "had"
+        },
+        {
+          "startSec": 98,
+          "endSec": 98.1,
+          "text": "a"
+        },
+        {
+          "startSec": 98.1,
+          "endSec": 98.9,
+          "text": "rotten"
+        },
+        {
+          "startSec": 98.9,
+          "endSec": 99.2,
+          "text": "one"
+        },
+        {
+          "startSec": 99.2,
+          "endSec": 99.4,
+          "text": "and"
+        },
+        {
+          "startSec": 99.4,
+          "endSec": 99.5,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 99.4,
+      "endSec": 106.2,
+      "text": "I have felt constantly ill since about November. John? I have not had anything yet, Touchwood.",
+      "words": [
+        {
+          "startSec": 99.4,
+          "endSec": 99.5,
+          "text": "I"
+        },
+        {
+          "startSec": 99.5,
+          "endSec": 99.8,
+          "text": "have"
+        },
+        {
+          "startSec": 99.8,
+          "endSec": 100.1,
+          "text": "felt"
+        },
+        {
+          "startSec": 100.1,
+          "endSec": 101,
+          "text": "constantly"
+        },
+        {
+          "startSec": 101,
+          "endSec": 101.2,
+          "text": "ill"
+        },
+        {
+          "startSec": 101.2,
+          "endSec": 101.7,
+          "text": "since"
+        },
+        {
+          "startSec": 101.7,
+          "endSec": 102.1,
+          "text": "about"
+        },
+        {
+          "startSec": 102.1,
+          "endSec": 103,
+          "text": "November."
+        },
+        {
+          "startSec": 103,
+          "endSec": 103.6,
+          "text": "John?"
+        },
+        {
+          "startSec": 103.6,
+          "endSec": 103.7,
+          "text": "I"
+        },
+        {
+          "startSec": 103.7,
+          "endSec": 104.1,
+          "text": "have"
+        },
+        {
+          "startSec": 104.1,
+          "endSec": 104.3,
+          "text": "not"
+        },
+        {
+          "startSec": 104.3,
+          "endSec": 104.6,
+          "text": "had"
+        },
+        {
+          "startSec": 104.6,
+          "endSec": 105.3,
+          "text": "anything"
+        },
+        {
+          "startSec": 105.3,
+          "endSec": 105.7,
+          "text": "yet,"
+        },
+        {
+          "startSec": 105.7,
+          "endSec": 106.2,
+          "text": "Touchwood."
+        },
+        {
+          "startSec": 106.2,
+          "endSec": 106.4,
+          "text": "OK,"
+        }
+      ]
+    },
+    {
+      "startSec": 106.2,
+      "endSec": 109.2,
+      "text": "OK, let's see what I can infect you with by the end of the show, Margaret.",
+      "words": [
+        {
+          "startSec": 106.2,
+          "endSec": 106.4,
+          "text": "OK,"
+        },
+        {
+          "startSec": 106.4,
+          "endSec": 106.6,
+          "text": "let's"
+        },
+        {
+          "startSec": 106.6,
+          "endSec": 106.8,
+          "text": "see"
+        },
+        {
+          "startSec": 106.8,
+          "endSec": 106.9,
+          "text": "what"
+        },
+        {
+          "startSec": 106.9,
+          "endSec": 107,
+          "text": "I"
+        },
+        {
+          "startSec": 107,
+          "endSec": 107.1,
+          "text": "can"
+        },
+        {
+          "startSec": 107.1,
+          "endSec": 107.4,
+          "text": "infect"
+        },
+        {
+          "startSec": 107.4,
+          "endSec": 107.5,
+          "text": "you"
+        },
+        {
+          "startSec": 107.5,
+          "endSec": 107.7,
+          "text": "with"
+        },
+        {
+          "startSec": 107.7,
+          "endSec": 107.8,
+          "text": "by"
+        },
+        {
+          "startSec": 107.8,
+          "endSec": 108,
+          "text": "the"
+        },
+        {
+          "startSec": 108,
+          "endSec": 108.1,
+          "text": "end"
+        },
+        {
+          "startSec": 108.1,
+          "endSec": 108.2,
+          "text": "of"
+        },
+        {
+          "startSec": 108.2,
+          "endSec": 108.3,
+          "text": "the"
+        },
+        {
+          "startSec": 108.3,
+          "endSec": 108.6,
+          "text": "show,"
+        },
+        {
+          "startSec": 108.6,
+          "endSec": 109.2,
+          "text": "Margaret."
+        },
+        {
+          "startSec": 109.2,
+          "endSec": 109.3,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 109.2,
+      "endSec": 113.5,
+      "text": "I was pretty unwell in September, I had what I presume to be covered, but I've been alright",
+      "words": [
+        {
+          "startSec": 109.2,
+          "endSec": 109.3,
+          "text": "I"
+        },
+        {
+          "startSec": 109.3,
+          "endSec": 109.5,
+          "text": "was"
+        },
+        {
+          "startSec": 109.5,
+          "endSec": 109.8,
+          "text": "pretty"
+        },
+        {
+          "startSec": 109.8,
+          "endSec": 110.1,
+          "text": "unwell"
+        },
+        {
+          "startSec": 110.1,
+          "endSec": 110.2,
+          "text": "in"
+        },
+        {
+          "startSec": 110.2,
+          "endSec": 110.8,
+          "text": "September,"
+        },
+        {
+          "startSec": 110.8,
+          "endSec": 110.9,
+          "text": "I"
+        },
+        {
+          "startSec": 110.9,
+          "endSec": 111,
+          "text": "had"
+        },
+        {
+          "startSec": 111,
+          "endSec": 111.3,
+          "text": "what"
+        },
+        {
+          "startSec": 111.3,
+          "endSec": 111.3,
+          "text": "I"
+        },
+        {
+          "startSec": 111.3,
+          "endSec": 111.7,
+          "text": "presume"
+        },
+        {
+          "startSec": 111.7,
+          "endSec": 111.8,
+          "text": "to"
+        },
+        {
+          "startSec": 111.8,
+          "endSec": 111.9,
+          "text": "be"
+        },
+        {
+          "startSec": 111.9,
+          "endSec": 112.5,
+          "text": "covered,"
+        },
+        {
+          "startSec": 112.5,
+          "endSec": 112.7,
+          "text": "but"
+        },
+        {
+          "startSec": 112.7,
+          "endSec": 112.9,
+          "text": "I've"
+        },
+        {
+          "startSec": 112.9,
+          "endSec": 113.2,
+          "text": "been"
+        },
+        {
+          "startSec": 113.2,
+          "endSec": 113.5,
+          "text": "alright"
+        },
+        {
+          "startSec": 113.5,
+          "endSec": 114,
+          "text": "since"
+        }
+      ]
+    },
+    {
+      "startSec": 113.5,
+      "endSec": 117.4,
+      "text": "since my old snuffles aside. Eleanor, I really need someone to back me",
+      "words": [
+        {
+          "startSec": 113.5,
+          "endSec": 114,
+          "text": "since"
+        },
+        {
+          "startSec": 114,
+          "endSec": 114.2,
+          "text": "my"
+        },
+        {
+          "startSec": 114.2,
+          "endSec": 114.5,
+          "text": "old"
+        },
+        {
+          "startSec": 114.5,
+          "endSec": 115.3,
+          "text": "snuffles"
+        },
+        {
+          "startSec": 115.3,
+          "endSec": 116.1,
+          "text": "aside."
+        },
+        {
+          "startSec": 116.1,
+          "endSec": 116.4,
+          "text": "Eleanor,"
+        },
+        {
+          "startSec": 116.4,
+          "endSec": 116.4,
+          "text": "I"
+        },
+        {
+          "startSec": 116.4,
+          "endSec": 116.6,
+          "text": "really"
+        },
+        {
+          "startSec": 116.6,
+          "endSec": 116.8,
+          "text": "need"
+        },
+        {
+          "startSec": 116.8,
+          "endSec": 117,
+          "text": "someone"
+        },
+        {
+          "startSec": 117,
+          "endSec": 117.1,
+          "text": "to"
+        },
+        {
+          "startSec": 117.1,
+          "endSec": 117.2,
+          "text": "back"
+        },
+        {
+          "startSec": 117.2,
+          "endSec": 117.4,
+          "text": "me"
+        },
+        {
+          "startSec": 117.4,
+          "endSec": 118.4,
+          "text": "up."
+        }
+      ]
+    },
+    {
+      "startSec": 117.4,
+      "endSec": 121.9,
+      "text": "up. No, sorry, I've been absolutely 100% tickety-boo.",
+      "words": [
+        {
+          "startSec": 117.4,
+          "endSec": 118.4,
+          "text": "up."
+        },
+        {
+          "startSec": 118.4,
+          "endSec": 118.6,
+          "text": "No,"
+        },
+        {
+          "startSec": 118.6,
+          "endSec": 118.9,
+          "text": "sorry,"
+        },
+        {
+          "startSec": 118.9,
+          "endSec": 119.1,
+          "text": "I've"
+        },
+        {
+          "startSec": 119.1,
+          "endSec": 119.4,
+          "text": "been"
+        },
+        {
+          "startSec": 119.4,
+          "endSec": 119.9,
+          "text": "absolutely"
+        },
+        {
+          "startSec": 119.9,
+          "endSec": 120.4,
+          "text": "100%"
+        },
+        {
+          "startSec": 120.4,
+          "endSec": 121.9,
+          "text": "tickety-boo."
+        },
+        {
+          "startSec": 121.9,
+          "endSec": 122.3,
+          "text": "Unlike"
+        }
+      ]
+    },
+    {
+      "startSec": 121.9,
+      "endSec": 127.6,
+      "text": "Unlike James, Professor John Tragoning hasn't been ill. John uses the expression 'Touchwood',",
+      "words": [
+        {
+          "startSec": 121.9,
+          "endSec": 122.3,
+          "text": "Unlike"
+        },
+        {
+          "startSec": 122.3,
+          "endSec": 122.8,
+          "text": "James,"
+        },
+        {
+          "startSec": 122.8,
+          "endSec": 123.4,
+          "text": "Professor"
+        },
+        {
+          "startSec": 123.4,
+          "endSec": 123.7,
+          "text": "John"
+        },
+        {
+          "startSec": 123.7,
+          "endSec": 124.3,
+          "text": "Tragoning"
+        },
+        {
+          "startSec": 124.3,
+          "endSec": 124.7,
+          "text": "hasn't"
+        },
+        {
+          "startSec": 124.7,
+          "endSec": 125,
+          "text": "been"
+        },
+        {
+          "startSec": 125,
+          "endSec": 125.5,
+          "text": "ill."
+        },
+        {
+          "startSec": 125.5,
+          "endSec": 125.7,
+          "text": "John"
+        },
+        {
+          "startSec": 125.7,
+          "endSec": 125.9,
+          "text": "uses"
+        },
+        {
+          "startSec": 125.9,
+          "endSec": 126.1,
+          "text": "the"
+        },
+        {
+          "startSec": 126.1,
+          "endSec": 126.7,
+          "text": "expression"
+        },
+        {
+          "startSec": 126.7,
+          "endSec": 127.6,
+          "text": "'Touchwood',"
+        }
+      ]
+    },
+    {
+      "startSec": 127.6,
+      "endSec": 131.4,
+      "text": "which is an informal phrase said in order to avoid bad luck.",
+      "words": [
+        {
+          "startSec": 127.7,
+          "endSec": 128,
+          "text": "which"
+        },
+        {
+          "startSec": 128,
+          "endSec": 128.2,
+          "text": "is"
+        },
+        {
+          "startSec": 128.2,
+          "endSec": 128.3,
+          "text": "an"
+        },
+        {
+          "startSec": 128.3,
+          "endSec": 128.9,
+          "text": "informal"
+        },
+        {
+          "startSec": 128.9,
+          "endSec": 129.3,
+          "text": "phrase"
+        },
+        {
+          "startSec": 129.3,
+          "endSec": 129.6,
+          "text": "said"
+        },
+        {
+          "startSec": 129.6,
+          "endSec": 129.8,
+          "text": "in"
+        },
+        {
+          "startSec": 129.8,
+          "endSec": 130.1,
+          "text": "order"
+        },
+        {
+          "startSec": 130.1,
+          "endSec": 130.3,
+          "text": "to"
+        },
+        {
+          "startSec": 130.3,
+          "endSec": 130.6,
+          "text": "avoid"
+        },
+        {
+          "startSec": 130.6,
+          "endSec": 130.9,
+          "text": "bad"
+        },
+        {
+          "startSec": 130.9,
+          "endSec": 131.4,
+          "text": "luck."
+        },
+        {
+          "startSec": 131.4,
+          "endSec": 131.6,
+          "text": "Dr"
+        }
+      ]
+    },
+    {
+      "startSec": 131.4,
+      "endSec": 138.5,
+      "text": "Dr Margaret McCartney was unwell in September but has only had a few snuffles since. Snuffles",
+      "words": [
+        {
+          "startSec": 131.4,
+          "endSec": 131.6,
+          "text": "Dr"
+        },
+        {
+          "startSec": 131.6,
+          "endSec": 132.3,
+          "text": "Margaret"
+        },
+        {
+          "startSec": 132.3,
+          "endSec": 133.1,
+          "text": "McCartney"
+        },
+        {
+          "startSec": 133.1,
+          "endSec": 133.4,
+          "text": "was"
+        },
+        {
+          "startSec": 133.4,
+          "endSec": 133.9,
+          "text": "unwell"
+        },
+        {
+          "startSec": 133.9,
+          "endSec": 134.1,
+          "text": "in"
+        },
+        {
+          "startSec": 134.1,
+          "endSec": 134.8,
+          "text": "September"
+        },
+        {
+          "startSec": 134.8,
+          "endSec": 135.1,
+          "text": "but"
+        },
+        {
+          "startSec": 135.1,
+          "endSec": 135.4,
+          "text": "has"
+        },
+        {
+          "startSec": 135.4,
+          "endSec": 135.7,
+          "text": "only"
+        },
+        {
+          "startSec": 135.7,
+          "endSec": 136,
+          "text": "had"
+        },
+        {
+          "startSec": 136,
+          "endSec": 136.1,
+          "text": "a"
+        },
+        {
+          "startSec": 136.1,
+          "endSec": 136.3,
+          "text": "few"
+        },
+        {
+          "startSec": 136.3,
+          "endSec": 137,
+          "text": "snuffles"
+        },
+        {
+          "startSec": 137,
+          "endSec": 137.7,
+          "text": "since."
+        },
+        {
+          "startSec": 137.7,
+          "endSec": 138.5,
+          "text": "Snuffles"
+        },
+        {
+          "startSec": 138.5,
+          "endSec": 138.6,
+          "text": "is"
+        }
+      ]
+    },
+    {
+      "startSec": 138.5,
+      "endSec": 143.5,
+      "text": "is an informal word used to describe minor illnesses that affect your nose. We can also",
+      "words": [
+        {
+          "startSec": 138.5,
+          "endSec": 138.6,
+          "text": "is"
+        },
+        {
+          "startSec": 138.6,
+          "endSec": 138.8,
+          "text": "an"
+        },
+        {
+          "startSec": 138.8,
+          "endSec": 139.3,
+          "text": "informal"
+        },
+        {
+          "startSec": 139.3,
+          "endSec": 139.6,
+          "text": "word"
+        },
+        {
+          "startSec": 139.6,
+          "endSec": 139.9,
+          "text": "used"
+        },
+        {
+          "startSec": 139.9,
+          "endSec": 140,
+          "text": "to"
+        },
+        {
+          "startSec": 140,
+          "endSec": 140.6,
+          "text": "describe"
+        },
+        {
+          "startSec": 140.6,
+          "endSec": 141,
+          "text": "minor"
+        },
+        {
+          "startSec": 141,
+          "endSec": 141.6,
+          "text": "illnesses"
+        },
+        {
+          "startSec": 141.6,
+          "endSec": 141.9,
+          "text": "that"
+        },
+        {
+          "startSec": 141.9,
+          "endSec": 142.3,
+          "text": "affect"
+        },
+        {
+          "startSec": 142.3,
+          "endSec": 142.6,
+          "text": "your"
+        },
+        {
+          "startSec": 142.6,
+          "endSec": 143.2,
+          "text": "nose."
+        },
+        {
+          "startSec": 143.2,
+          "endSec": 143.2,
+          "text": "We"
+        },
+        {
+          "startSec": 143.2,
+          "endSec": 143.3,
+          "text": "can"
+        },
+        {
+          "startSec": 143.3,
+          "endSec": 143.5,
+          "text": "also"
+        },
+        {
+          "startSec": 143.5,
+          "endSec": 143.9,
+          "text": "say"
+        }
+      ]
+    },
+    {
+      "startSec": 143.5,
+      "endSec": 147.1,
+      "text": "say sniffles. Host James is surprised that nobody has",
+      "words": [
+        {
+          "startSec": 143.5,
+          "endSec": 143.9,
+          "text": "say"
+        },
+        {
+          "startSec": 143.9,
+          "endSec": 145.4,
+          "text": "sniffles."
+        },
+        {
+          "startSec": 145.4,
+          "endSec": 145.7,
+          "text": "Host"
+        },
+        {
+          "startSec": 145.7,
+          "endSec": 145.9,
+          "text": "James"
+        },
+        {
+          "startSec": 145.9,
+          "endSec": 146,
+          "text": "is"
+        },
+        {
+          "startSec": 146,
+          "endSec": 146.4,
+          "text": "surprised"
+        },
+        {
+          "startSec": 146.4,
+          "endSec": 146.6,
+          "text": "that"
+        },
+        {
+          "startSec": 146.6,
+          "endSec": 146.9,
+          "text": "nobody"
+        },
+        {
+          "startSec": 146.9,
+          "endSec": 147.1,
+          "text": "has"
+        },
+        {
+          "startSec": 147.1,
+          "endSec": 147.5,
+          "text": "been"
+        }
+      ]
+    },
+    {
+      "startSec": 147.1,
+      "endSec": 152.6,
+      "text": "been ill and says to Professor Eleanor Riley, 'back me up'. If you ask someone to back",
+      "words": [
+        {
+          "startSec": 147.1,
+          "endSec": 147.5,
+          "text": "been"
+        },
+        {
+          "startSec": 147.5,
+          "endSec": 147.7,
+          "text": "ill"
+        },
+        {
+          "startSec": 147.7,
+          "endSec": 148,
+          "text": "and"
+        },
+        {
+          "startSec": 148,
+          "endSec": 148.3,
+          "text": "says"
+        },
+        {
+          "startSec": 148.3,
+          "endSec": 148.4,
+          "text": "to"
+        },
+        {
+          "startSec": 148.4,
+          "endSec": 149.2,
+          "text": "Professor"
+        },
+        {
+          "startSec": 149.2,
+          "endSec": 149.8,
+          "text": "Eleanor"
+        },
+        {
+          "startSec": 149.8,
+          "endSec": 150.4,
+          "text": "Riley,"
+        },
+        {
+          "startSec": 150.4,
+          "endSec": 150.8,
+          "text": "'back"
+        },
+        {
+          "startSec": 150.8,
+          "endSec": 150.9,
+          "text": "me"
+        },
+        {
+          "startSec": 150.9,
+          "endSec": 151.5,
+          "text": "up'."
+        },
+        {
+          "startSec": 151.5,
+          "endSec": 151.6,
+          "text": "If"
+        },
+        {
+          "startSec": 151.6,
+          "endSec": 151.8,
+          "text": "you"
+        },
+        {
+          "startSec": 151.8,
+          "endSec": 151.9,
+          "text": "ask"
+        },
+        {
+          "startSec": 151.9,
+          "endSec": 152.2,
+          "text": "someone"
+        },
+        {
+          "startSec": 152.2,
+          "endSec": 152.3,
+          "text": "to"
+        },
+        {
+          "startSec": 152.3,
+          "endSec": 152.6,
+          "text": "back"
+        },
+        {
+          "startSec": 152.6,
+          "endSec": 152.7,
+          "text": "you"
+        }
+      ]
+    },
+    {
+      "startSec": 152.6,
+      "endSec": 156.7,
+      "text": "you up, you're asking for them to say something which supports your opinion.",
+      "words": [
+        {
+          "startSec": 152.6,
+          "endSec": 152.7,
+          "text": "you"
+        },
+        {
+          "startSec": 152.7,
+          "endSec": 153,
+          "text": "up,"
+        },
+        {
+          "startSec": 153,
+          "endSec": 153.3,
+          "text": "you're"
+        },
+        {
+          "startSec": 153.3,
+          "endSec": 153.7,
+          "text": "asking"
+        },
+        {
+          "startSec": 153.7,
+          "endSec": 153.9,
+          "text": "for"
+        },
+        {
+          "startSec": 153.9,
+          "endSec": 154.1,
+          "text": "them"
+        },
+        {
+          "startSec": 154.1,
+          "endSec": 154.2,
+          "text": "to"
+        },
+        {
+          "startSec": 154.2,
+          "endSec": 154.4,
+          "text": "say"
+        },
+        {
+          "startSec": 154.4,
+          "endSec": 155,
+          "text": "something"
+        },
+        {
+          "startSec": 155,
+          "endSec": 155.3,
+          "text": "which"
+        },
+        {
+          "startSec": 155.3,
+          "endSec": 155.8,
+          "text": "supports"
+        },
+        {
+          "startSec": 155.8,
+          "endSec": 156,
+          "text": "your"
+        },
+        {
+          "startSec": 156,
+          "endSec": 156.7,
+          "text": "opinion."
+        },
+        {
+          "startSec": 156.7,
+          "endSec": 156.9,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 156.7,
+      "endSec": 162.4,
+      "text": "But Eleanor has had a healthy winter, too. She's been tickety-boo, which is an informal",
+      "words": [
+        {
+          "startSec": 156.7,
+          "endSec": 156.9,
+          "text": "But"
+        },
+        {
+          "startSec": 156.9,
+          "endSec": 157.5,
+          "text": "Eleanor"
+        },
+        {
+          "startSec": 157.5,
+          "endSec": 157.7,
+          "text": "has"
+        },
+        {
+          "startSec": 157.7,
+          "endSec": 158,
+          "text": "had"
+        },
+        {
+          "startSec": 158,
+          "endSec": 158,
+          "text": "a"
+        },
+        {
+          "startSec": 158,
+          "endSec": 158.6,
+          "text": "healthy"
+        },
+        {
+          "startSec": 158.6,
+          "endSec": 159.2,
+          "text": "winter,"
+        },
+        {
+          "startSec": 159.2,
+          "endSec": 159.7,
+          "text": "too."
+        },
+        {
+          "startSec": 159.7,
+          "endSec": 160.1,
+          "text": "She's"
+        },
+        {
+          "startSec": 160.1,
+          "endSec": 160.5,
+          "text": "been"
+        },
+        {
+          "startSec": 160.5,
+          "endSec": 161.6,
+          "text": "tickety-boo,"
+        },
+        {
+          "startSec": 161.6,
+          "endSec": 161.8,
+          "text": "which"
+        },
+        {
+          "startSec": 161.8,
+          "endSec": 161.9,
+          "text": "is"
+        },
+        {
+          "startSec": 161.9,
+          "endSec": 162,
+          "text": "an"
+        },
+        {
+          "startSec": 162,
+          "endSec": 162.4,
+          "text": "informal"
+        },
+        {
+          "startSec": 162.4,
+          "endSec": 162.9,
+          "text": "phrase"
+        }
+      ]
+    },
+    {
+      "startSec": 162.4,
+      "endSec": 166,
+      "text": "phrase meaning everything's fine or in good order.",
+      "words": [
+        {
+          "startSec": 162.4,
+          "endSec": 162.9,
+          "text": "phrase"
+        },
+        {
+          "startSec": 162.9,
+          "endSec": 163.4,
+          "text": "meaning"
+        },
+        {
+          "startSec": 163.4,
+          "endSec": 164.4,
+          "text": "everything's"
+        },
+        {
+          "startSec": 164.4,
+          "endSec": 164.7,
+          "text": "fine"
+        },
+        {
+          "startSec": 164.7,
+          "endSec": 164.8,
+          "text": "or"
+        },
+        {
+          "startSec": 164.8,
+          "endSec": 165,
+          "text": "in"
+        },
+        {
+          "startSec": 165,
+          "endSec": 165.3,
+          "text": "good"
+        },
+        {
+          "startSec": 165.3,
+          "endSec": 166,
+          "text": "order."
+        },
+        {
+          "startSec": 166,
+          "endSec": 166.6,
+          "text": "Throughout"
+        }
+      ]
+    },
+    {
+      "startSec": 166,
+      "endSec": 171,
+      "text": "Throughout the winter, many people try different techniques, like taking supplements or eating",
+      "words": [
+        {
+          "startSec": 166,
+          "endSec": 166.6,
+          "text": "Throughout"
+        },
+        {
+          "startSec": 166.6,
+          "endSec": 166.7,
+          "text": "the"
+        },
+        {
+          "startSec": 166.7,
+          "endSec": 167.2,
+          "text": "winter,"
+        },
+        {
+          "startSec": 167.2,
+          "endSec": 167.4,
+          "text": "many"
+        },
+        {
+          "startSec": 167.4,
+          "endSec": 167.8,
+          "text": "people"
+        },
+        {
+          "startSec": 167.8,
+          "endSec": 168,
+          "text": "try"
+        },
+        {
+          "startSec": 168,
+          "endSec": 168.5,
+          "text": "different"
+        },
+        {
+          "startSec": 168.5,
+          "endSec": 169.2,
+          "text": "techniques,"
+        },
+        {
+          "startSec": 169.2,
+          "endSec": 169.5,
+          "text": "like"
+        },
+        {
+          "startSec": 169.5,
+          "endSec": 169.8,
+          "text": "taking"
+        },
+        {
+          "startSec": 169.8,
+          "endSec": 170.5,
+          "text": "supplements"
+        },
+        {
+          "startSec": 170.5,
+          "endSec": 170.6,
+          "text": "or"
+        },
+        {
+          "startSec": 170.6,
+          "endSec": 171,
+          "text": "eating"
+        },
+        {
+          "startSec": 171,
+          "endSec": 171.5,
+          "text": "certain"
+        }
+      ]
+    },
+    {
+      "startSec": 171,
+      "endSec": 175.8,
+      "text": "certain foods to boost their immune system, to improve their body's natural defences",
+      "words": [
+        {
+          "startSec": 171,
+          "endSec": 171.5,
+          "text": "certain"
+        },
+        {
+          "startSec": 171.5,
+          "endSec": 171.8,
+          "text": "foods"
+        },
+        {
+          "startSec": 171.8,
+          "endSec": 171.9,
+          "text": "to"
+        },
+        {
+          "startSec": 171.9,
+          "endSec": 172.2,
+          "text": "boost"
+        },
+        {
+          "startSec": 172.2,
+          "endSec": 172.6,
+          "text": "their"
+        },
+        {
+          "startSec": 172.6,
+          "endSec": 172.9,
+          "text": "immune"
+        },
+        {
+          "startSec": 172.9,
+          "endSec": 173.5,
+          "text": "system,"
+        },
+        {
+          "startSec": 173.5,
+          "endSec": 173.6,
+          "text": "to"
+        },
+        {
+          "startSec": 173.6,
+          "endSec": 174.1,
+          "text": "improve"
+        },
+        {
+          "startSec": 174.1,
+          "endSec": 174.4,
+          "text": "their"
+        },
+        {
+          "startSec": 174.4,
+          "endSec": 174.8,
+          "text": "body's"
+        },
+        {
+          "startSec": 174.8,
+          "endSec": 175.2,
+          "text": "natural"
+        },
+        {
+          "startSec": 175.2,
+          "endSec": 175.8,
+          "text": "defences"
+        },
+        {
+          "startSec": 175.8,
+          "endSec": 176.5,
+          "text": "against"
+        }
+      ]
+    },
+    {
+      "startSec": 175.8,
+      "endSec": 182.4,
+      "text": "against disease. Host of BBC Radio 4's Inside Health, James Gallagher, asks Dr Margaret",
+      "words": [
+        {
+          "startSec": 175.8,
+          "endSec": 176.5,
+          "text": "against"
+        },
+        {
+          "startSec": 176.5,
+          "endSec": 177.4,
+          "text": "disease."
+        },
+        {
+          "startSec": 177.4,
+          "endSec": 177.7,
+          "text": "Host"
+        },
+        {
+          "startSec": 177.7,
+          "endSec": 177.9,
+          "text": "of"
+        },
+        {
+          "startSec": 177.9,
+          "endSec": 178.2,
+          "text": "BBC"
+        },
+        {
+          "startSec": 178.2,
+          "endSec": 178.6,
+          "text": "Radio"
+        },
+        {
+          "startSec": 178.6,
+          "endSec": 179,
+          "text": "4's"
+        },
+        {
+          "startSec": 179,
+          "endSec": 179.5,
+          "text": "Inside"
+        },
+        {
+          "startSec": 179.5,
+          "endSec": 180.1,
+          "text": "Health,"
+        },
+        {
+          "startSec": 180.1,
+          "endSec": 180.4,
+          "text": "James"
+        },
+        {
+          "startSec": 180.4,
+          "endSec": 181.3,
+          "text": "Gallagher,"
+        },
+        {
+          "startSec": 181.3,
+          "endSec": 181.6,
+          "text": "asks"
+        },
+        {
+          "startSec": 181.6,
+          "endSec": 181.8,
+          "text": "Dr"
+        },
+        {
+          "startSec": 181.8,
+          "endSec": 182.4,
+          "text": "Margaret"
+        }
+      ]
+    },
+    {
+      "startSec": 182.4,
+      "endSec": 193.2,
+      "text": "McCartney whether some of these products are successful.",
+      "words": [
+        {
+          "startSec": 182.6,
+          "endSec": 184.3,
+          "text": "McCartney"
+        },
+        {
+          "startSec": 184.3,
+          "endSec": 185.8,
+          "text": "whether"
+        },
+        {
+          "startSec": 185.8,
+          "endSec": 186.6,
+          "text": "some"
+        },
+        {
+          "startSec": 186.6,
+          "endSec": 187,
+          "text": "of"
+        },
+        {
+          "startSec": 187,
+          "endSec": 188.1,
+          "text": "these"
+        },
+        {
+          "startSec": 188.1,
+          "endSec": 189.7,
+          "text": "products"
+        },
+        {
+          "startSec": 189.7,
+          "endSec": 190.5,
+          "text": "are"
+        },
+        {
+          "startSec": 190.5,
+          "endSec": 193.2,
+          "text": "successful."
+        },
+        {
+          "startSec": 193.2,
+          "endSec": 195.5,
+          "text": "Interesting,"
+        }
+      ]
+    },
+    {
+      "startSec": 193.2,
+      "endSec": 205.1,
+      "text": "Interesting, but not any better than normal saline spray, just saltwater.",
+      "words": [
+        {
+          "startSec": 193.2,
+          "endSec": 195.5,
+          "text": "Interesting,"
+        },
+        {
+          "startSec": 195.5,
+          "endSec": 196,
+          "text": "but"
+        },
+        {
+          "startSec": 196,
+          "endSec": 196.5,
+          "text": "not"
+        },
+        {
+          "startSec": 196.5,
+          "endSec": 197.1,
+          "text": "any"
+        },
+        {
+          "startSec": 197.1,
+          "endSec": 198.1,
+          "text": "better"
+        },
+        {
+          "startSec": 198.1,
+          "endSec": 198.8,
+          "text": "than"
+        },
+        {
+          "startSec": 198.8,
+          "endSec": 199.9,
+          "text": "normal"
+        },
+        {
+          "startSec": 199.9,
+          "endSec": 201.3,
+          "text": "saline"
+        },
+        {
+          "startSec": 201.3,
+          "endSec": 202.2,
+          "text": "spray,"
+        },
+        {
+          "startSec": 202.2,
+          "endSec": 202.9,
+          "text": "just"
+        },
+        {
+          "startSec": 202.9,
+          "endSec": 205.1,
+          "text": "saltwater."
+        },
+        {
+          "startSec": 205.1,
+          "endSec": 205.2,
+          "text": "In"
+        }
+      ]
+    },
+    {
+      "startSec": 205.1,
+      "endSec": 209.8,
+      "text": "In fact, according to Margaret, there isn't enough evidence that many popular health products",
+      "words": [
+        {
+          "startSec": 205.1,
+          "endSec": 205.2,
+          "text": "In"
+        },
+        {
+          "startSec": 205.2,
+          "endSec": 205.5,
+          "text": "fact,"
+        },
+        {
+          "startSec": 205.5,
+          "endSec": 206,
+          "text": "according"
+        },
+        {
+          "startSec": 206,
+          "endSec": 206.1,
+          "text": "to"
+        },
+        {
+          "startSec": 206.1,
+          "endSec": 206.7,
+          "text": "Margaret,"
+        },
+        {
+          "startSec": 206.7,
+          "endSec": 207,
+          "text": "there"
+        },
+        {
+          "startSec": 207,
+          "endSec": 207.3,
+          "text": "isn't"
+        },
+        {
+          "startSec": 207.3,
+          "endSec": 207.6,
+          "text": "enough"
+        },
+        {
+          "startSec": 207.6,
+          "endSec": 208.1,
+          "text": "evidence"
+        },
+        {
+          "startSec": 208.1,
+          "endSec": 208.3,
+          "text": "that"
+        },
+        {
+          "startSec": 208.3,
+          "endSec": 208.5,
+          "text": "many"
+        },
+        {
+          "startSec": 208.5,
+          "endSec": 208.9,
+          "text": "popular"
+        },
+        {
+          "startSec": 208.9,
+          "endSec": 209.3,
+          "text": "health"
+        },
+        {
+          "startSec": 209.3,
+          "endSec": 209.8,
+          "text": "products"
+        },
+        {
+          "startSec": 209.8,
+          "endSec": 210,
+          "text": "can"
+        }
+      ]
+    },
+    {
+      "startSec": 209.8,
+      "endSec": 213.3,
+      "text": "can actually change the way your immune system works.",
+      "words": [
+        {
+          "startSec": 209.8,
+          "endSec": 210,
+          "text": "can"
+        },
+        {
+          "startSec": 210,
+          "endSec": 210.6,
+          "text": "actually"
+        },
+        {
+          "startSec": 210.6,
+          "endSec": 211,
+          "text": "change"
+        },
+        {
+          "startSec": 211,
+          "endSec": 211.3,
+          "text": "the"
+        },
+        {
+          "startSec": 211.3,
+          "endSec": 211.5,
+          "text": "way"
+        },
+        {
+          "startSec": 211.5,
+          "endSec": 211.8,
+          "text": "your"
+        },
+        {
+          "startSec": 211.8,
+          "endSec": 212.2,
+          "text": "immune"
+        },
+        {
+          "startSec": 212.2,
+          "endSec": 212.7,
+          "text": "system"
+        },
+        {
+          "startSec": 212.7,
+          "endSec": 213.3,
+          "text": "works."
+        },
+        {
+          "startSec": 213.3,
+          "endSec": 213.8,
+          "text": "Another"
+        }
+      ]
+    },
+    {
+      "startSec": 213.3,
+      "endSec": 218.4,
+      "text": "Another popular health trend in the UK is cold water swimming. People who swim in cold",
+      "words": [
+        {
+          "startSec": 213.3,
+          "endSec": 213.8,
+          "text": "Another"
+        },
+        {
+          "startSec": 213.8,
+          "endSec": 214.3,
+          "text": "popular"
+        },
+        {
+          "startSec": 214.3,
+          "endSec": 214.7,
+          "text": "health"
+        },
+        {
+          "startSec": 214.7,
+          "endSec": 215,
+          "text": "trend"
+        },
+        {
+          "startSec": 215,
+          "endSec": 215.2,
+          "text": "in"
+        },
+        {
+          "startSec": 215.2,
+          "endSec": 215.4,
+          "text": "the"
+        },
+        {
+          "startSec": 215.4,
+          "endSec": 215.5,
+          "text": "UK"
+        },
+        {
+          "startSec": 215.5,
+          "endSec": 215.6,
+          "text": "is"
+        },
+        {
+          "startSec": 215.6,
+          "endSec": 215.9,
+          "text": "cold"
+        },
+        {
+          "startSec": 215.9,
+          "endSec": 216.2,
+          "text": "water"
+        },
+        {
+          "startSec": 216.2,
+          "endSec": 217,
+          "text": "swimming."
+        },
+        {
+          "startSec": 217,
+          "endSec": 217.4,
+          "text": "People"
+        },
+        {
+          "startSec": 217.4,
+          "endSec": 217.6,
+          "text": "who"
+        },
+        {
+          "startSec": 217.6,
+          "endSec": 217.9,
+          "text": "swim"
+        },
+        {
+          "startSec": 217.9,
+          "endSec": 218.1,
+          "text": "in"
+        },
+        {
+          "startSec": 218.1,
+          "endSec": 218.4,
+          "text": "cold"
+        },
+        {
+          "startSec": 218.4,
+          "endSec": 218.7,
+          "text": "water"
+        }
+      ]
+    },
+    {
+      "startSec": 218.4,
+      "endSec": 223.5,
+      "text": "water say it's good for their mental health, and they also believe it makes them less likely",
+      "words": [
+        {
+          "startSec": 218.4,
+          "endSec": 218.7,
+          "text": "water"
+        },
+        {
+          "startSec": 218.7,
+          "endSec": 218.9,
+          "text": "say"
+        },
+        {
+          "startSec": 218.9,
+          "endSec": 219.2,
+          "text": "it's"
+        },
+        {
+          "startSec": 219.2,
+          "endSec": 219.4,
+          "text": "good"
+        },
+        {
+          "startSec": 219.4,
+          "endSec": 219.6,
+          "text": "for"
+        },
+        {
+          "startSec": 219.6,
+          "endSec": 219.9,
+          "text": "their"
+        },
+        {
+          "startSec": 219.9,
+          "endSec": 220.3,
+          "text": "mental"
+        },
+        {
+          "startSec": 220.3,
+          "endSec": 220.9,
+          "text": "health,"
+        },
+        {
+          "startSec": 220.9,
+          "endSec": 221,
+          "text": "and"
+        },
+        {
+          "startSec": 221,
+          "endSec": 221.3,
+          "text": "they"
+        },
+        {
+          "startSec": 221.3,
+          "endSec": 221.6,
+          "text": "also"
+        },
+        {
+          "startSec": 221.6,
+          "endSec": 222,
+          "text": "believe"
+        },
+        {
+          "startSec": 222,
+          "endSec": 222.1,
+          "text": "it"
+        },
+        {
+          "startSec": 222.1,
+          "endSec": 222.5,
+          "text": "makes"
+        },
+        {
+          "startSec": 222.5,
+          "endSec": 222.7,
+          "text": "them"
+        },
+        {
+          "startSec": 222.7,
+          "endSec": 223,
+          "text": "less"
+        },
+        {
+          "startSec": 223,
+          "endSec": 223.5,
+          "text": "likely"
+        },
+        {
+          "startSec": 223.5,
+          "endSec": 223.7,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 223.5,
+      "endSec": 228.3,
+      "text": "to get ill during the winter months. But scientists aren't sure about the benefits",
+      "words": [
+        {
+          "startSec": 223.5,
+          "endSec": 223.7,
+          "text": "to"
+        },
+        {
+          "startSec": 223.7,
+          "endSec": 223.9,
+          "text": "get"
+        },
+        {
+          "startSec": 223.9,
+          "endSec": 224.2,
+          "text": "ill"
+        },
+        {
+          "startSec": 224.2,
+          "endSec": 224.7,
+          "text": "during"
+        },
+        {
+          "startSec": 224.7,
+          "endSec": 224.9,
+          "text": "the"
+        },
+        {
+          "startSec": 224.9,
+          "endSec": 225.4,
+          "text": "winter"
+        },
+        {
+          "startSec": 225.4,
+          "endSec": 226.2,
+          "text": "months."
+        },
+        {
+          "startSec": 226.2,
+          "endSec": 226.4,
+          "text": "But"
+        },
+        {
+          "startSec": 226.4,
+          "endSec": 226.9,
+          "text": "scientists"
+        },
+        {
+          "startSec": 226.9,
+          "endSec": 227.2,
+          "text": "aren't"
+        },
+        {
+          "startSec": 227.2,
+          "endSec": 227.4,
+          "text": "sure"
+        },
+        {
+          "startSec": 227.4,
+          "endSec": 227.7,
+          "text": "about"
+        },
+        {
+          "startSec": 227.7,
+          "endSec": 227.9,
+          "text": "the"
+        },
+        {
+          "startSec": 227.9,
+          "endSec": 228.3,
+          "text": "benefits"
+        },
+        {
+          "startSec": 228.3,
+          "endSec": 228.5,
+          "text": "of"
+        }
+      ]
+    },
+    {
+      "startSec": 228.3,
+      "endSec": 233.2,
+      "text": "of cold water swimming for the immune system yet, as Professor John Tragoning explains",
+      "words": [
+        {
+          "startSec": 228.3,
+          "endSec": 228.5,
+          "text": "of"
+        },
+        {
+          "startSec": 228.5,
+          "endSec": 228.7,
+          "text": "cold"
+        },
+        {
+          "startSec": 228.7,
+          "endSec": 229,
+          "text": "water"
+        },
+        {
+          "startSec": 229,
+          "endSec": 229.6,
+          "text": "swimming"
+        },
+        {
+          "startSec": 229.6,
+          "endSec": 229.7,
+          "text": "for"
+        },
+        {
+          "startSec": 229.7,
+          "endSec": 229.9,
+          "text": "the"
+        },
+        {
+          "startSec": 229.9,
+          "endSec": 230.3,
+          "text": "immune"
+        },
+        {
+          "startSec": 230.3,
+          "endSec": 230.7,
+          "text": "system"
+        },
+        {
+          "startSec": 230.7,
+          "endSec": 231,
+          "text": "yet,"
+        },
+        {
+          "startSec": 231,
+          "endSec": 231.2,
+          "text": "as"
+        },
+        {
+          "startSec": 231.2,
+          "endSec": 231.7,
+          "text": "Professor"
+        },
+        {
+          "startSec": 231.7,
+          "endSec": 232,
+          "text": "John"
+        },
+        {
+          "startSec": 232,
+          "endSec": 232.6,
+          "text": "Tragoning"
+        },
+        {
+          "startSec": 232.6,
+          "endSec": 233.2,
+          "text": "explains"
+        },
+        {
+          "startSec": 233.2,
+          "endSec": 233.4,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 233.2,
+      "endSec": 236.1,
+      "text": "to BBC Radio 4's Inside Health.",
+      "words": [
+        {
+          "startSec": 233.2,
+          "endSec": 233.4,
+          "text": "to"
+        },
+        {
+          "startSec": 233.4,
+          "endSec": 233.7,
+          "text": "BBC"
+        },
+        {
+          "startSec": 233.7,
+          "endSec": 234.2,
+          "text": "Radio"
+        },
+        {
+          "startSec": 234.2,
+          "endSec": 234.7,
+          "text": "4's"
+        },
+        {
+          "startSec": 234.7,
+          "endSec": 235.3,
+          "text": "Inside"
+        },
+        {
+          "startSec": 235.3,
+          "endSec": 236.1,
+          "text": "Health."
+        },
+        {
+          "startSec": 236.1,
+          "endSec": 236.3,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 236.1,
+      "endSec": 241,
+      "text": "The social element actually is really important, it probably is beneficial to do. You reduce",
+      "words": [
+        {
+          "startSec": 236.1,
+          "endSec": 236.3,
+          "text": "The"
+        },
+        {
+          "startSec": 236.3,
+          "endSec": 236.6,
+          "text": "social"
+        },
+        {
+          "startSec": 236.6,
+          "endSec": 237.1,
+          "text": "element"
+        },
+        {
+          "startSec": 237.1,
+          "endSec": 237.6,
+          "text": "actually"
+        },
+        {
+          "startSec": 237.6,
+          "endSec": 237.7,
+          "text": "is"
+        },
+        {
+          "startSec": 237.7,
+          "endSec": 238,
+          "text": "really"
+        },
+        {
+          "startSec": 238,
+          "endSec": 238.7,
+          "text": "important,"
+        },
+        {
+          "startSec": 238.7,
+          "endSec": 238.8,
+          "text": "it"
+        },
+        {
+          "startSec": 238.8,
+          "endSec": 239.3,
+          "text": "probably"
+        },
+        {
+          "startSec": 239.3,
+          "endSec": 239.4,
+          "text": "is"
+        },
+        {
+          "startSec": 239.4,
+          "endSec": 240.1,
+          "text": "beneficial"
+        },
+        {
+          "startSec": 240.1,
+          "endSec": 240.2,
+          "text": "to"
+        },
+        {
+          "startSec": 240.2,
+          "endSec": 240.6,
+          "text": "do."
+        },
+        {
+          "startSec": 240.6,
+          "endSec": 240.7,
+          "text": "You"
+        },
+        {
+          "startSec": 240.7,
+          "endSec": 241,
+          "text": "reduce"
+        },
+        {
+          "startSec": 241,
+          "endSec": 241.4,
+          "text": "stress"
+        }
+      ]
+    },
+    {
+      "startSec": 241,
+      "endSec": 245.8,
+      "text": "stress and cortisol dampens the immune system, so actually if you're stressed, then maybe",
+      "words": [
+        {
+          "startSec": 241,
+          "endSec": 241.4,
+          "text": "stress"
+        },
+        {
+          "startSec": 241.4,
+          "endSec": 241.5,
+          "text": "and"
+        },
+        {
+          "startSec": 241.5,
+          "endSec": 242,
+          "text": "cortisol"
+        },
+        {
+          "startSec": 242,
+          "endSec": 242.4,
+          "text": "dampens"
+        },
+        {
+          "startSec": 242.4,
+          "endSec": 242.6,
+          "text": "the"
+        },
+        {
+          "startSec": 242.6,
+          "endSec": 243,
+          "text": "immune"
+        },
+        {
+          "startSec": 243,
+          "endSec": 243.5,
+          "text": "system,"
+        },
+        {
+          "startSec": 243.5,
+          "endSec": 243.6,
+          "text": "so"
+        },
+        {
+          "startSec": 243.6,
+          "endSec": 244.1,
+          "text": "actually"
+        },
+        {
+          "startSec": 244.1,
+          "endSec": 244.2,
+          "text": "if"
+        },
+        {
+          "startSec": 244.2,
+          "endSec": 244.5,
+          "text": "you're"
+        },
+        {
+          "startSec": 244.5,
+          "endSec": 245.1,
+          "text": "stressed,"
+        },
+        {
+          "startSec": 245.1,
+          "endSec": 245.4,
+          "text": "then"
+        },
+        {
+          "startSec": 245.4,
+          "endSec": 245.8,
+          "text": "maybe"
+        },
+        {
+          "startSec": 245.8,
+          "endSec": 246,
+          "text": "you"
+        }
+      ]
+    },
+    {
+      "startSec": 245.8,
+      "endSec": 250.6,
+      "text": "you are more prone to infection and that may be why that benefit of being with people,",
+      "words": [
+        {
+          "startSec": 245.8,
+          "endSec": 246,
+          "text": "you"
+        },
+        {
+          "startSec": 246,
+          "endSec": 246.2,
+          "text": "are"
+        },
+        {
+          "startSec": 246.2,
+          "endSec": 246.4,
+          "text": "more"
+        },
+        {
+          "startSec": 246.4,
+          "endSec": 246.8,
+          "text": "prone"
+        },
+        {
+          "startSec": 246.8,
+          "endSec": 246.9,
+          "text": "to"
+        },
+        {
+          "startSec": 246.9,
+          "endSec": 247.5,
+          "text": "infection"
+        },
+        {
+          "startSec": 247.5,
+          "endSec": 247.7,
+          "text": "and"
+        },
+        {
+          "startSec": 247.7,
+          "endSec": 248,
+          "text": "that"
+        },
+        {
+          "startSec": 248,
+          "endSec": 248.2,
+          "text": "may"
+        },
+        {
+          "startSec": 248.2,
+          "endSec": 248.3,
+          "text": "be"
+        },
+        {
+          "startSec": 248.3,
+          "endSec": 248.5,
+          "text": "why"
+        },
+        {
+          "startSec": 248.5,
+          "endSec": 248.8,
+          "text": "that"
+        },
+        {
+          "startSec": 248.8,
+          "endSec": 249.3,
+          "text": "benefit"
+        },
+        {
+          "startSec": 249.3,
+          "endSec": 249.4,
+          "text": "of"
+        },
+        {
+          "startSec": 249.4,
+          "endSec": 249.7,
+          "text": "being"
+        },
+        {
+          "startSec": 249.7,
+          "endSec": 250,
+          "text": "with"
+        },
+        {
+          "startSec": 250,
+          "endSec": 250.6,
+          "text": "people,"
+        },
+        {
+          "startSec": 250.6,
+          "endSec": 250.8,
+          "text": "nice"
+        }
+      ]
+    },
+    {
+      "startSec": 250.6,
+      "endSec": 255.1,
+      "text": "nice people that you like in nice places is helping, but I don't think it's unique to",
+      "words": [
+        {
+          "startSec": 250.6,
+          "endSec": 250.8,
+          "text": "nice"
+        },
+        {
+          "startSec": 250.8,
+          "endSec": 251.2,
+          "text": "people"
+        },
+        {
+          "startSec": 251.2,
+          "endSec": 251.4,
+          "text": "that"
+        },
+        {
+          "startSec": 251.4,
+          "endSec": 251.6,
+          "text": "you"
+        },
+        {
+          "startSec": 251.6,
+          "endSec": 251.9,
+          "text": "like"
+        },
+        {
+          "startSec": 251.9,
+          "endSec": 252,
+          "text": "in"
+        },
+        {
+          "startSec": 252,
+          "endSec": 252.3,
+          "text": "nice"
+        },
+        {
+          "startSec": 252.3,
+          "endSec": 252.6,
+          "text": "places"
+        },
+        {
+          "startSec": 252.6,
+          "endSec": 252.8,
+          "text": "is"
+        },
+        {
+          "startSec": 252.8,
+          "endSec": 253.3,
+          "text": "helping,"
+        },
+        {
+          "startSec": 253.3,
+          "endSec": 253.5,
+          "text": "but"
+        },
+        {
+          "startSec": 253.5,
+          "endSec": 253.6,
+          "text": "I"
+        },
+        {
+          "startSec": 253.6,
+          "endSec": 253.9,
+          "text": "don't"
+        },
+        {
+          "startSec": 253.9,
+          "endSec": 254.2,
+          "text": "think"
+        },
+        {
+          "startSec": 254.2,
+          "endSec": 254.4,
+          "text": "it's"
+        },
+        {
+          "startSec": 254.4,
+          "endSec": 254.9,
+          "text": "unique"
+        },
+        {
+          "startSec": 254.9,
+          "endSec": 255.1,
+          "text": "to"
+        },
+        {
+          "startSec": 255.1,
+          "endSec": 255.3,
+          "text": "cold"
+        }
+      ]
+    },
+    {
+      "startSec": 255.1,
+      "endSec": 259.4,
+      "text": "cold water swimming. I think you could probably get it from dancing or singing or going for",
+      "words": [
+        {
+          "startSec": 255.1,
+          "endSec": 255.3,
+          "text": "cold"
+        },
+        {
+          "startSec": 255.3,
+          "endSec": 255.5,
+          "text": "water"
+        },
+        {
+          "startSec": 255.5,
+          "endSec": 256.1,
+          "text": "swimming."
+        },
+        {
+          "startSec": 256.1,
+          "endSec": 256.1,
+          "text": "I"
+        },
+        {
+          "startSec": 256.1,
+          "endSec": 256.4,
+          "text": "think"
+        },
+        {
+          "startSec": 256.4,
+          "endSec": 256.6,
+          "text": "you"
+        },
+        {
+          "startSec": 256.6,
+          "endSec": 256.9,
+          "text": "could"
+        },
+        {
+          "startSec": 256.9,
+          "endSec": 257.4,
+          "text": "probably"
+        },
+        {
+          "startSec": 257.4,
+          "endSec": 257.5,
+          "text": "get"
+        },
+        {
+          "startSec": 257.5,
+          "endSec": 257.6,
+          "text": "it"
+        },
+        {
+          "startSec": 257.6,
+          "endSec": 257.9,
+          "text": "from"
+        },
+        {
+          "startSec": 257.9,
+          "endSec": 258.3,
+          "text": "dancing"
+        },
+        {
+          "startSec": 258.3,
+          "endSec": 258.4,
+          "text": "or"
+        },
+        {
+          "startSec": 258.4,
+          "endSec": 258.8,
+          "text": "singing"
+        },
+        {
+          "startSec": 258.8,
+          "endSec": 258.9,
+          "text": "or"
+        },
+        {
+          "startSec": 258.9,
+          "endSec": 259.2,
+          "text": "going"
+        },
+        {
+          "startSec": 259.2,
+          "endSec": 259.4,
+          "text": "for"
+        },
+        {
+          "startSec": 259.4,
+          "endSec": 259.6,
+          "text": "a"
+        }
+      ]
+    },
+    {
+      "startSec": 259.4,
+      "endSec": 260.4,
+      "text": "a run.",
+      "words": [
+        {
+          "startSec": 259.4,
+          "endSec": 259.6,
+          "text": "a"
+        },
+        {
+          "startSec": 259.6,
+          "endSec": 260.4,
+          "text": "run."
+        }
+      ]
+    },
+    {
+      "startSec": 260.4,
+      "endSec": 266.6,
+      "text": "John says that cortisol, a chemical associated with stress, dampens the immune system. Here",
+      "words": [
+        {
+          "startSec": 260.5,
+          "endSec": 260.7,
+          "text": "John"
+        },
+        {
+          "startSec": 260.7,
+          "endSec": 261,
+          "text": "says"
+        },
+        {
+          "startSec": 261,
+          "endSec": 261.3,
+          "text": "that"
+        },
+        {
+          "startSec": 261.3,
+          "endSec": 262.1,
+          "text": "cortisol,"
+        },
+        {
+          "startSec": 262.1,
+          "endSec": 262.2,
+          "text": "a"
+        },
+        {
+          "startSec": 262.2,
+          "endSec": 262.8,
+          "text": "chemical"
+        },
+        {
+          "startSec": 262.8,
+          "endSec": 263.5,
+          "text": "associated"
+        },
+        {
+          "startSec": 263.5,
+          "endSec": 263.8,
+          "text": "with"
+        },
+        {
+          "startSec": 263.8,
+          "endSec": 264.4,
+          "text": "stress,"
+        },
+        {
+          "startSec": 264.4,
+          "endSec": 264.9,
+          "text": "dampens"
+        },
+        {
+          "startSec": 264.9,
+          "endSec": 265.2,
+          "text": "the"
+        },
+        {
+          "startSec": 265.2,
+          "endSec": 265.6,
+          "text": "immune"
+        },
+        {
+          "startSec": 265.6,
+          "endSec": 266.3,
+          "text": "system."
+        },
+        {
+          "startSec": 266.3,
+          "endSec": 266.6,
+          "text": "Here"
+        },
+        {
+          "startSec": 266.6,
+          "endSec": 267.3,
+          "text": "dampens"
+        }
+      ]
+    },
+    {
+      "startSec": 266.6,
+      "endSec": 272.7,
+      "text": "dampens means makes weaker. We also have a common expression dampens someone's spirits,",
+      "words": [
+        {
+          "startSec": 266.6,
+          "endSec": 267.3,
+          "text": "dampens"
+        },
+        {
+          "startSec": 267.3,
+          "endSec": 267.8,
+          "text": "means"
+        },
+        {
+          "startSec": 267.8,
+          "endSec": 268.2,
+          "text": "makes"
+        },
+        {
+          "startSec": 268.2,
+          "endSec": 269.1,
+          "text": "weaker."
+        },
+        {
+          "startSec": 269.1,
+          "endSec": 269.3,
+          "text": "We"
+        },
+        {
+          "startSec": 269.3,
+          "endSec": 269.5,
+          "text": "also"
+        },
+        {
+          "startSec": 269.5,
+          "endSec": 269.8,
+          "text": "have"
+        },
+        {
+          "startSec": 269.8,
+          "endSec": 269.9,
+          "text": "a"
+        },
+        {
+          "startSec": 269.9,
+          "endSec": 270.3,
+          "text": "common"
+        },
+        {
+          "startSec": 270.3,
+          "endSec": 271,
+          "text": "expression"
+        },
+        {
+          "startSec": 271,
+          "endSec": 271.4,
+          "text": "dampens"
+        },
+        {
+          "startSec": 271.4,
+          "endSec": 272,
+          "text": "someone's"
+        },
+        {
+          "startSec": 272,
+          "endSec": 272.7,
+          "text": "spirits,"
+        },
+        {
+          "startSec": 272.7,
+          "endSec": 273,
+          "text": "which"
+        }
+      ]
+    },
+    {
+      "startSec": 272.7,
+      "endSec": 276.3,
+      "text": "which means to make them less enthusiastic about something.",
+      "words": [
+        {
+          "startSec": 272.7,
+          "endSec": 273,
+          "text": "which"
+        },
+        {
+          "startSec": 273,
+          "endSec": 273.3,
+          "text": "means"
+        },
+        {
+          "startSec": 273.3,
+          "endSec": 273.5,
+          "text": "to"
+        },
+        {
+          "startSec": 273.5,
+          "endSec": 273.7,
+          "text": "make"
+        },
+        {
+          "startSec": 273.7,
+          "endSec": 274,
+          "text": "them"
+        },
+        {
+          "startSec": 274,
+          "endSec": 274.3,
+          "text": "less"
+        },
+        {
+          "startSec": 274.3,
+          "endSec": 275.1,
+          "text": "enthusiastic"
+        },
+        {
+          "startSec": 275.1,
+          "endSec": 275.4,
+          "text": "about"
+        },
+        {
+          "startSec": 275.4,
+          "endSec": 276.3,
+          "text": "something."
+        },
+        {
+          "startSec": 276.3,
+          "endSec": 276.6,
+          "text": "John"
+        }
+      ]
+    },
+    {
+      "startSec": 276.3,
+      "endSec": 281.6,
+      "text": "John says that there is evidence that people who are stressed are more prone to infection.",
+      "words": [
+        {
+          "startSec": 276.3,
+          "endSec": 276.6,
+          "text": "John"
+        },
+        {
+          "startSec": 276.6,
+          "endSec": 276.8,
+          "text": "says"
+        },
+        {
+          "startSec": 276.8,
+          "endSec": 277.1,
+          "text": "that"
+        },
+        {
+          "startSec": 277.1,
+          "endSec": 277.5,
+          "text": "there"
+        },
+        {
+          "startSec": 277.5,
+          "endSec": 277.6,
+          "text": "is"
+        },
+        {
+          "startSec": 277.6,
+          "endSec": 278.2,
+          "text": "evidence"
+        },
+        {
+          "startSec": 278.2,
+          "endSec": 278.5,
+          "text": "that"
+        },
+        {
+          "startSec": 278.5,
+          "endSec": 278.9,
+          "text": "people"
+        },
+        {
+          "startSec": 278.9,
+          "endSec": 279.1,
+          "text": "who"
+        },
+        {
+          "startSec": 279.1,
+          "endSec": 279.3,
+          "text": "are"
+        },
+        {
+          "startSec": 279.3,
+          "endSec": 279.9,
+          "text": "stressed"
+        },
+        {
+          "startSec": 279.9,
+          "endSec": 280.1,
+          "text": "are"
+        },
+        {
+          "startSec": 280.1,
+          "endSec": 280.3,
+          "text": "more"
+        },
+        {
+          "startSec": 280.3,
+          "endSec": 280.7,
+          "text": "prone"
+        },
+        {
+          "startSec": 280.7,
+          "endSec": 280.8,
+          "text": "to"
+        },
+        {
+          "startSec": 280.8,
+          "endSec": 281.6,
+          "text": "infection."
+        },
+        {
+          "startSec": 281.6,
+          "endSec": 281.8,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 281.6,
+      "endSec": 285.3,
+      "text": "If you're more prone to something, it's more likely to happen to you.",
+      "words": [
+        {
+          "startSec": 281.6,
+          "endSec": 281.8,
+          "text": "If"
+        },
+        {
+          "startSec": 281.8,
+          "endSec": 282.1,
+          "text": "you're"
+        },
+        {
+          "startSec": 282.1,
+          "endSec": 282.4,
+          "text": "more"
+        },
+        {
+          "startSec": 282.4,
+          "endSec": 282.7,
+          "text": "prone"
+        },
+        {
+          "startSec": 282.7,
+          "endSec": 282.8,
+          "text": "to"
+        },
+        {
+          "startSec": 282.8,
+          "endSec": 283.4,
+          "text": "something,"
+        },
+        {
+          "startSec": 283.4,
+          "endSec": 283.7,
+          "text": "it's"
+        },
+        {
+          "startSec": 283.7,
+          "endSec": 283.9,
+          "text": "more"
+        },
+        {
+          "startSec": 283.9,
+          "endSec": 284.3,
+          "text": "likely"
+        },
+        {
+          "startSec": 284.3,
+          "endSec": 284.4,
+          "text": "to"
+        },
+        {
+          "startSec": 284.4,
+          "endSec": 284.8,
+          "text": "happen"
+        },
+        {
+          "startSec": 284.8,
+          "endSec": 284.9,
+          "text": "to"
+        },
+        {
+          "startSec": 284.9,
+          "endSec": 285.3,
+          "text": "you."
+        },
+        {
+          "startSec": 285.3,
+          "endSec": 285.4,
+          "text": "It"
+        }
+      ]
+    },
+    {
+      "startSec": 285.3,
+      "endSec": 290,
+      "text": "It could be that cold water swimming reduces stress, and so it helps people's immune systems",
+      "words": [
+        {
+          "startSec": 285.3,
+          "endSec": 285.4,
+          "text": "It"
+        },
+        {
+          "startSec": 285.4,
+          "endSec": 285.7,
+          "text": "could"
+        },
+        {
+          "startSec": 285.7,
+          "endSec": 285.8,
+          "text": "be"
+        },
+        {
+          "startSec": 285.8,
+          "endSec": 286.1,
+          "text": "that"
+        },
+        {
+          "startSec": 286.1,
+          "endSec": 286.3,
+          "text": "cold"
+        },
+        {
+          "startSec": 286.3,
+          "endSec": 286.6,
+          "text": "water"
+        },
+        {
+          "startSec": 286.6,
+          "endSec": 287.1,
+          "text": "swimming"
+        },
+        {
+          "startSec": 287.1,
+          "endSec": 287.5,
+          "text": "reduces"
+        },
+        {
+          "startSec": 287.5,
+          "endSec": 288,
+          "text": "stress,"
+        },
+        {
+          "startSec": 288,
+          "endSec": 288.2,
+          "text": "and"
+        },
+        {
+          "startSec": 288.2,
+          "endSec": 288.3,
+          "text": "so"
+        },
+        {
+          "startSec": 288.3,
+          "endSec": 288.4,
+          "text": "it"
+        },
+        {
+          "startSec": 288.4,
+          "endSec": 288.7,
+          "text": "helps"
+        },
+        {
+          "startSec": 288.7,
+          "endSec": 289.2,
+          "text": "people's"
+        },
+        {
+          "startSec": 289.2,
+          "endSec": 289.6,
+          "text": "immune"
+        },
+        {
+          "startSec": 289.6,
+          "endSec": 290,
+          "text": "systems"
+        }
+      ]
+    },
+    {
+      "startSec": 290,
+      "endSec": 294.9,
+      "text": "work well. But there are lots of other activities that could have the same effect, and help people",
+      "words": [
+        {
+          "startSec": 290.1,
+          "endSec": 290.4,
+          "text": "work"
+        },
+        {
+          "startSec": 290.4,
+          "endSec": 291,
+          "text": "well."
+        },
+        {
+          "startSec": 291,
+          "endSec": 291.2,
+          "text": "But"
+        },
+        {
+          "startSec": 291.2,
+          "endSec": 291.4,
+          "text": "there"
+        },
+        {
+          "startSec": 291.4,
+          "endSec": 291.6,
+          "text": "are"
+        },
+        {
+          "startSec": 291.6,
+          "endSec": 291.8,
+          "text": "lots"
+        },
+        {
+          "startSec": 291.8,
+          "endSec": 291.9,
+          "text": "of"
+        },
+        {
+          "startSec": 291.9,
+          "endSec": 292.1,
+          "text": "other"
+        },
+        {
+          "startSec": 292.1,
+          "endSec": 292.6,
+          "text": "activities"
+        },
+        {
+          "startSec": 292.6,
+          "endSec": 292.8,
+          "text": "that"
+        },
+        {
+          "startSec": 292.8,
+          "endSec": 293.2,
+          "text": "could"
+        },
+        {
+          "startSec": 293.2,
+          "endSec": 293.4,
+          "text": "have"
+        },
+        {
+          "startSec": 293.4,
+          "endSec": 293.6,
+          "text": "the"
+        },
+        {
+          "startSec": 293.6,
+          "endSec": 293.8,
+          "text": "same"
+        },
+        {
+          "startSec": 293.8,
+          "endSec": 294.4,
+          "text": "effect,"
+        },
+        {
+          "startSec": 294.4,
+          "endSec": 294.5,
+          "text": "and"
+        },
+        {
+          "startSec": 294.5,
+          "endSec": 294.6,
+          "text": "help"
+        },
+        {
+          "startSec": 294.6,
+          "endSec": 294.9,
+          "text": "people"
+        },
+        {
+          "startSec": 294.9,
+          "endSec": 295.2,
+          "text": "have"
+        }
+      ]
+    },
+    {
+      "startSec": 294.9,
+      "endSec": 296.9,
+      "text": "have fewer colds over winter.",
+      "words": [
+        {
+          "startSec": 294.9,
+          "endSec": 295.2,
+          "text": "have"
+        },
+        {
+          "startSec": 295.2,
+          "endSec": 295.6,
+          "text": "fewer"
+        },
+        {
+          "startSec": 295.6,
+          "endSec": 295.9,
+          "text": "colds"
+        },
+        {
+          "startSec": 295.9,
+          "endSec": 296.2,
+          "text": "over"
+        },
+        {
+          "startSec": 296.2,
+          "endSec": 296.9,
+          "text": "winter."
+        },
+        {
+          "startSec": 296.9,
+          "endSec": 297.1,
+          "text": "Which"
+        }
+      ]
+    },
+    {
+      "startSec": 296.9,
+      "endSec": 301.9,
+      "text": "Which reminds me of my question, Georgie. I asked how many colds the average UK adult",
+      "words": [
+        {
+          "startSec": 296.9,
+          "endSec": 297.1,
+          "text": "Which"
+        },
+        {
+          "startSec": 297.1,
+          "endSec": 297.5,
+          "text": "reminds"
+        },
+        {
+          "startSec": 297.5,
+          "endSec": 297.6,
+          "text": "me"
+        },
+        {
+          "startSec": 297.6,
+          "endSec": 297.7,
+          "text": "of"
+        },
+        {
+          "startSec": 297.7,
+          "endSec": 297.8,
+          "text": "my"
+        },
+        {
+          "startSec": 297.8,
+          "endSec": 298.3,
+          "text": "question,"
+        },
+        {
+          "startSec": 298.3,
+          "endSec": 298.9,
+          "text": "Georgie."
+        },
+        {
+          "startSec": 298.9,
+          "endSec": 299,
+          "text": "I"
+        },
+        {
+          "startSec": 299,
+          "endSec": 299.4,
+          "text": "asked"
+        },
+        {
+          "startSec": 299.4,
+          "endSec": 299.7,
+          "text": "how"
+        },
+        {
+          "startSec": 299.7,
+          "endSec": 300,
+          "text": "many"
+        },
+        {
+          "startSec": 300,
+          "endSec": 300.4,
+          "text": "colds"
+        },
+        {
+          "startSec": 300.4,
+          "endSec": 300.7,
+          "text": "the"
+        },
+        {
+          "startSec": 300.7,
+          "endSec": 301.3,
+          "text": "average"
+        },
+        {
+          "startSec": 301.3,
+          "endSec": 301.4,
+          "text": "UK"
+        },
+        {
+          "startSec": 301.4,
+          "endSec": 301.9,
+          "text": "adult"
+        },
+        {
+          "startSec": 301.9,
+          "endSec": 302.3,
+          "text": "has"
+        }
+      ]
+    },
+    {
+      "startSec": 301.9,
+      "endSec": 303.2,
+      "text": "has a year?",
+      "words": [
+        {
+          "startSec": 301.9,
+          "endSec": 302.3,
+          "text": "has"
+        },
+        {
+          "startSec": 302.3,
+          "endSec": 302.4,
+          "text": "a"
+        },
+        {
+          "startSec": 302.4,
+          "endSec": 303.2,
+          "text": "year?"
+        },
+        {
+          "startSec": 303.2,
+          "endSec": 303.5,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 303.2,
+      "endSec": 305.4,
+      "text": "And I said two to three.",
+      "words": [
+        {
+          "startSec": 303.2,
+          "endSec": 303.5,
+          "text": "And"
+        },
+        {
+          "startSec": 303.5,
+          "endSec": 303.6,
+          "text": "I"
+        },
+        {
+          "startSec": 303.6,
+          "endSec": 304,
+          "text": "said"
+        },
+        {
+          "startSec": 304,
+          "endSec": 304.3,
+          "text": "two"
+        },
+        {
+          "startSec": 304.3,
+          "endSec": 304.5,
+          "text": "to"
+        },
+        {
+          "startSec": 304.5,
+          "endSec": 305.4,
+          "text": "three."
+        },
+        {
+          "startSec": 305.4,
+          "endSec": 305.6,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 305.4,
+      "endSec": 308.2,
+      "text": "And that is the correct answer, so well done.",
+      "words": [
+        {
+          "startSec": 305.4,
+          "endSec": 305.6,
+          "text": "And"
+        },
+        {
+          "startSec": 305.6,
+          "endSec": 305.9,
+          "text": "that"
+        },
+        {
+          "startSec": 305.9,
+          "endSec": 306,
+          "text": "is"
+        },
+        {
+          "startSec": 306,
+          "endSec": 306.2,
+          "text": "the"
+        },
+        {
+          "startSec": 306.2,
+          "endSec": 306.7,
+          "text": "correct"
+        },
+        {
+          "startSec": 306.7,
+          "endSec": 307.3,
+          "text": "answer,"
+        },
+        {
+          "startSec": 307.3,
+          "endSec": 307.4,
+          "text": "so"
+        },
+        {
+          "startSec": 307.4,
+          "endSec": 307.7,
+          "text": "well"
+        },
+        {
+          "startSec": 307.7,
+          "endSec": 308.2,
+          "text": "done."
+        },
+        {
+          "startSec": 308.2,
+          "endSec": 308.7,
+          "text": "Thank"
+        }
+      ]
+    },
+    {
+      "startSec": 308.2,
+      "endSec": 313.5,
+      "text": "Thank you. Okay, let's recap the vocabulary we've learned starting with touch wood, which",
+      "words": [
+        {
+          "startSec": 308.2,
+          "endSec": 308.7,
+          "text": "Thank"
+        },
+        {
+          "startSec": 308.7,
+          "endSec": 309.2,
+          "text": "you."
+        },
+        {
+          "startSec": 309.2,
+          "endSec": 309.5,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 309.5,
+          "endSec": 309.8,
+          "text": "let's"
+        },
+        {
+          "startSec": 309.8,
+          "endSec": 310,
+          "text": "recap"
+        },
+        {
+          "startSec": 310,
+          "endSec": 310.2,
+          "text": "the"
+        },
+        {
+          "startSec": 310.2,
+          "endSec": 310.7,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 310.7,
+          "endSec": 310.9,
+          "text": "we've"
+        },
+        {
+          "startSec": 310.9,
+          "endSec": 311.3,
+          "text": "learned"
+        },
+        {
+          "startSec": 311.3,
+          "endSec": 312.1,
+          "text": "starting"
+        },
+        {
+          "startSec": 312.1,
+          "endSec": 312.4,
+          "text": "with"
+        },
+        {
+          "startSec": 312.4,
+          "endSec": 312.9,
+          "text": "touch"
+        },
+        {
+          "startSec": 312.9,
+          "endSec": 313.5,
+          "text": "wood,"
+        },
+        {
+          "startSec": 313.5,
+          "endSec": 313.5,
+          "text": "which"
+        },
+        {
+          "startSec": 313.5,
+          "endSec": 313.7,
+          "text": "is"
+        }
+      ]
+    },
+    {
+      "startSec": 313.5,
+      "endSec": 317.7,
+      "text": "is an expression used, often in speech, to avoid bad luck.",
+      "words": [
+        {
+          "startSec": 313.5,
+          "endSec": 313.5,
+          "text": "which"
+        },
+        {
+          "startSec": 313.5,
+          "endSec": 313.7,
+          "text": "is"
+        },
+        {
+          "startSec": 313.7,
+          "endSec": 313.8,
+          "text": "an"
+        },
+        {
+          "startSec": 313.8,
+          "endSec": 314.6,
+          "text": "expression"
+        },
+        {
+          "startSec": 314.6,
+          "endSec": 315.1,
+          "text": "used,"
+        },
+        {
+          "startSec": 315.1,
+          "endSec": 315.5,
+          "text": "often"
+        },
+        {
+          "startSec": 315.5,
+          "endSec": 315.7,
+          "text": "in"
+        },
+        {
+          "startSec": 315.7,
+          "endSec": 316.3,
+          "text": "speech,"
+        },
+        {
+          "startSec": 316.3,
+          "endSec": 316.5,
+          "text": "to"
+        },
+        {
+          "startSec": 316.5,
+          "endSec": 316.9,
+          "text": "avoid"
+        },
+        {
+          "startSec": 316.9,
+          "endSec": 317.1,
+          "text": "bad"
+        },
+        {
+          "startSec": 317.1,
+          "endSec": 317.7,
+          "text": "luck."
+        }
+      ]
+    },
+    {
+      "startSec": 317.7,
+      "endSec": 322.4,
+      "text": "Sniffles, or sniffles, are minor illnesses that affect your nose.",
+      "words": [
+        {
+          "startSec": 317.8,
+          "endSec": 318.5,
+          "text": "Sniffles,"
+        },
+        {
+          "startSec": 318.5,
+          "endSec": 318.6,
+          "text": "or"
+        },
+        {
+          "startSec": 318.6,
+          "endSec": 319.4,
+          "text": "sniffles,"
+        },
+        {
+          "startSec": 319.4,
+          "endSec": 319.6,
+          "text": "are"
+        },
+        {
+          "startSec": 319.6,
+          "endSec": 320,
+          "text": "minor"
+        },
+        {
+          "startSec": 320,
+          "endSec": 320.7,
+          "text": "illnesses"
+        },
+        {
+          "startSec": 320.7,
+          "endSec": 321,
+          "text": "that"
+        },
+        {
+          "startSec": 321,
+          "endSec": 321.5,
+          "text": "affect"
+        },
+        {
+          "startSec": 321.5,
+          "endSec": 321.8,
+          "text": "your"
+        },
+        {
+          "startSec": 321.8,
+          "endSec": 322.4,
+          "text": "nose."
+        },
+        {
+          "startSec": 322.4,
+          "endSec": 322.6,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 322.4,
+      "endSec": 327.5,
+      "text": "If you ask someone to back you up, you want them to say something to support your opinion.",
+      "words": [
+        {
+          "startSec": 322.4,
+          "endSec": 322.6,
+          "text": "If"
+        },
+        {
+          "startSec": 322.6,
+          "endSec": 322.8,
+          "text": "you"
+        },
+        {
+          "startSec": 322.8,
+          "endSec": 323,
+          "text": "ask"
+        },
+        {
+          "startSec": 323,
+          "endSec": 323.4,
+          "text": "someone"
+        },
+        {
+          "startSec": 323.4,
+          "endSec": 323.6,
+          "text": "to"
+        },
+        {
+          "startSec": 323.6,
+          "endSec": 323.8,
+          "text": "back"
+        },
+        {
+          "startSec": 323.8,
+          "endSec": 324,
+          "text": "you"
+        },
+        {
+          "startSec": 324,
+          "endSec": 324.3,
+          "text": "up,"
+        },
+        {
+          "startSec": 324.3,
+          "endSec": 324.5,
+          "text": "you"
+        },
+        {
+          "startSec": 324.5,
+          "endSec": 324.7,
+          "text": "want"
+        },
+        {
+          "startSec": 324.7,
+          "endSec": 325,
+          "text": "them"
+        },
+        {
+          "startSec": 325,
+          "endSec": 325.1,
+          "text": "to"
+        },
+        {
+          "startSec": 325.1,
+          "endSec": 325.3,
+          "text": "say"
+        },
+        {
+          "startSec": 325.3,
+          "endSec": 325.9,
+          "text": "something"
+        },
+        {
+          "startSec": 325.9,
+          "endSec": 326.1,
+          "text": "to"
+        },
+        {
+          "startSec": 326.1,
+          "endSec": 326.5,
+          "text": "support"
+        },
+        {
+          "startSec": 326.5,
+          "endSec": 326.8,
+          "text": "your"
+        },
+        {
+          "startSec": 326.8,
+          "endSec": 327.5,
+          "text": "opinion."
+        },
+        {
+          "startSec": 327.5,
+          "endSec": 327.7,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 327.5,
+      "endSec": 331.1,
+      "text": "The expression tickety-boo means fine and in good order.",
+      "words": [
+        {
+          "startSec": 327.5,
+          "endSec": 327.7,
+          "text": "The"
+        },
+        {
+          "startSec": 327.7,
+          "endSec": 328.4,
+          "text": "expression"
+        },
+        {
+          "startSec": 328.4,
+          "endSec": 329.2,
+          "text": "tickety-boo"
+        },
+        {
+          "startSec": 329.2,
+          "endSec": 329.6,
+          "text": "means"
+        },
+        {
+          "startSec": 329.6,
+          "endSec": 329.9,
+          "text": "fine"
+        },
+        {
+          "startSec": 329.9,
+          "endSec": 330.1,
+          "text": "and"
+        },
+        {
+          "startSec": 330.1,
+          "endSec": 330.2,
+          "text": "in"
+        },
+        {
+          "startSec": 330.2,
+          "endSec": 330.5,
+          "text": "good"
+        },
+        {
+          "startSec": 330.5,
+          "endSec": 331.1,
+          "text": "order."
+        },
+        {
+          "startSec": 331.1,
+          "endSec": 331.2,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 331.1,
+      "endSec": 335.6,
+      "text": "If you dampen something, you make it weaker. And the expression dampens someone's spirits",
+      "words": [
+        {
+          "startSec": 331.1,
+          "endSec": 331.2,
+          "text": "If"
+        },
+        {
+          "startSec": 331.2,
+          "endSec": 331.4,
+          "text": "you"
+        },
+        {
+          "startSec": 331.4,
+          "endSec": 331.8,
+          "text": "dampen"
+        },
+        {
+          "startSec": 331.8,
+          "endSec": 332.5,
+          "text": "something,"
+        },
+        {
+          "startSec": 332.5,
+          "endSec": 332.6,
+          "text": "you"
+        },
+        {
+          "startSec": 332.6,
+          "endSec": 332.9,
+          "text": "make"
+        },
+        {
+          "startSec": 332.9,
+          "endSec": 333,
+          "text": "it"
+        },
+        {
+          "startSec": 333,
+          "endSec": 333.6,
+          "text": "weaker."
+        },
+        {
+          "startSec": 333.6,
+          "endSec": 333.8,
+          "text": "And"
+        },
+        {
+          "startSec": 333.8,
+          "endSec": 333.9,
+          "text": "the"
+        },
+        {
+          "startSec": 333.9,
+          "endSec": 334.4,
+          "text": "expression"
+        },
+        {
+          "startSec": 334.4,
+          "endSec": 334.8,
+          "text": "dampens"
+        },
+        {
+          "startSec": 334.8,
+          "endSec": 335.2,
+          "text": "someone's"
+        },
+        {
+          "startSec": 335.2,
+          "endSec": 335.6,
+          "text": "spirits"
+        },
+        {
+          "startSec": 335.6,
+          "endSec": 336,
+          "text": "means"
+        }
+      ]
+    },
+    {
+      "startSec": 335.6,
+      "endSec": 339,
+      "text": "means you make them less enthusiastic about something.",
+      "words": [
+        {
+          "startSec": 335.6,
+          "endSec": 336,
+          "text": "means"
+        },
+        {
+          "startSec": 336,
+          "endSec": 336.2,
+          "text": "you"
+        },
+        {
+          "startSec": 336.2,
+          "endSec": 336.5,
+          "text": "make"
+        },
+        {
+          "startSec": 336.5,
+          "endSec": 336.7,
+          "text": "them"
+        },
+        {
+          "startSec": 336.7,
+          "endSec": 337,
+          "text": "less"
+        },
+        {
+          "startSec": 337,
+          "endSec": 337.8,
+          "text": "enthusiastic"
+        },
+        {
+          "startSec": 337.8,
+          "endSec": 338.2,
+          "text": "about"
+        },
+        {
+          "startSec": 338.2,
+          "endSec": 339,
+          "text": "something."
+        },
+        {
+          "startSec": 339,
+          "endSec": 339.2,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 339,
+      "endSec": 343.3,
+      "text": "And if you're more prone to something, it's more likely to happen to you.",
+      "words": [
+        {
+          "startSec": 339,
+          "endSec": 339.2,
+          "text": "And"
+        },
+        {
+          "startSec": 339.2,
+          "endSec": 339.4,
+          "text": "if"
+        },
+        {
+          "startSec": 339.4,
+          "endSec": 339.8,
+          "text": "you're"
+        },
+        {
+          "startSec": 339.8,
+          "endSec": 340,
+          "text": "more"
+        },
+        {
+          "startSec": 340,
+          "endSec": 340.4,
+          "text": "prone"
+        },
+        {
+          "startSec": 340.4,
+          "endSec": 340.5,
+          "text": "to"
+        },
+        {
+          "startSec": 340.5,
+          "endSec": 341.2,
+          "text": "something,"
+        },
+        {
+          "startSec": 341.2,
+          "endSec": 341.5,
+          "text": "it's"
+        },
+        {
+          "startSec": 341.5,
+          "endSec": 341.8,
+          "text": "more"
+        },
+        {
+          "startSec": 341.8,
+          "endSec": 342.2,
+          "text": "likely"
+        },
+        {
+          "startSec": 342.2,
+          "endSec": 342.3,
+          "text": "to"
+        },
+        {
+          "startSec": 342.3,
+          "endSec": 342.7,
+          "text": "happen"
+        },
+        {
+          "startSec": 342.7,
+          "endSec": 342.8,
+          "text": "to"
+        },
+        {
+          "startSec": 342.8,
+          "endSec": 343.3,
+          "text": "you."
+        }
+      ]
+    },
+    {
+      "startSec": 343.3,
+      "endSec": 347.5,
+      "text": "Once again, our six minutes are up, but you can test what you've learned with the free,",
+      "words": [
+        {
+          "startSec": 343.4,
+          "endSec": 343.5,
+          "text": "Once"
+        },
+        {
+          "startSec": 343.5,
+          "endSec": 343.9,
+          "text": "again,"
+        },
+        {
+          "startSec": 343.9,
+          "endSec": 344.1,
+          "text": "our"
+        },
+        {
+          "startSec": 344.1,
+          "endSec": 344.3,
+          "text": "six"
+        },
+        {
+          "startSec": 344.3,
+          "endSec": 344.7,
+          "text": "minutes"
+        },
+        {
+          "startSec": 344.7,
+          "endSec": 344.8,
+          "text": "are"
+        },
+        {
+          "startSec": 344.8,
+          "endSec": 345.1,
+          "text": "up,"
+        },
+        {
+          "startSec": 345.1,
+          "endSec": 345.2,
+          "text": "but"
+        },
+        {
+          "startSec": 345.2,
+          "endSec": 345.4,
+          "text": "you"
+        },
+        {
+          "startSec": 345.4,
+          "endSec": 345.6,
+          "text": "can"
+        },
+        {
+          "startSec": 345.6,
+          "endSec": 345.8,
+          "text": "test"
+        },
+        {
+          "startSec": 345.8,
+          "endSec": 346,
+          "text": "what"
+        },
+        {
+          "startSec": 346,
+          "endSec": 346.4,
+          "text": "you've"
+        },
+        {
+          "startSec": 346.4,
+          "endSec": 346.8,
+          "text": "learned"
+        },
+        {
+          "startSec": 346.8,
+          "endSec": 347,
+          "text": "with"
+        },
+        {
+          "startSec": 347,
+          "endSec": 347.1,
+          "text": "the"
+        },
+        {
+          "startSec": 347.1,
+          "endSec": 347.5,
+          "text": "free,"
+        },
+        {
+          "startSec": 347.5,
+          "endSec": 348.2,
+          "text": "interactive"
+        }
+      ]
+    },
+    {
+      "startSec": 347.5,
+      "endSec": 349.6,
+      "text": "interactive quiz on our website.",
+      "words": [
+        {
+          "startSec": 347.5,
+          "endSec": 348.2,
+          "text": "interactive"
+        },
+        {
+          "startSec": 348.2,
+          "endSec": 348.5,
+          "text": "quiz"
+        },
+        {
+          "startSec": 348.5,
+          "endSec": 348.6,
+          "text": "on"
+        },
+        {
+          "startSec": 348.6,
+          "endSec": 348.8,
+          "text": "our"
+        },
+        {
+          "startSec": 348.8,
+          "endSec": 349.6,
+          "text": "website."
+        },
+        {
+          "startSec": 349.6,
+          "endSec": 349.8,
+          "text": "Bye"
+        }
+      ]
+    },
+    {
+      "startSec": 349.6,
+      "endSec": 350.6,
+      "text": "Bye for now.",
+      "words": [
+        {
+          "startSec": 349.6,
+          "endSec": 349.8,
+          "text": "Bye"
+        },
+        {
+          "startSec": 349.8,
+          "endSec": 350.1,
+          "text": "for"
+        },
+        {
+          "startSec": 350.1,
+          "endSec": 350.6,
+          "text": "now."
+        },
+        {
+          "startSec": 350.6,
+          "endSec": 351.6,
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "startSec": 350.6,
+      "endSec": 351.6,
+      "text": "Goodbye.",
+      "words": [
+        {
+          "startSec": 350.6,
+          "endSec": 351.6,
+          "text": "Goodbye."
+        },
+        {
+          "startSec": 351.6,
+          "endSec": 352,
+          "text": "Thanks"
+        }
+      ]
+    },
+    {
+      "startSec": 351.6,
+      "endSec": 355.7,
+      "text": "Thanks for listening to this podcast from BBC Learning English.",
+      "words": [
+        {
+          "startSec": 351.6,
+          "endSec": 352,
+          "text": "Thanks"
+        },
+        {
+          "startSec": 352,
+          "endSec": 352.2,
+          "text": "for"
+        },
+        {
+          "startSec": 352.2,
+          "endSec": 352.9,
+          "text": "listening"
+        },
+        {
+          "startSec": 352.9,
+          "endSec": 353,
+          "text": "to"
+        },
+        {
+          "startSec": 353,
+          "endSec": 353.3,
+          "text": "this"
+        },
+        {
+          "startSec": 353.3,
+          "endSec": 353.8,
+          "text": "podcast"
+        },
+        {
+          "startSec": 353.8,
+          "endSec": 354.1,
+          "text": "from"
+        },
+        {
+          "startSec": 354.1,
+          "endSec": 354.3,
+          "text": "BBC"
+        },
+        {
+          "startSec": 354.3,
+          "endSec": 354.9,
+          "text": "Learning"
+        },
+        {
+          "startSec": 354.9,
+          "endSec": 355.7,
+          "text": "English."
+        },
+        {
+          "startSec": 355.7,
+          "endSec": 356.4,
+          "text": "Continue"
+        }
+      ]
+    },
+    {
+      "startSec": 355.7,
+      "endSec": 362,
+      "text": "Continue your learning on our website with courses, quizzes, and programs to improve your",
+      "words": [
+        {
+          "startSec": 355.7,
+          "endSec": 356.4,
+          "text": "Continue"
+        },
+        {
+          "startSec": 356.4,
+          "endSec": 356.7,
+          "text": "your"
+        },
+        {
+          "startSec": 356.7,
+          "endSec": 357.3,
+          "text": "learning"
+        },
+        {
+          "startSec": 357.3,
+          "endSec": 357.5,
+          "text": "on"
+        },
+        {
+          "startSec": 357.5,
+          "endSec": 357.7,
+          "text": "our"
+        },
+        {
+          "startSec": 357.7,
+          "endSec": 358.3,
+          "text": "website"
+        },
+        {
+          "startSec": 358.3,
+          "endSec": 358.6,
+          "text": "with"
+        },
+        {
+          "startSec": 358.6,
+          "endSec": 359.3,
+          "text": "courses,"
+        },
+        {
+          "startSec": 359.3,
+          "endSec": 360,
+          "text": "quizzes,"
+        },
+        {
+          "startSec": 360,
+          "endSec": 360.3,
+          "text": "and"
+        },
+        {
+          "startSec": 360.3,
+          "endSec": 360.9,
+          "text": "programs"
+        },
+        {
+          "startSec": 360.9,
+          "endSec": 361.1,
+          "text": "to"
+        },
+        {
+          "startSec": 361.1,
+          "endSec": 361.7,
+          "text": "improve"
+        },
+        {
+          "startSec": 361.7,
+          "endSec": 362,
+          "text": "your"
+        },
+        {
+          "startSec": 362,
+          "endSec": 363,
+          "text": "English."
+        }
+      ]
+    },
+    {
+      "startSec": 362,
+      "endSec": 363,
+      "text": "English.",
+      "words": [
+        {
+          "startSec": 362,
+          "endSec": 363,
+          "text": "English."
+        },
+        {
+          "startSec": 363,
+          "endSec": 363.4,
+          "text": "Visit"
+        }
+      ]
+    },
+    {
+      "startSec": 363,
+      "endSec": 365.5,
+      "text": "Visit bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 363,
+          "endSec": 363.4,
+          "text": "Visit"
+        },
+        {
+          "startSec": 363.4,
+          "endSec": 365.5,
+          "text": "bbclearningenglish.com."
+        }
+      ]
+    },
+    {
+      "startSec": 373.3,
+      "endSec": 383.3,
+      "text": "[BLANK_AUDIO]",
+      "words": [
+        {
+          "startSec": 373.4,
+          "endSec": 383.3,
+          "text": "[BLANK_AUDIO]"
+        }
+      ]
+    }
+  ],
+  "introSec": 0
+}

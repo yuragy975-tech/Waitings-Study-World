@@ -1,0 +1,5847 @@
+{
+  "title": "Becoming a musician",
+  "source": "BBC 6 Minute English",
+  "level": "beginner",
+  "durationSec": 378,
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
+  "audioFile": "audio.mp3",
+  "segments": [
+    {
+      "startSec": 0,
+      "endSec": 5.9,
+      "text": "6 News English from bbclearningenglish.com",
+      "words": [
+        {
+          "startSec": 0.1,
+          "endSec": 0.5,
+          "text": "6"
+        },
+        {
+          "startSec": 0.5,
+          "endSec": 1.3,
+          "text": "News"
+        },
+        {
+          "startSec": 1.3,
+          "endSec": 2.6,
+          "text": "English"
+        },
+        {
+          "startSec": 2.6,
+          "endSec": 3,
+          "text": "from"
+        },
+        {
+          "startSec": 3,
+          "endSec": 5.9,
+          "text": "bbclearningenglish.com"
+        },
+        {
+          "startSec": 5.9,
+          "endSec": 6.5,
+          "text": "Hello,"
+        }
+      ]
+    },
+    {
+      "startSec": 5.9,
+      "endSec": 10.6,
+      "text": "Hello, this is 6 Minute English from BBC Learning English. I'm Pippa.",
+      "words": [
+        {
+          "startSec": 5.9,
+          "endSec": 6.5,
+          "text": "Hello,"
+        },
+        {
+          "startSec": 6.5,
+          "endSec": 6.8,
+          "text": "this"
+        },
+        {
+          "startSec": 6.8,
+          "endSec": 6.9,
+          "text": "is"
+        },
+        {
+          "startSec": 6.9,
+          "endSec": 7.2,
+          "text": "6"
+        },
+        {
+          "startSec": 7.2,
+          "endSec": 7.6,
+          "text": "Minute"
+        },
+        {
+          "startSec": 7.6,
+          "endSec": 8.2,
+          "text": "English"
+        },
+        {
+          "startSec": 8.2,
+          "endSec": 8.5,
+          "text": "from"
+        },
+        {
+          "startSec": 8.5,
+          "endSec": 8.8,
+          "text": "BBC"
+        },
+        {
+          "startSec": 8.8,
+          "endSec": 9.3,
+          "text": "Learning"
+        },
+        {
+          "startSec": 9.3,
+          "endSec": 10,
+          "text": "English."
+        },
+        {
+          "startSec": 10,
+          "endSec": 10.2,
+          "text": "I'm"
+        },
+        {
+          "startSec": 10.2,
+          "endSec": 10.6,
+          "text": "Pippa."
+        },
+        {
+          "startSec": 10.6,
+          "endSec": 10.9,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 10.6,
+      "endSec": 11.8,
+      "text": "And I'm Neil.",
+      "words": [
+        {
+          "startSec": 10.6,
+          "endSec": 10.9,
+          "text": "And"
+        },
+        {
+          "startSec": 10.9,
+          "endSec": 11.1,
+          "text": "I'm"
+        },
+        {
+          "startSec": 11.1,
+          "endSec": 11.8,
+          "text": "Neil."
+        },
+        {
+          "startSec": 11.8,
+          "endSec": 12,
+          "text": "Now"
+        }
+      ]
+    },
+    {
+      "startSec": 11.8,
+      "endSec": 15.2,
+      "text": "Now Neil, have you ever wanted to be a musician?",
+      "words": [
+        {
+          "startSec": 11.8,
+          "endSec": 12,
+          "text": "Now"
+        },
+        {
+          "startSec": 12,
+          "endSec": 12.5,
+          "text": "Neil,"
+        },
+        {
+          "startSec": 12.5,
+          "endSec": 12.8,
+          "text": "have"
+        },
+        {
+          "startSec": 12.8,
+          "endSec": 13.1,
+          "text": "you"
+        },
+        {
+          "startSec": 13.1,
+          "endSec": 13.4,
+          "text": "ever"
+        },
+        {
+          "startSec": 13.4,
+          "endSec": 13.9,
+          "text": "wanted"
+        },
+        {
+          "startSec": 13.9,
+          "endSec": 14,
+          "text": "to"
+        },
+        {
+          "startSec": 14,
+          "endSec": 14.2,
+          "text": "be"
+        },
+        {
+          "startSec": 14.2,
+          "endSec": 14.3,
+          "text": "a"
+        },
+        {
+          "startSec": 14.3,
+          "endSec": 15.2,
+          "text": "musician?"
+        },
+        {
+          "startSec": 15.2,
+          "endSec": 15.3,
+          "text": "Oh"
+        }
+      ]
+    },
+    {
+      "startSec": 15.2,
+      "endSec": 21.2,
+      "text": "Oh yes, Pippa. I still want to be a musician. I've been playing my guitar since I was 14.",
+      "words": [
+        {
+          "startSec": 15.2,
+          "endSec": 15.3,
+          "text": "Oh"
+        },
+        {
+          "startSec": 15.3,
+          "endSec": 15.6,
+          "text": "yes,"
+        },
+        {
+          "startSec": 15.6,
+          "endSec": 16.2,
+          "text": "Pippa."
+        },
+        {
+          "startSec": 16.2,
+          "endSec": 16.3,
+          "text": "I"
+        },
+        {
+          "startSec": 16.3,
+          "endSec": 16.7,
+          "text": "still"
+        },
+        {
+          "startSec": 16.7,
+          "endSec": 17.1,
+          "text": "want"
+        },
+        {
+          "startSec": 17.1,
+          "endSec": 17.2,
+          "text": "to"
+        },
+        {
+          "startSec": 17.2,
+          "endSec": 17.4,
+          "text": "be"
+        },
+        {
+          "startSec": 17.4,
+          "endSec": 17.5,
+          "text": "a"
+        },
+        {
+          "startSec": 17.5,
+          "endSec": 18.5,
+          "text": "musician."
+        },
+        {
+          "startSec": 18.5,
+          "endSec": 18.8,
+          "text": "I've"
+        },
+        {
+          "startSec": 18.8,
+          "endSec": 19.1,
+          "text": "been"
+        },
+        {
+          "startSec": 19.1,
+          "endSec": 19.5,
+          "text": "playing"
+        },
+        {
+          "startSec": 19.5,
+          "endSec": 19.7,
+          "text": "my"
+        },
+        {
+          "startSec": 19.7,
+          "endSec": 20.1,
+          "text": "guitar"
+        },
+        {
+          "startSec": 20.1,
+          "endSec": 20.5,
+          "text": "since"
+        },
+        {
+          "startSec": 20.5,
+          "endSec": 20.6,
+          "text": "I"
+        },
+        {
+          "startSec": 20.6,
+          "endSec": 20.8,
+          "text": "was"
+        },
+        {
+          "startSec": 20.8,
+          "endSec": 21.2,
+          "text": "14."
+        },
+        {
+          "startSec": 21.2,
+          "endSec": 21.7,
+          "text": "Wow."
+        }
+      ]
+    },
+    {
+      "startSec": 21.2,
+      "endSec": 24,
+      "text": "Wow. Well maybe one day you'll manage it.",
+      "words": [
+        {
+          "startSec": 21.2,
+          "endSec": 21.7,
+          "text": "Wow."
+        },
+        {
+          "startSec": 21.7,
+          "endSec": 22,
+          "text": "Well"
+        },
+        {
+          "startSec": 22,
+          "endSec": 22.3,
+          "text": "maybe"
+        },
+        {
+          "startSec": 22.3,
+          "endSec": 22.5,
+          "text": "one"
+        },
+        {
+          "startSec": 22.5,
+          "endSec": 22.7,
+          "text": "day"
+        },
+        {
+          "startSec": 22.7,
+          "endSec": 23.2,
+          "text": "you'll"
+        },
+        {
+          "startSec": 23.2,
+          "endSec": 23.6,
+          "text": "manage"
+        },
+        {
+          "startSec": 23.6,
+          "endSec": 24,
+          "text": "it."
+        },
+        {
+          "startSec": 24,
+          "endSec": 24.3,
+          "text": "Who"
+        }
+      ]
+    },
+    {
+      "startSec": 24,
+      "endSec": 26.2,
+      "text": "Who knows? What about you?",
+      "words": [
+        {
+          "startSec": 24,
+          "endSec": 24.3,
+          "text": "Who"
+        },
+        {
+          "startSec": 24.3,
+          "endSec": 25.1,
+          "text": "knows?"
+        },
+        {
+          "startSec": 25.1,
+          "endSec": 25.4,
+          "text": "What"
+        },
+        {
+          "startSec": 25.4,
+          "endSec": 25.7,
+          "text": "about"
+        },
+        {
+          "startSec": 25.7,
+          "endSec": 26.2,
+          "text": "you?"
+        },
+        {
+          "startSec": 26.2,
+          "endSec": 26.2,
+          "text": "I"
+        },
+        {
+          "startSec": 26.2,
+          "endSec": 26.6,
+          "text": "don't"
+        }
+      ]
+    },
+    {
+      "startSec": 26.2,
+      "endSec": 33,
+      "text": "I don't think I'd like to be a musician. I think it would be a bit stressful. Especially if you had lots of fans. I'm already successful.",
+      "words": [
+        {
+          "startSec": 26.2,
+          "endSec": 26.2,
+          "text": "I"
+        },
+        {
+          "startSec": 26.2,
+          "endSec": 26.6,
+          "text": "don't"
+        },
+        {
+          "startSec": 26.6,
+          "endSec": 26.9,
+          "text": "think"
+        },
+        {
+          "startSec": 26.9,
+          "endSec": 27.1,
+          "text": "I'd"
+        },
+        {
+          "startSec": 27.1,
+          "endSec": 27.3,
+          "text": "like"
+        },
+        {
+          "startSec": 27.3,
+          "endSec": 27.5,
+          "text": "to"
+        },
+        {
+          "startSec": 27.5,
+          "endSec": 27.6,
+          "text": "be"
+        },
+        {
+          "startSec": 27.6,
+          "endSec": 27.7,
+          "text": "a"
+        },
+        {
+          "startSec": 27.7,
+          "endSec": 28.4,
+          "text": "musician."
+        },
+        {
+          "startSec": 28.4,
+          "endSec": 28.4,
+          "text": "I"
+        },
+        {
+          "startSec": 28.4,
+          "endSec": 28.8,
+          "text": "think"
+        },
+        {
+          "startSec": 28.8,
+          "endSec": 28.9,
+          "text": "it"
+        },
+        {
+          "startSec": 28.9,
+          "endSec": 29.2,
+          "text": "would"
+        },
+        {
+          "startSec": 29.2,
+          "endSec": 29.4,
+          "text": "be"
+        },
+        {
+          "startSec": 29.4,
+          "endSec": 29.4,
+          "text": "a"
+        },
+        {
+          "startSec": 29.4,
+          "endSec": 29.6,
+          "text": "bit"
+        },
+        {
+          "startSec": 29.6,
+          "endSec": 30.4,
+          "text": "stressful."
+        },
+        {
+          "startSec": 30.4,
+          "endSec": 30.8,
+          "text": "Especially"
+        },
+        {
+          "startSec": 30.8,
+          "endSec": 30.8,
+          "text": "if"
+        },
+        {
+          "startSec": 30.8,
+          "endSec": 31,
+          "text": "you"
+        },
+        {
+          "startSec": 31,
+          "endSec": 31.1,
+          "text": "had"
+        },
+        {
+          "startSec": 31.1,
+          "endSec": 31.3,
+          "text": "lots"
+        },
+        {
+          "startSec": 31.3,
+          "endSec": 31.4,
+          "text": "of"
+        },
+        {
+          "startSec": 31.4,
+          "endSec": 31.9,
+          "text": "fans."
+        },
+        {
+          "startSec": 31.9,
+          "endSec": 31.9,
+          "text": "I'm"
+        },
+        {
+          "startSec": 31.9,
+          "endSec": 32.2,
+          "text": "already"
+        },
+        {
+          "startSec": 32.2,
+          "endSec": 33,
+          "text": "successful."
+        },
+        {
+          "startSec": 33,
+          "endSec": 33.3,
+          "text": "Hmm,"
+        }
+      ]
+    },
+    {
+      "startSec": 33,
+      "endSec": 47.8,
+      "text": "Hmm, yeah. I wonder what life as a musician is actually like. We'll be finding that out in this programme as we hear from some people around the UK who would like to become successful musicians and will even listen to some of their music too.",
+      "words": [
+        {
+          "startSec": 33,
+          "endSec": 33.3,
+          "text": "Hmm,"
+        },
+        {
+          "startSec": 33.3,
+          "endSec": 33.8,
+          "text": "yeah."
+        },
+        {
+          "startSec": 33.8,
+          "endSec": 33.9,
+          "text": "I"
+        },
+        {
+          "startSec": 33.9,
+          "endSec": 34.3,
+          "text": "wonder"
+        },
+        {
+          "startSec": 34.3,
+          "endSec": 34.6,
+          "text": "what"
+        },
+        {
+          "startSec": 34.6,
+          "endSec": 34.9,
+          "text": "life"
+        },
+        {
+          "startSec": 34.9,
+          "endSec": 35,
+          "text": "as"
+        },
+        {
+          "startSec": 35,
+          "endSec": 35.1,
+          "text": "a"
+        },
+        {
+          "startSec": 35.1,
+          "endSec": 35.7,
+          "text": "musician"
+        },
+        {
+          "startSec": 35.7,
+          "endSec": 35.8,
+          "text": "is"
+        },
+        {
+          "startSec": 35.8,
+          "endSec": 36.4,
+          "text": "actually"
+        },
+        {
+          "startSec": 36.4,
+          "endSec": 37,
+          "text": "like."
+        },
+        {
+          "startSec": 37,
+          "endSec": 37.3,
+          "text": "We'll"
+        },
+        {
+          "startSec": 37.3,
+          "endSec": 37.4,
+          "text": "be"
+        },
+        {
+          "startSec": 37.4,
+          "endSec": 37.9,
+          "text": "finding"
+        },
+        {
+          "startSec": 37.9,
+          "endSec": 38.1,
+          "text": "that"
+        },
+        {
+          "startSec": 38.1,
+          "endSec": 38.4,
+          "text": "out"
+        },
+        {
+          "startSec": 38.4,
+          "endSec": 38.5,
+          "text": "in"
+        },
+        {
+          "startSec": 38.5,
+          "endSec": 38.7,
+          "text": "this"
+        },
+        {
+          "startSec": 38.7,
+          "endSec": 39.4,
+          "text": "programme"
+        },
+        {
+          "startSec": 39.4,
+          "endSec": 39.6,
+          "text": "as"
+        },
+        {
+          "startSec": 39.6,
+          "endSec": 39.6,
+          "text": "we"
+        },
+        {
+          "startSec": 39.6,
+          "endSec": 39.9,
+          "text": "hear"
+        },
+        {
+          "startSec": 39.9,
+          "endSec": 40.1,
+          "text": "from"
+        },
+        {
+          "startSec": 40.1,
+          "endSec": 40.3,
+          "text": "some"
+        },
+        {
+          "startSec": 40.3,
+          "endSec": 40.6,
+          "text": "people"
+        },
+        {
+          "startSec": 40.6,
+          "endSec": 41,
+          "text": "around"
+        },
+        {
+          "startSec": 41,
+          "endSec": 41.5,
+          "text": "the"
+        },
+        {
+          "startSec": 41.5,
+          "endSec": 41.9,
+          "text": "UK"
+        },
+        {
+          "startSec": 41.9,
+          "endSec": 42,
+          "text": "who"
+        },
+        {
+          "startSec": 42,
+          "endSec": 42.2,
+          "text": "would"
+        },
+        {
+          "startSec": 42.2,
+          "endSec": 42.4,
+          "text": "like"
+        },
+        {
+          "startSec": 42.4,
+          "endSec": 42.5,
+          "text": "to"
+        },
+        {
+          "startSec": 42.5,
+          "endSec": 42.9,
+          "text": "become"
+        },
+        {
+          "startSec": 42.9,
+          "endSec": 43.6,
+          "text": "successful"
+        },
+        {
+          "startSec": 43.6,
+          "endSec": 44.6,
+          "text": "musicians"
+        },
+        {
+          "startSec": 44.6,
+          "endSec": 44.9,
+          "text": "and"
+        },
+        {
+          "startSec": 44.9,
+          "endSec": 45.1,
+          "text": "will"
+        },
+        {
+          "startSec": 45.1,
+          "endSec": 45.4,
+          "text": "even"
+        },
+        {
+          "startSec": 45.4,
+          "endSec": 45.9,
+          "text": "listen"
+        },
+        {
+          "startSec": 45.9,
+          "endSec": 46,
+          "text": "to"
+        },
+        {
+          "startSec": 46,
+          "endSec": 46.3,
+          "text": "some"
+        },
+        {
+          "startSec": 46.3,
+          "endSec": 46.5,
+          "text": "of"
+        },
+        {
+          "startSec": 46.5,
+          "endSec": 46.9,
+          "text": "their"
+        },
+        {
+          "startSec": 46.9,
+          "endSec": 47.3,
+          "text": "music"
+        },
+        {
+          "startSec": 47.3,
+          "endSec": 47.8,
+          "text": "too."
+        },
+        {
+          "startSec": 47.8,
+          "endSec": 48,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 47.8,
+      "endSec": 59,
+      "text": "But first I have a question for you Neil. In the UK we have a weekly chart of the best selling songs in the country. And the top selling song is called 'The Number One'.",
+      "words": [
+        {
+          "startSec": 47.8,
+          "endSec": 48,
+          "text": "But"
+        },
+        {
+          "startSec": 48,
+          "endSec": 48.4,
+          "text": "first"
+        },
+        {
+          "startSec": 48.4,
+          "endSec": 48.5,
+          "text": "I"
+        },
+        {
+          "startSec": 48.5,
+          "endSec": 48.9,
+          "text": "have"
+        },
+        {
+          "startSec": 48.9,
+          "endSec": 48.9,
+          "text": "a"
+        },
+        {
+          "startSec": 48.9,
+          "endSec": 49.6,
+          "text": "question"
+        },
+        {
+          "startSec": 49.6,
+          "endSec": 49.9,
+          "text": "for"
+        },
+        {
+          "startSec": 49.9,
+          "endSec": 50.1,
+          "text": "you"
+        },
+        {
+          "startSec": 50.1,
+          "endSec": 50.7,
+          "text": "Neil."
+        },
+        {
+          "startSec": 50.7,
+          "endSec": 50.9,
+          "text": "In"
+        },
+        {
+          "startSec": 50.9,
+          "endSec": 51.1,
+          "text": "the"
+        },
+        {
+          "startSec": 51.1,
+          "endSec": 51.3,
+          "text": "UK"
+        },
+        {
+          "startSec": 51.3,
+          "endSec": 51.5,
+          "text": "we"
+        },
+        {
+          "startSec": 51.5,
+          "endSec": 51.8,
+          "text": "have"
+        },
+        {
+          "startSec": 51.8,
+          "endSec": 51.9,
+          "text": "a"
+        },
+        {
+          "startSec": 51.9,
+          "endSec": 52.4,
+          "text": "weekly"
+        },
+        {
+          "startSec": 52.4,
+          "endSec": 52.8,
+          "text": "chart"
+        },
+        {
+          "startSec": 52.8,
+          "endSec": 53,
+          "text": "of"
+        },
+        {
+          "startSec": 53,
+          "endSec": 53.2,
+          "text": "the"
+        },
+        {
+          "startSec": 53.2,
+          "endSec": 53.6,
+          "text": "best"
+        },
+        {
+          "startSec": 53.6,
+          "endSec": 54.2,
+          "text": "selling"
+        },
+        {
+          "startSec": 54.2,
+          "endSec": 54.7,
+          "text": "songs"
+        },
+        {
+          "startSec": 54.7,
+          "endSec": 54.8,
+          "text": "in"
+        },
+        {
+          "startSec": 54.8,
+          "endSec": 55.1,
+          "text": "the"
+        },
+        {
+          "startSec": 55.1,
+          "endSec": 56.1,
+          "text": "country."
+        },
+        {
+          "startSec": 56.1,
+          "endSec": 56.2,
+          "text": "And"
+        },
+        {
+          "startSec": 56.2,
+          "endSec": 56.4,
+          "text": "the"
+        },
+        {
+          "startSec": 56.4,
+          "endSec": 56.6,
+          "text": "top"
+        },
+        {
+          "startSec": 56.6,
+          "endSec": 57,
+          "text": "selling"
+        },
+        {
+          "startSec": 57,
+          "endSec": 57.3,
+          "text": "song"
+        },
+        {
+          "startSec": 57.3,
+          "endSec": 57.4,
+          "text": "is"
+        },
+        {
+          "startSec": 57.4,
+          "endSec": 57.8,
+          "text": "called"
+        },
+        {
+          "startSec": 57.8,
+          "endSec": 58.1,
+          "text": "'The"
+        },
+        {
+          "startSec": 58.1,
+          "endSec": 58.5,
+          "text": "Number"
+        },
+        {
+          "startSec": 58.5,
+          "endSec": 59,
+          "text": "One'."
+        },
+        {
+          "startSec": 59,
+          "endSec": 59.3,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 59,
+      "endSec": 64.9,
+      "text": "But which musical artist do you think has had the most UK number one songs?",
+      "words": [
+        {
+          "startSec": 59,
+          "endSec": 59.3,
+          "text": "But"
+        },
+        {
+          "startSec": 59.3,
+          "endSec": 59.7,
+          "text": "which"
+        },
+        {
+          "startSec": 59.7,
+          "endSec": 60.4,
+          "text": "musical"
+        },
+        {
+          "startSec": 60.4,
+          "endSec": 60.9,
+          "text": "artist"
+        },
+        {
+          "startSec": 60.9,
+          "endSec": 61.1,
+          "text": "do"
+        },
+        {
+          "startSec": 61.1,
+          "endSec": 61.4,
+          "text": "you"
+        },
+        {
+          "startSec": 61.4,
+          "endSec": 61.9,
+          "text": "think"
+        },
+        {
+          "startSec": 61.9,
+          "endSec": 62.1,
+          "text": "has"
+        },
+        {
+          "startSec": 62.1,
+          "endSec": 62.4,
+          "text": "had"
+        },
+        {
+          "startSec": 62.4,
+          "endSec": 62.7,
+          "text": "the"
+        },
+        {
+          "startSec": 62.7,
+          "endSec": 63.1,
+          "text": "most"
+        },
+        {
+          "startSec": 63.1,
+          "endSec": 63.3,
+          "text": "UK"
+        },
+        {
+          "startSec": 63.3,
+          "endSec": 63.8,
+          "text": "number"
+        },
+        {
+          "startSec": 63.8,
+          "endSec": 64.1,
+          "text": "one"
+        },
+        {
+          "startSec": 64.1,
+          "endSec": 64.9,
+          "text": "songs?"
+        },
+        {
+          "startSec": 64.9,
+          "endSec": 65.2,
+          "text": "Is"
+        }
+      ]
+    },
+    {
+      "startSec": 64.9,
+      "endSec": 70.8,
+      "text": "Is it A) The Beatles, B) Ed Sheeran or C) Elvis Presley?",
+      "words": [
+        {
+          "startSec": 64.9,
+          "endSec": 65.2,
+          "text": "Is"
+        },
+        {
+          "startSec": 65.2,
+          "endSec": 65.5,
+          "text": "it"
+        },
+        {
+          "startSec": 65.5,
+          "endSec": 65.7,
+          "text": "A)"
+        },
+        {
+          "startSec": 65.7,
+          "endSec": 66.2,
+          "text": "The"
+        },
+        {
+          "startSec": 66.2,
+          "endSec": 67.4,
+          "text": "Beatles,"
+        },
+        {
+          "startSec": 67.4,
+          "endSec": 67.7,
+          "text": "B)"
+        },
+        {
+          "startSec": 67.7,
+          "endSec": 67.9,
+          "text": "Ed"
+        },
+        {
+          "startSec": 67.9,
+          "endSec": 68.8,
+          "text": "Sheeran"
+        },
+        {
+          "startSec": 68.8,
+          "endSec": 69,
+          "text": "or"
+        },
+        {
+          "startSec": 69,
+          "endSec": 69.2,
+          "text": "C)"
+        },
+        {
+          "startSec": 69.2,
+          "endSec": 69.9,
+          "text": "Elvis"
+        },
+        {
+          "startSec": 69.9,
+          "endSec": 70.8,
+          "text": "Presley?"
+        },
+        {
+          "startSec": 70.8,
+          "endSec": 71,
+          "text": "Oh"
+        }
+      ]
+    },
+    {
+      "startSec": 70.8,
+      "endSec": 77,
+      "text": "Oh well, I think that's easy. It must be surely The Beatles.",
+      "words": [
+        {
+          "startSec": 70.8,
+          "endSec": 71,
+          "text": "Oh"
+        },
+        {
+          "startSec": 71,
+          "endSec": 71.7,
+          "text": "well,"
+        },
+        {
+          "startSec": 71.7,
+          "endSec": 71.8,
+          "text": "I"
+        },
+        {
+          "startSec": 71.8,
+          "endSec": 72.4,
+          "text": "think"
+        },
+        {
+          "startSec": 72.4,
+          "endSec": 73.1,
+          "text": "that's"
+        },
+        {
+          "startSec": 73.1,
+          "endSec": 73.9,
+          "text": "easy."
+        },
+        {
+          "startSec": 73.9,
+          "endSec": 74.1,
+          "text": "It"
+        },
+        {
+          "startSec": 74.1,
+          "endSec": 74.6,
+          "text": "must"
+        },
+        {
+          "startSec": 74.6,
+          "endSec": 74.8,
+          "text": "be"
+        },
+        {
+          "startSec": 74.8,
+          "endSec": 75.5,
+          "text": "surely"
+        },
+        {
+          "startSec": 75.5,
+          "endSec": 75.9,
+          "text": "The"
+        },
+        {
+          "startSec": 75.9,
+          "endSec": 77,
+          "text": "Beatles."
+        },
+        {
+          "startSec": 77,
+          "endSec": 77.4,
+          "text": "Well,"
+        }
+      ]
+    },
+    {
+      "startSec": 77,
+      "endSec": 80.7,
+      "text": "Well, I'll reveal the answer at the end of the programme.",
+      "words": [
+        {
+          "startSec": 77,
+          "endSec": 77.4,
+          "text": "Well,"
+        },
+        {
+          "startSec": 77.4,
+          "endSec": 77.7,
+          "text": "I'll"
+        },
+        {
+          "startSec": 77.7,
+          "endSec": 78.1,
+          "text": "reveal"
+        },
+        {
+          "startSec": 78.1,
+          "endSec": 78.3,
+          "text": "the"
+        },
+        {
+          "startSec": 78.3,
+          "endSec": 78.8,
+          "text": "answer"
+        },
+        {
+          "startSec": 78.8,
+          "endSec": 78.9,
+          "text": "at"
+        },
+        {
+          "startSec": 78.9,
+          "endSec": 79.1,
+          "text": "the"
+        },
+        {
+          "startSec": 79.1,
+          "endSec": 79.4,
+          "text": "end"
+        },
+        {
+          "startSec": 79.4,
+          "endSec": 79.5,
+          "text": "of"
+        },
+        {
+          "startSec": 79.5,
+          "endSec": 79.7,
+          "text": "the"
+        },
+        {
+          "startSec": 79.7,
+          "endSec": 80.7,
+          "text": "programme."
+        },
+        {
+          "startSec": 80.7,
+          "endSec": 81.1,
+          "text": "Now,"
+        }
+      ]
+    },
+    {
+      "startSec": 80.7,
+      "endSec": 88.8,
+      "text": "Now, getting a number one song is a dream for many musicians. But if you want to become a musician, where do you start?",
+      "words": [
+        {
+          "startSec": 80.7,
+          "endSec": 81.1,
+          "text": "Now,"
+        },
+        {
+          "startSec": 81.1,
+          "endSec": 81.7,
+          "text": "getting"
+        },
+        {
+          "startSec": 81.7,
+          "endSec": 81.8,
+          "text": "a"
+        },
+        {
+          "startSec": 81.8,
+          "endSec": 82.3,
+          "text": "number"
+        },
+        {
+          "startSec": 82.3,
+          "endSec": 82.5,
+          "text": "one"
+        },
+        {
+          "startSec": 82.5,
+          "endSec": 82.8,
+          "text": "song"
+        },
+        {
+          "startSec": 82.8,
+          "endSec": 83,
+          "text": "is"
+        },
+        {
+          "startSec": 83,
+          "endSec": 83.1,
+          "text": "a"
+        },
+        {
+          "startSec": 83.1,
+          "endSec": 83.5,
+          "text": "dream"
+        },
+        {
+          "startSec": 83.5,
+          "endSec": 83.7,
+          "text": "for"
+        },
+        {
+          "startSec": 83.7,
+          "endSec": 84.1,
+          "text": "many"
+        },
+        {
+          "startSec": 84.1,
+          "endSec": 85.1,
+          "text": "musicians."
+        },
+        {
+          "startSec": 85.1,
+          "endSec": 85.3,
+          "text": "But"
+        },
+        {
+          "startSec": 85.3,
+          "endSec": 85.5,
+          "text": "if"
+        },
+        {
+          "startSec": 85.5,
+          "endSec": 85.7,
+          "text": "you"
+        },
+        {
+          "startSec": 85.7,
+          "endSec": 86,
+          "text": "want"
+        },
+        {
+          "startSec": 86,
+          "endSec": 86.1,
+          "text": "to"
+        },
+        {
+          "startSec": 86.1,
+          "endSec": 86.6,
+          "text": "become"
+        },
+        {
+          "startSec": 86.6,
+          "endSec": 86.6,
+          "text": "a"
+        },
+        {
+          "startSec": 86.6,
+          "endSec": 87.4,
+          "text": "musician,"
+        },
+        {
+          "startSec": 87.4,
+          "endSec": 87.7,
+          "text": "where"
+        },
+        {
+          "startSec": 87.7,
+          "endSec": 87.9,
+          "text": "do"
+        },
+        {
+          "startSec": 87.9,
+          "endSec": 88.2,
+          "text": "you"
+        },
+        {
+          "startSec": 88.2,
+          "endSec": 88.8,
+          "text": "start?"
+        },
+        {
+          "startSec": 88.8,
+          "endSec": 88.9,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 88.8,
+      "endSec": 95.6,
+      "text": "I grew up in a really rich music scene in St Ives. I was going to open mics from the age of about 11.",
+      "words": [
+        {
+          "startSec": 88.8,
+          "endSec": 88.9,
+          "text": "I"
+        },
+        {
+          "startSec": 88.9,
+          "endSec": 89.1,
+          "text": "grew"
+        },
+        {
+          "startSec": 89.1,
+          "endSec": 89.3,
+          "text": "up"
+        },
+        {
+          "startSec": 89.3,
+          "endSec": 89.4,
+          "text": "in"
+        },
+        {
+          "startSec": 89.4,
+          "endSec": 89.5,
+          "text": "a"
+        },
+        {
+          "startSec": 89.5,
+          "endSec": 89.9,
+          "text": "really"
+        },
+        {
+          "startSec": 89.9,
+          "endSec": 90.2,
+          "text": "rich"
+        },
+        {
+          "startSec": 90.2,
+          "endSec": 90.5,
+          "text": "music"
+        },
+        {
+          "startSec": 90.5,
+          "endSec": 90.9,
+          "text": "scene"
+        },
+        {
+          "startSec": 90.9,
+          "endSec": 91,
+          "text": "in"
+        },
+        {
+          "startSec": 91,
+          "endSec": 91.2,
+          "text": "St"
+        },
+        {
+          "startSec": 91.2,
+          "endSec": 91.7,
+          "text": "Ives."
+        },
+        {
+          "startSec": 91.7,
+          "endSec": 91.8,
+          "text": "I"
+        },
+        {
+          "startSec": 91.8,
+          "endSec": 92.1,
+          "text": "was"
+        },
+        {
+          "startSec": 92.1,
+          "endSec": 92.5,
+          "text": "going"
+        },
+        {
+          "startSec": 92.5,
+          "endSec": 92.7,
+          "text": "to"
+        },
+        {
+          "startSec": 92.7,
+          "endSec": 93,
+          "text": "open"
+        },
+        {
+          "startSec": 93,
+          "endSec": 93.3,
+          "text": "mics"
+        },
+        {
+          "startSec": 93.3,
+          "endSec": 93.7,
+          "text": "from"
+        },
+        {
+          "startSec": 93.7,
+          "endSec": 93.9,
+          "text": "the"
+        },
+        {
+          "startSec": 93.9,
+          "endSec": 94.2,
+          "text": "age"
+        },
+        {
+          "startSec": 94.2,
+          "endSec": 94.3,
+          "text": "of"
+        },
+        {
+          "startSec": 94.3,
+          "endSec": 94.8,
+          "text": "about"
+        },
+        {
+          "startSec": 94.8,
+          "endSec": 95.6,
+          "text": "11."
+        },
+        {
+          "startSec": 95.6,
+          "endSec": 96,
+          "text": "This"
+        }
+      ]
+    },
+    {
+      "startSec": 95.6,
+      "endSec": 104.8,
+      "text": "This is Bailey. She lives in St Ives in Cornwall on the southwest coast of England. She says she was going to open mic nights from a young age.",
+      "words": [
+        {
+          "startSec": 95.6,
+          "endSec": 96,
+          "text": "This"
+        },
+        {
+          "startSec": 96,
+          "endSec": 96.1,
+          "text": "is"
+        },
+        {
+          "startSec": 96.1,
+          "endSec": 97,
+          "text": "Bailey."
+        },
+        {
+          "startSec": 97,
+          "endSec": 97.2,
+          "text": "She"
+        },
+        {
+          "startSec": 97.2,
+          "endSec": 97.5,
+          "text": "lives"
+        },
+        {
+          "startSec": 97.5,
+          "endSec": 97.6,
+          "text": "in"
+        },
+        {
+          "startSec": 97.6,
+          "endSec": 97.8,
+          "text": "St"
+        },
+        {
+          "startSec": 97.8,
+          "endSec": 98,
+          "text": "Ives"
+        },
+        {
+          "startSec": 98,
+          "endSec": 98.2,
+          "text": "in"
+        },
+        {
+          "startSec": 98.2,
+          "endSec": 98.7,
+          "text": "Cornwall"
+        },
+        {
+          "startSec": 98.7,
+          "endSec": 98.8,
+          "text": "on"
+        },
+        {
+          "startSec": 98.8,
+          "endSec": 99,
+          "text": "the"
+        },
+        {
+          "startSec": 99,
+          "endSec": 99.7,
+          "text": "southwest"
+        },
+        {
+          "startSec": 99.7,
+          "endSec": 100,
+          "text": "coast"
+        },
+        {
+          "startSec": 100,
+          "endSec": 100.1,
+          "text": "of"
+        },
+        {
+          "startSec": 100.1,
+          "endSec": 100.9,
+          "text": "England."
+        },
+        {
+          "startSec": 100.9,
+          "endSec": 101.2,
+          "text": "She"
+        },
+        {
+          "startSec": 101.2,
+          "endSec": 101.5,
+          "text": "says"
+        },
+        {
+          "startSec": 101.5,
+          "endSec": 101.7,
+          "text": "she"
+        },
+        {
+          "startSec": 101.7,
+          "endSec": 101.9,
+          "text": "was"
+        },
+        {
+          "startSec": 101.9,
+          "endSec": 102.3,
+          "text": "going"
+        },
+        {
+          "startSec": 102.3,
+          "endSec": 102.5,
+          "text": "to"
+        },
+        {
+          "startSec": 102.5,
+          "endSec": 102.8,
+          "text": "open"
+        },
+        {
+          "startSec": 102.8,
+          "endSec": 103,
+          "text": "mic"
+        },
+        {
+          "startSec": 103,
+          "endSec": 103.5,
+          "text": "nights"
+        },
+        {
+          "startSec": 103.5,
+          "endSec": 103.8,
+          "text": "from"
+        },
+        {
+          "startSec": 103.8,
+          "endSec": 104,
+          "text": "a"
+        },
+        {
+          "startSec": 104,
+          "endSec": 104.2,
+          "text": "young"
+        },
+        {
+          "startSec": 104.2,
+          "endSec": 104.8,
+          "text": "age."
+        }
+      ]
+    },
+    {
+      "startSec": 104.8,
+      "endSec": 109.2,
+      "text": "Open mic nights are events where anyone can sing or play music.",
+      "words": [
+        {
+          "startSec": 104.9,
+          "endSec": 105.1,
+          "text": "Open"
+        },
+        {
+          "startSec": 105.1,
+          "endSec": 105.4,
+          "text": "mic"
+        },
+        {
+          "startSec": 105.4,
+          "endSec": 105.8,
+          "text": "nights"
+        },
+        {
+          "startSec": 105.8,
+          "endSec": 106.1,
+          "text": "are"
+        },
+        {
+          "startSec": 106.1,
+          "endSec": 106.6,
+          "text": "events"
+        },
+        {
+          "startSec": 106.6,
+          "endSec": 107,
+          "text": "where"
+        },
+        {
+          "startSec": 107,
+          "endSec": 107.4,
+          "text": "anyone"
+        },
+        {
+          "startSec": 107.4,
+          "endSec": 107.7,
+          "text": "can"
+        },
+        {
+          "startSec": 107.7,
+          "endSec": 108,
+          "text": "sing"
+        },
+        {
+          "startSec": 108,
+          "endSec": 108.2,
+          "text": "or"
+        },
+        {
+          "startSec": 108.2,
+          "endSec": 108.5,
+          "text": "play"
+        },
+        {
+          "startSec": 108.5,
+          "endSec": 109.2,
+          "text": "music."
+        },
+        {
+          "startSec": 109.2,
+          "endSec": 109.6,
+          "text": "Bailey"
+        }
+      ]
+    },
+    {
+      "startSec": 109.2,
+      "endSec": 115.2,
+      "text": "Bailey talked about her life as a musician to BBC learning English programme 'My Song, My Home'.",
+      "words": [
+        {
+          "startSec": 109.2,
+          "endSec": 109.6,
+          "text": "Bailey"
+        },
+        {
+          "startSec": 109.6,
+          "endSec": 110,
+          "text": "talked"
+        },
+        {
+          "startSec": 110,
+          "endSec": 110.4,
+          "text": "about"
+        },
+        {
+          "startSec": 110.4,
+          "endSec": 110.6,
+          "text": "her"
+        },
+        {
+          "startSec": 110.6,
+          "endSec": 110.9,
+          "text": "life"
+        },
+        {
+          "startSec": 110.9,
+          "endSec": 111,
+          "text": "as"
+        },
+        {
+          "startSec": 111,
+          "endSec": 111.1,
+          "text": "a"
+        },
+        {
+          "startSec": 111.1,
+          "endSec": 111.7,
+          "text": "musician"
+        },
+        {
+          "startSec": 111.7,
+          "endSec": 111.8,
+          "text": "to"
+        },
+        {
+          "startSec": 111.8,
+          "endSec": 112,
+          "text": "BBC"
+        },
+        {
+          "startSec": 112,
+          "endSec": 112.6,
+          "text": "learning"
+        },
+        {
+          "startSec": 112.6,
+          "endSec": 113.1,
+          "text": "English"
+        },
+        {
+          "startSec": 113.1,
+          "endSec": 113.8,
+          "text": "programme"
+        },
+        {
+          "startSec": 113.8,
+          "endSec": 114,
+          "text": "'My"
+        },
+        {
+          "startSec": 114,
+          "endSec": 114.4,
+          "text": "Song,"
+        },
+        {
+          "startSec": 114.4,
+          "endSec": 114.5,
+          "text": "My"
+        },
+        {
+          "startSec": 114.5,
+          "endSec": 115.2,
+          "text": "Home'."
+        },
+        {
+          "startSec": 115.2,
+          "endSec": 115.3,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 115.2,
+      "endSec": 124.4,
+      "text": "I would go to the songwriter circles at the Kettle and Wink on like a Friday night after school, where I'd be like the youngest person by like 50 years.",
+      "words": [
+        {
+          "startSec": 115.2,
+          "endSec": 115.3,
+          "text": "I"
+        },
+        {
+          "startSec": 115.3,
+          "endSec": 115.7,
+          "text": "would"
+        },
+        {
+          "startSec": 115.7,
+          "endSec": 115.9,
+          "text": "go"
+        },
+        {
+          "startSec": 115.9,
+          "endSec": 116,
+          "text": "to"
+        },
+        {
+          "startSec": 116,
+          "endSec": 116.3,
+          "text": "the"
+        },
+        {
+          "startSec": 116.3,
+          "endSec": 117.1,
+          "text": "songwriter"
+        },
+        {
+          "startSec": 117.1,
+          "endSec": 117.7,
+          "text": "circles"
+        },
+        {
+          "startSec": 117.7,
+          "endSec": 117.8,
+          "text": "at"
+        },
+        {
+          "startSec": 117.8,
+          "endSec": 118.1,
+          "text": "the"
+        },
+        {
+          "startSec": 118.1,
+          "endSec": 118.5,
+          "text": "Kettle"
+        },
+        {
+          "startSec": 118.5,
+          "endSec": 118.8,
+          "text": "and"
+        },
+        {
+          "startSec": 118.8,
+          "endSec": 119.1,
+          "text": "Wink"
+        },
+        {
+          "startSec": 119.1,
+          "endSec": 119.3,
+          "text": "on"
+        },
+        {
+          "startSec": 119.3,
+          "endSec": 119.6,
+          "text": "like"
+        },
+        {
+          "startSec": 119.6,
+          "endSec": 119.7,
+          "text": "a"
+        },
+        {
+          "startSec": 119.7,
+          "endSec": 120.2,
+          "text": "Friday"
+        },
+        {
+          "startSec": 120.2,
+          "endSec": 120.6,
+          "text": "night"
+        },
+        {
+          "startSec": 120.6,
+          "endSec": 121,
+          "text": "after"
+        },
+        {
+          "startSec": 121,
+          "endSec": 121.8,
+          "text": "school,"
+        },
+        {
+          "startSec": 121.8,
+          "endSec": 122,
+          "text": "where"
+        },
+        {
+          "startSec": 122,
+          "endSec": 122.1,
+          "text": "I'd"
+        },
+        {
+          "startSec": 122.1,
+          "endSec": 122.2,
+          "text": "be"
+        },
+        {
+          "startSec": 122.2,
+          "endSec": 122.4,
+          "text": "like"
+        },
+        {
+          "startSec": 122.4,
+          "endSec": 122.6,
+          "text": "the"
+        },
+        {
+          "startSec": 122.6,
+          "endSec": 123,
+          "text": "youngest"
+        },
+        {
+          "startSec": 123,
+          "endSec": 123.3,
+          "text": "person"
+        },
+        {
+          "startSec": 123.3,
+          "endSec": 123.6,
+          "text": "by"
+        },
+        {
+          "startSec": 123.6,
+          "endSec": 123.7,
+          "text": "like"
+        },
+        {
+          "startSec": 123.7,
+          "endSec": 124.2,
+          "text": "50"
+        },
+        {
+          "startSec": 124.2,
+          "endSec": 124.4,
+          "text": "years."
+        },
+        {
+          "startSec": 124.4,
+          "endSec": 124.7,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 124.4,
+      "endSec": 134,
+      "text": "But I'd sit in a circle of a bunch of old men and they'd play James Taylor and Carol King and the Eagles and lots of 70s music.",
+      "words": [
+        {
+          "startSec": 124.4,
+          "endSec": 124.7,
+          "text": "But"
+        },
+        {
+          "startSec": 124.7,
+          "endSec": 125,
+          "text": "I'd"
+        },
+        {
+          "startSec": 125,
+          "endSec": 125.3,
+          "text": "sit"
+        },
+        {
+          "startSec": 125.3,
+          "endSec": 125.5,
+          "text": "in"
+        },
+        {
+          "startSec": 125.5,
+          "endSec": 125.5,
+          "text": "a"
+        },
+        {
+          "startSec": 125.5,
+          "endSec": 126.1,
+          "text": "circle"
+        },
+        {
+          "startSec": 126.1,
+          "endSec": 126.3,
+          "text": "of"
+        },
+        {
+          "startSec": 126.3,
+          "endSec": 126.4,
+          "text": "a"
+        },
+        {
+          "startSec": 126.4,
+          "endSec": 126.8,
+          "text": "bunch"
+        },
+        {
+          "startSec": 126.8,
+          "endSec": 127,
+          "text": "of"
+        },
+        {
+          "startSec": 127,
+          "endSec": 127.3,
+          "text": "old"
+        },
+        {
+          "startSec": 127.3,
+          "endSec": 127.6,
+          "text": "men"
+        },
+        {
+          "startSec": 127.6,
+          "endSec": 127.9,
+          "text": "and"
+        },
+        {
+          "startSec": 127.9,
+          "endSec": 128.4,
+          "text": "they'd"
+        },
+        {
+          "startSec": 128.4,
+          "endSec": 128.8,
+          "text": "play"
+        },
+        {
+          "startSec": 128.8,
+          "endSec": 129.3,
+          "text": "James"
+        },
+        {
+          "startSec": 129.3,
+          "endSec": 129.8,
+          "text": "Taylor"
+        },
+        {
+          "startSec": 129.8,
+          "endSec": 130.1,
+          "text": "and"
+        },
+        {
+          "startSec": 130.1,
+          "endSec": 130.6,
+          "text": "Carol"
+        },
+        {
+          "startSec": 130.6,
+          "endSec": 131,
+          "text": "King"
+        },
+        {
+          "startSec": 131,
+          "endSec": 131.4,
+          "text": "and"
+        },
+        {
+          "startSec": 131.4,
+          "endSec": 131.4,
+          "text": "the"
+        },
+        {
+          "startSec": 131.4,
+          "endSec": 131.9,
+          "text": "Eagles"
+        },
+        {
+          "startSec": 131.9,
+          "endSec": 132.8,
+          "text": "and"
+        },
+        {
+          "startSec": 132.8,
+          "endSec": 133,
+          "text": "lots"
+        },
+        {
+          "startSec": 133,
+          "endSec": 133.2,
+          "text": "of"
+        },
+        {
+          "startSec": 133.2,
+          "endSec": 133.6,
+          "text": "70s"
+        },
+        {
+          "startSec": 133.6,
+          "endSec": 134,
+          "text": "music."
+        }
+      ]
+    },
+    {
+      "startSec": 134,
+      "endSec": 140.5,
+      "text": "And I guess that's influenced me massively. But I guess, you know, everyone kind of took me under the wing growing up.",
+      "words": [
+        {
+          "startSec": 134.1,
+          "endSec": 134.2,
+          "text": "And"
+        },
+        {
+          "startSec": 134.2,
+          "endSec": 134.3,
+          "text": "I"
+        },
+        {
+          "startSec": 134.3,
+          "endSec": 134.6,
+          "text": "guess"
+        },
+        {
+          "startSec": 134.6,
+          "endSec": 135,
+          "text": "that's"
+        },
+        {
+          "startSec": 135,
+          "endSec": 135.7,
+          "text": "influenced"
+        },
+        {
+          "startSec": 135.7,
+          "endSec": 135.8,
+          "text": "me"
+        },
+        {
+          "startSec": 135.8,
+          "endSec": 136.6,
+          "text": "massively."
+        },
+        {
+          "startSec": 136.6,
+          "endSec": 136.8,
+          "text": "But"
+        },
+        {
+          "startSec": 136.8,
+          "endSec": 136.8,
+          "text": "I"
+        },
+        {
+          "startSec": 136.8,
+          "endSec": 137.1,
+          "text": "guess,"
+        },
+        {
+          "startSec": 137.1,
+          "endSec": 137.3,
+          "text": "you"
+        },
+        {
+          "startSec": 137.3,
+          "endSec": 137.6,
+          "text": "know,"
+        },
+        {
+          "startSec": 137.6,
+          "endSec": 137.9,
+          "text": "everyone"
+        },
+        {
+          "startSec": 137.9,
+          "endSec": 138.1,
+          "text": "kind"
+        },
+        {
+          "startSec": 138.1,
+          "endSec": 138.2,
+          "text": "of"
+        },
+        {
+          "startSec": 138.2,
+          "endSec": 138.5,
+          "text": "took"
+        },
+        {
+          "startSec": 138.5,
+          "endSec": 138.7,
+          "text": "me"
+        },
+        {
+          "startSec": 138.7,
+          "endSec": 139,
+          "text": "under"
+        },
+        {
+          "startSec": 139,
+          "endSec": 139.3,
+          "text": "the"
+        },
+        {
+          "startSec": 139.3,
+          "endSec": 139.6,
+          "text": "wing"
+        },
+        {
+          "startSec": 139.6,
+          "endSec": 140.1,
+          "text": "growing"
+        },
+        {
+          "startSec": 140.1,
+          "endSec": 140.5,
+          "text": "up."
+        },
+        {
+          "startSec": 140.5,
+          "endSec": 140.8,
+          "text": "When"
+        }
+      ]
+    },
+    {
+      "startSec": 140.5,
+      "endSec": 148.5,
+      "text": "When she was younger, Bailey went to songwriter circles. These are meetings for people interested in writing their own music.",
+      "words": [
+        {
+          "startSec": 140.5,
+          "endSec": 140.8,
+          "text": "When"
+        },
+        {
+          "startSec": 140.8,
+          "endSec": 141,
+          "text": "she"
+        },
+        {
+          "startSec": 141,
+          "endSec": 141.2,
+          "text": "was"
+        },
+        {
+          "startSec": 141.2,
+          "endSec": 141.9,
+          "text": "younger,"
+        },
+        {
+          "startSec": 141.9,
+          "endSec": 142.4,
+          "text": "Bailey"
+        },
+        {
+          "startSec": 142.4,
+          "endSec": 142.7,
+          "text": "went"
+        },
+        {
+          "startSec": 142.7,
+          "endSec": 142.8,
+          "text": "to"
+        },
+        {
+          "startSec": 142.8,
+          "endSec": 143.6,
+          "text": "songwriter"
+        },
+        {
+          "startSec": 143.6,
+          "endSec": 144.4,
+          "text": "circles."
+        },
+        {
+          "startSec": 144.4,
+          "endSec": 144.7,
+          "text": "These"
+        },
+        {
+          "startSec": 144.7,
+          "endSec": 144.9,
+          "text": "are"
+        },
+        {
+          "startSec": 144.9,
+          "endSec": 145.5,
+          "text": "meetings"
+        },
+        {
+          "startSec": 145.5,
+          "endSec": 145.7,
+          "text": "for"
+        },
+        {
+          "startSec": 145.7,
+          "endSec": 146.1,
+          "text": "people"
+        },
+        {
+          "startSec": 146.1,
+          "endSec": 146.8,
+          "text": "interested"
+        },
+        {
+          "startSec": 146.8,
+          "endSec": 146.9,
+          "text": "in"
+        },
+        {
+          "startSec": 146.9,
+          "endSec": 147.4,
+          "text": "writing"
+        },
+        {
+          "startSec": 147.4,
+          "endSec": 147.7,
+          "text": "their"
+        },
+        {
+          "startSec": 147.7,
+          "endSec": 147.9,
+          "text": "own"
+        },
+        {
+          "startSec": 147.9,
+          "endSec": 148.5,
+          "text": "music."
+        },
+        {
+          "startSec": 148.5,
+          "endSec": 148.9,
+          "text": "Bailey"
+        }
+      ]
+    },
+    {
+      "startSec": 148.5,
+      "endSec": 155.3,
+      "text": "Bailey remembers sitting with a bunch of old men. A bunch is an informal way to talk about a group of people.",
+      "words": [
+        {
+          "startSec": 148.5,
+          "endSec": 148.9,
+          "text": "Bailey"
+        },
+        {
+          "startSec": 148.9,
+          "endSec": 149.5,
+          "text": "remembers"
+        },
+        {
+          "startSec": 149.5,
+          "endSec": 150,
+          "text": "sitting"
+        },
+        {
+          "startSec": 150,
+          "endSec": 150.3,
+          "text": "with"
+        },
+        {
+          "startSec": 150.3,
+          "endSec": 150.4,
+          "text": "a"
+        },
+        {
+          "startSec": 150.4,
+          "endSec": 150.7,
+          "text": "bunch"
+        },
+        {
+          "startSec": 150.7,
+          "endSec": 150.9,
+          "text": "of"
+        },
+        {
+          "startSec": 150.9,
+          "endSec": 151.1,
+          "text": "old"
+        },
+        {
+          "startSec": 151.1,
+          "endSec": 151.6,
+          "text": "men."
+        },
+        {
+          "startSec": 151.6,
+          "endSec": 151.6,
+          "text": "A"
+        },
+        {
+          "startSec": 151.6,
+          "endSec": 152,
+          "text": "bunch"
+        },
+        {
+          "startSec": 152,
+          "endSec": 152.2,
+          "text": "is"
+        },
+        {
+          "startSec": 152.2,
+          "endSec": 152.3,
+          "text": "an"
+        },
+        {
+          "startSec": 152.3,
+          "endSec": 152.9,
+          "text": "informal"
+        },
+        {
+          "startSec": 152.9,
+          "endSec": 153.1,
+          "text": "way"
+        },
+        {
+          "startSec": 153.1,
+          "endSec": 153.3,
+          "text": "to"
+        },
+        {
+          "startSec": 153.3,
+          "endSec": 153.6,
+          "text": "talk"
+        },
+        {
+          "startSec": 153.6,
+          "endSec": 153.9,
+          "text": "about"
+        },
+        {
+          "startSec": 153.9,
+          "endSec": 154,
+          "text": "a"
+        },
+        {
+          "startSec": 154,
+          "endSec": 154.4,
+          "text": "group"
+        },
+        {
+          "startSec": 154.4,
+          "endSec": 154.5,
+          "text": "of"
+        },
+        {
+          "startSec": 154.5,
+          "endSec": 155.3,
+          "text": "people."
+        }
+      ]
+    },
+    {
+      "startSec": 155.3,
+      "endSec": 167.1,
+      "text": "The older men in the group would play music from the 1970s and Bailey says they took her under their wing. If you take somebody under your wing, you decide to protect them or guide them.",
+      "words": [
+        {
+          "startSec": 155.4,
+          "endSec": 155.6,
+          "text": "The"
+        },
+        {
+          "startSec": 155.6,
+          "endSec": 156.1,
+          "text": "older"
+        },
+        {
+          "startSec": 156.1,
+          "endSec": 156.4,
+          "text": "men"
+        },
+        {
+          "startSec": 156.4,
+          "endSec": 156.6,
+          "text": "in"
+        },
+        {
+          "startSec": 156.6,
+          "endSec": 156.9,
+          "text": "the"
+        },
+        {
+          "startSec": 156.9,
+          "endSec": 157.5,
+          "text": "group"
+        },
+        {
+          "startSec": 157.5,
+          "endSec": 158,
+          "text": "would"
+        },
+        {
+          "startSec": 158,
+          "endSec": 158.4,
+          "text": "play"
+        },
+        {
+          "startSec": 158.4,
+          "endSec": 158.9,
+          "text": "music"
+        },
+        {
+          "startSec": 158.9,
+          "endSec": 159.3,
+          "text": "from"
+        },
+        {
+          "startSec": 159.3,
+          "endSec": 159.6,
+          "text": "the"
+        },
+        {
+          "startSec": 159.6,
+          "endSec": 161,
+          "text": "1970s"
+        },
+        {
+          "startSec": 161,
+          "endSec": 161.3,
+          "text": "and"
+        },
+        {
+          "startSec": 161.3,
+          "endSec": 161.9,
+          "text": "Bailey"
+        },
+        {
+          "startSec": 161.9,
+          "endSec": 162.3,
+          "text": "says"
+        },
+        {
+          "startSec": 162.3,
+          "endSec": 162.8,
+          "text": "they"
+        },
+        {
+          "startSec": 162.8,
+          "endSec": 163.1,
+          "text": "took"
+        },
+        {
+          "startSec": 163.1,
+          "endSec": 163.4,
+          "text": "her"
+        },
+        {
+          "startSec": 163.4,
+          "endSec": 164,
+          "text": "under"
+        },
+        {
+          "startSec": 164,
+          "endSec": 164.5,
+          "text": "their"
+        },
+        {
+          "startSec": 164.5,
+          "endSec": 165.3,
+          "text": "wing."
+        },
+        {
+          "startSec": 165.3,
+          "endSec": 165.3,
+          "text": "If"
+        },
+        {
+          "startSec": 165.3,
+          "endSec": 165.4,
+          "text": "you"
+        },
+        {
+          "startSec": 165.4,
+          "endSec": 165.5,
+          "text": "take"
+        },
+        {
+          "startSec": 165.5,
+          "endSec": 165.7,
+          "text": "somebody"
+        },
+        {
+          "startSec": 165.7,
+          "endSec": 165.9,
+          "text": "under"
+        },
+        {
+          "startSec": 165.9,
+          "endSec": 166,
+          "text": "your"
+        },
+        {
+          "startSec": 166,
+          "endSec": 166.1,
+          "text": "wing,"
+        },
+        {
+          "startSec": 166.1,
+          "endSec": 166.2,
+          "text": "you"
+        },
+        {
+          "startSec": 166.2,
+          "endSec": 166.3,
+          "text": "decide"
+        },
+        {
+          "startSec": 166.3,
+          "endSec": 166.4,
+          "text": "to"
+        },
+        {
+          "startSec": 166.4,
+          "endSec": 166.6,
+          "text": "protect"
+        },
+        {
+          "startSec": 166.6,
+          "endSec": 166.7,
+          "text": "them"
+        },
+        {
+          "startSec": 166.7,
+          "endSec": 166.9,
+          "text": "or"
+        },
+        {
+          "startSec": 166.9,
+          "endSec": 166.9,
+          "text": "guide"
+        },
+        {
+          "startSec": 166.9,
+          "endSec": 167.1,
+          "text": "them."
+        },
+        {
+          "startSec": 167.1,
+          "endSec": 167.6,
+          "text": "Let's"
+        }
+      ]
+    },
+    {
+      "startSec": 167.1,
+      "endSec": 170.6,
+      "text": "Let's meet another musician, Josh.",
+      "words": [
+        {
+          "startSec": 167.1,
+          "endSec": 167.6,
+          "text": "Let's"
+        },
+        {
+          "startSec": 167.6,
+          "endSec": 168,
+          "text": "meet"
+        },
+        {
+          "startSec": 168,
+          "endSec": 168.8,
+          "text": "another"
+        },
+        {
+          "startSec": 168.8,
+          "endSec": 169.8,
+          "text": "musician,"
+        },
+        {
+          "startSec": 169.8,
+          "endSec": 170.6,
+          "text": "Josh."
+        },
+        {
+          "startSec": 170.6,
+          "endSec": 170.8,
+          "text": "So"
+        }
+      ]
+    },
+    {
+      "startSec": 170.6,
+      "endSec": 180.1,
+      "text": "So I learnt my first proper song on guitar when I was about 13. I literally started busking the moment I could kind of do that.",
+      "words": [
+        {
+          "startSec": 170.6,
+          "endSec": 170.8,
+          "text": "So"
+        },
+        {
+          "startSec": 170.8,
+          "endSec": 170.9,
+          "text": "I"
+        },
+        {
+          "startSec": 170.9,
+          "endSec": 171.5,
+          "text": "learnt"
+        },
+        {
+          "startSec": 171.5,
+          "endSec": 171.7,
+          "text": "my"
+        },
+        {
+          "startSec": 171.7,
+          "endSec": 172.2,
+          "text": "first"
+        },
+        {
+          "startSec": 172.2,
+          "endSec": 172.9,
+          "text": "proper"
+        },
+        {
+          "startSec": 172.9,
+          "endSec": 173.3,
+          "text": "song"
+        },
+        {
+          "startSec": 173.3,
+          "endSec": 173.5,
+          "text": "on"
+        },
+        {
+          "startSec": 173.5,
+          "endSec": 174.1,
+          "text": "guitar"
+        },
+        {
+          "startSec": 174.1,
+          "endSec": 174.5,
+          "text": "when"
+        },
+        {
+          "startSec": 174.5,
+          "endSec": 174.6,
+          "text": "I"
+        },
+        {
+          "startSec": 174.6,
+          "endSec": 174.9,
+          "text": "was"
+        },
+        {
+          "startSec": 174.9,
+          "endSec": 175.5,
+          "text": "about"
+        },
+        {
+          "startSec": 175.5,
+          "endSec": 176.5,
+          "text": "13."
+        },
+        {
+          "startSec": 176.5,
+          "endSec": 176.5,
+          "text": "I"
+        },
+        {
+          "startSec": 176.5,
+          "endSec": 177.2,
+          "text": "literally"
+        },
+        {
+          "startSec": 177.2,
+          "endSec": 177.6,
+          "text": "started"
+        },
+        {
+          "startSec": 177.6,
+          "endSec": 178.1,
+          "text": "busking"
+        },
+        {
+          "startSec": 178.1,
+          "endSec": 178.3,
+          "text": "the"
+        },
+        {
+          "startSec": 178.3,
+          "endSec": 178.7,
+          "text": "moment"
+        },
+        {
+          "startSec": 178.7,
+          "endSec": 178.7,
+          "text": "I"
+        },
+        {
+          "startSec": 178.7,
+          "endSec": 179,
+          "text": "could"
+        },
+        {
+          "startSec": 179,
+          "endSec": 179.3,
+          "text": "kind"
+        },
+        {
+          "startSec": 179.3,
+          "endSec": 179.5,
+          "text": "of"
+        },
+        {
+          "startSec": 179.5,
+          "endSec": 179.6,
+          "text": "do"
+        },
+        {
+          "startSec": 179.6,
+          "endSec": 180.1,
+          "text": "that."
+        }
+      ]
+    },
+    {
+      "startSec": 180.1,
+      "endSec": 187,
+      "text": "Josh lives in London and is a busker. This means that he performs on the street or in public places to earn money.",
+      "words": [
+        {
+          "startSec": 180.2,
+          "endSec": 180.4,
+          "text": "Josh"
+        },
+        {
+          "startSec": 180.4,
+          "endSec": 180.7,
+          "text": "lives"
+        },
+        {
+          "startSec": 180.7,
+          "endSec": 180.9,
+          "text": "in"
+        },
+        {
+          "startSec": 180.9,
+          "endSec": 181.3,
+          "text": "London"
+        },
+        {
+          "startSec": 181.3,
+          "endSec": 181.5,
+          "text": "and"
+        },
+        {
+          "startSec": 181.5,
+          "endSec": 181.6,
+          "text": "is"
+        },
+        {
+          "startSec": 181.6,
+          "endSec": 181.7,
+          "text": "a"
+        },
+        {
+          "startSec": 181.7,
+          "endSec": 182.3,
+          "text": "busker."
+        },
+        {
+          "startSec": 182.3,
+          "endSec": 182.6,
+          "text": "This"
+        },
+        {
+          "startSec": 182.6,
+          "endSec": 183,
+          "text": "means"
+        },
+        {
+          "startSec": 183,
+          "endSec": 183.2,
+          "text": "that"
+        },
+        {
+          "startSec": 183.2,
+          "endSec": 183.4,
+          "text": "he"
+        },
+        {
+          "startSec": 183.4,
+          "endSec": 183.9,
+          "text": "performs"
+        },
+        {
+          "startSec": 183.9,
+          "endSec": 184.1,
+          "text": "on"
+        },
+        {
+          "startSec": 184.1,
+          "endSec": 184.3,
+          "text": "the"
+        },
+        {
+          "startSec": 184.3,
+          "endSec": 184.7,
+          "text": "street"
+        },
+        {
+          "startSec": 184.7,
+          "endSec": 184.9,
+          "text": "or"
+        },
+        {
+          "startSec": 184.9,
+          "endSec": 185,
+          "text": "in"
+        },
+        {
+          "startSec": 185,
+          "endSec": 185.4,
+          "text": "public"
+        },
+        {
+          "startSec": 185.4,
+          "endSec": 185.8,
+          "text": "places"
+        },
+        {
+          "startSec": 185.8,
+          "endSec": 186,
+          "text": "to"
+        },
+        {
+          "startSec": 186,
+          "endSec": 186.3,
+          "text": "earn"
+        },
+        {
+          "startSec": 186.3,
+          "endSec": 187,
+          "text": "money."
+        },
+        {
+          "startSec": 187,
+          "endSec": 187.5,
+          "text": "Busking"
+        }
+      ]
+    },
+    {
+      "startSec": 187,
+      "endSec": 191.7,
+      "text": "Busking is a common way for musicians to make money and perform to more people.",
+      "words": [
+        {
+          "startSec": 187,
+          "endSec": 187.5,
+          "text": "Busking"
+        },
+        {
+          "startSec": 187.5,
+          "endSec": 187.6,
+          "text": "is"
+        },
+        {
+          "startSec": 187.6,
+          "endSec": 187.7,
+          "text": "a"
+        },
+        {
+          "startSec": 187.7,
+          "endSec": 188.1,
+          "text": "common"
+        },
+        {
+          "startSec": 188.1,
+          "endSec": 188.3,
+          "text": "way"
+        },
+        {
+          "startSec": 188.3,
+          "endSec": 188.6,
+          "text": "for"
+        },
+        {
+          "startSec": 188.6,
+          "endSec": 189.2,
+          "text": "musicians"
+        },
+        {
+          "startSec": 189.2,
+          "endSec": 189.4,
+          "text": "to"
+        },
+        {
+          "startSec": 189.4,
+          "endSec": 189.7,
+          "text": "make"
+        },
+        {
+          "startSec": 189.7,
+          "endSec": 190,
+          "text": "money"
+        },
+        {
+          "startSec": 190,
+          "endSec": 190.2,
+          "text": "and"
+        },
+        {
+          "startSec": 190.2,
+          "endSec": 190.7,
+          "text": "perform"
+        },
+        {
+          "startSec": 190.7,
+          "endSec": 190.9,
+          "text": "to"
+        },
+        {
+          "startSec": 190.9,
+          "endSec": 191.2,
+          "text": "more"
+        },
+        {
+          "startSec": 191.2,
+          "endSec": 191.7,
+          "text": "people."
+        },
+        {
+          "startSec": 191.7,
+          "endSec": 191.9,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 191.7,
+      "endSec": 199.6,
+      "text": "And as Josh told BBC Learning English programme My Song, My Home, it can help musicians to get new opportunities.",
+      "words": [
+        {
+          "startSec": 191.7,
+          "endSec": 191.9,
+          "text": "And"
+        },
+        {
+          "startSec": 191.9,
+          "endSec": 192.1,
+          "text": "as"
+        },
+        {
+          "startSec": 192.1,
+          "endSec": 192.4,
+          "text": "Josh"
+        },
+        {
+          "startSec": 192.4,
+          "endSec": 192.7,
+          "text": "told"
+        },
+        {
+          "startSec": 192.7,
+          "endSec": 192.9,
+          "text": "BBC"
+        },
+        {
+          "startSec": 192.9,
+          "endSec": 193.5,
+          "text": "Learning"
+        },
+        {
+          "startSec": 193.5,
+          "endSec": 194,
+          "text": "English"
+        },
+        {
+          "startSec": 194,
+          "endSec": 194.7,
+          "text": "programme"
+        },
+        {
+          "startSec": 194.7,
+          "endSec": 194.9,
+          "text": "My"
+        },
+        {
+          "startSec": 194.9,
+          "endSec": 195.3,
+          "text": "Song,"
+        },
+        {
+          "startSec": 195.3,
+          "endSec": 195.5,
+          "text": "My"
+        },
+        {
+          "startSec": 195.5,
+          "endSec": 196,
+          "text": "Home,"
+        },
+        {
+          "startSec": 196,
+          "endSec": 196.2,
+          "text": "it"
+        },
+        {
+          "startSec": 196.2,
+          "endSec": 196.4,
+          "text": "can"
+        },
+        {
+          "startSec": 196.4,
+          "endSec": 196.8,
+          "text": "help"
+        },
+        {
+          "startSec": 196.8,
+          "endSec": 197.5,
+          "text": "musicians"
+        },
+        {
+          "startSec": 197.5,
+          "endSec": 197.7,
+          "text": "to"
+        },
+        {
+          "startSec": 197.7,
+          "endSec": 198,
+          "text": "get"
+        },
+        {
+          "startSec": 198,
+          "endSec": 198.3,
+          "text": "new"
+        },
+        {
+          "startSec": 198.3,
+          "endSec": 199.6,
+          "text": "opportunities."
+        }
+      ]
+    },
+    {
+      "startSec": 199.6,
+      "endSec": 213.8,
+      "text": "It's been kind of like my main earner just kept me going for the last 10 or so years. From that, it's then got me various different opportunities. It's got me all my gigs, got me all my connections, so I owe a lot to busking.",
+      "words": [
+        {
+          "startSec": 199.7,
+          "endSec": 200.3,
+          "text": "It's"
+        },
+        {
+          "startSec": 200.3,
+          "endSec": 201,
+          "text": "been"
+        },
+        {
+          "startSec": 201,
+          "endSec": 201.7,
+          "text": "kind"
+        },
+        {
+          "startSec": 201.7,
+          "endSec": 202,
+          "text": "of"
+        },
+        {
+          "startSec": 202,
+          "endSec": 202.7,
+          "text": "like"
+        },
+        {
+          "startSec": 202.7,
+          "endSec": 203,
+          "text": "my"
+        },
+        {
+          "startSec": 203,
+          "endSec": 203.7,
+          "text": "main"
+        },
+        {
+          "startSec": 203.7,
+          "endSec": 204.7,
+          "text": "earner"
+        },
+        {
+          "startSec": 204.7,
+          "endSec": 205.4,
+          "text": "just"
+        },
+        {
+          "startSec": 205.4,
+          "endSec": 206.1,
+          "text": "kept"
+        },
+        {
+          "startSec": 206.1,
+          "endSec": 206.5,
+          "text": "me"
+        },
+        {
+          "startSec": 206.5,
+          "endSec": 207.3,
+          "text": "going"
+        },
+        {
+          "startSec": 207.3,
+          "endSec": 208,
+          "text": "for"
+        },
+        {
+          "startSec": 208,
+          "endSec": 208.3,
+          "text": "the"
+        },
+        {
+          "startSec": 208.3,
+          "endSec": 209,
+          "text": "last"
+        },
+        {
+          "startSec": 209,
+          "endSec": 210.1,
+          "text": "10"
+        },
+        {
+          "startSec": 210.1,
+          "endSec": 210.4,
+          "text": "or"
+        },
+        {
+          "startSec": 210.4,
+          "endSec": 210.7,
+          "text": "so"
+        },
+        {
+          "startSec": 210.7,
+          "endSec": 212.2,
+          "text": "years."
+        },
+        {
+          "startSec": 212.2,
+          "endSec": 212.3,
+          "text": "From"
+        },
+        {
+          "startSec": 212.3,
+          "endSec": 212.4,
+          "text": "that,"
+        },
+        {
+          "startSec": 212.4,
+          "endSec": 212.5,
+          "text": "it's"
+        },
+        {
+          "startSec": 212.5,
+          "endSec": 212.5,
+          "text": "then"
+        },
+        {
+          "startSec": 212.5,
+          "endSec": 212.5,
+          "text": "got"
+        },
+        {
+          "startSec": 212.5,
+          "endSec": 212.5,
+          "text": "me"
+        },
+        {
+          "startSec": 212.5,
+          "endSec": 212.6,
+          "text": "various"
+        },
+        {
+          "startSec": 212.6,
+          "endSec": 212.7,
+          "text": "different"
+        },
+        {
+          "startSec": 212.7,
+          "endSec": 212.9,
+          "text": "opportunities."
+        },
+        {
+          "startSec": 212.9,
+          "endSec": 213,
+          "text": "It's"
+        },
+        {
+          "startSec": 213,
+          "endSec": 213,
+          "text": "got"
+        },
+        {
+          "startSec": 213,
+          "endSec": 213,
+          "text": "me"
+        },
+        {
+          "startSec": 213,
+          "endSec": 213,
+          "text": "all"
+        },
+        {
+          "startSec": 213,
+          "endSec": 213,
+          "text": "my"
+        },
+        {
+          "startSec": 213,
+          "endSec": 213.1,
+          "text": "gigs,"
+        },
+        {
+          "startSec": 213.1,
+          "endSec": 213.1,
+          "text": "got"
+        },
+        {
+          "startSec": 213.1,
+          "endSec": 213.1,
+          "text": "me"
+        },
+        {
+          "startSec": 213.1,
+          "endSec": 213.2,
+          "text": "all"
+        },
+        {
+          "startSec": 213.2,
+          "endSec": 213.2,
+          "text": "my"
+        },
+        {
+          "startSec": 213.2,
+          "endSec": 213.4,
+          "text": "connections,"
+        },
+        {
+          "startSec": 213.4,
+          "endSec": 213.4,
+          "text": "so"
+        },
+        {
+          "startSec": 213.4,
+          "endSec": 213.4,
+          "text": "I"
+        },
+        {
+          "startSec": 213.4,
+          "endSec": 213.4,
+          "text": "owe"
+        },
+        {
+          "startSec": 213.4,
+          "endSec": 213.4,
+          "text": "a"
+        },
+        {
+          "startSec": 213.4,
+          "endSec": 213.4,
+          "text": "lot"
+        },
+        {
+          "startSec": 213.4,
+          "endSec": 213.5,
+          "text": "to"
+        },
+        {
+          "startSec": 213.5,
+          "endSec": 213.8,
+          "text": "busking."
+        },
+        {
+          "startSec": 213.8,
+          "endSec": 214.3,
+          "text": "Busking"
+        }
+      ]
+    },
+    {
+      "startSec": 213.8,
+      "endSec": 218.3,
+      "text": "Busking is Josh's main earner. It's his main source of money.",
+      "words": [
+        {
+          "startSec": 213.8,
+          "endSec": 214.3,
+          "text": "Busking"
+        },
+        {
+          "startSec": 214.3,
+          "endSec": 214.5,
+          "text": "is"
+        },
+        {
+          "startSec": 214.5,
+          "endSec": 215,
+          "text": "Josh's"
+        },
+        {
+          "startSec": 215,
+          "endSec": 215.3,
+          "text": "main"
+        },
+        {
+          "startSec": 215.3,
+          "endSec": 216,
+          "text": "earner."
+        },
+        {
+          "startSec": 216,
+          "endSec": 216.4,
+          "text": "It's"
+        },
+        {
+          "startSec": 216.4,
+          "endSec": 216.6,
+          "text": "his"
+        },
+        {
+          "startSec": 216.6,
+          "endSec": 216.9,
+          "text": "main"
+        },
+        {
+          "startSec": 216.9,
+          "endSec": 217.4,
+          "text": "source"
+        },
+        {
+          "startSec": 217.4,
+          "endSec": 217.6,
+          "text": "of"
+        },
+        {
+          "startSec": 217.6,
+          "endSec": 218.3,
+          "text": "money."
+        },
+        {
+          "startSec": 218.3,
+          "endSec": 218.5,
+          "text": "He"
+        }
+      ]
+    },
+    {
+      "startSec": 218.3,
+      "endSec": 227,
+      "text": "He says that busking has got him all his gigs and connections. Gigs are musical concerts and it's an informal slang word.",
+      "words": [
+        {
+          "startSec": 218.3,
+          "endSec": 218.5,
+          "text": "He"
+        },
+        {
+          "startSec": 218.5,
+          "endSec": 218.8,
+          "text": "says"
+        },
+        {
+          "startSec": 218.8,
+          "endSec": 219.1,
+          "text": "that"
+        },
+        {
+          "startSec": 219.1,
+          "endSec": 219.7,
+          "text": "busking"
+        },
+        {
+          "startSec": 219.7,
+          "endSec": 220,
+          "text": "has"
+        },
+        {
+          "startSec": 220,
+          "endSec": 220.2,
+          "text": "got"
+        },
+        {
+          "startSec": 220.2,
+          "endSec": 220.5,
+          "text": "him"
+        },
+        {
+          "startSec": 220.5,
+          "endSec": 220.7,
+          "text": "all"
+        },
+        {
+          "startSec": 220.7,
+          "endSec": 220.9,
+          "text": "his"
+        },
+        {
+          "startSec": 220.9,
+          "endSec": 221.2,
+          "text": "gigs"
+        },
+        {
+          "startSec": 221.2,
+          "endSec": 221.5,
+          "text": "and"
+        },
+        {
+          "startSec": 221.5,
+          "endSec": 222.7,
+          "text": "connections."
+        },
+        {
+          "startSec": 222.7,
+          "endSec": 223.1,
+          "text": "Gigs"
+        },
+        {
+          "startSec": 223.1,
+          "endSec": 223.4,
+          "text": "are"
+        },
+        {
+          "startSec": 223.4,
+          "endSec": 224,
+          "text": "musical"
+        },
+        {
+          "startSec": 224,
+          "endSec": 224.7,
+          "text": "concerts"
+        },
+        {
+          "startSec": 224.7,
+          "endSec": 225,
+          "text": "and"
+        },
+        {
+          "startSec": 225,
+          "endSec": 225.3,
+          "text": "it's"
+        },
+        {
+          "startSec": 225.3,
+          "endSec": 225.4,
+          "text": "an"
+        },
+        {
+          "startSec": 225.4,
+          "endSec": 226.1,
+          "text": "informal"
+        },
+        {
+          "startSec": 226.1,
+          "endSec": 226.5,
+          "text": "slang"
+        },
+        {
+          "startSec": 226.5,
+          "endSec": 227,
+          "text": "word."
+        }
+      ]
+    },
+    {
+      "startSec": 227,
+      "endSec": 236.6,
+      "text": "Josh says he owes a lot to busking. If you owe a lot to someone or something, you have success or happiness because of that personal thing.",
+      "words": [
+        {
+          "startSec": 227.1,
+          "endSec": 227.4,
+          "text": "Josh"
+        },
+        {
+          "startSec": 227.4,
+          "endSec": 227.8,
+          "text": "says"
+        },
+        {
+          "startSec": 227.8,
+          "endSec": 227.9,
+          "text": "he"
+        },
+        {
+          "startSec": 227.9,
+          "endSec": 228.3,
+          "text": "owes"
+        },
+        {
+          "startSec": 228.3,
+          "endSec": 228.4,
+          "text": "a"
+        },
+        {
+          "startSec": 228.4,
+          "endSec": 228.7,
+          "text": "lot"
+        },
+        {
+          "startSec": 228.7,
+          "endSec": 228.8,
+          "text": "to"
+        },
+        {
+          "startSec": 228.8,
+          "endSec": 229.8,
+          "text": "busking."
+        },
+        {
+          "startSec": 229.8,
+          "endSec": 229.9,
+          "text": "If"
+        },
+        {
+          "startSec": 229.9,
+          "endSec": 230.2,
+          "text": "you"
+        },
+        {
+          "startSec": 230.2,
+          "endSec": 230.4,
+          "text": "owe"
+        },
+        {
+          "startSec": 230.4,
+          "endSec": 230.5,
+          "text": "a"
+        },
+        {
+          "startSec": 230.5,
+          "endSec": 230.7,
+          "text": "lot"
+        },
+        {
+          "startSec": 230.7,
+          "endSec": 230.9,
+          "text": "to"
+        },
+        {
+          "startSec": 230.9,
+          "endSec": 231.4,
+          "text": "someone"
+        },
+        {
+          "startSec": 231.4,
+          "endSec": 231.6,
+          "text": "or"
+        },
+        {
+          "startSec": 231.6,
+          "endSec": 232.4,
+          "text": "something,"
+        },
+        {
+          "startSec": 232.4,
+          "endSec": 232.6,
+          "text": "you"
+        },
+        {
+          "startSec": 232.6,
+          "endSec": 232.8,
+          "text": "have"
+        },
+        {
+          "startSec": 232.8,
+          "endSec": 233.4,
+          "text": "success"
+        },
+        {
+          "startSec": 233.4,
+          "endSec": 233.6,
+          "text": "or"
+        },
+        {
+          "startSec": 233.6,
+          "endSec": 234.2,
+          "text": "happiness"
+        },
+        {
+          "startSec": 234.2,
+          "endSec": 234.8,
+          "text": "because"
+        },
+        {
+          "startSec": 234.8,
+          "endSec": 234.9,
+          "text": "of"
+        },
+        {
+          "startSec": 234.9,
+          "endSec": 235.4,
+          "text": "that"
+        },
+        {
+          "startSec": 235.4,
+          "endSec": 236,
+          "text": "personal"
+        },
+        {
+          "startSec": 236,
+          "endSec": 236.6,
+          "text": "thing."
+        },
+        {
+          "startSec": 236.6,
+          "endSec": 236.8,
+          "text": "So,"
+        }
+      ]
+    },
+    {
+      "startSec": 236.6,
+      "endSec": 239.9,
+      "text": "So, would you like to listen to some of Josh's music, Neil?",
+      "words": [
+        {
+          "startSec": 236.6,
+          "endSec": 236.8,
+          "text": "So,"
+        },
+        {
+          "startSec": 236.8,
+          "endSec": 237.1,
+          "text": "would"
+        },
+        {
+          "startSec": 237.1,
+          "endSec": 237.3,
+          "text": "you"
+        },
+        {
+          "startSec": 237.3,
+          "endSec": 237.6,
+          "text": "like"
+        },
+        {
+          "startSec": 237.6,
+          "endSec": 237.7,
+          "text": "to"
+        },
+        {
+          "startSec": 237.7,
+          "endSec": 238.1,
+          "text": "listen"
+        },
+        {
+          "startSec": 238.1,
+          "endSec": 238.2,
+          "text": "to"
+        },
+        {
+          "startSec": 238.2,
+          "endSec": 238.4,
+          "text": "some"
+        },
+        {
+          "startSec": 238.4,
+          "endSec": 238.6,
+          "text": "of"
+        },
+        {
+          "startSec": 238.6,
+          "endSec": 238.9,
+          "text": "Josh's"
+        },
+        {
+          "startSec": 238.9,
+          "endSec": 239.4,
+          "text": "music,"
+        },
+        {
+          "startSec": 239.4,
+          "endSec": 239.9,
+          "text": "Neil?"
+        },
+        {
+          "startSec": 239.9,
+          "endSec": 240.1,
+          "text": "Of"
+        }
+      ]
+    },
+    {
+      "startSec": 239.9,
+      "endSec": 241,
+      "text": "Of course I would.",
+      "words": [
+        {
+          "startSec": 239.9,
+          "endSec": 240.1,
+          "text": "Of"
+        },
+        {
+          "startSec": 240.1,
+          "endSec": 240.4,
+          "text": "course"
+        },
+        {
+          "startSec": 240.4,
+          "endSec": 240.5,
+          "text": "I"
+        },
+        {
+          "startSec": 240.5,
+          "endSec": 241,
+          "text": "would."
+        },
+        {
+          "startSec": 241,
+          "endSec": 241.5,
+          "text": "Well,"
+        }
+      ]
+    },
+    {
+      "startSec": 241,
+      "endSec": 248.7,
+      "text": "Well, here's a bit of his song That Side of the Wall, which he performed for BBC Learning English programme My Song, My Home.",
+      "words": [
+        {
+          "startSec": 241,
+          "endSec": 241.5,
+          "text": "Well,"
+        },
+        {
+          "startSec": 241.5,
+          "endSec": 241.9,
+          "text": "here's"
+        },
+        {
+          "startSec": 241.9,
+          "endSec": 242,
+          "text": "a"
+        },
+        {
+          "startSec": 242,
+          "endSec": 242.2,
+          "text": "bit"
+        },
+        {
+          "startSec": 242.2,
+          "endSec": 242.4,
+          "text": "of"
+        },
+        {
+          "startSec": 242.4,
+          "endSec": 242.6,
+          "text": "his"
+        },
+        {
+          "startSec": 242.6,
+          "endSec": 242.9,
+          "text": "song"
+        },
+        {
+          "startSec": 242.9,
+          "endSec": 243.2,
+          "text": "That"
+        },
+        {
+          "startSec": 243.2,
+          "endSec": 243.5,
+          "text": "Side"
+        },
+        {
+          "startSec": 243.5,
+          "endSec": 243.7,
+          "text": "of"
+        },
+        {
+          "startSec": 243.7,
+          "endSec": 243.9,
+          "text": "the"
+        },
+        {
+          "startSec": 243.9,
+          "endSec": 244.4,
+          "text": "Wall,"
+        },
+        {
+          "startSec": 244.4,
+          "endSec": 244.7,
+          "text": "which"
+        },
+        {
+          "startSec": 244.7,
+          "endSec": 244.9,
+          "text": "he"
+        },
+        {
+          "startSec": 244.9,
+          "endSec": 245.5,
+          "text": "performed"
+        },
+        {
+          "startSec": 245.5,
+          "endSec": 245.7,
+          "text": "for"
+        },
+        {
+          "startSec": 245.7,
+          "endSec": 245.9,
+          "text": "BBC"
+        },
+        {
+          "startSec": 245.9,
+          "endSec": 246.5,
+          "text": "Learning"
+        },
+        {
+          "startSec": 246.5,
+          "endSec": 247,
+          "text": "English"
+        },
+        {
+          "startSec": 247,
+          "endSec": 247.7,
+          "text": "programme"
+        },
+        {
+          "startSec": 247.7,
+          "endSec": 247.8,
+          "text": "My"
+        },
+        {
+          "startSec": 247.8,
+          "endSec": 248.2,
+          "text": "Song,"
+        },
+        {
+          "startSec": 248.2,
+          "endSec": 248.4,
+          "text": "My"
+        },
+        {
+          "startSec": 248.4,
+          "endSec": 248.7,
+          "text": "Home."
+        }
+      ]
+    },
+    {
+      "startSec": 248.7,
+      "endSec": 264.6,
+      "text": "Can you live me something? Can you live it by the door? So I know there's some third of songs that side of the wall.",
+      "words": [
+        {
+          "startSec": 248.9,
+          "endSec": 249.9,
+          "text": "Can"
+        },
+        {
+          "startSec": 249.9,
+          "endSec": 251.2,
+          "text": "you"
+        },
+        {
+          "startSec": 251.2,
+          "endSec": 252.8,
+          "text": "live"
+        },
+        {
+          "startSec": 252.8,
+          "endSec": 253.5,
+          "text": "me"
+        },
+        {
+          "startSec": 253.5,
+          "endSec": 258.4,
+          "text": "something?"
+        },
+        {
+          "startSec": 258.4,
+          "endSec": 258.7,
+          "text": "Can"
+        },
+        {
+          "startSec": 258.7,
+          "endSec": 258.8,
+          "text": "you"
+        },
+        {
+          "startSec": 258.8,
+          "endSec": 259.1,
+          "text": "live"
+        },
+        {
+          "startSec": 259.1,
+          "endSec": 259.2,
+          "text": "it"
+        },
+        {
+          "startSec": 259.2,
+          "endSec": 259.4,
+          "text": "by"
+        },
+        {
+          "startSec": 259.4,
+          "endSec": 259.5,
+          "text": "the"
+        },
+        {
+          "startSec": 259.5,
+          "endSec": 259.9,
+          "text": "door?"
+        },
+        {
+          "startSec": 259.9,
+          "endSec": 260,
+          "text": "So"
+        },
+        {
+          "startSec": 260,
+          "endSec": 260.1,
+          "text": "I"
+        },
+        {
+          "startSec": 260.1,
+          "endSec": 260.6,
+          "text": "know"
+        },
+        {
+          "startSec": 260.6,
+          "endSec": 260.8,
+          "text": "there's"
+        },
+        {
+          "startSec": 260.8,
+          "endSec": 261,
+          "text": "some"
+        },
+        {
+          "startSec": 261,
+          "endSec": 261.3,
+          "text": "third"
+        },
+        {
+          "startSec": 261.3,
+          "endSec": 261.4,
+          "text": "of"
+        },
+        {
+          "startSec": 261.4,
+          "endSec": 261.8,
+          "text": "songs"
+        },
+        {
+          "startSec": 261.8,
+          "endSec": 262.2,
+          "text": "that"
+        },
+        {
+          "startSec": 262.2,
+          "endSec": 262.9,
+          "text": "side"
+        },
+        {
+          "startSec": 262.9,
+          "endSec": 263.3,
+          "text": "of"
+        },
+        {
+          "startSec": 263.3,
+          "endSec": 263.9,
+          "text": "the"
+        },
+        {
+          "startSec": 263.9,
+          "endSec": 264.6,
+          "text": "wall."
+        }
+      ]
+    },
+    {
+      "startSec": 264.6,
+      "endSec": 280.3,
+      "text": "Stop it from coming, 'cause I always like them. And it's up below getting someone. And that's out of the wall.",
+      "words": [
+        {
+          "startSec": 264.7,
+          "endSec": 265.5,
+          "text": "Stop"
+        },
+        {
+          "startSec": 265.5,
+          "endSec": 265.9,
+          "text": "it"
+        },
+        {
+          "startSec": 265.9,
+          "endSec": 266.8,
+          "text": "from"
+        },
+        {
+          "startSec": 266.8,
+          "endSec": 268.5,
+          "text": "coming,"
+        },
+        {
+          "startSec": 268.5,
+          "endSec": 269.7,
+          "text": "'cause"
+        },
+        {
+          "startSec": 269.7,
+          "endSec": 269.9,
+          "text": "I"
+        },
+        {
+          "startSec": 269.9,
+          "endSec": 271.2,
+          "text": "always"
+        },
+        {
+          "startSec": 271.2,
+          "endSec": 272.1,
+          "text": "like"
+        },
+        {
+          "startSec": 272.1,
+          "endSec": 273.6,
+          "text": "them."
+        },
+        {
+          "startSec": 273.6,
+          "endSec": 274.2,
+          "text": "And"
+        },
+        {
+          "startSec": 274.2,
+          "endSec": 275,
+          "text": "it's"
+        },
+        {
+          "startSec": 275,
+          "endSec": 275.5,
+          "text": "up"
+        },
+        {
+          "startSec": 275.5,
+          "endSec": 276.6,
+          "text": "below"
+        },
+        {
+          "startSec": 276.6,
+          "endSec": 278,
+          "text": "getting"
+        },
+        {
+          "startSec": 278,
+          "endSec": 280.2,
+          "text": "someone."
+        },
+        {
+          "startSec": 280.2,
+          "endSec": 280.3,
+          "text": "And"
+        },
+        {
+          "startSec": 280.3,
+          "endSec": 280.3,
+          "text": "that's"
+        },
+        {
+          "startSec": 280.3,
+          "endSec": 280.3,
+          "text": "out"
+        },
+        {
+          "startSec": 280.3,
+          "endSec": 280.3,
+          "text": "of"
+        },
+        {
+          "startSec": 280.3,
+          "endSec": 280.3,
+          "text": "the"
+        },
+        {
+          "startSec": 280.3,
+          "endSec": 280.3,
+          "text": "wall."
+        },
+        {
+          "startSec": 280.3,
+          "endSec": 280.6,
+          "text": "Wow,"
+        }
+      ]
+    },
+    {
+      "startSec": 280.3,
+      "endSec": 283.4,
+      "text": "Wow, Josh is pretty good, isn't he? I'd love to hear more.",
+      "words": [
+        {
+          "startSec": 280.3,
+          "endSec": 280.3,
+          "text": "that's"
+        },
+        {
+          "startSec": 280.3,
+          "endSec": 280.3,
+          "text": "out"
+        },
+        {
+          "startSec": 280.3,
+          "endSec": 280.3,
+          "text": "of"
+        },
+        {
+          "startSec": 280.3,
+          "endSec": 280.3,
+          "text": "the"
+        },
+        {
+          "startSec": 280.3,
+          "endSec": 280.3,
+          "text": "wall."
+        },
+        {
+          "startSec": 280.3,
+          "endSec": 280.6,
+          "text": "Wow,"
+        },
+        {
+          "startSec": 280.6,
+          "endSec": 280.8,
+          "text": "Josh"
+        },
+        {
+          "startSec": 280.8,
+          "endSec": 280.9,
+          "text": "is"
+        },
+        {
+          "startSec": 280.9,
+          "endSec": 281.3,
+          "text": "pretty"
+        },
+        {
+          "startSec": 281.3,
+          "endSec": 281.6,
+          "text": "good,"
+        },
+        {
+          "startSec": 281.6,
+          "endSec": 281.9,
+          "text": "isn't"
+        },
+        {
+          "startSec": 281.9,
+          "endSec": 282.2,
+          "text": "he?"
+        },
+        {
+          "startSec": 282.2,
+          "endSec": 282.3,
+          "text": "I'd"
+        },
+        {
+          "startSec": 282.3,
+          "endSec": 282.5,
+          "text": "love"
+        },
+        {
+          "startSec": 282.5,
+          "endSec": 282.7,
+          "text": "to"
+        },
+        {
+          "startSec": 282.7,
+          "endSec": 282.9,
+          "text": "hear"
+        },
+        {
+          "startSec": 282.9,
+          "endSec": 283.4,
+          "text": "more."
+        },
+        {
+          "startSec": 283.4,
+          "endSec": 283.7,
+          "text": "Well,"
+        }
+      ]
+    },
+    {
+      "startSec": 283.4,
+      "endSec": 293.2,
+      "text": "Well, you can find performances by the musicians in the series on our website, bbclearningenglish.com, and we'll also put a link in the notes below this episode.",
+      "words": [
+        {
+          "startSec": 283.4,
+          "endSec": 283.7,
+          "text": "Well,"
+        },
+        {
+          "startSec": 283.7,
+          "endSec": 283.9,
+          "text": "you"
+        },
+        {
+          "startSec": 283.9,
+          "endSec": 284.1,
+          "text": "can"
+        },
+        {
+          "startSec": 284.1,
+          "endSec": 284.3,
+          "text": "find"
+        },
+        {
+          "startSec": 284.3,
+          "endSec": 285,
+          "text": "performances"
+        },
+        {
+          "startSec": 285,
+          "endSec": 285.2,
+          "text": "by"
+        },
+        {
+          "startSec": 285.2,
+          "endSec": 285.3,
+          "text": "the"
+        },
+        {
+          "startSec": 285.3,
+          "endSec": 285.9,
+          "text": "musicians"
+        },
+        {
+          "startSec": 285.9,
+          "endSec": 286,
+          "text": "in"
+        },
+        {
+          "startSec": 286,
+          "endSec": 286.2,
+          "text": "the"
+        },
+        {
+          "startSec": 286.2,
+          "endSec": 286.6,
+          "text": "series"
+        },
+        {
+          "startSec": 286.6,
+          "endSec": 286.7,
+          "text": "on"
+        },
+        {
+          "startSec": 286.7,
+          "endSec": 287,
+          "text": "our"
+        },
+        {
+          "startSec": 287,
+          "endSec": 287.8,
+          "text": "website,"
+        },
+        {
+          "startSec": 287.8,
+          "endSec": 289.7,
+          "text": "bbclearningenglish.com,"
+        },
+        {
+          "startSec": 289.7,
+          "endSec": 290,
+          "text": "and"
+        },
+        {
+          "startSec": 290,
+          "endSec": 290.3,
+          "text": "we'll"
+        },
+        {
+          "startSec": 290.3,
+          "endSec": 290.5,
+          "text": "also"
+        },
+        {
+          "startSec": 290.5,
+          "endSec": 290.8,
+          "text": "put"
+        },
+        {
+          "startSec": 290.8,
+          "endSec": 290.9,
+          "text": "a"
+        },
+        {
+          "startSec": 290.9,
+          "endSec": 291.1,
+          "text": "link"
+        },
+        {
+          "startSec": 291.1,
+          "endSec": 291.3,
+          "text": "in"
+        },
+        {
+          "startSec": 291.3,
+          "endSec": 291.5,
+          "text": "the"
+        },
+        {
+          "startSec": 291.5,
+          "endSec": 291.8,
+          "text": "notes"
+        },
+        {
+          "startSec": 291.8,
+          "endSec": 292.2,
+          "text": "below"
+        },
+        {
+          "startSec": 292.2,
+          "endSec": 292.5,
+          "text": "this"
+        },
+        {
+          "startSec": 292.5,
+          "endSec": 293.2,
+          "text": "episode."
+        }
+      ]
+    },
+    {
+      "startSec": 293.2,
+      "endSec": 296.2,
+      "text": "OK, so what about your question, Pippa?",
+      "words": [
+        {
+          "startSec": 293.3,
+          "endSec": 293.5,
+          "text": "OK,"
+        },
+        {
+          "startSec": 293.5,
+          "endSec": 293.7,
+          "text": "so"
+        },
+        {
+          "startSec": 293.7,
+          "endSec": 294,
+          "text": "what"
+        },
+        {
+          "startSec": 294,
+          "endSec": 294.4,
+          "text": "about"
+        },
+        {
+          "startSec": 294.4,
+          "endSec": 294.7,
+          "text": "your"
+        },
+        {
+          "startSec": 294.7,
+          "endSec": 295.5,
+          "text": "question,"
+        },
+        {
+          "startSec": 295.5,
+          "endSec": 296.2,
+          "text": "Pippa?"
+        },
+        {
+          "startSec": 296.2,
+          "endSec": 296.6,
+          "text": "Yes,"
+        }
+      ]
+    },
+    {
+      "startSec": 296.2,
+      "endSec": 306.9,
+      "text": "Yes, I asked which artist had the most number one songs in the UK charts? The Beatles, Ed Sheeran or Elvis Presley, and you said the Beatles, Neil.",
+      "words": [
+        {
+          "startSec": 296.2,
+          "endSec": 296.6,
+          "text": "Yes,"
+        },
+        {
+          "startSec": 296.6,
+          "endSec": 296.7,
+          "text": "I"
+        },
+        {
+          "startSec": 296.7,
+          "endSec": 297.2,
+          "text": "asked"
+        },
+        {
+          "startSec": 297.2,
+          "endSec": 297.6,
+          "text": "which"
+        },
+        {
+          "startSec": 297.6,
+          "endSec": 298.1,
+          "text": "artist"
+        },
+        {
+          "startSec": 298.1,
+          "endSec": 298.4,
+          "text": "had"
+        },
+        {
+          "startSec": 298.4,
+          "endSec": 298.7,
+          "text": "the"
+        },
+        {
+          "startSec": 298.7,
+          "endSec": 299,
+          "text": "most"
+        },
+        {
+          "startSec": 299,
+          "endSec": 299.6,
+          "text": "number"
+        },
+        {
+          "startSec": 299.6,
+          "endSec": 299.9,
+          "text": "one"
+        },
+        {
+          "startSec": 299.9,
+          "endSec": 300.3,
+          "text": "songs"
+        },
+        {
+          "startSec": 300.3,
+          "endSec": 300.5,
+          "text": "in"
+        },
+        {
+          "startSec": 300.5,
+          "endSec": 300.8,
+          "text": "the"
+        },
+        {
+          "startSec": 300.8,
+          "endSec": 300.9,
+          "text": "UK"
+        },
+        {
+          "startSec": 300.9,
+          "endSec": 301.8,
+          "text": "charts?"
+        },
+        {
+          "startSec": 301.8,
+          "endSec": 302.1,
+          "text": "The"
+        },
+        {
+          "startSec": 302.1,
+          "endSec": 302.8,
+          "text": "Beatles,"
+        },
+        {
+          "startSec": 302.8,
+          "endSec": 302.9,
+          "text": "Ed"
+        },
+        {
+          "startSec": 302.9,
+          "endSec": 303.3,
+          "text": "Sheeran"
+        },
+        {
+          "startSec": 303.3,
+          "endSec": 303.5,
+          "text": "or"
+        },
+        {
+          "startSec": 303.5,
+          "endSec": 303.9,
+          "text": "Elvis"
+        },
+        {
+          "startSec": 303.9,
+          "endSec": 304.6,
+          "text": "Presley,"
+        },
+        {
+          "startSec": 304.6,
+          "endSec": 304.8,
+          "text": "and"
+        },
+        {
+          "startSec": 304.8,
+          "endSec": 305.1,
+          "text": "you"
+        },
+        {
+          "startSec": 305.1,
+          "endSec": 305.4,
+          "text": "said"
+        },
+        {
+          "startSec": 305.4,
+          "endSec": 305.6,
+          "text": "the"
+        },
+        {
+          "startSec": 305.6,
+          "endSec": 306.3,
+          "text": "Beatles,"
+        },
+        {
+          "startSec": 306.3,
+          "endSec": 306.9,
+          "text": "Neil."
+        },
+        {
+          "startSec": 306.9,
+          "endSec": 307.1,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 306.9,
+      "endSec": 314.5,
+      "text": "But the answer is actually Elvis Presley. He's had 21 number one songs, and the Beatles have had 18.",
+      "words": [
+        {
+          "startSec": 306.9,
+          "endSec": 307.1,
+          "text": "But"
+        },
+        {
+          "startSec": 307.1,
+          "endSec": 307.3,
+          "text": "the"
+        },
+        {
+          "startSec": 307.3,
+          "endSec": 307.7,
+          "text": "answer"
+        },
+        {
+          "startSec": 307.7,
+          "endSec": 307.9,
+          "text": "is"
+        },
+        {
+          "startSec": 307.9,
+          "endSec": 308.4,
+          "text": "actually"
+        },
+        {
+          "startSec": 308.4,
+          "endSec": 308.8,
+          "text": "Elvis"
+        },
+        {
+          "startSec": 308.8,
+          "endSec": 309.5,
+          "text": "Presley."
+        },
+        {
+          "startSec": 309.5,
+          "endSec": 309.9,
+          "text": "He's"
+        },
+        {
+          "startSec": 309.9,
+          "endSec": 310.1,
+          "text": "had"
+        },
+        {
+          "startSec": 310.1,
+          "endSec": 310.6,
+          "text": "21"
+        },
+        {
+          "startSec": 310.6,
+          "endSec": 311.1,
+          "text": "number"
+        },
+        {
+          "startSec": 311.1,
+          "endSec": 311.4,
+          "text": "one"
+        },
+        {
+          "startSec": 311.4,
+          "endSec": 312,
+          "text": "songs,"
+        },
+        {
+          "startSec": 312,
+          "endSec": 312.2,
+          "text": "and"
+        },
+        {
+          "startSec": 312.2,
+          "endSec": 312.5,
+          "text": "the"
+        },
+        {
+          "startSec": 312.5,
+          "endSec": 313.1,
+          "text": "Beatles"
+        },
+        {
+          "startSec": 313.1,
+          "endSec": 313.5,
+          "text": "have"
+        },
+        {
+          "startSec": 313.5,
+          "endSec": 313.7,
+          "text": "had"
+        },
+        {
+          "startSec": 313.7,
+          "endSec": 314.5,
+          "text": "18."
+        },
+        {
+          "startSec": 314.5,
+          "endSec": 315.1,
+          "text": "Really?"
+        }
+      ]
+    },
+    {
+      "startSec": 314.5,
+      "endSec": 317.6,
+      "text": "Really? Well, that's OK, I love The King as well.",
+      "words": [
+        {
+          "startSec": 314.5,
+          "endSec": 315.1,
+          "text": "Really?"
+        },
+        {
+          "startSec": 315.1,
+          "endSec": 315.5,
+          "text": "Well,"
+        },
+        {
+          "startSec": 315.5,
+          "endSec": 315.9,
+          "text": "that's"
+        },
+        {
+          "startSec": 315.9,
+          "endSec": 316.1,
+          "text": "OK,"
+        },
+        {
+          "startSec": 316.1,
+          "endSec": 316.2,
+          "text": "I"
+        },
+        {
+          "startSec": 316.2,
+          "endSec": 316.5,
+          "text": "love"
+        },
+        {
+          "startSec": 316.5,
+          "endSec": 316.7,
+          "text": "The"
+        },
+        {
+          "startSec": 316.7,
+          "endSec": 316.9,
+          "text": "King"
+        },
+        {
+          "startSec": 316.9,
+          "endSec": 317.1,
+          "text": "as"
+        },
+        {
+          "startSec": 317.1,
+          "endSec": 317.6,
+          "text": "well."
+        }
+      ]
+    },
+    {
+      "startSec": 317.6,
+      "endSec": 327.7,
+      "text": "OK, let's recap the vocabulary we've learned in this musical episode, starting with open mic nights, events where anyone can sing or play music.",
+      "words": [
+        {
+          "startSec": 317.7,
+          "endSec": 317.9,
+          "text": "OK,"
+        },
+        {
+          "startSec": 317.9,
+          "endSec": 318.2,
+          "text": "let's"
+        },
+        {
+          "startSec": 318.2,
+          "endSec": 318.6,
+          "text": "recap"
+        },
+        {
+          "startSec": 318.6,
+          "endSec": 318.8,
+          "text": "the"
+        },
+        {
+          "startSec": 318.8,
+          "endSec": 319.6,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 319.6,
+          "endSec": 319.9,
+          "text": "we've"
+        },
+        {
+          "startSec": 319.9,
+          "endSec": 320.5,
+          "text": "learned"
+        },
+        {
+          "startSec": 320.5,
+          "endSec": 320.6,
+          "text": "in"
+        },
+        {
+          "startSec": 320.6,
+          "endSec": 320.9,
+          "text": "this"
+        },
+        {
+          "startSec": 320.9,
+          "endSec": 321.4,
+          "text": "musical"
+        },
+        {
+          "startSec": 321.4,
+          "endSec": 322.1,
+          "text": "episode,"
+        },
+        {
+          "startSec": 322.1,
+          "endSec": 322.7,
+          "text": "starting"
+        },
+        {
+          "startSec": 322.7,
+          "endSec": 322.9,
+          "text": "with"
+        },
+        {
+          "startSec": 322.9,
+          "endSec": 323.2,
+          "text": "open"
+        },
+        {
+          "startSec": 323.2,
+          "endSec": 323.5,
+          "text": "mic"
+        },
+        {
+          "startSec": 323.5,
+          "endSec": 324.2,
+          "text": "nights,"
+        },
+        {
+          "startSec": 324.2,
+          "endSec": 324.8,
+          "text": "events"
+        },
+        {
+          "startSec": 324.8,
+          "endSec": 325.2,
+          "text": "where"
+        },
+        {
+          "startSec": 325.2,
+          "endSec": 326,
+          "text": "anyone"
+        },
+        {
+          "startSec": 326,
+          "endSec": 326,
+          "text": "can"
+        },
+        {
+          "startSec": 326,
+          "endSec": 326.4,
+          "text": "sing"
+        },
+        {
+          "startSec": 326.4,
+          "endSec": 326.6,
+          "text": "or"
+        },
+        {
+          "startSec": 326.6,
+          "endSec": 326.9,
+          "text": "play"
+        },
+        {
+          "startSec": 326.9,
+          "endSec": 327.7,
+          "text": "music."
+        },
+        {
+          "startSec": 327.7,
+          "endSec": 328,
+          "text": "Some"
+        }
+      ]
+    },
+    {
+      "startSec": 327.7,
+      "endSec": 332.8,
+      "text": "Some writer circles are meetings for people interested in writing their own music.",
+      "words": [
+        {
+          "startSec": 327.7,
+          "endSec": 328,
+          "text": "Some"
+        },
+        {
+          "startSec": 328,
+          "endSec": 328.4,
+          "text": "writer"
+        },
+        {
+          "startSec": 328.4,
+          "endSec": 328.9,
+          "text": "circles"
+        },
+        {
+          "startSec": 328.9,
+          "endSec": 329.1,
+          "text": "are"
+        },
+        {
+          "startSec": 329.1,
+          "endSec": 329.6,
+          "text": "meetings"
+        },
+        {
+          "startSec": 329.6,
+          "endSec": 329.9,
+          "text": "for"
+        },
+        {
+          "startSec": 329.9,
+          "endSec": 330.3,
+          "text": "people"
+        },
+        {
+          "startSec": 330.3,
+          "endSec": 331,
+          "text": "interested"
+        },
+        {
+          "startSec": 331,
+          "endSec": 331.1,
+          "text": "in"
+        },
+        {
+          "startSec": 331.1,
+          "endSec": 331.6,
+          "text": "writing"
+        },
+        {
+          "startSec": 331.6,
+          "endSec": 332,
+          "text": "their"
+        },
+        {
+          "startSec": 332,
+          "endSec": 332.2,
+          "text": "own"
+        },
+        {
+          "startSec": 332.2,
+          "endSec": 332.8,
+          "text": "music."
+        },
+        {
+          "startSec": 332.8,
+          "endSec": 332.9,
+          "text": "A"
+        }
+      ]
+    },
+    {
+      "startSec": 332.8,
+      "endSec": 335.4,
+      "text": "A bunch of people is a group of people.",
+      "words": [
+        {
+          "startSec": 332.8,
+          "endSec": 332.9,
+          "text": "A"
+        },
+        {
+          "startSec": 332.9,
+          "endSec": 333.3,
+          "text": "bunch"
+        },
+        {
+          "startSec": 333.3,
+          "endSec": 333.4,
+          "text": "of"
+        },
+        {
+          "startSec": 333.4,
+          "endSec": 333.9,
+          "text": "people"
+        },
+        {
+          "startSec": 333.9,
+          "endSec": 334,
+          "text": "is"
+        },
+        {
+          "startSec": 334,
+          "endSec": 334.1,
+          "text": "a"
+        },
+        {
+          "startSec": 334.1,
+          "endSec": 334.5,
+          "text": "group"
+        },
+        {
+          "startSec": 334.5,
+          "endSec": 334.6,
+          "text": "of"
+        },
+        {
+          "startSec": 334.6,
+          "endSec": 335.4,
+          "text": "people."
+        },
+        {
+          "startSec": 335.4,
+          "endSec": 335.6,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 335.4,
+      "endSec": 340,
+      "text": "The expression 'take someone under your wing' means to protect or guide someone.",
+      "words": [
+        {
+          "startSec": 335.4,
+          "endSec": 335.6,
+          "text": "The"
+        },
+        {
+          "startSec": 335.6,
+          "endSec": 336.2,
+          "text": "expression"
+        },
+        {
+          "startSec": 336.2,
+          "endSec": 336.5,
+          "text": "'take"
+        },
+        {
+          "startSec": 336.5,
+          "endSec": 337,
+          "text": "someone"
+        },
+        {
+          "startSec": 337,
+          "endSec": 337.3,
+          "text": "under"
+        },
+        {
+          "startSec": 337.3,
+          "endSec": 337.6,
+          "text": "your"
+        },
+        {
+          "startSec": 337.6,
+          "endSec": 337.9,
+          "text": "wing'"
+        },
+        {
+          "startSec": 337.9,
+          "endSec": 338.2,
+          "text": "means"
+        },
+        {
+          "startSec": 338.2,
+          "endSec": 338.4,
+          "text": "to"
+        },
+        {
+          "startSec": 338.4,
+          "endSec": 338.8,
+          "text": "protect"
+        },
+        {
+          "startSec": 338.8,
+          "endSec": 339,
+          "text": "or"
+        },
+        {
+          "startSec": 339,
+          "endSec": 339.3,
+          "text": "guide"
+        },
+        {
+          "startSec": 339.3,
+          "endSec": 340,
+          "text": "someone."
+        },
+        {
+          "startSec": 340,
+          "endSec": 340.5,
+          "text": "Busking"
+        }
+      ]
+    },
+    {
+      "startSec": 340,
+      "endSec": 347.1,
+      "text": "Busking is performing in a public place for money, and a busker is someone who performs on the street for money.",
+      "words": [
+        {
+          "startSec": 340,
+          "endSec": 340.5,
+          "text": "Busking"
+        },
+        {
+          "startSec": 340.5,
+          "endSec": 340.6,
+          "text": "is"
+        },
+        {
+          "startSec": 340.6,
+          "endSec": 341.3,
+          "text": "performing"
+        },
+        {
+          "startSec": 341.3,
+          "endSec": 341.5,
+          "text": "in"
+        },
+        {
+          "startSec": 341.5,
+          "endSec": 341.5,
+          "text": "a"
+        },
+        {
+          "startSec": 341.5,
+          "endSec": 342,
+          "text": "public"
+        },
+        {
+          "startSec": 342,
+          "endSec": 342.3,
+          "text": "place"
+        },
+        {
+          "startSec": 342.3,
+          "endSec": 342.5,
+          "text": "for"
+        },
+        {
+          "startSec": 342.5,
+          "endSec": 343,
+          "text": "money,"
+        },
+        {
+          "startSec": 343,
+          "endSec": 343.3,
+          "text": "and"
+        },
+        {
+          "startSec": 343.3,
+          "endSec": 343.3,
+          "text": "a"
+        },
+        {
+          "startSec": 343.3,
+          "endSec": 343.8,
+          "text": "busker"
+        },
+        {
+          "startSec": 343.8,
+          "endSec": 344,
+          "text": "is"
+        },
+        {
+          "startSec": 344,
+          "endSec": 344.5,
+          "text": "someone"
+        },
+        {
+          "startSec": 344.5,
+          "endSec": 344.7,
+          "text": "who"
+        },
+        {
+          "startSec": 344.7,
+          "endSec": 345.3,
+          "text": "performs"
+        },
+        {
+          "startSec": 345.3,
+          "endSec": 345.5,
+          "text": "on"
+        },
+        {
+          "startSec": 345.5,
+          "endSec": 345.7,
+          "text": "the"
+        },
+        {
+          "startSec": 345.7,
+          "endSec": 346.2,
+          "text": "street"
+        },
+        {
+          "startSec": 346.2,
+          "endSec": 346.4,
+          "text": "for"
+        },
+        {
+          "startSec": 346.4,
+          "endSec": 347.1,
+          "text": "money."
+        }
+      ]
+    },
+    {
+      "startSec": 347.1,
+      "endSec": 350.3,
+      "text": "Your main earner is your main source of income.",
+      "words": [
+        {
+          "startSec": 347.2,
+          "endSec": 347.4,
+          "text": "Your"
+        },
+        {
+          "startSec": 347.4,
+          "endSec": 347.7,
+          "text": "main"
+        },
+        {
+          "startSec": 347.7,
+          "endSec": 348.2,
+          "text": "earner"
+        },
+        {
+          "startSec": 348.2,
+          "endSec": 348.4,
+          "text": "is"
+        },
+        {
+          "startSec": 348.4,
+          "endSec": 348.7,
+          "text": "your"
+        },
+        {
+          "startSec": 348.7,
+          "endSec": 349,
+          "text": "main"
+        },
+        {
+          "startSec": 349,
+          "endSec": 349.4,
+          "text": "source"
+        },
+        {
+          "startSec": 349.4,
+          "endSec": 349.6,
+          "text": "of"
+        },
+        {
+          "startSec": 349.6,
+          "endSec": 350.3,
+          "text": "income."
+        },
+        {
+          "startSec": 350.3,
+          "endSec": 350.7,
+          "text": "Gigs"
+        }
+      ]
+    },
+    {
+      "startSec": 350.3,
+      "endSec": 352.3,
+      "text": "Gigs are musical concerts.",
+      "words": [
+        {
+          "startSec": 350.3,
+          "endSec": 350.7,
+          "text": "Gigs"
+        },
+        {
+          "startSec": 350.7,
+          "endSec": 350.9,
+          "text": "are"
+        },
+        {
+          "startSec": 350.9,
+          "endSec": 351.5,
+          "text": "musical"
+        },
+        {
+          "startSec": 351.5,
+          "endSec": 352.3,
+          "text": "concerts."
+        },
+        {
+          "startSec": 352.3,
+          "endSec": 352.6,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 352.3,
+      "endSec": 359.8,
+      "text": "And the expression 'to owe a lot to someone or something' means to have success or happiness because of that personal thing.",
+      "words": [
+        {
+          "startSec": 352.3,
+          "endSec": 352.6,
+          "text": "And"
+        },
+        {
+          "startSec": 352.6,
+          "endSec": 352.8,
+          "text": "the"
+        },
+        {
+          "startSec": 352.8,
+          "endSec": 353.6,
+          "text": "expression"
+        },
+        {
+          "startSec": 353.6,
+          "endSec": 353.8,
+          "text": "'to"
+        },
+        {
+          "startSec": 353.8,
+          "endSec": 354,
+          "text": "owe"
+        },
+        {
+          "startSec": 354,
+          "endSec": 354.1,
+          "text": "a"
+        },
+        {
+          "startSec": 354.1,
+          "endSec": 354.3,
+          "text": "lot"
+        },
+        {
+          "startSec": 354.3,
+          "endSec": 354.5,
+          "text": "to"
+        },
+        {
+          "startSec": 354.5,
+          "endSec": 355,
+          "text": "someone"
+        },
+        {
+          "startSec": 355,
+          "endSec": 355.2,
+          "text": "or"
+        },
+        {
+          "startSec": 355.2,
+          "endSec": 356,
+          "text": "something'"
+        },
+        {
+          "startSec": 356,
+          "endSec": 356.3,
+          "text": "means"
+        },
+        {
+          "startSec": 356.3,
+          "endSec": 356.4,
+          "text": "to"
+        },
+        {
+          "startSec": 356.4,
+          "endSec": 356.6,
+          "text": "have"
+        },
+        {
+          "startSec": 356.6,
+          "endSec": 357.1,
+          "text": "success"
+        },
+        {
+          "startSec": 357.1,
+          "endSec": 357.3,
+          "text": "or"
+        },
+        {
+          "startSec": 357.3,
+          "endSec": 357.9,
+          "text": "happiness"
+        },
+        {
+          "startSec": 357.9,
+          "endSec": 358.4,
+          "text": "because"
+        },
+        {
+          "startSec": 358.4,
+          "endSec": 358.5,
+          "text": "of"
+        },
+        {
+          "startSec": 358.5,
+          "endSec": 358.7,
+          "text": "that"
+        },
+        {
+          "startSec": 358.7,
+          "endSec": 359.2,
+          "text": "personal"
+        },
+        {
+          "startSec": 359.2,
+          "endSec": 359.8,
+          "text": "thing."
+        },
+        {
+          "startSec": 359.8,
+          "endSec": 360.1,
+          "text": "Once"
+        }
+      ]
+    },
+    {
+      "startSec": 359.8,
+      "endSec": 367.5,
+      "text": "Once again, our six minutes are up, but you can find my song 'My Home' on our website, bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 359.8,
+          "endSec": 360.1,
+          "text": "Once"
+        },
+        {
+          "startSec": 360.1,
+          "endSec": 360.6,
+          "text": "again,"
+        },
+        {
+          "startSec": 360.6,
+          "endSec": 360.9,
+          "text": "our"
+        },
+        {
+          "startSec": 360.9,
+          "endSec": 361.1,
+          "text": "six"
+        },
+        {
+          "startSec": 361.1,
+          "endSec": 361.7,
+          "text": "minutes"
+        },
+        {
+          "startSec": 361.7,
+          "endSec": 361.9,
+          "text": "are"
+        },
+        {
+          "startSec": 361.9,
+          "endSec": 362.2,
+          "text": "up,"
+        },
+        {
+          "startSec": 362.2,
+          "endSec": 362.5,
+          "text": "but"
+        },
+        {
+          "startSec": 362.5,
+          "endSec": 362.7,
+          "text": "you"
+        },
+        {
+          "startSec": 362.7,
+          "endSec": 363,
+          "text": "can"
+        },
+        {
+          "startSec": 363,
+          "endSec": 363.3,
+          "text": "find"
+        },
+        {
+          "startSec": 363.3,
+          "endSec": 363.4,
+          "text": "my"
+        },
+        {
+          "startSec": 363.4,
+          "endSec": 363.8,
+          "text": "song"
+        },
+        {
+          "startSec": 363.8,
+          "endSec": 364,
+          "text": "'My"
+        },
+        {
+          "startSec": 364,
+          "endSec": 364.4,
+          "text": "Home'"
+        },
+        {
+          "startSec": 364.4,
+          "endSec": 364.6,
+          "text": "on"
+        },
+        {
+          "startSec": 364.6,
+          "endSec": 364.8,
+          "text": "our"
+        },
+        {
+          "startSec": 364.8,
+          "endSec": 365.5,
+          "text": "website,"
+        },
+        {
+          "startSec": 365.5,
+          "endSec": 367.5,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 367.5,
+          "endSec": 367.8,
+          "text": "Watch"
+        }
+      ]
+    },
+    {
+      "startSec": 367.5,
+      "endSec": 372,
+      "text": "Watch the songs and sing along and learn more about the vocabulary and the lyrics.",
+      "words": [
+        {
+          "startSec": 367.5,
+          "endSec": 367.8,
+          "text": "Watch"
+        },
+        {
+          "startSec": 367.8,
+          "endSec": 368,
+          "text": "the"
+        },
+        {
+          "startSec": 368,
+          "endSec": 368.3,
+          "text": "songs"
+        },
+        {
+          "startSec": 368.3,
+          "endSec": 368.5,
+          "text": "and"
+        },
+        {
+          "startSec": 368.5,
+          "endSec": 368.8,
+          "text": "sing"
+        },
+        {
+          "startSec": 368.8,
+          "endSec": 369.1,
+          "text": "along"
+        },
+        {
+          "startSec": 369.1,
+          "endSec": 369.3,
+          "text": "and"
+        },
+        {
+          "startSec": 369.3,
+          "endSec": 369.6,
+          "text": "learn"
+        },
+        {
+          "startSec": 369.6,
+          "endSec": 369.8,
+          "text": "more"
+        },
+        {
+          "startSec": 369.8,
+          "endSec": 370.1,
+          "text": "about"
+        },
+        {
+          "startSec": 370.1,
+          "endSec": 370.3,
+          "text": "the"
+        },
+        {
+          "startSec": 370.3,
+          "endSec": 371,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 371,
+          "endSec": 371.2,
+          "text": "and"
+        },
+        {
+          "startSec": 371.2,
+          "endSec": 371.3,
+          "text": "the"
+        },
+        {
+          "startSec": 371.3,
+          "endSec": 372,
+          "text": "lyrics."
+        },
+        {
+          "startSec": 372,
+          "endSec": 372.3,
+          "text": "We'll"
+        }
+      ]
+    },
+    {
+      "startSec": 372,
+      "endSec": 376.5,
+      "text": "We'll see you again soon for some more trending topics and useful vocabulary.",
+      "words": [
+        {
+          "startSec": 372,
+          "endSec": 372.3,
+          "text": "We'll"
+        },
+        {
+          "startSec": 372.3,
+          "endSec": 372.6,
+          "text": "see"
+        },
+        {
+          "startSec": 372.6,
+          "endSec": 372.8,
+          "text": "you"
+        },
+        {
+          "startSec": 372.8,
+          "endSec": 373.1,
+          "text": "again"
+        },
+        {
+          "startSec": 373.1,
+          "endSec": 373.4,
+          "text": "soon"
+        },
+        {
+          "startSec": 373.4,
+          "endSec": 373.6,
+          "text": "for"
+        },
+        {
+          "startSec": 373.6,
+          "endSec": 373.9,
+          "text": "some"
+        },
+        {
+          "startSec": 373.9,
+          "endSec": 374.2,
+          "text": "more"
+        },
+        {
+          "startSec": 374.2,
+          "endSec": 374.7,
+          "text": "trending"
+        },
+        {
+          "startSec": 374.7,
+          "endSec": 375.1,
+          "text": "topics"
+        },
+        {
+          "startSec": 375.1,
+          "endSec": 375.3,
+          "text": "and"
+        },
+        {
+          "startSec": 375.3,
+          "endSec": 375.7,
+          "text": "useful"
+        },
+        {
+          "startSec": 375.7,
+          "endSec": 376.5,
+          "text": "vocabulary."
+        },
+        {
+          "startSec": 376.5,
+          "endSec": 376.7,
+          "text": "Bye"
+        }
+      ]
+    },
+    {
+      "startSec": 376.5,
+      "endSec": 377.4,
+      "text": "Bye for now.",
+      "words": [
+        {
+          "startSec": 376.5,
+          "endSec": 376.7,
+          "text": "Bye"
+        },
+        {
+          "startSec": 376.7,
+          "endSec": 376.9,
+          "text": "for"
+        },
+        {
+          "startSec": 376.9,
+          "endSec": 377.4,
+          "text": "now."
+        },
+        {
+          "startSec": 377.4,
+          "endSec": 378.2,
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "startSec": 377.4,
+      "endSec": 378.2,
+      "text": "Goodbye.",
+      "words": [
+        {
+          "startSec": 377.4,
+          "endSec": 378.2,
+          "text": "Goodbye."
+        }
+      ]
+    }
+  ],
+  "introSec": 5.9
+}

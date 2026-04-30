@@ -1,0 +1,5108 @@
+{
+  "title": "Country that measures happiness",
+  "source": "BBC 6 Minute English",
+  "level": "beginner",
+  "durationSec": 373,
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
+  "audioFile": "audio.mp3",
+  "segments": [
+    {
+      "startSec": 0,
+      "endSec": 10.6,
+      "text": "Hello, this is Six Minute English from BBC Learning English. I'm Neil.",
+      "words": [
+        {
+          "startSec": 0.2,
+          "endSec": 1.9,
+          "text": "Hello,"
+        },
+        {
+          "startSec": 1.9,
+          "endSec": 3,
+          "text": "this"
+        },
+        {
+          "startSec": 3,
+          "endSec": 3.5,
+          "text": "is"
+        },
+        {
+          "startSec": 3.5,
+          "endSec": 4.3,
+          "text": "Six"
+        },
+        {
+          "startSec": 4.3,
+          "endSec": 6.1,
+          "text": "Minute"
+        },
+        {
+          "startSec": 6.1,
+          "endSec": 8,
+          "text": "English"
+        },
+        {
+          "startSec": 8,
+          "endSec": 8.1,
+          "text": "from"
+        },
+        {
+          "startSec": 8.1,
+          "endSec": 8.4,
+          "text": "BBC"
+        },
+        {
+          "startSec": 8.4,
+          "endSec": 8.9,
+          "text": "Learning"
+        },
+        {
+          "startSec": 8.9,
+          "endSec": 9.7,
+          "text": "English."
+        },
+        {
+          "startSec": 9.7,
+          "endSec": 10,
+          "text": "I'm"
+        },
+        {
+          "startSec": 10,
+          "endSec": 10.6,
+          "text": "Neil."
+        },
+        {
+          "startSec": 10.6,
+          "endSec": 10.9,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 10.6,
+      "endSec": 17.3,
+      "text": "And I'm Pippa. In this programme we're talking about happiness. So what makes you happy, Neil?",
+      "words": [
+        {
+          "startSec": 10.6,
+          "endSec": 10.9,
+          "text": "And"
+        },
+        {
+          "startSec": 10.9,
+          "endSec": 11.2,
+          "text": "I'm"
+        },
+        {
+          "startSec": 11.2,
+          "endSec": 12.1,
+          "text": "Pippa."
+        },
+        {
+          "startSec": 12.1,
+          "endSec": 12.2,
+          "text": "In"
+        },
+        {
+          "startSec": 12.2,
+          "endSec": 12.5,
+          "text": "this"
+        },
+        {
+          "startSec": 12.5,
+          "endSec": 13,
+          "text": "programme"
+        },
+        {
+          "startSec": 13,
+          "endSec": 13.3,
+          "text": "we're"
+        },
+        {
+          "startSec": 13.3,
+          "endSec": 13.7,
+          "text": "talking"
+        },
+        {
+          "startSec": 13.7,
+          "endSec": 14.1,
+          "text": "about"
+        },
+        {
+          "startSec": 14.1,
+          "endSec": 15.2,
+          "text": "happiness."
+        },
+        {
+          "startSec": 15.2,
+          "endSec": 15.3,
+          "text": "So"
+        },
+        {
+          "startSec": 15.3,
+          "endSec": 15.5,
+          "text": "what"
+        },
+        {
+          "startSec": 15.5,
+          "endSec": 15.8,
+          "text": "makes"
+        },
+        {
+          "startSec": 15.8,
+          "endSec": 16,
+          "text": "you"
+        },
+        {
+          "startSec": 16,
+          "endSec": 16.7,
+          "text": "happy,"
+        },
+        {
+          "startSec": 16.7,
+          "endSec": 17.3,
+          "text": "Neil?"
+        },
+        {
+          "startSec": 17.3,
+          "endSec": 17.7,
+          "text": "Oh,"
+        }
+      ]
+    },
+    {
+      "startSec": 17.3,
+      "endSec": 25,
+      "text": "Oh, it makes me happy when I'm with a group of old friends and we're having a good laugh.",
+      "words": [
+        {
+          "startSec": 17.3,
+          "endSec": 17.7,
+          "text": "Oh,"
+        },
+        {
+          "startSec": 17.7,
+          "endSec": 17.9,
+          "text": "it"
+        },
+        {
+          "startSec": 17.9,
+          "endSec": 18.4,
+          "text": "makes"
+        },
+        {
+          "startSec": 18.4,
+          "endSec": 18.6,
+          "text": "me"
+        },
+        {
+          "startSec": 18.6,
+          "endSec": 19.1,
+          "text": "happy"
+        },
+        {
+          "startSec": 19.1,
+          "endSec": 19.6,
+          "text": "when"
+        },
+        {
+          "startSec": 19.6,
+          "endSec": 19.9,
+          "text": "I'm"
+        },
+        {
+          "startSec": 19.9,
+          "endSec": 20.3,
+          "text": "with"
+        },
+        {
+          "startSec": 20.3,
+          "endSec": 20.4,
+          "text": "a"
+        },
+        {
+          "startSec": 20.4,
+          "endSec": 20.9,
+          "text": "group"
+        },
+        {
+          "startSec": 20.9,
+          "endSec": 21.1,
+          "text": "of"
+        },
+        {
+          "startSec": 21.1,
+          "endSec": 21.4,
+          "text": "old"
+        },
+        {
+          "startSec": 21.4,
+          "endSec": 22.1,
+          "text": "friends"
+        },
+        {
+          "startSec": 22.1,
+          "endSec": 22.4,
+          "text": "and"
+        },
+        {
+          "startSec": 22.4,
+          "endSec": 23,
+          "text": "we're"
+        },
+        {
+          "startSec": 23,
+          "endSec": 23.5,
+          "text": "having"
+        },
+        {
+          "startSec": 23.5,
+          "endSec": 23.6,
+          "text": "a"
+        },
+        {
+          "startSec": 23.6,
+          "endSec": 24.1,
+          "text": "good"
+        },
+        {
+          "startSec": 24.1,
+          "endSec": 25,
+          "text": "laugh."
+        }
+      ]
+    },
+    {
+      "startSec": 25,
+      "endSec": 30.7,
+      "text": "How about you, Pippa? Cats make me very happy, especially if I see a cat on the street that",
+      "words": [
+        {
+          "startSec": 25.1,
+          "endSec": 25.2,
+          "text": "How"
+        },
+        {
+          "startSec": 25.2,
+          "endSec": 25.6,
+          "text": "about"
+        },
+        {
+          "startSec": 25.6,
+          "endSec": 26,
+          "text": "you,"
+        },
+        {
+          "startSec": 26,
+          "endSec": 26.6,
+          "text": "Pippa?"
+        },
+        {
+          "startSec": 26.6,
+          "endSec": 26.9,
+          "text": "Cats"
+        },
+        {
+          "startSec": 26.9,
+          "endSec": 27.2,
+          "text": "make"
+        },
+        {
+          "startSec": 27.2,
+          "endSec": 27.3,
+          "text": "me"
+        },
+        {
+          "startSec": 27.3,
+          "endSec": 27.6,
+          "text": "very"
+        },
+        {
+          "startSec": 27.6,
+          "endSec": 28.1,
+          "text": "happy,"
+        },
+        {
+          "startSec": 28.1,
+          "endSec": 28.9,
+          "text": "especially"
+        },
+        {
+          "startSec": 28.9,
+          "endSec": 29,
+          "text": "if"
+        },
+        {
+          "startSec": 29,
+          "endSec": 29.2,
+          "text": "I"
+        },
+        {
+          "startSec": 29.2,
+          "endSec": 29.5,
+          "text": "see"
+        },
+        {
+          "startSec": 29.5,
+          "endSec": 29.6,
+          "text": "a"
+        },
+        {
+          "startSec": 29.6,
+          "endSec": 29.9,
+          "text": "cat"
+        },
+        {
+          "startSec": 29.9,
+          "endSec": 30,
+          "text": "on"
+        },
+        {
+          "startSec": 30,
+          "endSec": 30.2,
+          "text": "the"
+        },
+        {
+          "startSec": 30.2,
+          "endSec": 30.6,
+          "text": "street"
+        },
+        {
+          "startSec": 30.6,
+          "endSec": 30.7,
+          "text": "that"
+        },
+        {
+          "startSec": 30.7,
+          "endSec": 30.8,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 30.7,
+      "endSec": 35.6,
+      "text": "I don't know and it lets me give it a little stroke. That always makes me happy.",
+      "words": [
+        {
+          "startSec": 30.7,
+          "endSec": 30.8,
+          "text": "I"
+        },
+        {
+          "startSec": 30.8,
+          "endSec": 31.2,
+          "text": "don't"
+        },
+        {
+          "startSec": 31.2,
+          "endSec": 31.5,
+          "text": "know"
+        },
+        {
+          "startSec": 31.5,
+          "endSec": 31.7,
+          "text": "and"
+        },
+        {
+          "startSec": 31.7,
+          "endSec": 31.8,
+          "text": "it"
+        },
+        {
+          "startSec": 31.8,
+          "endSec": 32.1,
+          "text": "lets"
+        },
+        {
+          "startSec": 32.1,
+          "endSec": 32.3,
+          "text": "me"
+        },
+        {
+          "startSec": 32.3,
+          "endSec": 32.6,
+          "text": "give"
+        },
+        {
+          "startSec": 32.6,
+          "endSec": 32.7,
+          "text": "it"
+        },
+        {
+          "startSec": 32.7,
+          "endSec": 32.8,
+          "text": "a"
+        },
+        {
+          "startSec": 32.8,
+          "endSec": 33.3,
+          "text": "little"
+        },
+        {
+          "startSec": 33.3,
+          "endSec": 34,
+          "text": "stroke."
+        },
+        {
+          "startSec": 34,
+          "endSec": 34.3,
+          "text": "That"
+        },
+        {
+          "startSec": 34.3,
+          "endSec": 34.6,
+          "text": "always"
+        },
+        {
+          "startSec": 34.6,
+          "endSec": 35,
+          "text": "makes"
+        },
+        {
+          "startSec": 35,
+          "endSec": 35.1,
+          "text": "me"
+        },
+        {
+          "startSec": 35.1,
+          "endSec": 35.6,
+          "text": "happy."
+        },
+        {
+          "startSec": 35.6,
+          "endSec": 35.8,
+          "text": "I'm"
+        }
+      ]
+    },
+    {
+      "startSec": 35.6,
+      "endSec": 41.4,
+      "text": "I'm not surprised. That sounds great. So happiness means different things to different people,",
+      "words": [
+        {
+          "startSec": 35.6,
+          "endSec": 35.8,
+          "text": "I'm"
+        },
+        {
+          "startSec": 35.8,
+          "endSec": 35.9,
+          "text": "not"
+        },
+        {
+          "startSec": 35.9,
+          "endSec": 36.6,
+          "text": "surprised."
+        },
+        {
+          "startSec": 36.6,
+          "endSec": 36.9,
+          "text": "That"
+        },
+        {
+          "startSec": 36.9,
+          "endSec": 37.2,
+          "text": "sounds"
+        },
+        {
+          "startSec": 37.2,
+          "endSec": 37.7,
+          "text": "great."
+        },
+        {
+          "startSec": 37.7,
+          "endSec": 37.9,
+          "text": "So"
+        },
+        {
+          "startSec": 37.9,
+          "endSec": 38.5,
+          "text": "happiness"
+        },
+        {
+          "startSec": 38.5,
+          "endSec": 38.8,
+          "text": "means"
+        },
+        {
+          "startSec": 38.8,
+          "endSec": 39.4,
+          "text": "different"
+        },
+        {
+          "startSec": 39.4,
+          "endSec": 39.9,
+          "text": "things"
+        },
+        {
+          "startSec": 39.9,
+          "endSec": 40.1,
+          "text": "to"
+        },
+        {
+          "startSec": 40.1,
+          "endSec": 40.7,
+          "text": "different"
+        },
+        {
+          "startSec": 40.7,
+          "endSec": 41.4,
+          "text": "people,"
+        },
+        {
+          "startSec": 41.4,
+          "endSec": 41.7,
+          "text": "but"
+        }
+      ]
+    },
+    {
+      "startSec": 41.4,
+      "endSec": 47.2,
+      "text": "but what's for sure is that most people would like to be happy. And the small Himalayan Kingdom",
+      "words": [
+        {
+          "startSec": 41.4,
+          "endSec": 41.7,
+          "text": "but"
+        },
+        {
+          "startSec": 41.7,
+          "endSec": 42.1,
+          "text": "what's"
+        },
+        {
+          "startSec": 42.1,
+          "endSec": 42.3,
+          "text": "for"
+        },
+        {
+          "startSec": 42.3,
+          "endSec": 42.6,
+          "text": "sure"
+        },
+        {
+          "startSec": 42.6,
+          "endSec": 42.8,
+          "text": "is"
+        },
+        {
+          "startSec": 42.8,
+          "endSec": 43.1,
+          "text": "that"
+        },
+        {
+          "startSec": 43.1,
+          "endSec": 43.4,
+          "text": "most"
+        },
+        {
+          "startSec": 43.4,
+          "endSec": 43.8,
+          "text": "people"
+        },
+        {
+          "startSec": 43.8,
+          "endSec": 44.2,
+          "text": "would"
+        },
+        {
+          "startSec": 44.2,
+          "endSec": 44.5,
+          "text": "like"
+        },
+        {
+          "startSec": 44.5,
+          "endSec": 44.7,
+          "text": "to"
+        },
+        {
+          "startSec": 44.7,
+          "endSec": 44.8,
+          "text": "be"
+        },
+        {
+          "startSec": 44.8,
+          "endSec": 45.4,
+          "text": "happy."
+        },
+        {
+          "startSec": 45.4,
+          "endSec": 45.6,
+          "text": "And"
+        },
+        {
+          "startSec": 45.6,
+          "endSec": 45.8,
+          "text": "the"
+        },
+        {
+          "startSec": 45.8,
+          "endSec": 46.1,
+          "text": "small"
+        },
+        {
+          "startSec": 46.1,
+          "endSec": 46.6,
+          "text": "Himalayan"
+        },
+        {
+          "startSec": 46.6,
+          "endSec": 47.2,
+          "text": "Kingdom"
+        }
+      ]
+    },
+    {
+      "startSec": 47.2,
+      "endSec": 55,
+      "text": "of Bhutan has taken this to a new level with the idea of Gross National Happiness, or GNH.",
+      "words": [
+        {
+          "startSec": 47.3,
+          "endSec": 47.4,
+          "text": "of"
+        },
+        {
+          "startSec": 47.4,
+          "endSec": 48,
+          "text": "Bhutan"
+        },
+        {
+          "startSec": 48,
+          "endSec": 48.3,
+          "text": "has"
+        },
+        {
+          "startSec": 48.3,
+          "endSec": 48.8,
+          "text": "taken"
+        },
+        {
+          "startSec": 48.8,
+          "endSec": 49.2,
+          "text": "this"
+        },
+        {
+          "startSec": 49.2,
+          "endSec": 49.4,
+          "text": "to"
+        },
+        {
+          "startSec": 49.4,
+          "endSec": 49.5,
+          "text": "a"
+        },
+        {
+          "startSec": 49.5,
+          "endSec": 49.8,
+          "text": "new"
+        },
+        {
+          "startSec": 49.8,
+          "endSec": 50.3,
+          "text": "level"
+        },
+        {
+          "startSec": 50.3,
+          "endSec": 50.7,
+          "text": "with"
+        },
+        {
+          "startSec": 50.7,
+          "endSec": 51,
+          "text": "the"
+        },
+        {
+          "startSec": 51,
+          "endSec": 51.4,
+          "text": "idea"
+        },
+        {
+          "startSec": 51.4,
+          "endSec": 51.6,
+          "text": "of"
+        },
+        {
+          "startSec": 51.6,
+          "endSec": 52.1,
+          "text": "Gross"
+        },
+        {
+          "startSec": 52.1,
+          "endSec": 53.4,
+          "text": "National"
+        },
+        {
+          "startSec": 53.4,
+          "endSec": 54.1,
+          "text": "Happiness,"
+        },
+        {
+          "startSec": 54.1,
+          "endSec": 54.3,
+          "text": "or"
+        },
+        {
+          "startSec": 54.3,
+          "endSec": 55,
+          "text": "GNH."
+        },
+        {
+          "startSec": 55,
+          "endSec": 55.3,
+          "text": "We'll"
+        }
+      ]
+    },
+    {
+      "startSec": 55,
+      "endSec": 60.6,
+      "text": "We'll be hearing more about gross national happiness and learning some useful new vocabulary soon.",
+      "words": [
+        {
+          "startSec": 55,
+          "endSec": 55.3,
+          "text": "We'll"
+        },
+        {
+          "startSec": 55.3,
+          "endSec": 55.4,
+          "text": "be"
+        },
+        {
+          "startSec": 55.4,
+          "endSec": 55.8,
+          "text": "hearing"
+        },
+        {
+          "startSec": 55.8,
+          "endSec": 56.1,
+          "text": "more"
+        },
+        {
+          "startSec": 56.1,
+          "endSec": 56.4,
+          "text": "about"
+        },
+        {
+          "startSec": 56.4,
+          "endSec": 56.7,
+          "text": "gross"
+        },
+        {
+          "startSec": 56.7,
+          "endSec": 57.2,
+          "text": "national"
+        },
+        {
+          "startSec": 57.2,
+          "endSec": 57.8,
+          "text": "happiness"
+        },
+        {
+          "startSec": 57.8,
+          "endSec": 58,
+          "text": "and"
+        },
+        {
+          "startSec": 58,
+          "endSec": 58.5,
+          "text": "learning"
+        },
+        {
+          "startSec": 58.5,
+          "endSec": 58.8,
+          "text": "some"
+        },
+        {
+          "startSec": 58.8,
+          "endSec": 59.1,
+          "text": "useful"
+        },
+        {
+          "startSec": 59.1,
+          "endSec": 59.3,
+          "text": "new"
+        },
+        {
+          "startSec": 59.3,
+          "endSec": 60,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 60,
+          "endSec": 60.6,
+          "text": "soon."
+        },
+        {
+          "startSec": 60.6,
+          "endSec": 60.8,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 60.6,
+      "endSec": 65.9,
+      "text": "But first, Pippa, I have a question for you. Of course, it's not just the people of Bhutan",
+      "words": [
+        {
+          "startSec": 60.6,
+          "endSec": 60.8,
+          "text": "But"
+        },
+        {
+          "startSec": 60.8,
+          "endSec": 61.3,
+          "text": "first,"
+        },
+        {
+          "startSec": 61.3,
+          "endSec": 61.7,
+          "text": "Pippa,"
+        },
+        {
+          "startSec": 61.7,
+          "endSec": 61.8,
+          "text": "I"
+        },
+        {
+          "startSec": 61.8,
+          "endSec": 62,
+          "text": "have"
+        },
+        {
+          "startSec": 62,
+          "endSec": 62.1,
+          "text": "a"
+        },
+        {
+          "startSec": 62.1,
+          "endSec": 62.6,
+          "text": "question"
+        },
+        {
+          "startSec": 62.6,
+          "endSec": 62.8,
+          "text": "for"
+        },
+        {
+          "startSec": 62.8,
+          "endSec": 63.3,
+          "text": "you."
+        },
+        {
+          "startSec": 63.3,
+          "endSec": 63.4,
+          "text": "Of"
+        },
+        {
+          "startSec": 63.4,
+          "endSec": 63.9,
+          "text": "course,"
+        },
+        {
+          "startSec": 63.9,
+          "endSec": 64.2,
+          "text": "it's"
+        },
+        {
+          "startSec": 64.2,
+          "endSec": 64.4,
+          "text": "not"
+        },
+        {
+          "startSec": 64.4,
+          "endSec": 64.7,
+          "text": "just"
+        },
+        {
+          "startSec": 64.7,
+          "endSec": 64.9,
+          "text": "the"
+        },
+        {
+          "startSec": 64.9,
+          "endSec": 65.3,
+          "text": "people"
+        },
+        {
+          "startSec": 65.3,
+          "endSec": 65.5,
+          "text": "of"
+        },
+        {
+          "startSec": 65.5,
+          "endSec": 65.9,
+          "text": "Bhutan"
+        },
+        {
+          "startSec": 65.9,
+          "endSec": 66.1,
+          "text": "who"
+        }
+      ]
+    },
+    {
+      "startSec": 65.9,
+      "endSec": 72.2,
+      "text": "who want to be happy. In fact, the United Nations has even announced an international day of happiness.",
+      "words": [
+        {
+          "startSec": 65.9,
+          "endSec": 66.1,
+          "text": "who"
+        },
+        {
+          "startSec": 66.1,
+          "endSec": 66.4,
+          "text": "want"
+        },
+        {
+          "startSec": 66.4,
+          "endSec": 66.5,
+          "text": "to"
+        },
+        {
+          "startSec": 66.5,
+          "endSec": 66.6,
+          "text": "be"
+        },
+        {
+          "startSec": 66.6,
+          "endSec": 67.2,
+          "text": "happy."
+        },
+        {
+          "startSec": 67.2,
+          "endSec": 67.3,
+          "text": "In"
+        },
+        {
+          "startSec": 67.3,
+          "endSec": 67.7,
+          "text": "fact,"
+        },
+        {
+          "startSec": 67.7,
+          "endSec": 67.9,
+          "text": "the"
+        },
+        {
+          "startSec": 67.9,
+          "endSec": 68.3,
+          "text": "United"
+        },
+        {
+          "startSec": 68.3,
+          "endSec": 68.8,
+          "text": "Nations"
+        },
+        {
+          "startSec": 68.8,
+          "endSec": 69,
+          "text": "has"
+        },
+        {
+          "startSec": 69,
+          "endSec": 69.2,
+          "text": "even"
+        },
+        {
+          "startSec": 69.2,
+          "endSec": 70,
+          "text": "announced"
+        },
+        {
+          "startSec": 70,
+          "endSec": 70.1,
+          "text": "an"
+        },
+        {
+          "startSec": 70.1,
+          "endSec": 70.8,
+          "text": "international"
+        },
+        {
+          "startSec": 70.8,
+          "endSec": 71.2,
+          "text": "day"
+        },
+        {
+          "startSec": 71.2,
+          "endSec": 71.3,
+          "text": "of"
+        },
+        {
+          "startSec": 71.3,
+          "endSec": 72.2,
+          "text": "happiness."
+        }
+      ]
+    },
+    {
+      "startSec": 72.2,
+      "endSec": 80.3,
+      "text": "But when is that? Is international happiness day A) the 20th of March, B) the 20th of June,",
+      "words": [
+        {
+          "startSec": 72.3,
+          "endSec": 72.4,
+          "text": "But"
+        },
+        {
+          "startSec": 72.4,
+          "endSec": 72.8,
+          "text": "when"
+        },
+        {
+          "startSec": 72.8,
+          "endSec": 72.9,
+          "text": "is"
+        },
+        {
+          "startSec": 72.9,
+          "endSec": 73.6,
+          "text": "that?"
+        },
+        {
+          "startSec": 73.6,
+          "endSec": 73.7,
+          "text": "Is"
+        },
+        {
+          "startSec": 73.7,
+          "endSec": 74.9,
+          "text": "international"
+        },
+        {
+          "startSec": 74.9,
+          "endSec": 75.7,
+          "text": "happiness"
+        },
+        {
+          "startSec": 75.7,
+          "endSec": 75.9,
+          "text": "day"
+        },
+        {
+          "startSec": 75.9,
+          "endSec": 76.1,
+          "text": "A)"
+        },
+        {
+          "startSec": 76.1,
+          "endSec": 76.3,
+          "text": "the"
+        },
+        {
+          "startSec": 76.3,
+          "endSec": 77,
+          "text": "20th"
+        },
+        {
+          "startSec": 77,
+          "endSec": 77.2,
+          "text": "of"
+        },
+        {
+          "startSec": 77.2,
+          "endSec": 77.8,
+          "text": "March,"
+        },
+        {
+          "startSec": 77.8,
+          "endSec": 78.3,
+          "text": "B)"
+        },
+        {
+          "startSec": 78.3,
+          "endSec": 78.4,
+          "text": "the"
+        },
+        {
+          "startSec": 78.4,
+          "endSec": 79.3,
+          "text": "20th"
+        },
+        {
+          "startSec": 79.3,
+          "endSec": 79.6,
+          "text": "of"
+        },
+        {
+          "startSec": 79.6,
+          "endSec": 80.3,
+          "text": "June,"
+        },
+        {
+          "startSec": 80.3,
+          "endSec": 80.5,
+          "text": "or"
+        }
+      ]
+    },
+    {
+      "startSec": 80.3,
+      "endSec": 88.2,
+      "text": "or C) the 20th of November? I'm going to say the 20th of June because it would be sunny in the UK.",
+      "words": [
+        {
+          "startSec": 80.3,
+          "endSec": 80.5,
+          "text": "or"
+        },
+        {
+          "startSec": 80.5,
+          "endSec": 80.8,
+          "text": "C)"
+        },
+        {
+          "startSec": 80.8,
+          "endSec": 81.1,
+          "text": "the"
+        },
+        {
+          "startSec": 81.1,
+          "endSec": 82,
+          "text": "20th"
+        },
+        {
+          "startSec": 82,
+          "endSec": 82.2,
+          "text": "of"
+        },
+        {
+          "startSec": 82.2,
+          "endSec": 83.4,
+          "text": "November?"
+        },
+        {
+          "startSec": 83.4,
+          "endSec": 83.7,
+          "text": "I'm"
+        },
+        {
+          "startSec": 83.7,
+          "endSec": 84.2,
+          "text": "going"
+        },
+        {
+          "startSec": 84.2,
+          "endSec": 84.4,
+          "text": "to"
+        },
+        {
+          "startSec": 84.4,
+          "endSec": 84.7,
+          "text": "say"
+        },
+        {
+          "startSec": 84.7,
+          "endSec": 85,
+          "text": "the"
+        },
+        {
+          "startSec": 85,
+          "endSec": 85.8,
+          "text": "20th"
+        },
+        {
+          "startSec": 85.8,
+          "endSec": 86,
+          "text": "of"
+        },
+        {
+          "startSec": 86,
+          "endSec": 86.5,
+          "text": "June"
+        },
+        {
+          "startSec": 86.5,
+          "endSec": 86.6,
+          "text": "because"
+        },
+        {
+          "startSec": 86.6,
+          "endSec": 86.8,
+          "text": "it"
+        },
+        {
+          "startSec": 86.8,
+          "endSec": 86.8,
+          "text": "would"
+        },
+        {
+          "startSec": 86.8,
+          "endSec": 87,
+          "text": "be"
+        },
+        {
+          "startSec": 87,
+          "endSec": 87.4,
+          "text": "sunny"
+        },
+        {
+          "startSec": 87.4,
+          "endSec": 87.5,
+          "text": "in"
+        },
+        {
+          "startSec": 87.5,
+          "endSec": 87.7,
+          "text": "the"
+        },
+        {
+          "startSec": 87.7,
+          "endSec": 88.2,
+          "text": "UK."
+        },
+        {
+          "startSec": 88.2,
+          "endSec": 88.4,
+          "text": "OK,"
+        }
+      ]
+    },
+    {
+      "startSec": 88.2,
+      "endSec": 92.2,
+      "text": "OK, let's find out if you're right at the end of the programme.",
+      "words": [
+        {
+          "startSec": 88.2,
+          "endSec": 88.4,
+          "text": "OK,"
+        },
+        {
+          "startSec": 88.4,
+          "endSec": 88.8,
+          "text": "let's"
+        },
+        {
+          "startSec": 88.8,
+          "endSec": 89.1,
+          "text": "find"
+        },
+        {
+          "startSec": 89.1,
+          "endSec": 89.3,
+          "text": "out"
+        },
+        {
+          "startSec": 89.3,
+          "endSec": 89.5,
+          "text": "if"
+        },
+        {
+          "startSec": 89.5,
+          "endSec": 89.9,
+          "text": "you're"
+        },
+        {
+          "startSec": 89.9,
+          "endSec": 90.3,
+          "text": "right"
+        },
+        {
+          "startSec": 90.3,
+          "endSec": 90.4,
+          "text": "at"
+        },
+        {
+          "startSec": 90.4,
+          "endSec": 90.6,
+          "text": "the"
+        },
+        {
+          "startSec": 90.6,
+          "endSec": 90.8,
+          "text": "end"
+        },
+        {
+          "startSec": 90.8,
+          "endSec": 91,
+          "text": "of"
+        },
+        {
+          "startSec": 91,
+          "endSec": 91.2,
+          "text": "the"
+        },
+        {
+          "startSec": 91.2,
+          "endSec": 92.2,
+          "text": "programme."
+        },
+        {
+          "startSec": 92.2,
+          "endSec": 92.4,
+          "text": "Now"
+        }
+      ]
+    },
+    {
+      "startSec": 92.2,
+      "endSec": 98.8,
+      "text": "Now briefly, Gross National Happiness means preserving Bhutan's natural environment and culture",
+      "words": [
+        {
+          "startSec": 92.2,
+          "endSec": 92.4,
+          "text": "Now"
+        },
+        {
+          "startSec": 92.4,
+          "endSec": 93.2,
+          "text": "briefly,"
+        },
+        {
+          "startSec": 93.2,
+          "endSec": 93.6,
+          "text": "Gross"
+        },
+        {
+          "startSec": 93.6,
+          "endSec": 94.2,
+          "text": "National"
+        },
+        {
+          "startSec": 94.2,
+          "endSec": 95,
+          "text": "Happiness"
+        },
+        {
+          "startSec": 95,
+          "endSec": 95.4,
+          "text": "means"
+        },
+        {
+          "startSec": 95.4,
+          "endSec": 96.2,
+          "text": "preserving"
+        },
+        {
+          "startSec": 96.2,
+          "endSec": 96.8,
+          "text": "Bhutan's"
+        },
+        {
+          "startSec": 96.8,
+          "endSec": 97.4,
+          "text": "natural"
+        },
+        {
+          "startSec": 97.4,
+          "endSec": 98,
+          "text": "environment"
+        },
+        {
+          "startSec": 98,
+          "endSec": 98.3,
+          "text": "and"
+        },
+        {
+          "startSec": 98.3,
+          "endSec": 98.8,
+          "text": "culture"
+        }
+      ]
+    },
+    {
+      "startSec": 98.8,
+      "endSec": 104.7,
+      "text": "through sustainable and eco-friendly development. Bhutan's government sees these goals as more",
+      "words": [
+        {
+          "startSec": 98.9,
+          "endSec": 99.3,
+          "text": "through"
+        },
+        {
+          "startSec": 99.3,
+          "endSec": 100.1,
+          "text": "sustainable"
+        },
+        {
+          "startSec": 100.1,
+          "endSec": 100.3,
+          "text": "and"
+        },
+        {
+          "startSec": 100.3,
+          "endSec": 101.1,
+          "text": "eco-friendly"
+        },
+        {
+          "startSec": 101.1,
+          "endSec": 102.2,
+          "text": "development."
+        },
+        {
+          "startSec": 102.2,
+          "endSec": 102.6,
+          "text": "Bhutan's"
+        },
+        {
+          "startSec": 102.6,
+          "endSec": 103.1,
+          "text": "government"
+        },
+        {
+          "startSec": 103.1,
+          "endSec": 103.3,
+          "text": "sees"
+        },
+        {
+          "startSec": 103.3,
+          "endSec": 103.6,
+          "text": "these"
+        },
+        {
+          "startSec": 103.6,
+          "endSec": 104.2,
+          "text": "goals"
+        },
+        {
+          "startSec": 104.2,
+          "endSec": 104.4,
+          "text": "as"
+        },
+        {
+          "startSec": 104.4,
+          "endSec": 104.7,
+          "text": "more"
+        },
+        {
+          "startSec": 104.7,
+          "endSec": 105.4,
+          "text": "important"
+        }
+      ]
+    },
+    {
+      "startSec": 104.7,
+      "endSec": 112.2,
+      "text": "important than growing the economy at any cost. For many years, Bhutan was closed to the outside world.",
+      "words": [
+        {
+          "startSec": 104.7,
+          "endSec": 105.4,
+          "text": "important"
+        },
+        {
+          "startSec": 105.4,
+          "endSec": 105.7,
+          "text": "than"
+        },
+        {
+          "startSec": 105.7,
+          "endSec": 106.2,
+          "text": "growing"
+        },
+        {
+          "startSec": 106.2,
+          "endSec": 106.5,
+          "text": "the"
+        },
+        {
+          "startSec": 106.5,
+          "endSec": 107,
+          "text": "economy"
+        },
+        {
+          "startSec": 107,
+          "endSec": 107.1,
+          "text": "at"
+        },
+        {
+          "startSec": 107.1,
+          "endSec": 107.4,
+          "text": "any"
+        },
+        {
+          "startSec": 107.4,
+          "endSec": 107.9,
+          "text": "cost."
+        },
+        {
+          "startSec": 107.9,
+          "endSec": 108.2,
+          "text": "For"
+        },
+        {
+          "startSec": 108.2,
+          "endSec": 108.6,
+          "text": "many"
+        },
+        {
+          "startSec": 108.6,
+          "endSec": 109.2,
+          "text": "years,"
+        },
+        {
+          "startSec": 109.2,
+          "endSec": 109.8,
+          "text": "Bhutan"
+        },
+        {
+          "startSec": 109.8,
+          "endSec": 110.2,
+          "text": "was"
+        },
+        {
+          "startSec": 110.2,
+          "endSec": 110.9,
+          "text": "closed"
+        },
+        {
+          "startSec": 110.9,
+          "endSec": 110.9,
+          "text": "to"
+        },
+        {
+          "startSec": 110.9,
+          "endSec": 111,
+          "text": "the"
+        },
+        {
+          "startSec": 111,
+          "endSec": 111.6,
+          "text": "outside"
+        },
+        {
+          "startSec": 111.6,
+          "endSec": 112.2,
+          "text": "world."
+        },
+        {
+          "startSec": 112.2,
+          "endSec": 112.5,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 112.2,
+      "endSec": 119.6,
+      "text": "The first foreign tourists arrived in 1974, and television was only introduced in 1999.",
+      "words": [
+        {
+          "startSec": 112.2,
+          "endSec": 112.5,
+          "text": "The"
+        },
+        {
+          "startSec": 112.5,
+          "endSec": 112.9,
+          "text": "first"
+        },
+        {
+          "startSec": 112.9,
+          "endSec": 113.4,
+          "text": "foreign"
+        },
+        {
+          "startSec": 113.4,
+          "endSec": 114,
+          "text": "tourists"
+        },
+        {
+          "startSec": 114,
+          "endSec": 114.6,
+          "text": "arrived"
+        },
+        {
+          "startSec": 114.6,
+          "endSec": 114.7,
+          "text": "in"
+        },
+        {
+          "startSec": 114.7,
+          "endSec": 115.8,
+          "text": "1974,"
+        },
+        {
+          "startSec": 115.8,
+          "endSec": 116.1,
+          "text": "and"
+        },
+        {
+          "startSec": 116.1,
+          "endSec": 116.9,
+          "text": "television"
+        },
+        {
+          "startSec": 116.9,
+          "endSec": 117.1,
+          "text": "was"
+        },
+        {
+          "startSec": 117.1,
+          "endSec": 117.4,
+          "text": "only"
+        },
+        {
+          "startSec": 117.4,
+          "endSec": 118.2,
+          "text": "introduced"
+        },
+        {
+          "startSec": 118.2,
+          "endSec": 118.4,
+          "text": "in"
+        },
+        {
+          "startSec": 118.4,
+          "endSec": 119.6,
+          "text": "1999."
+        },
+        {
+          "startSec": 119.6,
+          "endSec": 119.8,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 119.6,
+      "endSec": 125.3,
+      "text": "The king of Bhutan wanted to modernise the country and give it the benefits of modern technology,",
+      "words": [
+        {
+          "startSec": 119.6,
+          "endSec": 119.8,
+          "text": "The"
+        },
+        {
+          "startSec": 119.8,
+          "endSec": 120.1,
+          "text": "king"
+        },
+        {
+          "startSec": 120.1,
+          "endSec": 120.3,
+          "text": "of"
+        },
+        {
+          "startSec": 120.3,
+          "endSec": 120.7,
+          "text": "Bhutan"
+        },
+        {
+          "startSec": 120.7,
+          "endSec": 121.1,
+          "text": "wanted"
+        },
+        {
+          "startSec": 121.1,
+          "endSec": 121.3,
+          "text": "to"
+        },
+        {
+          "startSec": 121.3,
+          "endSec": 121.9,
+          "text": "modernise"
+        },
+        {
+          "startSec": 121.9,
+          "endSec": 122.1,
+          "text": "the"
+        },
+        {
+          "startSec": 122.1,
+          "endSec": 122.7,
+          "text": "country"
+        },
+        {
+          "startSec": 122.7,
+          "endSec": 122.9,
+          "text": "and"
+        },
+        {
+          "startSec": 122.9,
+          "endSec": 123.1,
+          "text": "give"
+        },
+        {
+          "startSec": 123.1,
+          "endSec": 123.2,
+          "text": "it"
+        },
+        {
+          "startSec": 123.2,
+          "endSec": 123.3,
+          "text": "the"
+        },
+        {
+          "startSec": 123.3,
+          "endSec": 123.8,
+          "text": "benefits"
+        },
+        {
+          "startSec": 123.8,
+          "endSec": 123.9,
+          "text": "of"
+        },
+        {
+          "startSec": 123.9,
+          "endSec": 124.3,
+          "text": "modern"
+        },
+        {
+          "startSec": 124.3,
+          "endSec": 125.3,
+          "text": "technology,"
+        }
+      ]
+    },
+    {
+      "startSec": 125.3,
+      "endSec": 132.1,
+      "text": "but without damaging traditional culture. So, he invited outside experts to develop the idea of",
+      "words": [
+        {
+          "startSec": 125.4,
+          "endSec": 125.5,
+          "text": "but"
+        },
+        {
+          "startSec": 125.5,
+          "endSec": 126,
+          "text": "without"
+        },
+        {
+          "startSec": 126,
+          "endSec": 126.6,
+          "text": "damaging"
+        },
+        {
+          "startSec": 126.6,
+          "endSec": 127.5,
+          "text": "traditional"
+        },
+        {
+          "startSec": 127.5,
+          "endSec": 128.2,
+          "text": "culture."
+        },
+        {
+          "startSec": 128.2,
+          "endSec": 128.5,
+          "text": "So,"
+        },
+        {
+          "startSec": 128.5,
+          "endSec": 128.6,
+          "text": "he"
+        },
+        {
+          "startSec": 128.6,
+          "endSec": 129.2,
+          "text": "invited"
+        },
+        {
+          "startSec": 129.2,
+          "endSec": 129.7,
+          "text": "outside"
+        },
+        {
+          "startSec": 129.7,
+          "endSec": 130.2,
+          "text": "experts"
+        },
+        {
+          "startSec": 130.2,
+          "endSec": 130.5,
+          "text": "to"
+        },
+        {
+          "startSec": 130.5,
+          "endSec": 131,
+          "text": "develop"
+        },
+        {
+          "startSec": 131,
+          "endSec": 131.4,
+          "text": "the"
+        },
+        {
+          "startSec": 131.4,
+          "endSec": 131.8,
+          "text": "idea"
+        },
+        {
+          "startSec": 131.8,
+          "endSec": 132.1,
+          "text": "of"
+        },
+        {
+          "startSec": 132.1,
+          "endSec": 132.6,
+          "text": "Gross"
+        }
+      ]
+    },
+    {
+      "startSec": 132.1,
+      "endSec": 139,
+      "text": "Gross National Happiness. One expert was Dr Har Vin Toh, speaking here to Charmaine Cozier,",
+      "words": [
+        {
+          "startSec": 132.1,
+          "endSec": 132.6,
+          "text": "Gross"
+        },
+        {
+          "startSec": 132.6,
+          "endSec": 133.3,
+          "text": "National"
+        },
+        {
+          "startSec": 133.3,
+          "endSec": 134.5,
+          "text": "Happiness."
+        },
+        {
+          "startSec": 134.5,
+          "endSec": 134.7,
+          "text": "One"
+        },
+        {
+          "startSec": 134.7,
+          "endSec": 135.3,
+          "text": "expert"
+        },
+        {
+          "startSec": 135.3,
+          "endSec": 135.6,
+          "text": "was"
+        },
+        {
+          "startSec": 135.6,
+          "endSec": 135.8,
+          "text": "Dr"
+        },
+        {
+          "startSec": 135.8,
+          "endSec": 136.1,
+          "text": "Har"
+        },
+        {
+          "startSec": 136.1,
+          "endSec": 136.3,
+          "text": "Vin"
+        },
+        {
+          "startSec": 136.3,
+          "endSec": 136.9,
+          "text": "Toh,"
+        },
+        {
+          "startSec": 136.9,
+          "endSec": 137.5,
+          "text": "speaking"
+        },
+        {
+          "startSec": 137.5,
+          "endSec": 137.8,
+          "text": "here"
+        },
+        {
+          "startSec": 137.8,
+          "endSec": 137.9,
+          "text": "to"
+        },
+        {
+          "startSec": 137.9,
+          "endSec": 138.6,
+          "text": "Charmaine"
+        },
+        {
+          "startSec": 138.6,
+          "endSec": 139,
+          "text": "Cozier,"
+        },
+        {
+          "startSec": 139,
+          "endSec": 139.7,
+          "text": "presenter"
+        }
+      ]
+    },
+    {
+      "startSec": 139,
+      "endSec": 142.8,
+      "text": "presenter of BBC World Service programme The Inquiry.",
+      "words": [
+        {
+          "startSec": 139,
+          "endSec": 139.7,
+          "text": "presenter"
+        },
+        {
+          "startSec": 139.7,
+          "endSec": 139.9,
+          "text": "of"
+        },
+        {
+          "startSec": 139.9,
+          "endSec": 140.1,
+          "text": "BBC"
+        },
+        {
+          "startSec": 140.1,
+          "endSec": 140.5,
+          "text": "World"
+        },
+        {
+          "startSec": 140.5,
+          "endSec": 141.1,
+          "text": "Service"
+        },
+        {
+          "startSec": 141.1,
+          "endSec": 141.8,
+          "text": "programme"
+        },
+        {
+          "startSec": 141.8,
+          "endSec": 142,
+          "text": "The"
+        },
+        {
+          "startSec": 142,
+          "endSec": 142.8,
+          "text": "Inquiry."
+        },
+        {
+          "startSec": 142.8,
+          "endSec": 143.2,
+          "text": "So,"
+        }
+      ]
+    },
+    {
+      "startSec": 142.8,
+      "endSec": 150.2,
+      "text": "So, his idea was how could we modernise and open our country without losing its culture,",
+      "words": [
+        {
+          "startSec": 142.8,
+          "endSec": 143.2,
+          "text": "So,"
+        },
+        {
+          "startSec": 143.2,
+          "endSec": 143.5,
+          "text": "his"
+        },
+        {
+          "startSec": 143.5,
+          "endSec": 143.8,
+          "text": "idea"
+        },
+        {
+          "startSec": 143.8,
+          "endSec": 144.1,
+          "text": "was"
+        },
+        {
+          "startSec": 144.1,
+          "endSec": 144.4,
+          "text": "how"
+        },
+        {
+          "startSec": 144.4,
+          "endSec": 144.9,
+          "text": "could"
+        },
+        {
+          "startSec": 144.9,
+          "endSec": 145.1,
+          "text": "we"
+        },
+        {
+          "startSec": 145.1,
+          "endSec": 145.9,
+          "text": "modernise"
+        },
+        {
+          "startSec": 145.9,
+          "endSec": 146.2,
+          "text": "and"
+        },
+        {
+          "startSec": 146.2,
+          "endSec": 146.6,
+          "text": "open"
+        },
+        {
+          "startSec": 146.6,
+          "endSec": 146.9,
+          "text": "our"
+        },
+        {
+          "startSec": 146.9,
+          "endSec": 147.6,
+          "text": "country"
+        },
+        {
+          "startSec": 147.6,
+          "endSec": 148.9,
+          "text": "without"
+        },
+        {
+          "startSec": 148.9,
+          "endSec": 149.4,
+          "text": "losing"
+        },
+        {
+          "startSec": 149.4,
+          "endSec": 149.7,
+          "text": "its"
+        },
+        {
+          "startSec": 149.7,
+          "endSec": 150.2,
+          "text": "culture,"
+        }
+      ]
+    },
+    {
+      "startSec": 150.8,
+      "endSec": 157.5,
+      "text": "its environment and its very strong social fabric, because Bhutan was one of the only countries",
+      "words": [
+        {
+          "startSec": 150.9,
+          "endSec": 151.1,
+          "text": "its"
+        },
+        {
+          "startSec": 151.1,
+          "endSec": 152,
+          "text": "environment"
+        },
+        {
+          "startSec": 152,
+          "endSec": 152.3,
+          "text": "and"
+        },
+        {
+          "startSec": 152.3,
+          "endSec": 152.5,
+          "text": "its"
+        },
+        {
+          "startSec": 152.5,
+          "endSec": 152.9,
+          "text": "very"
+        },
+        {
+          "startSec": 152.9,
+          "endSec": 153.4,
+          "text": "strong"
+        },
+        {
+          "startSec": 153.4,
+          "endSec": 154,
+          "text": "social"
+        },
+        {
+          "startSec": 154,
+          "endSec": 154.7,
+          "text": "fabric,"
+        },
+        {
+          "startSec": 154.7,
+          "endSec": 155.3,
+          "text": "because"
+        },
+        {
+          "startSec": 155.3,
+          "endSec": 155.8,
+          "text": "Bhutan"
+        },
+        {
+          "startSec": 155.8,
+          "endSec": 156.1,
+          "text": "was"
+        },
+        {
+          "startSec": 156.1,
+          "endSec": 156.3,
+          "text": "one"
+        },
+        {
+          "startSec": 156.3,
+          "endSec": 156.4,
+          "text": "of"
+        },
+        {
+          "startSec": 156.4,
+          "endSec": 156.6,
+          "text": "the"
+        },
+        {
+          "startSec": 156.6,
+          "endSec": 157,
+          "text": "only"
+        },
+        {
+          "startSec": 157,
+          "endSec": 157.5,
+          "text": "countries"
+        },
+        {
+          "startSec": 157.5,
+          "endSec": 157.6,
+          "text": "in"
+        }
+      ]
+    },
+    {
+      "startSec": 157.5,
+      "endSec": 161.9,
+      "text": "in Asia who was never colonised. Therefore, its culture is very intact and vibrant,",
+      "words": [
+        {
+          "startSec": 157.5,
+          "endSec": 157.6,
+          "text": "in"
+        },
+        {
+          "startSec": 157.6,
+          "endSec": 157.9,
+          "text": "Asia"
+        },
+        {
+          "startSec": 157.9,
+          "endSec": 158,
+          "text": "who"
+        },
+        {
+          "startSec": 158,
+          "endSec": 158.2,
+          "text": "was"
+        },
+        {
+          "startSec": 158.2,
+          "endSec": 158.5,
+          "text": "never"
+        },
+        {
+          "startSec": 158.5,
+          "endSec": 159.2,
+          "text": "colonised."
+        },
+        {
+          "startSec": 159.2,
+          "endSec": 159.8,
+          "text": "Therefore,"
+        },
+        {
+          "startSec": 159.8,
+          "endSec": 160,
+          "text": "its"
+        },
+        {
+          "startSec": 160,
+          "endSec": 160.4,
+          "text": "culture"
+        },
+        {
+          "startSec": 160.4,
+          "endSec": 160.5,
+          "text": "is"
+        },
+        {
+          "startSec": 160.5,
+          "endSec": 160.7,
+          "text": "very"
+        },
+        {
+          "startSec": 160.7,
+          "endSec": 161.1,
+          "text": "intact"
+        },
+        {
+          "startSec": 161.1,
+          "endSec": 161.3,
+          "text": "and"
+        },
+        {
+          "startSec": 161.3,
+          "endSec": 161.9,
+          "text": "vibrant,"
+        },
+        {
+          "startSec": 161.9,
+          "endSec": 162.4,
+          "text": "mainly"
+        }
+      ]
+    },
+    {
+      "startSec": 161.9,
+      "endSec": 168.6,
+      "text": "mainly Buddhist culture. And so, the idea was that Gross National Happiness should be the focus",
+      "words": [
+        {
+          "startSec": 161.9,
+          "endSec": 162.4,
+          "text": "mainly"
+        },
+        {
+          "startSec": 162.4,
+          "endSec": 163,
+          "text": "Buddhist"
+        },
+        {
+          "startSec": 163,
+          "endSec": 163.8,
+          "text": "culture."
+        },
+        {
+          "startSec": 163.8,
+          "endSec": 164,
+          "text": "And"
+        },
+        {
+          "startSec": 164,
+          "endSec": 164.3,
+          "text": "so,"
+        },
+        {
+          "startSec": 164.3,
+          "endSec": 164.5,
+          "text": "the"
+        },
+        {
+          "startSec": 164.5,
+          "endSec": 164.8,
+          "text": "idea"
+        },
+        {
+          "startSec": 164.8,
+          "endSec": 165.1,
+          "text": "was"
+        },
+        {
+          "startSec": 165.1,
+          "endSec": 165.4,
+          "text": "that"
+        },
+        {
+          "startSec": 165.4,
+          "endSec": 165.8,
+          "text": "Gross"
+        },
+        {
+          "startSec": 165.8,
+          "endSec": 166.4,
+          "text": "National"
+        },
+        {
+          "startSec": 166.4,
+          "endSec": 167.1,
+          "text": "Happiness"
+        },
+        {
+          "startSec": 167.1,
+          "endSec": 167.4,
+          "text": "should"
+        },
+        {
+          "startSec": 167.4,
+          "endSec": 167.7,
+          "text": "be"
+        },
+        {
+          "startSec": 167.7,
+          "endSec": 168.1,
+          "text": "the"
+        },
+        {
+          "startSec": 168.1,
+          "endSec": 168.6,
+          "text": "focus"
+        },
+        {
+          "startSec": 168.6,
+          "endSec": 168.8,
+          "text": "on"
+        }
+      ]
+    },
+    {
+      "startSec": 168.6,
+      "endSec": 175.1,
+      "text": "on all governmental decisions and policies. So, the well-being and happiness of citizens",
+      "words": [
+        {
+          "startSec": 168.6,
+          "endSec": 168.8,
+          "text": "on"
+        },
+        {
+          "startSec": 168.8,
+          "endSec": 169,
+          "text": "all"
+        },
+        {
+          "startSec": 169,
+          "endSec": 170,
+          "text": "governmental"
+        },
+        {
+          "startSec": 170,
+          "endSec": 170.8,
+          "text": "decisions"
+        },
+        {
+          "startSec": 170.8,
+          "endSec": 171,
+          "text": "and"
+        },
+        {
+          "startSec": 171,
+          "endSec": 171.9,
+          "text": "policies."
+        },
+        {
+          "startSec": 171.9,
+          "endSec": 172.2,
+          "text": "So,"
+        },
+        {
+          "startSec": 172.2,
+          "endSec": 172.5,
+          "text": "the"
+        },
+        {
+          "startSec": 172.5,
+          "endSec": 173.3,
+          "text": "well-being"
+        },
+        {
+          "startSec": 173.3,
+          "endSec": 173.5,
+          "text": "and"
+        },
+        {
+          "startSec": 173.5,
+          "endSec": 174.1,
+          "text": "happiness"
+        },
+        {
+          "startSec": 174.1,
+          "endSec": 174.8,
+          "text": "of"
+        },
+        {
+          "startSec": 174.8,
+          "endSec": 175.1,
+          "text": "citizens"
+        }
+      ]
+    },
+    {
+      "startSec": 175.1,
+      "endSec": 181.8,
+      "text": "took centre stage. Bhutan has a strong social fabric, meaning there are good relationships",
+      "words": [
+        {
+          "startSec": 175.3,
+          "endSec": 175.5,
+          "text": "took"
+        },
+        {
+          "startSec": 175.5,
+          "endSec": 176,
+          "text": "centre"
+        },
+        {
+          "startSec": 176,
+          "endSec": 176.7,
+          "text": "stage."
+        },
+        {
+          "startSec": 176.7,
+          "endSec": 177.3,
+          "text": "Bhutan"
+        },
+        {
+          "startSec": 177.3,
+          "endSec": 177.6,
+          "text": "has"
+        },
+        {
+          "startSec": 177.6,
+          "endSec": 177.6,
+          "text": "a"
+        },
+        {
+          "startSec": 177.6,
+          "endSec": 178.2,
+          "text": "strong"
+        },
+        {
+          "startSec": 178.2,
+          "endSec": 178.7,
+          "text": "social"
+        },
+        {
+          "startSec": 178.7,
+          "endSec": 179.4,
+          "text": "fabric,"
+        },
+        {
+          "startSec": 179.4,
+          "endSec": 180.1,
+          "text": "meaning"
+        },
+        {
+          "startSec": 180.1,
+          "endSec": 180.5,
+          "text": "there"
+        },
+        {
+          "startSec": 180.5,
+          "endSec": 180.9,
+          "text": "are"
+        },
+        {
+          "startSec": 180.9,
+          "endSec": 181.3,
+          "text": "good"
+        },
+        {
+          "startSec": 181.3,
+          "endSec": 181.8,
+          "text": "relationships"
+        },
+        {
+          "startSec": 181.8,
+          "endSec": 182.2,
+          "text": "within"
+        }
+      ]
+    },
+    {
+      "startSec": 181.8,
+      "endSec": 187.5,
+      "text": "within communities and these hold society together. Unlike other Asian countries,",
+      "words": [
+        {
+          "startSec": 181.8,
+          "endSec": 182.2,
+          "text": "within"
+        },
+        {
+          "startSec": 182.2,
+          "endSec": 183,
+          "text": "communities"
+        },
+        {
+          "startSec": 183,
+          "endSec": 183.1,
+          "text": "and"
+        },
+        {
+          "startSec": 183.1,
+          "endSec": 183.5,
+          "text": "these"
+        },
+        {
+          "startSec": 183.5,
+          "endSec": 183.7,
+          "text": "hold"
+        },
+        {
+          "startSec": 183.7,
+          "endSec": 184.2,
+          "text": "society"
+        },
+        {
+          "startSec": 184.2,
+          "endSec": 185,
+          "text": "together."
+        },
+        {
+          "startSec": 185,
+          "endSec": 185.5,
+          "text": "Unlike"
+        },
+        {
+          "startSec": 185.5,
+          "endSec": 186,
+          "text": "other"
+        },
+        {
+          "startSec": 186,
+          "endSec": 186.5,
+          "text": "Asian"
+        },
+        {
+          "startSec": 186.5,
+          "endSec": 187.5,
+          "text": "countries,"
+        },
+        {
+          "startSec": 187.5,
+          "endSec": 187.9,
+          "text": "Bhutan"
+        }
+      ]
+    },
+    {
+      "startSec": 187.5,
+      "endSec": 192.5,
+      "text": "Bhutan was never colonised, so its Buddhist culture and traditions are intact,",
+      "words": [
+        {
+          "startSec": 187.5,
+          "endSec": 187.9,
+          "text": "Bhutan"
+        },
+        {
+          "startSec": 187.9,
+          "endSec": 188.1,
+          "text": "was"
+        },
+        {
+          "startSec": 188.1,
+          "endSec": 188.5,
+          "text": "never"
+        },
+        {
+          "startSec": 188.5,
+          "endSec": 189.2,
+          "text": "colonised,"
+        },
+        {
+          "startSec": 189.2,
+          "endSec": 189.3,
+          "text": "so"
+        },
+        {
+          "startSec": 189.3,
+          "endSec": 189.5,
+          "text": "its"
+        },
+        {
+          "startSec": 189.5,
+          "endSec": 190.1,
+          "text": "Buddhist"
+        },
+        {
+          "startSec": 190.1,
+          "endSec": 190.6,
+          "text": "culture"
+        },
+        {
+          "startSec": 190.6,
+          "endSec": 190.8,
+          "text": "and"
+        },
+        {
+          "startSec": 190.8,
+          "endSec": 191.5,
+          "text": "traditions"
+        },
+        {
+          "startSec": 191.5,
+          "endSec": 191.8,
+          "text": "are"
+        },
+        {
+          "startSec": 191.8,
+          "endSec": 192.5,
+          "text": "intact,"
+        },
+        {
+          "startSec": 192.5,
+          "endSec": 193,
+          "text": "they're"
+        }
+      ]
+    },
+    {
+      "startSec": 192.5,
+      "endSec": 197.8,
+      "text": "they're complete and unspoiled. As a result, the happiness of Bhutan's people",
+      "words": [
+        {
+          "startSec": 192.5,
+          "endSec": 193,
+          "text": "they're"
+        },
+        {
+          "startSec": 193,
+          "endSec": 193.6,
+          "text": "complete"
+        },
+        {
+          "startSec": 193.6,
+          "endSec": 193.9,
+          "text": "and"
+        },
+        {
+          "startSec": 193.9,
+          "endSec": 194.8,
+          "text": "unspoiled."
+        },
+        {
+          "startSec": 194.8,
+          "endSec": 195,
+          "text": "As"
+        },
+        {
+          "startSec": 195,
+          "endSec": 195.1,
+          "text": "a"
+        },
+        {
+          "startSec": 195.1,
+          "endSec": 195.7,
+          "text": "result,"
+        },
+        {
+          "startSec": 195.7,
+          "endSec": 195.9,
+          "text": "the"
+        },
+        {
+          "startSec": 195.9,
+          "endSec": 196.6,
+          "text": "happiness"
+        },
+        {
+          "startSec": 196.6,
+          "endSec": 196.7,
+          "text": "of"
+        },
+        {
+          "startSec": 196.7,
+          "endSec": 197.2,
+          "text": "Bhutan's"
+        },
+        {
+          "startSec": 197.2,
+          "endSec": 197.8,
+          "text": "people"
+        },
+        {
+          "startSec": 197.8,
+          "endSec": 198.1,
+          "text": "took"
+        }
+      ]
+    },
+    {
+      "startSec": 197.8,
+      "endSec": 201.7,
+      "text": "took centre stage. It became the most important thing.",
+      "words": [
+        {
+          "startSec": 197.8,
+          "endSec": 198.1,
+          "text": "took"
+        },
+        {
+          "startSec": 198.1,
+          "endSec": 198.6,
+          "text": "centre"
+        },
+        {
+          "startSec": 198.6,
+          "endSec": 199.2,
+          "text": "stage."
+        },
+        {
+          "startSec": 199.2,
+          "endSec": 199.4,
+          "text": "It"
+        },
+        {
+          "startSec": 199.4,
+          "endSec": 199.8,
+          "text": "became"
+        },
+        {
+          "startSec": 199.8,
+          "endSec": 200,
+          "text": "the"
+        },
+        {
+          "startSec": 200,
+          "endSec": 200.3,
+          "text": "most"
+        },
+        {
+          "startSec": 200.3,
+          "endSec": 201,
+          "text": "important"
+        },
+        {
+          "startSec": 201,
+          "endSec": 201.7,
+          "text": "thing."
+        }
+      ]
+    },
+    {
+      "startSec": 201.7,
+      "endSec": 205.7,
+      "text": "Bhutan's emphasis on happiness has been admired around the world,",
+      "words": [
+        {
+          "startSec": 201.8,
+          "endSec": 202.3,
+          "text": "Bhutan's"
+        },
+        {
+          "startSec": 202.3,
+          "endSec": 202.8,
+          "text": "emphasis"
+        },
+        {
+          "startSec": 202.8,
+          "endSec": 203,
+          "text": "on"
+        },
+        {
+          "startSec": 203,
+          "endSec": 203.6,
+          "text": "happiness"
+        },
+        {
+          "startSec": 203.6,
+          "endSec": 203.8,
+          "text": "has"
+        },
+        {
+          "startSec": 203.8,
+          "endSec": 204.1,
+          "text": "been"
+        },
+        {
+          "startSec": 204.1,
+          "endSec": 204.6,
+          "text": "admired"
+        },
+        {
+          "startSec": 204.6,
+          "endSec": 205.1,
+          "text": "around"
+        },
+        {
+          "startSec": 205.1,
+          "endSec": 205.3,
+          "text": "the"
+        },
+        {
+          "startSec": 205.3,
+          "endSec": 205.7,
+          "text": "world,"
+        },
+        {
+          "startSec": 205.7,
+          "endSec": 205.9,
+          "text": "but"
+        }
+      ]
+    },
+    {
+      "startSec": 205.7,
+      "endSec": 211.7,
+      "text": "but there have been problems too. One is the migration of Bhutanese workers to India and other",
+      "words": [
+        {
+          "startSec": 205.7,
+          "endSec": 205.9,
+          "text": "but"
+        },
+        {
+          "startSec": 205.9,
+          "endSec": 206.2,
+          "text": "there"
+        },
+        {
+          "startSec": 206.2,
+          "endSec": 206.4,
+          "text": "have"
+        },
+        {
+          "startSec": 206.4,
+          "endSec": 206.6,
+          "text": "been"
+        },
+        {
+          "startSec": 206.6,
+          "endSec": 207.1,
+          "text": "problems"
+        },
+        {
+          "startSec": 207.1,
+          "endSec": 207.5,
+          "text": "too."
+        },
+        {
+          "startSec": 207.5,
+          "endSec": 207.8,
+          "text": "One"
+        },
+        {
+          "startSec": 207.8,
+          "endSec": 208,
+          "text": "is"
+        },
+        {
+          "startSec": 208,
+          "endSec": 208.3,
+          "text": "the"
+        },
+        {
+          "startSec": 208.3,
+          "endSec": 209.1,
+          "text": "migration"
+        },
+        {
+          "startSec": 209.1,
+          "endSec": 209.3,
+          "text": "of"
+        },
+        {
+          "startSec": 209.3,
+          "endSec": 210.2,
+          "text": "Bhutanese"
+        },
+        {
+          "startSec": 210.2,
+          "endSec": 210.6,
+          "text": "workers"
+        },
+        {
+          "startSec": 210.6,
+          "endSec": 210.8,
+          "text": "to"
+        },
+        {
+          "startSec": 210.8,
+          "endSec": 211.3,
+          "text": "India"
+        },
+        {
+          "startSec": 211.3,
+          "endSec": 211.4,
+          "text": "and"
+        },
+        {
+          "startSec": 211.4,
+          "endSec": 211.7,
+          "text": "other"
+        },
+        {
+          "startSec": 211.7,
+          "endSec": 212.3,
+          "text": "countries"
+        }
+      ]
+    },
+    {
+      "startSec": 211.7,
+      "endSec": 217.4,
+      "text": "countries in search of better paid jobs and opportunities, something known as the brain drain.",
+      "words": [
+        {
+          "startSec": 211.7,
+          "endSec": 212.3,
+          "text": "countries"
+        },
+        {
+          "startSec": 212.3,
+          "endSec": 212.4,
+          "text": "in"
+        },
+        {
+          "startSec": 212.4,
+          "endSec": 212.8,
+          "text": "search"
+        },
+        {
+          "startSec": 212.8,
+          "endSec": 213,
+          "text": "of"
+        },
+        {
+          "startSec": 213,
+          "endSec": 213.4,
+          "text": "better"
+        },
+        {
+          "startSec": 213.4,
+          "endSec": 213.6,
+          "text": "paid"
+        },
+        {
+          "startSec": 213.6,
+          "endSec": 213.9,
+          "text": "jobs"
+        },
+        {
+          "startSec": 213.9,
+          "endSec": 214.1,
+          "text": "and"
+        },
+        {
+          "startSec": 214.1,
+          "endSec": 215.1,
+          "text": "opportunities,"
+        },
+        {
+          "startSec": 215.1,
+          "endSec": 215.7,
+          "text": "something"
+        },
+        {
+          "startSec": 215.7,
+          "endSec": 216.1,
+          "text": "known"
+        },
+        {
+          "startSec": 216.1,
+          "endSec": 216.2,
+          "text": "as"
+        },
+        {
+          "startSec": 216.2,
+          "endSec": 216.4,
+          "text": "the"
+        },
+        {
+          "startSec": 216.4,
+          "endSec": 216.7,
+          "text": "brain"
+        },
+        {
+          "startSec": 216.7,
+          "endSec": 217.4,
+          "text": "drain."
+        },
+        {
+          "startSec": 217.4,
+          "endSec": 217.7,
+          "text": "So,"
+        }
+      ]
+    },
+    {
+      "startSec": 217.4,
+      "endSec": 224.5,
+      "text": "So, in 2023, the king of Bhutan announced a multi-million dollar project called The Mindfulness",
+      "words": [
+        {
+          "startSec": 217.4,
+          "endSec": 217.7,
+          "text": "So,"
+        },
+        {
+          "startSec": 217.7,
+          "endSec": 217.9,
+          "text": "in"
+        },
+        {
+          "startSec": 217.9,
+          "endSec": 219.2,
+          "text": "2023,"
+        },
+        {
+          "startSec": 219.2,
+          "endSec": 219.4,
+          "text": "the"
+        },
+        {
+          "startSec": 219.4,
+          "endSec": 219.8,
+          "text": "king"
+        },
+        {
+          "startSec": 219.8,
+          "endSec": 220,
+          "text": "of"
+        },
+        {
+          "startSec": 220,
+          "endSec": 220.5,
+          "text": "Bhutan"
+        },
+        {
+          "startSec": 220.5,
+          "endSec": 221.4,
+          "text": "announced"
+        },
+        {
+          "startSec": 221.4,
+          "endSec": 221.4,
+          "text": "a"
+        },
+        {
+          "startSec": 221.4,
+          "endSec": 222.4,
+          "text": "multi-million"
+        },
+        {
+          "startSec": 222.4,
+          "endSec": 222.8,
+          "text": "dollar"
+        },
+        {
+          "startSec": 222.8,
+          "endSec": 223.5,
+          "text": "project"
+        },
+        {
+          "startSec": 223.5,
+          "endSec": 223.6,
+          "text": "called"
+        },
+        {
+          "startSec": 223.6,
+          "endSec": 223.8,
+          "text": "The"
+        },
+        {
+          "startSec": 223.8,
+          "endSec": 224.5,
+          "text": "Mindfulness"
+        },
+        {
+          "startSec": 224.5,
+          "endSec": 225,
+          "text": "City,"
+        }
+      ]
+    },
+    {
+      "startSec": 224.5,
+      "endSec": 230.8,
+      "text": "City, a new Himalayan city built on spiritual and environmental principles, all powered by",
+      "words": [
+        {
+          "startSec": 224.5,
+          "endSec": 225,
+          "text": "City,"
+        },
+        {
+          "startSec": 225,
+          "endSec": 225.1,
+          "text": "a"
+        },
+        {
+          "startSec": 225.1,
+          "endSec": 225.3,
+          "text": "new"
+        },
+        {
+          "startSec": 225.3,
+          "endSec": 226,
+          "text": "Himalayan"
+        },
+        {
+          "startSec": 226,
+          "endSec": 226.4,
+          "text": "city"
+        },
+        {
+          "startSec": 226.4,
+          "endSec": 226.8,
+          "text": "built"
+        },
+        {
+          "startSec": 226.8,
+          "endSec": 226.9,
+          "text": "on"
+        },
+        {
+          "startSec": 226.9,
+          "endSec": 227.7,
+          "text": "spiritual"
+        },
+        {
+          "startSec": 227.7,
+          "endSec": 227.9,
+          "text": "and"
+        },
+        {
+          "startSec": 227.9,
+          "endSec": 229,
+          "text": "environmental"
+        },
+        {
+          "startSec": 229,
+          "endSec": 230,
+          "text": "principles,"
+        },
+        {
+          "startSec": 230,
+          "endSec": 230.2,
+          "text": "all"
+        },
+        {
+          "startSec": 230.2,
+          "endSec": 230.6,
+          "text": "powered"
+        },
+        {
+          "startSec": 230.6,
+          "endSec": 230.8,
+          "text": "by"
+        }
+      ]
+    },
+    {
+      "startSec": 230.8,
+      "endSec": 237.6,
+      "text": "renewable energy. Originally from Bhutan, Dr. Luang Ugyel is the project's director and spoke",
+      "words": [
+        {
+          "startSec": 231,
+          "endSec": 231.6,
+          "text": "renewable"
+        },
+        {
+          "startSec": 231.6,
+          "endSec": 232.4,
+          "text": "energy."
+        },
+        {
+          "startSec": 232.4,
+          "endSec": 233.3,
+          "text": "Originally"
+        },
+        {
+          "startSec": 233.3,
+          "endSec": 233.6,
+          "text": "from"
+        },
+        {
+          "startSec": 233.6,
+          "endSec": 234.3,
+          "text": "Bhutan,"
+        },
+        {
+          "startSec": 234.3,
+          "endSec": 234.7,
+          "text": "Dr."
+        },
+        {
+          "startSec": 234.7,
+          "endSec": 235.2,
+          "text": "Luang"
+        },
+        {
+          "startSec": 235.2,
+          "endSec": 235.7,
+          "text": "Ugyel"
+        },
+        {
+          "startSec": 235.7,
+          "endSec": 235.8,
+          "text": "is"
+        },
+        {
+          "startSec": 235.8,
+          "endSec": 236,
+          "text": "the"
+        },
+        {
+          "startSec": 236,
+          "endSec": 236.5,
+          "text": "project's"
+        },
+        {
+          "startSec": 236.5,
+          "endSec": 237,
+          "text": "director"
+        },
+        {
+          "startSec": 237,
+          "endSec": 237.3,
+          "text": "and"
+        },
+        {
+          "startSec": 237.3,
+          "endSec": 237.6,
+          "text": "spoke"
+        },
+        {
+          "startSec": 237.6,
+          "endSec": 237.9,
+          "text": "with"
+        }
+      ]
+    },
+    {
+      "startSec": 237.6,
+      "endSec": 244.9,
+      "text": "with Charmaine Cosia for the BBC World Services, The Inquiry. The project is also about reversing",
+      "words": [
+        {
+          "startSec": 237.6,
+          "endSec": 237.9,
+          "text": "with"
+        },
+        {
+          "startSec": 237.9,
+          "endSec": 238.5,
+          "text": "Charmaine"
+        },
+        {
+          "startSec": 238.5,
+          "endSec": 238.9,
+          "text": "Cosia"
+        },
+        {
+          "startSec": 238.9,
+          "endSec": 239.1,
+          "text": "for"
+        },
+        {
+          "startSec": 239.1,
+          "endSec": 239.3,
+          "text": "the"
+        },
+        {
+          "startSec": 239.3,
+          "endSec": 239.5,
+          "text": "BBC"
+        },
+        {
+          "startSec": 239.5,
+          "endSec": 239.9,
+          "text": "World"
+        },
+        {
+          "startSec": 239.9,
+          "endSec": 240.6,
+          "text": "Services,"
+        },
+        {
+          "startSec": 240.6,
+          "endSec": 240.8,
+          "text": "The"
+        },
+        {
+          "startSec": 240.8,
+          "endSec": 241.6,
+          "text": "Inquiry."
+        },
+        {
+          "startSec": 241.6,
+          "endSec": 242.1,
+          "text": "The"
+        },
+        {
+          "startSec": 242.1,
+          "endSec": 243,
+          "text": "project"
+        },
+        {
+          "startSec": 243,
+          "endSec": 243.7,
+          "text": "is"
+        },
+        {
+          "startSec": 243.7,
+          "endSec": 243.9,
+          "text": "also"
+        },
+        {
+          "startSec": 243.9,
+          "endSec": 244.3,
+          "text": "about"
+        },
+        {
+          "startSec": 244.3,
+          "endSec": 244.9,
+          "text": "reversing"
+        },
+        {
+          "startSec": 244.9,
+          "endSec": 245.7,
+          "text": "Bhutan's"
+        }
+      ]
+    },
+    {
+      "startSec": 244.9,
+      "endSec": 251.7,
+      "text": "Bhutan's brain drain. The intention is to have locals run this whole mind from the city. So, in",
+      "words": [
+        {
+          "startSec": 244.9,
+          "endSec": 245.7,
+          "text": "Bhutan's"
+        },
+        {
+          "startSec": 245.7,
+          "endSec": 246.2,
+          "text": "brain"
+        },
+        {
+          "startSec": 246.2,
+          "endSec": 247,
+          "text": "drain."
+        },
+        {
+          "startSec": 247,
+          "endSec": 247.3,
+          "text": "The"
+        },
+        {
+          "startSec": 247.3,
+          "endSec": 248.2,
+          "text": "intention"
+        },
+        {
+          "startSec": 248.2,
+          "endSec": 248.4,
+          "text": "is"
+        },
+        {
+          "startSec": 248.4,
+          "endSec": 248.6,
+          "text": "to"
+        },
+        {
+          "startSec": 248.6,
+          "endSec": 249,
+          "text": "have"
+        },
+        {
+          "startSec": 249,
+          "endSec": 249.6,
+          "text": "locals"
+        },
+        {
+          "startSec": 249.6,
+          "endSec": 249.8,
+          "text": "run"
+        },
+        {
+          "startSec": 249.8,
+          "endSec": 250,
+          "text": "this"
+        },
+        {
+          "startSec": 250,
+          "endSec": 250.2,
+          "text": "whole"
+        },
+        {
+          "startSec": 250.2,
+          "endSec": 250.4,
+          "text": "mind"
+        },
+        {
+          "startSec": 250.4,
+          "endSec": 250.6,
+          "text": "from"
+        },
+        {
+          "startSec": 250.6,
+          "endSec": 251,
+          "text": "the"
+        },
+        {
+          "startSec": 251,
+          "endSec": 251.4,
+          "text": "city."
+        },
+        {
+          "startSec": 251.4,
+          "endSec": 251.5,
+          "text": "So,"
+        },
+        {
+          "startSec": 251.5,
+          "endSec": 251.7,
+          "text": "in"
+        },
+        {
+          "startSec": 251.7,
+          "endSec": 252.1,
+          "text": "that"
+        }
+      ]
+    },
+    {
+      "startSec": 251.7,
+      "endSec": 259.3,
+      "text": "that sense, it's also to attract the migrants that have left and in the process of having worked",
+      "words": [
+        {
+          "startSec": 251.7,
+          "endSec": 252.1,
+          "text": "that"
+        },
+        {
+          "startSec": 252.1,
+          "endSec": 252.7,
+          "text": "sense,"
+        },
+        {
+          "startSec": 252.7,
+          "endSec": 253.1,
+          "text": "it's"
+        },
+        {
+          "startSec": 253.1,
+          "endSec": 253.5,
+          "text": "also"
+        },
+        {
+          "startSec": 253.5,
+          "endSec": 253.7,
+          "text": "to"
+        },
+        {
+          "startSec": 253.7,
+          "endSec": 254.3,
+          "text": "attract"
+        },
+        {
+          "startSec": 254.3,
+          "endSec": 254.6,
+          "text": "the"
+        },
+        {
+          "startSec": 254.6,
+          "endSec": 255.4,
+          "text": "migrants"
+        },
+        {
+          "startSec": 255.4,
+          "endSec": 255.7,
+          "text": "that"
+        },
+        {
+          "startSec": 255.7,
+          "endSec": 256.1,
+          "text": "have"
+        },
+        {
+          "startSec": 256.1,
+          "endSec": 256.5,
+          "text": "left"
+        },
+        {
+          "startSec": 256.5,
+          "endSec": 256.8,
+          "text": "and"
+        },
+        {
+          "startSec": 256.8,
+          "endSec": 257,
+          "text": "in"
+        },
+        {
+          "startSec": 257,
+          "endSec": 257.2,
+          "text": "the"
+        },
+        {
+          "startSec": 257.2,
+          "endSec": 257.9,
+          "text": "process"
+        },
+        {
+          "startSec": 257.9,
+          "endSec": 258.1,
+          "text": "of"
+        },
+        {
+          "startSec": 258.1,
+          "endSec": 258.7,
+          "text": "having"
+        },
+        {
+          "startSec": 258.7,
+          "endSec": 259.3,
+          "text": "worked"
+        }
+      ]
+    },
+    {
+      "startSec": 259.3,
+      "endSec": 264.6,
+      "text": "abroad gained the extra skills come back to the mental and the city and work.",
+      "words": [
+        {
+          "startSec": 259.4,
+          "endSec": 259.8,
+          "text": "abroad"
+        },
+        {
+          "startSec": 259.8,
+          "endSec": 260.2,
+          "text": "gained"
+        },
+        {
+          "startSec": 260.2,
+          "endSec": 260.5,
+          "text": "the"
+        },
+        {
+          "startSec": 260.5,
+          "endSec": 260.9,
+          "text": "extra"
+        },
+        {
+          "startSec": 260.9,
+          "endSec": 261.4,
+          "text": "skills"
+        },
+        {
+          "startSec": 261.4,
+          "endSec": 261.7,
+          "text": "come"
+        },
+        {
+          "startSec": 261.7,
+          "endSec": 262,
+          "text": "back"
+        },
+        {
+          "startSec": 262,
+          "endSec": 262.2,
+          "text": "to"
+        },
+        {
+          "startSec": 262.2,
+          "endSec": 262.4,
+          "text": "the"
+        },
+        {
+          "startSec": 262.4,
+          "endSec": 262.9,
+          "text": "mental"
+        },
+        {
+          "startSec": 262.9,
+          "endSec": 263.1,
+          "text": "and"
+        },
+        {
+          "startSec": 263.1,
+          "endSec": 263.4,
+          "text": "the"
+        },
+        {
+          "startSec": 263.4,
+          "endSec": 263.7,
+          "text": "city"
+        },
+        {
+          "startSec": 263.7,
+          "endSec": 263.9,
+          "text": "and"
+        },
+        {
+          "startSec": 263.9,
+          "endSec": 264.6,
+          "text": "work."
+        },
+        {
+          "startSec": 264.6,
+          "endSec": 264.8,
+          "text": "As"
+        }
+      ]
+    },
+    {
+      "startSec": 264.6,
+      "endSec": 272.6,
+      "text": "As well as being a futuristic eco-city, The Mindfulness City hopes to stop Bhutan's brain drain",
+      "words": [
+        {
+          "startSec": 264.6,
+          "endSec": 264.8,
+          "text": "As"
+        },
+        {
+          "startSec": 264.8,
+          "endSec": 265.3,
+          "text": "well"
+        },
+        {
+          "startSec": 265.3,
+          "endSec": 265.6,
+          "text": "as"
+        },
+        {
+          "startSec": 265.6,
+          "endSec": 266.2,
+          "text": "being"
+        },
+        {
+          "startSec": 266.2,
+          "endSec": 266.3,
+          "text": "a"
+        },
+        {
+          "startSec": 266.3,
+          "endSec": 267.5,
+          "text": "futuristic"
+        },
+        {
+          "startSec": 267.5,
+          "endSec": 268.8,
+          "text": "eco-city,"
+        },
+        {
+          "startSec": 268.8,
+          "endSec": 269,
+          "text": "The"
+        },
+        {
+          "startSec": 269,
+          "endSec": 269.8,
+          "text": "Mindfulness"
+        },
+        {
+          "startSec": 269.8,
+          "endSec": 270.2,
+          "text": "City"
+        },
+        {
+          "startSec": 270.2,
+          "endSec": 270.5,
+          "text": "hopes"
+        },
+        {
+          "startSec": 270.5,
+          "endSec": 270.7,
+          "text": "to"
+        },
+        {
+          "startSec": 270.7,
+          "endSec": 271.3,
+          "text": "stop"
+        },
+        {
+          "startSec": 271.3,
+          "endSec": 271.7,
+          "text": "Bhutan's"
+        },
+        {
+          "startSec": 271.7,
+          "endSec": 272.1,
+          "text": "brain"
+        },
+        {
+          "startSec": 272.1,
+          "endSec": 272.6,
+          "text": "drain"
+        },
+        {
+          "startSec": 272.6,
+          "endSec": 272.8,
+          "text": "by"
+        }
+      ]
+    },
+    {
+      "startSec": 272.6,
+      "endSec": 278.6,
+      "text": "by attracting workers back home to Bhutan. These local workers can then use the extra skills",
+      "words": [
+        {
+          "startSec": 272.6,
+          "endSec": 272.8,
+          "text": "by"
+        },
+        {
+          "startSec": 272.8,
+          "endSec": 273.4,
+          "text": "attracting"
+        },
+        {
+          "startSec": 273.4,
+          "endSec": 273.9,
+          "text": "workers"
+        },
+        {
+          "startSec": 273.9,
+          "endSec": 274.2,
+          "text": "back"
+        },
+        {
+          "startSec": 274.2,
+          "endSec": 274.4,
+          "text": "home"
+        },
+        {
+          "startSec": 274.4,
+          "endSec": 274.6,
+          "text": "to"
+        },
+        {
+          "startSec": 274.6,
+          "endSec": 275.2,
+          "text": "Bhutan."
+        },
+        {
+          "startSec": 275.2,
+          "endSec": 275.7,
+          "text": "These"
+        },
+        {
+          "startSec": 275.7,
+          "endSec": 276.1,
+          "text": "local"
+        },
+        {
+          "startSec": 276.1,
+          "endSec": 276.8,
+          "text": "workers"
+        },
+        {
+          "startSec": 276.8,
+          "endSec": 277.1,
+          "text": "can"
+        },
+        {
+          "startSec": 277.1,
+          "endSec": 277.4,
+          "text": "then"
+        },
+        {
+          "startSec": 277.4,
+          "endSec": 277.6,
+          "text": "use"
+        },
+        {
+          "startSec": 277.6,
+          "endSec": 277.8,
+          "text": "the"
+        },
+        {
+          "startSec": 277.8,
+          "endSec": 278.2,
+          "text": "extra"
+        },
+        {
+          "startSec": 278.2,
+          "endSec": 278.6,
+          "text": "skills"
+        },
+        {
+          "startSec": 278.6,
+          "endSec": 278.8,
+          "text": "that"
+        }
+      ]
+    },
+    {
+      "startSec": 278.6,
+      "endSec": 283.4,
+      "text": "that they've learned abroad through upskilling, and upskilling is the process where worker skills",
+      "words": [
+        {
+          "startSec": 278.6,
+          "endSec": 278.8,
+          "text": "that"
+        },
+        {
+          "startSec": 278.8,
+          "endSec": 279.2,
+          "text": "they've"
+        },
+        {
+          "startSec": 279.2,
+          "endSec": 279.6,
+          "text": "learned"
+        },
+        {
+          "startSec": 279.6,
+          "endSec": 279.9,
+          "text": "abroad"
+        },
+        {
+          "startSec": 279.9,
+          "endSec": 280.3,
+          "text": "through"
+        },
+        {
+          "startSec": 280.3,
+          "endSec": 280.9,
+          "text": "upskilling,"
+        },
+        {
+          "startSec": 280.9,
+          "endSec": 281.1,
+          "text": "and"
+        },
+        {
+          "startSec": 281.1,
+          "endSec": 281.6,
+          "text": "upskilling"
+        },
+        {
+          "startSec": 281.6,
+          "endSec": 281.8,
+          "text": "is"
+        },
+        {
+          "startSec": 281.8,
+          "endSec": 281.9,
+          "text": "the"
+        },
+        {
+          "startSec": 281.9,
+          "endSec": 282.4,
+          "text": "process"
+        },
+        {
+          "startSec": 282.4,
+          "endSec": 282.7,
+          "text": "where"
+        },
+        {
+          "startSec": 282.7,
+          "endSec": 283,
+          "text": "worker"
+        },
+        {
+          "startSec": 283,
+          "endSec": 283.4,
+          "text": "skills"
+        },
+        {
+          "startSec": 283.4,
+          "endSec": 283.5,
+          "text": "are"
+        }
+      ]
+    },
+    {
+      "startSec": 283.4,
+      "endSec": 288.2,
+      "text": "are improved through training. The idea of gross national happiness might sound unusual,",
+      "words": [
+        {
+          "startSec": 283.4,
+          "endSec": 283.5,
+          "text": "are"
+        },
+        {
+          "startSec": 283.5,
+          "endSec": 284,
+          "text": "improved"
+        },
+        {
+          "startSec": 284,
+          "endSec": 284.3,
+          "text": "through"
+        },
+        {
+          "startSec": 284.3,
+          "endSec": 285,
+          "text": "training."
+        },
+        {
+          "startSec": 285,
+          "endSec": 285.2,
+          "text": "The"
+        },
+        {
+          "startSec": 285.2,
+          "endSec": 285.4,
+          "text": "idea"
+        },
+        {
+          "startSec": 285.4,
+          "endSec": 285.6,
+          "text": "of"
+        },
+        {
+          "startSec": 285.6,
+          "endSec": 285.9,
+          "text": "gross"
+        },
+        {
+          "startSec": 285.9,
+          "endSec": 286.4,
+          "text": "national"
+        },
+        {
+          "startSec": 286.4,
+          "endSec": 287,
+          "text": "happiness"
+        },
+        {
+          "startSec": 287,
+          "endSec": 287.4,
+          "text": "might"
+        },
+        {
+          "startSec": 287.4,
+          "endSec": 287.6,
+          "text": "sound"
+        },
+        {
+          "startSec": 287.6,
+          "endSec": 288.2,
+          "text": "unusual,"
+        }
+      ]
+    },
+    {
+      "startSec": 288.2,
+      "endSec": 293.6,
+      "text": "but it's interesting to see Bhutan balancing economic growth with the happiness of its people.",
+      "words": [
+        {
+          "startSec": 288.3,
+          "endSec": 288.4,
+          "text": "but"
+        },
+        {
+          "startSec": 288.4,
+          "endSec": 288.6,
+          "text": "it's"
+        },
+        {
+          "startSec": 288.6,
+          "endSec": 289.3,
+          "text": "interesting"
+        },
+        {
+          "startSec": 289.3,
+          "endSec": 289.5,
+          "text": "to"
+        },
+        {
+          "startSec": 289.5,
+          "endSec": 289.7,
+          "text": "see"
+        },
+        {
+          "startSec": 289.7,
+          "endSec": 290,
+          "text": "Bhutan"
+        },
+        {
+          "startSec": 290,
+          "endSec": 290.7,
+          "text": "balancing"
+        },
+        {
+          "startSec": 290.7,
+          "endSec": 291.2,
+          "text": "economic"
+        },
+        {
+          "startSec": 291.2,
+          "endSec": 291.5,
+          "text": "growth"
+        },
+        {
+          "startSec": 291.5,
+          "endSec": 291.8,
+          "text": "with"
+        },
+        {
+          "startSec": 291.8,
+          "endSec": 292,
+          "text": "the"
+        },
+        {
+          "startSec": 292,
+          "endSec": 292.6,
+          "text": "happiness"
+        },
+        {
+          "startSec": 292.6,
+          "endSec": 292.7,
+          "text": "of"
+        },
+        {
+          "startSec": 292.7,
+          "endSec": 293,
+          "text": "its"
+        },
+        {
+          "startSec": 293,
+          "endSec": 293.6,
+          "text": "people."
+        },
+        {
+          "startSec": 293.6,
+          "endSec": 294,
+          "text": "Yes,"
+        }
+      ]
+    },
+    {
+      "startSec": 293.6,
+      "endSec": 297.2,
+      "text": "Yes, that's true, and it reminds me of your question now.",
+      "words": [
+        {
+          "startSec": 293.6,
+          "endSec": 294,
+          "text": "Yes,"
+        },
+        {
+          "startSec": 294,
+          "endSec": 294.4,
+          "text": "that's"
+        },
+        {
+          "startSec": 294.4,
+          "endSec": 294.8,
+          "text": "true,"
+        },
+        {
+          "startSec": 294.8,
+          "endSec": 295,
+          "text": "and"
+        },
+        {
+          "startSec": 295,
+          "endSec": 295.1,
+          "text": "it"
+        },
+        {
+          "startSec": 295.1,
+          "endSec": 295.6,
+          "text": "reminds"
+        },
+        {
+          "startSec": 295.6,
+          "endSec": 295.8,
+          "text": "me"
+        },
+        {
+          "startSec": 295.8,
+          "endSec": 295.9,
+          "text": "of"
+        },
+        {
+          "startSec": 295.9,
+          "endSec": 296.2,
+          "text": "your"
+        },
+        {
+          "startSec": 296.2,
+          "endSec": 296.8,
+          "text": "question"
+        },
+        {
+          "startSec": 296.8,
+          "endSec": 297.2,
+          "text": "now."
+        },
+        {
+          "startSec": 297.2,
+          "endSec": 297.7,
+          "text": "Yes,"
+        }
+      ]
+    },
+    {
+      "startSec": 297.2,
+      "endSec": 302.6,
+      "text": "Yes, I asked you what the date of International Happiness Day is.",
+      "words": [
+        {
+          "startSec": 297.2,
+          "endSec": 297.7,
+          "text": "Yes,"
+        },
+        {
+          "startSec": 297.7,
+          "endSec": 297.7,
+          "text": "I"
+        },
+        {
+          "startSec": 297.7,
+          "endSec": 298.2,
+          "text": "asked"
+        },
+        {
+          "startSec": 298.2,
+          "endSec": 298.5,
+          "text": "you"
+        },
+        {
+          "startSec": 298.5,
+          "endSec": 298.8,
+          "text": "what"
+        },
+        {
+          "startSec": 298.8,
+          "endSec": 299.1,
+          "text": "the"
+        },
+        {
+          "startSec": 299.1,
+          "endSec": 299.5,
+          "text": "date"
+        },
+        {
+          "startSec": 299.5,
+          "endSec": 299.6,
+          "text": "of"
+        },
+        {
+          "startSec": 299.6,
+          "endSec": 300.8,
+          "text": "International"
+        },
+        {
+          "startSec": 300.8,
+          "endSec": 301.6,
+          "text": "Happiness"
+        },
+        {
+          "startSec": 301.6,
+          "endSec": 302,
+          "text": "Day"
+        },
+        {
+          "startSec": 302,
+          "endSec": 302.6,
+          "text": "is."
+        },
+        {
+          "startSec": 302.6,
+          "endSec": 302.8,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 302.6,
+      "endSec": 305.8,
+      "text": "I said it was the 20th of June in the summer in the UK.",
+      "words": [
+        {
+          "startSec": 302.6,
+          "endSec": 302.8,
+          "text": "I"
+        },
+        {
+          "startSec": 302.8,
+          "endSec": 303,
+          "text": "said"
+        },
+        {
+          "startSec": 303,
+          "endSec": 303.1,
+          "text": "it"
+        },
+        {
+          "startSec": 303.1,
+          "endSec": 303.3,
+          "text": "was"
+        },
+        {
+          "startSec": 303.3,
+          "endSec": 303.5,
+          "text": "the"
+        },
+        {
+          "startSec": 303.5,
+          "endSec": 304,
+          "text": "20th"
+        },
+        {
+          "startSec": 304,
+          "endSec": 304.1,
+          "text": "of"
+        },
+        {
+          "startSec": 304.1,
+          "endSec": 304.3,
+          "text": "June"
+        },
+        {
+          "startSec": 304.3,
+          "endSec": 304.5,
+          "text": "in"
+        },
+        {
+          "startSec": 304.5,
+          "endSec": 304.7,
+          "text": "the"
+        },
+        {
+          "startSec": 304.7,
+          "endSec": 305,
+          "text": "summer"
+        },
+        {
+          "startSec": 305,
+          "endSec": 305.2,
+          "text": "in"
+        },
+        {
+          "startSec": 305.2,
+          "endSec": 305.4,
+          "text": "the"
+        },
+        {
+          "startSec": 305.4,
+          "endSec": 305.8,
+          "text": "UK."
+        },
+        {
+          "startSec": 305.8,
+          "endSec": 306.3,
+          "text": "Well,"
+        }
+      ]
+    },
+    {
+      "startSec": 305.8,
+      "endSec": 312.3,
+      "text": "Well, maybe it's better for people in the southern hemisphere, because it's actually the 20th of",
+      "words": [
+        {
+          "startSec": 305.8,
+          "endSec": 306.3,
+          "text": "Well,"
+        },
+        {
+          "startSec": 306.3,
+          "endSec": 306.7,
+          "text": "maybe"
+        },
+        {
+          "startSec": 306.7,
+          "endSec": 307.1,
+          "text": "it's"
+        },
+        {
+          "startSec": 307.1,
+          "endSec": 307.6,
+          "text": "better"
+        },
+        {
+          "startSec": 307.6,
+          "endSec": 307.8,
+          "text": "for"
+        },
+        {
+          "startSec": 307.8,
+          "endSec": 308.4,
+          "text": "people"
+        },
+        {
+          "startSec": 308.4,
+          "endSec": 308.5,
+          "text": "in"
+        },
+        {
+          "startSec": 308.5,
+          "endSec": 308.8,
+          "text": "the"
+        },
+        {
+          "startSec": 308.8,
+          "endSec": 309.5,
+          "text": "southern"
+        },
+        {
+          "startSec": 309.5,
+          "endSec": 310.5,
+          "text": "hemisphere,"
+        },
+        {
+          "startSec": 310.5,
+          "endSec": 310.9,
+          "text": "because"
+        },
+        {
+          "startSec": 310.9,
+          "endSec": 311.1,
+          "text": "it's"
+        },
+        {
+          "startSec": 311.1,
+          "endSec": 311.4,
+          "text": "actually"
+        },
+        {
+          "startSec": 311.4,
+          "endSec": 311.9,
+          "text": "the"
+        },
+        {
+          "startSec": 311.9,
+          "endSec": 312.2,
+          "text": "20th"
+        },
+        {
+          "startSec": 312.2,
+          "endSec": 312.3,
+          "text": "of"
+        }
+      ]
+    },
+    {
+      "startSec": 312.3,
+      "endSec": 318.9,
+      "text": "March. And if you've got that answer right, why not try our interactive quiz, which you'll find",
+      "words": [
+        {
+          "startSec": 312.5,
+          "endSec": 313,
+          "text": "March."
+        },
+        {
+          "startSec": 313,
+          "endSec": 313.3,
+          "text": "And"
+        },
+        {
+          "startSec": 313.3,
+          "endSec": 313.5,
+          "text": "if"
+        },
+        {
+          "startSec": 313.5,
+          "endSec": 314,
+          "text": "you've"
+        },
+        {
+          "startSec": 314,
+          "endSec": 314.2,
+          "text": "got"
+        },
+        {
+          "startSec": 314.2,
+          "endSec": 314.6,
+          "text": "that"
+        },
+        {
+          "startSec": 314.6,
+          "endSec": 315.1,
+          "text": "answer"
+        },
+        {
+          "startSec": 315.1,
+          "endSec": 315.7,
+          "text": "right,"
+        },
+        {
+          "startSec": 315.7,
+          "endSec": 316,
+          "text": "why"
+        },
+        {
+          "startSec": 316,
+          "endSec": 316.2,
+          "text": "not"
+        },
+        {
+          "startSec": 316.2,
+          "endSec": 316.5,
+          "text": "try"
+        },
+        {
+          "startSec": 316.5,
+          "endSec": 316.8,
+          "text": "our"
+        },
+        {
+          "startSec": 316.8,
+          "endSec": 317.7,
+          "text": "interactive"
+        },
+        {
+          "startSec": 317.7,
+          "endSec": 318.3,
+          "text": "quiz,"
+        },
+        {
+          "startSec": 318.3,
+          "endSec": 318.5,
+          "text": "which"
+        },
+        {
+          "startSec": 318.5,
+          "endSec": 318.6,
+          "text": "you'll"
+        },
+        {
+          "startSec": 318.6,
+          "endSec": 318.9,
+          "text": "find"
+        },
+        {
+          "startSec": 318.9,
+          "endSec": 319.1,
+          "text": "on"
+        }
+      ]
+    },
+    {
+      "startSec": 318.9,
+      "endSec": 325.2,
+      "text": "on our website, bbclearningenglish.com. Okay, let's recap the vocabulary we've learned,",
+      "words": [
+        {
+          "startSec": 318.9,
+          "endSec": 319.1,
+          "text": "on"
+        },
+        {
+          "startSec": 319.1,
+          "endSec": 319.3,
+          "text": "our"
+        },
+        {
+          "startSec": 319.3,
+          "endSec": 320.1,
+          "text": "website,"
+        },
+        {
+          "startSec": 320.1,
+          "endSec": 322.4,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 322.4,
+          "endSec": 322.8,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 322.8,
+          "endSec": 323.2,
+          "text": "let's"
+        },
+        {
+          "startSec": 323.2,
+          "endSec": 323.5,
+          "text": "recap"
+        },
+        {
+          "startSec": 323.5,
+          "endSec": 323.7,
+          "text": "the"
+        },
+        {
+          "startSec": 323.7,
+          "endSec": 324.3,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 324.3,
+          "endSec": 325,
+          "text": "we've"
+        },
+        {
+          "startSec": 325,
+          "endSec": 325.2,
+          "text": "learned,"
+        },
+        {
+          "startSec": 325.2,
+          "endSec": 325.7,
+          "text": "starting"
+        }
+      ]
+    },
+    {
+      "startSec": 325.2,
+      "endSec": 330.9,
+      "text": "starting with modernise, to make something more modern, for example, through introducing technology.",
+      "words": [
+        {
+          "startSec": 325.2,
+          "endSec": 325.7,
+          "text": "starting"
+        },
+        {
+          "startSec": 325.7,
+          "endSec": 326,
+          "text": "with"
+        },
+        {
+          "startSec": 326,
+          "endSec": 326.7,
+          "text": "modernise,"
+        },
+        {
+          "startSec": 326.7,
+          "endSec": 326.8,
+          "text": "to"
+        },
+        {
+          "startSec": 326.8,
+          "endSec": 327.1,
+          "text": "make"
+        },
+        {
+          "startSec": 327.1,
+          "endSec": 327.7,
+          "text": "something"
+        },
+        {
+          "startSec": 327.7,
+          "endSec": 327.9,
+          "text": "more"
+        },
+        {
+          "startSec": 327.9,
+          "endSec": 328.5,
+          "text": "modern,"
+        },
+        {
+          "startSec": 328.5,
+          "endSec": 328.7,
+          "text": "for"
+        },
+        {
+          "startSec": 328.7,
+          "endSec": 329.4,
+          "text": "example,"
+        },
+        {
+          "startSec": 329.4,
+          "endSec": 329.7,
+          "text": "through"
+        },
+        {
+          "startSec": 329.7,
+          "endSec": 330.2,
+          "text": "introducing"
+        },
+        {
+          "startSec": 330.2,
+          "endSec": 330.9,
+          "text": "technology."
+        },
+        {
+          "startSec": 330.9,
+          "endSec": 331.1,
+          "text": "Our"
+        }
+      ]
+    },
+    {
+      "startSec": 330.9,
+      "endSec": 336.9,
+      "text": "Our country's social fabric means the relationships which connect a community together.",
+      "words": [
+        {
+          "startSec": 330.9,
+          "endSec": 331.1,
+          "text": "Our"
+        },
+        {
+          "startSec": 331.1,
+          "endSec": 331.9,
+          "text": "country's"
+        },
+        {
+          "startSec": 331.9,
+          "endSec": 332.4,
+          "text": "social"
+        },
+        {
+          "startSec": 332.4,
+          "endSec": 332.9,
+          "text": "fabric"
+        },
+        {
+          "startSec": 332.9,
+          "endSec": 333.3,
+          "text": "means"
+        },
+        {
+          "startSec": 333.3,
+          "endSec": 333.5,
+          "text": "the"
+        },
+        {
+          "startSec": 333.5,
+          "endSec": 334.6,
+          "text": "relationships"
+        },
+        {
+          "startSec": 334.6,
+          "endSec": 334.9,
+          "text": "which"
+        },
+        {
+          "startSec": 334.9,
+          "endSec": 335.4,
+          "text": "connect"
+        },
+        {
+          "startSec": 335.4,
+          "endSec": 335.4,
+          "text": "a"
+        },
+        {
+          "startSec": 335.4,
+          "endSec": 336.1,
+          "text": "community"
+        },
+        {
+          "startSec": 336.1,
+          "endSec": 336.9,
+          "text": "together."
+        }
+      ]
+    },
+    {
+      "startSec": 336.9,
+      "endSec": 342.6,
+      "text": "The adjective intact means complete and undamaged. If something takes centre stage,",
+      "words": [
+        {
+          "startSec": 337,
+          "endSec": 337.1,
+          "text": "The"
+        },
+        {
+          "startSec": 337.1,
+          "endSec": 337.8,
+          "text": "adjective"
+        },
+        {
+          "startSec": 337.8,
+          "endSec": 338.3,
+          "text": "intact"
+        },
+        {
+          "startSec": 338.3,
+          "endSec": 338.7,
+          "text": "means"
+        },
+        {
+          "startSec": 338.7,
+          "endSec": 339.3,
+          "text": "complete"
+        },
+        {
+          "startSec": 339.3,
+          "endSec": 339.5,
+          "text": "and"
+        },
+        {
+          "startSec": 339.5,
+          "endSec": 340.5,
+          "text": "undamaged."
+        },
+        {
+          "startSec": 340.5,
+          "endSec": 340.6,
+          "text": "If"
+        },
+        {
+          "startSec": 340.6,
+          "endSec": 341.3,
+          "text": "something"
+        },
+        {
+          "startSec": 341.3,
+          "endSec": 341.7,
+          "text": "takes"
+        },
+        {
+          "startSec": 341.7,
+          "endSec": 342.2,
+          "text": "centre"
+        },
+        {
+          "startSec": 342.2,
+          "endSec": 342.6,
+          "text": "stage,"
+        },
+        {
+          "startSec": 342.6,
+          "endSec": 342.8,
+          "text": "it"
+        }
+      ]
+    },
+    {
+      "startSec": 342.6,
+      "endSec": 347.6,
+      "text": "it becomes more important than anything else. A brain drain happens when large",
+      "words": [
+        {
+          "startSec": 342.6,
+          "endSec": 342.8,
+          "text": "it"
+        },
+        {
+          "startSec": 342.8,
+          "endSec": 343.3,
+          "text": "becomes"
+        },
+        {
+          "startSec": 343.3,
+          "endSec": 343.6,
+          "text": "more"
+        },
+        {
+          "startSec": 343.6,
+          "endSec": 344.2,
+          "text": "important"
+        },
+        {
+          "startSec": 344.2,
+          "endSec": 344.5,
+          "text": "than"
+        },
+        {
+          "startSec": 344.5,
+          "endSec": 345.1,
+          "text": "anything"
+        },
+        {
+          "startSec": 345.1,
+          "endSec": 345.6,
+          "text": "else."
+        },
+        {
+          "startSec": 345.6,
+          "endSec": 345.7,
+          "text": "A"
+        },
+        {
+          "startSec": 345.7,
+          "endSec": 346.2,
+          "text": "brain"
+        },
+        {
+          "startSec": 346.2,
+          "endSec": 346.6,
+          "text": "drain"
+        },
+        {
+          "startSec": 346.6,
+          "endSec": 347,
+          "text": "happens"
+        },
+        {
+          "startSec": 347,
+          "endSec": 347.3,
+          "text": "when"
+        },
+        {
+          "startSec": 347.3,
+          "endSec": 347.6,
+          "text": "large"
+        },
+        {
+          "startSec": 347.6,
+          "endSec": 348.1,
+          "text": "numbers"
+        }
+      ]
+    },
+    {
+      "startSec": 347.6,
+      "endSec": 352.6,
+      "text": "numbers of educated and skilled people leave their own country to live and work in another",
+      "words": [
+        {
+          "startSec": 347.6,
+          "endSec": 348.1,
+          "text": "numbers"
+        },
+        {
+          "startSec": 348.1,
+          "endSec": 348.2,
+          "text": "of"
+        },
+        {
+          "startSec": 348.2,
+          "endSec": 348.8,
+          "text": "educated"
+        },
+        {
+          "startSec": 348.8,
+          "endSec": 349,
+          "text": "and"
+        },
+        {
+          "startSec": 349,
+          "endSec": 349.4,
+          "text": "skilled"
+        },
+        {
+          "startSec": 349.4,
+          "endSec": 349.9,
+          "text": "people"
+        },
+        {
+          "startSec": 349.9,
+          "endSec": 350.2,
+          "text": "leave"
+        },
+        {
+          "startSec": 350.2,
+          "endSec": 350.5,
+          "text": "their"
+        },
+        {
+          "startSec": 350.5,
+          "endSec": 350.7,
+          "text": "own"
+        },
+        {
+          "startSec": 350.7,
+          "endSec": 351.2,
+          "text": "country"
+        },
+        {
+          "startSec": 351.2,
+          "endSec": 351.3,
+          "text": "to"
+        },
+        {
+          "startSec": 351.3,
+          "endSec": 351.7,
+          "text": "live"
+        },
+        {
+          "startSec": 351.7,
+          "endSec": 351.8,
+          "text": "and"
+        },
+        {
+          "startSec": 351.8,
+          "endSec": 352.1,
+          "text": "work"
+        },
+        {
+          "startSec": 352.1,
+          "endSec": 352.2,
+          "text": "in"
+        },
+        {
+          "startSec": 352.2,
+          "endSec": 352.6,
+          "text": "another"
+        },
+        {
+          "startSec": 352.6,
+          "endSec": 353,
+          "text": "country"
+        }
+      ]
+    },
+    {
+      "startSec": 352.6,
+      "endSec": 357.4,
+      "text": "country where they can earn more money. And finally, upskilling means improving",
+      "words": [
+        {
+          "startSec": 352.6,
+          "endSec": 353,
+          "text": "country"
+        },
+        {
+          "startSec": 353,
+          "endSec": 353.4,
+          "text": "where"
+        },
+        {
+          "startSec": 353.4,
+          "endSec": 353.7,
+          "text": "they"
+        },
+        {
+          "startSec": 353.7,
+          "endSec": 353.9,
+          "text": "can"
+        },
+        {
+          "startSec": 353.9,
+          "endSec": 354.1,
+          "text": "earn"
+        },
+        {
+          "startSec": 354.1,
+          "endSec": 354.4,
+          "text": "more"
+        },
+        {
+          "startSec": 354.4,
+          "endSec": 354.9,
+          "text": "money."
+        },
+        {
+          "startSec": 354.9,
+          "endSec": 355.1,
+          "text": "And"
+        },
+        {
+          "startSec": 355.1,
+          "endSec": 355.7,
+          "text": "finally,"
+        },
+        {
+          "startSec": 355.7,
+          "endSec": 356.4,
+          "text": "upskilling"
+        },
+        {
+          "startSec": 356.4,
+          "endSec": 356.9,
+          "text": "means"
+        },
+        {
+          "startSec": 356.9,
+          "endSec": 357.4,
+          "text": "improving"
+        },
+        {
+          "startSec": 357.4,
+          "endSec": 357.9,
+          "text": "worker"
+        }
+      ]
+    },
+    {
+      "startSec": 357.4,
+      "endSec": 363.4,
+      "text": "worker skills through training and experience. Once again, our six minutes are up. Goodbye for now.",
+      "words": [
+        {
+          "startSec": 357.4,
+          "endSec": 357.9,
+          "text": "worker"
+        },
+        {
+          "startSec": 357.9,
+          "endSec": 358.3,
+          "text": "skills"
+        },
+        {
+          "startSec": 358.3,
+          "endSec": 358.7,
+          "text": "through"
+        },
+        {
+          "startSec": 358.7,
+          "endSec": 359.3,
+          "text": "training"
+        },
+        {
+          "startSec": 359.3,
+          "endSec": 359.5,
+          "text": "and"
+        },
+        {
+          "startSec": 359.5,
+          "endSec": 360.4,
+          "text": "experience."
+        },
+        {
+          "startSec": 360.4,
+          "endSec": 360.7,
+          "text": "Once"
+        },
+        {
+          "startSec": 360.7,
+          "endSec": 361.1,
+          "text": "again,"
+        },
+        {
+          "startSec": 361.1,
+          "endSec": 361.3,
+          "text": "our"
+        },
+        {
+          "startSec": 361.3,
+          "endSec": 361.5,
+          "text": "six"
+        },
+        {
+          "startSec": 361.5,
+          "endSec": 362,
+          "text": "minutes"
+        },
+        {
+          "startSec": 362,
+          "endSec": 362.2,
+          "text": "are"
+        },
+        {
+          "startSec": 362.2,
+          "endSec": 362.6,
+          "text": "up."
+        },
+        {
+          "startSec": 362.6,
+          "endSec": 363,
+          "text": "Goodbye"
+        },
+        {
+          "startSec": 363,
+          "endSec": 363,
+          "text": "for"
+        },
+        {
+          "startSec": 363,
+          "endSec": 363.4,
+          "text": "now."
+        }
+      ]
+    },
+    {
+      "startSec": 363.4,
+      "endSec": 372.8,
+      "text": "Goodbye. 6 minutes English from bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 363.8,
+          "endSec": 369.6,
+          "text": "Goodbye."
+        },
+        {
+          "startSec": 369.6,
+          "endSec": 369.7,
+          "text": "6"
+        },
+        {
+          "startSec": 369.7,
+          "endSec": 370.1,
+          "text": "minutes"
+        },
+        {
+          "startSec": 370.1,
+          "endSec": 370.6,
+          "text": "English"
+        },
+        {
+          "startSec": 370.6,
+          "endSec": 370.9,
+          "text": "from"
+        },
+        {
+          "startSec": 370.9,
+          "endSec": 372.8,
+          "text": "bbclearningenglish.com."
+        }
+      ]
+    }
+  ],
+  "introSec": 0
+}

@@ -1,0 +1,5556 @@
+{
+  "title": "Should animals be kept in zoos",
+  "source": "BBC 6 Minute English",
+  "level": "beginner",
+  "durationSec": 368,
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
+  "audioFile": "audio.mp3",
+  "segments": [
+    {
+      "startSec": 0,
+      "endSec": 12,
+      "text": "Hello, this is Six Minute English from BBC Learning English. I'm Neil.",
+      "words": [
+        {
+          "startSec": 0.2,
+          "endSec": 1.4,
+          "text": "Hello,"
+        },
+        {
+          "startSec": 1.4,
+          "endSec": 2.3,
+          "text": "this"
+        },
+        {
+          "startSec": 2.3,
+          "endSec": 2.7,
+          "text": "is"
+        },
+        {
+          "startSec": 2.7,
+          "endSec": 3.3,
+          "text": "Six"
+        },
+        {
+          "startSec": 3.3,
+          "endSec": 4.5,
+          "text": "Minute"
+        },
+        {
+          "startSec": 4.5,
+          "endSec": 5.9,
+          "text": "English"
+        },
+        {
+          "startSec": 5.9,
+          "endSec": 6.8,
+          "text": "from"
+        },
+        {
+          "startSec": 6.8,
+          "endSec": 7.9,
+          "text": "BBC"
+        },
+        {
+          "startSec": 7.9,
+          "endSec": 9,
+          "text": "Learning"
+        },
+        {
+          "startSec": 9,
+          "endSec": 11.1,
+          "text": "English."
+        },
+        {
+          "startSec": 11.1,
+          "endSec": 11.4,
+          "text": "I'm"
+        },
+        {
+          "startSec": 11.4,
+          "endSec": 12,
+          "text": "Neil."
+        },
+        {
+          "startSec": 12,
+          "endSec": 12.3,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 12,
+      "endSec": 16.6,
+      "text": "And I'm Georgie. In this programme, we're discussing a controversial topic that often",
+      "words": [
+        {
+          "startSec": 12,
+          "endSec": 12.3,
+          "text": "And"
+        },
+        {
+          "startSec": 12.3,
+          "endSec": 12.5,
+          "text": "I'm"
+        },
+        {
+          "startSec": 12.5,
+          "endSec": 13.2,
+          "text": "Georgie."
+        },
+        {
+          "startSec": 13.2,
+          "endSec": 13.3,
+          "text": "In"
+        },
+        {
+          "startSec": 13.3,
+          "endSec": 13.5,
+          "text": "this"
+        },
+        {
+          "startSec": 13.5,
+          "endSec": 14.1,
+          "text": "programme,"
+        },
+        {
+          "startSec": 14.1,
+          "endSec": 14.3,
+          "text": "we're"
+        },
+        {
+          "startSec": 14.3,
+          "endSec": 14.8,
+          "text": "discussing"
+        },
+        {
+          "startSec": 14.8,
+          "endSec": 14.9,
+          "text": "a"
+        },
+        {
+          "startSec": 14.9,
+          "endSec": 15.5,
+          "text": "controversial"
+        },
+        {
+          "startSec": 15.5,
+          "endSec": 16,
+          "text": "topic"
+        },
+        {
+          "startSec": 16,
+          "endSec": 16.2,
+          "text": "that"
+        },
+        {
+          "startSec": 16.2,
+          "endSec": 16.6,
+          "text": "often"
+        },
+        {
+          "startSec": 16.6,
+          "endSec": 17.3,
+          "text": "produces"
+        }
+      ]
+    },
+    {
+      "startSec": 16.6,
+      "endSec": 22.1,
+      "text": "produces strong feelings. Should animals be kept in zoos? What's your opinion on this",
+      "words": [
+        {
+          "startSec": 16.6,
+          "endSec": 17.3,
+          "text": "produces"
+        },
+        {
+          "startSec": 17.3,
+          "endSec": 17.8,
+          "text": "strong"
+        },
+        {
+          "startSec": 17.8,
+          "endSec": 18.7,
+          "text": "feelings."
+        },
+        {
+          "startSec": 18.7,
+          "endSec": 19.3,
+          "text": "Should"
+        },
+        {
+          "startSec": 19.3,
+          "endSec": 19.9,
+          "text": "animals"
+        },
+        {
+          "startSec": 19.9,
+          "endSec": 20,
+          "text": "be"
+        },
+        {
+          "startSec": 20,
+          "endSec": 20.4,
+          "text": "kept"
+        },
+        {
+          "startSec": 20.4,
+          "endSec": 20.6,
+          "text": "in"
+        },
+        {
+          "startSec": 20.6,
+          "endSec": 21.2,
+          "text": "zoos?"
+        },
+        {
+          "startSec": 21.2,
+          "endSec": 21.4,
+          "text": "What's"
+        },
+        {
+          "startSec": 21.4,
+          "endSec": 21.4,
+          "text": "your"
+        },
+        {
+          "startSec": 21.4,
+          "endSec": 21.8,
+          "text": "opinion"
+        },
+        {
+          "startSec": 21.8,
+          "endSec": 21.9,
+          "text": "on"
+        },
+        {
+          "startSec": 21.9,
+          "endSec": 22.1,
+          "text": "this"
+        },
+        {
+          "startSec": 22.1,
+          "endSec": 22.6,
+          "text": "debate,"
+        }
+      ]
+    },
+    {
+      "startSec": 22.1,
+      "endSec": 23.1,
+      "text": "debate, Neil?",
+      "words": [
+        {
+          "startSec": 22.1,
+          "endSec": 22.6,
+          "text": "debate,"
+        },
+        {
+          "startSec": 22.6,
+          "endSec": 23.1,
+          "text": "Neil?"
+        },
+        {
+          "startSec": 23.1,
+          "endSec": 23.3,
+          "text": "Oh,"
+        }
+      ]
+    },
+    {
+      "startSec": 23.1,
+      "endSec": 28.6,
+      "text": "Oh, it's a really difficult question, Georgie. I think there are good scientific reasons",
+      "words": [
+        {
+          "startSec": 23.1,
+          "endSec": 23.3,
+          "text": "Oh,"
+        },
+        {
+          "startSec": 23.3,
+          "endSec": 23.5,
+          "text": "it's"
+        },
+        {
+          "startSec": 23.5,
+          "endSec": 23.5,
+          "text": "a"
+        },
+        {
+          "startSec": 23.5,
+          "endSec": 23.8,
+          "text": "really"
+        },
+        {
+          "startSec": 23.8,
+          "endSec": 24.3,
+          "text": "difficult"
+        },
+        {
+          "startSec": 24.3,
+          "endSec": 24.8,
+          "text": "question,"
+        },
+        {
+          "startSec": 24.8,
+          "endSec": 25.3,
+          "text": "Georgie."
+        },
+        {
+          "startSec": 25.3,
+          "endSec": 25.4,
+          "text": "I"
+        },
+        {
+          "startSec": 25.4,
+          "endSec": 25.9,
+          "text": "think"
+        },
+        {
+          "startSec": 25.9,
+          "endSec": 26.3,
+          "text": "there"
+        },
+        {
+          "startSec": 26.3,
+          "endSec": 26.6,
+          "text": "are"
+        },
+        {
+          "startSec": 26.6,
+          "endSec": 27,
+          "text": "good"
+        },
+        {
+          "startSec": 27,
+          "endSec": 27.9,
+          "text": "scientific"
+        },
+        {
+          "startSec": 27.9,
+          "endSec": 28.6,
+          "text": "reasons"
+        }
+      ]
+    },
+    {
+      "startSec": 28.6,
+      "endSec": 35.3,
+      "text": "for having animals in zoos, but also it seems to me a little bit sad and cruel for wild",
+      "words": [
+        {
+          "startSec": 28.7,
+          "endSec": 28.9,
+          "text": "for"
+        },
+        {
+          "startSec": 28.9,
+          "endSec": 29.5,
+          "text": "having"
+        },
+        {
+          "startSec": 29.5,
+          "endSec": 30.2,
+          "text": "animals"
+        },
+        {
+          "startSec": 30.2,
+          "endSec": 30.4,
+          "text": "in"
+        },
+        {
+          "startSec": 30.4,
+          "endSec": 30.9,
+          "text": "zoos,"
+        },
+        {
+          "startSec": 30.9,
+          "endSec": 31.2,
+          "text": "but"
+        },
+        {
+          "startSec": 31.2,
+          "endSec": 31.6,
+          "text": "also"
+        },
+        {
+          "startSec": 31.6,
+          "endSec": 31.8,
+          "text": "it"
+        },
+        {
+          "startSec": 31.8,
+          "endSec": 32.2,
+          "text": "seems"
+        },
+        {
+          "startSec": 32.2,
+          "endSec": 32.4,
+          "text": "to"
+        },
+        {
+          "startSec": 32.4,
+          "endSec": 32.6,
+          "text": "me"
+        },
+        {
+          "startSec": 32.6,
+          "endSec": 32.7,
+          "text": "a"
+        },
+        {
+          "startSec": 32.7,
+          "endSec": 33.3,
+          "text": "little"
+        },
+        {
+          "startSec": 33.3,
+          "endSec": 33.6,
+          "text": "bit"
+        },
+        {
+          "startSec": 33.6,
+          "endSec": 33.8,
+          "text": "sad"
+        },
+        {
+          "startSec": 33.8,
+          "endSec": 34.1,
+          "text": "and"
+        },
+        {
+          "startSec": 34.1,
+          "endSec": 34.7,
+          "text": "cruel"
+        },
+        {
+          "startSec": 34.7,
+          "endSec": 35,
+          "text": "for"
+        },
+        {
+          "startSec": 35,
+          "endSec": 35.3,
+          "text": "wild"
+        },
+        {
+          "startSec": 35.3,
+          "endSec": 36,
+          "text": "animals"
+        }
+      ]
+    },
+    {
+      "startSec": 35.3,
+      "endSec": 37.7,
+      "text": "animals to be locked up.",
+      "words": [
+        {
+          "startSec": 35.3,
+          "endSec": 36,
+          "text": "animals"
+        },
+        {
+          "startSec": 36,
+          "endSec": 36.2,
+          "text": "to"
+        },
+        {
+          "startSec": 36.2,
+          "endSec": 36.4,
+          "text": "be"
+        },
+        {
+          "startSec": 36.4,
+          "endSec": 37.1,
+          "text": "locked"
+        },
+        {
+          "startSec": 37.1,
+          "endSec": 37.7,
+          "text": "up."
+        },
+        {
+          "startSec": 37.7,
+          "endSec": 37.9,
+          "text": "For"
+        }
+      ]
+    },
+    {
+      "startSec": 37.7,
+      "endSec": 42.9,
+      "text": "For some, zoos are a good way to teach people about nature and save endangered species from",
+      "words": [
+        {
+          "startSec": 37.7,
+          "endSec": 37.9,
+          "text": "For"
+        },
+        {
+          "startSec": 37.9,
+          "endSec": 38.3,
+          "text": "some,"
+        },
+        {
+          "startSec": 38.3,
+          "endSec": 38.5,
+          "text": "zoos"
+        },
+        {
+          "startSec": 38.5,
+          "endSec": 38.7,
+          "text": "are"
+        },
+        {
+          "startSec": 38.7,
+          "endSec": 38.8,
+          "text": "a"
+        },
+        {
+          "startSec": 38.8,
+          "endSec": 39.1,
+          "text": "good"
+        },
+        {
+          "startSec": 39.1,
+          "endSec": 39.3,
+          "text": "way"
+        },
+        {
+          "startSec": 39.3,
+          "endSec": 39.4,
+          "text": "to"
+        },
+        {
+          "startSec": 39.4,
+          "endSec": 39.7,
+          "text": "teach"
+        },
+        {
+          "startSec": 39.7,
+          "endSec": 40.1,
+          "text": "people"
+        },
+        {
+          "startSec": 40.1,
+          "endSec": 40.5,
+          "text": "about"
+        },
+        {
+          "startSec": 40.5,
+          "endSec": 40.9,
+          "text": "nature"
+        },
+        {
+          "startSec": 40.9,
+          "endSec": 41.1,
+          "text": "and"
+        },
+        {
+          "startSec": 41.1,
+          "endSec": 41.3,
+          "text": "save"
+        },
+        {
+          "startSec": 41.3,
+          "endSec": 42,
+          "text": "endangered"
+        },
+        {
+          "startSec": 42,
+          "endSec": 42.6,
+          "text": "species"
+        },
+        {
+          "startSec": 42.6,
+          "endSec": 42.9,
+          "text": "from"
+        },
+        {
+          "startSec": 42.9,
+          "endSec": 44.1,
+          "text": "extinction."
+        }
+      ]
+    },
+    {
+      "startSec": 42.9,
+      "endSec": 49,
+      "text": "extinction. Others think separating animals from their natural habitat is cruel and unnecessary.",
+      "words": [
+        {
+          "startSec": 42.9,
+          "endSec": 44.1,
+          "text": "extinction."
+        },
+        {
+          "startSec": 44.1,
+          "endSec": 44.4,
+          "text": "Others"
+        },
+        {
+          "startSec": 44.4,
+          "endSec": 44.7,
+          "text": "think"
+        },
+        {
+          "startSec": 44.7,
+          "endSec": 45.3,
+          "text": "separating"
+        },
+        {
+          "startSec": 45.3,
+          "endSec": 45.7,
+          "text": "animals"
+        },
+        {
+          "startSec": 45.7,
+          "endSec": 45.9,
+          "text": "from"
+        },
+        {
+          "startSec": 45.9,
+          "endSec": 46.2,
+          "text": "their"
+        },
+        {
+          "startSec": 46.2,
+          "endSec": 46.6,
+          "text": "natural"
+        },
+        {
+          "startSec": 46.6,
+          "endSec": 47,
+          "text": "habitat"
+        },
+        {
+          "startSec": 47,
+          "endSec": 47.1,
+          "text": "is"
+        },
+        {
+          "startSec": 47.1,
+          "endSec": 47.4,
+          "text": "cruel"
+        },
+        {
+          "startSec": 47.4,
+          "endSec": 47.6,
+          "text": "and"
+        },
+        {
+          "startSec": 47.6,
+          "endSec": 49,
+          "text": "unnecessary."
+        },
+        {
+          "startSec": 49,
+          "endSec": 49.5,
+          "text": "Either"
+        }
+      ]
+    },
+    {
+      "startSec": 49,
+      "endSec": 55,
+      "text": "Either way, with an estimated 700 million visitors every year, zoos remain popular.",
+      "words": [
+        {
+          "startSec": 49,
+          "endSec": 49.5,
+          "text": "Either"
+        },
+        {
+          "startSec": 49.5,
+          "endSec": 49.8,
+          "text": "way,"
+        },
+        {
+          "startSec": 49.8,
+          "endSec": 50.1,
+          "text": "with"
+        },
+        {
+          "startSec": 50.1,
+          "endSec": 50.3,
+          "text": "an"
+        },
+        {
+          "startSec": 50.3,
+          "endSec": 50.9,
+          "text": "estimated"
+        },
+        {
+          "startSec": 50.9,
+          "endSec": 51.6,
+          "text": "700"
+        },
+        {
+          "startSec": 51.6,
+          "endSec": 52.1,
+          "text": "million"
+        },
+        {
+          "startSec": 52.1,
+          "endSec": 52.7,
+          "text": "visitors"
+        },
+        {
+          "startSec": 52.7,
+          "endSec": 53.1,
+          "text": "every"
+        },
+        {
+          "startSec": 53.1,
+          "endSec": 53.5,
+          "text": "year,"
+        },
+        {
+          "startSec": 53.5,
+          "endSec": 53.8,
+          "text": "zoos"
+        },
+        {
+          "startSec": 53.8,
+          "endSec": 54.2,
+          "text": "remain"
+        },
+        {
+          "startSec": 54.2,
+          "endSec": 55,
+          "text": "popular."
+        }
+      ]
+    },
+    {
+      "startSec": 55,
+      "endSec": 60.1,
+      "text": "But, are they a good thing? We'll be debating the pros and cons, as well as learning some",
+      "words": [
+        {
+          "startSec": 55.1,
+          "endSec": 55.4,
+          "text": "But,"
+        },
+        {
+          "startSec": 55.4,
+          "endSec": 55.6,
+          "text": "are"
+        },
+        {
+          "startSec": 55.6,
+          "endSec": 55.9,
+          "text": "they"
+        },
+        {
+          "startSec": 55.9,
+          "endSec": 56,
+          "text": "a"
+        },
+        {
+          "startSec": 56,
+          "endSec": 56.3,
+          "text": "good"
+        },
+        {
+          "startSec": 56.3,
+          "endSec": 56.9,
+          "text": "thing?"
+        },
+        {
+          "startSec": 56.9,
+          "endSec": 57.2,
+          "text": "We'll"
+        },
+        {
+          "startSec": 57.2,
+          "endSec": 57.4,
+          "text": "be"
+        },
+        {
+          "startSec": 57.4,
+          "endSec": 57.9,
+          "text": "debating"
+        },
+        {
+          "startSec": 57.9,
+          "endSec": 58.2,
+          "text": "the"
+        },
+        {
+          "startSec": 58.2,
+          "endSec": 58.4,
+          "text": "pros"
+        },
+        {
+          "startSec": 58.4,
+          "endSec": 58.7,
+          "text": "and"
+        },
+        {
+          "startSec": 58.7,
+          "endSec": 59.2,
+          "text": "cons,"
+        },
+        {
+          "startSec": 59.2,
+          "endSec": 59.2,
+          "text": "as"
+        },
+        {
+          "startSec": 59.2,
+          "endSec": 59.4,
+          "text": "well"
+        },
+        {
+          "startSec": 59.4,
+          "endSec": 59.5,
+          "text": "as"
+        },
+        {
+          "startSec": 59.5,
+          "endSec": 59.8,
+          "text": "learning"
+        },
+        {
+          "startSec": 59.8,
+          "endSec": 60.1,
+          "text": "some"
+        },
+        {
+          "startSec": 60.1,
+          "endSec": 60.6,
+          "text": "useful"
+        }
+      ]
+    },
+    {
+      "startSec": 60.1,
+      "endSec": 62.4,
+      "text": "useful new words and phrases.",
+      "words": [
+        {
+          "startSec": 60.1,
+          "endSec": 60.6,
+          "text": "useful"
+        },
+        {
+          "startSec": 60.6,
+          "endSec": 60.9,
+          "text": "new"
+        },
+        {
+          "startSec": 60.9,
+          "endSec": 61.3,
+          "text": "words"
+        },
+        {
+          "startSec": 61.3,
+          "endSec": 61.6,
+          "text": "and"
+        },
+        {
+          "startSec": 61.6,
+          "endSec": 62.4,
+          "text": "phrases."
+        },
+        {
+          "startSec": 62.4,
+          "endSec": 62.7,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 62.4,
+      "endSec": 69.3,
+      "text": "And remember, you can find all the vocabulary for this programme on our website, bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 62.4,
+          "endSec": 62.7,
+          "text": "And"
+        },
+        {
+          "startSec": 62.7,
+          "endSec": 63.4,
+          "text": "remember,"
+        },
+        {
+          "startSec": 63.4,
+          "endSec": 63.6,
+          "text": "you"
+        },
+        {
+          "startSec": 63.6,
+          "endSec": 63.8,
+          "text": "can"
+        },
+        {
+          "startSec": 63.8,
+          "endSec": 64.1,
+          "text": "find"
+        },
+        {
+          "startSec": 64.1,
+          "endSec": 64.3,
+          "text": "all"
+        },
+        {
+          "startSec": 64.3,
+          "endSec": 64.6,
+          "text": "the"
+        },
+        {
+          "startSec": 64.6,
+          "endSec": 65.3,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 65.3,
+          "endSec": 65.5,
+          "text": "for"
+        },
+        {
+          "startSec": 65.5,
+          "endSec": 65.8,
+          "text": "this"
+        },
+        {
+          "startSec": 65.8,
+          "endSec": 66.5,
+          "text": "programme"
+        },
+        {
+          "startSec": 66.5,
+          "endSec": 66.6,
+          "text": "on"
+        },
+        {
+          "startSec": 66.6,
+          "endSec": 66.8,
+          "text": "our"
+        },
+        {
+          "startSec": 66.8,
+          "endSec": 67.5,
+          "text": "website,"
+        },
+        {
+          "startSec": 67.5,
+          "endSec": 69.3,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 69.3,
+          "endSec": 69.5,
+          "text": "Now"
+        }
+      ]
+    },
+    {
+      "startSec": 69.3,
+      "endSec": 75.2,
+      "text": "Now I have a question for you, Georgie. In 2022, five animals escaped from Sydney's",
+      "words": [
+        {
+          "startSec": 69.3,
+          "endSec": 69.5,
+          "text": "Now"
+        },
+        {
+          "startSec": 69.5,
+          "endSec": 69.6,
+          "text": "I"
+        },
+        {
+          "startSec": 69.6,
+          "endSec": 69.8,
+          "text": "have"
+        },
+        {
+          "startSec": 69.8,
+          "endSec": 69.9,
+          "text": "a"
+        },
+        {
+          "startSec": 69.9,
+          "endSec": 70.4,
+          "text": "question"
+        },
+        {
+          "startSec": 70.4,
+          "endSec": 70.6,
+          "text": "for"
+        },
+        {
+          "startSec": 70.6,
+          "endSec": 70.9,
+          "text": "you,"
+        },
+        {
+          "startSec": 70.9,
+          "endSec": 71.6,
+          "text": "Georgie."
+        },
+        {
+          "startSec": 71.6,
+          "endSec": 71.8,
+          "text": "In"
+        },
+        {
+          "startSec": 71.8,
+          "endSec": 72.9,
+          "text": "2022,"
+        },
+        {
+          "startSec": 72.9,
+          "endSec": 73.2,
+          "text": "five"
+        },
+        {
+          "startSec": 73.2,
+          "endSec": 73.7,
+          "text": "animals"
+        },
+        {
+          "startSec": 73.7,
+          "endSec": 74.2,
+          "text": "escaped"
+        },
+        {
+          "startSec": 74.2,
+          "endSec": 74.5,
+          "text": "from"
+        },
+        {
+          "startSec": 74.5,
+          "endSec": 75.2,
+          "text": "Sydney's"
+        }
+      ]
+    },
+    {
+      "startSec": 75.2,
+      "endSec": 91.2,
+      "text": "Taronga Zoo in Australia, but were the escaped animals a) elephants, b) lions, or c) zebras?",
+      "words": [
+        {
+          "startSec": 75.3,
+          "endSec": 76.5,
+          "text": "Taronga"
+        },
+        {
+          "startSec": 76.5,
+          "endSec": 77.1,
+          "text": "Zoo"
+        },
+        {
+          "startSec": 77.1,
+          "endSec": 77.5,
+          "text": "in"
+        },
+        {
+          "startSec": 77.5,
+          "endSec": 79.6,
+          "text": "Australia,"
+        },
+        {
+          "startSec": 79.6,
+          "endSec": 80.2,
+          "text": "but"
+        },
+        {
+          "startSec": 80.2,
+          "endSec": 81,
+          "text": "were"
+        },
+        {
+          "startSec": 81,
+          "endSec": 81.6,
+          "text": "the"
+        },
+        {
+          "startSec": 81.6,
+          "endSec": 83.1,
+          "text": "escaped"
+        },
+        {
+          "startSec": 83.1,
+          "endSec": 84.3,
+          "text": "animals"
+        },
+        {
+          "startSec": 84.3,
+          "endSec": 84.7,
+          "text": "a)"
+        },
+        {
+          "startSec": 84.7,
+          "endSec": 87,
+          "text": "elephants,"
+        },
+        {
+          "startSec": 87,
+          "endSec": 87.2,
+          "text": "b)"
+        },
+        {
+          "startSec": 87.2,
+          "endSec": 88.6,
+          "text": "lions,"
+        },
+        {
+          "startSec": 88.6,
+          "endSec": 88.9,
+          "text": "or"
+        },
+        {
+          "startSec": 88.9,
+          "endSec": 89.3,
+          "text": "c)"
+        },
+        {
+          "startSec": 89.3,
+          "endSec": 91.2,
+          "text": "zebras?"
+        },
+        {
+          "startSec": 91.2,
+          "endSec": 91.7,
+          "text": "Reporter"
+        }
+      ]
+    },
+    {
+      "startSec": 91.2,
+      "endSec": 96.6,
+      "text": "Reporter William Lee Adams has been investigating the arguments for and against keeping animal",
+      "words": [
+        {
+          "startSec": 91.2,
+          "endSec": 91.7,
+          "text": "Reporter"
+        },
+        {
+          "startSec": 91.7,
+          "endSec": 92.2,
+          "text": "William"
+        },
+        {
+          "startSec": 92.2,
+          "endSec": 92.4,
+          "text": "Lee"
+        },
+        {
+          "startSec": 92.4,
+          "endSec": 92.7,
+          "text": "Adams"
+        },
+        {
+          "startSec": 92.7,
+          "endSec": 92.9,
+          "text": "has"
+        },
+        {
+          "startSec": 92.9,
+          "endSec": 93.2,
+          "text": "been"
+        },
+        {
+          "startSec": 93.2,
+          "endSec": 94.1,
+          "text": "investigating"
+        },
+        {
+          "startSec": 94.1,
+          "endSec": 94.3,
+          "text": "the"
+        },
+        {
+          "startSec": 94.3,
+          "endSec": 94.9,
+          "text": "arguments"
+        },
+        {
+          "startSec": 94.9,
+          "endSec": 95.1,
+          "text": "for"
+        },
+        {
+          "startSec": 95.1,
+          "endSec": 95.3,
+          "text": "and"
+        },
+        {
+          "startSec": 95.3,
+          "endSec": 95.7,
+          "text": "against"
+        },
+        {
+          "startSec": 95.7,
+          "endSec": 96.2,
+          "text": "keeping"
+        },
+        {
+          "startSec": 96.2,
+          "endSec": 96.6,
+          "text": "animal"
+        },
+        {
+          "startSec": 96.6,
+          "endSec": 96.8,
+          "text": "in"
+        }
+      ]
+    },
+    {
+      "startSec": 96.6,
+      "endSec": 102.3,
+      "text": "in zoos, with BBC World Service programme What in the World. Here, he gives two arguments",
+      "words": [
+        {
+          "startSec": 96.6,
+          "endSec": 96.8,
+          "text": "in"
+        },
+        {
+          "startSec": 96.8,
+          "endSec": 97.2,
+          "text": "zoos,"
+        },
+        {
+          "startSec": 97.2,
+          "endSec": 97.6,
+          "text": "with"
+        },
+        {
+          "startSec": 97.6,
+          "endSec": 97.8,
+          "text": "BBC"
+        },
+        {
+          "startSec": 97.8,
+          "endSec": 98.2,
+          "text": "World"
+        },
+        {
+          "startSec": 98.2,
+          "endSec": 98.7,
+          "text": "Service"
+        },
+        {
+          "startSec": 98.7,
+          "endSec": 99.4,
+          "text": "programme"
+        },
+        {
+          "startSec": 99.4,
+          "endSec": 99.7,
+          "text": "What"
+        },
+        {
+          "startSec": 99.7,
+          "endSec": 99.9,
+          "text": "in"
+        },
+        {
+          "startSec": 99.9,
+          "endSec": 100.1,
+          "text": "the"
+        },
+        {
+          "startSec": 100.1,
+          "endSec": 100.8,
+          "text": "World."
+        },
+        {
+          "startSec": 100.8,
+          "endSec": 101.1,
+          "text": "Here,"
+        },
+        {
+          "startSec": 101.1,
+          "endSec": 101.2,
+          "text": "he"
+        },
+        {
+          "startSec": 101.2,
+          "endSec": 101.6,
+          "text": "gives"
+        },
+        {
+          "startSec": 101.6,
+          "endSec": 101.7,
+          "text": "two"
+        },
+        {
+          "startSec": 101.7,
+          "endSec": 102.3,
+          "text": "arguments"
+        },
+        {
+          "startSec": 102.3,
+          "endSec": 102.6,
+          "text": "in"
+        }
+      ]
+    },
+    {
+      "startSec": 102.3,
+      "endSec": 104.3,
+      "text": "in favour of zoos.",
+      "words": [
+        {
+          "startSec": 102.3,
+          "endSec": 102.6,
+          "text": "in"
+        },
+        {
+          "startSec": 102.6,
+          "endSec": 103.3,
+          "text": "favour"
+        },
+        {
+          "startSec": 103.3,
+          "endSec": 103.5,
+          "text": "of"
+        },
+        {
+          "startSec": 103.5,
+          "endSec": 104.3,
+          "text": "zoos."
+        }
+      ]
+    },
+    {
+      "startSec": 104.3,
+      "endSec": 109.1,
+      "text": "Education is the primary reason that zoos give for why they should exist. The fact is,",
+      "words": [
+        {
+          "startSec": 104.5,
+          "endSec": 104.9,
+          "text": "Education"
+        },
+        {
+          "startSec": 104.9,
+          "endSec": 105,
+          "text": "is"
+        },
+        {
+          "startSec": 105,
+          "endSec": 105.2,
+          "text": "the"
+        },
+        {
+          "startSec": 105.2,
+          "endSec": 105.7,
+          "text": "primary"
+        },
+        {
+          "startSec": 105.7,
+          "endSec": 106,
+          "text": "reason"
+        },
+        {
+          "startSec": 106,
+          "endSec": 106.3,
+          "text": "that"
+        },
+        {
+          "startSec": 106.3,
+          "endSec": 106.5,
+          "text": "zoos"
+        },
+        {
+          "startSec": 106.5,
+          "endSec": 106.8,
+          "text": "give"
+        },
+        {
+          "startSec": 106.8,
+          "endSec": 107,
+          "text": "for"
+        },
+        {
+          "startSec": 107,
+          "endSec": 107.2,
+          "text": "why"
+        },
+        {
+          "startSec": 107.2,
+          "endSec": 107.4,
+          "text": "they"
+        },
+        {
+          "startSec": 107.4,
+          "endSec": 107.8,
+          "text": "should"
+        },
+        {
+          "startSec": 107.8,
+          "endSec": 108.4,
+          "text": "exist."
+        },
+        {
+          "startSec": 108.4,
+          "endSec": 108.6,
+          "text": "The"
+        },
+        {
+          "startSec": 108.6,
+          "endSec": 108.9,
+          "text": "fact"
+        },
+        {
+          "startSec": 108.9,
+          "endSec": 109.1,
+          "text": "is,"
+        },
+        {
+          "startSec": 109.1,
+          "endSec": 109.4,
+          "text": "school"
+        }
+      ]
+    },
+    {
+      "startSec": 109.1,
+      "endSec": 113.5,
+      "text": "school children all over the world are often bust to zoos. I remember myself going to see",
+      "words": [
+        {
+          "startSec": 109.1,
+          "endSec": 109.4,
+          "text": "school"
+        },
+        {
+          "startSec": 109.4,
+          "endSec": 109.9,
+          "text": "children"
+        },
+        {
+          "startSec": 109.9,
+          "endSec": 110,
+          "text": "all"
+        },
+        {
+          "startSec": 110,
+          "endSec": 110.2,
+          "text": "over"
+        },
+        {
+          "startSec": 110.2,
+          "endSec": 110.4,
+          "text": "the"
+        },
+        {
+          "startSec": 110.4,
+          "endSec": 110.7,
+          "text": "world"
+        },
+        {
+          "startSec": 110.7,
+          "endSec": 110.8,
+          "text": "are"
+        },
+        {
+          "startSec": 110.8,
+          "endSec": 111.1,
+          "text": "often"
+        },
+        {
+          "startSec": 111.1,
+          "endSec": 111.3,
+          "text": "bust"
+        },
+        {
+          "startSec": 111.3,
+          "endSec": 111.4,
+          "text": "to"
+        },
+        {
+          "startSec": 111.4,
+          "endSec": 111.8,
+          "text": "zoos."
+        },
+        {
+          "startSec": 111.8,
+          "endSec": 111.9,
+          "text": "I"
+        },
+        {
+          "startSec": 111.9,
+          "endSec": 112.4,
+          "text": "remember"
+        },
+        {
+          "startSec": 112.4,
+          "endSec": 112.8,
+          "text": "myself"
+        },
+        {
+          "startSec": 112.8,
+          "endSec": 113.2,
+          "text": "going"
+        },
+        {
+          "startSec": 113.2,
+          "endSec": 113.3,
+          "text": "to"
+        },
+        {
+          "startSec": 113.3,
+          "endSec": 113.5,
+          "text": "see"
+        },
+        {
+          "startSec": 113.5,
+          "endSec": 113.9,
+          "text": "lowland"
+        }
+      ]
+    },
+    {
+      "startSec": 113.5,
+      "endSec": 118,
+      "text": "lowland gorillas at Zoo Atlanta every single year, and the point of this was to introduce",
+      "words": [
+        {
+          "startSec": 113.5,
+          "endSec": 113.9,
+          "text": "lowland"
+        },
+        {
+          "startSec": 113.9,
+          "endSec": 114.3,
+          "text": "gorillas"
+        },
+        {
+          "startSec": 114.3,
+          "endSec": 114.5,
+          "text": "at"
+        },
+        {
+          "startSec": 114.5,
+          "endSec": 114.6,
+          "text": "Zoo"
+        },
+        {
+          "startSec": 114.6,
+          "endSec": 115,
+          "text": "Atlanta"
+        },
+        {
+          "startSec": 115,
+          "endSec": 115.3,
+          "text": "every"
+        },
+        {
+          "startSec": 115.3,
+          "endSec": 115.7,
+          "text": "single"
+        },
+        {
+          "startSec": 115.7,
+          "endSec": 116,
+          "text": "year,"
+        },
+        {
+          "startSec": 116,
+          "endSec": 116.2,
+          "text": "and"
+        },
+        {
+          "startSec": 116.2,
+          "endSec": 116.4,
+          "text": "the"
+        },
+        {
+          "startSec": 116.4,
+          "endSec": 116.6,
+          "text": "point"
+        },
+        {
+          "startSec": 116.6,
+          "endSec": 116.8,
+          "text": "of"
+        },
+        {
+          "startSec": 116.8,
+          "endSec": 117,
+          "text": "this"
+        },
+        {
+          "startSec": 117,
+          "endSec": 117.2,
+          "text": "was"
+        },
+        {
+          "startSec": 117.2,
+          "endSec": 117.3,
+          "text": "to"
+        },
+        {
+          "startSec": 117.3,
+          "endSec": 118,
+          "text": "introduce"
+        },
+        {
+          "startSec": 118,
+          "endSec": 118.2,
+          "text": "us"
+        }
+      ]
+    },
+    {
+      "startSec": 118,
+      "endSec": 119.8,
+      "text": "us to conservation.",
+      "words": [
+        {
+          "startSec": 118,
+          "endSec": 118.2,
+          "text": "us"
+        },
+        {
+          "startSec": 118.2,
+          "endSec": 118.3,
+          "text": "to"
+        },
+        {
+          "startSec": 118.3,
+          "endSec": 119.8,
+          "text": "conservation."
+        },
+        {
+          "startSec": 119.8,
+          "endSec": 120,
+          "text": "One"
+        }
+      ]
+    },
+    {
+      "startSec": 119.8,
+      "endSec": 124.4,
+      "text": "One argument for keeping animals in zoos is to educate people about the importance of",
+      "words": [
+        {
+          "startSec": 119.8,
+          "endSec": 120,
+          "text": "One"
+        },
+        {
+          "startSec": 120,
+          "endSec": 120.5,
+          "text": "argument"
+        },
+        {
+          "startSec": 120.5,
+          "endSec": 120.7,
+          "text": "for"
+        },
+        {
+          "startSec": 120.7,
+          "endSec": 121.1,
+          "text": "keeping"
+        },
+        {
+          "startSec": 121.1,
+          "endSec": 121.6,
+          "text": "animals"
+        },
+        {
+          "startSec": 121.6,
+          "endSec": 121.7,
+          "text": "in"
+        },
+        {
+          "startSec": 121.7,
+          "endSec": 122,
+          "text": "zoos"
+        },
+        {
+          "startSec": 122,
+          "endSec": 122.1,
+          "text": "is"
+        },
+        {
+          "startSec": 122.1,
+          "endSec": 122.2,
+          "text": "to"
+        },
+        {
+          "startSec": 122.2,
+          "endSec": 122.7,
+          "text": "educate"
+        },
+        {
+          "startSec": 122.7,
+          "endSec": 123,
+          "text": "people"
+        },
+        {
+          "startSec": 123,
+          "endSec": 123.4,
+          "text": "about"
+        },
+        {
+          "startSec": 123.4,
+          "endSec": 123.5,
+          "text": "the"
+        },
+        {
+          "startSec": 123.5,
+          "endSec": 124.2,
+          "text": "importance"
+        },
+        {
+          "startSec": 124.2,
+          "endSec": 124.4,
+          "text": "of"
+        },
+        {
+          "startSec": 124.4,
+          "endSec": 125.3,
+          "text": "conservation,"
+        }
+      ]
+    },
+    {
+      "startSec": 124.4,
+      "endSec": 130,
+      "text": "conservation, the protection of plants, animals and the natural world from human damage.",
+      "words": [
+        {
+          "startSec": 124.4,
+          "endSec": 125.3,
+          "text": "conservation,"
+        },
+        {
+          "startSec": 125.3,
+          "endSec": 125.5,
+          "text": "the"
+        },
+        {
+          "startSec": 125.5,
+          "endSec": 126.1,
+          "text": "protection"
+        },
+        {
+          "startSec": 126.1,
+          "endSec": 126.3,
+          "text": "of"
+        },
+        {
+          "startSec": 126.3,
+          "endSec": 126.8,
+          "text": "plants,"
+        },
+        {
+          "startSec": 126.8,
+          "endSec": 127.2,
+          "text": "animals"
+        },
+        {
+          "startSec": 127.2,
+          "endSec": 127.4,
+          "text": "and"
+        },
+        {
+          "startSec": 127.4,
+          "endSec": 127.6,
+          "text": "the"
+        },
+        {
+          "startSec": 127.6,
+          "endSec": 128,
+          "text": "natural"
+        },
+        {
+          "startSec": 128,
+          "endSec": 128.3,
+          "text": "world"
+        },
+        {
+          "startSec": 128.3,
+          "endSec": 128.6,
+          "text": "from"
+        },
+        {
+          "startSec": 128.6,
+          "endSec": 129,
+          "text": "human"
+        },
+        {
+          "startSec": 129,
+          "endSec": 130,
+          "text": "damage."
+        }
+      ]
+    },
+    {
+      "startSec": 130,
+      "endSec": 135.7,
+      "text": "A second point is that zoos often invest in research programs that help endangered animals.",
+      "words": [
+        {
+          "startSec": 130.1,
+          "endSec": 130.1,
+          "text": "A"
+        },
+        {
+          "startSec": 130.1,
+          "endSec": 130.5,
+          "text": "second"
+        },
+        {
+          "startSec": 130.5,
+          "endSec": 130.8,
+          "text": "point"
+        },
+        {
+          "startSec": 130.8,
+          "endSec": 131,
+          "text": "is"
+        },
+        {
+          "startSec": 131,
+          "endSec": 131.2,
+          "text": "that"
+        },
+        {
+          "startSec": 131.2,
+          "endSec": 131.5,
+          "text": "zoos"
+        },
+        {
+          "startSec": 131.5,
+          "endSec": 131.8,
+          "text": "often"
+        },
+        {
+          "startSec": 131.8,
+          "endSec": 132.2,
+          "text": "invest"
+        },
+        {
+          "startSec": 132.2,
+          "endSec": 132.4,
+          "text": "in"
+        },
+        {
+          "startSec": 132.4,
+          "endSec": 132.9,
+          "text": "research"
+        },
+        {
+          "startSec": 132.9,
+          "endSec": 133.5,
+          "text": "programs"
+        },
+        {
+          "startSec": 133.5,
+          "endSec": 133.7,
+          "text": "that"
+        },
+        {
+          "startSec": 133.7,
+          "endSec": 134,
+          "text": "help"
+        },
+        {
+          "startSec": 134,
+          "endSec": 134.8,
+          "text": "endangered"
+        },
+        {
+          "startSec": 134.8,
+          "endSec": 135.7,
+          "text": "animals."
+        },
+        {
+          "startSec": 135.7,
+          "endSec": 136,
+          "text": "Now"
+        }
+      ]
+    },
+    {
+      "startSec": 135.7,
+      "endSec": 142,
+      "text": "Now as we know, pandas are notoriously reluctant to mate. The female pandas have a narrow window",
+      "words": [
+        {
+          "startSec": 135.7,
+          "endSec": 136,
+          "text": "Now"
+        },
+        {
+          "startSec": 136,
+          "endSec": 136.2,
+          "text": "as"
+        },
+        {
+          "startSec": 136.2,
+          "endSec": 136.4,
+          "text": "we"
+        },
+        {
+          "startSec": 136.4,
+          "endSec": 136.9,
+          "text": "know,"
+        },
+        {
+          "startSec": 136.9,
+          "endSec": 137.4,
+          "text": "pandas"
+        },
+        {
+          "startSec": 137.4,
+          "endSec": 137.7,
+          "text": "are"
+        },
+        {
+          "startSec": 137.7,
+          "endSec": 138.7,
+          "text": "notoriously"
+        },
+        {
+          "startSec": 138.7,
+          "endSec": 139.5,
+          "text": "reluctant"
+        },
+        {
+          "startSec": 139.5,
+          "endSec": 139.7,
+          "text": "to"
+        },
+        {
+          "startSec": 139.7,
+          "endSec": 140.3,
+          "text": "mate."
+        },
+        {
+          "startSec": 140.3,
+          "endSec": 140.5,
+          "text": "The"
+        },
+        {
+          "startSec": 140.5,
+          "endSec": 140.8,
+          "text": "female"
+        },
+        {
+          "startSec": 140.8,
+          "endSec": 141,
+          "text": "pandas"
+        },
+        {
+          "startSec": 141,
+          "endSec": 141.2,
+          "text": "have"
+        },
+        {
+          "startSec": 141.2,
+          "endSec": 141.3,
+          "text": "a"
+        },
+        {
+          "startSec": 141.3,
+          "endSec": 141.6,
+          "text": "narrow"
+        },
+        {
+          "startSec": 141.6,
+          "endSec": 142,
+          "text": "window"
+        },
+        {
+          "startSec": 142,
+          "endSec": 142.1,
+          "text": "of"
+        }
+      ]
+    },
+    {
+      "startSec": 142,
+      "endSec": 148.3,
+      "text": "of fertility, they're solitary creatures and it takes two to tango when it comes to reproduction,",
+      "words": [
+        {
+          "startSec": 142,
+          "endSec": 142.1,
+          "text": "of"
+        },
+        {
+          "startSec": 142.1,
+          "endSec": 142.9,
+          "text": "fertility,"
+        },
+        {
+          "startSec": 142.9,
+          "endSec": 143.5,
+          "text": "they're"
+        },
+        {
+          "startSec": 143.5,
+          "endSec": 144.1,
+          "text": "solitary"
+        },
+        {
+          "startSec": 144.1,
+          "endSec": 144.7,
+          "text": "creatures"
+        },
+        {
+          "startSec": 144.7,
+          "endSec": 145,
+          "text": "and"
+        },
+        {
+          "startSec": 145,
+          "endSec": 145.1,
+          "text": "it"
+        },
+        {
+          "startSec": 145.1,
+          "endSec": 145.5,
+          "text": "takes"
+        },
+        {
+          "startSec": 145.5,
+          "endSec": 145.7,
+          "text": "two"
+        },
+        {
+          "startSec": 145.7,
+          "endSec": 145.9,
+          "text": "to"
+        },
+        {
+          "startSec": 145.9,
+          "endSec": 146.2,
+          "text": "tango"
+        },
+        {
+          "startSec": 146.2,
+          "endSec": 146.5,
+          "text": "when"
+        },
+        {
+          "startSec": 146.5,
+          "endSec": 146.7,
+          "text": "it"
+        },
+        {
+          "startSec": 146.7,
+          "endSec": 147.1,
+          "text": "comes"
+        },
+        {
+          "startSec": 147.1,
+          "endSec": 147.2,
+          "text": "to"
+        },
+        {
+          "startSec": 147.2,
+          "endSec": 148.3,
+          "text": "reproduction,"
+        },
+        {
+          "startSec": 148.3,
+          "endSec": 148.5,
+          "text": "but"
+        }
+      ]
+    },
+    {
+      "startSec": 148.3,
+      "endSec": 153.1,
+      "text": "but a lot of money in zoos, it goes to sort of find ways to encourage these animals to",
+      "words": [
+        {
+          "startSec": 148.3,
+          "endSec": 148.5,
+          "text": "but"
+        },
+        {
+          "startSec": 148.5,
+          "endSec": 148.6,
+          "text": "a"
+        },
+        {
+          "startSec": 148.6,
+          "endSec": 148.8,
+          "text": "lot"
+        },
+        {
+          "startSec": 148.8,
+          "endSec": 148.9,
+          "text": "of"
+        },
+        {
+          "startSec": 148.9,
+          "endSec": 149.2,
+          "text": "money"
+        },
+        {
+          "startSec": 149.2,
+          "endSec": 149.4,
+          "text": "in"
+        },
+        {
+          "startSec": 149.4,
+          "endSec": 149.8,
+          "text": "zoos,"
+        },
+        {
+          "startSec": 149.8,
+          "endSec": 149.9,
+          "text": "it"
+        },
+        {
+          "startSec": 149.9,
+          "endSec": 150.2,
+          "text": "goes"
+        },
+        {
+          "startSec": 150.2,
+          "endSec": 150.3,
+          "text": "to"
+        },
+        {
+          "startSec": 150.3,
+          "endSec": 150.5,
+          "text": "sort"
+        },
+        {
+          "startSec": 150.5,
+          "endSec": 150.7,
+          "text": "of"
+        },
+        {
+          "startSec": 150.7,
+          "endSec": 150.9,
+          "text": "find"
+        },
+        {
+          "startSec": 150.9,
+          "endSec": 151.2,
+          "text": "ways"
+        },
+        {
+          "startSec": 151.2,
+          "endSec": 151.3,
+          "text": "to"
+        },
+        {
+          "startSec": 151.3,
+          "endSec": 151.9,
+          "text": "encourage"
+        },
+        {
+          "startSec": 151.9,
+          "endSec": 152.3,
+          "text": "these"
+        },
+        {
+          "startSec": 152.3,
+          "endSec": 152.8,
+          "text": "animals"
+        },
+        {
+          "startSec": 152.8,
+          "endSec": 153.1,
+          "text": "to"
+        },
+        {
+          "startSec": 153.1,
+          "endSec": 154.1,
+          "text": "mate."
+        }
+      ]
+    },
+    {
+      "startSec": 153.1,
+      "endSec": 154.1,
+      "text": "mate.",
+      "words": [
+        {
+          "startSec": 153.1,
+          "endSec": 154.1,
+          "text": "mate."
+        },
+        {
+          "startSec": 154.1,
+          "endSec": 154.2,
+          "text": "A"
+        }
+      ]
+    },
+    {
+      "startSec": 154.1,
+      "endSec": 159.6,
+      "text": "A second argument is that zoos protect endangered species from extinction through breeding.",
+      "words": [
+        {
+          "startSec": 154.1,
+          "endSec": 154.2,
+          "text": "A"
+        },
+        {
+          "startSec": 154.2,
+          "endSec": 154.6,
+          "text": "second"
+        },
+        {
+          "startSec": 154.6,
+          "endSec": 155.1,
+          "text": "argument"
+        },
+        {
+          "startSec": 155.1,
+          "endSec": 155.3,
+          "text": "is"
+        },
+        {
+          "startSec": 155.3,
+          "endSec": 155.5,
+          "text": "that"
+        },
+        {
+          "startSec": 155.5,
+          "endSec": 155.8,
+          "text": "zoos"
+        },
+        {
+          "startSec": 155.8,
+          "endSec": 156.3,
+          "text": "protect"
+        },
+        {
+          "startSec": 156.3,
+          "endSec": 156.9,
+          "text": "endangered"
+        },
+        {
+          "startSec": 156.9,
+          "endSec": 157.4,
+          "text": "species"
+        },
+        {
+          "startSec": 157.4,
+          "endSec": 157.7,
+          "text": "from"
+        },
+        {
+          "startSec": 157.7,
+          "endSec": 158.3,
+          "text": "extinction"
+        },
+        {
+          "startSec": 158.3,
+          "endSec": 158.8,
+          "text": "through"
+        },
+        {
+          "startSec": 158.8,
+          "endSec": 159.6,
+          "text": "breeding."
+        }
+      ]
+    },
+    {
+      "startSec": 159.6,
+      "endSec": 166.3,
+      "text": "William mentions pandas, animals which are reluctant, meaning slow and unwilling to reproduce.",
+      "words": [
+        {
+          "startSec": 159.7,
+          "endSec": 160.1,
+          "text": "William"
+        },
+        {
+          "startSec": 160.1,
+          "endSec": 160.6,
+          "text": "mentions"
+        },
+        {
+          "startSec": 160.6,
+          "endSec": 161.1,
+          "text": "pandas,"
+        },
+        {
+          "startSec": 161.1,
+          "endSec": 161.6,
+          "text": "animals"
+        },
+        {
+          "startSec": 161.6,
+          "endSec": 161.9,
+          "text": "which"
+        },
+        {
+          "startSec": 161.9,
+          "endSec": 162.1,
+          "text": "are"
+        },
+        {
+          "startSec": 162.1,
+          "endSec": 162.8,
+          "text": "reluctant,"
+        },
+        {
+          "startSec": 162.8,
+          "endSec": 163.3,
+          "text": "meaning"
+        },
+        {
+          "startSec": 163.3,
+          "endSec": 163.5,
+          "text": "slow"
+        },
+        {
+          "startSec": 163.5,
+          "endSec": 163.7,
+          "text": "and"
+        },
+        {
+          "startSec": 163.7,
+          "endSec": 164.3,
+          "text": "unwilling"
+        },
+        {
+          "startSec": 164.3,
+          "endSec": 164.5,
+          "text": "to"
+        },
+        {
+          "startSec": 164.5,
+          "endSec": 166.3,
+          "text": "reproduce."
+        },
+        {
+          "startSec": 166.3,
+          "endSec": 166.6,
+          "text": "Male"
+        }
+      ]
+    },
+    {
+      "startSec": 166.3,
+      "endSec": 172.2,
+      "text": "Male and female pandas need a little help to make babies, and zoos can provide this help.",
+      "words": [
+        {
+          "startSec": 166.3,
+          "endSec": 166.6,
+          "text": "Male"
+        },
+        {
+          "startSec": 166.6,
+          "endSec": 166.8,
+          "text": "and"
+        },
+        {
+          "startSec": 166.8,
+          "endSec": 167.2,
+          "text": "female"
+        },
+        {
+          "startSec": 167.2,
+          "endSec": 167.7,
+          "text": "pandas"
+        },
+        {
+          "startSec": 167.7,
+          "endSec": 167.9,
+          "text": "need"
+        },
+        {
+          "startSec": 167.9,
+          "endSec": 168,
+          "text": "a"
+        },
+        {
+          "startSec": 168,
+          "endSec": 168.5,
+          "text": "little"
+        },
+        {
+          "startSec": 168.5,
+          "endSec": 168.7,
+          "text": "help"
+        },
+        {
+          "startSec": 168.7,
+          "endSec": 168.9,
+          "text": "to"
+        },
+        {
+          "startSec": 168.9,
+          "endSec": 169.1,
+          "text": "make"
+        },
+        {
+          "startSec": 169.1,
+          "endSec": 169.7,
+          "text": "babies,"
+        },
+        {
+          "startSec": 169.7,
+          "endSec": 169.9,
+          "text": "and"
+        },
+        {
+          "startSec": 169.9,
+          "endSec": 170.2,
+          "text": "zoos"
+        },
+        {
+          "startSec": 170.2,
+          "endSec": 170.4,
+          "text": "can"
+        },
+        {
+          "startSec": 170.4,
+          "endSec": 170.9,
+          "text": "provide"
+        },
+        {
+          "startSec": 170.9,
+          "endSec": 171.3,
+          "text": "this"
+        },
+        {
+          "startSec": 171.3,
+          "endSec": 172.2,
+          "text": "help."
+        },
+        {
+          "startSec": 172.2,
+          "endSec": 172.7,
+          "text": "William"
+        }
+      ]
+    },
+    {
+      "startSec": 172.2,
+      "endSec": 177,
+      "text": "William uses the idiom \"it takes two to tango\" to describe an activity which needs",
+      "words": [
+        {
+          "startSec": 172.2,
+          "endSec": 172.7,
+          "text": "William"
+        },
+        {
+          "startSec": 172.7,
+          "endSec": 173,
+          "text": "uses"
+        },
+        {
+          "startSec": 173,
+          "endSec": 173.2,
+          "text": "the"
+        },
+        {
+          "startSec": 173.2,
+          "endSec": 173.5,
+          "text": "idiom"
+        },
+        {
+          "startSec": 173.5,
+          "endSec": 173.7,
+          "text": "\"it"
+        },
+        {
+          "startSec": 173.7,
+          "endSec": 174.1,
+          "text": "takes"
+        },
+        {
+          "startSec": 174.1,
+          "endSec": 174.3,
+          "text": "two"
+        },
+        {
+          "startSec": 174.3,
+          "endSec": 174.4,
+          "text": "to"
+        },
+        {
+          "startSec": 174.4,
+          "endSec": 174.9,
+          "text": "tango\""
+        },
+        {
+          "startSec": 174.9,
+          "endSec": 175,
+          "text": "to"
+        },
+        {
+          "startSec": 175,
+          "endSec": 175.6,
+          "text": "describe"
+        },
+        {
+          "startSec": 175.6,
+          "endSec": 175.7,
+          "text": "an"
+        },
+        {
+          "startSec": 175.7,
+          "endSec": 176.3,
+          "text": "activity"
+        },
+        {
+          "startSec": 176.3,
+          "endSec": 176.6,
+          "text": "which"
+        },
+        {
+          "startSec": 176.6,
+          "endSec": 177,
+          "text": "needs"
+        },
+        {
+          "startSec": 177,
+          "endSec": 177.2,
+          "text": "two"
+        }
+      ]
+    },
+    {
+      "startSec": 177,
+      "endSec": 182.5,
+      "text": "two people, or in this case two pandas, to be willing to make something a success.",
+      "words": [
+        {
+          "startSec": 177,
+          "endSec": 177.2,
+          "text": "two"
+        },
+        {
+          "startSec": 177.2,
+          "endSec": 177.8,
+          "text": "people,"
+        },
+        {
+          "startSec": 177.8,
+          "endSec": 178,
+          "text": "or"
+        },
+        {
+          "startSec": 178,
+          "endSec": 178.1,
+          "text": "in"
+        },
+        {
+          "startSec": 178.1,
+          "endSec": 178.4,
+          "text": "this"
+        },
+        {
+          "startSec": 178.4,
+          "endSec": 178.7,
+          "text": "case"
+        },
+        {
+          "startSec": 178.7,
+          "endSec": 179,
+          "text": "two"
+        },
+        {
+          "startSec": 179,
+          "endSec": 179.6,
+          "text": "pandas,"
+        },
+        {
+          "startSec": 179.6,
+          "endSec": 179.7,
+          "text": "to"
+        },
+        {
+          "startSec": 179.7,
+          "endSec": 179.9,
+          "text": "be"
+        },
+        {
+          "startSec": 179.9,
+          "endSec": 180.4,
+          "text": "willing"
+        },
+        {
+          "startSec": 180.4,
+          "endSec": 180.6,
+          "text": "to"
+        },
+        {
+          "startSec": 180.6,
+          "endSec": 180.9,
+          "text": "make"
+        },
+        {
+          "startSec": 180.9,
+          "endSec": 181.5,
+          "text": "something"
+        },
+        {
+          "startSec": 181.5,
+          "endSec": 181.6,
+          "text": "a"
+        },
+        {
+          "startSec": 181.6,
+          "endSec": 182.5,
+          "text": "success."
+        },
+        {
+          "startSec": 182.5,
+          "endSec": 182.7,
+          "text": "Now"
+        }
+      ]
+    },
+    {
+      "startSec": 182.5,
+      "endSec": 188.3,
+      "text": "Now let's turn to some of the arguments against zoos with Nikita Darwin, a 19-year-old animal",
+      "words": [
+        {
+          "startSec": 182.5,
+          "endSec": 182.7,
+          "text": "Now"
+        },
+        {
+          "startSec": 182.7,
+          "endSec": 183,
+          "text": "let's"
+        },
+        {
+          "startSec": 183,
+          "endSec": 183.3,
+          "text": "turn"
+        },
+        {
+          "startSec": 183.3,
+          "endSec": 183.5,
+          "text": "to"
+        },
+        {
+          "startSec": 183.5,
+          "endSec": 183.7,
+          "text": "some"
+        },
+        {
+          "startSec": 183.7,
+          "endSec": 183.9,
+          "text": "of"
+        },
+        {
+          "startSec": 183.9,
+          "endSec": 184.1,
+          "text": "the"
+        },
+        {
+          "startSec": 184.1,
+          "endSec": 184.7,
+          "text": "arguments"
+        },
+        {
+          "startSec": 184.7,
+          "endSec": 185.2,
+          "text": "against"
+        },
+        {
+          "startSec": 185.2,
+          "endSec": 185.5,
+          "text": "zoos"
+        },
+        {
+          "startSec": 185.5,
+          "endSec": 185.8,
+          "text": "with"
+        },
+        {
+          "startSec": 185.8,
+          "endSec": 186.2,
+          "text": "Nikita"
+        },
+        {
+          "startSec": 186.2,
+          "endSec": 186.8,
+          "text": "Darwin,"
+        },
+        {
+          "startSec": 186.8,
+          "endSec": 186.9,
+          "text": "a"
+        },
+        {
+          "startSec": 186.9,
+          "endSec": 188,
+          "text": "19-year-old"
+        },
+        {
+          "startSec": 188,
+          "endSec": 188.3,
+          "text": "animal"
+        }
+      ]
+    },
+    {
+      "startSec": 188.3,
+      "endSec": 193.7,
+      "text": "rights activist from India, who spoke to BBC World Service Program \"What in the World?\"",
+      "words": [
+        {
+          "startSec": 188.4,
+          "endSec": 188.7,
+          "text": "rights"
+        },
+        {
+          "startSec": 188.7,
+          "endSec": 189.3,
+          "text": "activist"
+        },
+        {
+          "startSec": 189.3,
+          "endSec": 189.5,
+          "text": "from"
+        },
+        {
+          "startSec": 189.5,
+          "endSec": 190,
+          "text": "India,"
+        },
+        {
+          "startSec": 190,
+          "endSec": 190.2,
+          "text": "who"
+        },
+        {
+          "startSec": 190.2,
+          "endSec": 190.6,
+          "text": "spoke"
+        },
+        {
+          "startSec": 190.6,
+          "endSec": 190.7,
+          "text": "to"
+        },
+        {
+          "startSec": 190.7,
+          "endSec": 190.9,
+          "text": "BBC"
+        },
+        {
+          "startSec": 190.9,
+          "endSec": 191.3,
+          "text": "World"
+        },
+        {
+          "startSec": 191.3,
+          "endSec": 191.8,
+          "text": "Service"
+        },
+        {
+          "startSec": 191.8,
+          "endSec": 192.3,
+          "text": "Program"
+        },
+        {
+          "startSec": 192.3,
+          "endSec": 192.6,
+          "text": "\"What"
+        },
+        {
+          "startSec": 192.6,
+          "endSec": 192.8,
+          "text": "in"
+        },
+        {
+          "startSec": 192.8,
+          "endSec": 193,
+          "text": "the"
+        },
+        {
+          "startSec": 193,
+          "endSec": 193.7,
+          "text": "World?\""
+        },
+        {
+          "startSec": 193.7,
+          "endSec": 193.8,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 193.7,
+      "endSec": 198.4,
+      "text": "I don't think zoos should exist for several reasons. The first one being zoos' detrimental",
+      "words": [
+        {
+          "startSec": 193.7,
+          "endSec": 193.8,
+          "text": "I"
+        },
+        {
+          "startSec": 193.8,
+          "endSec": 194,
+          "text": "don't"
+        },
+        {
+          "startSec": 194,
+          "endSec": 194.3,
+          "text": "think"
+        },
+        {
+          "startSec": 194.3,
+          "endSec": 194.6,
+          "text": "zoos"
+        },
+        {
+          "startSec": 194.6,
+          "endSec": 194.9,
+          "text": "should"
+        },
+        {
+          "startSec": 194.9,
+          "endSec": 195.2,
+          "text": "exist"
+        },
+        {
+          "startSec": 195.2,
+          "endSec": 195.4,
+          "text": "for"
+        },
+        {
+          "startSec": 195.4,
+          "endSec": 195.8,
+          "text": "several"
+        },
+        {
+          "startSec": 195.8,
+          "endSec": 196.4,
+          "text": "reasons."
+        },
+        {
+          "startSec": 196.4,
+          "endSec": 196.6,
+          "text": "The"
+        },
+        {
+          "startSec": 196.6,
+          "endSec": 196.9,
+          "text": "first"
+        },
+        {
+          "startSec": 196.9,
+          "endSec": 197.1,
+          "text": "one"
+        },
+        {
+          "startSec": 197.1,
+          "endSec": 197.4,
+          "text": "being"
+        },
+        {
+          "startSec": 197.4,
+          "endSec": 197.7,
+          "text": "zoos'"
+        },
+        {
+          "startSec": 197.7,
+          "endSec": 198.4,
+          "text": "detrimental"
+        },
+        {
+          "startSec": 198.4,
+          "endSec": 198.8,
+          "text": "impact"
+        }
+      ]
+    },
+    {
+      "startSec": 198.4,
+      "endSec": 203.7,
+      "text": "impact on both the physical and psychological health of animals. Many studies and research",
+      "words": [
+        {
+          "startSec": 198.4,
+          "endSec": 198.8,
+          "text": "impact"
+        },
+        {
+          "startSec": 198.8,
+          "endSec": 198.9,
+          "text": "on"
+        },
+        {
+          "startSec": 198.9,
+          "endSec": 199.2,
+          "text": "both"
+        },
+        {
+          "startSec": 199.2,
+          "endSec": 199.4,
+          "text": "the"
+        },
+        {
+          "startSec": 199.4,
+          "endSec": 200,
+          "text": "physical"
+        },
+        {
+          "startSec": 200,
+          "endSec": 200.2,
+          "text": "and"
+        },
+        {
+          "startSec": 200.2,
+          "endSec": 201.1,
+          "text": "psychological"
+        },
+        {
+          "startSec": 201.1,
+          "endSec": 201.5,
+          "text": "health"
+        },
+        {
+          "startSec": 201.5,
+          "endSec": 201.7,
+          "text": "of"
+        },
+        {
+          "startSec": 201.7,
+          "endSec": 202.4,
+          "text": "animals."
+        },
+        {
+          "startSec": 202.4,
+          "endSec": 202.6,
+          "text": "Many"
+        },
+        {
+          "startSec": 202.6,
+          "endSec": 203,
+          "text": "studies"
+        },
+        {
+          "startSec": 203,
+          "endSec": 203.2,
+          "text": "and"
+        },
+        {
+          "startSec": 203.2,
+          "endSec": 203.7,
+          "text": "research"
+        },
+        {
+          "startSec": 203.7,
+          "endSec": 203.9,
+          "text": "have"
+        }
+      ]
+    },
+    {
+      "startSec": 203.7,
+      "endSec": 209.2,
+      "text": "have shown that many animals in zoos and aquariums display abnormal behaviors like head-balling,",
+      "words": [
+        {
+          "startSec": 203.7,
+          "endSec": 203.9,
+          "text": "have"
+        },
+        {
+          "startSec": 203.9,
+          "endSec": 204.2,
+          "text": "shown"
+        },
+        {
+          "startSec": 204.2,
+          "endSec": 204.5,
+          "text": "that"
+        },
+        {
+          "startSec": 204.5,
+          "endSec": 204.7,
+          "text": "many"
+        },
+        {
+          "startSec": 204.7,
+          "endSec": 205.2,
+          "text": "animals"
+        },
+        {
+          "startSec": 205.2,
+          "endSec": 205.3,
+          "text": "in"
+        },
+        {
+          "startSec": 205.3,
+          "endSec": 205.5,
+          "text": "zoos"
+        },
+        {
+          "startSec": 205.5,
+          "endSec": 205.7,
+          "text": "and"
+        },
+        {
+          "startSec": 205.7,
+          "endSec": 206.3,
+          "text": "aquariums"
+        },
+        {
+          "startSec": 206.3,
+          "endSec": 206.7,
+          "text": "display"
+        },
+        {
+          "startSec": 206.7,
+          "endSec": 207.2,
+          "text": "abnormal"
+        },
+        {
+          "startSec": 207.2,
+          "endSec": 207.8,
+          "text": "behaviors"
+        },
+        {
+          "startSec": 207.8,
+          "endSec": 208.1,
+          "text": "like"
+        },
+        {
+          "startSec": 208.1,
+          "endSec": 209.2,
+          "text": "head-balling,"
+        },
+        {
+          "startSec": 209.2,
+          "endSec": 209.7,
+          "text": "pacing,"
+        }
+      ]
+    },
+    {
+      "startSec": 209.2,
+      "endSec": 214.1,
+      "text": "pacing, stereotypical behaviors, signs of mental distress. The second reason I would",
+      "words": [
+        {
+          "startSec": 209.2,
+          "endSec": 209.7,
+          "text": "pacing,"
+        },
+        {
+          "startSec": 209.7,
+          "endSec": 210.6,
+          "text": "stereotypical"
+        },
+        {
+          "startSec": 210.6,
+          "endSec": 211.4,
+          "text": "behaviors,"
+        },
+        {
+          "startSec": 211.4,
+          "endSec": 211.7,
+          "text": "signs"
+        },
+        {
+          "startSec": 211.7,
+          "endSec": 211.8,
+          "text": "of"
+        },
+        {
+          "startSec": 211.8,
+          "endSec": 212.2,
+          "text": "mental"
+        },
+        {
+          "startSec": 212.2,
+          "endSec": 213,
+          "text": "distress."
+        },
+        {
+          "startSec": 213,
+          "endSec": 213.2,
+          "text": "The"
+        },
+        {
+          "startSec": 213.2,
+          "endSec": 213.5,
+          "text": "second"
+        },
+        {
+          "startSec": 213.5,
+          "endSec": 213.8,
+          "text": "reason"
+        },
+        {
+          "startSec": 213.8,
+          "endSec": 213.8,
+          "text": "I"
+        },
+        {
+          "startSec": 213.8,
+          "endSec": 214.1,
+          "text": "would"
+        }
+      ]
+    },
+    {
+      "startSec": 214.1,
+      "endSec": 219.4,
+      "text": "say is that zoos cannot mimic the natural habitat of animals in the wild.",
+      "words": [
+        {
+          "startSec": 214.2,
+          "endSec": 214.4,
+          "text": "say"
+        },
+        {
+          "startSec": 214.4,
+          "endSec": 214.5,
+          "text": "is"
+        },
+        {
+          "startSec": 214.5,
+          "endSec": 214.9,
+          "text": "that"
+        },
+        {
+          "startSec": 214.9,
+          "endSec": 215.2,
+          "text": "zoos"
+        },
+        {
+          "startSec": 215.2,
+          "endSec": 215.7,
+          "text": "cannot"
+        },
+        {
+          "startSec": 215.7,
+          "endSec": 216.1,
+          "text": "mimic"
+        },
+        {
+          "startSec": 216.1,
+          "endSec": 216.4,
+          "text": "the"
+        },
+        {
+          "startSec": 216.4,
+          "endSec": 217,
+          "text": "natural"
+        },
+        {
+          "startSec": 217,
+          "endSec": 217.6,
+          "text": "habitat"
+        },
+        {
+          "startSec": 217.6,
+          "endSec": 217.8,
+          "text": "of"
+        },
+        {
+          "startSec": 217.8,
+          "endSec": 218.4,
+          "text": "animals"
+        },
+        {
+          "startSec": 218.4,
+          "endSec": 218.5,
+          "text": "in"
+        },
+        {
+          "startSec": 218.5,
+          "endSec": 218.8,
+          "text": "the"
+        },
+        {
+          "startSec": 218.8,
+          "endSec": 219.4,
+          "text": "wild."
+        },
+        {
+          "startSec": 219.4,
+          "endSec": 219.9,
+          "text": "Nikita"
+        }
+      ]
+    },
+    {
+      "startSec": 219.4,
+      "endSec": 224.5,
+      "text": "Nikita argues that being enclosed in a zoo is so stressful for wild animals, it leads",
+      "words": [
+        {
+          "startSec": 219.4,
+          "endSec": 219.9,
+          "text": "Nikita"
+        },
+        {
+          "startSec": 219.9,
+          "endSec": 220.3,
+          "text": "argues"
+        },
+        {
+          "startSec": 220.3,
+          "endSec": 220.6,
+          "text": "that"
+        },
+        {
+          "startSec": 220.6,
+          "endSec": 220.9,
+          "text": "being"
+        },
+        {
+          "startSec": 220.9,
+          "endSec": 221.5,
+          "text": "enclosed"
+        },
+        {
+          "startSec": 221.5,
+          "endSec": 221.6,
+          "text": "in"
+        },
+        {
+          "startSec": 221.6,
+          "endSec": 221.7,
+          "text": "a"
+        },
+        {
+          "startSec": 221.7,
+          "endSec": 221.9,
+          "text": "zoo"
+        },
+        {
+          "startSec": 221.9,
+          "endSec": 222,
+          "text": "is"
+        },
+        {
+          "startSec": 222,
+          "endSec": 222.2,
+          "text": "so"
+        },
+        {
+          "startSec": 222.2,
+          "endSec": 222.8,
+          "text": "stressful"
+        },
+        {
+          "startSec": 222.8,
+          "endSec": 223,
+          "text": "for"
+        },
+        {
+          "startSec": 223,
+          "endSec": 223.3,
+          "text": "wild"
+        },
+        {
+          "startSec": 223.3,
+          "endSec": 224,
+          "text": "animals,"
+        },
+        {
+          "startSec": 224,
+          "endSec": 224.1,
+          "text": "it"
+        },
+        {
+          "startSec": 224.1,
+          "endSec": 224.5,
+          "text": "leads"
+        },
+        {
+          "startSec": 224.5,
+          "endSec": 224.7,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 224.5,
+      "endSec": 231.7,
+      "text": "to abnormal behavior, behavior that is different and worse from what would normally be expected.",
+      "words": [
+        {
+          "startSec": 224.5,
+          "endSec": 224.7,
+          "text": "to"
+        },
+        {
+          "startSec": 224.7,
+          "endSec": 225.4,
+          "text": "abnormal"
+        },
+        {
+          "startSec": 225.4,
+          "endSec": 226.2,
+          "text": "behavior,"
+        },
+        {
+          "startSec": 226.2,
+          "endSec": 226.9,
+          "text": "behavior"
+        },
+        {
+          "startSec": 226.9,
+          "endSec": 227.2,
+          "text": "that"
+        },
+        {
+          "startSec": 227.2,
+          "endSec": 227.3,
+          "text": "is"
+        },
+        {
+          "startSec": 227.3,
+          "endSec": 228.1,
+          "text": "different"
+        },
+        {
+          "startSec": 228.1,
+          "endSec": 228.4,
+          "text": "and"
+        },
+        {
+          "startSec": 228.4,
+          "endSec": 228.8,
+          "text": "worse"
+        },
+        {
+          "startSec": 228.8,
+          "endSec": 229.1,
+          "text": "from"
+        },
+        {
+          "startSec": 229.1,
+          "endSec": 229.4,
+          "text": "what"
+        },
+        {
+          "startSec": 229.4,
+          "endSec": 229.9,
+          "text": "would"
+        },
+        {
+          "startSec": 229.9,
+          "endSec": 230.5,
+          "text": "normally"
+        },
+        {
+          "startSec": 230.5,
+          "endSec": 230.7,
+          "text": "be"
+        },
+        {
+          "startSec": 230.7,
+          "endSec": 231.7,
+          "text": "expected."
+        },
+        {
+          "startSec": 231.7,
+          "endSec": 232.3,
+          "text": "Examples"
+        }
+      ]
+    },
+    {
+      "startSec": 231.7,
+      "endSec": 237.6,
+      "text": "Examples of this include animals pacing, their cages in circles and rocking, bar biting,",
+      "words": [
+        {
+          "startSec": 231.7,
+          "endSec": 232.3,
+          "text": "Examples"
+        },
+        {
+          "startSec": 232.3,
+          "endSec": 232.5,
+          "text": "of"
+        },
+        {
+          "startSec": 232.5,
+          "endSec": 232.8,
+          "text": "this"
+        },
+        {
+          "startSec": 232.8,
+          "endSec": 233.3,
+          "text": "include"
+        },
+        {
+          "startSec": 233.3,
+          "endSec": 233.8,
+          "text": "animals"
+        },
+        {
+          "startSec": 233.8,
+          "endSec": 234.4,
+          "text": "pacing,"
+        },
+        {
+          "startSec": 234.4,
+          "endSec": 234.8,
+          "text": "their"
+        },
+        {
+          "startSec": 234.8,
+          "endSec": 235.2,
+          "text": "cages"
+        },
+        {
+          "startSec": 235.2,
+          "endSec": 235.3,
+          "text": "in"
+        },
+        {
+          "startSec": 235.3,
+          "endSec": 235.8,
+          "text": "circles"
+        },
+        {
+          "startSec": 235.8,
+          "endSec": 236,
+          "text": "and"
+        },
+        {
+          "startSec": 236,
+          "endSec": 236.7,
+          "text": "rocking,"
+        },
+        {
+          "startSec": 236.7,
+          "endSec": 236.9,
+          "text": "bar"
+        },
+        {
+          "startSec": 236.9,
+          "endSec": 237.6,
+          "text": "biting,"
+        },
+        {
+          "startSec": 237.6,
+          "endSec": 237.9,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 237.6,
+      "endSec": 242.4,
+      "text": "and even self-harm. And they're so common in captive animals, there's a name for it,",
+      "words": [
+        {
+          "startSec": 237.6,
+          "endSec": 237.9,
+          "text": "and"
+        },
+        {
+          "startSec": 237.9,
+          "endSec": 238.2,
+          "text": "even"
+        },
+        {
+          "startSec": 238.2,
+          "endSec": 239.2,
+          "text": "self-harm."
+        },
+        {
+          "startSec": 239.2,
+          "endSec": 239.4,
+          "text": "And"
+        },
+        {
+          "startSec": 239.4,
+          "endSec": 239.7,
+          "text": "they're"
+        },
+        {
+          "startSec": 239.7,
+          "endSec": 239.8,
+          "text": "so"
+        },
+        {
+          "startSec": 239.8,
+          "endSec": 240.1,
+          "text": "common"
+        },
+        {
+          "startSec": 240.1,
+          "endSec": 240.2,
+          "text": "in"
+        },
+        {
+          "startSec": 240.2,
+          "endSec": 240.6,
+          "text": "captive"
+        },
+        {
+          "startSec": 240.6,
+          "endSec": 241,
+          "text": "animals,"
+        },
+        {
+          "startSec": 241,
+          "endSec": 241.4,
+          "text": "there's"
+        },
+        {
+          "startSec": 241.4,
+          "endSec": 241.4,
+          "text": "a"
+        },
+        {
+          "startSec": 241.4,
+          "endSec": 241.6,
+          "text": "name"
+        },
+        {
+          "startSec": 241.6,
+          "endSec": 241.8,
+          "text": "for"
+        },
+        {
+          "startSec": 241.8,
+          "endSec": 242.4,
+          "text": "it,"
+        }
+      ]
+    },
+    {
+      "startSec": 242.4,
+      "endSec": 248.5,
+      "text": "zucosis. Even zoos with large enclosures cannot fully mimic or copy the natural habitats",
+      "words": [
+        {
+          "startSec": 242.5,
+          "endSec": 243.9,
+          "text": "zucosis."
+        },
+        {
+          "startSec": 243.9,
+          "endSec": 244.1,
+          "text": "Even"
+        },
+        {
+          "startSec": 244.1,
+          "endSec": 244.3,
+          "text": "zoos"
+        },
+        {
+          "startSec": 244.3,
+          "endSec": 244.6,
+          "text": "with"
+        },
+        {
+          "startSec": 244.6,
+          "endSec": 244.8,
+          "text": "large"
+        },
+        {
+          "startSec": 244.8,
+          "endSec": 245.4,
+          "text": "enclosures"
+        },
+        {
+          "startSec": 245.4,
+          "endSec": 245.8,
+          "text": "cannot"
+        },
+        {
+          "startSec": 245.8,
+          "endSec": 246.1,
+          "text": "fully"
+        },
+        {
+          "startSec": 246.1,
+          "endSec": 246.8,
+          "text": "mimic"
+        },
+        {
+          "startSec": 246.8,
+          "endSec": 246.9,
+          "text": "or"
+        },
+        {
+          "startSec": 246.9,
+          "endSec": 247.2,
+          "text": "copy"
+        },
+        {
+          "startSec": 247.2,
+          "endSec": 247.4,
+          "text": "the"
+        },
+        {
+          "startSec": 247.4,
+          "endSec": 248,
+          "text": "natural"
+        },
+        {
+          "startSec": 248,
+          "endSec": 248.5,
+          "text": "habitats"
+        },
+        {
+          "startSec": 248.5,
+          "endSec": 248.7,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 248.5,
+      "endSec": 253.6,
+      "text": "and open spaces these animals would enjoy in the wild. And imagine how a polar bear",
+      "words": [
+        {
+          "startSec": 248.5,
+          "endSec": 248.7,
+          "text": "and"
+        },
+        {
+          "startSec": 248.7,
+          "endSec": 249,
+          "text": "open"
+        },
+        {
+          "startSec": 249,
+          "endSec": 249.5,
+          "text": "spaces"
+        },
+        {
+          "startSec": 249.5,
+          "endSec": 249.9,
+          "text": "these"
+        },
+        {
+          "startSec": 249.9,
+          "endSec": 250.4,
+          "text": "animals"
+        },
+        {
+          "startSec": 250.4,
+          "endSec": 250.8,
+          "text": "would"
+        },
+        {
+          "startSec": 250.8,
+          "endSec": 251.1,
+          "text": "enjoy"
+        },
+        {
+          "startSec": 251.1,
+          "endSec": 251.3,
+          "text": "in"
+        },
+        {
+          "startSec": 251.3,
+          "endSec": 251.5,
+          "text": "the"
+        },
+        {
+          "startSec": 251.5,
+          "endSec": 252.1,
+          "text": "wild."
+        },
+        {
+          "startSec": 252.1,
+          "endSec": 252.3,
+          "text": "And"
+        },
+        {
+          "startSec": 252.3,
+          "endSec": 252.7,
+          "text": "imagine"
+        },
+        {
+          "startSec": 252.7,
+          "endSec": 252.9,
+          "text": "how"
+        },
+        {
+          "startSec": 252.9,
+          "endSec": 253,
+          "text": "a"
+        },
+        {
+          "startSec": 253,
+          "endSec": 253.3,
+          "text": "polar"
+        },
+        {
+          "startSec": 253.3,
+          "endSec": 253.6,
+          "text": "bear"
+        },
+        {
+          "startSec": 253.6,
+          "endSec": 254.1,
+          "text": "evolved"
+        }
+      ]
+    },
+    {
+      "startSec": 253.6,
+      "endSec": 259.3,
+      "text": "evolved for life in the frozen Arctic would feel trapped in a zoo in a much warmer country.",
+      "words": [
+        {
+          "startSec": 253.6,
+          "endSec": 254.1,
+          "text": "evolved"
+        },
+        {
+          "startSec": 254.1,
+          "endSec": 254.3,
+          "text": "for"
+        },
+        {
+          "startSec": 254.3,
+          "endSec": 254.5,
+          "text": "life"
+        },
+        {
+          "startSec": 254.5,
+          "endSec": 254.6,
+          "text": "in"
+        },
+        {
+          "startSec": 254.6,
+          "endSec": 254.8,
+          "text": "the"
+        },
+        {
+          "startSec": 254.8,
+          "endSec": 255.2,
+          "text": "frozen"
+        },
+        {
+          "startSec": 255.2,
+          "endSec": 255.6,
+          "text": "Arctic"
+        },
+        {
+          "startSec": 255.6,
+          "endSec": 255.9,
+          "text": "would"
+        },
+        {
+          "startSec": 255.9,
+          "endSec": 256.2,
+          "text": "feel"
+        },
+        {
+          "startSec": 256.2,
+          "endSec": 256.7,
+          "text": "trapped"
+        },
+        {
+          "startSec": 256.7,
+          "endSec": 256.8,
+          "text": "in"
+        },
+        {
+          "startSec": 256.8,
+          "endSec": 256.9,
+          "text": "a"
+        },
+        {
+          "startSec": 256.9,
+          "endSec": 257,
+          "text": "zoo"
+        },
+        {
+          "startSec": 257,
+          "endSec": 257.2,
+          "text": "in"
+        },
+        {
+          "startSec": 257.2,
+          "endSec": 257.2,
+          "text": "a"
+        },
+        {
+          "startSec": 257.2,
+          "endSec": 257.5,
+          "text": "much"
+        },
+        {
+          "startSec": 257.5,
+          "endSec": 258,
+          "text": "warmer"
+        },
+        {
+          "startSec": 258,
+          "endSec": 259.3,
+          "text": "country."
+        },
+        {
+          "startSec": 259.3,
+          "endSec": 259.6,
+          "text": "Some"
+        }
+      ]
+    },
+    {
+      "startSec": 259.3,
+      "endSec": 265.4,
+      "text": "Some zoologists have compared zucosis to human traumas like post-traumatic stress disorder,",
+      "words": [
+        {
+          "startSec": 259.3,
+          "endSec": 259.6,
+          "text": "Some"
+        },
+        {
+          "startSec": 259.6,
+          "endSec": 260.2,
+          "text": "zoologists"
+        },
+        {
+          "startSec": 260.2,
+          "endSec": 260.5,
+          "text": "have"
+        },
+        {
+          "startSec": 260.5,
+          "endSec": 261,
+          "text": "compared"
+        },
+        {
+          "startSec": 261,
+          "endSec": 261.5,
+          "text": "zucosis"
+        },
+        {
+          "startSec": 261.5,
+          "endSec": 261.6,
+          "text": "to"
+        },
+        {
+          "startSec": 261.6,
+          "endSec": 262,
+          "text": "human"
+        },
+        {
+          "startSec": 262,
+          "endSec": 262.4,
+          "text": "traumas"
+        },
+        {
+          "startSec": 262.4,
+          "endSec": 262.7,
+          "text": "like"
+        },
+        {
+          "startSec": 262.7,
+          "endSec": 263.6,
+          "text": "post-traumatic"
+        },
+        {
+          "startSec": 263.6,
+          "endSec": 264.1,
+          "text": "stress"
+        },
+        {
+          "startSec": 264.1,
+          "endSec": 265.4,
+          "text": "disorder,"
+        },
+        {
+          "startSec": 265.4,
+          "endSec": 265.6,
+          "text": "but"
+        }
+      ]
+    },
+    {
+      "startSec": 265.4,
+      "endSec": 270.3,
+      "text": "but say it's even more damaging. For captive animals, everything, including the air they",
+      "words": [
+        {
+          "startSec": 265.4,
+          "endSec": 265.6,
+          "text": "but"
+        },
+        {
+          "startSec": 265.6,
+          "endSec": 265.8,
+          "text": "say"
+        },
+        {
+          "startSec": 265.8,
+          "endSec": 266,
+          "text": "it's"
+        },
+        {
+          "startSec": 266,
+          "endSec": 266.2,
+          "text": "even"
+        },
+        {
+          "startSec": 266.2,
+          "endSec": 266.5,
+          "text": "more"
+        },
+        {
+          "startSec": 266.5,
+          "endSec": 267.2,
+          "text": "damaging."
+        },
+        {
+          "startSec": 267.2,
+          "endSec": 267.3,
+          "text": "For"
+        },
+        {
+          "startSec": 267.3,
+          "endSec": 267.8,
+          "text": "captive"
+        },
+        {
+          "startSec": 267.8,
+          "endSec": 268.3,
+          "text": "animals,"
+        },
+        {
+          "startSec": 268.3,
+          "endSec": 269,
+          "text": "everything,"
+        },
+        {
+          "startSec": 269,
+          "endSec": 269.7,
+          "text": "including"
+        },
+        {
+          "startSec": 269.7,
+          "endSec": 269.9,
+          "text": "the"
+        },
+        {
+          "startSec": 269.9,
+          "endSec": 270.1,
+          "text": "air"
+        },
+        {
+          "startSec": 270.1,
+          "endSec": 270.3,
+          "text": "they"
+        }
+      ]
+    },
+    {
+      "startSec": 270.3,
+      "endSec": 275.1,
+      "text": "breathe, is traumatic. We've heard a few arguments for and against keeping animals",
+      "words": [
+        {
+          "startSec": 270.5,
+          "endSec": 271.1,
+          "text": "breathe,"
+        },
+        {
+          "startSec": 271.1,
+          "endSec": 271.3,
+          "text": "is"
+        },
+        {
+          "startSec": 271.3,
+          "endSec": 272.4,
+          "text": "traumatic."
+        },
+        {
+          "startSec": 272.4,
+          "endSec": 272.7,
+          "text": "We've"
+        },
+        {
+          "startSec": 272.7,
+          "endSec": 272.9,
+          "text": "heard"
+        },
+        {
+          "startSec": 272.9,
+          "endSec": 273,
+          "text": "a"
+        },
+        {
+          "startSec": 273,
+          "endSec": 273.1,
+          "text": "few"
+        },
+        {
+          "startSec": 273.1,
+          "endSec": 273.6,
+          "text": "arguments"
+        },
+        {
+          "startSec": 273.6,
+          "endSec": 273.8,
+          "text": "for"
+        },
+        {
+          "startSec": 273.8,
+          "endSec": 273.9,
+          "text": "and"
+        },
+        {
+          "startSec": 273.9,
+          "endSec": 274.4,
+          "text": "against"
+        },
+        {
+          "startSec": 274.4,
+          "endSec": 274.7,
+          "text": "keeping"
+        },
+        {
+          "startSec": 274.7,
+          "endSec": 275.1,
+          "text": "animals"
+        },
+        {
+          "startSec": 275.1,
+          "endSec": 275.3,
+          "text": "in"
+        }
+      ]
+    },
+    {
+      "startSec": 275.1,
+      "endSec": 279.1,
+      "text": "in zoos. What do you think, Neil? Have you changed your opinion at all?",
+      "words": [
+        {
+          "startSec": 275.1,
+          "endSec": 275.3,
+          "text": "in"
+        },
+        {
+          "startSec": 275.3,
+          "endSec": 276.1,
+          "text": "zoos."
+        },
+        {
+          "startSec": 276.1,
+          "endSec": 276.3,
+          "text": "What"
+        },
+        {
+          "startSec": 276.3,
+          "endSec": 276.4,
+          "text": "do"
+        },
+        {
+          "startSec": 276.4,
+          "endSec": 276.6,
+          "text": "you"
+        },
+        {
+          "startSec": 276.6,
+          "endSec": 276.9,
+          "text": "think,"
+        },
+        {
+          "startSec": 276.9,
+          "endSec": 277.3,
+          "text": "Neil?"
+        },
+        {
+          "startSec": 277.3,
+          "endSec": 277.5,
+          "text": "Have"
+        },
+        {
+          "startSec": 277.5,
+          "endSec": 277.7,
+          "text": "you"
+        },
+        {
+          "startSec": 277.7,
+          "endSec": 278,
+          "text": "changed"
+        },
+        {
+          "startSec": 278,
+          "endSec": 278.2,
+          "text": "your"
+        },
+        {
+          "startSec": 278.2,
+          "endSec": 278.6,
+          "text": "opinion"
+        },
+        {
+          "startSec": 278.6,
+          "endSec": 278.7,
+          "text": "at"
+        },
+        {
+          "startSec": 278.7,
+          "endSec": 279.1,
+          "text": "all?"
+        },
+        {
+          "startSec": 279.1,
+          "endSec": 279.5,
+          "text": "Well,"
+        }
+      ]
+    },
+    {
+      "startSec": 279.1,
+      "endSec": 285.3,
+      "text": "Well, I think there are really strong arguments on both sides, so I'm still not sure, Georgie.",
+      "words": [
+        {
+          "startSec": 279.1,
+          "endSec": 279.5,
+          "text": "Well,"
+        },
+        {
+          "startSec": 279.5,
+          "endSec": 279.6,
+          "text": "I"
+        },
+        {
+          "startSec": 279.6,
+          "endSec": 280,
+          "text": "think"
+        },
+        {
+          "startSec": 280,
+          "endSec": 280.3,
+          "text": "there"
+        },
+        {
+          "startSec": 280.3,
+          "endSec": 280.5,
+          "text": "are"
+        },
+        {
+          "startSec": 280.5,
+          "endSec": 281,
+          "text": "really"
+        },
+        {
+          "startSec": 281,
+          "endSec": 281.4,
+          "text": "strong"
+        },
+        {
+          "startSec": 281.4,
+          "endSec": 282.1,
+          "text": "arguments"
+        },
+        {
+          "startSec": 282.1,
+          "endSec": 282.2,
+          "text": "on"
+        },
+        {
+          "startSec": 282.2,
+          "endSec": 282.5,
+          "text": "both"
+        },
+        {
+          "startSec": 282.5,
+          "endSec": 283,
+          "text": "sides,"
+        },
+        {
+          "startSec": 283,
+          "endSec": 283.2,
+          "text": "so"
+        },
+        {
+          "startSec": 283.2,
+          "endSec": 283.4,
+          "text": "I'm"
+        },
+        {
+          "startSec": 283.4,
+          "endSec": 283.8,
+          "text": "still"
+        },
+        {
+          "startSec": 283.8,
+          "endSec": 284,
+          "text": "not"
+        },
+        {
+          "startSec": 284,
+          "endSec": 284.4,
+          "text": "sure,"
+        },
+        {
+          "startSec": 284.4,
+          "endSec": 285.3,
+          "text": "Georgie."
+        },
+        {
+          "startSec": 285.3,
+          "endSec": 285.7,
+          "text": "Well,"
+        }
+      ]
+    },
+    {
+      "startSec": 285.3,
+      "endSec": 289.6,
+      "text": "Well, we know how some of the animals at the Sydney Zoo felt about things because they",
+      "words": [
+        {
+          "startSec": 285.3,
+          "endSec": 285.7,
+          "text": "Well,"
+        },
+        {
+          "startSec": 285.7,
+          "endSec": 285.8,
+          "text": "we"
+        },
+        {
+          "startSec": 285.8,
+          "endSec": 286,
+          "text": "know"
+        },
+        {
+          "startSec": 286,
+          "endSec": 286.2,
+          "text": "how"
+        },
+        {
+          "startSec": 286.2,
+          "endSec": 286.5,
+          "text": "some"
+        },
+        {
+          "startSec": 286.5,
+          "endSec": 286.6,
+          "text": "of"
+        },
+        {
+          "startSec": 286.6,
+          "endSec": 286.8,
+          "text": "the"
+        },
+        {
+          "startSec": 286.8,
+          "endSec": 287.2,
+          "text": "animals"
+        },
+        {
+          "startSec": 287.2,
+          "endSec": 287.3,
+          "text": "at"
+        },
+        {
+          "startSec": 287.3,
+          "endSec": 287.5,
+          "text": "the"
+        },
+        {
+          "startSec": 287.5,
+          "endSec": 287.9,
+          "text": "Sydney"
+        },
+        {
+          "startSec": 287.9,
+          "endSec": 288.1,
+          "text": "Zoo"
+        },
+        {
+          "startSec": 288.1,
+          "endSec": 288.3,
+          "text": "felt"
+        },
+        {
+          "startSec": 288.3,
+          "endSec": 288.6,
+          "text": "about"
+        },
+        {
+          "startSec": 288.6,
+          "endSec": 289,
+          "text": "things"
+        },
+        {
+          "startSec": 289,
+          "endSec": 289.5,
+          "text": "because"
+        },
+        {
+          "startSec": 289.5,
+          "endSec": 289.6,
+          "text": "they"
+        },
+        {
+          "startSec": 289.6,
+          "endSec": 290.1,
+          "text": "managed"
+        }
+      ]
+    },
+    {
+      "startSec": 289.6,
+      "endSec": 293.9,
+      "text": "managed to escape. But what was the answer to your question, Neil?",
+      "words": [
+        {
+          "startSec": 289.6,
+          "endSec": 290.1,
+          "text": "managed"
+        },
+        {
+          "startSec": 290.1,
+          "endSec": 290.2,
+          "text": "to"
+        },
+        {
+          "startSec": 290.2,
+          "endSec": 290.9,
+          "text": "escape."
+        },
+        {
+          "startSec": 290.9,
+          "endSec": 291.1,
+          "text": "But"
+        },
+        {
+          "startSec": 291.1,
+          "endSec": 291.4,
+          "text": "what"
+        },
+        {
+          "startSec": 291.4,
+          "endSec": 291.6,
+          "text": "was"
+        },
+        {
+          "startSec": 291.6,
+          "endSec": 291.8,
+          "text": "the"
+        },
+        {
+          "startSec": 291.8,
+          "endSec": 292.2,
+          "text": "answer"
+        },
+        {
+          "startSec": 292.2,
+          "endSec": 292.3,
+          "text": "to"
+        },
+        {
+          "startSec": 292.3,
+          "endSec": 292.6,
+          "text": "your"
+        },
+        {
+          "startSec": 292.6,
+          "endSec": 293.3,
+          "text": "question,"
+        },
+        {
+          "startSec": 293.3,
+          "endSec": 293.9,
+          "text": "Neil?"
+        }
+      ]
+    },
+    {
+      "startSec": 293.9,
+      "endSec": 300.4,
+      "text": "Well, Georgie, I asked you which animals escaped from a zoo in Sydney, Australia in 2022? Was",
+      "words": [
+        {
+          "startSec": 294,
+          "endSec": 294.3,
+          "text": "Well,"
+        },
+        {
+          "startSec": 294.3,
+          "endSec": 295,
+          "text": "Georgie,"
+        },
+        {
+          "startSec": 295,
+          "endSec": 295,
+          "text": "I"
+        },
+        {
+          "startSec": 295,
+          "endSec": 295.4,
+          "text": "asked"
+        },
+        {
+          "startSec": 295.4,
+          "endSec": 295.6,
+          "text": "you"
+        },
+        {
+          "startSec": 295.6,
+          "endSec": 296,
+          "text": "which"
+        },
+        {
+          "startSec": 296,
+          "endSec": 296.5,
+          "text": "animals"
+        },
+        {
+          "startSec": 296.5,
+          "endSec": 297,
+          "text": "escaped"
+        },
+        {
+          "startSec": 297,
+          "endSec": 297.3,
+          "text": "from"
+        },
+        {
+          "startSec": 297.3,
+          "endSec": 297.4,
+          "text": "a"
+        },
+        {
+          "startSec": 297.4,
+          "endSec": 297.6,
+          "text": "zoo"
+        },
+        {
+          "startSec": 297.6,
+          "endSec": 297.8,
+          "text": "in"
+        },
+        {
+          "startSec": 297.8,
+          "endSec": 298.3,
+          "text": "Sydney,"
+        },
+        {
+          "startSec": 298.3,
+          "endSec": 299,
+          "text": "Australia"
+        },
+        {
+          "startSec": 299,
+          "endSec": 299.1,
+          "text": "in"
+        },
+        {
+          "startSec": 299.1,
+          "endSec": 300.4,
+          "text": "2022?"
+        },
+        {
+          "startSec": 300.4,
+          "endSec": 300.4,
+          "text": "Was"
+        },
+        {
+          "startSec": 300.4,
+          "endSec": 300.5,
+          "text": "it"
+        }
+      ]
+    },
+    {
+      "startSec": 300.4,
+      "endSec": 305.4,
+      "text": "it A, elephants, B, lions, or C, zebras? And I said zebras.",
+      "words": [
+        {
+          "startSec": 300.4,
+          "endSec": 300.4,
+          "text": "Was"
+        },
+        {
+          "startSec": 300.4,
+          "endSec": 300.5,
+          "text": "it"
+        },
+        {
+          "startSec": 300.5,
+          "endSec": 300.8,
+          "text": "A,"
+        },
+        {
+          "startSec": 300.8,
+          "endSec": 301.7,
+          "text": "elephants,"
+        },
+        {
+          "startSec": 301.7,
+          "endSec": 302,
+          "text": "B,"
+        },
+        {
+          "startSec": 302,
+          "endSec": 302.6,
+          "text": "lions,"
+        },
+        {
+          "startSec": 302.6,
+          "endSec": 302.7,
+          "text": "or"
+        },
+        {
+          "startSec": 302.7,
+          "endSec": 303,
+          "text": "C,"
+        },
+        {
+          "startSec": 303,
+          "endSec": 303.8,
+          "text": "zebras?"
+        },
+        {
+          "startSec": 303.8,
+          "endSec": 304.1,
+          "text": "And"
+        },
+        {
+          "startSec": 304.1,
+          "endSec": 304.2,
+          "text": "I"
+        },
+        {
+          "startSec": 304.2,
+          "endSec": 304.6,
+          "text": "said"
+        },
+        {
+          "startSec": 304.6,
+          "endSec": 305.4,
+          "text": "zebras."
+        },
+        {
+          "startSec": 305.4,
+          "endSec": 305.6,
+          "text": "I'm"
+        }
+      ]
+    },
+    {
+      "startSec": 305.4,
+      "endSec": 310.7,
+      "text": "I'm afraid. That was the wrong answer. It was actually lions. How scary. OK, it's time",
+      "words": [
+        {
+          "startSec": 305.4,
+          "endSec": 305.6,
+          "text": "I'm"
+        },
+        {
+          "startSec": 305.6,
+          "endSec": 306.2,
+          "text": "afraid."
+        },
+        {
+          "startSec": 306.2,
+          "endSec": 306.5,
+          "text": "That"
+        },
+        {
+          "startSec": 306.5,
+          "endSec": 306.7,
+          "text": "was"
+        },
+        {
+          "startSec": 306.7,
+          "endSec": 306.9,
+          "text": "the"
+        },
+        {
+          "startSec": 306.9,
+          "endSec": 307.2,
+          "text": "wrong"
+        },
+        {
+          "startSec": 307.2,
+          "endSec": 307.9,
+          "text": "answer."
+        },
+        {
+          "startSec": 307.9,
+          "endSec": 308,
+          "text": "It"
+        },
+        {
+          "startSec": 308,
+          "endSec": 308.2,
+          "text": "was"
+        },
+        {
+          "startSec": 308.2,
+          "endSec": 308.6,
+          "text": "actually"
+        },
+        {
+          "startSec": 308.6,
+          "endSec": 309.1,
+          "text": "lions."
+        },
+        {
+          "startSec": 309.1,
+          "endSec": 309.3,
+          "text": "How"
+        },
+        {
+          "startSec": 309.3,
+          "endSec": 310,
+          "text": "scary."
+        },
+        {
+          "startSec": 310,
+          "endSec": 310.2,
+          "text": "OK,"
+        },
+        {
+          "startSec": 310.2,
+          "endSec": 310.5,
+          "text": "it's"
+        },
+        {
+          "startSec": 310.5,
+          "endSec": 310.7,
+          "text": "time"
+        },
+        {
+          "startSec": 310.7,
+          "endSec": 310.8,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 310.7,
+      "endSec": 316.1,
+      "text": "to recap the vocabulary we've learned. Conservation is the protection of plants, animals and the",
+      "words": [
+        {
+          "startSec": 310.7,
+          "endSec": 310.8,
+          "text": "to"
+        },
+        {
+          "startSec": 310.8,
+          "endSec": 311.1,
+          "text": "recap"
+        },
+        {
+          "startSec": 311.1,
+          "endSec": 311.3,
+          "text": "the"
+        },
+        {
+          "startSec": 311.3,
+          "endSec": 312,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 312,
+          "endSec": 312.3,
+          "text": "we've"
+        },
+        {
+          "startSec": 312.3,
+          "endSec": 312.9,
+          "text": "learned."
+        },
+        {
+          "startSec": 312.9,
+          "endSec": 313.7,
+          "text": "Conservation"
+        },
+        {
+          "startSec": 313.7,
+          "endSec": 313.8,
+          "text": "is"
+        },
+        {
+          "startSec": 313.8,
+          "endSec": 314,
+          "text": "the"
+        },
+        {
+          "startSec": 314,
+          "endSec": 314.6,
+          "text": "protection"
+        },
+        {
+          "startSec": 314.6,
+          "endSec": 314.7,
+          "text": "of"
+        },
+        {
+          "startSec": 314.7,
+          "endSec": 315.3,
+          "text": "plants,"
+        },
+        {
+          "startSec": 315.3,
+          "endSec": 315.8,
+          "text": "animals"
+        },
+        {
+          "startSec": 315.8,
+          "endSec": 316,
+          "text": "and"
+        },
+        {
+          "startSec": 316,
+          "endSec": 316.1,
+          "text": "the"
+        },
+        {
+          "startSec": 316.1,
+          "endSec": 316.7,
+          "text": "natural"
+        }
+      ]
+    },
+    {
+      "startSec": 316.1,
+      "endSec": 321.2,
+      "text": "natural world from human harm. If you are reluctant to do something, you don't want",
+      "words": [
+        {
+          "startSec": 316.1,
+          "endSec": 316.7,
+          "text": "natural"
+        },
+        {
+          "startSec": 316.7,
+          "endSec": 317,
+          "text": "world"
+        },
+        {
+          "startSec": 317,
+          "endSec": 317.3,
+          "text": "from"
+        },
+        {
+          "startSec": 317.3,
+          "endSec": 317.7,
+          "text": "human"
+        },
+        {
+          "startSec": 317.7,
+          "endSec": 318.3,
+          "text": "harm."
+        },
+        {
+          "startSec": 318.3,
+          "endSec": 318.4,
+          "text": "If"
+        },
+        {
+          "startSec": 318.4,
+          "endSec": 318.6,
+          "text": "you"
+        },
+        {
+          "startSec": 318.6,
+          "endSec": 318.8,
+          "text": "are"
+        },
+        {
+          "startSec": 318.8,
+          "endSec": 319.4,
+          "text": "reluctant"
+        },
+        {
+          "startSec": 319.4,
+          "endSec": 319.5,
+          "text": "to"
+        },
+        {
+          "startSec": 319.5,
+          "endSec": 319.7,
+          "text": "do"
+        },
+        {
+          "startSec": 319.7,
+          "endSec": 320.4,
+          "text": "something,"
+        },
+        {
+          "startSec": 320.4,
+          "endSec": 320.6,
+          "text": "you"
+        },
+        {
+          "startSec": 320.6,
+          "endSec": 320.9,
+          "text": "don't"
+        },
+        {
+          "startSec": 320.9,
+          "endSec": 321.2,
+          "text": "want"
+        }
+      ]
+    },
+    {
+      "startSec": 321.2,
+      "endSec": 326.8,
+      "text": "to do it, or you do it very slowly. The idiom it takes to to tango refers to an",
+      "words": [
+        {
+          "startSec": 321.3,
+          "endSec": 321.4,
+          "text": "to"
+        },
+        {
+          "startSec": 321.4,
+          "endSec": 321.6,
+          "text": "do"
+        },
+        {
+          "startSec": 321.6,
+          "endSec": 321.9,
+          "text": "it,"
+        },
+        {
+          "startSec": 321.9,
+          "endSec": 322.1,
+          "text": "or"
+        },
+        {
+          "startSec": 322.1,
+          "endSec": 322.4,
+          "text": "you"
+        },
+        {
+          "startSec": 322.4,
+          "endSec": 322.6,
+          "text": "do"
+        },
+        {
+          "startSec": 322.6,
+          "endSec": 322.7,
+          "text": "it"
+        },
+        {
+          "startSec": 322.7,
+          "endSec": 323.1,
+          "text": "very"
+        },
+        {
+          "startSec": 323.1,
+          "endSec": 324,
+          "text": "slowly."
+        },
+        {
+          "startSec": 324,
+          "endSec": 324.3,
+          "text": "The"
+        },
+        {
+          "startSec": 324.3,
+          "endSec": 324.7,
+          "text": "idiom"
+        },
+        {
+          "startSec": 324.7,
+          "endSec": 324.8,
+          "text": "it"
+        },
+        {
+          "startSec": 324.8,
+          "endSec": 325.3,
+          "text": "takes"
+        },
+        {
+          "startSec": 325.3,
+          "endSec": 325.4,
+          "text": "to"
+        },
+        {
+          "startSec": 325.4,
+          "endSec": 325.6,
+          "text": "to"
+        },
+        {
+          "startSec": 325.6,
+          "endSec": 326,
+          "text": "tango"
+        },
+        {
+          "startSec": 326,
+          "endSec": 326.5,
+          "text": "refers"
+        },
+        {
+          "startSec": 326.5,
+          "endSec": 326.7,
+          "text": "to"
+        },
+        {
+          "startSec": 326.7,
+          "endSec": 326.8,
+          "text": "an"
+        },
+        {
+          "startSec": 326.8,
+          "endSec": 327.4,
+          "text": "activity"
+        }
+      ]
+    },
+    {
+      "startSec": 326.8,
+      "endSec": 332.1,
+      "text": "activity which needs two people to willingly and actively take part for it to succeed.",
+      "words": [
+        {
+          "startSec": 326.8,
+          "endSec": 327.4,
+          "text": "activity"
+        },
+        {
+          "startSec": 327.4,
+          "endSec": 327.7,
+          "text": "which"
+        },
+        {
+          "startSec": 327.7,
+          "endSec": 328.1,
+          "text": "needs"
+        },
+        {
+          "startSec": 328.1,
+          "endSec": 328.3,
+          "text": "two"
+        },
+        {
+          "startSec": 328.3,
+          "endSec": 328.7,
+          "text": "people"
+        },
+        {
+          "startSec": 328.7,
+          "endSec": 328.9,
+          "text": "to"
+        },
+        {
+          "startSec": 328.9,
+          "endSec": 329.5,
+          "text": "willingly"
+        },
+        {
+          "startSec": 329.5,
+          "endSec": 329.7,
+          "text": "and"
+        },
+        {
+          "startSec": 329.7,
+          "endSec": 330.3,
+          "text": "actively"
+        },
+        {
+          "startSec": 330.3,
+          "endSec": 330.6,
+          "text": "take"
+        },
+        {
+          "startSec": 330.6,
+          "endSec": 330.8,
+          "text": "part"
+        },
+        {
+          "startSec": 330.8,
+          "endSec": 331.1,
+          "text": "for"
+        },
+        {
+          "startSec": 331.1,
+          "endSec": 331.2,
+          "text": "it"
+        },
+        {
+          "startSec": 331.2,
+          "endSec": 331.3,
+          "text": "to"
+        },
+        {
+          "startSec": 331.3,
+          "endSec": 332.1,
+          "text": "succeed."
+        },
+        {
+          "startSec": 332.1,
+          "endSec": 332.3,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 332.1,
+      "endSec": 338,
+      "text": "The adjective abnormal means different from what would normally be expected in a bad way.",
+      "words": [
+        {
+          "startSec": 332.1,
+          "endSec": 332.3,
+          "text": "The"
+        },
+        {
+          "startSec": 332.3,
+          "endSec": 332.9,
+          "text": "adjective"
+        },
+        {
+          "startSec": 332.9,
+          "endSec": 333.5,
+          "text": "abnormal"
+        },
+        {
+          "startSec": 333.5,
+          "endSec": 333.8,
+          "text": "means"
+        },
+        {
+          "startSec": 333.8,
+          "endSec": 334.4,
+          "text": "different"
+        },
+        {
+          "startSec": 334.4,
+          "endSec": 334.6,
+          "text": "from"
+        },
+        {
+          "startSec": 334.6,
+          "endSec": 334.9,
+          "text": "what"
+        },
+        {
+          "startSec": 334.9,
+          "endSec": 335.2,
+          "text": "would"
+        },
+        {
+          "startSec": 335.2,
+          "endSec": 335.8,
+          "text": "normally"
+        },
+        {
+          "startSec": 335.8,
+          "endSec": 335.9,
+          "text": "be"
+        },
+        {
+          "startSec": 335.9,
+          "endSec": 336.4,
+          "text": "expected"
+        },
+        {
+          "startSec": 336.4,
+          "endSec": 336.6,
+          "text": "in"
+        },
+        {
+          "startSec": 336.6,
+          "endSec": 336.6,
+          "text": "a"
+        },
+        {
+          "startSec": 336.6,
+          "endSec": 336.9,
+          "text": "bad"
+        },
+        {
+          "startSec": 336.9,
+          "endSec": 338,
+          "text": "way."
+        },
+        {
+          "startSec": 338,
+          "endSec": 338.5,
+          "text": "Zucosis"
+        }
+      ]
+    },
+    {
+      "startSec": 338,
+      "endSec": 343.1,
+      "text": "Zucosis is a term to describe the repeated purposeless behaviour performed by captive",
+      "words": [
+        {
+          "startSec": 338,
+          "endSec": 338.5,
+          "text": "Zucosis"
+        },
+        {
+          "startSec": 338.5,
+          "endSec": 338.6,
+          "text": "is"
+        },
+        {
+          "startSec": 338.6,
+          "endSec": 338.7,
+          "text": "a"
+        },
+        {
+          "startSec": 338.7,
+          "endSec": 338.9,
+          "text": "term"
+        },
+        {
+          "startSec": 338.9,
+          "endSec": 339.1,
+          "text": "to"
+        },
+        {
+          "startSec": 339.1,
+          "endSec": 339.6,
+          "text": "describe"
+        },
+        {
+          "startSec": 339.6,
+          "endSec": 339.9,
+          "text": "the"
+        },
+        {
+          "startSec": 339.9,
+          "endSec": 340.4,
+          "text": "repeated"
+        },
+        {
+          "startSec": 340.4,
+          "endSec": 341.2,
+          "text": "purposeless"
+        },
+        {
+          "startSec": 341.2,
+          "endSec": 341.8,
+          "text": "behaviour"
+        },
+        {
+          "startSec": 341.8,
+          "endSec": 342.4,
+          "text": "performed"
+        },
+        {
+          "startSec": 342.4,
+          "endSec": 342.6,
+          "text": "by"
+        },
+        {
+          "startSec": 342.6,
+          "endSec": 343.1,
+          "text": "captive"
+        },
+        {
+          "startSec": 343.1,
+          "endSec": 343.6,
+          "text": "animals"
+        }
+      ]
+    },
+    {
+      "startSec": 343.1,
+      "endSec": 348.8,
+      "text": "animals in response to the stress of being confined, including pacing, head bobbing and",
+      "words": [
+        {
+          "startSec": 343.1,
+          "endSec": 343.6,
+          "text": "animals"
+        },
+        {
+          "startSec": 343.6,
+          "endSec": 343.8,
+          "text": "in"
+        },
+        {
+          "startSec": 343.8,
+          "endSec": 344.4,
+          "text": "response"
+        },
+        {
+          "startSec": 344.4,
+          "endSec": 344.5,
+          "text": "to"
+        },
+        {
+          "startSec": 344.5,
+          "endSec": 344.7,
+          "text": "the"
+        },
+        {
+          "startSec": 344.7,
+          "endSec": 345.2,
+          "text": "stress"
+        },
+        {
+          "startSec": 345.2,
+          "endSec": 345.3,
+          "text": "of"
+        },
+        {
+          "startSec": 345.3,
+          "endSec": 345.7,
+          "text": "being"
+        },
+        {
+          "startSec": 345.7,
+          "endSec": 346.4,
+          "text": "confined,"
+        },
+        {
+          "startSec": 346.4,
+          "endSec": 347.1,
+          "text": "including"
+        },
+        {
+          "startSec": 347.1,
+          "endSec": 347.6,
+          "text": "pacing,"
+        },
+        {
+          "startSec": 347.6,
+          "endSec": 347.9,
+          "text": "head"
+        },
+        {
+          "startSec": 347.9,
+          "endSec": 348.4,
+          "text": "bobbing"
+        },
+        {
+          "startSec": 348.4,
+          "endSec": 348.8,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 348.8,
+      "endSec": 352.9,
+      "text": "swaying. And finally, if you mimic somebody or something,",
+      "words": [
+        {
+          "startSec": 348.9,
+          "endSec": 349.5,
+          "text": "swaying."
+        },
+        {
+          "startSec": 349.5,
+          "endSec": 349.8,
+          "text": "And"
+        },
+        {
+          "startSec": 349.8,
+          "endSec": 350.5,
+          "text": "finally,"
+        },
+        {
+          "startSec": 350.5,
+          "endSec": 350.6,
+          "text": "if"
+        },
+        {
+          "startSec": 350.6,
+          "endSec": 350.9,
+          "text": "you"
+        },
+        {
+          "startSec": 350.9,
+          "endSec": 351.3,
+          "text": "mimic"
+        },
+        {
+          "startSec": 351.3,
+          "endSec": 351.9,
+          "text": "somebody"
+        },
+        {
+          "startSec": 351.9,
+          "endSec": 352.1,
+          "text": "or"
+        },
+        {
+          "startSec": 352.1,
+          "endSec": 352.9,
+          "text": "something,"
+        },
+        {
+          "startSec": 352.9,
+          "endSec": 353.2,
+          "text": "you"
+        }
+      ]
+    },
+    {
+      "startSec": 352.9,
+      "endSec": 358.2,
+      "text": "you imitate it or copy it. Once again, our 6 minutes are up, but don't forget we have",
+      "words": [
+        {
+          "startSec": 352.9,
+          "endSec": 353.2,
+          "text": "you"
+        },
+        {
+          "startSec": 353.2,
+          "endSec": 353.9,
+          "text": "imitate"
+        },
+        {
+          "startSec": 353.9,
+          "endSec": 354.1,
+          "text": "it"
+        },
+        {
+          "startSec": 354.1,
+          "endSec": 354.3,
+          "text": "or"
+        },
+        {
+          "startSec": 354.3,
+          "endSec": 354.7,
+          "text": "copy"
+        },
+        {
+          "startSec": 354.7,
+          "endSec": 355.3,
+          "text": "it."
+        },
+        {
+          "startSec": 355.3,
+          "endSec": 355.5,
+          "text": "Once"
+        },
+        {
+          "startSec": 355.5,
+          "endSec": 355.9,
+          "text": "again,"
+        },
+        {
+          "startSec": 355.9,
+          "endSec": 356,
+          "text": "our"
+        },
+        {
+          "startSec": 356,
+          "endSec": 356.2,
+          "text": "6"
+        },
+        {
+          "startSec": 356.2,
+          "endSec": 356.6,
+          "text": "minutes"
+        },
+        {
+          "startSec": 356.6,
+          "endSec": 356.7,
+          "text": "are"
+        },
+        {
+          "startSec": 356.7,
+          "endSec": 357,
+          "text": "up,"
+        },
+        {
+          "startSec": 357,
+          "endSec": 357.1,
+          "text": "but"
+        },
+        {
+          "startSec": 357.1,
+          "endSec": 357.3,
+          "text": "don't"
+        },
+        {
+          "startSec": 357.3,
+          "endSec": 357.6,
+          "text": "forget"
+        },
+        {
+          "startSec": 357.6,
+          "endSec": 357.8,
+          "text": "we"
+        },
+        {
+          "startSec": 357.8,
+          "endSec": 358.2,
+          "text": "have"
+        },
+        {
+          "startSec": 358.2,
+          "endSec": 358.3,
+          "text": "a"
+        }
+      ]
+    },
+    {
+      "startSec": 358.2,
+      "endSec": 363.2,
+      "text": "a worksheet and a quiz that you can use to practise the vocabulary from this episode.",
+      "words": [
+        {
+          "startSec": 358.2,
+          "endSec": 358.3,
+          "text": "a"
+        },
+        {
+          "startSec": 358.3,
+          "endSec": 358.8,
+          "text": "worksheet"
+        },
+        {
+          "startSec": 358.8,
+          "endSec": 359,
+          "text": "and"
+        },
+        {
+          "startSec": 359,
+          "endSec": 359.1,
+          "text": "a"
+        },
+        {
+          "startSec": 359.1,
+          "endSec": 359.4,
+          "text": "quiz"
+        },
+        {
+          "startSec": 359.4,
+          "endSec": 359.6,
+          "text": "that"
+        },
+        {
+          "startSec": 359.6,
+          "endSec": 359.8,
+          "text": "you"
+        },
+        {
+          "startSec": 359.8,
+          "endSec": 360,
+          "text": "can"
+        },
+        {
+          "startSec": 360,
+          "endSec": 360.2,
+          "text": "use"
+        },
+        {
+          "startSec": 360.2,
+          "endSec": 360.4,
+          "text": "to"
+        },
+        {
+          "startSec": 360.4,
+          "endSec": 360.9,
+          "text": "practise"
+        },
+        {
+          "startSec": 360.9,
+          "endSec": 361.1,
+          "text": "the"
+        },
+        {
+          "startSec": 361.1,
+          "endSec": 361.8,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 361.8,
+          "endSec": 362.1,
+          "text": "from"
+        },
+        {
+          "startSec": 362.1,
+          "endSec": 362.3,
+          "text": "this"
+        },
+        {
+          "startSec": 362.3,
+          "endSec": 363.2,
+          "text": "episode."
+        },
+        {
+          "startSec": 363.2,
+          "endSec": 363.6,
+          "text": "Visit"
+        }
+      ]
+    },
+    {
+      "startSec": 363.2,
+      "endSec": 366.6,
+      "text": "Visit bbclearningenglish.com. Goodbye for now.",
+      "words": [
+        {
+          "startSec": 363.2,
+          "endSec": 363.6,
+          "text": "Visit"
+        },
+        {
+          "startSec": 363.6,
+          "endSec": 365.6,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 365.6,
+          "endSec": 366,
+          "text": "Goodbye"
+        },
+        {
+          "startSec": 366,
+          "endSec": 366.2,
+          "text": "for"
+        },
+        {
+          "startSec": 366.2,
+          "endSec": 366.6,
+          "text": "now."
+        },
+        {
+          "startSec": 366.6,
+          "endSec": 367.5,
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "startSec": 366.6,
+      "endSec": 367.5,
+      "text": "Goodbye.",
+      "words": [
+        {
+          "startSec": 366.6,
+          "endSec": 367.5,
+          "text": "Goodbye."
+        }
+      ]
+    }
+  ],
+  "introSec": 0
+}

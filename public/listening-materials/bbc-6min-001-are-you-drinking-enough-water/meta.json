@@ -1,0 +1,6177 @@
+{
+  "title": "Are you drinking enough water",
+  "source": "BBC 6 Minute English",
+  "level": "beginner",
+  "durationSec": 372,
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
+  "audioFile": "audio.mp3",
+  "segments": [
+    {
+      "startSec": 0,
+      "endSec": 2.6,
+      "text": "- Oh, six minutes English.",
+      "words": [
+        {
+          "startSec": 0.1,
+          "endSec": 0.1,
+          "text": "-"
+        },
+        {
+          "startSec": 0.1,
+          "endSec": 0.6,
+          "text": "Oh,"
+        },
+        {
+          "startSec": 0.6,
+          "endSec": 0.9,
+          "text": "six"
+        },
+        {
+          "startSec": 0.9,
+          "endSec": 1.7,
+          "text": "minutes"
+        },
+        {
+          "startSec": 1.7,
+          "endSec": 2.6,
+          "text": "English."
+        },
+        {
+          "startSec": 2.6,
+          "endSec": 2.7,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 2.6,
+      "endSec": 5.6,
+      "text": "- From bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 2.6,
+          "endSec": 2.7,
+          "text": "-"
+        },
+        {
+          "startSec": 2.7,
+          "endSec": 3.1,
+          "text": "From"
+        },
+        {
+          "startSec": 3.1,
+          "endSec": 5.6,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 5.6,
+          "endSec": 5.8,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 5.6,
+      "endSec": 9.9,
+      "text": "- Hello, this is Six Minute English",
+      "words": [
+        {
+          "startSec": 5.6,
+          "endSec": 5.8,
+          "text": "-"
+        },
+        {
+          "startSec": 5.8,
+          "endSec": 6.7,
+          "text": "Hello,"
+        },
+        {
+          "startSec": 6.7,
+          "endSec": 7.3,
+          "text": "this"
+        },
+        {
+          "startSec": 7.3,
+          "endSec": 7.6,
+          "text": "is"
+        },
+        {
+          "startSec": 7.6,
+          "endSec": 8,
+          "text": "Six"
+        },
+        {
+          "startSec": 8,
+          "endSec": 8.9,
+          "text": "Minute"
+        },
+        {
+          "startSec": 8.9,
+          "endSec": 9.9,
+          "text": "English"
+        },
+        {
+          "startSec": 9.9,
+          "endSec": 10.2,
+          "text": "from"
+        }
+      ]
+    },
+    {
+      "startSec": 9.9,
+      "endSec": 12.6,
+      "text": "from BBC Learning English, I'm Phil.",
+      "words": [
+        {
+          "startSec": 9.9,
+          "endSec": 10.2,
+          "text": "from"
+        },
+        {
+          "startSec": 10.2,
+          "endSec": 10.4,
+          "text": "BBC"
+        },
+        {
+          "startSec": 10.4,
+          "endSec": 11.1,
+          "text": "Learning"
+        },
+        {
+          "startSec": 11.1,
+          "endSec": 11.8,
+          "text": "English,"
+        },
+        {
+          "startSec": 11.8,
+          "endSec": 12,
+          "text": "I'm"
+        },
+        {
+          "startSec": 12,
+          "endSec": 12.6,
+          "text": "Phil."
+        },
+        {
+          "startSec": 12.6,
+          "endSec": 12.7,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 12.6,
+      "endSec": 13.9,
+      "text": "- And I'm Beth.",
+      "words": [
+        {
+          "startSec": 12.6,
+          "endSec": 12.7,
+          "text": "-"
+        },
+        {
+          "startSec": 12.7,
+          "endSec": 12.9,
+          "text": "And"
+        },
+        {
+          "startSec": 12.9,
+          "endSec": 13.2,
+          "text": "I'm"
+        },
+        {
+          "startSec": 13.2,
+          "endSec": 13.9,
+          "text": "Beth."
+        },
+        {
+          "startSec": 13.9,
+          "endSec": 14.7,
+          "text": "Nowadays,"
+        }
+      ]
+    },
+    {
+      "startSec": 13.9,
+      "endSec": 17.3,
+      "text": "Nowadays, I often see people carrying water bottles",
+      "words": [
+        {
+          "startSec": 13.9,
+          "endSec": 14.7,
+          "text": "Nowadays,"
+        },
+        {
+          "startSec": 14.7,
+          "endSec": 14.8,
+          "text": "I"
+        },
+        {
+          "startSec": 14.8,
+          "endSec": 15.1,
+          "text": "often"
+        },
+        {
+          "startSec": 15.1,
+          "endSec": 15.4,
+          "text": "see"
+        },
+        {
+          "startSec": 15.4,
+          "endSec": 15.8,
+          "text": "people"
+        },
+        {
+          "startSec": 15.8,
+          "endSec": 16.5,
+          "text": "carrying"
+        },
+        {
+          "startSec": 16.5,
+          "endSec": 16.8,
+          "text": "water"
+        },
+        {
+          "startSec": 16.8,
+          "endSec": 17.3,
+          "text": "bottles"
+        },
+        {
+          "startSec": 17.3,
+          "endSec": 17.6,
+          "text": "with"
+        }
+      ]
+    },
+    {
+      "startSec": 17.3,
+      "endSec": 19.9,
+      "text": "with them to make sure they drink enough.",
+      "words": [
+        {
+          "startSec": 17.3,
+          "endSec": 17.6,
+          "text": "with"
+        },
+        {
+          "startSec": 17.6,
+          "endSec": 17.8,
+          "text": "them"
+        },
+        {
+          "startSec": 17.8,
+          "endSec": 18,
+          "text": "to"
+        },
+        {
+          "startSec": 18,
+          "endSec": 18.3,
+          "text": "make"
+        },
+        {
+          "startSec": 18.3,
+          "endSec": 18.5,
+          "text": "sure"
+        },
+        {
+          "startSec": 18.5,
+          "endSec": 18.8,
+          "text": "they"
+        },
+        {
+          "startSec": 18.8,
+          "endSec": 19.2,
+          "text": "drink"
+        },
+        {
+          "startSec": 19.2,
+          "endSec": 19.9,
+          "text": "enough."
+        },
+        {
+          "startSec": 19.9,
+          "endSec": 20.1,
+          "text": "How"
+        }
+      ]
+    },
+    {
+      "startSec": 19.9,
+      "endSec": 22.4,
+      "text": "How much water do you drink a day, Phil?",
+      "words": [
+        {
+          "startSec": 19.9,
+          "endSec": 20.1,
+          "text": "How"
+        },
+        {
+          "startSec": 20.1,
+          "endSec": 20.4,
+          "text": "much"
+        },
+        {
+          "startSec": 20.4,
+          "endSec": 20.7,
+          "text": "water"
+        },
+        {
+          "startSec": 20.7,
+          "endSec": 20.9,
+          "text": "do"
+        },
+        {
+          "startSec": 20.9,
+          "endSec": 21.1,
+          "text": "you"
+        },
+        {
+          "startSec": 21.1,
+          "endSec": 21.5,
+          "text": "drink"
+        },
+        {
+          "startSec": 21.5,
+          "endSec": 21.5,
+          "text": "a"
+        },
+        {
+          "startSec": 21.5,
+          "endSec": 21.9,
+          "text": "day,"
+        },
+        {
+          "startSec": 21.9,
+          "endSec": 22.4,
+          "text": "Phil?"
+        },
+        {
+          "startSec": 22.4,
+          "endSec": 22.5,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 22.4,
+      "endSec": 23.6,
+      "text": "- Oh, I don't know.",
+      "words": [
+        {
+          "startSec": 22.4,
+          "endSec": 22.5,
+          "text": "-"
+        },
+        {
+          "startSec": 22.5,
+          "endSec": 22.7,
+          "text": "Oh,"
+        },
+        {
+          "startSec": 22.7,
+          "endSec": 22.8,
+          "text": "I"
+        },
+        {
+          "startSec": 22.8,
+          "endSec": 23.1,
+          "text": "don't"
+        },
+        {
+          "startSec": 23.1,
+          "endSec": 23.6,
+          "text": "know."
+        },
+        {
+          "startSec": 23.6,
+          "endSec": 24.4,
+          "text": "Maybe"
+        }
+      ]
+    },
+    {
+      "startSec": 23.6,
+      "endSec": 26.6,
+      "text": "Maybe about a liter.",
+      "words": [
+        {
+          "startSec": 23.6,
+          "endSec": 24.4,
+          "text": "Maybe"
+        },
+        {
+          "startSec": 24.4,
+          "endSec": 25.1,
+          "text": "about"
+        },
+        {
+          "startSec": 25.1,
+          "endSec": 25.3,
+          "text": "a"
+        },
+        {
+          "startSec": 25.3,
+          "endSec": 26.6,
+          "text": "liter."
+        },
+        {
+          "startSec": 26.6,
+          "endSec": 26.7,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 26.6,
+      "endSec": 29,
+      "text": "- Okay, and do you know how much water",
+      "words": [
+        {
+          "startSec": 26.6,
+          "endSec": 26.7,
+          "text": "-"
+        },
+        {
+          "startSec": 26.7,
+          "endSec": 27.1,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 27.1,
+          "endSec": 27.4,
+          "text": "and"
+        },
+        {
+          "startSec": 27.4,
+          "endSec": 27.5,
+          "text": "do"
+        },
+        {
+          "startSec": 27.5,
+          "endSec": 27.7,
+          "text": "you"
+        },
+        {
+          "startSec": 27.7,
+          "endSec": 28.1,
+          "text": "know"
+        },
+        {
+          "startSec": 28.1,
+          "endSec": 28.3,
+          "text": "how"
+        },
+        {
+          "startSec": 28.3,
+          "endSec": 28.5,
+          "text": "much"
+        },
+        {
+          "startSec": 28.5,
+          "endSec": 29,
+          "text": "water"
+        }
+      ]
+    },
+    {
+      "startSec": 29,
+      "endSec": 31.2,
+      "text": "you should drink a day.",
+      "words": [
+        {
+          "startSec": 29.1,
+          "endSec": 29.3,
+          "text": "you"
+        },
+        {
+          "startSec": 29.3,
+          "endSec": 29.9,
+          "text": "should"
+        },
+        {
+          "startSec": 29.9,
+          "endSec": 30.4,
+          "text": "drink"
+        },
+        {
+          "startSec": 30.4,
+          "endSec": 30.5,
+          "text": "a"
+        },
+        {
+          "startSec": 30.5,
+          "endSec": 31.2,
+          "text": "day."
+        },
+        {
+          "startSec": 31.2,
+          "endSec": 31.2,
+          "text": "-"
+        },
+        {
+          "startSec": 31.2,
+          "endSec": 31.3,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 31.2,
+      "endSec": 34.3,
+      "text": "- I think it's probably about two liters.",
+      "words": [
+        {
+          "startSec": 31.2,
+          "endSec": 31.2,
+          "text": "-"
+        },
+        {
+          "startSec": 31.2,
+          "endSec": 31.3,
+          "text": "I"
+        },
+        {
+          "startSec": 31.3,
+          "endSec": 31.8,
+          "text": "think"
+        },
+        {
+          "startSec": 31.8,
+          "endSec": 32.1,
+          "text": "it's"
+        },
+        {
+          "startSec": 32.1,
+          "endSec": 32.8,
+          "text": "probably"
+        },
+        {
+          "startSec": 32.8,
+          "endSec": 33.2,
+          "text": "about"
+        },
+        {
+          "startSec": 33.2,
+          "endSec": 33.5,
+          "text": "two"
+        },
+        {
+          "startSec": 33.5,
+          "endSec": 34.3,
+          "text": "liters."
+        },
+        {
+          "startSec": 34.3,
+          "endSec": 34.4,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 34.3,
+      "endSec": 37.5,
+      "text": "- Oh, well, the number many people have heard",
+      "words": [
+        {
+          "startSec": 34.3,
+          "endSec": 34.4,
+          "text": "-"
+        },
+        {
+          "startSec": 34.4,
+          "endSec": 34.7,
+          "text": "Oh,"
+        },
+        {
+          "startSec": 34.7,
+          "endSec": 35.2,
+          "text": "well,"
+        },
+        {
+          "startSec": 35.2,
+          "endSec": 35.4,
+          "text": "the"
+        },
+        {
+          "startSec": 35.4,
+          "endSec": 36,
+          "text": "number"
+        },
+        {
+          "startSec": 36,
+          "endSec": 36.3,
+          "text": "many"
+        },
+        {
+          "startSec": 36.3,
+          "endSec": 36.9,
+          "text": "people"
+        },
+        {
+          "startSec": 36.9,
+          "endSec": 37.1,
+          "text": "have"
+        },
+        {
+          "startSec": 37.1,
+          "endSec": 37.5,
+          "text": "heard"
+        },
+        {
+          "startSec": 37.5,
+          "endSec": 37.7,
+          "text": "is"
+        }
+      ]
+    },
+    {
+      "startSec": 37.5,
+      "endSec": 39.4,
+      "text": "is two liters a day.",
+      "words": [
+        {
+          "startSec": 37.5,
+          "endSec": 37.7,
+          "text": "is"
+        },
+        {
+          "startSec": 37.7,
+          "endSec": 38,
+          "text": "two"
+        },
+        {
+          "startSec": 38,
+          "endSec": 38.6,
+          "text": "liters"
+        },
+        {
+          "startSec": 38.6,
+          "endSec": 38.7,
+          "text": "a"
+        },
+        {
+          "startSec": 38.7,
+          "endSec": 39.4,
+          "text": "day."
+        },
+        {
+          "startSec": 39.4,
+          "endSec": 39.5,
+          "text": "Of"
+        }
+      ]
+    },
+    {
+      "startSec": 39.4,
+      "endSec": 42.6,
+      "text": "Of course, everyone needs to drink some water.",
+      "words": [
+        {
+          "startSec": 39.4,
+          "endSec": 39.5,
+          "text": "Of"
+        },
+        {
+          "startSec": 39.5,
+          "endSec": 40.2,
+          "text": "course,"
+        },
+        {
+          "startSec": 40.2,
+          "endSec": 40.9,
+          "text": "everyone"
+        },
+        {
+          "startSec": 40.9,
+          "endSec": 41.3,
+          "text": "needs"
+        },
+        {
+          "startSec": 41.3,
+          "endSec": 41.4,
+          "text": "to"
+        },
+        {
+          "startSec": 41.4,
+          "endSec": 41.9,
+          "text": "drink"
+        },
+        {
+          "startSec": 41.9,
+          "endSec": 42.2,
+          "text": "some"
+        },
+        {
+          "startSec": 42.2,
+          "endSec": 42.6,
+          "text": "water."
+        },
+        {
+          "startSec": 42.6,
+          "endSec": 43,
+          "text": "Over"
+        }
+      ]
+    },
+    {
+      "startSec": 42.6,
+      "endSec": 45.7,
+      "text": "Over half the human body is made up of it.",
+      "words": [
+        {
+          "startSec": 42.6,
+          "endSec": 43,
+          "text": "Over"
+        },
+        {
+          "startSec": 43,
+          "endSec": 43.3,
+          "text": "half"
+        },
+        {
+          "startSec": 43.3,
+          "endSec": 43.6,
+          "text": "the"
+        },
+        {
+          "startSec": 43.6,
+          "endSec": 44,
+          "text": "human"
+        },
+        {
+          "startSec": 44,
+          "endSec": 44.4,
+          "text": "body"
+        },
+        {
+          "startSec": 44.4,
+          "endSec": 44.6,
+          "text": "is"
+        },
+        {
+          "startSec": 44.6,
+          "endSec": 44.9,
+          "text": "made"
+        },
+        {
+          "startSec": 44.9,
+          "endSec": 45.1,
+          "text": "up"
+        },
+        {
+          "startSec": 45.1,
+          "endSec": 45.2,
+          "text": "of"
+        },
+        {
+          "startSec": 45.2,
+          "endSec": 45.7,
+          "text": "it."
+        },
+        {
+          "startSec": 45.7,
+          "endSec": 46,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 45.7,
+      "endSec": 50,
+      "text": "But exactly how much water do we need to stay healthy?",
+      "words": [
+        {
+          "startSec": 45.7,
+          "endSec": 46,
+          "text": "But"
+        },
+        {
+          "startSec": 46,
+          "endSec": 46.6,
+          "text": "exactly"
+        },
+        {
+          "startSec": 46.6,
+          "endSec": 46.9,
+          "text": "how"
+        },
+        {
+          "startSec": 46.9,
+          "endSec": 47.3,
+          "text": "much"
+        },
+        {
+          "startSec": 47.3,
+          "endSec": 47.7,
+          "text": "water"
+        },
+        {
+          "startSec": 47.7,
+          "endSec": 47.9,
+          "text": "do"
+        },
+        {
+          "startSec": 47.9,
+          "endSec": 48.1,
+          "text": "we"
+        },
+        {
+          "startSec": 48.1,
+          "endSec": 48.5,
+          "text": "need"
+        },
+        {
+          "startSec": 48.5,
+          "endSec": 48.7,
+          "text": "to"
+        },
+        {
+          "startSec": 48.7,
+          "endSec": 49.1,
+          "text": "stay"
+        },
+        {
+          "startSec": 49.1,
+          "endSec": 50,
+          "text": "healthy?"
+        },
+        {
+          "startSec": 50,
+          "endSec": 50.3,
+          "text": "That's"
+        }
+      ]
+    },
+    {
+      "startSec": 50,
+      "endSec": 52.2,
+      "text": "That's what we'll be discussing in this programme",
+      "words": [
+        {
+          "startSec": 50,
+          "endSec": 50.3,
+          "text": "That's"
+        },
+        {
+          "startSec": 50.3,
+          "endSec": 50.5,
+          "text": "what"
+        },
+        {
+          "startSec": 50.5,
+          "endSec": 50.7,
+          "text": "we'll"
+        },
+        {
+          "startSec": 50.7,
+          "endSec": 50.8,
+          "text": "be"
+        },
+        {
+          "startSec": 50.8,
+          "endSec": 51.3,
+          "text": "discussing"
+        },
+        {
+          "startSec": 51.3,
+          "endSec": 51.4,
+          "text": "in"
+        },
+        {
+          "startSec": 51.4,
+          "endSec": 51.7,
+          "text": "this"
+        },
+        {
+          "startSec": 51.7,
+          "endSec": 52.2,
+          "text": "programme"
+        },
+        {
+          "startSec": 52.2,
+          "endSec": 52.6,
+          "text": "along"
+        }
+      ]
+    },
+    {
+      "startSec": 52.2,
+      "endSec": 55.2,
+      "text": "along with some useful new vocabulary as well.",
+      "words": [
+        {
+          "startSec": 52.2,
+          "endSec": 52.6,
+          "text": "along"
+        },
+        {
+          "startSec": 52.6,
+          "endSec": 52.9,
+          "text": "with"
+        },
+        {
+          "startSec": 52.9,
+          "endSec": 53.2,
+          "text": "some"
+        },
+        {
+          "startSec": 53.2,
+          "endSec": 53.6,
+          "text": "useful"
+        },
+        {
+          "startSec": 53.6,
+          "endSec": 53.8,
+          "text": "new"
+        },
+        {
+          "startSec": 53.8,
+          "endSec": 54.6,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 54.6,
+          "endSec": 54.7,
+          "text": "as"
+        },
+        {
+          "startSec": 54.7,
+          "endSec": 55.2,
+          "text": "well."
+        },
+        {
+          "startSec": 55.2,
+          "endSec": 55.3,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 55.2,
+      "endSec": 56.7,
+      "text": "- And speaking of vocabulary,",
+      "words": [
+        {
+          "startSec": 55.2,
+          "endSec": 55.3,
+          "text": "-"
+        },
+        {
+          "startSec": 55.3,
+          "endSec": 55.5,
+          "text": "And"
+        },
+        {
+          "startSec": 55.5,
+          "endSec": 55.9,
+          "text": "speaking"
+        },
+        {
+          "startSec": 55.9,
+          "endSec": 56,
+          "text": "of"
+        },
+        {
+          "startSec": 56,
+          "endSec": 56.7,
+          "text": "vocabulary,"
+        }
+      ]
+    },
+    {
+      "startSec": 56.7,
+      "endSec": 59.7,
+      "text": "remember you can download all the new words and phrases",
+      "words": [
+        {
+          "startSec": 56.8,
+          "endSec": 57.2,
+          "text": "remember"
+        },
+        {
+          "startSec": 57.2,
+          "endSec": 57.4,
+          "text": "you"
+        },
+        {
+          "startSec": 57.4,
+          "endSec": 57.6,
+          "text": "can"
+        },
+        {
+          "startSec": 57.6,
+          "endSec": 58.2,
+          "text": "download"
+        },
+        {
+          "startSec": 58.2,
+          "endSec": 58.4,
+          "text": "all"
+        },
+        {
+          "startSec": 58.4,
+          "endSec": 58.6,
+          "text": "the"
+        },
+        {
+          "startSec": 58.6,
+          "endSec": 58.8,
+          "text": "new"
+        },
+        {
+          "startSec": 58.8,
+          "endSec": 59.2,
+          "text": "words"
+        },
+        {
+          "startSec": 59.2,
+          "endSec": 59.3,
+          "text": "and"
+        },
+        {
+          "startSec": 59.3,
+          "endSec": 59.7,
+          "text": "phrases"
+        },
+        {
+          "startSec": 59.7,
+          "endSec": 60,
+          "text": "from"
+        }
+      ]
+    },
+    {
+      "startSec": 59.7,
+      "endSec": 62.5,
+      "text": "from this programme plus worksheet exercises",
+      "words": [
+        {
+          "startSec": 59.7,
+          "endSec": 60,
+          "text": "from"
+        },
+        {
+          "startSec": 60,
+          "endSec": 60.2,
+          "text": "this"
+        },
+        {
+          "startSec": 60.2,
+          "endSec": 60.8,
+          "text": "programme"
+        },
+        {
+          "startSec": 60.8,
+          "endSec": 61.1,
+          "text": "plus"
+        },
+        {
+          "startSec": 61.1,
+          "endSec": 61.8,
+          "text": "worksheet"
+        },
+        {
+          "startSec": 61.8,
+          "endSec": 62.5,
+          "text": "exercises"
+        },
+        {
+          "startSec": 62.5,
+          "endSec": 62.6,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 62.5,
+      "endSec": 65.1,
+      "text": "to help you learn them on our website,",
+      "words": [
+        {
+          "startSec": 62.5,
+          "endSec": 62.6,
+          "text": "to"
+        },
+        {
+          "startSec": 62.6,
+          "endSec": 63,
+          "text": "help"
+        },
+        {
+          "startSec": 63,
+          "endSec": 63.2,
+          "text": "you"
+        },
+        {
+          "startSec": 63.2,
+          "endSec": 63.6,
+          "text": "learn"
+        },
+        {
+          "startSec": 63.6,
+          "endSec": 63.9,
+          "text": "them"
+        },
+        {
+          "startSec": 63.9,
+          "endSec": 64.1,
+          "text": "on"
+        },
+        {
+          "startSec": 64.1,
+          "endSec": 64.4,
+          "text": "our"
+        },
+        {
+          "startSec": 64.4,
+          "endSec": 65.1,
+          "text": "website,"
+        },
+        {
+          "startSec": 65.1,
+          "endSec": 67.5,
+          "text": "bbclearningenglish.com."
+        }
+      ]
+    },
+    {
+      "startSec": 65.1,
+      "endSec": 67.5,
+      "text": "bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 65.1,
+          "endSec": 67.5,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 67.5,
+          "endSec": 67.6,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 67.5,
+      "endSec": 71.4,
+      "text": "- Great, but first I have a question for you, Phil.",
+      "words": [
+        {
+          "startSec": 67.5,
+          "endSec": 67.6,
+          "text": "-"
+        },
+        {
+          "startSec": 67.6,
+          "endSec": 68.2,
+          "text": "Great,"
+        },
+        {
+          "startSec": 68.2,
+          "endSec": 68.4,
+          "text": "but"
+        },
+        {
+          "startSec": 68.4,
+          "endSec": 68.9,
+          "text": "first"
+        },
+        {
+          "startSec": 68.9,
+          "endSec": 68.9,
+          "text": "I"
+        },
+        {
+          "startSec": 68.9,
+          "endSec": 69.3,
+          "text": "have"
+        },
+        {
+          "startSec": 69.3,
+          "endSec": 69.4,
+          "text": "a"
+        },
+        {
+          "startSec": 69.4,
+          "endSec": 70,
+          "text": "question"
+        },
+        {
+          "startSec": 70,
+          "endSec": 70.3,
+          "text": "for"
+        },
+        {
+          "startSec": 70.3,
+          "endSec": 70.7,
+          "text": "you,"
+        },
+        {
+          "startSec": 70.7,
+          "endSec": 71.4,
+          "text": "Phil."
+        },
+        {
+          "startSec": 71.4,
+          "endSec": 71.5,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 71.4,
+      "endSec": 76,
+      "text": "I mentioned that over half the human body consists of water,",
+      "words": [
+        {
+          "startSec": 71.4,
+          "endSec": 71.5,
+          "text": "I"
+        },
+        {
+          "startSec": 71.5,
+          "endSec": 72.2,
+          "text": "mentioned"
+        },
+        {
+          "startSec": 72.2,
+          "endSec": 72.5,
+          "text": "that"
+        },
+        {
+          "startSec": 72.5,
+          "endSec": 72.9,
+          "text": "over"
+        },
+        {
+          "startSec": 72.9,
+          "endSec": 73.2,
+          "text": "half"
+        },
+        {
+          "startSec": 73.2,
+          "endSec": 73.4,
+          "text": "the"
+        },
+        {
+          "startSec": 73.4,
+          "endSec": 73.8,
+          "text": "human"
+        },
+        {
+          "startSec": 73.8,
+          "endSec": 74,
+          "text": "body"
+        },
+        {
+          "startSec": 74,
+          "endSec": 74.8,
+          "text": "consists"
+        },
+        {
+          "startSec": 74.8,
+          "endSec": 75.1,
+          "text": "of"
+        },
+        {
+          "startSec": 75.1,
+          "endSec": 76,
+          "text": "water,"
+        },
+        {
+          "startSec": 76,
+          "endSec": 76.2,
+          "text": "but"
+        }
+      ]
+    },
+    {
+      "startSec": 76,
+      "endSec": 79.8,
+      "text": "but there's an even higher percentage of water in our blood.",
+      "words": [
+        {
+          "startSec": 76,
+          "endSec": 76.2,
+          "text": "but"
+        },
+        {
+          "startSec": 76.2,
+          "endSec": 76.6,
+          "text": "there's"
+        },
+        {
+          "startSec": 76.6,
+          "endSec": 76.8,
+          "text": "an"
+        },
+        {
+          "startSec": 76.8,
+          "endSec": 77,
+          "text": "even"
+        },
+        {
+          "startSec": 77,
+          "endSec": 77.4,
+          "text": "higher"
+        },
+        {
+          "startSec": 77.4,
+          "endSec": 78.1,
+          "text": "percentage"
+        },
+        {
+          "startSec": 78.1,
+          "endSec": 78.2,
+          "text": "of"
+        },
+        {
+          "startSec": 78.2,
+          "endSec": 78.6,
+          "text": "water"
+        },
+        {
+          "startSec": 78.6,
+          "endSec": 78.9,
+          "text": "in"
+        },
+        {
+          "startSec": 78.9,
+          "endSec": 79.2,
+          "text": "our"
+        },
+        {
+          "startSec": 79.2,
+          "endSec": 79.8,
+          "text": "blood."
+        },
+        {
+          "startSec": 79.8,
+          "endSec": 80.1,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 79.8,
+      "endSec": 81,
+      "text": "But how much?",
+      "words": [
+        {
+          "startSec": 79.8,
+          "endSec": 80.1,
+          "text": "But"
+        },
+        {
+          "startSec": 80.1,
+          "endSec": 80.3,
+          "text": "how"
+        },
+        {
+          "startSec": 80.3,
+          "endSec": 81,
+          "text": "much?"
+        },
+        {
+          "startSec": 81,
+          "endSec": 81.3,
+          "text": "Is"
+        }
+      ]
+    },
+    {
+      "startSec": 81,
+      "endSec": 85.4,
+      "text": "Is our blood A around 80% water,",
+      "words": [
+        {
+          "startSec": 81,
+          "endSec": 81.3,
+          "text": "Is"
+        },
+        {
+          "startSec": 81.3,
+          "endSec": 81.7,
+          "text": "our"
+        },
+        {
+          "startSec": 81.7,
+          "endSec": 82.5,
+          "text": "blood"
+        },
+        {
+          "startSec": 82.5,
+          "endSec": 82.6,
+          "text": "A"
+        },
+        {
+          "startSec": 82.6,
+          "endSec": 83.6,
+          "text": "around"
+        },
+        {
+          "startSec": 83.6,
+          "endSec": 84.6,
+          "text": "80%"
+        },
+        {
+          "startSec": 84.6,
+          "endSec": 85.4,
+          "text": "water,"
+        }
+      ]
+    },
+    {
+      "startSec": 85.4,
+      "endSec": 88.2,
+      "text": "B around 90% water,",
+      "words": [
+        {
+          "startSec": 85.5,
+          "endSec": 85.6,
+          "text": "B"
+        },
+        {
+          "startSec": 85.6,
+          "endSec": 86.5,
+          "text": "around"
+        },
+        {
+          "startSec": 86.5,
+          "endSec": 87.5,
+          "text": "90%"
+        },
+        {
+          "startSec": 87.5,
+          "endSec": 88.2,
+          "text": "water,"
+        },
+        {
+          "startSec": 88.2,
+          "endSec": 88.5,
+          "text": "or"
+        }
+      ]
+    },
+    {
+      "startSec": 88.2,
+      "endSec": 91.3,
+      "text": "or C 100% water?",
+      "words": [
+        {
+          "startSec": 88.2,
+          "endSec": 88.5,
+          "text": "or"
+        },
+        {
+          "startSec": 88.5,
+          "endSec": 88.7,
+          "text": "C"
+        },
+        {
+          "startSec": 88.7,
+          "endSec": 90.1,
+          "text": "100%"
+        },
+        {
+          "startSec": 90.1,
+          "endSec": 91.3,
+          "text": "water?"
+        },
+        {
+          "startSec": 91.3,
+          "endSec": 91.4,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 91.3,
+      "endSec": 94.5,
+      "text": "- I think it's around 80% water.",
+      "words": [
+        {
+          "startSec": 91.3,
+          "endSec": 91.4,
+          "text": "-"
+        },
+        {
+          "startSec": 91.4,
+          "endSec": 91.5,
+          "text": "I"
+        },
+        {
+          "startSec": 91.5,
+          "endSec": 92,
+          "text": "think"
+        },
+        {
+          "startSec": 92,
+          "endSec": 92.4,
+          "text": "it's"
+        },
+        {
+          "startSec": 92.4,
+          "endSec": 93,
+          "text": "around"
+        },
+        {
+          "startSec": 93,
+          "endSec": 93.7,
+          "text": "80%"
+        },
+        {
+          "startSec": 93.7,
+          "endSec": 94.5,
+          "text": "water."
+        },
+        {
+          "startSec": 94.5,
+          "endSec": 94.6,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 94.5,
+      "endSec": 98.6,
+      "text": "- Okay, I will reveal the correct answer later in the programme.",
+      "words": [
+        {
+          "startSec": 94.5,
+          "endSec": 94.6,
+          "text": "-"
+        },
+        {
+          "startSec": 94.6,
+          "endSec": 95,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 95,
+          "endSec": 95.1,
+          "text": "I"
+        },
+        {
+          "startSec": 95.1,
+          "endSec": 95.4,
+          "text": "will"
+        },
+        {
+          "startSec": 95.4,
+          "endSec": 95.8,
+          "text": "reveal"
+        },
+        {
+          "startSec": 95.8,
+          "endSec": 96,
+          "text": "the"
+        },
+        {
+          "startSec": 96,
+          "endSec": 96.5,
+          "text": "correct"
+        },
+        {
+          "startSec": 96.5,
+          "endSec": 96.9,
+          "text": "answer"
+        },
+        {
+          "startSec": 96.9,
+          "endSec": 97.2,
+          "text": "later"
+        },
+        {
+          "startSec": 97.2,
+          "endSec": 97.4,
+          "text": "in"
+        },
+        {
+          "startSec": 97.4,
+          "endSec": 97.6,
+          "text": "the"
+        },
+        {
+          "startSec": 97.6,
+          "endSec": 98.6,
+          "text": "programme."
+        },
+        {
+          "startSec": 98.6,
+          "endSec": 98.9,
+          "text": "Our"
+        }
+      ]
+    },
+    {
+      "startSec": 98.6,
+      "endSec": 101.7,
+      "text": "Our blood needs water so it can carry nutrients",
+      "words": [
+        {
+          "startSec": 98.6,
+          "endSec": 98.9,
+          "text": "Our"
+        },
+        {
+          "startSec": 98.9,
+          "endSec": 99.3,
+          "text": "blood"
+        },
+        {
+          "startSec": 99.3,
+          "endSec": 99.7,
+          "text": "needs"
+        },
+        {
+          "startSec": 99.7,
+          "endSec": 100.2,
+          "text": "water"
+        },
+        {
+          "startSec": 100.2,
+          "endSec": 100.3,
+          "text": "so"
+        },
+        {
+          "startSec": 100.3,
+          "endSec": 100.4,
+          "text": "it"
+        },
+        {
+          "startSec": 100.4,
+          "endSec": 100.7,
+          "text": "can"
+        },
+        {
+          "startSec": 100.7,
+          "endSec": 101,
+          "text": "carry"
+        },
+        {
+          "startSec": 101,
+          "endSec": 101.7,
+          "text": "nutrients"
+        },
+        {
+          "startSec": 101.7,
+          "endSec": 101.9,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 101.7,
+      "endSec": 104.3,
+      "text": "to the body's cells and organs.",
+      "words": [
+        {
+          "startSec": 101.7,
+          "endSec": 101.9,
+          "text": "to"
+        },
+        {
+          "startSec": 101.9,
+          "endSec": 102.1,
+          "text": "the"
+        },
+        {
+          "startSec": 102.1,
+          "endSec": 102.7,
+          "text": "body's"
+        },
+        {
+          "startSec": 102.7,
+          "endSec": 103.1,
+          "text": "cells"
+        },
+        {
+          "startSec": 103.1,
+          "endSec": 103.4,
+          "text": "and"
+        },
+        {
+          "startSec": 103.4,
+          "endSec": 104.3,
+          "text": "organs."
+        },
+        {
+          "startSec": 104.3,
+          "endSec": 104.5,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 104.3,
+      "endSec": 108,
+      "text": "The amount recommended is often given as two liters a day.",
+      "words": [
+        {
+          "startSec": 104.3,
+          "endSec": 104.5,
+          "text": "The"
+        },
+        {
+          "startSec": 104.5,
+          "endSec": 104.8,
+          "text": "amount"
+        },
+        {
+          "startSec": 104.8,
+          "endSec": 105.5,
+          "text": "recommended"
+        },
+        {
+          "startSec": 105.5,
+          "endSec": 105.6,
+          "text": "is"
+        },
+        {
+          "startSec": 105.6,
+          "endSec": 106,
+          "text": "often"
+        },
+        {
+          "startSec": 106,
+          "endSec": 106.4,
+          "text": "given"
+        },
+        {
+          "startSec": 106.4,
+          "endSec": 106.6,
+          "text": "as"
+        },
+        {
+          "startSec": 106.6,
+          "endSec": 106.9,
+          "text": "two"
+        },
+        {
+          "startSec": 106.9,
+          "endSec": 107.5,
+          "text": "liters"
+        },
+        {
+          "startSec": 107.5,
+          "endSec": 107.6,
+          "text": "a"
+        },
+        {
+          "startSec": 107.6,
+          "endSec": 108,
+          "text": "day."
+        },
+        {
+          "startSec": 108,
+          "endSec": 108.3,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 108,
+      "endSec": 109.1,
+      "text": "But why?",
+      "words": [
+        {
+          "startSec": 108,
+          "endSec": 108.3,
+          "text": "But"
+        },
+        {
+          "startSec": 108.3,
+          "endSec": 109.1,
+          "text": "why?"
+        },
+        {
+          "startSec": 109.1,
+          "endSec": 109.4,
+          "text": "Here"
+        }
+      ]
+    },
+    {
+      "startSec": 109.1,
+      "endSec": 112.7,
+      "text": "Here to discuss this with BBC World Service programme,",
+      "words": [
+        {
+          "startSec": 109.1,
+          "endSec": 109.4,
+          "text": "Here"
+        },
+        {
+          "startSec": 109.4,
+          "endSec": 109.6,
+          "text": "to"
+        },
+        {
+          "startSec": 109.6,
+          "endSec": 110.2,
+          "text": "discuss"
+        },
+        {
+          "startSec": 110.2,
+          "endSec": 110.5,
+          "text": "this"
+        },
+        {
+          "startSec": 110.5,
+          "endSec": 110.8,
+          "text": "with"
+        },
+        {
+          "startSec": 110.8,
+          "endSec": 111.1,
+          "text": "BBC"
+        },
+        {
+          "startSec": 111.1,
+          "endSec": 111.5,
+          "text": "World"
+        },
+        {
+          "startSec": 111.5,
+          "endSec": 112,
+          "text": "Service"
+        },
+        {
+          "startSec": 112,
+          "endSec": 112.7,
+          "text": "programme,"
+        }
+      ]
+    },
+    {
+      "startSec": 112.7,
+      "endSec": 116.6,
+      "text": "the food chain is a biologist, Professor John Speekman.",
+      "words": [
+        {
+          "startSec": 112.8,
+          "endSec": 113,
+          "text": "the"
+        },
+        {
+          "startSec": 113,
+          "endSec": 113.3,
+          "text": "food"
+        },
+        {
+          "startSec": 113.3,
+          "endSec": 113.7,
+          "text": "chain"
+        },
+        {
+          "startSec": 113.7,
+          "endSec": 113.8,
+          "text": "is"
+        },
+        {
+          "startSec": 113.8,
+          "endSec": 113.9,
+          "text": "a"
+        },
+        {
+          "startSec": 113.9,
+          "endSec": 114.7,
+          "text": "biologist,"
+        },
+        {
+          "startSec": 114.7,
+          "endSec": 115.4,
+          "text": "Professor"
+        },
+        {
+          "startSec": 115.4,
+          "endSec": 115.7,
+          "text": "John"
+        },
+        {
+          "startSec": 115.7,
+          "endSec": 116.6,
+          "text": "Speekman."
+        },
+        {
+          "startSec": 116.6,
+          "endSec": 116.7,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 116.6,
+      "endSec": 118.5,
+      "text": "- So I'm not sure how it was arrived at,",
+      "words": [
+        {
+          "startSec": 116.6,
+          "endSec": 116.7,
+          "text": "-"
+        },
+        {
+          "startSec": 116.7,
+          "endSec": 116.8,
+          "text": "So"
+        },
+        {
+          "startSec": 116.8,
+          "endSec": 117,
+          "text": "I'm"
+        },
+        {
+          "startSec": 117,
+          "endSec": 117.2,
+          "text": "not"
+        },
+        {
+          "startSec": 117.2,
+          "endSec": 117.4,
+          "text": "sure"
+        },
+        {
+          "startSec": 117.4,
+          "endSec": 117.6,
+          "text": "how"
+        },
+        {
+          "startSec": 117.6,
+          "endSec": 117.7,
+          "text": "it"
+        },
+        {
+          "startSec": 117.7,
+          "endSec": 117.9,
+          "text": "was"
+        },
+        {
+          "startSec": 117.9,
+          "endSec": 118.3,
+          "text": "arrived"
+        },
+        {
+          "startSec": 118.3,
+          "endSec": 118.5,
+          "text": "at,"
+        },
+        {
+          "startSec": 118.5,
+          "endSec": 118.7,
+          "text": "but"
+        }
+      ]
+    },
+    {
+      "startSec": 118.5,
+      "endSec": 121.5,
+      "text": "but it seems to be a number that has taken grip",
+      "words": [
+        {
+          "startSec": 118.5,
+          "endSec": 118.7,
+          "text": "but"
+        },
+        {
+          "startSec": 118.7,
+          "endSec": 118.9,
+          "text": "it"
+        },
+        {
+          "startSec": 118.9,
+          "endSec": 119.3,
+          "text": "seems"
+        },
+        {
+          "startSec": 119.3,
+          "endSec": 119.4,
+          "text": "to"
+        },
+        {
+          "startSec": 119.4,
+          "endSec": 119.5,
+          "text": "be"
+        },
+        {
+          "startSec": 119.5,
+          "endSec": 119.6,
+          "text": "a"
+        },
+        {
+          "startSec": 119.6,
+          "endSec": 120.1,
+          "text": "number"
+        },
+        {
+          "startSec": 120.1,
+          "endSec": 120.4,
+          "text": "that"
+        },
+        {
+          "startSec": 120.4,
+          "endSec": 120.7,
+          "text": "has"
+        },
+        {
+          "startSec": 120.7,
+          "endSec": 121.1,
+          "text": "taken"
+        },
+        {
+          "startSec": 121.1,
+          "endSec": 121.5,
+          "text": "grip"
+        },
+        {
+          "startSec": 121.5,
+          "endSec": 121.6,
+          "text": "on"
+        }
+      ]
+    },
+    {
+      "startSec": 121.5,
+      "endSec": 123.4,
+      "text": "on a very large number of countries.",
+      "words": [
+        {
+          "startSec": 121.5,
+          "endSec": 121.6,
+          "text": "on"
+        },
+        {
+          "startSec": 121.6,
+          "endSec": 121.7,
+          "text": "a"
+        },
+        {
+          "startSec": 121.7,
+          "endSec": 121.9,
+          "text": "very"
+        },
+        {
+          "startSec": 121.9,
+          "endSec": 122.2,
+          "text": "large"
+        },
+        {
+          "startSec": 122.2,
+          "endSec": 122.6,
+          "text": "number"
+        },
+        {
+          "startSec": 122.6,
+          "endSec": 122.7,
+          "text": "of"
+        },
+        {
+          "startSec": 122.7,
+          "endSec": 123.4,
+          "text": "countries."
+        },
+        {
+          "startSec": 123.4,
+          "endSec": 123.6,
+          "text": "So"
+        }
+      ]
+    },
+    {
+      "startSec": 123.4,
+      "endSec": 126.2,
+      "text": "So if you look at government recommendations",
+      "words": [
+        {
+          "startSec": 123.4,
+          "endSec": 123.6,
+          "text": "So"
+        },
+        {
+          "startSec": 123.6,
+          "endSec": 123.7,
+          "text": "if"
+        },
+        {
+          "startSec": 123.7,
+          "endSec": 123.9,
+          "text": "you"
+        },
+        {
+          "startSec": 123.9,
+          "endSec": 124.2,
+          "text": "look"
+        },
+        {
+          "startSec": 124.2,
+          "endSec": 124.4,
+          "text": "at"
+        },
+        {
+          "startSec": 124.4,
+          "endSec": 125.1,
+          "text": "government"
+        },
+        {
+          "startSec": 125.1,
+          "endSec": 126.2,
+          "text": "recommendations"
+        },
+        {
+          "startSec": 126.2,
+          "endSec": 126.6,
+          "text": "around"
+        }
+      ]
+    },
+    {
+      "startSec": 126.2,
+      "endSec": 128.5,
+      "text": "around the world, they're pretty much all the same.",
+      "words": [
+        {
+          "startSec": 126.2,
+          "endSec": 126.6,
+          "text": "around"
+        },
+        {
+          "startSec": 126.6,
+          "endSec": 126.7,
+          "text": "the"
+        },
+        {
+          "startSec": 126.7,
+          "endSec": 127.1,
+          "text": "world,"
+        },
+        {
+          "startSec": 127.1,
+          "endSec": 127.4,
+          "text": "they're"
+        },
+        {
+          "startSec": 127.4,
+          "endSec": 127.7,
+          "text": "pretty"
+        },
+        {
+          "startSec": 127.7,
+          "endSec": 127.9,
+          "text": "much"
+        },
+        {
+          "startSec": 127.9,
+          "endSec": 128,
+          "text": "all"
+        },
+        {
+          "startSec": 128,
+          "endSec": 128.2,
+          "text": "the"
+        },
+        {
+          "startSec": 128.2,
+          "endSec": 128.5,
+          "text": "same."
+        },
+        {
+          "startSec": 128.5,
+          "endSec": 128.9,
+          "text": "They're"
+        }
+      ]
+    },
+    {
+      "startSec": 128.5,
+      "endSec": 129.6,
+      "text": "They're pretty much all say,",
+      "words": [
+        {
+          "startSec": 128.5,
+          "endSec": 128.9,
+          "text": "They're"
+        },
+        {
+          "startSec": 128.9,
+          "endSec": 129.1,
+          "text": "pretty"
+        },
+        {
+          "startSec": 129.1,
+          "endSec": 129.3,
+          "text": "much"
+        },
+        {
+          "startSec": 129.3,
+          "endSec": 129.5,
+          "text": "all"
+        },
+        {
+          "startSec": 129.5,
+          "endSec": 129.6,
+          "text": "say,"
+        },
+        {
+          "startSec": 129.6,
+          "endSec": 130.6,
+          "text": "everybody's"
+        }
+      ]
+    },
+    {
+      "startSec": 129.6,
+      "endSec": 133.6,
+      "text": "everybody's got to be drinking two liters of water.",
+      "words": [
+        {
+          "startSec": 129.6,
+          "endSec": 130.6,
+          "text": "everybody's"
+        },
+        {
+          "startSec": 130.6,
+          "endSec": 130.9,
+          "text": "got"
+        },
+        {
+          "startSec": 130.9,
+          "endSec": 131,
+          "text": "to"
+        },
+        {
+          "startSec": 131,
+          "endSec": 131.2,
+          "text": "be"
+        },
+        {
+          "startSec": 131.2,
+          "endSec": 131.9,
+          "text": "drinking"
+        },
+        {
+          "startSec": 131.9,
+          "endSec": 132.1,
+          "text": "two"
+        },
+        {
+          "startSec": 132.1,
+          "endSec": 132.7,
+          "text": "liters"
+        },
+        {
+          "startSec": 132.7,
+          "endSec": 132.8,
+          "text": "of"
+        },
+        {
+          "startSec": 132.8,
+          "endSec": 133.6,
+          "text": "water."
+        },
+        {
+          "startSec": 133.6,
+          "endSec": 133.7,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 133.6,
+      "endSec": 135.8,
+      "text": "- Professor Speekman doesn't know",
+      "words": [
+        {
+          "startSec": 133.6,
+          "endSec": 133.7,
+          "text": "-"
+        },
+        {
+          "startSec": 133.7,
+          "endSec": 134.3,
+          "text": "Professor"
+        },
+        {
+          "startSec": 134.3,
+          "endSec": 134.9,
+          "text": "Speekman"
+        },
+        {
+          "startSec": 134.9,
+          "endSec": 135.4,
+          "text": "doesn't"
+        },
+        {
+          "startSec": 135.4,
+          "endSec": 135.8,
+          "text": "know"
+        },
+        {
+          "startSec": 135.8,
+          "endSec": 136,
+          "text": "how"
+        }
+      ]
+    },
+    {
+      "startSec": 135.8,
+      "endSec": 139.4,
+      "text": "how the number of two liters a day was arrived at,",
+      "words": [
+        {
+          "startSec": 135.8,
+          "endSec": 136,
+          "text": "how"
+        },
+        {
+          "startSec": 136,
+          "endSec": 136.2,
+          "text": "the"
+        },
+        {
+          "startSec": 136.2,
+          "endSec": 136.6,
+          "text": "number"
+        },
+        {
+          "startSec": 136.6,
+          "endSec": 136.7,
+          "text": "of"
+        },
+        {
+          "startSec": 136.7,
+          "endSec": 136.9,
+          "text": "two"
+        },
+        {
+          "startSec": 136.9,
+          "endSec": 137.3,
+          "text": "liters"
+        },
+        {
+          "startSec": 137.3,
+          "endSec": 137.3,
+          "text": "a"
+        },
+        {
+          "startSec": 137.3,
+          "endSec": 137.6,
+          "text": "day"
+        },
+        {
+          "startSec": 137.6,
+          "endSec": 137.9,
+          "text": "was"
+        },
+        {
+          "startSec": 137.9,
+          "endSec": 138.8,
+          "text": "arrived"
+        },
+        {
+          "startSec": 138.8,
+          "endSec": 139.4,
+          "text": "at,"
+        },
+        {
+          "startSec": 139.4,
+          "endSec": 139.7,
+          "text": "how"
+        }
+      ]
+    },
+    {
+      "startSec": 139.4,
+      "endSec": 142.3,
+      "text": "how it was decided or calculated.",
+      "words": [
+        {
+          "startSec": 139.4,
+          "endSec": 139.7,
+          "text": "how"
+        },
+        {
+          "startSec": 139.7,
+          "endSec": 139.8,
+          "text": "it"
+        },
+        {
+          "startSec": 139.8,
+          "endSec": 140.1,
+          "text": "was"
+        },
+        {
+          "startSec": 140.1,
+          "endSec": 140.8,
+          "text": "decided"
+        },
+        {
+          "startSec": 140.8,
+          "endSec": 141,
+          "text": "or"
+        },
+        {
+          "startSec": 141,
+          "endSec": 142.3,
+          "text": "calculated."
+        }
+      ]
+    },
+    {
+      "startSec": 142.3,
+      "endSec": 145.9,
+      "text": "Nevertheless, the idea of drinking two liters a day",
+      "words": [
+        {
+          "startSec": 142.4,
+          "endSec": 143.1,
+          "text": "Nevertheless,"
+        },
+        {
+          "startSec": 143.1,
+          "endSec": 143.4,
+          "text": "the"
+        },
+        {
+          "startSec": 143.4,
+          "endSec": 143.8,
+          "text": "idea"
+        },
+        {
+          "startSec": 143.8,
+          "endSec": 144,
+          "text": "of"
+        },
+        {
+          "startSec": 144,
+          "endSec": 144.7,
+          "text": "drinking"
+        },
+        {
+          "startSec": 144.7,
+          "endSec": 145,
+          "text": "two"
+        },
+        {
+          "startSec": 145,
+          "endSec": 145.5,
+          "text": "liters"
+        },
+        {
+          "startSec": 145.5,
+          "endSec": 145.6,
+          "text": "a"
+        },
+        {
+          "startSec": 145.6,
+          "endSec": 145.9,
+          "text": "day"
+        },
+        {
+          "startSec": 145.9,
+          "endSec": 146.2,
+          "text": "has"
+        }
+      ]
+    },
+    {
+      "startSec": 145.9,
+      "endSec": 149.8,
+      "text": "has taken grip on many governments around the world.",
+      "words": [
+        {
+          "startSec": 145.9,
+          "endSec": 146.2,
+          "text": "has"
+        },
+        {
+          "startSec": 146.2,
+          "endSec": 146.6,
+          "text": "taken"
+        },
+        {
+          "startSec": 146.6,
+          "endSec": 146.9,
+          "text": "grip"
+        },
+        {
+          "startSec": 146.9,
+          "endSec": 147.1,
+          "text": "on"
+        },
+        {
+          "startSec": 147.1,
+          "endSec": 147.4,
+          "text": "many"
+        },
+        {
+          "startSec": 147.4,
+          "endSec": 148.3,
+          "text": "governments"
+        },
+        {
+          "startSec": 148.3,
+          "endSec": 148.8,
+          "text": "around"
+        },
+        {
+          "startSec": 148.8,
+          "endSec": 149.1,
+          "text": "the"
+        },
+        {
+          "startSec": 149.1,
+          "endSec": 149.8,
+          "text": "world."
+        },
+        {
+          "startSec": 149.8,
+          "endSec": 150.1,
+          "text": "When"
+        }
+      ]
+    },
+    {
+      "startSec": 149.8,
+      "endSec": 152.8,
+      "text": "When you say an idea has taken grip on something,",
+      "words": [
+        {
+          "startSec": 149.8,
+          "endSec": 150.1,
+          "text": "When"
+        },
+        {
+          "startSec": 150.1,
+          "endSec": 150.3,
+          "text": "you"
+        },
+        {
+          "startSec": 150.3,
+          "endSec": 150.6,
+          "text": "say"
+        },
+        {
+          "startSec": 150.6,
+          "endSec": 150.7,
+          "text": "an"
+        },
+        {
+          "startSec": 150.7,
+          "endSec": 151,
+          "text": "idea"
+        },
+        {
+          "startSec": 151,
+          "endSec": 151.2,
+          "text": "has"
+        },
+        {
+          "startSec": 151.2,
+          "endSec": 151.6,
+          "text": "taken"
+        },
+        {
+          "startSec": 151.6,
+          "endSec": 151.9,
+          "text": "grip"
+        },
+        {
+          "startSec": 151.9,
+          "endSec": 152.1,
+          "text": "on"
+        },
+        {
+          "startSec": 152.1,
+          "endSec": 152.8,
+          "text": "something,"
+        },
+        {
+          "startSec": 152.8,
+          "endSec": 153,
+          "text": "you"
+        }
+      ]
+    },
+    {
+      "startSec": 152.8,
+      "endSec": 155,
+      "text": "you mean it's taken control of it?",
+      "words": [
+        {
+          "startSec": 152.8,
+          "endSec": 153,
+          "text": "you"
+        },
+        {
+          "startSec": 153,
+          "endSec": 153.3,
+          "text": "mean"
+        },
+        {
+          "startSec": 153.3,
+          "endSec": 153.6,
+          "text": "it's"
+        },
+        {
+          "startSec": 153.6,
+          "endSec": 154,
+          "text": "taken"
+        },
+        {
+          "startSec": 154,
+          "endSec": 154.5,
+          "text": "control"
+        },
+        {
+          "startSec": 154.5,
+          "endSec": 154.6,
+          "text": "of"
+        },
+        {
+          "startSec": 154.6,
+          "endSec": 155,
+          "text": "it?"
+        },
+        {
+          "startSec": 155,
+          "endSec": 155.1,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 155,
+      "endSec": 158.3,
+      "text": "- Yes, Professor Speekman says that pretty much",
+      "words": [
+        {
+          "startSec": 155,
+          "endSec": 155.1,
+          "text": "-"
+        },
+        {
+          "startSec": 155.1,
+          "endSec": 155.5,
+          "text": "Yes,"
+        },
+        {
+          "startSec": 155.5,
+          "endSec": 156.1,
+          "text": "Professor"
+        },
+        {
+          "startSec": 156.1,
+          "endSec": 156.7,
+          "text": "Speekman"
+        },
+        {
+          "startSec": 156.7,
+          "endSec": 157.1,
+          "text": "says"
+        },
+        {
+          "startSec": 157.1,
+          "endSec": 157.4,
+          "text": "that"
+        },
+        {
+          "startSec": 157.4,
+          "endSec": 157.9,
+          "text": "pretty"
+        },
+        {
+          "startSec": 157.9,
+          "endSec": 158.3,
+          "text": "much"
+        },
+        {
+          "startSec": 158.3,
+          "endSec": 158.5,
+          "text": "all"
+        }
+      ]
+    },
+    {
+      "startSec": 158.3,
+      "endSec": 160.9,
+      "text": "all governments are giving pretty much",
+      "words": [
+        {
+          "startSec": 158.3,
+          "endSec": 158.5,
+          "text": "all"
+        },
+        {
+          "startSec": 158.5,
+          "endSec": 159.4,
+          "text": "governments"
+        },
+        {
+          "startSec": 159.4,
+          "endSec": 159.6,
+          "text": "are"
+        },
+        {
+          "startSec": 159.6,
+          "endSec": 160,
+          "text": "giving"
+        },
+        {
+          "startSec": 160,
+          "endSec": 160.5,
+          "text": "pretty"
+        },
+        {
+          "startSec": 160.5,
+          "endSec": 160.9,
+          "text": "much"
+        },
+        {
+          "startSec": 160.9,
+          "endSec": 161.1,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 160.9,
+      "endSec": 162.7,
+      "text": "the same recommendation.",
+      "words": [
+        {
+          "startSec": 160.9,
+          "endSec": 161.1,
+          "text": "the"
+        },
+        {
+          "startSec": 161.1,
+          "endSec": 161.4,
+          "text": "same"
+        },
+        {
+          "startSec": 161.4,
+          "endSec": 162.7,
+          "text": "recommendation."
+        },
+        {
+          "startSec": 162.7,
+          "endSec": 162.9,
+          "text": "He"
+        }
+      ]
+    },
+    {
+      "startSec": 162.7,
+      "endSec": 166.8,
+      "text": "He uses the phrase pretty much to mean almost.",
+      "words": [
+        {
+          "startSec": 162.7,
+          "endSec": 162.9,
+          "text": "He"
+        },
+        {
+          "startSec": 162.9,
+          "endSec": 163.3,
+          "text": "uses"
+        },
+        {
+          "startSec": 163.3,
+          "endSec": 163.6,
+          "text": "the"
+        },
+        {
+          "startSec": 163.6,
+          "endSec": 164.1,
+          "text": "phrase"
+        },
+        {
+          "startSec": 164.1,
+          "endSec": 164.7,
+          "text": "pretty"
+        },
+        {
+          "startSec": 164.7,
+          "endSec": 165.1,
+          "text": "much"
+        },
+        {
+          "startSec": 165.1,
+          "endSec": 165.3,
+          "text": "to"
+        },
+        {
+          "startSec": 165.3,
+          "endSec": 165.7,
+          "text": "mean"
+        },
+        {
+          "startSec": 165.7,
+          "endSec": 166.8,
+          "text": "almost."
+        },
+        {
+          "startSec": 166.8,
+          "endSec": 167,
+          "text": "For"
+        }
+      ]
+    },
+    {
+      "startSec": 166.8,
+      "endSec": 169.9,
+      "text": "For example, pretty much all governments advise",
+      "words": [
+        {
+          "startSec": 166.8,
+          "endSec": 167,
+          "text": "For"
+        },
+        {
+          "startSec": 167,
+          "endSec": 167.7,
+          "text": "example,"
+        },
+        {
+          "startSec": 167.7,
+          "endSec": 168.2,
+          "text": "pretty"
+        },
+        {
+          "startSec": 168.2,
+          "endSec": 168.5,
+          "text": "much"
+        },
+        {
+          "startSec": 168.5,
+          "endSec": 168.7,
+          "text": "all"
+        },
+        {
+          "startSec": 168.7,
+          "endSec": 169.4,
+          "text": "governments"
+        },
+        {
+          "startSec": 169.4,
+          "endSec": 169.9,
+          "text": "advise"
+        }
+      ]
+    },
+    {
+      "startSec": 169.9,
+      "endSec": 172.9,
+      "text": "drinking two liters a day means almost",
+      "words": [
+        {
+          "startSec": 170,
+          "endSec": 170.6,
+          "text": "drinking"
+        },
+        {
+          "startSec": 170.6,
+          "endSec": 170.9,
+          "text": "two"
+        },
+        {
+          "startSec": 170.9,
+          "endSec": 171.4,
+          "text": "liters"
+        },
+        {
+          "startSec": 171.4,
+          "endSec": 171.5,
+          "text": "a"
+        },
+        {
+          "startSec": 171.5,
+          "endSec": 171.7,
+          "text": "day"
+        },
+        {
+          "startSec": 171.7,
+          "endSec": 172.2,
+          "text": "means"
+        },
+        {
+          "startSec": 172.2,
+          "endSec": 172.9,
+          "text": "almost"
+        },
+        {
+          "startSec": 172.9,
+          "endSec": 173.1,
+          "text": "all"
+        }
+      ]
+    },
+    {
+      "startSec": 172.9,
+      "endSec": 174.9,
+      "text": "all governments advise it.",
+      "words": [
+        {
+          "startSec": 172.9,
+          "endSec": 173.1,
+          "text": "all"
+        },
+        {
+          "startSec": 173.1,
+          "endSec": 174,
+          "text": "governments"
+        },
+        {
+          "startSec": 174,
+          "endSec": 174.5,
+          "text": "advise"
+        },
+        {
+          "startSec": 174.5,
+          "endSec": 174.9,
+          "text": "it."
+        },
+        {
+          "startSec": 174.9,
+          "endSec": 175,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 174.9,
+      "endSec": 177.2,
+      "text": "- What Professor Speekman doesn't have, however,",
+      "words": [
+        {
+          "startSec": 174.9,
+          "endSec": 175,
+          "text": "-"
+        },
+        {
+          "startSec": 175,
+          "endSec": 175.1,
+          "text": "What"
+        },
+        {
+          "startSec": 175.1,
+          "endSec": 175.6,
+          "text": "Professor"
+        },
+        {
+          "startSec": 175.6,
+          "endSec": 176.1,
+          "text": "Speekman"
+        },
+        {
+          "startSec": 176.1,
+          "endSec": 176.4,
+          "text": "doesn't"
+        },
+        {
+          "startSec": 176.4,
+          "endSec": 176.8,
+          "text": "have,"
+        },
+        {
+          "startSec": 176.8,
+          "endSec": 177.2,
+          "text": "however,"
+        },
+        {
+          "startSec": 177.2,
+          "endSec": 177.4,
+          "text": "is"
+        }
+      ]
+    },
+    {
+      "startSec": 177.2,
+      "endSec": 180.2,
+      "text": "is any scientific evidence for this advice.",
+      "words": [
+        {
+          "startSec": 177.2,
+          "endSec": 177.4,
+          "text": "is"
+        },
+        {
+          "startSec": 177.4,
+          "endSec": 177.6,
+          "text": "any"
+        },
+        {
+          "startSec": 177.6,
+          "endSec": 178.3,
+          "text": "scientific"
+        },
+        {
+          "startSec": 178.3,
+          "endSec": 178.9,
+          "text": "evidence"
+        },
+        {
+          "startSec": 178.9,
+          "endSec": 179.1,
+          "text": "for"
+        },
+        {
+          "startSec": 179.1,
+          "endSec": 179.4,
+          "text": "this"
+        },
+        {
+          "startSec": 179.4,
+          "endSec": 180.2,
+          "text": "advice."
+        },
+        {
+          "startSec": 180.2,
+          "endSec": 180.4,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 180.2,
+      "endSec": 182.4,
+      "text": "The number of exactly two liters",
+      "words": [
+        {
+          "startSec": 180.2,
+          "endSec": 180.4,
+          "text": "The"
+        },
+        {
+          "startSec": 180.4,
+          "endSec": 180.9,
+          "text": "number"
+        },
+        {
+          "startSec": 180.9,
+          "endSec": 181,
+          "text": "of"
+        },
+        {
+          "startSec": 181,
+          "endSec": 181.6,
+          "text": "exactly"
+        },
+        {
+          "startSec": 181.6,
+          "endSec": 181.8,
+          "text": "two"
+        },
+        {
+          "startSec": 181.8,
+          "endSec": 182.4,
+          "text": "liters"
+        },
+        {
+          "startSec": 182.4,
+          "endSec": 182.8,
+          "text": "isn't"
+        }
+      ]
+    },
+    {
+      "startSec": 182.4,
+      "endSec": 185,
+      "text": "isn't based on scientific fact.",
+      "words": [
+        {
+          "startSec": 182.4,
+          "endSec": 182.8,
+          "text": "isn't"
+        },
+        {
+          "startSec": 182.8,
+          "endSec": 183.3,
+          "text": "based"
+        },
+        {
+          "startSec": 183.3,
+          "endSec": 183.4,
+          "text": "on"
+        },
+        {
+          "startSec": 183.4,
+          "endSec": 184.3,
+          "text": "scientific"
+        },
+        {
+          "startSec": 184.3,
+          "endSec": 185,
+          "text": "fact."
+        },
+        {
+          "startSec": 185,
+          "endSec": 185.3,
+          "text": "It's"
+        }
+      ]
+    },
+    {
+      "startSec": 185,
+      "endSec": 187.4,
+      "text": "It's more of a ballpark figure.",
+      "words": [
+        {
+          "startSec": 185,
+          "endSec": 185.3,
+          "text": "It's"
+        },
+        {
+          "startSec": 185.3,
+          "endSec": 185.7,
+          "text": "more"
+        },
+        {
+          "startSec": 185.7,
+          "endSec": 185.9,
+          "text": "of"
+        },
+        {
+          "startSec": 185.9,
+          "endSec": 185.9,
+          "text": "a"
+        },
+        {
+          "startSec": 185.9,
+          "endSec": 186.6,
+          "text": "ballpark"
+        },
+        {
+          "startSec": 186.6,
+          "endSec": 187.4,
+          "text": "figure."
+        },
+        {
+          "startSec": 187.4,
+          "endSec": 187.5,
+          "text": "A"
+        }
+      ]
+    },
+    {
+      "startSec": 187.4,
+      "endSec": 189.3,
+      "text": "A number which is a guess,",
+      "words": [
+        {
+          "startSec": 187.4,
+          "endSec": 187.5,
+          "text": "A"
+        },
+        {
+          "startSec": 187.5,
+          "endSec": 188,
+          "text": "number"
+        },
+        {
+          "startSec": 188,
+          "endSec": 188.4,
+          "text": "which"
+        },
+        {
+          "startSec": 188.4,
+          "endSec": 188.6,
+          "text": "is"
+        },
+        {
+          "startSec": 188.6,
+          "endSec": 188.7,
+          "text": "a"
+        },
+        {
+          "startSec": 188.7,
+          "endSec": 189.3,
+          "text": "guess,"
+        },
+        {
+          "startSec": 189.3,
+          "endSec": 189.4,
+          "text": "but"
+        }
+      ]
+    },
+    {
+      "startSec": 189.3,
+      "endSec": 192.5,
+      "text": "but which you still believe is approximately correct.",
+      "words": [
+        {
+          "startSec": 189.3,
+          "endSec": 189.4,
+          "text": "but"
+        },
+        {
+          "startSec": 189.4,
+          "endSec": 189.7,
+          "text": "which"
+        },
+        {
+          "startSec": 189.7,
+          "endSec": 189.8,
+          "text": "you"
+        },
+        {
+          "startSec": 189.8,
+          "endSec": 190.1,
+          "text": "still"
+        },
+        {
+          "startSec": 190.1,
+          "endSec": 190.5,
+          "text": "believe"
+        },
+        {
+          "startSec": 190.5,
+          "endSec": 190.6,
+          "text": "is"
+        },
+        {
+          "startSec": 190.6,
+          "endSec": 191.7,
+          "text": "approximately"
+        },
+        {
+          "startSec": 191.7,
+          "endSec": 192.5,
+          "text": "correct."
+        },
+        {
+          "startSec": 192.5,
+          "endSec": 192.6,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 192.5,
+      "endSec": 195,
+      "text": "- Actually, the amount of water in our bodies",
+      "words": [
+        {
+          "startSec": 192.5,
+          "endSec": 192.6,
+          "text": "-"
+        },
+        {
+          "startSec": 192.6,
+          "endSec": 193.2,
+          "text": "Actually,"
+        },
+        {
+          "startSec": 193.2,
+          "endSec": 193.4,
+          "text": "the"
+        },
+        {
+          "startSec": 193.4,
+          "endSec": 193.8,
+          "text": "amount"
+        },
+        {
+          "startSec": 193.8,
+          "endSec": 193.9,
+          "text": "of"
+        },
+        {
+          "startSec": 193.9,
+          "endSec": 194.2,
+          "text": "water"
+        },
+        {
+          "startSec": 194.2,
+          "endSec": 194.4,
+          "text": "in"
+        },
+        {
+          "startSec": 194.4,
+          "endSec": 194.6,
+          "text": "our"
+        },
+        {
+          "startSec": 194.6,
+          "endSec": 195,
+          "text": "bodies"
+        },
+        {
+          "startSec": 195,
+          "endSec": 195.2,
+          "text": "is"
+        }
+      ]
+    },
+    {
+      "startSec": 195,
+      "endSec": 197,
+      "text": "is changing all the time.",
+      "words": [
+        {
+          "startSec": 195,
+          "endSec": 195.2,
+          "text": "is"
+        },
+        {
+          "startSec": 195.2,
+          "endSec": 196,
+          "text": "changing"
+        },
+        {
+          "startSec": 196,
+          "endSec": 196.3,
+          "text": "all"
+        },
+        {
+          "startSec": 196.3,
+          "endSec": 196.6,
+          "text": "the"
+        },
+        {
+          "startSec": 196.6,
+          "endSec": 197,
+          "text": "time."
+        },
+        {
+          "startSec": 197,
+          "endSec": 197.3,
+          "text": "Like"
+        }
+      ]
+    },
+    {
+      "startSec": 197,
+      "endSec": 198.4,
+      "text": "Like your bank balance,",
+      "words": [
+        {
+          "startSec": 197,
+          "endSec": 197.3,
+          "text": "Like"
+        },
+        {
+          "startSec": 197.3,
+          "endSec": 197.6,
+          "text": "your"
+        },
+        {
+          "startSec": 197.6,
+          "endSec": 197.8,
+          "text": "bank"
+        },
+        {
+          "startSec": 197.8,
+          "endSec": 198.4,
+          "text": "balance,"
+        }
+      ]
+    },
+    {
+      "startSec": 198.4,
+      "endSec": 200.8,
+      "text": "which goes down when you spend money,",
+      "words": [
+        {
+          "startSec": 198.5,
+          "endSec": 198.8,
+          "text": "which"
+        },
+        {
+          "startSec": 198.8,
+          "endSec": 199.1,
+          "text": "goes"
+        },
+        {
+          "startSec": 199.1,
+          "endSec": 199.4,
+          "text": "down"
+        },
+        {
+          "startSec": 199.4,
+          "endSec": 199.7,
+          "text": "when"
+        },
+        {
+          "startSec": 199.7,
+          "endSec": 199.9,
+          "text": "you"
+        },
+        {
+          "startSec": 199.9,
+          "endSec": 200.3,
+          "text": "spend"
+        },
+        {
+          "startSec": 200.3,
+          "endSec": 200.8,
+          "text": "money,"
+        },
+        {
+          "startSec": 200.8,
+          "endSec": 201.1,
+          "text": "your"
+        }
+      ]
+    },
+    {
+      "startSec": 200.8,
+      "endSec": 203.1,
+      "text": "your body loses water all the time",
+      "words": [
+        {
+          "startSec": 200.8,
+          "endSec": 201.1,
+          "text": "your"
+        },
+        {
+          "startSec": 201.1,
+          "endSec": 201.4,
+          "text": "body"
+        },
+        {
+          "startSec": 201.4,
+          "endSec": 201.8,
+          "text": "loses"
+        },
+        {
+          "startSec": 201.8,
+          "endSec": 202.2,
+          "text": "water"
+        },
+        {
+          "startSec": 202.2,
+          "endSec": 202.5,
+          "text": "all"
+        },
+        {
+          "startSec": 202.5,
+          "endSec": 202.7,
+          "text": "the"
+        },
+        {
+          "startSec": 202.7,
+          "endSec": 203.1,
+          "text": "time"
+        },
+        {
+          "startSec": 203.1,
+          "endSec": 203.4,
+          "text": "when"
+        }
+      ]
+    },
+    {
+      "startSec": 203.1,
+      "endSec": 206.1,
+      "text": "when you breathe, sweat or go to the toilet.",
+      "words": [
+        {
+          "startSec": 203.1,
+          "endSec": 203.4,
+          "text": "when"
+        },
+        {
+          "startSec": 203.4,
+          "endSec": 203.6,
+          "text": "you"
+        },
+        {
+          "startSec": 203.6,
+          "endSec": 204.3,
+          "text": "breathe,"
+        },
+        {
+          "startSec": 204.3,
+          "endSec": 204.7,
+          "text": "sweat"
+        },
+        {
+          "startSec": 204.7,
+          "endSec": 204.8,
+          "text": "or"
+        },
+        {
+          "startSec": 204.8,
+          "endSec": 205,
+          "text": "go"
+        },
+        {
+          "startSec": 205,
+          "endSec": 205.1,
+          "text": "to"
+        },
+        {
+          "startSec": 205.1,
+          "endSec": 205.4,
+          "text": "the"
+        },
+        {
+          "startSec": 205.4,
+          "endSec": 206.1,
+          "text": "toilet."
+        },
+        {
+          "startSec": 206.1,
+          "endSec": 206.7,
+          "text": "Exactly"
+        }
+      ]
+    },
+    {
+      "startSec": 206.1,
+      "endSec": 208.4,
+      "text": "Exactly how much you need to drink",
+      "words": [
+        {
+          "startSec": 206.1,
+          "endSec": 206.7,
+          "text": "Exactly"
+        },
+        {
+          "startSec": 206.7,
+          "endSec": 206.9,
+          "text": "how"
+        },
+        {
+          "startSec": 206.9,
+          "endSec": 207.2,
+          "text": "much"
+        },
+        {
+          "startSec": 207.2,
+          "endSec": 207.5,
+          "text": "you"
+        },
+        {
+          "startSec": 207.5,
+          "endSec": 207.8,
+          "text": "need"
+        },
+        {
+          "startSec": 207.8,
+          "endSec": 208,
+          "text": "to"
+        },
+        {
+          "startSec": 208,
+          "endSec": 208.4,
+          "text": "drink"
+        },
+        {
+          "startSec": 208.4,
+          "endSec": 208.9,
+          "text": "depends"
+        }
+      ]
+    },
+    {
+      "startSec": 208.4,
+      "endSec": 211.7,
+      "text": "depends on how much water your body needs to replace.",
+      "words": [
+        {
+          "startSec": 208.4,
+          "endSec": 208.9,
+          "text": "depends"
+        },
+        {
+          "startSec": 208.9,
+          "endSec": 209,
+          "text": "on"
+        },
+        {
+          "startSec": 209,
+          "endSec": 209.2,
+          "text": "how"
+        },
+        {
+          "startSec": 209.2,
+          "endSec": 209.5,
+          "text": "much"
+        },
+        {
+          "startSec": 209.5,
+          "endSec": 209.9,
+          "text": "water"
+        },
+        {
+          "startSec": 209.9,
+          "endSec": 210.2,
+          "text": "your"
+        },
+        {
+          "startSec": 210.2,
+          "endSec": 210.6,
+          "text": "body"
+        },
+        {
+          "startSec": 210.6,
+          "endSec": 211,
+          "text": "needs"
+        },
+        {
+          "startSec": 211,
+          "endSec": 211.1,
+          "text": "to"
+        },
+        {
+          "startSec": 211.1,
+          "endSec": 211.7,
+          "text": "replace."
+        },
+        {
+          "startSec": 211.7,
+          "endSec": 212,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 211.7,
+      "endSec": 214.6,
+      "text": "And that mainly depends on your size.",
+      "words": [
+        {
+          "startSec": 211.7,
+          "endSec": 212,
+          "text": "And"
+        },
+        {
+          "startSec": 212,
+          "endSec": 212.3,
+          "text": "that"
+        },
+        {
+          "startSec": 212.3,
+          "endSec": 212.9,
+          "text": "mainly"
+        },
+        {
+          "startSec": 212.9,
+          "endSec": 213.5,
+          "text": "depends"
+        },
+        {
+          "startSec": 213.5,
+          "endSec": 213.6,
+          "text": "on"
+        },
+        {
+          "startSec": 213.6,
+          "endSec": 214,
+          "text": "your"
+        },
+        {
+          "startSec": 214,
+          "endSec": 214.6,
+          "text": "size."
+        },
+        {
+          "startSec": 214.6,
+          "endSec": 214.7,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 214.6,
+      "endSec": 217.9,
+      "text": "- But what happens when we drink less than we should?",
+      "words": [
+        {
+          "startSec": 214.6,
+          "endSec": 214.7,
+          "text": "-"
+        },
+        {
+          "startSec": 214.7,
+          "endSec": 214.9,
+          "text": "But"
+        },
+        {
+          "startSec": 214.9,
+          "endSec": 215.1,
+          "text": "what"
+        },
+        {
+          "startSec": 215.1,
+          "endSec": 215.5,
+          "text": "happens"
+        },
+        {
+          "startSec": 215.5,
+          "endSec": 215.8,
+          "text": "when"
+        },
+        {
+          "startSec": 215.8,
+          "endSec": 215.9,
+          "text": "we"
+        },
+        {
+          "startSec": 215.9,
+          "endSec": 216.2,
+          "text": "drink"
+        },
+        {
+          "startSec": 216.2,
+          "endSec": 216.6,
+          "text": "less"
+        },
+        {
+          "startSec": 216.6,
+          "endSec": 216.9,
+          "text": "than"
+        },
+        {
+          "startSec": 216.9,
+          "endSec": 217.1,
+          "text": "we"
+        },
+        {
+          "startSec": 217.1,
+          "endSec": 217.9,
+          "text": "should?"
+        },
+        {
+          "startSec": 217.9,
+          "endSec": 218.4,
+          "text": "Here's"
+        }
+      ]
+    },
+    {
+      "startSec": 217.9,
+      "endSec": 221.7,
+      "text": "Here's hydration expert, Dr. Nido Rodriguez Sanchez,",
+      "words": [
+        {
+          "startSec": 217.9,
+          "endSec": 218.4,
+          "text": "Here's"
+        },
+        {
+          "startSec": 218.4,
+          "endSec": 219.2,
+          "text": "hydration"
+        },
+        {
+          "startSec": 219.2,
+          "endSec": 219.9,
+          "text": "expert,"
+        },
+        {
+          "startSec": 219.9,
+          "endSec": 220.2,
+          "text": "Dr."
+        },
+        {
+          "startSec": 220.2,
+          "endSec": 220.4,
+          "text": "Nido"
+        },
+        {
+          "startSec": 220.4,
+          "endSec": 221,
+          "text": "Rodriguez"
+        },
+        {
+          "startSec": 221,
+          "endSec": 221.7,
+          "text": "Sanchez,"
+        },
+        {
+          "startSec": 221.7,
+          "endSec": 222.3,
+          "text": "describing"
+        }
+      ]
+    },
+    {
+      "startSec": 221.7,
+      "endSec": 223.8,
+      "text": "describing the effects of dehydration",
+      "words": [
+        {
+          "startSec": 221.7,
+          "endSec": 222.3,
+          "text": "describing"
+        },
+        {
+          "startSec": 222.3,
+          "endSec": 222.5,
+          "text": "the"
+        },
+        {
+          "startSec": 222.5,
+          "endSec": 223,
+          "text": "effects"
+        },
+        {
+          "startSec": 223,
+          "endSec": 223.1,
+          "text": "of"
+        },
+        {
+          "startSec": 223.1,
+          "endSec": 223.8,
+          "text": "dehydration"
+        },
+        {
+          "startSec": 223.8,
+          "endSec": 224,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 223.8,
+      "endSec": 227.4,
+      "text": "to BBC World Services, the food chain.",
+      "words": [
+        {
+          "startSec": 223.8,
+          "endSec": 224,
+          "text": "to"
+        },
+        {
+          "startSec": 224,
+          "endSec": 224.3,
+          "text": "BBC"
+        },
+        {
+          "startSec": 224.3,
+          "endSec": 224.8,
+          "text": "World"
+        },
+        {
+          "startSec": 224.8,
+          "endSec": 225.9,
+          "text": "Services,"
+        },
+        {
+          "startSec": 225.9,
+          "endSec": 226.2,
+          "text": "the"
+        },
+        {
+          "startSec": 226.2,
+          "endSec": 226.6,
+          "text": "food"
+        },
+        {
+          "startSec": 226.6,
+          "endSec": 227.4,
+          "text": "chain."
+        },
+        {
+          "startSec": 227.4,
+          "endSec": 227.6,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 227.4,
+      "endSec": 230.2,
+      "text": "And also many times we start getting dehydrated",
+      "words": [
+        {
+          "startSec": 227.4,
+          "endSec": 227.6,
+          "text": "And"
+        },
+        {
+          "startSec": 227.6,
+          "endSec": 227.9,
+          "text": "also"
+        },
+        {
+          "startSec": 227.9,
+          "endSec": 228.1,
+          "text": "many"
+        },
+        {
+          "startSec": 228.1,
+          "endSec": 228.5,
+          "text": "times"
+        },
+        {
+          "startSec": 228.5,
+          "endSec": 228.6,
+          "text": "we"
+        },
+        {
+          "startSec": 228.6,
+          "endSec": 229,
+          "text": "start"
+        },
+        {
+          "startSec": 229,
+          "endSec": 229.5,
+          "text": "getting"
+        },
+        {
+          "startSec": 229.5,
+          "endSec": 230.2,
+          "text": "dehydrated"
+        },
+        {
+          "startSec": 230.2,
+          "endSec": 230.4,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 230.2,
+      "endSec": 232.7,
+      "text": "and we don't realize we are dehydrated.",
+      "words": [
+        {
+          "startSec": 230.2,
+          "endSec": 230.4,
+          "text": "and"
+        },
+        {
+          "startSec": 230.4,
+          "endSec": 230.6,
+          "text": "we"
+        },
+        {
+          "startSec": 230.6,
+          "endSec": 230.9,
+          "text": "don't"
+        },
+        {
+          "startSec": 230.9,
+          "endSec": 231.4,
+          "text": "realize"
+        },
+        {
+          "startSec": 231.4,
+          "endSec": 231.5,
+          "text": "we"
+        },
+        {
+          "startSec": 231.5,
+          "endSec": 231.7,
+          "text": "are"
+        },
+        {
+          "startSec": 231.7,
+          "endSec": 232.7,
+          "text": "dehydrated."
+        },
+        {
+          "startSec": 232.7,
+          "endSec": 232.9,
+          "text": "So"
+        }
+      ]
+    },
+    {
+      "startSec": 232.7,
+      "endSec": 236.2,
+      "text": "So it's very common that we feel tired",
+      "words": [
+        {
+          "startSec": 232.7,
+          "endSec": 232.9,
+          "text": "So"
+        },
+        {
+          "startSec": 232.9,
+          "endSec": 233.5,
+          "text": "it's"
+        },
+        {
+          "startSec": 233.5,
+          "endSec": 234,
+          "text": "very"
+        },
+        {
+          "startSec": 234,
+          "endSec": 234.8,
+          "text": "common"
+        },
+        {
+          "startSec": 234.8,
+          "endSec": 235.2,
+          "text": "that"
+        },
+        {
+          "startSec": 235.2,
+          "endSec": 235.4,
+          "text": "we"
+        },
+        {
+          "startSec": 235.4,
+          "endSec": 235.7,
+          "text": "feel"
+        },
+        {
+          "startSec": 235.7,
+          "endSec": 236.2,
+          "text": "tired"
+        },
+        {
+          "startSec": 236.2,
+          "endSec": 236.4,
+          "text": "or"
+        }
+      ]
+    },
+    {
+      "startSec": 236.2,
+      "endSec": 239.8,
+      "text": "or we feel like with a bit of a headache",
+      "words": [
+        {
+          "startSec": 236.2,
+          "endSec": 236.4,
+          "text": "or"
+        },
+        {
+          "startSec": 236.4,
+          "endSec": 236.7,
+          "text": "we"
+        },
+        {
+          "startSec": 236.7,
+          "endSec": 237.1,
+          "text": "feel"
+        },
+        {
+          "startSec": 237.1,
+          "endSec": 237.6,
+          "text": "like"
+        },
+        {
+          "startSec": 237.6,
+          "endSec": 238,
+          "text": "with"
+        },
+        {
+          "startSec": 238,
+          "endSec": 238.2,
+          "text": "a"
+        },
+        {
+          "startSec": 238.2,
+          "endSec": 238.5,
+          "text": "bit"
+        },
+        {
+          "startSec": 238.5,
+          "endSec": 238.7,
+          "text": "of"
+        },
+        {
+          "startSec": 238.7,
+          "endSec": 238.8,
+          "text": "a"
+        },
+        {
+          "startSec": 238.8,
+          "endSec": 239.8,
+          "text": "headache"
+        },
+        {
+          "startSec": 239.8,
+          "endSec": 240,
+          "text": "or"
+        }
+      ]
+    },
+    {
+      "startSec": 239.8,
+      "endSec": 241.7,
+      "text": "or even we think we are hungry.",
+      "words": [
+        {
+          "startSec": 239.8,
+          "endSec": 240,
+          "text": "or"
+        },
+        {
+          "startSec": 240,
+          "endSec": 240.3,
+          "text": "even"
+        },
+        {
+          "startSec": 240.3,
+          "endSec": 240.5,
+          "text": "we"
+        },
+        {
+          "startSec": 240.5,
+          "endSec": 240.8,
+          "text": "think"
+        },
+        {
+          "startSec": 240.8,
+          "endSec": 241,
+          "text": "we"
+        },
+        {
+          "startSec": 241,
+          "endSec": 241.2,
+          "text": "are"
+        },
+        {
+          "startSec": 241.2,
+          "endSec": 241.7,
+          "text": "hungry."
+        },
+        {
+          "startSec": 241.7,
+          "endSec": 241.8,
+          "text": "We"
+        }
+      ]
+    },
+    {
+      "startSec": 241.7,
+      "endSec": 242.8,
+      "text": "We go and get some food.",
+      "words": [
+        {
+          "startSec": 241.7,
+          "endSec": 241.8,
+          "text": "We"
+        },
+        {
+          "startSec": 241.8,
+          "endSec": 242,
+          "text": "go"
+        },
+        {
+          "startSec": 242,
+          "endSec": 242.1,
+          "text": "and"
+        },
+        {
+          "startSec": 242.1,
+          "endSec": 242.3,
+          "text": "get"
+        },
+        {
+          "startSec": 242.3,
+          "endSec": 242.5,
+          "text": "some"
+        },
+        {
+          "startSec": 242.5,
+          "endSec": 242.8,
+          "text": "food."
+        },
+        {
+          "startSec": 242.8,
+          "endSec": 242.9,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 242.8,
+      "endSec": 245.2,
+      "text": "And naturally what is happening is that we are thirsty,",
+      "words": [
+        {
+          "startSec": 242.8,
+          "endSec": 242.9,
+          "text": "And"
+        },
+        {
+          "startSec": 242.9,
+          "endSec": 243.3,
+          "text": "naturally"
+        },
+        {
+          "startSec": 243.3,
+          "endSec": 243.5,
+          "text": "what"
+        },
+        {
+          "startSec": 243.5,
+          "endSec": 243.6,
+          "text": "is"
+        },
+        {
+          "startSec": 243.6,
+          "endSec": 244,
+          "text": "happening"
+        },
+        {
+          "startSec": 244,
+          "endSec": 244.2,
+          "text": "is"
+        },
+        {
+          "startSec": 244.2,
+          "endSec": 244.3,
+          "text": "that"
+        },
+        {
+          "startSec": 244.3,
+          "endSec": 244.4,
+          "text": "we"
+        },
+        {
+          "startSec": 244.4,
+          "endSec": 244.7,
+          "text": "are"
+        },
+        {
+          "startSec": 244.7,
+          "endSec": 245.2,
+          "text": "thirsty,"
+        },
+        {
+          "startSec": 245.2,
+          "endSec": 245.4,
+          "text": "that"
+        }
+      ]
+    },
+    {
+      "startSec": 245.2,
+      "endSec": 246.2,
+      "text": "that we are dehydrated.",
+      "words": [
+        {
+          "startSec": 245.2,
+          "endSec": 245.4,
+          "text": "that"
+        },
+        {
+          "startSec": 245.4,
+          "endSec": 245.5,
+          "text": "we"
+        },
+        {
+          "startSec": 245.5,
+          "endSec": 245.7,
+          "text": "are"
+        },
+        {
+          "startSec": 245.7,
+          "endSec": 246.2,
+          "text": "dehydrated."
+        },
+        {
+          "startSec": 246.2,
+          "endSec": 246.6,
+          "text": "We're"
+        }
+      ]
+    },
+    {
+      "startSec": 246.2,
+      "endSec": 249.2,
+      "text": "We're starting to show some signs",
+      "words": [
+        {
+          "startSec": 246.2,
+          "endSec": 246.6,
+          "text": "We're"
+        },
+        {
+          "startSec": 246.6,
+          "endSec": 247.2,
+          "text": "starting"
+        },
+        {
+          "startSec": 247.2,
+          "endSec": 247.3,
+          "text": "to"
+        },
+        {
+          "startSec": 247.3,
+          "endSec": 247.6,
+          "text": "show"
+        },
+        {
+          "startSec": 247.6,
+          "endSec": 248.3,
+          "text": "some"
+        },
+        {
+          "startSec": 248.3,
+          "endSec": 249.2,
+          "text": "signs"
+        },
+        {
+          "startSec": 249.2,
+          "endSec": 249.3,
+          "text": "or"
+        }
+      ]
+    },
+    {
+      "startSec": 249.2,
+      "endSec": 251.8,
+      "text": "or some symptoms of dehydration.",
+      "words": [
+        {
+          "startSec": 249.2,
+          "endSec": 249.3,
+          "text": "or"
+        },
+        {
+          "startSec": 249.3,
+          "endSec": 249.7,
+          "text": "some"
+        },
+        {
+          "startSec": 249.7,
+          "endSec": 250.4,
+          "text": "symptoms"
+        },
+        {
+          "startSec": 250.4,
+          "endSec": 250.6,
+          "text": "of"
+        },
+        {
+          "startSec": 250.6,
+          "endSec": 251.8,
+          "text": "dehydration."
+        },
+        {
+          "startSec": 251.8,
+          "endSec": 251.9,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 251.8,
+      "endSec": 255.3,
+      "text": "- Dr. Sanchez describes the effect of dehydration,",
+      "words": [
+        {
+          "startSec": 251.8,
+          "endSec": 251.9,
+          "text": "-"
+        },
+        {
+          "startSec": 251.9,
+          "endSec": 252.3,
+          "text": "Dr."
+        },
+        {
+          "startSec": 252.3,
+          "endSec": 252.8,
+          "text": "Sanchez"
+        },
+        {
+          "startSec": 252.8,
+          "endSec": 253.6,
+          "text": "describes"
+        },
+        {
+          "startSec": 253.6,
+          "endSec": 253.8,
+          "text": "the"
+        },
+        {
+          "startSec": 253.8,
+          "endSec": 254.3,
+          "text": "effect"
+        },
+        {
+          "startSec": 254.3,
+          "endSec": 254.4,
+          "text": "of"
+        },
+        {
+          "startSec": 254.4,
+          "endSec": 255.3,
+          "text": "dehydration,"
+        }
+      ]
+    },
+    {
+      "startSec": 255.3,
+      "endSec": 258.6,
+      "text": "the condition of not having enough water in your body",
+      "words": [
+        {
+          "startSec": 255.4,
+          "endSec": 255.5,
+          "text": "the"
+        },
+        {
+          "startSec": 255.5,
+          "endSec": 256.2,
+          "text": "condition"
+        },
+        {
+          "startSec": 256.2,
+          "endSec": 256.3,
+          "text": "of"
+        },
+        {
+          "startSec": 256.3,
+          "endSec": 256.5,
+          "text": "not"
+        },
+        {
+          "startSec": 256.5,
+          "endSec": 256.9,
+          "text": "having"
+        },
+        {
+          "startSec": 256.9,
+          "endSec": 257.4,
+          "text": "enough"
+        },
+        {
+          "startSec": 257.4,
+          "endSec": 257.7,
+          "text": "water"
+        },
+        {
+          "startSec": 257.7,
+          "endSec": 257.9,
+          "text": "in"
+        },
+        {
+          "startSec": 257.9,
+          "endSec": 258.3,
+          "text": "your"
+        },
+        {
+          "startSec": 258.3,
+          "endSec": 258.6,
+          "text": "body"
+        },
+        {
+          "startSec": 258.6,
+          "endSec": 258.8,
+          "text": "so"
+        }
+      ]
+    },
+    {
+      "startSec": 258.6,
+      "endSec": 261.2,
+      "text": "so that you feel ill or weak.",
+      "words": [
+        {
+          "startSec": 258.6,
+          "endSec": 258.8,
+          "text": "so"
+        },
+        {
+          "startSec": 258.8,
+          "endSec": 259.2,
+          "text": "that"
+        },
+        {
+          "startSec": 259.2,
+          "endSec": 259.5,
+          "text": "you"
+        },
+        {
+          "startSec": 259.5,
+          "endSec": 259.9,
+          "text": "feel"
+        },
+        {
+          "startSec": 259.9,
+          "endSec": 260.2,
+          "text": "ill"
+        },
+        {
+          "startSec": 260.2,
+          "endSec": 260.4,
+          "text": "or"
+        },
+        {
+          "startSec": 260.4,
+          "endSec": 261.2,
+          "text": "weak."
+        },
+        {
+          "startSec": 261.2,
+          "endSec": 261.4,
+          "text": "She"
+        }
+      ]
+    },
+    {
+      "startSec": 261.2,
+      "endSec": 264,
+      "text": "She mentions feeling tired, having a headache",
+      "words": [
+        {
+          "startSec": 261.2,
+          "endSec": 261.4,
+          "text": "She"
+        },
+        {
+          "startSec": 261.4,
+          "endSec": 262,
+          "text": "mentions"
+        },
+        {
+          "startSec": 262,
+          "endSec": 262.5,
+          "text": "feeling"
+        },
+        {
+          "startSec": 262.5,
+          "endSec": 263,
+          "text": "tired,"
+        },
+        {
+          "startSec": 263,
+          "endSec": 263.4,
+          "text": "having"
+        },
+        {
+          "startSec": 263.4,
+          "endSec": 263.5,
+          "text": "a"
+        },
+        {
+          "startSec": 263.5,
+          "endSec": 264,
+          "text": "headache"
+        },
+        {
+          "startSec": 264,
+          "endSec": 264.3,
+          "text": "or"
+        }
+      ]
+    },
+    {
+      "startSec": 264,
+      "endSec": 268,
+      "text": "or a dry mouth as symptoms of dehydration.",
+      "words": [
+        {
+          "startSec": 264,
+          "endSec": 264.3,
+          "text": "or"
+        },
+        {
+          "startSec": 264.3,
+          "endSec": 264.4,
+          "text": "a"
+        },
+        {
+          "startSec": 264.4,
+          "endSec": 264.7,
+          "text": "dry"
+        },
+        {
+          "startSec": 264.7,
+          "endSec": 265.2,
+          "text": "mouth"
+        },
+        {
+          "startSec": 265.2,
+          "endSec": 265.4,
+          "text": "as"
+        },
+        {
+          "startSec": 265.4,
+          "endSec": 266.2,
+          "text": "symptoms"
+        },
+        {
+          "startSec": 266.2,
+          "endSec": 266.4,
+          "text": "of"
+        },
+        {
+          "startSec": 266.4,
+          "endSec": 268,
+          "text": "dehydration."
+        },
+        {
+          "startSec": 268,
+          "endSec": 268.6,
+          "text": "Symptoms"
+        }
+      ]
+    },
+    {
+      "startSec": 268,
+      "endSec": 271,
+      "text": "Symptoms are signs or feelings in the body",
+      "words": [
+        {
+          "startSec": 268,
+          "endSec": 268.6,
+          "text": "Symptoms"
+        },
+        {
+          "startSec": 268.6,
+          "endSec": 268.9,
+          "text": "are"
+        },
+        {
+          "startSec": 268.9,
+          "endSec": 269.3,
+          "text": "signs"
+        },
+        {
+          "startSec": 269.3,
+          "endSec": 269.5,
+          "text": "or"
+        },
+        {
+          "startSec": 269.5,
+          "endSec": 270.2,
+          "text": "feelings"
+        },
+        {
+          "startSec": 270.2,
+          "endSec": 270.3,
+          "text": "in"
+        },
+        {
+          "startSec": 270.3,
+          "endSec": 270.6,
+          "text": "the"
+        },
+        {
+          "startSec": 270.6,
+          "endSec": 271,
+          "text": "body"
+        },
+        {
+          "startSec": 271,
+          "endSec": 271.5,
+          "text": "showing"
+        }
+      ]
+    },
+    {
+      "startSec": 271,
+      "endSec": 274.2,
+      "text": "showing the presence of some illness or condition.",
+      "words": [
+        {
+          "startSec": 271,
+          "endSec": 271.5,
+          "text": "showing"
+        },
+        {
+          "startSec": 271.5,
+          "endSec": 271.7,
+          "text": "the"
+        },
+        {
+          "startSec": 271.7,
+          "endSec": 272.3,
+          "text": "presence"
+        },
+        {
+          "startSec": 272.3,
+          "endSec": 272.4,
+          "text": "of"
+        },
+        {
+          "startSec": 272.4,
+          "endSec": 272.7,
+          "text": "some"
+        },
+        {
+          "startSec": 272.7,
+          "endSec": 273.2,
+          "text": "illness"
+        },
+        {
+          "startSec": 273.2,
+          "endSec": 273.3,
+          "text": "or"
+        },
+        {
+          "startSec": 273.3,
+          "endSec": 274.2,
+          "text": "condition."
+        },
+        {
+          "startSec": 274.2,
+          "endSec": 274.3,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 274.2,
+      "endSec": 278.1,
+      "text": "- So whether you drink a little more or a little less,",
+      "words": [
+        {
+          "startSec": 274.2,
+          "endSec": 274.3,
+          "text": "-"
+        },
+        {
+          "startSec": 274.3,
+          "endSec": 274.5,
+          "text": "So"
+        },
+        {
+          "startSec": 274.5,
+          "endSec": 275,
+          "text": "whether"
+        },
+        {
+          "startSec": 275,
+          "endSec": 275.3,
+          "text": "you"
+        },
+        {
+          "startSec": 275.3,
+          "endSec": 275.7,
+          "text": "drink"
+        },
+        {
+          "startSec": 275.7,
+          "endSec": 275.7,
+          "text": "a"
+        },
+        {
+          "startSec": 275.7,
+          "endSec": 276.2,
+          "text": "little"
+        },
+        {
+          "startSec": 276.2,
+          "endSec": 276.6,
+          "text": "more"
+        },
+        {
+          "startSec": 276.6,
+          "endSec": 276.8,
+          "text": "or"
+        },
+        {
+          "startSec": 276.8,
+          "endSec": 276.9,
+          "text": "a"
+        },
+        {
+          "startSec": 276.9,
+          "endSec": 277.6,
+          "text": "little"
+        },
+        {
+          "startSec": 277.6,
+          "endSec": 278.1,
+          "text": "less,"
+        },
+        {
+          "startSec": 278.1,
+          "endSec": 278.3,
+          "text": "it"
+        }
+      ]
+    },
+    {
+      "startSec": 278.1,
+      "endSec": 281.2,
+      "text": "it seems that around two liters of water a day",
+      "words": [
+        {
+          "startSec": 278.1,
+          "endSec": 278.3,
+          "text": "it"
+        },
+        {
+          "startSec": 278.3,
+          "endSec": 278.7,
+          "text": "seems"
+        },
+        {
+          "startSec": 278.7,
+          "endSec": 279,
+          "text": "that"
+        },
+        {
+          "startSec": 279,
+          "endSec": 279.5,
+          "text": "around"
+        },
+        {
+          "startSec": 279.5,
+          "endSec": 279.8,
+          "text": "two"
+        },
+        {
+          "startSec": 279.8,
+          "endSec": 280.3,
+          "text": "liters"
+        },
+        {
+          "startSec": 280.3,
+          "endSec": 280.4,
+          "text": "of"
+        },
+        {
+          "startSec": 280.4,
+          "endSec": 280.9,
+          "text": "water"
+        },
+        {
+          "startSec": 280.9,
+          "endSec": 280.9,
+          "text": "a"
+        },
+        {
+          "startSec": 280.9,
+          "endSec": 281.2,
+          "text": "day"
+        },
+        {
+          "startSec": 281.2,
+          "endSec": 281.4,
+          "text": "is"
+        }
+      ]
+    },
+    {
+      "startSec": 281.2,
+      "endSec": 285,
+      "text": "is a good way to keep your blood and body healthy.",
+      "words": [
+        {
+          "startSec": 281.2,
+          "endSec": 281.4,
+          "text": "is"
+        },
+        {
+          "startSec": 281.4,
+          "endSec": 281.5,
+          "text": "a"
+        },
+        {
+          "startSec": 281.5,
+          "endSec": 281.9,
+          "text": "good"
+        },
+        {
+          "startSec": 281.9,
+          "endSec": 282.1,
+          "text": "way"
+        },
+        {
+          "startSec": 282.1,
+          "endSec": 282.3,
+          "text": "to"
+        },
+        {
+          "startSec": 282.3,
+          "endSec": 282.7,
+          "text": "keep"
+        },
+        {
+          "startSec": 282.7,
+          "endSec": 283,
+          "text": "your"
+        },
+        {
+          "startSec": 283,
+          "endSec": 283.5,
+          "text": "blood"
+        },
+        {
+          "startSec": 283.5,
+          "endSec": 283.8,
+          "text": "and"
+        },
+        {
+          "startSec": 283.8,
+          "endSec": 284.1,
+          "text": "body"
+        },
+        {
+          "startSec": 284.1,
+          "endSec": 285,
+          "text": "healthy."
+        }
+      ]
+    },
+    {
+      "startSec": 285,
+      "endSec": 286.4,
+      "text": "Speaking of which, Phil,",
+      "words": [
+        {
+          "startSec": 285.1,
+          "endSec": 285.6,
+          "text": "Speaking"
+        },
+        {
+          "startSec": 285.6,
+          "endSec": 285.7,
+          "text": "of"
+        },
+        {
+          "startSec": 285.7,
+          "endSec": 286.1,
+          "text": "which,"
+        },
+        {
+          "startSec": 286.1,
+          "endSec": 286.4,
+          "text": "Phil,"
+        },
+        {
+          "startSec": 286.4,
+          "endSec": 286.7,
+          "text": "it's"
+        }
+      ]
+    },
+    {
+      "startSec": 286.4,
+      "endSec": 289.5,
+      "text": "it's time to reveal the answer to my question.",
+      "words": [
+        {
+          "startSec": 286.4,
+          "endSec": 286.7,
+          "text": "it's"
+        },
+        {
+          "startSec": 286.7,
+          "endSec": 287.1,
+          "text": "time"
+        },
+        {
+          "startSec": 287.1,
+          "endSec": 287.2,
+          "text": "to"
+        },
+        {
+          "startSec": 287.2,
+          "endSec": 287.7,
+          "text": "reveal"
+        },
+        {
+          "startSec": 287.7,
+          "endSec": 287.9,
+          "text": "the"
+        },
+        {
+          "startSec": 287.9,
+          "endSec": 288.4,
+          "text": "answer"
+        },
+        {
+          "startSec": 288.4,
+          "endSec": 288.6,
+          "text": "to"
+        },
+        {
+          "startSec": 288.6,
+          "endSec": 288.8,
+          "text": "my"
+        },
+        {
+          "startSec": 288.8,
+          "endSec": 289.5,
+          "text": "question."
+        },
+        {
+          "startSec": 289.5,
+          "endSec": 289.8,
+          "text": "What"
+        }
+      ]
+    },
+    {
+      "startSec": 289.5,
+      "endSec": 292.6,
+      "text": "What percentage of our blood is water?",
+      "words": [
+        {
+          "startSec": 289.5,
+          "endSec": 289.8,
+          "text": "What"
+        },
+        {
+          "startSec": 289.8,
+          "endSec": 290.8,
+          "text": "percentage"
+        },
+        {
+          "startSec": 290.8,
+          "endSec": 290.9,
+          "text": "of"
+        },
+        {
+          "startSec": 290.9,
+          "endSec": 291.2,
+          "text": "our"
+        },
+        {
+          "startSec": 291.2,
+          "endSec": 291.7,
+          "text": "blood"
+        },
+        {
+          "startSec": 291.7,
+          "endSec": 291.8,
+          "text": "is"
+        },
+        {
+          "startSec": 291.8,
+          "endSec": 292.6,
+          "text": "water?"
+        },
+        {
+          "startSec": 292.6,
+          "endSec": 293.2,
+          "text": "You"
+        }
+      ]
+    },
+    {
+      "startSec": 292.6,
+      "endSec": 297.6,
+      "text": "You said 80% and the answer is 90%.",
+      "words": [
+        {
+          "startSec": 292.6,
+          "endSec": 293.2,
+          "text": "You"
+        },
+        {
+          "startSec": 293.2,
+          "endSec": 293.9,
+          "text": "said"
+        },
+        {
+          "startSec": 293.9,
+          "endSec": 295.3,
+          "text": "80%"
+        },
+        {
+          "startSec": 295.3,
+          "endSec": 295.7,
+          "text": "and"
+        },
+        {
+          "startSec": 295.7,
+          "endSec": 296.2,
+          "text": "the"
+        },
+        {
+          "startSec": 296.2,
+          "endSec": 297.1,
+          "text": "answer"
+        },
+        {
+          "startSec": 297.1,
+          "endSec": 297.4,
+          "text": "is"
+        },
+        {
+          "startSec": 297.4,
+          "endSec": 297.6,
+          "text": "90%."
+        },
+        {
+          "startSec": 297.6,
+          "endSec": 298,
+          "text": "Our"
+        }
+      ]
+    },
+    {
+      "startSec": 297.6,
+      "endSec": 302.8,
+      "text": "Our blood consists of around 90% water.",
+      "words": [
+        {
+          "startSec": 297.6,
+          "endSec": 298,
+          "text": "Our"
+        },
+        {
+          "startSec": 298,
+          "endSec": 298.7,
+          "text": "blood"
+        },
+        {
+          "startSec": 298.7,
+          "endSec": 299.7,
+          "text": "consists"
+        },
+        {
+          "startSec": 299.7,
+          "endSec": 300,
+          "text": "of"
+        },
+        {
+          "startSec": 300,
+          "endSec": 300.8,
+          "text": "around"
+        },
+        {
+          "startSec": 300.8,
+          "endSec": 301.7,
+          "text": "90%"
+        },
+        {
+          "startSec": 301.7,
+          "endSec": 302.8,
+          "text": "water."
+        },
+        {
+          "startSec": 302.8,
+          "endSec": 303.2,
+          "text": "Okay,"
+        }
+      ]
+    },
+    {
+      "startSec": 302.8,
+      "endSec": 305.8,
+      "text": "Okay, let's recap the vocabulary we've used,",
+      "words": [
+        {
+          "startSec": 302.8,
+          "endSec": 303.2,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 303.2,
+          "endSec": 303.6,
+          "text": "let's"
+        },
+        {
+          "startSec": 303.6,
+          "endSec": 304,
+          "text": "recap"
+        },
+        {
+          "startSec": 304,
+          "endSec": 304.3,
+          "text": "the"
+        },
+        {
+          "startSec": 304.3,
+          "endSec": 305.1,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 305.1,
+          "endSec": 305.5,
+          "text": "we've"
+        },
+        {
+          "startSec": 305.5,
+          "endSec": 305.8,
+          "text": "used,"
+        },
+        {
+          "startSec": 305.8,
+          "endSec": 306.5,
+          "text": "starting"
+        }
+      ]
+    },
+    {
+      "startSec": 305.8,
+      "endSec": 309,
+      "text": "starting with the phrase to arrive at a number,",
+      "words": [
+        {
+          "startSec": 305.8,
+          "endSec": 306.5,
+          "text": "starting"
+        },
+        {
+          "startSec": 306.5,
+          "endSec": 306.8,
+          "text": "with"
+        },
+        {
+          "startSec": 306.8,
+          "endSec": 307.1,
+          "text": "the"
+        },
+        {
+          "startSec": 307.1,
+          "endSec": 307.6,
+          "text": "phrase"
+        },
+        {
+          "startSec": 307.6,
+          "endSec": 307.7,
+          "text": "to"
+        },
+        {
+          "startSec": 307.7,
+          "endSec": 308.2,
+          "text": "arrive"
+        },
+        {
+          "startSec": 308.2,
+          "endSec": 308.4,
+          "text": "at"
+        },
+        {
+          "startSec": 308.4,
+          "endSec": 308.5,
+          "text": "a"
+        },
+        {
+          "startSec": 308.5,
+          "endSec": 309,
+          "text": "number,"
+        },
+        {
+          "startSec": 309,
+          "endSec": 309.7,
+          "text": "meaning"
+        }
+      ]
+    },
+    {
+      "startSec": 309,
+      "endSec": 312.7,
+      "text": "meaning to decide it by doing calculations.",
+      "words": [
+        {
+          "startSec": 309,
+          "endSec": 309.7,
+          "text": "meaning"
+        },
+        {
+          "startSec": 309.7,
+          "endSec": 309.8,
+          "text": "to"
+        },
+        {
+          "startSec": 309.8,
+          "endSec": 310.4,
+          "text": "decide"
+        },
+        {
+          "startSec": 310.4,
+          "endSec": 310.6,
+          "text": "it"
+        },
+        {
+          "startSec": 310.6,
+          "endSec": 310.8,
+          "text": "by"
+        },
+        {
+          "startSec": 310.8,
+          "endSec": 311.2,
+          "text": "doing"
+        },
+        {
+          "startSec": 311.2,
+          "endSec": 312.7,
+          "text": "calculations."
+        },
+        {
+          "startSec": 312.7,
+          "endSec": 312.8,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 312.7,
+      "endSec": 316.7,
+      "text": "If an idea takes grip on something, it takes control of it.",
+      "words": [
+        {
+          "startSec": 312.7,
+          "endSec": 312.8,
+          "text": "If"
+        },
+        {
+          "startSec": 312.8,
+          "endSec": 313,
+          "text": "an"
+        },
+        {
+          "startSec": 313,
+          "endSec": 313.3,
+          "text": "idea"
+        },
+        {
+          "startSec": 313.3,
+          "endSec": 313.7,
+          "text": "takes"
+        },
+        {
+          "startSec": 313.7,
+          "endSec": 314.1,
+          "text": "grip"
+        },
+        {
+          "startSec": 314.1,
+          "endSec": 314.2,
+          "text": "on"
+        },
+        {
+          "startSec": 314.2,
+          "endSec": 315.2,
+          "text": "something,"
+        },
+        {
+          "startSec": 315.2,
+          "endSec": 315.3,
+          "text": "it"
+        },
+        {
+          "startSec": 315.3,
+          "endSec": 315.7,
+          "text": "takes"
+        },
+        {
+          "startSec": 315.7,
+          "endSec": 316.2,
+          "text": "control"
+        },
+        {
+          "startSec": 316.2,
+          "endSec": 316.3,
+          "text": "of"
+        },
+        {
+          "startSec": 316.3,
+          "endSec": 316.7,
+          "text": "it."
+        },
+        {
+          "startSec": 316.7,
+          "endSec": 316.8,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 316.7,
+      "endSec": 320.7,
+      "text": "- The phrase pretty much means almost.",
+      "words": [
+        {
+          "startSec": 316.7,
+          "endSec": 316.8,
+          "text": "-"
+        },
+        {
+          "startSec": 316.8,
+          "endSec": 317.2,
+          "text": "The"
+        },
+        {
+          "startSec": 317.2,
+          "endSec": 317.9,
+          "text": "phrase"
+        },
+        {
+          "startSec": 317.9,
+          "endSec": 318.6,
+          "text": "pretty"
+        },
+        {
+          "startSec": 318.6,
+          "endSec": 319.1,
+          "text": "much"
+        },
+        {
+          "startSec": 319.1,
+          "endSec": 319.6,
+          "text": "means"
+        },
+        {
+          "startSec": 319.6,
+          "endSec": 320.7,
+          "text": "almost."
+        },
+        {
+          "startSec": 320.7,
+          "endSec": 321,
+          "text": "For"
+        }
+      ]
+    },
+    {
+      "startSec": 320.7,
+      "endSec": 324.7,
+      "text": "For example, pretty much everyone likes chocolate,",
+      "words": [
+        {
+          "startSec": 320.7,
+          "endSec": 321,
+          "text": "For"
+        },
+        {
+          "startSec": 321,
+          "endSec": 321.8,
+          "text": "example,"
+        },
+        {
+          "startSec": 321.8,
+          "endSec": 322.3,
+          "text": "pretty"
+        },
+        {
+          "startSec": 322.3,
+          "endSec": 322.7,
+          "text": "much"
+        },
+        {
+          "startSec": 322.7,
+          "endSec": 323.4,
+          "text": "everyone"
+        },
+        {
+          "startSec": 323.4,
+          "endSec": 323.8,
+          "text": "likes"
+        },
+        {
+          "startSec": 323.8,
+          "endSec": 324.7,
+          "text": "chocolate,"
+        },
+        {
+          "startSec": 324.7,
+          "endSec": 325,
+          "text": "which"
+        }
+      ]
+    },
+    {
+      "startSec": 324.7,
+      "endSec": 327.5,
+      "text": "which means almost everyone likes chocolate.",
+      "words": [
+        {
+          "startSec": 324.7,
+          "endSec": 325,
+          "text": "which"
+        },
+        {
+          "startSec": 325,
+          "endSec": 325.4,
+          "text": "means"
+        },
+        {
+          "startSec": 325.4,
+          "endSec": 325.8,
+          "text": "almost"
+        },
+        {
+          "startSec": 325.8,
+          "endSec": 326.3,
+          "text": "everyone"
+        },
+        {
+          "startSec": 326.3,
+          "endSec": 326.7,
+          "text": "likes"
+        },
+        {
+          "startSec": 326.7,
+          "endSec": 327.5,
+          "text": "chocolate."
+        },
+        {
+          "startSec": 327.5,
+          "endSec": 327.6,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 327.5,
+      "endSec": 330.6,
+      "text": "- A ballpark figure is a phrase meaning a number",
+      "words": [
+        {
+          "startSec": 327.5,
+          "endSec": 327.6,
+          "text": "-"
+        },
+        {
+          "startSec": 327.6,
+          "endSec": 327.7,
+          "text": "A"
+        },
+        {
+          "startSec": 327.7,
+          "endSec": 328.4,
+          "text": "ballpark"
+        },
+        {
+          "startSec": 328.4,
+          "endSec": 329,
+          "text": "figure"
+        },
+        {
+          "startSec": 329,
+          "endSec": 329.1,
+          "text": "is"
+        },
+        {
+          "startSec": 329.1,
+          "endSec": 329.2,
+          "text": "a"
+        },
+        {
+          "startSec": 329.2,
+          "endSec": 329.7,
+          "text": "phrase"
+        },
+        {
+          "startSec": 329.7,
+          "endSec": 330,
+          "text": "meaning"
+        },
+        {
+          "startSec": 330,
+          "endSec": 330.1,
+          "text": "a"
+        },
+        {
+          "startSec": 330.1,
+          "endSec": 330.6,
+          "text": "number"
+        },
+        {
+          "startSec": 330.6,
+          "endSec": 331,
+          "text": "which"
+        }
+      ]
+    },
+    {
+      "startSec": 330.6,
+      "endSec": 333.9,
+      "text": "which is an acceptably accurate approximation.",
+      "words": [
+        {
+          "startSec": 330.6,
+          "endSec": 331,
+          "text": "which"
+        },
+        {
+          "startSec": 331,
+          "endSec": 331.1,
+          "text": "is"
+        },
+        {
+          "startSec": 331.1,
+          "endSec": 331.3,
+          "text": "an"
+        },
+        {
+          "startSec": 331.3,
+          "endSec": 332,
+          "text": "acceptably"
+        },
+        {
+          "startSec": 332,
+          "endSec": 332.7,
+          "text": "accurate"
+        },
+        {
+          "startSec": 332.7,
+          "endSec": 333.9,
+          "text": "approximation."
+        },
+        {
+          "startSec": 333.9,
+          "endSec": 334,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 333.9,
+      "endSec": 338.3,
+      "text": "- Dehydration is the condition of not having enough water",
+      "words": [
+        {
+          "startSec": 333.9,
+          "endSec": 334,
+          "text": "-"
+        },
+        {
+          "startSec": 334,
+          "endSec": 335.2,
+          "text": "Dehydration"
+        },
+        {
+          "startSec": 335.2,
+          "endSec": 335.5,
+          "text": "is"
+        },
+        {
+          "startSec": 335.5,
+          "endSec": 335.8,
+          "text": "the"
+        },
+        {
+          "startSec": 335.8,
+          "endSec": 336.8,
+          "text": "condition"
+        },
+        {
+          "startSec": 336.8,
+          "endSec": 337,
+          "text": "of"
+        },
+        {
+          "startSec": 337,
+          "endSec": 337.3,
+          "text": "not"
+        },
+        {
+          "startSec": 337.3,
+          "endSec": 337.7,
+          "text": "having"
+        },
+        {
+          "startSec": 337.7,
+          "endSec": 338,
+          "text": "enough"
+        },
+        {
+          "startSec": 338,
+          "endSec": 338.3,
+          "text": "water"
+        },
+        {
+          "startSec": 338.3,
+          "endSec": 338.5,
+          "text": "in"
+        }
+      ]
+    },
+    {
+      "startSec": 338.3,
+      "endSec": 341.9,
+      "text": "in your body so that you feel ill or weak.",
+      "words": [
+        {
+          "startSec": 338.3,
+          "endSec": 338.5,
+          "text": "in"
+        },
+        {
+          "startSec": 338.5,
+          "endSec": 338.9,
+          "text": "your"
+        },
+        {
+          "startSec": 338.9,
+          "endSec": 339.3,
+          "text": "body"
+        },
+        {
+          "startSec": 339.3,
+          "endSec": 339.5,
+          "text": "so"
+        },
+        {
+          "startSec": 339.5,
+          "endSec": 339.9,
+          "text": "that"
+        },
+        {
+          "startSec": 339.9,
+          "endSec": 340.2,
+          "text": "you"
+        },
+        {
+          "startSec": 340.2,
+          "endSec": 340.6,
+          "text": "feel"
+        },
+        {
+          "startSec": 340.6,
+          "endSec": 340.9,
+          "text": "ill"
+        },
+        {
+          "startSec": 340.9,
+          "endSec": 341.1,
+          "text": "or"
+        },
+        {
+          "startSec": 341.1,
+          "endSec": 341.9,
+          "text": "weak."
+        }
+      ]
+    },
+    {
+      "startSec": 341.9,
+      "endSec": 346.6,
+      "text": "And finally, a symptom is a sign or feeling in the body",
+      "words": [
+        {
+          "startSec": 342,
+          "endSec": 342.2,
+          "text": "And"
+        },
+        {
+          "startSec": 342.2,
+          "endSec": 343.2,
+          "text": "finally,"
+        },
+        {
+          "startSec": 343.2,
+          "endSec": 343.4,
+          "text": "a"
+        },
+        {
+          "startSec": 343.4,
+          "endSec": 344.1,
+          "text": "symptom"
+        },
+        {
+          "startSec": 344.1,
+          "endSec": 344.3,
+          "text": "is"
+        },
+        {
+          "startSec": 344.3,
+          "endSec": 344.4,
+          "text": "a"
+        },
+        {
+          "startSec": 344.4,
+          "endSec": 344.9,
+          "text": "sign"
+        },
+        {
+          "startSec": 344.9,
+          "endSec": 345.1,
+          "text": "or"
+        },
+        {
+          "startSec": 345.1,
+          "endSec": 345.7,
+          "text": "feeling"
+        },
+        {
+          "startSec": 345.7,
+          "endSec": 345.9,
+          "text": "in"
+        },
+        {
+          "startSec": 345.9,
+          "endSec": 346.2,
+          "text": "the"
+        },
+        {
+          "startSec": 346.2,
+          "endSec": 346.6,
+          "text": "body"
+        },
+        {
+          "startSec": 346.6,
+          "endSec": 347.1,
+          "text": "showing"
+        }
+      ]
+    },
+    {
+      "startSec": 346.6,
+      "endSec": 349.8,
+      "text": "showing the presence of an illness or condition.",
+      "words": [
+        {
+          "startSec": 346.6,
+          "endSec": 347.1,
+          "text": "showing"
+        },
+        {
+          "startSec": 347.1,
+          "endSec": 347.3,
+          "text": "the"
+        },
+        {
+          "startSec": 347.3,
+          "endSec": 347.9,
+          "text": "presence"
+        },
+        {
+          "startSec": 347.9,
+          "endSec": 348.1,
+          "text": "of"
+        },
+        {
+          "startSec": 348.1,
+          "endSec": 348.2,
+          "text": "an"
+        },
+        {
+          "startSec": 348.2,
+          "endSec": 348.8,
+          "text": "illness"
+        },
+        {
+          "startSec": 348.8,
+          "endSec": 348.9,
+          "text": "or"
+        },
+        {
+          "startSec": 348.9,
+          "endSec": 349.8,
+          "text": "condition."
+        },
+        {
+          "startSec": 349.8,
+          "endSec": 350.2,
+          "text": "Once"
+        }
+      ]
+    },
+    {
+      "startSec": 349.8,
+      "endSec": 352.6,
+      "text": "Once again, our six minutes are up.",
+      "words": [
+        {
+          "startSec": 349.8,
+          "endSec": 350.2,
+          "text": "Once"
+        },
+        {
+          "startSec": 350.2,
+          "endSec": 350.8,
+          "text": "again,"
+        },
+        {
+          "startSec": 350.8,
+          "endSec": 351,
+          "text": "our"
+        },
+        {
+          "startSec": 351,
+          "endSec": 351.3,
+          "text": "six"
+        },
+        {
+          "startSec": 351.3,
+          "endSec": 351.9,
+          "text": "minutes"
+        },
+        {
+          "startSec": 351.9,
+          "endSec": 352.1,
+          "text": "are"
+        },
+        {
+          "startSec": 352.1,
+          "endSec": 352.6,
+          "text": "up."
+        },
+        {
+          "startSec": 352.6,
+          "endSec": 352.9,
+          "text": "Why"
+        }
+      ]
+    },
+    {
+      "startSec": 352.6,
+      "endSec": 355.7,
+      "text": "Why not join me now and head over to our website,",
+      "words": [
+        {
+          "startSec": 352.6,
+          "endSec": 352.9,
+          "text": "Why"
+        },
+        {
+          "startSec": 352.9,
+          "endSec": 353.1,
+          "text": "not"
+        },
+        {
+          "startSec": 353.1,
+          "endSec": 353.5,
+          "text": "join"
+        },
+        {
+          "startSec": 353.5,
+          "endSec": 353.6,
+          "text": "me"
+        },
+        {
+          "startSec": 353.6,
+          "endSec": 353.9,
+          "text": "now"
+        },
+        {
+          "startSec": 353.9,
+          "endSec": 354.1,
+          "text": "and"
+        },
+        {
+          "startSec": 354.1,
+          "endSec": 354.4,
+          "text": "head"
+        },
+        {
+          "startSec": 354.4,
+          "endSec": 354.6,
+          "text": "over"
+        },
+        {
+          "startSec": 354.6,
+          "endSec": 354.8,
+          "text": "to"
+        },
+        {
+          "startSec": 354.8,
+          "endSec": 355,
+          "text": "our"
+        },
+        {
+          "startSec": 355,
+          "endSec": 355.7,
+          "text": "website,"
+        },
+        {
+          "startSec": 355.7,
+          "endSec": 358.5,
+          "text": "bbclearningenglish.com."
+        }
+      ]
+    },
+    {
+      "startSec": 355.7,
+      "endSec": 358.5,
+      "text": "bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 355.7,
+          "endSec": 358.5,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 358.5,
+          "endSec": 358.9,
+          "text": "Download"
+        }
+      ]
+    },
+    {
+      "startSec": 358.5,
+      "endSec": 360.3,
+      "text": "Download the worksheet for this program",
+      "words": [
+        {
+          "startSec": 358.5,
+          "endSec": 358.9,
+          "text": "Download"
+        },
+        {
+          "startSec": 358.9,
+          "endSec": 359.1,
+          "text": "the"
+        },
+        {
+          "startSec": 359.1,
+          "endSec": 359.5,
+          "text": "worksheet"
+        },
+        {
+          "startSec": 359.5,
+          "endSec": 359.7,
+          "text": "for"
+        },
+        {
+          "startSec": 359.7,
+          "endSec": 359.9,
+          "text": "this"
+        },
+        {
+          "startSec": 359.9,
+          "endSec": 360.3,
+          "text": "program"
+        },
+        {
+          "startSec": 360.3,
+          "endSec": 360.5,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 360.3,
+      "endSec": 363.4,
+      "text": "and test yourself to see how much you remember.",
+      "words": [
+        {
+          "startSec": 360.3,
+          "endSec": 360.5,
+          "text": "and"
+        },
+        {
+          "startSec": 360.5,
+          "endSec": 360.8,
+          "text": "test"
+        },
+        {
+          "startSec": 360.8,
+          "endSec": 361.4,
+          "text": "yourself"
+        },
+        {
+          "startSec": 361.4,
+          "endSec": 361.6,
+          "text": "to"
+        },
+        {
+          "startSec": 361.6,
+          "endSec": 361.8,
+          "text": "see"
+        },
+        {
+          "startSec": 361.8,
+          "endSec": 362,
+          "text": "how"
+        },
+        {
+          "startSec": 362,
+          "endSec": 362.3,
+          "text": "much"
+        },
+        {
+          "startSec": 362.3,
+          "endSec": 362.6,
+          "text": "you"
+        },
+        {
+          "startSec": 362.6,
+          "endSec": 363.4,
+          "text": "remember."
+        },
+        {
+          "startSec": 363.4,
+          "endSec": 363.7,
+          "text": "See"
+        }
+      ]
+    },
+    {
+      "startSec": 363.4,
+      "endSec": 365.2,
+      "text": "See you there soon.",
+      "words": [
+        {
+          "startSec": 363.4,
+          "endSec": 363.7,
+          "text": "See"
+        },
+        {
+          "startSec": 363.7,
+          "endSec": 364,
+          "text": "you"
+        },
+        {
+          "startSec": 364,
+          "endSec": 364.5,
+          "text": "there"
+        },
+        {
+          "startSec": 364.5,
+          "endSec": 365.2,
+          "text": "soon."
+        },
+        {
+          "startSec": 365.2,
+          "endSec": 365.4,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 365.2,
+      "endSec": 366,
+      "text": "- Bye.",
+      "words": [
+        {
+          "startSec": 365.2,
+          "endSec": 365.4,
+          "text": "-"
+        },
+        {
+          "startSec": 365.4,
+          "endSec": 366,
+          "text": "Bye."
+        },
+        {
+          "startSec": 366,
+          "endSec": 368,
+          "text": "(upbeat"
+        }
+      ]
+    },
+    {
+      "startSec": 366,
+      "endSec": 368.9,
+      "text": "(upbeat music)",
+      "words": [
+        {
+          "startSec": 366,
+          "endSec": 368,
+          "text": "(upbeat"
+        },
+        {
+          "startSec": 368,
+          "endSec": 368.9,
+          "text": "music)"
+        },
+        {
+          "startSec": 368.9,
+          "endSec": 369,
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "startSec": 368.9,
+      "endSec": 372.2,
+      "text": "- On bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 368.9,
+          "endSec": 369,
+          "text": "-"
+        },
+        {
+          "startSec": 369,
+          "endSec": 369.2,
+          "text": "On"
+        },
+        {
+          "startSec": 369.2,
+          "endSec": 372.2,
+          "text": "bbclearningenglish.com."
+        }
+      ]
+    }
+  ],
+  "introSec": 5.8
+}

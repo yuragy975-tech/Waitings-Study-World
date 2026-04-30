@@ -1,0 +1,5442 @@
+{
+  "title": "What is degrowth",
+  "source": "BBC 6 Minute English",
+  "level": "intermediate",
+  "durationSec": 387,
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
+  "audioFile": "audio.mp3",
+  "segments": [
+    {
+      "startSec": 0,
+      "endSec": 13,
+      "text": "Hello and welcome to Six Minute English from BBC Learning English. I'm Phil and today",
+      "words": [
+        {
+          "startSec": 0.2,
+          "endSec": 7.7,
+          "text": "Hello"
+        },
+        {
+          "startSec": 7.7,
+          "endSec": 8,
+          "text": "and"
+        },
+        {
+          "startSec": 8,
+          "endSec": 8.6,
+          "text": "welcome"
+        },
+        {
+          "startSec": 8.6,
+          "endSec": 8.6,
+          "text": "to"
+        },
+        {
+          "startSec": 8.6,
+          "endSec": 8.9,
+          "text": "Six"
+        },
+        {
+          "startSec": 8.9,
+          "endSec": 9.4,
+          "text": "Minute"
+        },
+        {
+          "startSec": 9.4,
+          "endSec": 10,
+          "text": "English"
+        },
+        {
+          "startSec": 10,
+          "endSec": 10.3,
+          "text": "from"
+        },
+        {
+          "startSec": 10.3,
+          "endSec": 10.5,
+          "text": "BBC"
+        },
+        {
+          "startSec": 10.5,
+          "endSec": 11.1,
+          "text": "Learning"
+        },
+        {
+          "startSec": 11.1,
+          "endSec": 11.8,
+          "text": "English."
+        },
+        {
+          "startSec": 11.8,
+          "endSec": 12.1,
+          "text": "I'm"
+        },
+        {
+          "startSec": 12.1,
+          "endSec": 12.7,
+          "text": "Phil"
+        },
+        {
+          "startSec": 12.7,
+          "endSec": 12.8,
+          "text": "and"
+        },
+        {
+          "startSec": 12.8,
+          "endSec": 13,
+          "text": "today"
+        },
+        {
+          "startSec": 13,
+          "endSec": 13.2,
+          "text": "we"
+        }
+      ]
+    },
+    {
+      "startSec": 13,
+      "endSec": 18.8,
+      "text": "we have Hannah joining us again from BBC Podcast What in the World? Welcome Hannah.",
+      "words": [
+        {
+          "startSec": 13,
+          "endSec": 13.2,
+          "text": "we"
+        },
+        {
+          "startSec": 13.2,
+          "endSec": 13.5,
+          "text": "have"
+        },
+        {
+          "startSec": 13.5,
+          "endSec": 14,
+          "text": "Hannah"
+        },
+        {
+          "startSec": 14,
+          "endSec": 14.7,
+          "text": "joining"
+        },
+        {
+          "startSec": 14.7,
+          "endSec": 14.8,
+          "text": "us"
+        },
+        {
+          "startSec": 14.8,
+          "endSec": 15.3,
+          "text": "again"
+        },
+        {
+          "startSec": 15.3,
+          "endSec": 15.6,
+          "text": "from"
+        },
+        {
+          "startSec": 15.6,
+          "endSec": 15.9,
+          "text": "BBC"
+        },
+        {
+          "startSec": 15.9,
+          "endSec": 16.5,
+          "text": "Podcast"
+        },
+        {
+          "startSec": 16.5,
+          "endSec": 16.8,
+          "text": "What"
+        },
+        {
+          "startSec": 16.8,
+          "endSec": 17,
+          "text": "in"
+        },
+        {
+          "startSec": 17,
+          "endSec": 17.3,
+          "text": "the"
+        },
+        {
+          "startSec": 17.3,
+          "endSec": 18,
+          "text": "World?"
+        },
+        {
+          "startSec": 18,
+          "endSec": 18.4,
+          "text": "Welcome"
+        },
+        {
+          "startSec": 18.4,
+          "endSec": 18.8,
+          "text": "Hannah."
+        },
+        {
+          "startSec": 18.8,
+          "endSec": 19.1,
+          "text": "Hey"
+        }
+      ]
+    },
+    {
+      "startSec": 18.8,
+      "endSec": 25,
+      "text": "Hey Phil, it is so great to be back here. So I'm wondering, do you do things that you",
+      "words": [
+        {
+          "startSec": 18.8,
+          "endSec": 19.1,
+          "text": "Hey"
+        },
+        {
+          "startSec": 19.1,
+          "endSec": 19.6,
+          "text": "Phil,"
+        },
+        {
+          "startSec": 19.6,
+          "endSec": 19.8,
+          "text": "it"
+        },
+        {
+          "startSec": 19.8,
+          "endSec": 20,
+          "text": "is"
+        },
+        {
+          "startSec": 20,
+          "endSec": 20.2,
+          "text": "so"
+        },
+        {
+          "startSec": 20.2,
+          "endSec": 20.6,
+          "text": "great"
+        },
+        {
+          "startSec": 20.6,
+          "endSec": 20.8,
+          "text": "to"
+        },
+        {
+          "startSec": 20.8,
+          "endSec": 21,
+          "text": "be"
+        },
+        {
+          "startSec": 21,
+          "endSec": 21.3,
+          "text": "back"
+        },
+        {
+          "startSec": 21.3,
+          "endSec": 22,
+          "text": "here."
+        },
+        {
+          "startSec": 22,
+          "endSec": 22.2,
+          "text": "So"
+        },
+        {
+          "startSec": 22.2,
+          "endSec": 22.4,
+          "text": "I'm"
+        },
+        {
+          "startSec": 22.4,
+          "endSec": 23.3,
+          "text": "wondering,"
+        },
+        {
+          "startSec": 23.3,
+          "endSec": 23.5,
+          "text": "do"
+        },
+        {
+          "startSec": 23.5,
+          "endSec": 23.8,
+          "text": "you"
+        },
+        {
+          "startSec": 23.8,
+          "endSec": 23.9,
+          "text": "do"
+        },
+        {
+          "startSec": 23.9,
+          "endSec": 24.4,
+          "text": "things"
+        },
+        {
+          "startSec": 24.4,
+          "endSec": 24.8,
+          "text": "that"
+        },
+        {
+          "startSec": 24.8,
+          "endSec": 25,
+          "text": "you"
+        }
+      ]
+    },
+    {
+      "startSec": 25,
+      "endSec": 31.9,
+      "text": "think are good for the planet? Oh, I try but I don't think I do enough. So maybe I",
+      "words": [
+        {
+          "startSec": 25.1,
+          "endSec": 25.5,
+          "text": "think"
+        },
+        {
+          "startSec": 25.5,
+          "endSec": 25.8,
+          "text": "are"
+        },
+        {
+          "startSec": 25.8,
+          "endSec": 26.2,
+          "text": "good"
+        },
+        {
+          "startSec": 26.2,
+          "endSec": 26.5,
+          "text": "for"
+        },
+        {
+          "startSec": 26.5,
+          "endSec": 26.8,
+          "text": "the"
+        },
+        {
+          "startSec": 26.8,
+          "endSec": 27.7,
+          "text": "planet?"
+        },
+        {
+          "startSec": 27.7,
+          "endSec": 28.1,
+          "text": "Oh,"
+        },
+        {
+          "startSec": 28.1,
+          "endSec": 28.2,
+          "text": "I"
+        },
+        {
+          "startSec": 28.2,
+          "endSec": 28.5,
+          "text": "try"
+        },
+        {
+          "startSec": 28.5,
+          "endSec": 28.8,
+          "text": "but"
+        },
+        {
+          "startSec": 28.8,
+          "endSec": 28.9,
+          "text": "I"
+        },
+        {
+          "startSec": 28.9,
+          "endSec": 29.4,
+          "text": "don't"
+        },
+        {
+          "startSec": 29.4,
+          "endSec": 29.9,
+          "text": "think"
+        },
+        {
+          "startSec": 29.9,
+          "endSec": 30,
+          "text": "I"
+        },
+        {
+          "startSec": 30,
+          "endSec": 30.2,
+          "text": "do"
+        },
+        {
+          "startSec": 30.2,
+          "endSec": 31.1,
+          "text": "enough."
+        },
+        {
+          "startSec": 31.1,
+          "endSec": 31.3,
+          "text": "So"
+        },
+        {
+          "startSec": 31.3,
+          "endSec": 31.6,
+          "text": "maybe"
+        },
+        {
+          "startSec": 31.6,
+          "endSec": 31.9,
+          "text": "I"
+        },
+        {
+          "startSec": 31.9,
+          "endSec": 32.5,
+          "text": "cycle"
+        }
+      ]
+    },
+    {
+      "startSec": 31.9,
+      "endSec": 38.2,
+      "text": "cycle more than I drive and I try to recycle things but I should be doing a",
+      "words": [
+        {
+          "startSec": 31.9,
+          "endSec": 32.5,
+          "text": "cycle"
+        },
+        {
+          "startSec": 32.5,
+          "endSec": 32.9,
+          "text": "more"
+        },
+        {
+          "startSec": 32.9,
+          "endSec": 33.4,
+          "text": "than"
+        },
+        {
+          "startSec": 33.4,
+          "endSec": 33.5,
+          "text": "I"
+        },
+        {
+          "startSec": 33.5,
+          "endSec": 34,
+          "text": "drive"
+        },
+        {
+          "startSec": 34,
+          "endSec": 34.4,
+          "text": "and"
+        },
+        {
+          "startSec": 34.4,
+          "endSec": 34.5,
+          "text": "I"
+        },
+        {
+          "startSec": 34.5,
+          "endSec": 34.8,
+          "text": "try"
+        },
+        {
+          "startSec": 34.8,
+          "endSec": 35,
+          "text": "to"
+        },
+        {
+          "startSec": 35,
+          "endSec": 35.8,
+          "text": "recycle"
+        },
+        {
+          "startSec": 35.8,
+          "endSec": 36.5,
+          "text": "things"
+        },
+        {
+          "startSec": 36.5,
+          "endSec": 36.8,
+          "text": "but"
+        },
+        {
+          "startSec": 36.8,
+          "endSec": 36.9,
+          "text": "I"
+        },
+        {
+          "startSec": 36.9,
+          "endSec": 37.6,
+          "text": "should"
+        },
+        {
+          "startSec": 37.6,
+          "endSec": 37.9,
+          "text": "be"
+        },
+        {
+          "startSec": 37.9,
+          "endSec": 38.1,
+          "text": "doing"
+        },
+        {
+          "startSec": 38.1,
+          "endSec": 38.2,
+          "text": "a"
+        },
+        {
+          "startSec": 38.2,
+          "endSec": 38.6,
+          "text": "lot"
+        }
+      ]
+    },
+    {
+      "startSec": 38.2,
+      "endSec": 43.7,
+      "text": "lot more. But some people think that to deal with climate change we can't just",
+      "words": [
+        {
+          "startSec": 38.2,
+          "endSec": 38.6,
+          "text": "lot"
+        },
+        {
+          "startSec": 38.6,
+          "endSec": 39.4,
+          "text": "more."
+        },
+        {
+          "startSec": 39.4,
+          "endSec": 39.7,
+          "text": "But"
+        },
+        {
+          "startSec": 39.7,
+          "endSec": 40,
+          "text": "some"
+        },
+        {
+          "startSec": 40,
+          "endSec": 40.5,
+          "text": "people"
+        },
+        {
+          "startSec": 40.5,
+          "endSec": 40.9,
+          "text": "think"
+        },
+        {
+          "startSec": 40.9,
+          "endSec": 41.2,
+          "text": "that"
+        },
+        {
+          "startSec": 41.2,
+          "endSec": 41.3,
+          "text": "to"
+        },
+        {
+          "startSec": 41.3,
+          "endSec": 41.7,
+          "text": "deal"
+        },
+        {
+          "startSec": 41.7,
+          "endSec": 41.9,
+          "text": "with"
+        },
+        {
+          "startSec": 41.9,
+          "endSec": 42.4,
+          "text": "climate"
+        },
+        {
+          "startSec": 42.4,
+          "endSec": 42.9,
+          "text": "change"
+        },
+        {
+          "startSec": 42.9,
+          "endSec": 43,
+          "text": "we"
+        },
+        {
+          "startSec": 43,
+          "endSec": 43.4,
+          "text": "can't"
+        },
+        {
+          "startSec": 43.4,
+          "endSec": 43.7,
+          "text": "just"
+        },
+        {
+          "startSec": 43.7,
+          "endSec": 44,
+          "text": "rely"
+        }
+      ]
+    },
+    {
+      "startSec": 43.7,
+      "endSec": 49.4,
+      "text": "rely on individuals. Phil, it's not up to you and me. We need to actually change",
+      "words": [
+        {
+          "startSec": 43.7,
+          "endSec": 44,
+          "text": "rely"
+        },
+        {
+          "startSec": 44,
+          "endSec": 44.2,
+          "text": "on"
+        },
+        {
+          "startSec": 44.2,
+          "endSec": 45.5,
+          "text": "individuals."
+        },
+        {
+          "startSec": 45.5,
+          "endSec": 46,
+          "text": "Phil,"
+        },
+        {
+          "startSec": 46,
+          "endSec": 46.3,
+          "text": "it's"
+        },
+        {
+          "startSec": 46.3,
+          "endSec": 46.6,
+          "text": "not"
+        },
+        {
+          "startSec": 46.6,
+          "endSec": 46.8,
+          "text": "up"
+        },
+        {
+          "startSec": 46.8,
+          "endSec": 47,
+          "text": "to"
+        },
+        {
+          "startSec": 47,
+          "endSec": 47.2,
+          "text": "you"
+        },
+        {
+          "startSec": 47.2,
+          "endSec": 47.5,
+          "text": "and"
+        },
+        {
+          "startSec": 47.5,
+          "endSec": 48,
+          "text": "me."
+        },
+        {
+          "startSec": 48,
+          "endSec": 48.4,
+          "text": "We"
+        },
+        {
+          "startSec": 48.4,
+          "endSec": 48.6,
+          "text": "need"
+        },
+        {
+          "startSec": 48.6,
+          "endSec": 48.7,
+          "text": "to"
+        },
+        {
+          "startSec": 48.7,
+          "endSec": 49.1,
+          "text": "actually"
+        },
+        {
+          "startSec": 49.1,
+          "endSec": 49.4,
+          "text": "change"
+        }
+      ]
+    },
+    {
+      "startSec": 49.4,
+      "endSec": 54.8,
+      "text": "the way our economy works and this is an idea called de-growth and we've been",
+      "words": [
+        {
+          "startSec": 49.5,
+          "endSec": 49.7,
+          "text": "the"
+        },
+        {
+          "startSec": 49.7,
+          "endSec": 49.9,
+          "text": "way"
+        },
+        {
+          "startSec": 49.9,
+          "endSec": 50.2,
+          "text": "our"
+        },
+        {
+          "startSec": 50.2,
+          "endSec": 50.8,
+          "text": "economy"
+        },
+        {
+          "startSec": 50.8,
+          "endSec": 51.2,
+          "text": "works"
+        },
+        {
+          "startSec": 51.2,
+          "endSec": 51.5,
+          "text": "and"
+        },
+        {
+          "startSec": 51.5,
+          "endSec": 51.8,
+          "text": "this"
+        },
+        {
+          "startSec": 51.8,
+          "endSec": 52,
+          "text": "is"
+        },
+        {
+          "startSec": 52,
+          "endSec": 52.2,
+          "text": "an"
+        },
+        {
+          "startSec": 52.2,
+          "endSec": 52.5,
+          "text": "idea"
+        },
+        {
+          "startSec": 52.5,
+          "endSec": 53.1,
+          "text": "called"
+        },
+        {
+          "startSec": 53.1,
+          "endSec": 53.8,
+          "text": "de-growth"
+        },
+        {
+          "startSec": 53.8,
+          "endSec": 54.1,
+          "text": "and"
+        },
+        {
+          "startSec": 54.1,
+          "endSec": 54.6,
+          "text": "we've"
+        },
+        {
+          "startSec": 54.6,
+          "endSec": 54.8,
+          "text": "been"
+        },
+        {
+          "startSec": 54.8,
+          "endSec": 55.6,
+          "text": "investigating"
+        }
+      ]
+    },
+    {
+      "startSec": 54.8,
+      "endSec": 58.5,
+      "text": "investigating it at what in the world and we're going to learn a bit more about",
+      "words": [
+        {
+          "startSec": 54.8,
+          "endSec": 55.6,
+          "text": "investigating"
+        },
+        {
+          "startSec": 55.6,
+          "endSec": 55.7,
+          "text": "it"
+        },
+        {
+          "startSec": 55.7,
+          "endSec": 55.8,
+          "text": "at"
+        },
+        {
+          "startSec": 55.8,
+          "endSec": 56.1,
+          "text": "what"
+        },
+        {
+          "startSec": 56.1,
+          "endSec": 56.2,
+          "text": "in"
+        },
+        {
+          "startSec": 56.2,
+          "endSec": 56.3,
+          "text": "the"
+        },
+        {
+          "startSec": 56.3,
+          "endSec": 56.6,
+          "text": "world"
+        },
+        {
+          "startSec": 56.6,
+          "endSec": 56.8,
+          "text": "and"
+        },
+        {
+          "startSec": 56.8,
+          "endSec": 57.1,
+          "text": "we're"
+        },
+        {
+          "startSec": 57.1,
+          "endSec": 57.4,
+          "text": "going"
+        },
+        {
+          "startSec": 57.4,
+          "endSec": 57.5,
+          "text": "to"
+        },
+        {
+          "startSec": 57.5,
+          "endSec": 57.8,
+          "text": "learn"
+        },
+        {
+          "startSec": 57.8,
+          "endSec": 57.8,
+          "text": "a"
+        },
+        {
+          "startSec": 57.8,
+          "endSec": 58,
+          "text": "bit"
+        },
+        {
+          "startSec": 58,
+          "endSec": 58.3,
+          "text": "more"
+        },
+        {
+          "startSec": 58.3,
+          "endSec": 58.5,
+          "text": "about"
+        },
+        {
+          "startSec": 58.5,
+          "endSec": 58.7,
+          "text": "it"
+        }
+      ]
+    },
+    {
+      "startSec": 58.5,
+      "endSec": 65,
+      "text": "it today. But first, our quiz question. World leaders promised in 2015 to limit",
+      "words": [
+        {
+          "startSec": 58.5,
+          "endSec": 58.7,
+          "text": "it"
+        },
+        {
+          "startSec": 58.7,
+          "endSec": 59.4,
+          "text": "today."
+        },
+        {
+          "startSec": 59.4,
+          "endSec": 59.7,
+          "text": "But"
+        },
+        {
+          "startSec": 59.7,
+          "endSec": 60.3,
+          "text": "first,"
+        },
+        {
+          "startSec": 60.3,
+          "endSec": 60.6,
+          "text": "our"
+        },
+        {
+          "startSec": 60.6,
+          "endSec": 61,
+          "text": "quiz"
+        },
+        {
+          "startSec": 61,
+          "endSec": 62.1,
+          "text": "question."
+        },
+        {
+          "startSec": 62.1,
+          "endSec": 62.6,
+          "text": "World"
+        },
+        {
+          "startSec": 62.6,
+          "endSec": 62.9,
+          "text": "leaders"
+        },
+        {
+          "startSec": 62.9,
+          "endSec": 63.4,
+          "text": "promised"
+        },
+        {
+          "startSec": 63.4,
+          "endSec": 63.5,
+          "text": "in"
+        },
+        {
+          "startSec": 63.5,
+          "endSec": 64.2,
+          "text": "2015"
+        },
+        {
+          "startSec": 64.2,
+          "endSec": 64.5,
+          "text": "to"
+        },
+        {
+          "startSec": 64.5,
+          "endSec": 65,
+          "text": "limit"
+        },
+        {
+          "startSec": 65,
+          "endSec": 65.5,
+          "text": "global"
+        }
+      ]
+    },
+    {
+      "startSec": 65,
+      "endSec": 72,
+      "text": "global temperature rises but what was the limit they agreed to? Was it a 1.5",
+      "words": [
+        {
+          "startSec": 65,
+          "endSec": 65.5,
+          "text": "global"
+        },
+        {
+          "startSec": 65.5,
+          "endSec": 66.4,
+          "text": "temperature"
+        },
+        {
+          "startSec": 66.4,
+          "endSec": 66.8,
+          "text": "rises"
+        },
+        {
+          "startSec": 66.8,
+          "endSec": 67.1,
+          "text": "but"
+        },
+        {
+          "startSec": 67.1,
+          "endSec": 67.4,
+          "text": "what"
+        },
+        {
+          "startSec": 67.4,
+          "endSec": 67.7,
+          "text": "was"
+        },
+        {
+          "startSec": 67.7,
+          "endSec": 67.9,
+          "text": "the"
+        },
+        {
+          "startSec": 67.9,
+          "endSec": 68.3,
+          "text": "limit"
+        },
+        {
+          "startSec": 68.3,
+          "endSec": 68.7,
+          "text": "they"
+        },
+        {
+          "startSec": 68.7,
+          "endSec": 69.2,
+          "text": "agreed"
+        },
+        {
+          "startSec": 69.2,
+          "endSec": 69.6,
+          "text": "to?"
+        },
+        {
+          "startSec": 69.6,
+          "endSec": 69.9,
+          "text": "Was"
+        },
+        {
+          "startSec": 69.9,
+          "endSec": 70.1,
+          "text": "it"
+        },
+        {
+          "startSec": 70.1,
+          "endSec": 70.6,
+          "text": "a"
+        },
+        {
+          "startSec": 70.6,
+          "endSec": 72,
+          "text": "1.5"
+        }
+      ]
+    },
+    {
+      "startSec": 72,
+      "endSec": 81.2,
+      "text": "degrees Celsius? B. 2.5 degrees Celsius or C. 3.5 degrees Celsius. I think I know",
+      "words": [
+        {
+          "startSec": 72.2,
+          "endSec": 72.8,
+          "text": "degrees"
+        },
+        {
+          "startSec": 72.8,
+          "endSec": 73.8,
+          "text": "Celsius?"
+        },
+        {
+          "startSec": 73.8,
+          "endSec": 74.3,
+          "text": "B."
+        },
+        {
+          "startSec": 74.3,
+          "endSec": 75.2,
+          "text": "2.5"
+        },
+        {
+          "startSec": 75.2,
+          "endSec": 76,
+          "text": "degrees"
+        },
+        {
+          "startSec": 76,
+          "endSec": 76.8,
+          "text": "Celsius"
+        },
+        {
+          "startSec": 76.8,
+          "endSec": 77,
+          "text": "or"
+        },
+        {
+          "startSec": 77,
+          "endSec": 77.4,
+          "text": "C."
+        },
+        {
+          "startSec": 77.4,
+          "endSec": 78.4,
+          "text": "3.5"
+        },
+        {
+          "startSec": 78.4,
+          "endSec": 79.3,
+          "text": "degrees"
+        },
+        {
+          "startSec": 79.3,
+          "endSec": 80.2,
+          "text": "Celsius."
+        },
+        {
+          "startSec": 80.2,
+          "endSec": 80.3,
+          "text": "I"
+        },
+        {
+          "startSec": 80.3,
+          "endSec": 80.9,
+          "text": "think"
+        },
+        {
+          "startSec": 80.9,
+          "endSec": 81.1,
+          "text": "I"
+        },
+        {
+          "startSec": 81.1,
+          "endSec": 81.2,
+          "text": "know"
+        },
+        {
+          "startSec": 81.2,
+          "endSec": 81.6,
+          "text": "this"
+        }
+      ]
+    },
+    {
+      "startSec": 81.2,
+      "endSec": 87.7,
+      "text": "this one, Phil. I think it's 1.5 degrees Celsius. Okay, we'll find out the answer",
+      "words": [
+        {
+          "startSec": 81.2,
+          "endSec": 81.6,
+          "text": "this"
+        },
+        {
+          "startSec": 81.6,
+          "endSec": 82,
+          "text": "one,"
+        },
+        {
+          "startSec": 82,
+          "endSec": 82.5,
+          "text": "Phil."
+        },
+        {
+          "startSec": 82.5,
+          "endSec": 82.6,
+          "text": "I"
+        },
+        {
+          "startSec": 82.6,
+          "endSec": 83,
+          "text": "think"
+        },
+        {
+          "startSec": 83,
+          "endSec": 83.4,
+          "text": "it's"
+        },
+        {
+          "startSec": 83.4,
+          "endSec": 84.1,
+          "text": "1.5"
+        },
+        {
+          "startSec": 84.1,
+          "endSec": 84.7,
+          "text": "degrees"
+        },
+        {
+          "startSec": 84.7,
+          "endSec": 85.6,
+          "text": "Celsius."
+        },
+        {
+          "startSec": 85.6,
+          "endSec": 86.7,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 86.7,
+          "endSec": 86.9,
+          "text": "we'll"
+        },
+        {
+          "startSec": 86.9,
+          "endSec": 87.1,
+          "text": "find"
+        },
+        {
+          "startSec": 87.1,
+          "endSec": 87.3,
+          "text": "out"
+        },
+        {
+          "startSec": 87.3,
+          "endSec": 87.4,
+          "text": "the"
+        },
+        {
+          "startSec": 87.4,
+          "endSec": 87.7,
+          "text": "answer"
+        },
+        {
+          "startSec": 87.7,
+          "endSec": 88.1,
+          "text": "later"
+        }
+      ]
+    },
+    {
+      "startSec": 87.7,
+      "endSec": 94.5,
+      "text": "later in the programme. So Hannah, you've been researching de-growth. What does",
+      "words": [
+        {
+          "startSec": 87.7,
+          "endSec": 88.1,
+          "text": "later"
+        },
+        {
+          "startSec": 88.1,
+          "endSec": 88.3,
+          "text": "in"
+        },
+        {
+          "startSec": 88.3,
+          "endSec": 88.6,
+          "text": "the"
+        },
+        {
+          "startSec": 88.6,
+          "endSec": 89.6,
+          "text": "programme."
+        },
+        {
+          "startSec": 89.6,
+          "endSec": 89.8,
+          "text": "So"
+        },
+        {
+          "startSec": 89.8,
+          "endSec": 90.5,
+          "text": "Hannah,"
+        },
+        {
+          "startSec": 90.5,
+          "endSec": 91,
+          "text": "you've"
+        },
+        {
+          "startSec": 91,
+          "endSec": 91.4,
+          "text": "been"
+        },
+        {
+          "startSec": 91.4,
+          "endSec": 92.4,
+          "text": "researching"
+        },
+        {
+          "startSec": 92.4,
+          "endSec": 93.4,
+          "text": "de-growth."
+        },
+        {
+          "startSec": 93.4,
+          "endSec": 94.3,
+          "text": "What"
+        },
+        {
+          "startSec": 94.3,
+          "endSec": 94.5,
+          "text": "does"
+        },
+        {
+          "startSec": 94.5,
+          "endSec": 94.9,
+          "text": "that"
+        }
+      ]
+    },
+    {
+      "startSec": 94.5,
+      "endSec": 100.4,
+      "text": "that mean? Well Phil, traditionally governments have always wanted to grow",
+      "words": [
+        {
+          "startSec": 94.5,
+          "endSec": 94.9,
+          "text": "that"
+        },
+        {
+          "startSec": 94.9,
+          "endSec": 95.5,
+          "text": "mean?"
+        },
+        {
+          "startSec": 95.5,
+          "endSec": 95.8,
+          "text": "Well"
+        },
+        {
+          "startSec": 95.8,
+          "endSec": 96.4,
+          "text": "Phil,"
+        },
+        {
+          "startSec": 96.4,
+          "endSec": 97.5,
+          "text": "traditionally"
+        },
+        {
+          "startSec": 97.5,
+          "endSec": 98.6,
+          "text": "governments"
+        },
+        {
+          "startSec": 98.6,
+          "endSec": 98.8,
+          "text": "have"
+        },
+        {
+          "startSec": 98.8,
+          "endSec": 99.2,
+          "text": "always"
+        },
+        {
+          "startSec": 99.2,
+          "endSec": 99.8,
+          "text": "wanted"
+        },
+        {
+          "startSec": 99.8,
+          "endSec": 100,
+          "text": "to"
+        },
+        {
+          "startSec": 100,
+          "endSec": 100.4,
+          "text": "grow"
+        }
+      ]
+    },
+    {
+      "startSec": 100.4,
+      "endSec": 107.6,
+      "text": "the economy. More money, more jobs, more stuff. But de-growth is a different way of",
+      "words": [
+        {
+          "startSec": 100.5,
+          "endSec": 100.7,
+          "text": "the"
+        },
+        {
+          "startSec": 100.7,
+          "endSec": 101.6,
+          "text": "economy."
+        },
+        {
+          "startSec": 101.6,
+          "endSec": 101.9,
+          "text": "More"
+        },
+        {
+          "startSec": 101.9,
+          "endSec": 102.6,
+          "text": "money,"
+        },
+        {
+          "startSec": 102.6,
+          "endSec": 102.9,
+          "text": "more"
+        },
+        {
+          "startSec": 102.9,
+          "endSec": 103.5,
+          "text": "jobs,"
+        },
+        {
+          "startSec": 103.5,
+          "endSec": 103.8,
+          "text": "more"
+        },
+        {
+          "startSec": 103.8,
+          "endSec": 104.6,
+          "text": "stuff."
+        },
+        {
+          "startSec": 104.6,
+          "endSec": 105.3,
+          "text": "But"
+        },
+        {
+          "startSec": 105.3,
+          "endSec": 106,
+          "text": "de-growth"
+        },
+        {
+          "startSec": 106,
+          "endSec": 106.5,
+          "text": "is"
+        },
+        {
+          "startSec": 106.5,
+          "endSec": 106.7,
+          "text": "a"
+        },
+        {
+          "startSec": 106.7,
+          "endSec": 107.3,
+          "text": "different"
+        },
+        {
+          "startSec": 107.3,
+          "endSec": 107.4,
+          "text": "way"
+        },
+        {
+          "startSec": 107.4,
+          "endSec": 107.6,
+          "text": "of"
+        },
+        {
+          "startSec": 107.6,
+          "endSec": 108.2,
+          "text": "thinking"
+        }
+      ]
+    },
+    {
+      "startSec": 107.6,
+      "endSec": 113.4,
+      "text": "thinking about things. Some people say that to tackle the climate crisis we need",
+      "words": [
+        {
+          "startSec": 107.6,
+          "endSec": 108.2,
+          "text": "thinking"
+        },
+        {
+          "startSec": 108.2,
+          "endSec": 108.6,
+          "text": "about"
+        },
+        {
+          "startSec": 108.6,
+          "endSec": 109.3,
+          "text": "things."
+        },
+        {
+          "startSec": 109.3,
+          "endSec": 109.7,
+          "text": "Some"
+        },
+        {
+          "startSec": 109.7,
+          "endSec": 110.1,
+          "text": "people"
+        },
+        {
+          "startSec": 110.1,
+          "endSec": 110.4,
+          "text": "say"
+        },
+        {
+          "startSec": 110.4,
+          "endSec": 110.7,
+          "text": "that"
+        },
+        {
+          "startSec": 110.7,
+          "endSec": 110.8,
+          "text": "to"
+        },
+        {
+          "startSec": 110.8,
+          "endSec": 111.3,
+          "text": "tackle"
+        },
+        {
+          "startSec": 111.3,
+          "endSec": 111.6,
+          "text": "the"
+        },
+        {
+          "startSec": 111.6,
+          "endSec": 112.1,
+          "text": "climate"
+        },
+        {
+          "startSec": 112.1,
+          "endSec": 112.6,
+          "text": "crisis"
+        },
+        {
+          "startSec": 112.6,
+          "endSec": 113.2,
+          "text": "we"
+        },
+        {
+          "startSec": 113.2,
+          "endSec": 113.4,
+          "text": "need"
+        },
+        {
+          "startSec": 113.4,
+          "endSec": 113.5,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 113.4,
+      "endSec": 118.2,
+      "text": "to stop our economies from growing. We need to stop using and making more and",
+      "words": [
+        {
+          "startSec": 113.4,
+          "endSec": 113.5,
+          "text": "to"
+        },
+        {
+          "startSec": 113.5,
+          "endSec": 113.8,
+          "text": "stop"
+        },
+        {
+          "startSec": 113.8,
+          "endSec": 114,
+          "text": "our"
+        },
+        {
+          "startSec": 114,
+          "endSec": 114.7,
+          "text": "economies"
+        },
+        {
+          "startSec": 114.7,
+          "endSec": 115,
+          "text": "from"
+        },
+        {
+          "startSec": 115,
+          "endSec": 115.7,
+          "text": "growing."
+        },
+        {
+          "startSec": 115.7,
+          "endSec": 115.9,
+          "text": "We"
+        },
+        {
+          "startSec": 115.9,
+          "endSec": 116.1,
+          "text": "need"
+        },
+        {
+          "startSec": 116.1,
+          "endSec": 116.3,
+          "text": "to"
+        },
+        {
+          "startSec": 116.3,
+          "endSec": 116.6,
+          "text": "stop"
+        },
+        {
+          "startSec": 116.6,
+          "endSec": 116.9,
+          "text": "using"
+        },
+        {
+          "startSec": 116.9,
+          "endSec": 117.1,
+          "text": "and"
+        },
+        {
+          "startSec": 117.1,
+          "endSec": 117.6,
+          "text": "making"
+        },
+        {
+          "startSec": 117.6,
+          "endSec": 118,
+          "text": "more"
+        },
+        {
+          "startSec": 118,
+          "endSec": 118.2,
+          "text": "and"
+        },
+        {
+          "startSec": 118.2,
+          "endSec": 118.6,
+          "text": "focus"
+        }
+      ]
+    },
+    {
+      "startSec": 118.2,
+      "endSec": 123.6,
+      "text": "focus on using fewer of the Earth's natural resources. The people who support",
+      "words": [
+        {
+          "startSec": 118.2,
+          "endSec": 118.6,
+          "text": "focus"
+        },
+        {
+          "startSec": 118.6,
+          "endSec": 118.7,
+          "text": "on"
+        },
+        {
+          "startSec": 118.7,
+          "endSec": 119.1,
+          "text": "using"
+        },
+        {
+          "startSec": 119.1,
+          "endSec": 119.6,
+          "text": "fewer"
+        },
+        {
+          "startSec": 119.6,
+          "endSec": 119.7,
+          "text": "of"
+        },
+        {
+          "startSec": 119.7,
+          "endSec": 120,
+          "text": "the"
+        },
+        {
+          "startSec": 120,
+          "endSec": 120.5,
+          "text": "Earth's"
+        },
+        {
+          "startSec": 120.5,
+          "endSec": 121.1,
+          "text": "natural"
+        },
+        {
+          "startSec": 121.1,
+          "endSec": 122.1,
+          "text": "resources."
+        },
+        {
+          "startSec": 122.1,
+          "endSec": 122.3,
+          "text": "The"
+        },
+        {
+          "startSec": 122.3,
+          "endSec": 122.8,
+          "text": "people"
+        },
+        {
+          "startSec": 122.8,
+          "endSec": 123.1,
+          "text": "who"
+        },
+        {
+          "startSec": 123.1,
+          "endSec": 123.6,
+          "text": "support"
+        },
+        {
+          "startSec": 123.6,
+          "endSec": 123.9,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 123.6,
+      "endSec": 129.8,
+      "text": "the idea of de-growth are often called de-growthers. Right, okay, so de-growthers",
+      "words": [
+        {
+          "startSec": 123.6,
+          "endSec": 123.9,
+          "text": "the"
+        },
+        {
+          "startSec": 123.9,
+          "endSec": 124.2,
+          "text": "idea"
+        },
+        {
+          "startSec": 124.2,
+          "endSec": 124.3,
+          "text": "of"
+        },
+        {
+          "startSec": 124.3,
+          "endSec": 125,
+          "text": "de-growth"
+        },
+        {
+          "startSec": 125,
+          "endSec": 125.2,
+          "text": "are"
+        },
+        {
+          "startSec": 125.2,
+          "endSec": 125.6,
+          "text": "often"
+        },
+        {
+          "startSec": 125.6,
+          "endSec": 126.1,
+          "text": "called"
+        },
+        {
+          "startSec": 126.1,
+          "endSec": 127.2,
+          "text": "de-growthers."
+        },
+        {
+          "startSec": 127.2,
+          "endSec": 127.8,
+          "text": "Right,"
+        },
+        {
+          "startSec": 127.8,
+          "endSec": 128.2,
+          "text": "okay,"
+        },
+        {
+          "startSec": 128.2,
+          "endSec": 128.6,
+          "text": "so"
+        },
+        {
+          "startSec": 128.6,
+          "endSec": 129.8,
+          "text": "de-growthers"
+        }
+      ]
+    },
+    {
+      "startSec": 129.8,
+      "endSec": 136.1,
+      "text": "argue we should make and use less stuff. Yes, mostly. It's a little bit more",
+      "words": [
+        {
+          "startSec": 129.9,
+          "endSec": 130.3,
+          "text": "argue"
+        },
+        {
+          "startSec": 130.3,
+          "endSec": 130.5,
+          "text": "we"
+        },
+        {
+          "startSec": 130.5,
+          "endSec": 131,
+          "text": "should"
+        },
+        {
+          "startSec": 131,
+          "endSec": 131.4,
+          "text": "make"
+        },
+        {
+          "startSec": 131.4,
+          "endSec": 131.7,
+          "text": "and"
+        },
+        {
+          "startSec": 131.7,
+          "endSec": 132,
+          "text": "use"
+        },
+        {
+          "startSec": 132,
+          "endSec": 132.4,
+          "text": "less"
+        },
+        {
+          "startSec": 132.4,
+          "endSec": 133.2,
+          "text": "stuff."
+        },
+        {
+          "startSec": 133.2,
+          "endSec": 133.8,
+          "text": "Yes,"
+        },
+        {
+          "startSec": 133.8,
+          "endSec": 135.1,
+          "text": "mostly."
+        },
+        {
+          "startSec": 135.1,
+          "endSec": 135.3,
+          "text": "It's"
+        },
+        {
+          "startSec": 135.3,
+          "endSec": 135.3,
+          "text": "a"
+        },
+        {
+          "startSec": 135.3,
+          "endSec": 135.7,
+          "text": "little"
+        },
+        {
+          "startSec": 135.7,
+          "endSec": 135.8,
+          "text": "bit"
+        },
+        {
+          "startSec": 135.8,
+          "endSec": 136.1,
+          "text": "more"
+        },
+        {
+          "startSec": 136.1,
+          "endSec": 136.6,
+          "text": "complex"
+        }
+      ]
+    },
+    {
+      "startSec": 136.1,
+      "endSec": 140.8,
+      "text": "complex than that and I spoke to BBC journalist Alvaro Alvarez who told me",
+      "words": [
+        {
+          "startSec": 136.1,
+          "endSec": 136.6,
+          "text": "complex"
+        },
+        {
+          "startSec": 136.6,
+          "endSec": 136.9,
+          "text": "than"
+        },
+        {
+          "startSec": 136.9,
+          "endSec": 137.3,
+          "text": "that"
+        },
+        {
+          "startSec": 137.3,
+          "endSec": 137.5,
+          "text": "and"
+        },
+        {
+          "startSec": 137.5,
+          "endSec": 137.6,
+          "text": "I"
+        },
+        {
+          "startSec": 137.6,
+          "endSec": 137.9,
+          "text": "spoke"
+        },
+        {
+          "startSec": 137.9,
+          "endSec": 138.1,
+          "text": "to"
+        },
+        {
+          "startSec": 138.1,
+          "endSec": 138.3,
+          "text": "BBC"
+        },
+        {
+          "startSec": 138.3,
+          "endSec": 139.1,
+          "text": "journalist"
+        },
+        {
+          "startSec": 139.1,
+          "endSec": 139.6,
+          "text": "Alvaro"
+        },
+        {
+          "startSec": 139.6,
+          "endSec": 140.2,
+          "text": "Alvarez"
+        },
+        {
+          "startSec": 140.2,
+          "endSec": 140.4,
+          "text": "who"
+        },
+        {
+          "startSec": 140.4,
+          "endSec": 140.7,
+          "text": "told"
+        },
+        {
+          "startSec": 140.7,
+          "endSec": 140.8,
+          "text": "me"
+        },
+        {
+          "startSec": 140.8,
+          "endSec": 141.1,
+          "text": "more"
+        }
+      ]
+    },
+    {
+      "startSec": 140.8,
+      "endSec": 145.7,
+      "text": "more about the idea. So de-growth is not saying that we need to reduce everything.",
+      "words": [
+        {
+          "startSec": 140.8,
+          "endSec": 141.1,
+          "text": "more"
+        },
+        {
+          "startSec": 141.1,
+          "endSec": 141.5,
+          "text": "about"
+        },
+        {
+          "startSec": 141.5,
+          "endSec": 141.7,
+          "text": "the"
+        },
+        {
+          "startSec": 141.7,
+          "endSec": 142.2,
+          "text": "idea."
+        },
+        {
+          "startSec": 142.2,
+          "endSec": 142.3,
+          "text": "So"
+        },
+        {
+          "startSec": 142.3,
+          "endSec": 143,
+          "text": "de-growth"
+        },
+        {
+          "startSec": 143,
+          "endSec": 143.1,
+          "text": "is"
+        },
+        {
+          "startSec": 143.1,
+          "endSec": 143.3,
+          "text": "not"
+        },
+        {
+          "startSec": 143.3,
+          "endSec": 143.8,
+          "text": "saying"
+        },
+        {
+          "startSec": 143.8,
+          "endSec": 144.1,
+          "text": "that"
+        },
+        {
+          "startSec": 144.1,
+          "endSec": 144.2,
+          "text": "we"
+        },
+        {
+          "startSec": 144.2,
+          "endSec": 144.5,
+          "text": "need"
+        },
+        {
+          "startSec": 144.5,
+          "endSec": 144.6,
+          "text": "to"
+        },
+        {
+          "startSec": 144.6,
+          "endSec": 145.2,
+          "text": "reduce"
+        },
+        {
+          "startSec": 145.2,
+          "endSec": 145.7,
+          "text": "everything."
+        },
+        {
+          "startSec": 145.7,
+          "endSec": 146.1,
+          "text": "It's"
+        }
+      ]
+    },
+    {
+      "startSec": 145.7,
+      "endSec": 151.2,
+      "text": "It's saying that we need to decrease some elements of our production that are",
+      "words": [
+        {
+          "startSec": 145.7,
+          "endSec": 146.1,
+          "text": "It's"
+        },
+        {
+          "startSec": 146.1,
+          "endSec": 146.6,
+          "text": "saying"
+        },
+        {
+          "startSec": 146.6,
+          "endSec": 146.9,
+          "text": "that"
+        },
+        {
+          "startSec": 146.9,
+          "endSec": 147.1,
+          "text": "we"
+        },
+        {
+          "startSec": 147.1,
+          "endSec": 147.4,
+          "text": "need"
+        },
+        {
+          "startSec": 147.4,
+          "endSec": 147.6,
+          "text": "to"
+        },
+        {
+          "startSec": 147.6,
+          "endSec": 148.3,
+          "text": "decrease"
+        },
+        {
+          "startSec": 148.3,
+          "endSec": 148.6,
+          "text": "some"
+        },
+        {
+          "startSec": 148.6,
+          "endSec": 149.3,
+          "text": "elements"
+        },
+        {
+          "startSec": 149.3,
+          "endSec": 149.5,
+          "text": "of"
+        },
+        {
+          "startSec": 149.5,
+          "endSec": 149.7,
+          "text": "our"
+        },
+        {
+          "startSec": 149.7,
+          "endSec": 150.6,
+          "text": "production"
+        },
+        {
+          "startSec": 150.6,
+          "endSec": 150.9,
+          "text": "that"
+        },
+        {
+          "startSec": 150.9,
+          "endSec": 151.2,
+          "text": "are"
+        },
+        {
+          "startSec": 151.2,
+          "endSec": 151.4,
+          "text": "not"
+        }
+      ]
+    },
+    {
+      "startSec": 151.2,
+      "endSec": 156.9,
+      "text": "not beneficial. An example of those elements would be fast fashion, private",
+      "words": [
+        {
+          "startSec": 151.2,
+          "endSec": 151.4,
+          "text": "not"
+        },
+        {
+          "startSec": 151.4,
+          "endSec": 152.5,
+          "text": "beneficial."
+        },
+        {
+          "startSec": 152.5,
+          "endSec": 152.7,
+          "text": "An"
+        },
+        {
+          "startSec": 152.7,
+          "endSec": 153.3,
+          "text": "example"
+        },
+        {
+          "startSec": 153.3,
+          "endSec": 153.4,
+          "text": "of"
+        },
+        {
+          "startSec": 153.4,
+          "endSec": 153.9,
+          "text": "those"
+        },
+        {
+          "startSec": 153.9,
+          "endSec": 154.5,
+          "text": "elements"
+        },
+        {
+          "startSec": 154.5,
+          "endSec": 154.9,
+          "text": "would"
+        },
+        {
+          "startSec": 154.9,
+          "endSec": 155.1,
+          "text": "be"
+        },
+        {
+          "startSec": 155.1,
+          "endSec": 155.4,
+          "text": "fast"
+        },
+        {
+          "startSec": 155.4,
+          "endSec": 156.3,
+          "text": "fashion,"
+        },
+        {
+          "startSec": 156.3,
+          "endSec": 156.9,
+          "text": "private"
+        }
+      ]
+    },
+    {
+      "startSec": 156.9,
+      "endSec": 162.3,
+      "text": "jets, the beef and meat industry. So it's not about decreasing everything.",
+      "words": [
+        {
+          "startSec": 157,
+          "endSec": 157.4,
+          "text": "jets,"
+        },
+        {
+          "startSec": 157.4,
+          "endSec": 157.6,
+          "text": "the"
+        },
+        {
+          "startSec": 157.6,
+          "endSec": 157.9,
+          "text": "beef"
+        },
+        {
+          "startSec": 157.9,
+          "endSec": 158.2,
+          "text": "and"
+        },
+        {
+          "startSec": 158.2,
+          "endSec": 158.5,
+          "text": "meat"
+        },
+        {
+          "startSec": 158.5,
+          "endSec": 159.4,
+          "text": "industry."
+        },
+        {
+          "startSec": 159.4,
+          "endSec": 159.6,
+          "text": "So"
+        },
+        {
+          "startSec": 159.6,
+          "endSec": 159.9,
+          "text": "it's"
+        },
+        {
+          "startSec": 159.9,
+          "endSec": 160.1,
+          "text": "not"
+        },
+        {
+          "startSec": 160.1,
+          "endSec": 160.5,
+          "text": "about"
+        },
+        {
+          "startSec": 160.5,
+          "endSec": 161.4,
+          "text": "decreasing"
+        },
+        {
+          "startSec": 161.4,
+          "endSec": 162.3,
+          "text": "everything."
+        },
+        {
+          "startSec": 162.3,
+          "endSec": 162.8,
+          "text": "Alvaro"
+        }
+      ]
+    },
+    {
+      "startSec": 162.3,
+      "endSec": 167.6,
+      "text": "Alvaro says that de-growthers believe we should reduce some elements of",
+      "words": [
+        {
+          "startSec": 162.3,
+          "endSec": 162.8,
+          "text": "Alvaro"
+        },
+        {
+          "startSec": 162.8,
+          "endSec": 163.2,
+          "text": "says"
+        },
+        {
+          "startSec": 163.2,
+          "endSec": 163.5,
+          "text": "that"
+        },
+        {
+          "startSec": 163.5,
+          "endSec": 164.5,
+          "text": "de-growthers"
+        },
+        {
+          "startSec": 164.5,
+          "endSec": 165.1,
+          "text": "believe"
+        },
+        {
+          "startSec": 165.1,
+          "endSec": 165.3,
+          "text": "we"
+        },
+        {
+          "startSec": 165.3,
+          "endSec": 165.7,
+          "text": "should"
+        },
+        {
+          "startSec": 165.7,
+          "endSec": 166,
+          "text": "reduce"
+        },
+        {
+          "startSec": 166,
+          "endSec": 166.5,
+          "text": "some"
+        },
+        {
+          "startSec": 166.5,
+          "endSec": 167.4,
+          "text": "elements"
+        },
+        {
+          "startSec": 167.4,
+          "endSec": 167.6,
+          "text": "of"
+        },
+        {
+          "startSec": 167.6,
+          "endSec": 168.6,
+          "text": "production."
+        }
+      ]
+    },
+    {
+      "startSec": 167.6,
+      "endSec": 173.2,
+      "text": "production. An element of something is a part of something. And according to Alvaro,",
+      "words": [
+        {
+          "startSec": 167.6,
+          "endSec": 168.6,
+          "text": "production."
+        },
+        {
+          "startSec": 168.6,
+          "endSec": 168.7,
+          "text": "An"
+        },
+        {
+          "startSec": 168.7,
+          "endSec": 169.3,
+          "text": "element"
+        },
+        {
+          "startSec": 169.3,
+          "endSec": 169.4,
+          "text": "of"
+        },
+        {
+          "startSec": 169.4,
+          "endSec": 170.1,
+          "text": "something"
+        },
+        {
+          "startSec": 170.1,
+          "endSec": 170.2,
+          "text": "is"
+        },
+        {
+          "startSec": 170.2,
+          "endSec": 170.3,
+          "text": "a"
+        },
+        {
+          "startSec": 170.3,
+          "endSec": 170.6,
+          "text": "part"
+        },
+        {
+          "startSec": 170.6,
+          "endSec": 170.8,
+          "text": "of"
+        },
+        {
+          "startSec": 170.8,
+          "endSec": 171.5,
+          "text": "something."
+        },
+        {
+          "startSec": 171.5,
+          "endSec": 171.7,
+          "text": "And"
+        },
+        {
+          "startSec": 171.7,
+          "endSec": 172.5,
+          "text": "according"
+        },
+        {
+          "startSec": 172.5,
+          "endSec": 172.6,
+          "text": "to"
+        },
+        {
+          "startSec": 172.6,
+          "endSec": 173.2,
+          "text": "Alvaro,"
+        },
+        {
+          "startSec": 173.2,
+          "endSec": 173.6,
+          "text": "these"
+        }
+      ]
+    },
+    {
+      "startSec": 173.2,
+      "endSec": 178.7,
+      "text": "these elements of production are not believed to be beneficial. If something's",
+      "words": [
+        {
+          "startSec": 173.2,
+          "endSec": 173.6,
+          "text": "these"
+        },
+        {
+          "startSec": 173.6,
+          "endSec": 174.3,
+          "text": "elements"
+        },
+        {
+          "startSec": 174.3,
+          "endSec": 174.5,
+          "text": "of"
+        },
+        {
+          "startSec": 174.5,
+          "endSec": 175.3,
+          "text": "production"
+        },
+        {
+          "startSec": 175.3,
+          "endSec": 175.6,
+          "text": "are"
+        },
+        {
+          "startSec": 175.6,
+          "endSec": 175.8,
+          "text": "not"
+        },
+        {
+          "startSec": 175.8,
+          "endSec": 176.5,
+          "text": "believed"
+        },
+        {
+          "startSec": 176.5,
+          "endSec": 176.7,
+          "text": "to"
+        },
+        {
+          "startSec": 176.7,
+          "endSec": 176.8,
+          "text": "be"
+        },
+        {
+          "startSec": 176.8,
+          "endSec": 178,
+          "text": "beneficial."
+        },
+        {
+          "startSec": 178,
+          "endSec": 178.1,
+          "text": "If"
+        },
+        {
+          "startSec": 178.1,
+          "endSec": 178.7,
+          "text": "something's"
+        },
+        {
+          "startSec": 178.7,
+          "endSec": 179.8,
+          "text": "beneficial,"
+        }
+      ]
+    },
+    {
+      "startSec": 178.7,
+      "endSec": 184.3,
+      "text": "beneficial, it's useful or good. One example of a kind of production that de-growthers",
+      "words": [
+        {
+          "startSec": 178.7,
+          "endSec": 179.8,
+          "text": "beneficial,"
+        },
+        {
+          "startSec": 179.8,
+          "endSec": 180.1,
+          "text": "it's"
+        },
+        {
+          "startSec": 180.1,
+          "endSec": 180.6,
+          "text": "useful"
+        },
+        {
+          "startSec": 180.6,
+          "endSec": 180.8,
+          "text": "or"
+        },
+        {
+          "startSec": 180.8,
+          "endSec": 181.4,
+          "text": "good."
+        },
+        {
+          "startSec": 181.4,
+          "endSec": 181.6,
+          "text": "One"
+        },
+        {
+          "startSec": 181.6,
+          "endSec": 182.2,
+          "text": "example"
+        },
+        {
+          "startSec": 182.2,
+          "endSec": 182.4,
+          "text": "of"
+        },
+        {
+          "startSec": 182.4,
+          "endSec": 182.5,
+          "text": "a"
+        },
+        {
+          "startSec": 182.5,
+          "endSec": 182.8,
+          "text": "kind"
+        },
+        {
+          "startSec": 182.8,
+          "endSec": 183,
+          "text": "of"
+        },
+        {
+          "startSec": 183,
+          "endSec": 183.6,
+          "text": "production"
+        },
+        {
+          "startSec": 183.6,
+          "endSec": 183.7,
+          "text": "that"
+        },
+        {
+          "startSec": 183.7,
+          "endSec": 184.3,
+          "text": "de-growthers"
+        }
+      ]
+    },
+    {
+      "startSec": 184.3,
+      "endSec": 189.9,
+      "text": "disagree with is fast fashion. Fast fashion refers to clothes that are made",
+      "words": [
+        {
+          "startSec": 184.5,
+          "endSec": 185.1,
+          "text": "disagree"
+        },
+        {
+          "startSec": 185.1,
+          "endSec": 185.5,
+          "text": "with"
+        },
+        {
+          "startSec": 185.5,
+          "endSec": 185.7,
+          "text": "is"
+        },
+        {
+          "startSec": 185.7,
+          "endSec": 186.1,
+          "text": "fast"
+        },
+        {
+          "startSec": 186.1,
+          "endSec": 187.1,
+          "text": "fashion."
+        },
+        {
+          "startSec": 187.1,
+          "endSec": 187.5,
+          "text": "Fast"
+        },
+        {
+          "startSec": 187.5,
+          "endSec": 188.2,
+          "text": "fashion"
+        },
+        {
+          "startSec": 188.2,
+          "endSec": 188.8,
+          "text": "refers"
+        },
+        {
+          "startSec": 188.8,
+          "endSec": 189,
+          "text": "to"
+        },
+        {
+          "startSec": 189,
+          "endSec": 189.4,
+          "text": "clothes"
+        },
+        {
+          "startSec": 189.4,
+          "endSec": 189.7,
+          "text": "that"
+        },
+        {
+          "startSec": 189.7,
+          "endSec": 189.8,
+          "text": "are"
+        },
+        {
+          "startSec": 189.8,
+          "endSec": 189.9,
+          "text": "made"
+        },
+        {
+          "startSec": 189.9,
+          "endSec": 190.2,
+          "text": "very"
+        }
+      ]
+    },
+    {
+      "startSec": 189.9,
+      "endSec": 194.7,
+      "text": "very cheaply and quickly so that customers can afford to buy new outfits",
+      "words": [
+        {
+          "startSec": 189.9,
+          "endSec": 190.2,
+          "text": "very"
+        },
+        {
+          "startSec": 190.2,
+          "endSec": 190.8,
+          "text": "cheaply"
+        },
+        {
+          "startSec": 190.8,
+          "endSec": 191,
+          "text": "and"
+        },
+        {
+          "startSec": 191,
+          "endSec": 191.6,
+          "text": "quickly"
+        },
+        {
+          "startSec": 191.6,
+          "endSec": 191.8,
+          "text": "so"
+        },
+        {
+          "startSec": 191.8,
+          "endSec": 192.1,
+          "text": "that"
+        },
+        {
+          "startSec": 192.1,
+          "endSec": 192.8,
+          "text": "customers"
+        },
+        {
+          "startSec": 192.8,
+          "endSec": 193,
+          "text": "can"
+        },
+        {
+          "startSec": 193,
+          "endSec": 193.5,
+          "text": "afford"
+        },
+        {
+          "startSec": 193.5,
+          "endSec": 193.7,
+          "text": "to"
+        },
+        {
+          "startSec": 193.7,
+          "endSec": 193.9,
+          "text": "buy"
+        },
+        {
+          "startSec": 193.9,
+          "endSec": 194.2,
+          "text": "new"
+        },
+        {
+          "startSec": 194.2,
+          "endSec": 194.7,
+          "text": "outfits"
+        },
+        {
+          "startSec": 194.7,
+          "endSec": 195.1,
+          "text": "more"
+        }
+      ]
+    },
+    {
+      "startSec": 194.7,
+      "endSec": 201.7,
+      "text": "more often. Exactly. And before we go any further, many economists do not think",
+      "words": [
+        {
+          "startSec": 194.7,
+          "endSec": 195.1,
+          "text": "more"
+        },
+        {
+          "startSec": 195.1,
+          "endSec": 195.9,
+          "text": "often."
+        },
+        {
+          "startSec": 195.9,
+          "endSec": 196.9,
+          "text": "Exactly."
+        },
+        {
+          "startSec": 196.9,
+          "endSec": 197.2,
+          "text": "And"
+        },
+        {
+          "startSec": 197.2,
+          "endSec": 197.8,
+          "text": "before"
+        },
+        {
+          "startSec": 197.8,
+          "endSec": 198,
+          "text": "we"
+        },
+        {
+          "startSec": 198,
+          "endSec": 198.2,
+          "text": "go"
+        },
+        {
+          "startSec": 198.2,
+          "endSec": 198.5,
+          "text": "any"
+        },
+        {
+          "startSec": 198.5,
+          "endSec": 199.4,
+          "text": "further,"
+        },
+        {
+          "startSec": 199.4,
+          "endSec": 200,
+          "text": "many"
+        },
+        {
+          "startSec": 200,
+          "endSec": 200.8,
+          "text": "economists"
+        },
+        {
+          "startSec": 200.8,
+          "endSec": 201,
+          "text": "do"
+        },
+        {
+          "startSec": 201,
+          "endSec": 201.4,
+          "text": "not"
+        },
+        {
+          "startSec": 201.4,
+          "endSec": 201.7,
+          "text": "think"
+        },
+        {
+          "startSec": 201.7,
+          "endSec": 202,
+          "text": "that"
+        }
+      ]
+    },
+    {
+      "startSec": 201.7,
+      "endSec": 206.6,
+      "text": "that de-growth is a good idea. Some of them argue that it would create more",
+      "words": [
+        {
+          "startSec": 201.7,
+          "endSec": 202,
+          "text": "that"
+        },
+        {
+          "startSec": 202,
+          "endSec": 202.7,
+          "text": "de-growth"
+        },
+        {
+          "startSec": 202.7,
+          "endSec": 202.8,
+          "text": "is"
+        },
+        {
+          "startSec": 202.8,
+          "endSec": 202.9,
+          "text": "a"
+        },
+        {
+          "startSec": 202.9,
+          "endSec": 203.2,
+          "text": "good"
+        },
+        {
+          "startSec": 203.2,
+          "endSec": 203.7,
+          "text": "idea."
+        },
+        {
+          "startSec": 203.7,
+          "endSec": 204,
+          "text": "Some"
+        },
+        {
+          "startSec": 204,
+          "endSec": 204.2,
+          "text": "of"
+        },
+        {
+          "startSec": 204.2,
+          "endSec": 204.5,
+          "text": "them"
+        },
+        {
+          "startSec": 204.5,
+          "endSec": 204.9,
+          "text": "argue"
+        },
+        {
+          "startSec": 204.9,
+          "endSec": 205.2,
+          "text": "that"
+        },
+        {
+          "startSec": 205.2,
+          "endSec": 205.3,
+          "text": "it"
+        },
+        {
+          "startSec": 205.3,
+          "endSec": 205.7,
+          "text": "would"
+        },
+        {
+          "startSec": 205.7,
+          "endSec": 206.2,
+          "text": "create"
+        },
+        {
+          "startSec": 206.2,
+          "endSec": 206.6,
+          "text": "more"
+        },
+        {
+          "startSec": 206.6,
+          "endSec": 207.1,
+          "text": "poverty"
+        }
+      ]
+    },
+    {
+      "startSec": 206.6,
+      "endSec": 211.1,
+      "text": "poverty and some economists believe de-growth would actually make it harder",
+      "words": [
+        {
+          "startSec": 206.6,
+          "endSec": 207.1,
+          "text": "poverty"
+        },
+        {
+          "startSec": 207.1,
+          "endSec": 207.3,
+          "text": "and"
+        },
+        {
+          "startSec": 207.3,
+          "endSec": 207.6,
+          "text": "some"
+        },
+        {
+          "startSec": 207.6,
+          "endSec": 208.3,
+          "text": "economists"
+        },
+        {
+          "startSec": 208.3,
+          "endSec": 208.7,
+          "text": "believe"
+        },
+        {
+          "startSec": 208.7,
+          "endSec": 209.3,
+          "text": "de-growth"
+        },
+        {
+          "startSec": 209.3,
+          "endSec": 209.7,
+          "text": "would"
+        },
+        {
+          "startSec": 209.7,
+          "endSec": 210.2,
+          "text": "actually"
+        },
+        {
+          "startSec": 210.2,
+          "endSec": 210.5,
+          "text": "make"
+        },
+        {
+          "startSec": 210.5,
+          "endSec": 210.7,
+          "text": "it"
+        },
+        {
+          "startSec": 210.7,
+          "endSec": 211.1,
+          "text": "harder"
+        }
+      ]
+    },
+    {
+      "startSec": 211.1,
+      "endSec": 216.2,
+      "text": "to solve the climate crisis. For example, Professor Sam Frankhauser, an",
+      "words": [
+        {
+          "startSec": 211.2,
+          "endSec": 211.2,
+          "text": "to"
+        },
+        {
+          "startSec": 211.2,
+          "endSec": 211.6,
+          "text": "solve"
+        },
+        {
+          "startSec": 211.6,
+          "endSec": 211.9,
+          "text": "the"
+        },
+        {
+          "startSec": 211.9,
+          "endSec": 212.4,
+          "text": "climate"
+        },
+        {
+          "startSec": 212.4,
+          "endSec": 213.2,
+          "text": "crisis."
+        },
+        {
+          "startSec": 213.2,
+          "endSec": 213.4,
+          "text": "For"
+        },
+        {
+          "startSec": 213.4,
+          "endSec": 214.1,
+          "text": "example,"
+        },
+        {
+          "startSec": 214.1,
+          "endSec": 214.8,
+          "text": "Professor"
+        },
+        {
+          "startSec": 214.8,
+          "endSec": 215.1,
+          "text": "Sam"
+        },
+        {
+          "startSec": 215.1,
+          "endSec": 216.1,
+          "text": "Frankhauser,"
+        },
+        {
+          "startSec": 216.1,
+          "endSec": 216.2,
+          "text": "an"
+        },
+        {
+          "startSec": 216.2,
+          "endSec": 216.9,
+          "text": "economist"
+        }
+      ]
+    },
+    {
+      "startSec": 216.2,
+      "endSec": 221.2,
+      "text": "economist at Cambridge University in the UK, spoke to you on what in the world.",
+      "words": [
+        {
+          "startSec": 216.2,
+          "endSec": 216.9,
+          "text": "economist"
+        },
+        {
+          "startSec": 216.9,
+          "endSec": 217,
+          "text": "at"
+        },
+        {
+          "startSec": 217,
+          "endSec": 217.7,
+          "text": "Cambridge"
+        },
+        {
+          "startSec": 217.7,
+          "endSec": 218.5,
+          "text": "University"
+        },
+        {
+          "startSec": 218.5,
+          "endSec": 218.7,
+          "text": "in"
+        },
+        {
+          "startSec": 218.7,
+          "endSec": 218.9,
+          "text": "the"
+        },
+        {
+          "startSec": 218.9,
+          "endSec": 219.2,
+          "text": "UK,"
+        },
+        {
+          "startSec": 219.2,
+          "endSec": 219.6,
+          "text": "spoke"
+        },
+        {
+          "startSec": 219.6,
+          "endSec": 219.7,
+          "text": "to"
+        },
+        {
+          "startSec": 219.7,
+          "endSec": 219.9,
+          "text": "you"
+        },
+        {
+          "startSec": 219.9,
+          "endSec": 220.2,
+          "text": "on"
+        },
+        {
+          "startSec": 220.2,
+          "endSec": 220.5,
+          "text": "what"
+        },
+        {
+          "startSec": 220.5,
+          "endSec": 220.7,
+          "text": "in"
+        },
+        {
+          "startSec": 220.7,
+          "endSec": 221,
+          "text": "the"
+        },
+        {
+          "startSec": 221,
+          "endSec": 221.2,
+          "text": "world."
+        },
+        {
+          "startSec": 221.2,
+          "endSec": 221.5,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 221.2,
+      "endSec": 227.4,
+      "text": "And he argues that de-growth could limit innovation. I think de-growth",
+      "words": [
+        {
+          "startSec": 221.2,
+          "endSec": 221.5,
+          "text": "And"
+        },
+        {
+          "startSec": 221.5,
+          "endSec": 221.7,
+          "text": "he"
+        },
+        {
+          "startSec": 221.7,
+          "endSec": 222.3,
+          "text": "argues"
+        },
+        {
+          "startSec": 222.3,
+          "endSec": 222.7,
+          "text": "that"
+        },
+        {
+          "startSec": 222.7,
+          "endSec": 223.5,
+          "text": "de-growth"
+        },
+        {
+          "startSec": 223.5,
+          "endSec": 224,
+          "text": "could"
+        },
+        {
+          "startSec": 224,
+          "endSec": 224.5,
+          "text": "limit"
+        },
+        {
+          "startSec": 224.5,
+          "endSec": 225.8,
+          "text": "innovation."
+        },
+        {
+          "startSec": 225.8,
+          "endSec": 226,
+          "text": "I"
+        },
+        {
+          "startSec": 226,
+          "endSec": 226.7,
+          "text": "think"
+        },
+        {
+          "startSec": 226.7,
+          "endSec": 227.4,
+          "text": "de-growth"
+        },
+        {
+          "startSec": 227.4,
+          "endSec": 228.6,
+          "text": "underestimates"
+        }
+      ]
+    },
+    {
+      "startSec": 227.4,
+      "endSec": 233.5,
+      "text": "underestimates the power of innovation. De-growth underestimates the need for",
+      "words": [
+        {
+          "startSec": 227.4,
+          "endSec": 228.6,
+          "text": "underestimates"
+        },
+        {
+          "startSec": 228.6,
+          "endSec": 228.9,
+          "text": "the"
+        },
+        {
+          "startSec": 228.9,
+          "endSec": 229.3,
+          "text": "power"
+        },
+        {
+          "startSec": 229.3,
+          "endSec": 229.5,
+          "text": "of"
+        },
+        {
+          "startSec": 229.5,
+          "endSec": 230.6,
+          "text": "innovation."
+        },
+        {
+          "startSec": 230.6,
+          "endSec": 231.4,
+          "text": "De-growth"
+        },
+        {
+          "startSec": 231.4,
+          "endSec": 232.6,
+          "text": "underestimates"
+        },
+        {
+          "startSec": 232.6,
+          "endSec": 233,
+          "text": "the"
+        },
+        {
+          "startSec": 233,
+          "endSec": 233.2,
+          "text": "need"
+        },
+        {
+          "startSec": 233.2,
+          "endSec": 233.5,
+          "text": "for"
+        },
+        {
+          "startSec": 233.5,
+          "endSec": 234.3,
+          "text": "investment"
+        }
+      ]
+    },
+    {
+      "startSec": 233.5,
+      "endSec": 238.4,
+      "text": "investment that we need in new technology and in new solutions. And",
+      "words": [
+        {
+          "startSec": 233.5,
+          "endSec": 234.3,
+          "text": "investment"
+        },
+        {
+          "startSec": 234.3,
+          "endSec": 234.6,
+          "text": "that"
+        },
+        {
+          "startSec": 234.6,
+          "endSec": 234.7,
+          "text": "we"
+        },
+        {
+          "startSec": 234.7,
+          "endSec": 235,
+          "text": "need"
+        },
+        {
+          "startSec": 235,
+          "endSec": 235.2,
+          "text": "in"
+        },
+        {
+          "startSec": 235.2,
+          "endSec": 235.4,
+          "text": "new"
+        },
+        {
+          "startSec": 235.4,
+          "endSec": 236.2,
+          "text": "technology"
+        },
+        {
+          "startSec": 236.2,
+          "endSec": 236.4,
+          "text": "and"
+        },
+        {
+          "startSec": 236.4,
+          "endSec": 236.6,
+          "text": "in"
+        },
+        {
+          "startSec": 236.6,
+          "endSec": 236.9,
+          "text": "new"
+        },
+        {
+          "startSec": 236.9,
+          "endSec": 238.2,
+          "text": "solutions."
+        },
+        {
+          "startSec": 238.2,
+          "endSec": 238.4,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 238.4,
+      "endSec": 244.6,
+      "text": "de-growth underestimates the social sort of feasibility of what they propose.",
+      "words": [
+        {
+          "startSec": 238.5,
+          "endSec": 239.3,
+          "text": "de-growth"
+        },
+        {
+          "startSec": 239.3,
+          "endSec": 240.7,
+          "text": "underestimates"
+        },
+        {
+          "startSec": 240.7,
+          "endSec": 241.1,
+          "text": "the"
+        },
+        {
+          "startSec": 241.1,
+          "endSec": 241.7,
+          "text": "social"
+        },
+        {
+          "startSec": 241.7,
+          "endSec": 242.1,
+          "text": "sort"
+        },
+        {
+          "startSec": 242.1,
+          "endSec": 242.3,
+          "text": "of"
+        },
+        {
+          "startSec": 242.3,
+          "endSec": 243.4,
+          "text": "feasibility"
+        },
+        {
+          "startSec": 243.4,
+          "endSec": 243.7,
+          "text": "of"
+        },
+        {
+          "startSec": 243.7,
+          "endSec": 243.9,
+          "text": "what"
+        },
+        {
+          "startSec": 243.9,
+          "endSec": 244.2,
+          "text": "they"
+        },
+        {
+          "startSec": 244.2,
+          "endSec": 244.6,
+          "text": "propose."
+        },
+        {
+          "startSec": 244.6,
+          "endSec": 244.8,
+          "text": "So"
+        }
+      ]
+    },
+    {
+      "startSec": 244.6,
+      "endSec": 250.5,
+      "text": "So Professor Frankhauser thinks that de-growth underestimates many things,",
+      "words": [
+        {
+          "startSec": 244.6,
+          "endSec": 244.8,
+          "text": "So"
+        },
+        {
+          "startSec": 244.8,
+          "endSec": 245.7,
+          "text": "Professor"
+        },
+        {
+          "startSec": 245.7,
+          "endSec": 246.8,
+          "text": "Frankhauser"
+        },
+        {
+          "startSec": 246.8,
+          "endSec": 247.4,
+          "text": "thinks"
+        },
+        {
+          "startSec": 247.4,
+          "endSec": 247.8,
+          "text": "that"
+        },
+        {
+          "startSec": 247.8,
+          "endSec": 248.7,
+          "text": "de-growth"
+        },
+        {
+          "startSec": 248.7,
+          "endSec": 249.8,
+          "text": "underestimates"
+        },
+        {
+          "startSec": 249.8,
+          "endSec": 250.2,
+          "text": "many"
+        },
+        {
+          "startSec": 250.2,
+          "endSec": 250.5,
+          "text": "things,"
+        },
+        {
+          "startSec": 250.5,
+          "endSec": 250.8,
+          "text": "such"
+        }
+      ]
+    },
+    {
+      "startSec": 250.5,
+      "endSec": 255.8,
+      "text": "such as innovation. If you underestimate something, you don't understand the true",
+      "words": [
+        {
+          "startSec": 250.5,
+          "endSec": 250.8,
+          "text": "such"
+        },
+        {
+          "startSec": 250.8,
+          "endSec": 251,
+          "text": "as"
+        },
+        {
+          "startSec": 251,
+          "endSec": 252.1,
+          "text": "innovation."
+        },
+        {
+          "startSec": 252.1,
+          "endSec": 252.3,
+          "text": "If"
+        },
+        {
+          "startSec": 252.3,
+          "endSec": 252.5,
+          "text": "you"
+        },
+        {
+          "startSec": 252.5,
+          "endSec": 253.7,
+          "text": "underestimate"
+        },
+        {
+          "startSec": 253.7,
+          "endSec": 254.1,
+          "text": "something,"
+        },
+        {
+          "startSec": 254.1,
+          "endSec": 254.6,
+          "text": "you"
+        },
+        {
+          "startSec": 254.6,
+          "endSec": 254.8,
+          "text": "don't"
+        },
+        {
+          "startSec": 254.8,
+          "endSec": 255.3,
+          "text": "understand"
+        },
+        {
+          "startSec": 255.3,
+          "endSec": 255.6,
+          "text": "the"
+        },
+        {
+          "startSec": 255.6,
+          "endSec": 255.8,
+          "text": "true"
+        },
+        {
+          "startSec": 255.8,
+          "endSec": 256.6,
+          "text": "importance"
+        }
+      ]
+    },
+    {
+      "startSec": 255.8,
+      "endSec": 260.9,
+      "text": "importance or size of it. Another factor that Professor Frankhauser says is",
+      "words": [
+        {
+          "startSec": 255.8,
+          "endSec": 256.6,
+          "text": "importance"
+        },
+        {
+          "startSec": 256.6,
+          "endSec": 256.8,
+          "text": "or"
+        },
+        {
+          "startSec": 256.8,
+          "endSec": 257.1,
+          "text": "size"
+        },
+        {
+          "startSec": 257.1,
+          "endSec": 257.3,
+          "text": "of"
+        },
+        {
+          "startSec": 257.3,
+          "endSec": 257.7,
+          "text": "it."
+        },
+        {
+          "startSec": 257.7,
+          "endSec": 258.2,
+          "text": "Another"
+        },
+        {
+          "startSec": 258.2,
+          "endSec": 258.7,
+          "text": "factor"
+        },
+        {
+          "startSec": 258.7,
+          "endSec": 259.1,
+          "text": "that"
+        },
+        {
+          "startSec": 259.1,
+          "endSec": 259.8,
+          "text": "Professor"
+        },
+        {
+          "startSec": 259.8,
+          "endSec": 260.4,
+          "text": "Frankhauser"
+        },
+        {
+          "startSec": 260.4,
+          "endSec": 260.8,
+          "text": "says"
+        },
+        {
+          "startSec": 260.8,
+          "endSec": 260.9,
+          "text": "is"
+        },
+        {
+          "startSec": 260.9,
+          "endSec": 262.2,
+          "text": "underestimated"
+        }
+      ]
+    },
+    {
+      "startSec": 260.9,
+      "endSec": 267.7,
+      "text": "underestimated by de-growthers is the feasibility of social change. Feasibility",
+      "words": [
+        {
+          "startSec": 260.9,
+          "endSec": 262.2,
+          "text": "underestimated"
+        },
+        {
+          "startSec": 262.2,
+          "endSec": 262.4,
+          "text": "by"
+        },
+        {
+          "startSec": 262.4,
+          "endSec": 263.5,
+          "text": "de-growthers"
+        },
+        {
+          "startSec": 263.5,
+          "endSec": 263.7,
+          "text": "is"
+        },
+        {
+          "startSec": 263.7,
+          "endSec": 264,
+          "text": "the"
+        },
+        {
+          "startSec": 264,
+          "endSec": 265.1,
+          "text": "feasibility"
+        },
+        {
+          "startSec": 265.1,
+          "endSec": 265.3,
+          "text": "of"
+        },
+        {
+          "startSec": 265.3,
+          "endSec": 265.9,
+          "text": "social"
+        },
+        {
+          "startSec": 265.9,
+          "endSec": 266.5,
+          "text": "change."
+        },
+        {
+          "startSec": 266.5,
+          "endSec": 267.7,
+          "text": "Feasibility"
+        }
+      ]
+    },
+    {
+      "startSec": 267.7,
+      "endSec": 273.3,
+      "text": "means the possibility that something can be achieved. It comes from the adjective",
+      "words": [
+        {
+          "startSec": 267.8,
+          "endSec": 268.1,
+          "text": "means"
+        },
+        {
+          "startSec": 268.1,
+          "endSec": 268.3,
+          "text": "the"
+        },
+        {
+          "startSec": 268.3,
+          "endSec": 269.1,
+          "text": "possibility"
+        },
+        {
+          "startSec": 269.1,
+          "endSec": 269.4,
+          "text": "that"
+        },
+        {
+          "startSec": 269.4,
+          "endSec": 270.1,
+          "text": "something"
+        },
+        {
+          "startSec": 270.1,
+          "endSec": 270.3,
+          "text": "can"
+        },
+        {
+          "startSec": 270.3,
+          "endSec": 270.5,
+          "text": "be"
+        },
+        {
+          "startSec": 270.5,
+          "endSec": 271.4,
+          "text": "achieved."
+        },
+        {
+          "startSec": 271.4,
+          "endSec": 271.6,
+          "text": "It"
+        },
+        {
+          "startSec": 271.6,
+          "endSec": 272.1,
+          "text": "comes"
+        },
+        {
+          "startSec": 272.1,
+          "endSec": 272.4,
+          "text": "from"
+        },
+        {
+          "startSec": 272.4,
+          "endSec": 272.8,
+          "text": "the"
+        },
+        {
+          "startSec": 272.8,
+          "endSec": 273.3,
+          "text": "adjective"
+        },
+        {
+          "startSec": 273.3,
+          "endSec": 274.1,
+          "text": "feasible."
+        }
+      ]
+    },
+    {
+      "startSec": 273.3,
+      "endSec": 278.1,
+      "text": "feasible. For example, I could say that I think it's feasible for us to finish",
+      "words": [
+        {
+          "startSec": 273.3,
+          "endSec": 274.1,
+          "text": "feasible."
+        },
+        {
+          "startSec": 274.1,
+          "endSec": 274.3,
+          "text": "For"
+        },
+        {
+          "startSec": 274.3,
+          "endSec": 274.9,
+          "text": "example,"
+        },
+        {
+          "startSec": 274.9,
+          "endSec": 275,
+          "text": "I"
+        },
+        {
+          "startSec": 275,
+          "endSec": 275.4,
+          "text": "could"
+        },
+        {
+          "startSec": 275.4,
+          "endSec": 275.6,
+          "text": "say"
+        },
+        {
+          "startSec": 275.6,
+          "endSec": 275.9,
+          "text": "that"
+        },
+        {
+          "startSec": 275.9,
+          "endSec": 275.9,
+          "text": "I"
+        },
+        {
+          "startSec": 275.9,
+          "endSec": 276.3,
+          "text": "think"
+        },
+        {
+          "startSec": 276.3,
+          "endSec": 276.6,
+          "text": "it's"
+        },
+        {
+          "startSec": 276.6,
+          "endSec": 277.2,
+          "text": "feasible"
+        },
+        {
+          "startSec": 277.2,
+          "endSec": 277.5,
+          "text": "for"
+        },
+        {
+          "startSec": 277.5,
+          "endSec": 277.6,
+          "text": "us"
+        },
+        {
+          "startSec": 277.6,
+          "endSec": 277.8,
+          "text": "to"
+        },
+        {
+          "startSec": 277.8,
+          "endSec": 278.1,
+          "text": "finish"
+        },
+        {
+          "startSec": 278.1,
+          "endSec": 278.5,
+          "text": "this"
+        }
+      ]
+    },
+    {
+      "startSec": 278.1,
+      "endSec": 283.6,
+      "text": "this podcast in six minutes. I think we can do it. Well Phil, we're going to have",
+      "words": [
+        {
+          "startSec": 278.1,
+          "endSec": 278.5,
+          "text": "this"
+        },
+        {
+          "startSec": 278.5,
+          "endSec": 279,
+          "text": "podcast"
+        },
+        {
+          "startSec": 279,
+          "endSec": 279.2,
+          "text": "in"
+        },
+        {
+          "startSec": 279.2,
+          "endSec": 279.4,
+          "text": "six"
+        },
+        {
+          "startSec": 279.4,
+          "endSec": 280.2,
+          "text": "minutes."
+        },
+        {
+          "startSec": 280.2,
+          "endSec": 280.3,
+          "text": "I"
+        },
+        {
+          "startSec": 280.3,
+          "endSec": 280.7,
+          "text": "think"
+        },
+        {
+          "startSec": 280.7,
+          "endSec": 280.9,
+          "text": "we"
+        },
+        {
+          "startSec": 280.9,
+          "endSec": 281.1,
+          "text": "can"
+        },
+        {
+          "startSec": 281.1,
+          "endSec": 281.3,
+          "text": "do"
+        },
+        {
+          "startSec": 281.3,
+          "endSec": 281.8,
+          "text": "it."
+        },
+        {
+          "startSec": 281.8,
+          "endSec": 282.1,
+          "text": "Well"
+        },
+        {
+          "startSec": 282.1,
+          "endSec": 282.6,
+          "text": "Phil,"
+        },
+        {
+          "startSec": 282.6,
+          "endSec": 283.1,
+          "text": "we're"
+        },
+        {
+          "startSec": 283.1,
+          "endSec": 283.3,
+          "text": "going"
+        },
+        {
+          "startSec": 283.3,
+          "endSec": 283.4,
+          "text": "to"
+        },
+        {
+          "startSec": 283.4,
+          "endSec": 283.6,
+          "text": "have"
+        },
+        {
+          "startSec": 283.6,
+          "endSec": 283.7,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 283.6,
+      "endSec": 287.5,
+      "text": "to get a move on. I think it's time to hear the answer to your quiz question. I",
+      "words": [
+        {
+          "startSec": 283.6,
+          "endSec": 283.7,
+          "text": "to"
+        },
+        {
+          "startSec": 283.7,
+          "endSec": 283.9,
+          "text": "get"
+        },
+        {
+          "startSec": 283.9,
+          "endSec": 283.9,
+          "text": "a"
+        },
+        {
+          "startSec": 283.9,
+          "endSec": 284.2,
+          "text": "move"
+        },
+        {
+          "startSec": 284.2,
+          "endSec": 284.5,
+          "text": "on."
+        },
+        {
+          "startSec": 284.5,
+          "endSec": 284.5,
+          "text": "I"
+        },
+        {
+          "startSec": 284.5,
+          "endSec": 284.8,
+          "text": "think"
+        },
+        {
+          "startSec": 284.8,
+          "endSec": 285.1,
+          "text": "it's"
+        },
+        {
+          "startSec": 285.1,
+          "endSec": 285.3,
+          "text": "time"
+        },
+        {
+          "startSec": 285.3,
+          "endSec": 285.5,
+          "text": "to"
+        },
+        {
+          "startSec": 285.5,
+          "endSec": 285.7,
+          "text": "hear"
+        },
+        {
+          "startSec": 285.7,
+          "endSec": 285.9,
+          "text": "the"
+        },
+        {
+          "startSec": 285.9,
+          "endSec": 286.3,
+          "text": "answer"
+        },
+        {
+          "startSec": 286.3,
+          "endSec": 286.4,
+          "text": "to"
+        },
+        {
+          "startSec": 286.4,
+          "endSec": 286.6,
+          "text": "your"
+        },
+        {
+          "startSec": 286.6,
+          "endSec": 286.8,
+          "text": "quiz"
+        },
+        {
+          "startSec": 286.8,
+          "endSec": 287.3,
+          "text": "question."
+        },
+        {
+          "startSec": 287.3,
+          "endSec": 287.5,
+          "text": "I"
+        },
+        {
+          "startSec": 287.5,
+          "endSec": 288,
+          "text": "asked"
+        }
+      ]
+    },
+    {
+      "startSec": 287.5,
+      "endSec": 293.1,
+      "text": "asked how much world leaders agreed to limit global temperature rises to. The",
+      "words": [
+        {
+          "startSec": 287.5,
+          "endSec": 288,
+          "text": "asked"
+        },
+        {
+          "startSec": 288,
+          "endSec": 288.2,
+          "text": "how"
+        },
+        {
+          "startSec": 288.2,
+          "endSec": 288.5,
+          "text": "much"
+        },
+        {
+          "startSec": 288.5,
+          "endSec": 289,
+          "text": "world"
+        },
+        {
+          "startSec": 289,
+          "endSec": 289.6,
+          "text": "leaders"
+        },
+        {
+          "startSec": 289.6,
+          "endSec": 290.1,
+          "text": "agreed"
+        },
+        {
+          "startSec": 290.1,
+          "endSec": 290.3,
+          "text": "to"
+        },
+        {
+          "startSec": 290.3,
+          "endSec": 290.7,
+          "text": "limit"
+        },
+        {
+          "startSec": 290.7,
+          "endSec": 291.2,
+          "text": "global"
+        },
+        {
+          "startSec": 291.2,
+          "endSec": 291.8,
+          "text": "temperature"
+        },
+        {
+          "startSec": 291.8,
+          "endSec": 292.1,
+          "text": "rises"
+        },
+        {
+          "startSec": 292.1,
+          "endSec": 292.4,
+          "text": "to."
+        },
+        {
+          "startSec": 292.4,
+          "endSec": 293.1,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 293.1,
+      "endSec": 299.3,
+      "text": "answer is 1.5 degrees Celsius, which scientists believe is needed to stop the",
+      "words": [
+        {
+          "startSec": 293.3,
+          "endSec": 293.6,
+          "text": "answer"
+        },
+        {
+          "startSec": 293.6,
+          "endSec": 293.8,
+          "text": "is"
+        },
+        {
+          "startSec": 293.8,
+          "endSec": 294.5,
+          "text": "1.5"
+        },
+        {
+          "startSec": 294.5,
+          "endSec": 295.1,
+          "text": "degrees"
+        },
+        {
+          "startSec": 295.1,
+          "endSec": 295.9,
+          "text": "Celsius,"
+        },
+        {
+          "startSec": 295.9,
+          "endSec": 296.3,
+          "text": "which"
+        },
+        {
+          "startSec": 296.3,
+          "endSec": 297.1,
+          "text": "scientists"
+        },
+        {
+          "startSec": 297.1,
+          "endSec": 297.7,
+          "text": "believe"
+        },
+        {
+          "startSec": 297.7,
+          "endSec": 297.8,
+          "text": "is"
+        },
+        {
+          "startSec": 297.8,
+          "endSec": 298.4,
+          "text": "needed"
+        },
+        {
+          "startSec": 298.4,
+          "endSec": 298.6,
+          "text": "to"
+        },
+        {
+          "startSec": 298.6,
+          "endSec": 299,
+          "text": "stop"
+        },
+        {
+          "startSec": 299,
+          "endSec": 299.3,
+          "text": "the"
+        },
+        {
+          "startSec": 299.3,
+          "endSec": 299.7,
+          "text": "worst"
+        }
+      ]
+    },
+    {
+      "startSec": 299.3,
+      "endSec": 305.6,
+      "text": "worst impacts of climate change. I got it right. Okay, so let's recap some of the",
+      "words": [
+        {
+          "startSec": 299.3,
+          "endSec": 299.7,
+          "text": "worst"
+        },
+        {
+          "startSec": 299.7,
+          "endSec": 300.2,
+          "text": "impacts"
+        },
+        {
+          "startSec": 300.2,
+          "endSec": 300.3,
+          "text": "of"
+        },
+        {
+          "startSec": 300.3,
+          "endSec": 300.8,
+          "text": "climate"
+        },
+        {
+          "startSec": 300.8,
+          "endSec": 301.5,
+          "text": "change."
+        },
+        {
+          "startSec": 301.5,
+          "endSec": 301.6,
+          "text": "I"
+        },
+        {
+          "startSec": 301.6,
+          "endSec": 301.8,
+          "text": "got"
+        },
+        {
+          "startSec": 301.8,
+          "endSec": 301.9,
+          "text": "it"
+        },
+        {
+          "startSec": 301.9,
+          "endSec": 302.6,
+          "text": "right."
+        },
+        {
+          "startSec": 302.6,
+          "endSec": 303.3,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 303.3,
+          "endSec": 303.6,
+          "text": "so"
+        },
+        {
+          "startSec": 303.6,
+          "endSec": 304.2,
+          "text": "let's"
+        },
+        {
+          "startSec": 304.2,
+          "endSec": 304.8,
+          "text": "recap"
+        },
+        {
+          "startSec": 304.8,
+          "endSec": 305.2,
+          "text": "some"
+        },
+        {
+          "startSec": 305.2,
+          "endSec": 305.4,
+          "text": "of"
+        },
+        {
+          "startSec": 305.4,
+          "endSec": 305.6,
+          "text": "the"
+        },
+        {
+          "startSec": 305.6,
+          "endSec": 306.3,
+          "text": "vocabulary"
+        }
+      ]
+    },
+    {
+      "startSec": 305.6,
+      "endSec": 310.7,
+      "text": "vocabulary we've learned, starting with de-growth, which is the economic idea",
+      "words": [
+        {
+          "startSec": 305.6,
+          "endSec": 306.3,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 306.3,
+          "endSec": 306.6,
+          "text": "we've"
+        },
+        {
+          "startSec": 306.6,
+          "endSec": 307.2,
+          "text": "learned,"
+        },
+        {
+          "startSec": 307.2,
+          "endSec": 307.8,
+          "text": "starting"
+        },
+        {
+          "startSec": 307.8,
+          "endSec": 308,
+          "text": "with"
+        },
+        {
+          "startSec": 308,
+          "endSec": 308.8,
+          "text": "de-growth,"
+        },
+        {
+          "startSec": 308.8,
+          "endSec": 309.1,
+          "text": "which"
+        },
+        {
+          "startSec": 309.1,
+          "endSec": 309.2,
+          "text": "is"
+        },
+        {
+          "startSec": 309.2,
+          "endSec": 309.5,
+          "text": "the"
+        },
+        {
+          "startSec": 309.5,
+          "endSec": 310.3,
+          "text": "economic"
+        },
+        {
+          "startSec": 310.3,
+          "endSec": 310.7,
+          "text": "idea"
+        },
+        {
+          "startSec": 310.7,
+          "endSec": 311,
+          "text": "that"
+        }
+      ]
+    },
+    {
+      "startSec": 310.7,
+      "endSec": 316.6,
+      "text": "that we should use and make less stuff. An element of something means a part of",
+      "words": [
+        {
+          "startSec": 310.7,
+          "endSec": 311,
+          "text": "that"
+        },
+        {
+          "startSec": 311,
+          "endSec": 311.2,
+          "text": "we"
+        },
+        {
+          "startSec": 311.2,
+          "endSec": 311.7,
+          "text": "should"
+        },
+        {
+          "startSec": 311.7,
+          "endSec": 312,
+          "text": "use"
+        },
+        {
+          "startSec": 312,
+          "endSec": 312.2,
+          "text": "and"
+        },
+        {
+          "startSec": 312.2,
+          "endSec": 312.6,
+          "text": "make"
+        },
+        {
+          "startSec": 312.6,
+          "endSec": 312.9,
+          "text": "less"
+        },
+        {
+          "startSec": 312.9,
+          "endSec": 313.6,
+          "text": "stuff."
+        },
+        {
+          "startSec": 313.6,
+          "endSec": 313.8,
+          "text": "An"
+        },
+        {
+          "startSec": 313.8,
+          "endSec": 314.4,
+          "text": "element"
+        },
+        {
+          "startSec": 314.4,
+          "endSec": 314.6,
+          "text": "of"
+        },
+        {
+          "startSec": 314.6,
+          "endSec": 315.3,
+          "text": "something"
+        },
+        {
+          "startSec": 315.3,
+          "endSec": 315.8,
+          "text": "means"
+        },
+        {
+          "startSec": 315.8,
+          "endSec": 315.9,
+          "text": "a"
+        },
+        {
+          "startSec": 315.9,
+          "endSec": 316.4,
+          "text": "part"
+        },
+        {
+          "startSec": 316.4,
+          "endSec": 316.6,
+          "text": "of"
+        },
+        {
+          "startSec": 316.6,
+          "endSec": 317.6,
+          "text": "something."
+        }
+      ]
+    },
+    {
+      "startSec": 316.6,
+      "endSec": 322.1,
+      "text": "something. Beneficial means useful or good. Fast fashion refers to clothes that are",
+      "words": [
+        {
+          "startSec": 316.6,
+          "endSec": 317.6,
+          "text": "something."
+        },
+        {
+          "startSec": 317.6,
+          "endSec": 318.4,
+          "text": "Beneficial"
+        },
+        {
+          "startSec": 318.4,
+          "endSec": 318.8,
+          "text": "means"
+        },
+        {
+          "startSec": 318.8,
+          "endSec": 319.2,
+          "text": "useful"
+        },
+        {
+          "startSec": 319.2,
+          "endSec": 319.4,
+          "text": "or"
+        },
+        {
+          "startSec": 319.4,
+          "endSec": 320,
+          "text": "good."
+        },
+        {
+          "startSec": 320,
+          "endSec": 320.4,
+          "text": "Fast"
+        },
+        {
+          "startSec": 320.4,
+          "endSec": 320.8,
+          "text": "fashion"
+        },
+        {
+          "startSec": 320.8,
+          "endSec": 321.3,
+          "text": "refers"
+        },
+        {
+          "startSec": 321.3,
+          "endSec": 321.4,
+          "text": "to"
+        },
+        {
+          "startSec": 321.4,
+          "endSec": 321.8,
+          "text": "clothes"
+        },
+        {
+          "startSec": 321.8,
+          "endSec": 322,
+          "text": "that"
+        },
+        {
+          "startSec": 322,
+          "endSec": 322.1,
+          "text": "are"
+        }
+      ]
+    },
+    {
+      "startSec": 322.1,
+      "endSec": 326.8,
+      "text": "made cheaply and quickly so that people can buy them more often. And if you",
+      "words": [
+        {
+          "startSec": 322.2,
+          "endSec": 322.4,
+          "text": "made"
+        },
+        {
+          "startSec": 322.4,
+          "endSec": 323,
+          "text": "cheaply"
+        },
+        {
+          "startSec": 323,
+          "endSec": 323.2,
+          "text": "and"
+        },
+        {
+          "startSec": 323.2,
+          "endSec": 323.7,
+          "text": "quickly"
+        },
+        {
+          "startSec": 323.7,
+          "endSec": 323.9,
+          "text": "so"
+        },
+        {
+          "startSec": 323.9,
+          "endSec": 324.2,
+          "text": "that"
+        },
+        {
+          "startSec": 324.2,
+          "endSec": 324.6,
+          "text": "people"
+        },
+        {
+          "startSec": 324.6,
+          "endSec": 324.8,
+          "text": "can"
+        },
+        {
+          "startSec": 324.8,
+          "endSec": 325,
+          "text": "buy"
+        },
+        {
+          "startSec": 325,
+          "endSec": 325.3,
+          "text": "them"
+        },
+        {
+          "startSec": 325.3,
+          "endSec": 325.6,
+          "text": "more"
+        },
+        {
+          "startSec": 325.6,
+          "endSec": 326.3,
+          "text": "often."
+        },
+        {
+          "startSec": 326.3,
+          "endSec": 326.5,
+          "text": "And"
+        },
+        {
+          "startSec": 326.5,
+          "endSec": 326.6,
+          "text": "if"
+        },
+        {
+          "startSec": 326.6,
+          "endSec": 326.8,
+          "text": "you"
+        },
+        {
+          "startSec": 326.8,
+          "endSec": 327.8,
+          "text": "underestimate"
+        }
+      ]
+    },
+    {
+      "startSec": 326.8,
+      "endSec": 331.6,
+      "text": "underestimate something, you don't understand the true importance or size of",
+      "words": [
+        {
+          "startSec": 326.8,
+          "endSec": 327.8,
+          "text": "underestimate"
+        },
+        {
+          "startSec": 327.8,
+          "endSec": 328.5,
+          "text": "something,"
+        },
+        {
+          "startSec": 328.5,
+          "endSec": 328.7,
+          "text": "you"
+        },
+        {
+          "startSec": 328.7,
+          "endSec": 329.1,
+          "text": "don't"
+        },
+        {
+          "startSec": 329.1,
+          "endSec": 329.8,
+          "text": "understand"
+        },
+        {
+          "startSec": 329.8,
+          "endSec": 330,
+          "text": "the"
+        },
+        {
+          "startSec": 330,
+          "endSec": 330.3,
+          "text": "true"
+        },
+        {
+          "startSec": 330.3,
+          "endSec": 331,
+          "text": "importance"
+        },
+        {
+          "startSec": 331,
+          "endSec": 331.1,
+          "text": "or"
+        },
+        {
+          "startSec": 331.1,
+          "endSec": 331.4,
+          "text": "size"
+        },
+        {
+          "startSec": 331.4,
+          "endSec": 331.6,
+          "text": "of"
+        },
+        {
+          "startSec": 331.6,
+          "endSec": 332,
+          "text": "it."
+        }
+      ]
+    },
+    {
+      "startSec": 331.6,
+      "endSec": 337,
+      "text": "it. The feasibility of something is the likelihood that it can be achieved. We can",
+      "words": [
+        {
+          "startSec": 331.6,
+          "endSec": 332,
+          "text": "it."
+        },
+        {
+          "startSec": 332,
+          "endSec": 332.2,
+          "text": "The"
+        },
+        {
+          "startSec": 332.2,
+          "endSec": 332.9,
+          "text": "feasibility"
+        },
+        {
+          "startSec": 332.9,
+          "endSec": 333.1,
+          "text": "of"
+        },
+        {
+          "startSec": 333.1,
+          "endSec": 333.7,
+          "text": "something"
+        },
+        {
+          "startSec": 333.7,
+          "endSec": 333.9,
+          "text": "is"
+        },
+        {
+          "startSec": 333.9,
+          "endSec": 334.1,
+          "text": "the"
+        },
+        {
+          "startSec": 334.1,
+          "endSec": 334.8,
+          "text": "likelihood"
+        },
+        {
+          "startSec": 334.8,
+          "endSec": 335.1,
+          "text": "that"
+        },
+        {
+          "startSec": 335.1,
+          "endSec": 335.2,
+          "text": "it"
+        },
+        {
+          "startSec": 335.2,
+          "endSec": 335.4,
+          "text": "can"
+        },
+        {
+          "startSec": 335.4,
+          "endSec": 335.6,
+          "text": "be"
+        },
+        {
+          "startSec": 335.6,
+          "endSec": 336.4,
+          "text": "achieved."
+        },
+        {
+          "startSec": 336.4,
+          "endSec": 336.9,
+          "text": "We"
+        },
+        {
+          "startSec": 336.9,
+          "endSec": 337,
+          "text": "can"
+        },
+        {
+          "startSec": 337,
+          "endSec": 337.4,
+          "text": "also"
+        }
+      ]
+    },
+    {
+      "startSec": 337,
+      "endSec": 343.8,
+      "text": "also describe something as feasible or unfeasible. We can do it, but we can't do",
+      "words": [
+        {
+          "startSec": 337,
+          "endSec": 337.4,
+          "text": "also"
+        },
+        {
+          "startSec": 337.4,
+          "endSec": 338,
+          "text": "describe"
+        },
+        {
+          "startSec": 338,
+          "endSec": 338.7,
+          "text": "something"
+        },
+        {
+          "startSec": 338.7,
+          "endSec": 338.8,
+          "text": "as"
+        },
+        {
+          "startSec": 338.8,
+          "endSec": 339.5,
+          "text": "feasible"
+        },
+        {
+          "startSec": 339.5,
+          "endSec": 339.6,
+          "text": "or"
+        },
+        {
+          "startSec": 339.6,
+          "endSec": 340.7,
+          "text": "unfeasible."
+        },
+        {
+          "startSec": 340.7,
+          "endSec": 340.9,
+          "text": "We"
+        },
+        {
+          "startSec": 340.9,
+          "endSec": 341.3,
+          "text": "can"
+        },
+        {
+          "startSec": 341.3,
+          "endSec": 341.6,
+          "text": "do"
+        },
+        {
+          "startSec": 341.6,
+          "endSec": 342.1,
+          "text": "it,"
+        },
+        {
+          "startSec": 342.1,
+          "endSec": 342.6,
+          "text": "but"
+        },
+        {
+          "startSec": 342.6,
+          "endSec": 343,
+          "text": "we"
+        },
+        {
+          "startSec": 343,
+          "endSec": 343.5,
+          "text": "can't"
+        },
+        {
+          "startSec": 343.5,
+          "endSec": 343.8,
+          "text": "do"
+        },
+        {
+          "startSec": 343.8,
+          "endSec": 344.1,
+          "text": "it."
+        }
+      ]
+    },
+    {
+      "startSec": 343.8,
+      "endSec": 348.6,
+      "text": "it. Phil, once again our six minutes are up, but there is just a little bit more",
+      "words": [
+        {
+          "startSec": 343.8,
+          "endSec": 344.1,
+          "text": "it."
+        },
+        {
+          "startSec": 344.1,
+          "endSec": 344.5,
+          "text": "Phil,"
+        },
+        {
+          "startSec": 344.5,
+          "endSec": 344.8,
+          "text": "once"
+        },
+        {
+          "startSec": 344.8,
+          "endSec": 345.2,
+          "text": "again"
+        },
+        {
+          "startSec": 345.2,
+          "endSec": 345.4,
+          "text": "our"
+        },
+        {
+          "startSec": 345.4,
+          "endSec": 345.6,
+          "text": "six"
+        },
+        {
+          "startSec": 345.6,
+          "endSec": 346.1,
+          "text": "minutes"
+        },
+        {
+          "startSec": 346.1,
+          "endSec": 346.3,
+          "text": "are"
+        },
+        {
+          "startSec": 346.3,
+          "endSec": 346.7,
+          "text": "up,"
+        },
+        {
+          "startSec": 346.7,
+          "endSec": 347,
+          "text": "but"
+        },
+        {
+          "startSec": 347,
+          "endSec": 347.3,
+          "text": "there"
+        },
+        {
+          "startSec": 347.3,
+          "endSec": 347.5,
+          "text": "is"
+        },
+        {
+          "startSec": 347.5,
+          "endSec": 347.7,
+          "text": "just"
+        },
+        {
+          "startSec": 347.7,
+          "endSec": 347.8,
+          "text": "a"
+        },
+        {
+          "startSec": 347.8,
+          "endSec": 348.2,
+          "text": "little"
+        },
+        {
+          "startSec": 348.2,
+          "endSec": 348.4,
+          "text": "bit"
+        },
+        {
+          "startSec": 348.4,
+          "endSec": 348.6,
+          "text": "more"
+        }
+      ]
+    },
+    {
+      "startSec": 348.6,
+      "endSec": 353.3,
+      "text": "time for me to tell you more about my podcast What in the World. We have a new",
+      "words": [
+        {
+          "startSec": 348.7,
+          "endSec": 348.9,
+          "text": "time"
+        },
+        {
+          "startSec": 348.9,
+          "endSec": 349.1,
+          "text": "for"
+        },
+        {
+          "startSec": 349.1,
+          "endSec": 349.2,
+          "text": "me"
+        },
+        {
+          "startSec": 349.2,
+          "endSec": 349.3,
+          "text": "to"
+        },
+        {
+          "startSec": 349.3,
+          "endSec": 349.6,
+          "text": "tell"
+        },
+        {
+          "startSec": 349.6,
+          "endSec": 349.8,
+          "text": "you"
+        },
+        {
+          "startSec": 349.8,
+          "endSec": 350,
+          "text": "more"
+        },
+        {
+          "startSec": 350,
+          "endSec": 350.3,
+          "text": "about"
+        },
+        {
+          "startSec": 350.3,
+          "endSec": 350.4,
+          "text": "my"
+        },
+        {
+          "startSec": 350.4,
+          "endSec": 350.9,
+          "text": "podcast"
+        },
+        {
+          "startSec": 350.9,
+          "endSec": 351.1,
+          "text": "What"
+        },
+        {
+          "startSec": 351.1,
+          "endSec": 351.3,
+          "text": "in"
+        },
+        {
+          "startSec": 351.3,
+          "endSec": 351.4,
+          "text": "the"
+        },
+        {
+          "startSec": 351.4,
+          "endSec": 352,
+          "text": "World."
+        },
+        {
+          "startSec": 352,
+          "endSec": 352.2,
+          "text": "We"
+        },
+        {
+          "startSec": 352.2,
+          "endSec": 352.7,
+          "text": "have"
+        },
+        {
+          "startSec": 352.7,
+          "endSec": 352.8,
+          "text": "a"
+        },
+        {
+          "startSec": 352.8,
+          "endSec": 353.3,
+          "text": "new"
+        },
+        {
+          "startSec": 353.3,
+          "endSec": 353.9,
+          "text": "episode"
+        }
+      ]
+    },
+    {
+      "startSec": 353.3,
+      "endSec": 359.4,
+      "text": "episode every single weekday and we talk about the news, trending topics. In fact,",
+      "words": [
+        {
+          "startSec": 353.3,
+          "endSec": 353.9,
+          "text": "episode"
+        },
+        {
+          "startSec": 353.9,
+          "endSec": 354.3,
+          "text": "every"
+        },
+        {
+          "startSec": 354.3,
+          "endSec": 354.7,
+          "text": "single"
+        },
+        {
+          "startSec": 354.7,
+          "endSec": 355.3,
+          "text": "weekday"
+        },
+        {
+          "startSec": 355.3,
+          "endSec": 355.6,
+          "text": "and"
+        },
+        {
+          "startSec": 355.6,
+          "endSec": 355.7,
+          "text": "we"
+        },
+        {
+          "startSec": 355.7,
+          "endSec": 356,
+          "text": "talk"
+        },
+        {
+          "startSec": 356,
+          "endSec": 356.4,
+          "text": "about"
+        },
+        {
+          "startSec": 356.4,
+          "endSec": 356.7,
+          "text": "the"
+        },
+        {
+          "startSec": 356.7,
+          "endSec": 357.2,
+          "text": "news,"
+        },
+        {
+          "startSec": 357.2,
+          "endSec": 357.8,
+          "text": "trending"
+        },
+        {
+          "startSec": 357.8,
+          "endSec": 358.6,
+          "text": "topics."
+        },
+        {
+          "startSec": 358.6,
+          "endSec": 359.2,
+          "text": "In"
+        },
+        {
+          "startSec": 359.2,
+          "endSec": 359.4,
+          "text": "fact,"
+        },
+        {
+          "startSec": 359.4,
+          "endSec": 359.7,
+          "text": "it's"
+        }
+      ]
+    },
+    {
+      "startSec": 359.4,
+      "endSec": 363.7,
+      "text": "it's a great place to come and learn some new vocabulary about things that are",
+      "words": [
+        {
+          "startSec": 359.4,
+          "endSec": 359.7,
+          "text": "it's"
+        },
+        {
+          "startSec": 359.7,
+          "endSec": 359.8,
+          "text": "a"
+        },
+        {
+          "startSec": 359.8,
+          "endSec": 360.1,
+          "text": "great"
+        },
+        {
+          "startSec": 360.1,
+          "endSec": 360.5,
+          "text": "place"
+        },
+        {
+          "startSec": 360.5,
+          "endSec": 360.6,
+          "text": "to"
+        },
+        {
+          "startSec": 360.6,
+          "endSec": 360.9,
+          "text": "come"
+        },
+        {
+          "startSec": 360.9,
+          "endSec": 361.1,
+          "text": "and"
+        },
+        {
+          "startSec": 361.1,
+          "endSec": 361.4,
+          "text": "learn"
+        },
+        {
+          "startSec": 361.4,
+          "endSec": 361.7,
+          "text": "some"
+        },
+        {
+          "startSec": 361.7,
+          "endSec": 361.9,
+          "text": "new"
+        },
+        {
+          "startSec": 361.9,
+          "endSec": 362.6,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 362.6,
+          "endSec": 363,
+          "text": "about"
+        },
+        {
+          "startSec": 363,
+          "endSec": 363.4,
+          "text": "things"
+        },
+        {
+          "startSec": 363.4,
+          "endSec": 363.6,
+          "text": "that"
+        },
+        {
+          "startSec": 363.6,
+          "endSec": 363.7,
+          "text": "are"
+        },
+        {
+          "startSec": 363.7,
+          "endSec": 364.2,
+          "text": "happening"
+        }
+      ]
+    },
+    {
+      "startSec": 363.7,
+      "endSec": 368.3,
+      "text": "happening in the world. Yes, if you've found this episode interesting, try",
+      "words": [
+        {
+          "startSec": 363.7,
+          "endSec": 364.2,
+          "text": "happening"
+        },
+        {
+          "startSec": 364.2,
+          "endSec": 364.3,
+          "text": "in"
+        },
+        {
+          "startSec": 364.3,
+          "endSec": 364.4,
+          "text": "the"
+        },
+        {
+          "startSec": 364.4,
+          "endSec": 364.8,
+          "text": "world."
+        },
+        {
+          "startSec": 364.8,
+          "endSec": 365.2,
+          "text": "Yes,"
+        },
+        {
+          "startSec": 365.2,
+          "endSec": 365.4,
+          "text": "if"
+        },
+        {
+          "startSec": 365.4,
+          "endSec": 365.9,
+          "text": "you've"
+        },
+        {
+          "startSec": 365.9,
+          "endSec": 366.3,
+          "text": "found"
+        },
+        {
+          "startSec": 366.3,
+          "endSec": 366.6,
+          "text": "this"
+        },
+        {
+          "startSec": 366.6,
+          "endSec": 367.2,
+          "text": "episode"
+        },
+        {
+          "startSec": 367.2,
+          "endSec": 368,
+          "text": "interesting,"
+        },
+        {
+          "startSec": 368,
+          "endSec": 368.3,
+          "text": "try"
+        },
+        {
+          "startSec": 368.3,
+          "endSec": 368.9,
+          "text": "watching"
+        }
+      ]
+    },
+    {
+      "startSec": 368.3,
+      "endSec": 373.2,
+      "text": "watching What in the World on YouTube with subtitles to practise your English.",
+      "words": [
+        {
+          "startSec": 368.3,
+          "endSec": 368.9,
+          "text": "watching"
+        },
+        {
+          "startSec": 368.9,
+          "endSec": 369.3,
+          "text": "What"
+        },
+        {
+          "startSec": 369.3,
+          "endSec": 369.4,
+          "text": "in"
+        },
+        {
+          "startSec": 369.4,
+          "endSec": 369.6,
+          "text": "the"
+        },
+        {
+          "startSec": 369.6,
+          "endSec": 370,
+          "text": "World"
+        },
+        {
+          "startSec": 370,
+          "endSec": 370.2,
+          "text": "on"
+        },
+        {
+          "startSec": 370.2,
+          "endSec": 370.7,
+          "text": "YouTube"
+        },
+        {
+          "startSec": 370.7,
+          "endSec": 371,
+          "text": "with"
+        },
+        {
+          "startSec": 371,
+          "endSec": 371.7,
+          "text": "subtitles"
+        },
+        {
+          "startSec": 371.7,
+          "endSec": 371.9,
+          "text": "to"
+        },
+        {
+          "startSec": 371.9,
+          "endSec": 372.5,
+          "text": "practise"
+        },
+        {
+          "startSec": 372.5,
+          "endSec": 372.9,
+          "text": "your"
+        },
+        {
+          "startSec": 372.9,
+          "endSec": 373.2,
+          "text": "English."
+        },
+        {
+          "startSec": 373.2,
+          "endSec": 373.7,
+          "text": "There's"
+        }
+      ]
+    },
+    {
+      "startSec": 373.2,
+      "endSec": 377.3,
+      "text": "There's a link in the notes for this episode and don't forget to try the quiz",
+      "words": [
+        {
+          "startSec": 373.2,
+          "endSec": 373.7,
+          "text": "There's"
+        },
+        {
+          "startSec": 373.7,
+          "endSec": 373.7,
+          "text": "a"
+        },
+        {
+          "startSec": 373.7,
+          "endSec": 374,
+          "text": "link"
+        },
+        {
+          "startSec": 374,
+          "endSec": 374.1,
+          "text": "in"
+        },
+        {
+          "startSec": 374.1,
+          "endSec": 374.3,
+          "text": "the"
+        },
+        {
+          "startSec": 374.3,
+          "endSec": 374.6,
+          "text": "notes"
+        },
+        {
+          "startSec": 374.6,
+          "endSec": 374.8,
+          "text": "for"
+        },
+        {
+          "startSec": 374.8,
+          "endSec": 375.1,
+          "text": "this"
+        },
+        {
+          "startSec": 375.1,
+          "endSec": 375.6,
+          "text": "episode"
+        },
+        {
+          "startSec": 375.6,
+          "endSec": 375.8,
+          "text": "and"
+        },
+        {
+          "startSec": 375.8,
+          "endSec": 376.1,
+          "text": "don't"
+        },
+        {
+          "startSec": 376.1,
+          "endSec": 376.5,
+          "text": "forget"
+        },
+        {
+          "startSec": 376.5,
+          "endSec": 376.6,
+          "text": "to"
+        },
+        {
+          "startSec": 376.6,
+          "endSec": 376.8,
+          "text": "try"
+        },
+        {
+          "startSec": 376.8,
+          "endSec": 377.1,
+          "text": "the"
+        },
+        {
+          "startSec": 377.1,
+          "endSec": 377.3,
+          "text": "quiz"
+        }
+      ]
+    },
+    {
+      "startSec": 377.3,
+      "endSec": 382.6,
+      "text": "and the worksheet at bbclearningenglish.com. Phil, thank you so much for having me",
+      "words": [
+        {
+          "startSec": 377.4,
+          "endSec": 377.6,
+          "text": "and"
+        },
+        {
+          "startSec": 377.6,
+          "endSec": 377.8,
+          "text": "the"
+        },
+        {
+          "startSec": 377.8,
+          "endSec": 378.5,
+          "text": "worksheet"
+        },
+        {
+          "startSec": 378.5,
+          "endSec": 378.6,
+          "text": "at"
+        },
+        {
+          "startSec": 378.6,
+          "endSec": 380.8,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 380.8,
+          "endSec": 381.2,
+          "text": "Phil,"
+        },
+        {
+          "startSec": 381.2,
+          "endSec": 381.5,
+          "text": "thank"
+        },
+        {
+          "startSec": 381.5,
+          "endSec": 381.7,
+          "text": "you"
+        },
+        {
+          "startSec": 381.7,
+          "endSec": 381.9,
+          "text": "so"
+        },
+        {
+          "startSec": 381.9,
+          "endSec": 382.1,
+          "text": "much"
+        },
+        {
+          "startSec": 382.1,
+          "endSec": 382.2,
+          "text": "for"
+        },
+        {
+          "startSec": 382.2,
+          "endSec": 382.4,
+          "text": "having"
+        },
+        {
+          "startSec": 382.4,
+          "endSec": 382.6,
+          "text": "me"
+        },
+        {
+          "startSec": 382.6,
+          "endSec": 382.9,
+          "text": "again"
+        }
+      ]
+    },
+    {
+      "startSec": 382.6,
+      "endSec": 387,
+      "text": "again on 6 Minute English. Bye for now. Bye.",
+      "words": [
+        {
+          "startSec": 382.6,
+          "endSec": 382.9,
+          "text": "again"
+        },
+        {
+          "startSec": 382.9,
+          "endSec": 383,
+          "text": "on"
+        },
+        {
+          "startSec": 383,
+          "endSec": 383.2,
+          "text": "6"
+        },
+        {
+          "startSec": 383.2,
+          "endSec": 383.5,
+          "text": "Minute"
+        },
+        {
+          "startSec": 383.5,
+          "endSec": 384.1,
+          "text": "English."
+        },
+        {
+          "startSec": 384.1,
+          "endSec": 384.2,
+          "text": "Bye"
+        },
+        {
+          "startSec": 384.2,
+          "endSec": 384.4,
+          "text": "for"
+        },
+        {
+          "startSec": 384.4,
+          "endSec": 384.8,
+          "text": "now."
+        },
+        {
+          "startSec": 384.8,
+          "endSec": 387,
+          "text": "Bye."
+        }
+      ]
+    }
+  ],
+  "introSec": 0
+}

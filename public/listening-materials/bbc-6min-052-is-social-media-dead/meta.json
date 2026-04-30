@@ -1,0 +1,5348 @@
+{
+  "title": "Is social media dead",
+  "source": "BBC 6 Minute English",
+  "level": "advanced",
+  "durationSec": 373,
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
+  "audioFile": "audio.mp3",
+  "segments": [
+    {
+      "startSec": 0,
+      "endSec": 12.1,
+      "text": "Hello, this is 6 Minute English from BBC Learning English, I'm Neil.",
+      "words": [
+        {
+          "startSec": 0.2,
+          "endSec": 1.7,
+          "text": "Hello,"
+        },
+        {
+          "startSec": 1.7,
+          "endSec": 2.7,
+          "text": "this"
+        },
+        {
+          "startSec": 2.7,
+          "endSec": 3.2,
+          "text": "is"
+        },
+        {
+          "startSec": 3.2,
+          "endSec": 3.9,
+          "text": "6"
+        },
+        {
+          "startSec": 3.9,
+          "endSec": 5.4,
+          "text": "Minute"
+        },
+        {
+          "startSec": 5.4,
+          "endSec": 7.1,
+          "text": "English"
+        },
+        {
+          "startSec": 7.1,
+          "endSec": 8.1,
+          "text": "from"
+        },
+        {
+          "startSec": 8.1,
+          "endSec": 8.8,
+          "text": "BBC"
+        },
+        {
+          "startSec": 8.8,
+          "endSec": 10.8,
+          "text": "Learning"
+        },
+        {
+          "startSec": 10.8,
+          "endSec": 11.3,
+          "text": "English,"
+        },
+        {
+          "startSec": 11.3,
+          "endSec": 11.5,
+          "text": "I'm"
+        },
+        {
+          "startSec": 11.5,
+          "endSec": 12.1,
+          "text": "Neil."
+        },
+        {
+          "startSec": 12.1,
+          "endSec": 12.4,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 12.1,
+      "endSec": 18,
+      "text": "And I'm Pippa. Whatever you think of social media, in less than a generation it has changed",
+      "words": [
+        {
+          "startSec": 12.1,
+          "endSec": 12.4,
+          "text": "And"
+        },
+        {
+          "startSec": 12.4,
+          "endSec": 12.7,
+          "text": "I'm"
+        },
+        {
+          "startSec": 12.7,
+          "endSec": 13.6,
+          "text": "Pippa."
+        },
+        {
+          "startSec": 13.6,
+          "endSec": 14.1,
+          "text": "Whatever"
+        },
+        {
+          "startSec": 14.1,
+          "endSec": 14.3,
+          "text": "you"
+        },
+        {
+          "startSec": 14.3,
+          "endSec": 14.6,
+          "text": "think"
+        },
+        {
+          "startSec": 14.6,
+          "endSec": 14.8,
+          "text": "of"
+        },
+        {
+          "startSec": 14.8,
+          "endSec": 15.2,
+          "text": "social"
+        },
+        {
+          "startSec": 15.2,
+          "endSec": 15.7,
+          "text": "media,"
+        },
+        {
+          "startSec": 15.7,
+          "endSec": 15.8,
+          "text": "in"
+        },
+        {
+          "startSec": 15.8,
+          "endSec": 16,
+          "text": "less"
+        },
+        {
+          "startSec": 16,
+          "endSec": 16.2,
+          "text": "than"
+        },
+        {
+          "startSec": 16.2,
+          "endSec": 16.2,
+          "text": "a"
+        },
+        {
+          "startSec": 16.2,
+          "endSec": 17,
+          "text": "generation"
+        },
+        {
+          "startSec": 17,
+          "endSec": 17.2,
+          "text": "it"
+        },
+        {
+          "startSec": 17.2,
+          "endSec": 17.4,
+          "text": "has"
+        },
+        {
+          "startSec": 17.4,
+          "endSec": 18,
+          "text": "changed"
+        },
+        {
+          "startSec": 18,
+          "endSec": 18.2,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 18,
+      "endSec": 24.2,
+      "text": "the internet. Facebook, Twitter, now known as X, and in the early days MySpace used to",
+      "words": [
+        {
+          "startSec": 18,
+          "endSec": 18.2,
+          "text": "the"
+        },
+        {
+          "startSec": 18.2,
+          "endSec": 19,
+          "text": "internet."
+        },
+        {
+          "startSec": 19,
+          "endSec": 19.8,
+          "text": "Facebook,"
+        },
+        {
+          "startSec": 19.8,
+          "endSec": 20.6,
+          "text": "Twitter,"
+        },
+        {
+          "startSec": 20.6,
+          "endSec": 20.9,
+          "text": "now"
+        },
+        {
+          "startSec": 20.9,
+          "endSec": 21.3,
+          "text": "known"
+        },
+        {
+          "startSec": 21.3,
+          "endSec": 21.5,
+          "text": "as"
+        },
+        {
+          "startSec": 21.5,
+          "endSec": 21.7,
+          "text": "X,"
+        },
+        {
+          "startSec": 21.7,
+          "endSec": 22,
+          "text": "and"
+        },
+        {
+          "startSec": 22,
+          "endSec": 22.1,
+          "text": "in"
+        },
+        {
+          "startSec": 22.1,
+          "endSec": 22.4,
+          "text": "the"
+        },
+        {
+          "startSec": 22.4,
+          "endSec": 22.8,
+          "text": "early"
+        },
+        {
+          "startSec": 22.8,
+          "endSec": 23.2,
+          "text": "days"
+        },
+        {
+          "startSec": 23.2,
+          "endSec": 23.8,
+          "text": "MySpace"
+        },
+        {
+          "startSec": 23.8,
+          "endSec": 24.2,
+          "text": "used"
+        },
+        {
+          "startSec": 24.2,
+          "endSec": 24.2,
+          "text": "to"
+        },
+        {
+          "startSec": 24.2,
+          "endSec": 24.4,
+          "text": "be"
+        }
+      ]
+    },
+    {
+      "startSec": 24.2,
+      "endSec": 29.6,
+      "text": "be places to post messages to friends or share photos of your breakfast. But with the rise",
+      "words": [
+        {
+          "startSec": 24.2,
+          "endSec": 24.2,
+          "text": "to"
+        },
+        {
+          "startSec": 24.2,
+          "endSec": 24.4,
+          "text": "be"
+        },
+        {
+          "startSec": 24.4,
+          "endSec": 24.9,
+          "text": "places"
+        },
+        {
+          "startSec": 24.9,
+          "endSec": 25,
+          "text": "to"
+        },
+        {
+          "startSec": 25,
+          "endSec": 25.3,
+          "text": "post"
+        },
+        {
+          "startSec": 25.3,
+          "endSec": 25.9,
+          "text": "messages"
+        },
+        {
+          "startSec": 25.9,
+          "endSec": 26.1,
+          "text": "to"
+        },
+        {
+          "startSec": 26.1,
+          "endSec": 26.6,
+          "text": "friends"
+        },
+        {
+          "startSec": 26.6,
+          "endSec": 26.8,
+          "text": "or"
+        },
+        {
+          "startSec": 26.8,
+          "endSec": 27.2,
+          "text": "share"
+        },
+        {
+          "startSec": 27.2,
+          "endSec": 27.6,
+          "text": "photos"
+        },
+        {
+          "startSec": 27.6,
+          "endSec": 27.8,
+          "text": "of"
+        },
+        {
+          "startSec": 27.8,
+          "endSec": 28.1,
+          "text": "your"
+        },
+        {
+          "startSec": 28.1,
+          "endSec": 29.1,
+          "text": "breakfast."
+        },
+        {
+          "startSec": 29.1,
+          "endSec": 29.2,
+          "text": "But"
+        },
+        {
+          "startSec": 29.2,
+          "endSec": 29.3,
+          "text": "with"
+        },
+        {
+          "startSec": 29.3,
+          "endSec": 29.4,
+          "text": "the"
+        },
+        {
+          "startSec": 29.4,
+          "endSec": 29.6,
+          "text": "rise"
+        }
+      ]
+    },
+    {
+      "startSec": 29.6,
+      "endSec": 35.5,
+      "text": "of AI, the fun of connecting with friends changed into something much stranger. As Tristan",
+      "words": [
+        {
+          "startSec": 29.7,
+          "endSec": 29.8,
+          "text": "of"
+        },
+        {
+          "startSec": 29.8,
+          "endSec": 30.1,
+          "text": "AI,"
+        },
+        {
+          "startSec": 30.1,
+          "endSec": 30.3,
+          "text": "the"
+        },
+        {
+          "startSec": 30.3,
+          "endSec": 30.5,
+          "text": "fun"
+        },
+        {
+          "startSec": 30.5,
+          "endSec": 30.6,
+          "text": "of"
+        },
+        {
+          "startSec": 30.6,
+          "endSec": 31.4,
+          "text": "connecting"
+        },
+        {
+          "startSec": 31.4,
+          "endSec": 31.7,
+          "text": "with"
+        },
+        {
+          "startSec": 31.7,
+          "endSec": 32.2,
+          "text": "friends"
+        },
+        {
+          "startSec": 32.2,
+          "endSec": 32.7,
+          "text": "changed"
+        },
+        {
+          "startSec": 32.7,
+          "endSec": 33,
+          "text": "into"
+        },
+        {
+          "startSec": 33,
+          "endSec": 33.6,
+          "text": "something"
+        },
+        {
+          "startSec": 33.6,
+          "endSec": 33.9,
+          "text": "much"
+        },
+        {
+          "startSec": 33.9,
+          "endSec": 34.8,
+          "text": "stranger."
+        },
+        {
+          "startSec": 34.8,
+          "endSec": 35,
+          "text": "As"
+        },
+        {
+          "startSec": 35,
+          "endSec": 35.5,
+          "text": "Tristan"
+        },
+        {
+          "startSec": 35.5,
+          "endSec": 35.7,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 35.5,
+      "endSec": 40.2,
+      "text": "and Asthma, presenters of BBC World Service programme, the global story found out.",
+      "words": [
+        {
+          "startSec": 35.5,
+          "endSec": 35.7,
+          "text": "and"
+        },
+        {
+          "startSec": 35.7,
+          "endSec": 36.2,
+          "text": "Asthma,"
+        },
+        {
+          "startSec": 36.2,
+          "endSec": 36.8,
+          "text": "presenters"
+        },
+        {
+          "startSec": 36.8,
+          "endSec": 36.9,
+          "text": "of"
+        },
+        {
+          "startSec": 36.9,
+          "endSec": 37.1,
+          "text": "BBC"
+        },
+        {
+          "startSec": 37.1,
+          "endSec": 37.4,
+          "text": "World"
+        },
+        {
+          "startSec": 37.4,
+          "endSec": 37.9,
+          "text": "Service"
+        },
+        {
+          "startSec": 37.9,
+          "endSec": 38.6,
+          "text": "programme,"
+        },
+        {
+          "startSec": 38.6,
+          "endSec": 38.8,
+          "text": "the"
+        },
+        {
+          "startSec": 38.8,
+          "endSec": 39.2,
+          "text": "global"
+        },
+        {
+          "startSec": 39.2,
+          "endSec": 39.5,
+          "text": "story"
+        },
+        {
+          "startSec": 39.5,
+          "endSec": 39.8,
+          "text": "found"
+        },
+        {
+          "startSec": 39.8,
+          "endSec": 40.2,
+          "text": "out."
+        },
+        {
+          "startSec": 40.2,
+          "endSec": 40.8,
+          "text": "Oh,"
+        }
+      ]
+    },
+    {
+      "startSec": 40.2,
+      "endSec": 46.4,
+      "text": "Oh, what is this? I think it's a man who's supposed to look like Jesus.",
+      "words": [
+        {
+          "startSec": 40.2,
+          "endSec": 40.8,
+          "text": "Oh,"
+        },
+        {
+          "startSec": 40.8,
+          "endSec": 41.4,
+          "text": "what"
+        },
+        {
+          "startSec": 41.4,
+          "endSec": 41.7,
+          "text": "is"
+        },
+        {
+          "startSec": 41.7,
+          "endSec": 42.7,
+          "text": "this?"
+        },
+        {
+          "startSec": 42.7,
+          "endSec": 42.8,
+          "text": "I"
+        },
+        {
+          "startSec": 42.8,
+          "endSec": 43.1,
+          "text": "think"
+        },
+        {
+          "startSec": 43.1,
+          "endSec": 43.3,
+          "text": "it's"
+        },
+        {
+          "startSec": 43.3,
+          "endSec": 43.4,
+          "text": "a"
+        },
+        {
+          "startSec": 43.4,
+          "endSec": 43.6,
+          "text": "man"
+        },
+        {
+          "startSec": 43.6,
+          "endSec": 43.9,
+          "text": "who's"
+        },
+        {
+          "startSec": 43.9,
+          "endSec": 44.4,
+          "text": "supposed"
+        },
+        {
+          "startSec": 44.4,
+          "endSec": 44.5,
+          "text": "to"
+        },
+        {
+          "startSec": 44.5,
+          "endSec": 44.8,
+          "text": "look"
+        },
+        {
+          "startSec": 44.8,
+          "endSec": 45.1,
+          "text": "like"
+        },
+        {
+          "startSec": 45.1,
+          "endSec": 46.4,
+          "text": "Jesus."
+        },
+        {
+          "startSec": 46.4,
+          "endSec": 46.7,
+          "text": "It's"
+        }
+      ]
+    },
+    {
+      "startSec": 46.4,
+      "endSec": 52.6,
+      "text": "It's a man who looks a bit like his dog. He's been AI'd right? Has to be AI'd.",
+      "words": [
+        {
+          "startSec": 46.4,
+          "endSec": 46.7,
+          "text": "It's"
+        },
+        {
+          "startSec": 46.7,
+          "endSec": 46.8,
+          "text": "a"
+        },
+        {
+          "startSec": 46.8,
+          "endSec": 47.1,
+          "text": "man"
+        },
+        {
+          "startSec": 47.1,
+          "endSec": 47.3,
+          "text": "who"
+        },
+        {
+          "startSec": 47.3,
+          "endSec": 47.8,
+          "text": "looks"
+        },
+        {
+          "startSec": 47.8,
+          "endSec": 47.8,
+          "text": "a"
+        },
+        {
+          "startSec": 47.8,
+          "endSec": 48.1,
+          "text": "bit"
+        },
+        {
+          "startSec": 48.1,
+          "endSec": 48.5,
+          "text": "like"
+        },
+        {
+          "startSec": 48.5,
+          "endSec": 48.7,
+          "text": "his"
+        },
+        {
+          "startSec": 48.7,
+          "endSec": 49.3,
+          "text": "dog."
+        },
+        {
+          "startSec": 49.3,
+          "endSec": 49.7,
+          "text": "He's"
+        },
+        {
+          "startSec": 49.7,
+          "endSec": 50,
+          "text": "been"
+        },
+        {
+          "startSec": 50,
+          "endSec": 50.4,
+          "text": "AI'd"
+        },
+        {
+          "startSec": 50.4,
+          "endSec": 51.1,
+          "text": "right?"
+        },
+        {
+          "startSec": 51.1,
+          "endSec": 51.4,
+          "text": "Has"
+        },
+        {
+          "startSec": 51.4,
+          "endSec": 51.6,
+          "text": "to"
+        },
+        {
+          "startSec": 51.6,
+          "endSec": 51.8,
+          "text": "be"
+        },
+        {
+          "startSec": 51.8,
+          "endSec": 52.6,
+          "text": "AI'd."
+        },
+        {
+          "startSec": 52.6,
+          "endSec": 52.8,
+          "text": "He's"
+        }
+      ]
+    },
+    {
+      "startSec": 52.6,
+      "endSec": 57.5,
+      "text": "He's holding his dog and his face looks like his dog, so he's half Jesus, half dog.",
+      "words": [
+        {
+          "startSec": 52.6,
+          "endSec": 52.8,
+          "text": "He's"
+        },
+        {
+          "startSec": 52.8,
+          "endSec": 53.3,
+          "text": "holding"
+        },
+        {
+          "startSec": 53.3,
+          "endSec": 53.5,
+          "text": "his"
+        },
+        {
+          "startSec": 53.5,
+          "endSec": 53.7,
+          "text": "dog"
+        },
+        {
+          "startSec": 53.7,
+          "endSec": 53.9,
+          "text": "and"
+        },
+        {
+          "startSec": 53.9,
+          "endSec": 54.1,
+          "text": "his"
+        },
+        {
+          "startSec": 54.1,
+          "endSec": 54.4,
+          "text": "face"
+        },
+        {
+          "startSec": 54.4,
+          "endSec": 54.7,
+          "text": "looks"
+        },
+        {
+          "startSec": 54.7,
+          "endSec": 55,
+          "text": "like"
+        },
+        {
+          "startSec": 55,
+          "endSec": 55.2,
+          "text": "his"
+        },
+        {
+          "startSec": 55.2,
+          "endSec": 55.5,
+          "text": "dog,"
+        },
+        {
+          "startSec": 55.5,
+          "endSec": 55.6,
+          "text": "so"
+        },
+        {
+          "startSec": 55.6,
+          "endSec": 55.9,
+          "text": "he's"
+        },
+        {
+          "startSec": 55.9,
+          "endSec": 56.2,
+          "text": "half"
+        },
+        {
+          "startSec": 56.2,
+          "endSec": 56.6,
+          "text": "Jesus,"
+        },
+        {
+          "startSec": 56.6,
+          "endSec": 56.9,
+          "text": "half"
+        },
+        {
+          "startSec": 56.9,
+          "endSec": 57.5,
+          "text": "dog."
+        },
+        {
+          "startSec": 57.5,
+          "endSec": 57.6,
+          "text": "A"
+        }
+      ]
+    },
+    {
+      "startSec": 57.5,
+      "endSec": 64,
+      "text": "A half dog, half Jesus photo is generated by AI and posted online. It's an example",
+      "words": [
+        {
+          "startSec": 57.5,
+          "endSec": 57.6,
+          "text": "A"
+        },
+        {
+          "startSec": 57.6,
+          "endSec": 58,
+          "text": "half"
+        },
+        {
+          "startSec": 58,
+          "endSec": 58.5,
+          "text": "dog,"
+        },
+        {
+          "startSec": 58.5,
+          "endSec": 58.9,
+          "text": "half"
+        },
+        {
+          "startSec": 58.9,
+          "endSec": 59.4,
+          "text": "Jesus"
+        },
+        {
+          "startSec": 59.4,
+          "endSec": 59.9,
+          "text": "photo"
+        },
+        {
+          "startSec": 59.9,
+          "endSec": 60.1,
+          "text": "is"
+        },
+        {
+          "startSec": 60.1,
+          "endSec": 61.1,
+          "text": "generated"
+        },
+        {
+          "startSec": 61.1,
+          "endSec": 61.3,
+          "text": "by"
+        },
+        {
+          "startSec": 61.3,
+          "endSec": 61.5,
+          "text": "AI"
+        },
+        {
+          "startSec": 61.5,
+          "endSec": 61.8,
+          "text": "and"
+        },
+        {
+          "startSec": 61.8,
+          "endSec": 62.4,
+          "text": "posted"
+        },
+        {
+          "startSec": 62.4,
+          "endSec": 63.4,
+          "text": "online."
+        },
+        {
+          "startSec": 63.4,
+          "endSec": 63.6,
+          "text": "It's"
+        },
+        {
+          "startSec": 63.6,
+          "endSec": 63.7,
+          "text": "an"
+        },
+        {
+          "startSec": 63.7,
+          "endSec": 64,
+          "text": "example"
+        },
+        {
+          "startSec": 64,
+          "endSec": 64.2,
+          "text": "of"
+        }
+      ]
+    },
+    {
+      "startSec": 64,
+      "endSec": 69.3,
+      "text": "of how the use of AI in social media has evolved so much that today it's hard to know",
+      "words": [
+        {
+          "startSec": 64,
+          "endSec": 64.2,
+          "text": "of"
+        },
+        {
+          "startSec": 64.2,
+          "endSec": 64.4,
+          "text": "how"
+        },
+        {
+          "startSec": 64.4,
+          "endSec": 64.6,
+          "text": "the"
+        },
+        {
+          "startSec": 64.6,
+          "endSec": 64.9,
+          "text": "use"
+        },
+        {
+          "startSec": 64.9,
+          "endSec": 65,
+          "text": "of"
+        },
+        {
+          "startSec": 65,
+          "endSec": 65.2,
+          "text": "AI"
+        },
+        {
+          "startSec": 65.2,
+          "endSec": 65.4,
+          "text": "in"
+        },
+        {
+          "startSec": 65.4,
+          "endSec": 65.9,
+          "text": "social"
+        },
+        {
+          "startSec": 65.9,
+          "endSec": 66.3,
+          "text": "media"
+        },
+        {
+          "startSec": 66.3,
+          "endSec": 66.5,
+          "text": "has"
+        },
+        {
+          "startSec": 66.5,
+          "endSec": 67.1,
+          "text": "evolved"
+        },
+        {
+          "startSec": 67.1,
+          "endSec": 67.2,
+          "text": "so"
+        },
+        {
+          "startSec": 67.2,
+          "endSec": 67.6,
+          "text": "much"
+        },
+        {
+          "startSec": 67.6,
+          "endSec": 67.9,
+          "text": "that"
+        },
+        {
+          "startSec": 67.9,
+          "endSec": 68.3,
+          "text": "today"
+        },
+        {
+          "startSec": 68.3,
+          "endSec": 68.6,
+          "text": "it's"
+        },
+        {
+          "startSec": 68.6,
+          "endSec": 69,
+          "text": "hard"
+        },
+        {
+          "startSec": 69,
+          "endSec": 69.2,
+          "text": "to"
+        },
+        {
+          "startSec": 69.2,
+          "endSec": 69.3,
+          "text": "know"
+        },
+        {
+          "startSec": 69.3,
+          "endSec": 69.8,
+          "text": "what's"
+        }
+      ]
+    },
+    {
+      "startSec": 69.3,
+      "endSec": 74.5,
+      "text": "what's created by humans and what's not. In this episode, we'll discuss how social",
+      "words": [
+        {
+          "startSec": 69.3,
+          "endSec": 69.8,
+          "text": "what's"
+        },
+        {
+          "startSec": 69.8,
+          "endSec": 70.3,
+          "text": "created"
+        },
+        {
+          "startSec": 70.3,
+          "endSec": 70.5,
+          "text": "by"
+        },
+        {
+          "startSec": 70.5,
+          "endSec": 70.9,
+          "text": "humans"
+        },
+        {
+          "startSec": 70.9,
+          "endSec": 71.2,
+          "text": "and"
+        },
+        {
+          "startSec": 71.2,
+          "endSec": 71.6,
+          "text": "what's"
+        },
+        {
+          "startSec": 71.6,
+          "endSec": 72.1,
+          "text": "not."
+        },
+        {
+          "startSec": 72.1,
+          "endSec": 72.3,
+          "text": "In"
+        },
+        {
+          "startSec": 72.3,
+          "endSec": 72.5,
+          "text": "this"
+        },
+        {
+          "startSec": 72.5,
+          "endSec": 73.1,
+          "text": "episode,"
+        },
+        {
+          "startSec": 73.1,
+          "endSec": 73.4,
+          "text": "we'll"
+        },
+        {
+          "startSec": 73.4,
+          "endSec": 73.9,
+          "text": "discuss"
+        },
+        {
+          "startSec": 73.9,
+          "endSec": 74.1,
+          "text": "how"
+        },
+        {
+          "startSec": 74.1,
+          "endSec": 74.5,
+          "text": "social"
+        },
+        {
+          "startSec": 74.5,
+          "endSec": 74.9,
+          "text": "media"
+        }
+      ]
+    },
+    {
+      "startSec": 74.5,
+      "endSec": 80.2,
+      "text": "media is changing in the age of AI, and as usual, we'll learn some useful new words",
+      "words": [
+        {
+          "startSec": 74.5,
+          "endSec": 74.9,
+          "text": "media"
+        },
+        {
+          "startSec": 74.9,
+          "endSec": 75.1,
+          "text": "is"
+        },
+        {
+          "startSec": 75.1,
+          "endSec": 75.7,
+          "text": "changing"
+        },
+        {
+          "startSec": 75.7,
+          "endSec": 75.9,
+          "text": "in"
+        },
+        {
+          "startSec": 75.9,
+          "endSec": 76.1,
+          "text": "the"
+        },
+        {
+          "startSec": 76.1,
+          "endSec": 76.4,
+          "text": "age"
+        },
+        {
+          "startSec": 76.4,
+          "endSec": 76.5,
+          "text": "of"
+        },
+        {
+          "startSec": 76.5,
+          "endSec": 76.8,
+          "text": "AI,"
+        },
+        {
+          "startSec": 76.8,
+          "endSec": 77.1,
+          "text": "and"
+        },
+        {
+          "startSec": 77.1,
+          "endSec": 77.2,
+          "text": "as"
+        },
+        {
+          "startSec": 77.2,
+          "endSec": 77.8,
+          "text": "usual,"
+        },
+        {
+          "startSec": 77.8,
+          "endSec": 78.2,
+          "text": "we'll"
+        },
+        {
+          "startSec": 78.2,
+          "endSec": 78.6,
+          "text": "learn"
+        },
+        {
+          "startSec": 78.6,
+          "endSec": 78.9,
+          "text": "some"
+        },
+        {
+          "startSec": 78.9,
+          "endSec": 79.4,
+          "text": "useful"
+        },
+        {
+          "startSec": 79.4,
+          "endSec": 79.7,
+          "text": "new"
+        },
+        {
+          "startSec": 79.7,
+          "endSec": 80.2,
+          "text": "words"
+        },
+        {
+          "startSec": 80.2,
+          "endSec": 80.5,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 80.2,
+      "endSec": 85,
+      "text": "and phrases. And remember, you'll find all the vocabulary along with the transcript on",
+      "words": [
+        {
+          "startSec": 80.2,
+          "endSec": 80.5,
+          "text": "and"
+        },
+        {
+          "startSec": 80.5,
+          "endSec": 81.5,
+          "text": "phrases."
+        },
+        {
+          "startSec": 81.5,
+          "endSec": 81.7,
+          "text": "And"
+        },
+        {
+          "startSec": 81.7,
+          "endSec": 82.2,
+          "text": "remember,"
+        },
+        {
+          "startSec": 82.2,
+          "endSec": 82.5,
+          "text": "you'll"
+        },
+        {
+          "startSec": 82.5,
+          "endSec": 82.7,
+          "text": "find"
+        },
+        {
+          "startSec": 82.7,
+          "endSec": 82.9,
+          "text": "all"
+        },
+        {
+          "startSec": 82.9,
+          "endSec": 83,
+          "text": "the"
+        },
+        {
+          "startSec": 83,
+          "endSec": 83.6,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 83.6,
+          "endSec": 83.9,
+          "text": "along"
+        },
+        {
+          "startSec": 83.9,
+          "endSec": 84.1,
+          "text": "with"
+        },
+        {
+          "startSec": 84.1,
+          "endSec": 84.3,
+          "text": "the"
+        },
+        {
+          "startSec": 84.3,
+          "endSec": 84.9,
+          "text": "transcript"
+        },
+        {
+          "startSec": 84.9,
+          "endSec": 85,
+          "text": "on"
+        }
+      ]
+    },
+    {
+      "startSec": 85,
+      "endSec": 88.4,
+      "text": "our website, bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 85.1,
+          "endSec": 85.3,
+          "text": "our"
+        },
+        {
+          "startSec": 85.3,
+          "endSec": 86.1,
+          "text": "website,"
+        },
+        {
+          "startSec": 86.1,
+          "endSec": 88.4,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 88.4,
+          "endSec": 88.6,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 88.4,
+      "endSec": 93.7,
+      "text": "But first, I have a question for you, Pipper. You mentioned MySpace as one of the earlier",
+      "words": [
+        {
+          "startSec": 88.4,
+          "endSec": 88.6,
+          "text": "But"
+        },
+        {
+          "startSec": 88.6,
+          "endSec": 89.1,
+          "text": "first,"
+        },
+        {
+          "startSec": 89.1,
+          "endSec": 89.2,
+          "text": "I"
+        },
+        {
+          "startSec": 89.2,
+          "endSec": 89.4,
+          "text": "have"
+        },
+        {
+          "startSec": 89.4,
+          "endSec": 89.5,
+          "text": "a"
+        },
+        {
+          "startSec": 89.5,
+          "endSec": 90,
+          "text": "question"
+        },
+        {
+          "startSec": 90,
+          "endSec": 90.2,
+          "text": "for"
+        },
+        {
+          "startSec": 90.2,
+          "endSec": 90.6,
+          "text": "you,"
+        },
+        {
+          "startSec": 90.6,
+          "endSec": 91.2,
+          "text": "Pipper."
+        },
+        {
+          "startSec": 91.2,
+          "endSec": 91.4,
+          "text": "You"
+        },
+        {
+          "startSec": 91.4,
+          "endSec": 92,
+          "text": "mentioned"
+        },
+        {
+          "startSec": 92,
+          "endSec": 92.4,
+          "text": "MySpace"
+        },
+        {
+          "startSec": 92.4,
+          "endSec": 92.6,
+          "text": "as"
+        },
+        {
+          "startSec": 92.6,
+          "endSec": 92.8,
+          "text": "one"
+        },
+        {
+          "startSec": 92.8,
+          "endSec": 92.9,
+          "text": "of"
+        },
+        {
+          "startSec": 92.9,
+          "endSec": 93.1,
+          "text": "the"
+        },
+        {
+          "startSec": 93.1,
+          "endSec": 93.7,
+          "text": "earlier"
+        },
+        {
+          "startSec": 93.7,
+          "endSec": 94.2,
+          "text": "social"
+        }
+      ]
+    },
+    {
+      "startSec": 93.7,
+      "endSec": 99.8,
+      "text": "social media platforms, but the first electronic message was actually sent much earlier in",
+      "words": [
+        {
+          "startSec": 93.7,
+          "endSec": 94.2,
+          "text": "social"
+        },
+        {
+          "startSec": 94.2,
+          "endSec": 94.5,
+          "text": "media"
+        },
+        {
+          "startSec": 94.5,
+          "endSec": 95.4,
+          "text": "platforms,"
+        },
+        {
+          "startSec": 95.4,
+          "endSec": 95.6,
+          "text": "but"
+        },
+        {
+          "startSec": 95.6,
+          "endSec": 95.9,
+          "text": "the"
+        },
+        {
+          "startSec": 95.9,
+          "endSec": 96.2,
+          "text": "first"
+        },
+        {
+          "startSec": 96.2,
+          "endSec": 97,
+          "text": "electronic"
+        },
+        {
+          "startSec": 97,
+          "endSec": 97.6,
+          "text": "message"
+        },
+        {
+          "startSec": 97.6,
+          "endSec": 97.8,
+          "text": "was"
+        },
+        {
+          "startSec": 97.8,
+          "endSec": 98.4,
+          "text": "actually"
+        },
+        {
+          "startSec": 98.4,
+          "endSec": 98.7,
+          "text": "sent"
+        },
+        {
+          "startSec": 98.7,
+          "endSec": 99,
+          "text": "much"
+        },
+        {
+          "startSec": 99,
+          "endSec": 99.6,
+          "text": "earlier"
+        },
+        {
+          "startSec": 99.6,
+          "endSec": 99.8,
+          "text": "in"
+        },
+        {
+          "startSec": 99.8,
+          "endSec": 101.2,
+          "text": "1844,"
+        }
+      ]
+    },
+    {
+      "startSec": 99.8,
+      "endSec": 107.9,
+      "text": "1844, using a series of dots and dashes tapped out by hand on a telegraph wire. So what was",
+      "words": [
+        {
+          "startSec": 99.8,
+          "endSec": 101.2,
+          "text": "1844,"
+        },
+        {
+          "startSec": 101.2,
+          "endSec": 101.7,
+          "text": "using"
+        },
+        {
+          "startSec": 101.7,
+          "endSec": 101.8,
+          "text": "a"
+        },
+        {
+          "startSec": 101.8,
+          "endSec": 102.4,
+          "text": "series"
+        },
+        {
+          "startSec": 102.4,
+          "endSec": 102.6,
+          "text": "of"
+        },
+        {
+          "startSec": 102.6,
+          "endSec": 102.9,
+          "text": "dots"
+        },
+        {
+          "startSec": 102.9,
+          "endSec": 103.2,
+          "text": "and"
+        },
+        {
+          "startSec": 103.2,
+          "endSec": 103.8,
+          "text": "dashes"
+        },
+        {
+          "startSec": 103.8,
+          "endSec": 104.4,
+          "text": "tapped"
+        },
+        {
+          "startSec": 104.4,
+          "endSec": 104.7,
+          "text": "out"
+        },
+        {
+          "startSec": 104.7,
+          "endSec": 104.9,
+          "text": "by"
+        },
+        {
+          "startSec": 104.9,
+          "endSec": 105.3,
+          "text": "hand"
+        },
+        {
+          "startSec": 105.3,
+          "endSec": 105.5,
+          "text": "on"
+        },
+        {
+          "startSec": 105.5,
+          "endSec": 105.6,
+          "text": "a"
+        },
+        {
+          "startSec": 105.6,
+          "endSec": 106.5,
+          "text": "telegraph"
+        },
+        {
+          "startSec": 106.5,
+          "endSec": 107.1,
+          "text": "wire."
+        },
+        {
+          "startSec": 107.1,
+          "endSec": 107.8,
+          "text": "So"
+        },
+        {
+          "startSec": 107.8,
+          "endSec": 107.8,
+          "text": "what"
+        },
+        {
+          "startSec": 107.8,
+          "endSec": 107.9,
+          "text": "was"
+        }
+      ]
+    },
+    {
+      "startSec": 107.9,
+      "endSec": 117.1,
+      "text": "this new form of communication called? Was it A, semaphore, B, dial up, or C, Morse code?",
+      "words": [
+        {
+          "startSec": 108,
+          "endSec": 108.4,
+          "text": "this"
+        },
+        {
+          "startSec": 108.4,
+          "endSec": 108.7,
+          "text": "new"
+        },
+        {
+          "startSec": 108.7,
+          "endSec": 109.1,
+          "text": "form"
+        },
+        {
+          "startSec": 109.1,
+          "endSec": 109.4,
+          "text": "of"
+        },
+        {
+          "startSec": 109.4,
+          "endSec": 110.8,
+          "text": "communication"
+        },
+        {
+          "startSec": 110.8,
+          "endSec": 111.8,
+          "text": "called?"
+        },
+        {
+          "startSec": 111.8,
+          "endSec": 112.1,
+          "text": "Was"
+        },
+        {
+          "startSec": 112.1,
+          "endSec": 112.3,
+          "text": "it"
+        },
+        {
+          "startSec": 112.3,
+          "endSec": 112.7,
+          "text": "A,"
+        },
+        {
+          "startSec": 112.7,
+          "endSec": 113.9,
+          "text": "semaphore,"
+        },
+        {
+          "startSec": 113.9,
+          "endSec": 114.2,
+          "text": "B,"
+        },
+        {
+          "startSec": 114.2,
+          "endSec": 114.6,
+          "text": "dial"
+        },
+        {
+          "startSec": 114.6,
+          "endSec": 115.1,
+          "text": "up,"
+        },
+        {
+          "startSec": 115.1,
+          "endSec": 115.3,
+          "text": "or"
+        },
+        {
+          "startSec": 115.3,
+          "endSec": 115.9,
+          "text": "C,"
+        },
+        {
+          "startSec": 115.9,
+          "endSec": 116.2,
+          "text": "Morse"
+        },
+        {
+          "startSec": 116.2,
+          "endSec": 117.1,
+          "text": "code?"
+        },
+        {
+          "startSec": 117.1,
+          "endSec": 117.2,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 117.1,
+      "endSec": 119.4,
+      "text": "I think Morse code.",
+      "words": [
+        {
+          "startSec": 117.1,
+          "endSec": 117.2,
+          "text": "I"
+        },
+        {
+          "startSec": 117.2,
+          "endSec": 117.8,
+          "text": "think"
+        },
+        {
+          "startSec": 117.8,
+          "endSec": 118.5,
+          "text": "Morse"
+        },
+        {
+          "startSec": 118.5,
+          "endSec": 119.4,
+          "text": "code."
+        },
+        {
+          "startSec": 119.4,
+          "endSec": 120,
+          "text": "Okay,"
+        }
+      ]
+    },
+    {
+      "startSec": 119.4,
+      "endSec": 122.7,
+      "text": "Okay, we'll find out the answer later.",
+      "words": [
+        {
+          "startSec": 119.4,
+          "endSec": 120,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 120,
+          "endSec": 120.4,
+          "text": "we'll"
+        },
+        {
+          "startSec": 120.4,
+          "endSec": 120.8,
+          "text": "find"
+        },
+        {
+          "startSec": 120.8,
+          "endSec": 121.1,
+          "text": "out"
+        },
+        {
+          "startSec": 121.1,
+          "endSec": 121.4,
+          "text": "the"
+        },
+        {
+          "startSec": 121.4,
+          "endSec": 121.9,
+          "text": "answer"
+        },
+        {
+          "startSec": 121.9,
+          "endSec": 122.7,
+          "text": "later."
+        },
+        {
+          "startSec": 122.7,
+          "endSec": 122.9,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 122.7,
+      "endSec": 128.7,
+      "text": "The introduction of AI has turned some users away from social media. Indeed, a recent report",
+      "words": [
+        {
+          "startSec": 122.7,
+          "endSec": 122.9,
+          "text": "The"
+        },
+        {
+          "startSec": 122.9,
+          "endSec": 123.8,
+          "text": "introduction"
+        },
+        {
+          "startSec": 123.8,
+          "endSec": 124,
+          "text": "of"
+        },
+        {
+          "startSec": 124,
+          "endSec": 124.1,
+          "text": "AI"
+        },
+        {
+          "startSec": 124.1,
+          "endSec": 124.4,
+          "text": "has"
+        },
+        {
+          "startSec": 124.4,
+          "endSec": 124.8,
+          "text": "turned"
+        },
+        {
+          "startSec": 124.8,
+          "endSec": 125.1,
+          "text": "some"
+        },
+        {
+          "startSec": 125.1,
+          "endSec": 125.5,
+          "text": "users"
+        },
+        {
+          "startSec": 125.5,
+          "endSec": 125.8,
+          "text": "away"
+        },
+        {
+          "startSec": 125.8,
+          "endSec": 126.1,
+          "text": "from"
+        },
+        {
+          "startSec": 126.1,
+          "endSec": 126.5,
+          "text": "social"
+        },
+        {
+          "startSec": 126.5,
+          "endSec": 127.1,
+          "text": "media."
+        },
+        {
+          "startSec": 127.1,
+          "endSec": 127.7,
+          "text": "Indeed,"
+        },
+        {
+          "startSec": 127.7,
+          "endSec": 127.8,
+          "text": "a"
+        },
+        {
+          "startSec": 127.8,
+          "endSec": 128.3,
+          "text": "recent"
+        },
+        {
+          "startSec": 128.3,
+          "endSec": 128.7,
+          "text": "report"
+        },
+        {
+          "startSec": 128.7,
+          "endSec": 129.1,
+          "text": "found"
+        }
+      ]
+    },
+    {
+      "startSec": 128.7,
+      "endSec": 135.4,
+      "text": "found that social media activity peaked in 2022 and has been going down ever since.",
+      "words": [
+        {
+          "startSec": 128.7,
+          "endSec": 129.1,
+          "text": "found"
+        },
+        {
+          "startSec": 129.1,
+          "endSec": 129.5,
+          "text": "that"
+        },
+        {
+          "startSec": 129.5,
+          "endSec": 130,
+          "text": "social"
+        },
+        {
+          "startSec": 130,
+          "endSec": 130.4,
+          "text": "media"
+        },
+        {
+          "startSec": 130.4,
+          "endSec": 131.1,
+          "text": "activity"
+        },
+        {
+          "startSec": 131.1,
+          "endSec": 131.6,
+          "text": "peaked"
+        },
+        {
+          "startSec": 131.6,
+          "endSec": 131.7,
+          "text": "in"
+        },
+        {
+          "startSec": 131.7,
+          "endSec": 132.7,
+          "text": "2022"
+        },
+        {
+          "startSec": 132.7,
+          "endSec": 133,
+          "text": "and"
+        },
+        {
+          "startSec": 133,
+          "endSec": 133.2,
+          "text": "has"
+        },
+        {
+          "startSec": 133.2,
+          "endSec": 133.6,
+          "text": "been"
+        },
+        {
+          "startSec": 133.6,
+          "endSec": 134,
+          "text": "going"
+        },
+        {
+          "startSec": 134,
+          "endSec": 134.3,
+          "text": "down"
+        },
+        {
+          "startSec": 134.3,
+          "endSec": 134.6,
+          "text": "ever"
+        },
+        {
+          "startSec": 134.6,
+          "endSec": 135.4,
+          "text": "since."
+        }
+      ]
+    },
+    {
+      "startSec": 135.4,
+      "endSec": 140.7,
+      "text": "Millennial and digital native Kyle Chaker is a writer specializing in social media. He",
+      "words": [
+        {
+          "startSec": 135.5,
+          "endSec": 136.1,
+          "text": "Millennial"
+        },
+        {
+          "startSec": 136.1,
+          "endSec": 136.3,
+          "text": "and"
+        },
+        {
+          "startSec": 136.3,
+          "endSec": 136.8,
+          "text": "digital"
+        },
+        {
+          "startSec": 136.8,
+          "endSec": 137.2,
+          "text": "native"
+        },
+        {
+          "startSec": 137.2,
+          "endSec": 137.5,
+          "text": "Kyle"
+        },
+        {
+          "startSec": 137.5,
+          "endSec": 137.9,
+          "text": "Chaker"
+        },
+        {
+          "startSec": 137.9,
+          "endSec": 138.1,
+          "text": "is"
+        },
+        {
+          "startSec": 138.1,
+          "endSec": 138.1,
+          "text": "a"
+        },
+        {
+          "startSec": 138.1,
+          "endSec": 138.6,
+          "text": "writer"
+        },
+        {
+          "startSec": 138.6,
+          "endSec": 139.4,
+          "text": "specializing"
+        },
+        {
+          "startSec": 139.4,
+          "endSec": 139.6,
+          "text": "in"
+        },
+        {
+          "startSec": 139.6,
+          "endSec": 140,
+          "text": "social"
+        },
+        {
+          "startSec": 140,
+          "endSec": 140.7,
+          "text": "media."
+        },
+        {
+          "startSec": 140.7,
+          "endSec": 140.7,
+          "text": "He"
+        },
+        {
+          "startSec": 140.7,
+          "endSec": 141,
+          "text": "spoke"
+        }
+      ]
+    },
+    {
+      "startSec": 140.7,
+      "endSec": 145.2,
+      "text": "spoke about the problem to Tristan Redmond for BBC World Service programme, The Global",
+      "words": [
+        {
+          "startSec": 140.7,
+          "endSec": 140.7,
+          "text": "He"
+        },
+        {
+          "startSec": 140.7,
+          "endSec": 141,
+          "text": "spoke"
+        },
+        {
+          "startSec": 141,
+          "endSec": 141.3,
+          "text": "about"
+        },
+        {
+          "startSec": 141.3,
+          "endSec": 141.5,
+          "text": "the"
+        },
+        {
+          "startSec": 141.5,
+          "endSec": 141.9,
+          "text": "problem"
+        },
+        {
+          "startSec": 141.9,
+          "endSec": 142,
+          "text": "to"
+        },
+        {
+          "startSec": 142,
+          "endSec": 142.4,
+          "text": "Tristan"
+        },
+        {
+          "startSec": 142.4,
+          "endSec": 142.9,
+          "text": "Redmond"
+        },
+        {
+          "startSec": 142.9,
+          "endSec": 143,
+          "text": "for"
+        },
+        {
+          "startSec": 143,
+          "endSec": 143.2,
+          "text": "BBC"
+        },
+        {
+          "startSec": 143.2,
+          "endSec": 143.5,
+          "text": "World"
+        },
+        {
+          "startSec": 143.5,
+          "endSec": 144,
+          "text": "Service"
+        },
+        {
+          "startSec": 144,
+          "endSec": 144.6,
+          "text": "programme,"
+        },
+        {
+          "startSec": 144.6,
+          "endSec": 144.8,
+          "text": "The"
+        },
+        {
+          "startSec": 144.8,
+          "endSec": 145.2,
+          "text": "Global"
+        },
+        {
+          "startSec": 145.2,
+          "endSec": 146.2,
+          "text": "Story."
+        }
+      ]
+    },
+    {
+      "startSec": 145.2,
+      "endSec": 146.2,
+      "text": "Story.",
+      "words": [
+        {
+          "startSec": 145.2,
+          "endSec": 146.2,
+          "text": "Story."
+        },
+        {
+          "startSec": 146.2,
+          "endSec": 146.9,
+          "text": "Okay,"
+        }
+      ]
+    },
+    {
+      "startSec": 146.2,
+      "endSec": 153.6,
+      "text": "Okay, Kyle, was there a moment for you when you felt like social media changed?",
+      "words": [
+        {
+          "startSec": 146.2,
+          "endSec": 146.9,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 146.9,
+          "endSec": 147.5,
+          "text": "Kyle,"
+        },
+        {
+          "startSec": 147.5,
+          "endSec": 147.8,
+          "text": "was"
+        },
+        {
+          "startSec": 147.8,
+          "endSec": 148.4,
+          "text": "there"
+        },
+        {
+          "startSec": 148.4,
+          "endSec": 148.5,
+          "text": "a"
+        },
+        {
+          "startSec": 148.5,
+          "endSec": 149.1,
+          "text": "moment"
+        },
+        {
+          "startSec": 149.1,
+          "endSec": 149.4,
+          "text": "for"
+        },
+        {
+          "startSec": 149.4,
+          "endSec": 149.7,
+          "text": "you"
+        },
+        {
+          "startSec": 149.7,
+          "endSec": 150.1,
+          "text": "when"
+        },
+        {
+          "startSec": 150.1,
+          "endSec": 150.5,
+          "text": "you"
+        },
+        {
+          "startSec": 150.5,
+          "endSec": 150.9,
+          "text": "felt"
+        },
+        {
+          "startSec": 150.9,
+          "endSec": 151.3,
+          "text": "like"
+        },
+        {
+          "startSec": 151.3,
+          "endSec": 151.9,
+          "text": "social"
+        },
+        {
+          "startSec": 151.9,
+          "endSec": 152.5,
+          "text": "media"
+        },
+        {
+          "startSec": 152.5,
+          "endSec": 153.6,
+          "text": "changed?"
+        },
+        {
+          "startSec": 153.6,
+          "endSec": 154,
+          "text": "Oh,"
+        }
+      ]
+    },
+    {
+      "startSec": 153.6,
+      "endSec": 162.2,
+      "text": "Oh, man. I mean, in 2015, 2016, I think, in the United States, when Twitter became the",
+      "words": [
+        {
+          "startSec": 153.6,
+          "endSec": 154,
+          "text": "Oh,"
+        },
+        {
+          "startSec": 154,
+          "endSec": 154.5,
+          "text": "man."
+        },
+        {
+          "startSec": 154.5,
+          "endSec": 154.6,
+          "text": "I"
+        },
+        {
+          "startSec": 154.6,
+          "endSec": 155.1,
+          "text": "mean,"
+        },
+        {
+          "startSec": 155.1,
+          "endSec": 155.3,
+          "text": "in"
+        },
+        {
+          "startSec": 155.3,
+          "endSec": 156.6,
+          "text": "2015,"
+        },
+        {
+          "startSec": 156.6,
+          "endSec": 157.9,
+          "text": "2016,"
+        },
+        {
+          "startSec": 157.9,
+          "endSec": 158,
+          "text": "I"
+        },
+        {
+          "startSec": 158,
+          "endSec": 158.6,
+          "text": "think,"
+        },
+        {
+          "startSec": 158.6,
+          "endSec": 158.8,
+          "text": "in"
+        },
+        {
+          "startSec": 158.8,
+          "endSec": 159.1,
+          "text": "the"
+        },
+        {
+          "startSec": 159.1,
+          "endSec": 159.6,
+          "text": "United"
+        },
+        {
+          "startSec": 159.6,
+          "endSec": 160.4,
+          "text": "States,"
+        },
+        {
+          "startSec": 160.4,
+          "endSec": 160.7,
+          "text": "when"
+        },
+        {
+          "startSec": 160.7,
+          "endSec": 161.6,
+          "text": "Twitter"
+        },
+        {
+          "startSec": 161.6,
+          "endSec": 162,
+          "text": "became"
+        },
+        {
+          "startSec": 162,
+          "endSec": 162.2,
+          "text": "the"
+        },
+        {
+          "startSec": 162.2,
+          "endSec": 162.4,
+          "text": "hub"
+        }
+      ]
+    },
+    {
+      "startSec": 162.2,
+      "endSec": 169.2,
+      "text": "hub of election discourse, it kind of shattered the illusion that the internet was a space",
+      "words": [
+        {
+          "startSec": 162.2,
+          "endSec": 162.4,
+          "text": "hub"
+        },
+        {
+          "startSec": 162.4,
+          "endSec": 162.6,
+          "text": "of"
+        },
+        {
+          "startSec": 162.6,
+          "endSec": 163.4,
+          "text": "election"
+        },
+        {
+          "startSec": 163.4,
+          "endSec": 164.4,
+          "text": "discourse,"
+        },
+        {
+          "startSec": 164.4,
+          "endSec": 164.5,
+          "text": "it"
+        },
+        {
+          "startSec": 164.5,
+          "endSec": 164.9,
+          "text": "kind"
+        },
+        {
+          "startSec": 164.9,
+          "endSec": 165.1,
+          "text": "of"
+        },
+        {
+          "startSec": 165.1,
+          "endSec": 165.9,
+          "text": "shattered"
+        },
+        {
+          "startSec": 165.9,
+          "endSec": 166.2,
+          "text": "the"
+        },
+        {
+          "startSec": 166.2,
+          "endSec": 166.9,
+          "text": "illusion"
+        },
+        {
+          "startSec": 166.9,
+          "endSec": 167.3,
+          "text": "that"
+        },
+        {
+          "startSec": 167.3,
+          "endSec": 167.6,
+          "text": "the"
+        },
+        {
+          "startSec": 167.6,
+          "endSec": 168.3,
+          "text": "internet"
+        },
+        {
+          "startSec": 168.3,
+          "endSec": 168.6,
+          "text": "was"
+        },
+        {
+          "startSec": 168.6,
+          "endSec": 168.7,
+          "text": "a"
+        },
+        {
+          "startSec": 168.7,
+          "endSec": 169.2,
+          "text": "space"
+        },
+        {
+          "startSec": 169.2,
+          "endSec": 169.5,
+          "text": "you"
+        }
+      ]
+    },
+    {
+      "startSec": 169.2,
+      "endSec": 176.8,
+      "text": "you could go to just, like, have fun and express yourself and finds cool friends and discuss",
+      "words": [
+        {
+          "startSec": 169.2,
+          "endSec": 169.5,
+          "text": "you"
+        },
+        {
+          "startSec": 169.5,
+          "endSec": 170,
+          "text": "could"
+        },
+        {
+          "startSec": 170,
+          "endSec": 170.1,
+          "text": "go"
+        },
+        {
+          "startSec": 170.1,
+          "endSec": 170.3,
+          "text": "to"
+        },
+        {
+          "startSec": 170.3,
+          "endSec": 170.9,
+          "text": "just,"
+        },
+        {
+          "startSec": 170.9,
+          "endSec": 171.4,
+          "text": "like,"
+        },
+        {
+          "startSec": 171.4,
+          "endSec": 171.8,
+          "text": "have"
+        },
+        {
+          "startSec": 171.8,
+          "endSec": 172,
+          "text": "fun"
+        },
+        {
+          "startSec": 172,
+          "endSec": 172.3,
+          "text": "and"
+        },
+        {
+          "startSec": 172.3,
+          "endSec": 172.9,
+          "text": "express"
+        },
+        {
+          "startSec": 172.9,
+          "endSec": 173.7,
+          "text": "yourself"
+        },
+        {
+          "startSec": 173.7,
+          "endSec": 173.9,
+          "text": "and"
+        },
+        {
+          "startSec": 173.9,
+          "endSec": 174.4,
+          "text": "finds"
+        },
+        {
+          "startSec": 174.4,
+          "endSec": 174.7,
+          "text": "cool"
+        },
+        {
+          "startSec": 174.7,
+          "endSec": 175.4,
+          "text": "friends"
+        },
+        {
+          "startSec": 175.4,
+          "endSec": 175.8,
+          "text": "and"
+        },
+        {
+          "startSec": 175.8,
+          "endSec": 176.8,
+          "text": "discuss"
+        },
+        {
+          "startSec": 176.8,
+          "endSec": 177.1,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 176.8,
+      "endSec": 179.4,
+      "text": "the latest cultural happenings.",
+      "words": [
+        {
+          "startSec": 176.8,
+          "endSec": 177.1,
+          "text": "the"
+        },
+        {
+          "startSec": 177.1,
+          "endSec": 177.6,
+          "text": "latest"
+        },
+        {
+          "startSec": 177.6,
+          "endSec": 178.3,
+          "text": "cultural"
+        },
+        {
+          "startSec": 178.3,
+          "endSec": 179.4,
+          "text": "happenings."
+        },
+        {
+          "startSec": 179.4,
+          "endSec": 179.7,
+          "text": "Kyle"
+        }
+      ]
+    },
+    {
+      "startSec": 179.4,
+      "endSec": 185.8,
+      "text": "Kyle uses the informal expression, Oh, man, an exclamation showing excitement or enthusiasm.",
+      "words": [
+        {
+          "startSec": 179.4,
+          "endSec": 179.7,
+          "text": "Kyle"
+        },
+        {
+          "startSec": 179.7,
+          "endSec": 180,
+          "text": "uses"
+        },
+        {
+          "startSec": 180,
+          "endSec": 180.2,
+          "text": "the"
+        },
+        {
+          "startSec": 180.2,
+          "endSec": 180.8,
+          "text": "informal"
+        },
+        {
+          "startSec": 180.8,
+          "endSec": 181.7,
+          "text": "expression,"
+        },
+        {
+          "startSec": 181.7,
+          "endSec": 182,
+          "text": "Oh,"
+        },
+        {
+          "startSec": 182,
+          "endSec": 182.4,
+          "text": "man,"
+        },
+        {
+          "startSec": 182.4,
+          "endSec": 182.5,
+          "text": "an"
+        },
+        {
+          "startSec": 182.5,
+          "endSec": 183.4,
+          "text": "exclamation"
+        },
+        {
+          "startSec": 183.4,
+          "endSec": 183.9,
+          "text": "showing"
+        },
+        {
+          "startSec": 183.9,
+          "endSec": 184.6,
+          "text": "excitement"
+        },
+        {
+          "startSec": 184.6,
+          "endSec": 184.8,
+          "text": "or"
+        },
+        {
+          "startSec": 184.8,
+          "endSec": 185.8,
+          "text": "enthusiasm."
+        },
+        {
+          "startSec": 185.8,
+          "endSec": 186,
+          "text": "He"
+        }
+      ]
+    },
+    {
+      "startSec": 185.8,
+      "endSec": 190.9,
+      "text": "He remembers the internet in 2016 when Twitter was full of angry political debate about the",
+      "words": [
+        {
+          "startSec": 185.8,
+          "endSec": 186,
+          "text": "He"
+        },
+        {
+          "startSec": 186,
+          "endSec": 186.5,
+          "text": "remembers"
+        },
+        {
+          "startSec": 186.5,
+          "endSec": 186.7,
+          "text": "the"
+        },
+        {
+          "startSec": 186.7,
+          "endSec": 187.1,
+          "text": "internet"
+        },
+        {
+          "startSec": 187.1,
+          "endSec": 187.3,
+          "text": "in"
+        },
+        {
+          "startSec": 187.3,
+          "endSec": 188,
+          "text": "2016"
+        },
+        {
+          "startSec": 188,
+          "endSec": 188.2,
+          "text": "when"
+        },
+        {
+          "startSec": 188.2,
+          "endSec": 188.7,
+          "text": "Twitter"
+        },
+        {
+          "startSec": 188.7,
+          "endSec": 188.8,
+          "text": "was"
+        },
+        {
+          "startSec": 188.8,
+          "endSec": 189.1,
+          "text": "full"
+        },
+        {
+          "startSec": 189.1,
+          "endSec": 189.2,
+          "text": "of"
+        },
+        {
+          "startSec": 189.2,
+          "endSec": 189.5,
+          "text": "angry"
+        },
+        {
+          "startSec": 189.5,
+          "endSec": 190.1,
+          "text": "political"
+        },
+        {
+          "startSec": 190.1,
+          "endSec": 190.4,
+          "text": "debate"
+        },
+        {
+          "startSec": 190.4,
+          "endSec": 190.8,
+          "text": "about"
+        },
+        {
+          "startSec": 190.8,
+          "endSec": 190.9,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 190.9,
+      "endSec": 197,
+      "text": "US elections. For Kyle, this shattered the illusion that the internet was fun. If something",
+      "words": [
+        {
+          "startSec": 191,
+          "endSec": 191.1,
+          "text": "US"
+        },
+        {
+          "startSec": 191.1,
+          "endSec": 192.4,
+          "text": "elections."
+        },
+        {
+          "startSec": 192.4,
+          "endSec": 192.6,
+          "text": "For"
+        },
+        {
+          "startSec": 192.6,
+          "endSec": 192.9,
+          "text": "Kyle,"
+        },
+        {
+          "startSec": 192.9,
+          "endSec": 193.2,
+          "text": "this"
+        },
+        {
+          "startSec": 193.2,
+          "endSec": 193.8,
+          "text": "shattered"
+        },
+        {
+          "startSec": 193.8,
+          "endSec": 193.9,
+          "text": "the"
+        },
+        {
+          "startSec": 193.9,
+          "endSec": 194.5,
+          "text": "illusion"
+        },
+        {
+          "startSec": 194.5,
+          "endSec": 194.8,
+          "text": "that"
+        },
+        {
+          "startSec": 194.8,
+          "endSec": 195,
+          "text": "the"
+        },
+        {
+          "startSec": 195,
+          "endSec": 195.7,
+          "text": "internet"
+        },
+        {
+          "startSec": 195.7,
+          "endSec": 196,
+          "text": "was"
+        },
+        {
+          "startSec": 196,
+          "endSec": 196.6,
+          "text": "fun."
+        },
+        {
+          "startSec": 196.6,
+          "endSec": 196.6,
+          "text": "If"
+        },
+        {
+          "startSec": 196.6,
+          "endSec": 197,
+          "text": "something"
+        },
+        {
+          "startSec": 197,
+          "endSec": 197.6,
+          "text": "shatters"
+        }
+      ]
+    },
+    {
+      "startSec": 197,
+      "endSec": 202.7,
+      "text": "shatters your illusions, it destroys a false belief you hold, making you realise an unpleasant",
+      "words": [
+        {
+          "startSec": 197,
+          "endSec": 197.6,
+          "text": "shatters"
+        },
+        {
+          "startSec": 197.6,
+          "endSec": 197.9,
+          "text": "your"
+        },
+        {
+          "startSec": 197.9,
+          "endSec": 198.6,
+          "text": "illusions,"
+        },
+        {
+          "startSec": 198.6,
+          "endSec": 198.7,
+          "text": "it"
+        },
+        {
+          "startSec": 198.7,
+          "endSec": 199.3,
+          "text": "destroys"
+        },
+        {
+          "startSec": 199.3,
+          "endSec": 199.3,
+          "text": "a"
+        },
+        {
+          "startSec": 199.3,
+          "endSec": 199.7,
+          "text": "false"
+        },
+        {
+          "startSec": 199.7,
+          "endSec": 200.1,
+          "text": "belief"
+        },
+        {
+          "startSec": 200.1,
+          "endSec": 200.3,
+          "text": "you"
+        },
+        {
+          "startSec": 200.3,
+          "endSec": 200.7,
+          "text": "hold,"
+        },
+        {
+          "startSec": 200.7,
+          "endSec": 201.1,
+          "text": "making"
+        },
+        {
+          "startSec": 201.1,
+          "endSec": 201.3,
+          "text": "you"
+        },
+        {
+          "startSec": 201.3,
+          "endSec": 201.8,
+          "text": "realise"
+        },
+        {
+          "startSec": 201.8,
+          "endSec": 201.9,
+          "text": "an"
+        },
+        {
+          "startSec": 201.9,
+          "endSec": 202.7,
+          "text": "unpleasant"
+        },
+        {
+          "startSec": 202.7,
+          "endSec": 203.7,
+          "text": "truth."
+        }
+      ]
+    },
+    {
+      "startSec": 202.7,
+      "endSec": 203.7,
+      "text": "truth.",
+      "words": [
+        {
+          "startSec": 202.7,
+          "endSec": 203.7,
+          "text": "truth."
+        },
+        {
+          "startSec": 203.7,
+          "endSec": 204,
+          "text": "Kyle"
+        }
+      ]
+    },
+    {
+      "startSec": 203.7,
+      "endSec": 209.6,
+      "text": "Kyle thinks social media was friendlier before, an online space to make friends, have fun,",
+      "words": [
+        {
+          "startSec": 203.7,
+          "endSec": 204,
+          "text": "Kyle"
+        },
+        {
+          "startSec": 204,
+          "endSec": 204.5,
+          "text": "thinks"
+        },
+        {
+          "startSec": 204.5,
+          "endSec": 204.9,
+          "text": "social"
+        },
+        {
+          "startSec": 204.9,
+          "endSec": 205.3,
+          "text": "media"
+        },
+        {
+          "startSec": 205.3,
+          "endSec": 205.5,
+          "text": "was"
+        },
+        {
+          "startSec": 205.5,
+          "endSec": 206.2,
+          "text": "friendlier"
+        },
+        {
+          "startSec": 206.2,
+          "endSec": 206.8,
+          "text": "before,"
+        },
+        {
+          "startSec": 206.8,
+          "endSec": 206.9,
+          "text": "an"
+        },
+        {
+          "startSec": 206.9,
+          "endSec": 207.4,
+          "text": "online"
+        },
+        {
+          "startSec": 207.4,
+          "endSec": 207.8,
+          "text": "space"
+        },
+        {
+          "startSec": 207.8,
+          "endSec": 207.9,
+          "text": "to"
+        },
+        {
+          "startSec": 207.9,
+          "endSec": 208.2,
+          "text": "make"
+        },
+        {
+          "startSec": 208.2,
+          "endSec": 208.9,
+          "text": "friends,"
+        },
+        {
+          "startSec": 208.9,
+          "endSec": 209.1,
+          "text": "have"
+        },
+        {
+          "startSec": 209.1,
+          "endSec": 209.6,
+          "text": "fun,"
+        },
+        {
+          "startSec": 209.6,
+          "endSec": 209.8,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 209.6,
+      "endSec": 214.8,
+      "text": "and discuss the latest cultural happenings. A cultural happening is an event that embodies",
+      "words": [
+        {
+          "startSec": 209.6,
+          "endSec": 209.8,
+          "text": "and"
+        },
+        {
+          "startSec": 209.8,
+          "endSec": 210.3,
+          "text": "discuss"
+        },
+        {
+          "startSec": 210.3,
+          "endSec": 210.5,
+          "text": "the"
+        },
+        {
+          "startSec": 210.5,
+          "endSec": 210.9,
+          "text": "latest"
+        },
+        {
+          "startSec": 210.9,
+          "endSec": 211.4,
+          "text": "cultural"
+        },
+        {
+          "startSec": 211.4,
+          "endSec": 212.3,
+          "text": "happenings."
+        },
+        {
+          "startSec": 212.3,
+          "endSec": 212.4,
+          "text": "A"
+        },
+        {
+          "startSec": 212.4,
+          "endSec": 212.9,
+          "text": "cultural"
+        },
+        {
+          "startSec": 212.9,
+          "endSec": 213.4,
+          "text": "happening"
+        },
+        {
+          "startSec": 213.4,
+          "endSec": 213.6,
+          "text": "is"
+        },
+        {
+          "startSec": 213.6,
+          "endSec": 213.7,
+          "text": "an"
+        },
+        {
+          "startSec": 213.7,
+          "endSec": 214,
+          "text": "event"
+        },
+        {
+          "startSec": 214,
+          "endSec": 214.2,
+          "text": "that"
+        },
+        {
+          "startSec": 214.2,
+          "endSec": 214.8,
+          "text": "embodies"
+        },
+        {
+          "startSec": 214.8,
+          "endSec": 215,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 214.8,
+      "endSec": 220.1,
+      "text": "the values and interests of a particular group at a particular time in history. For example,",
+      "words": [
+        {
+          "startSec": 214.8,
+          "endSec": 215,
+          "text": "the"
+        },
+        {
+          "startSec": 215,
+          "endSec": 215.4,
+          "text": "values"
+        },
+        {
+          "startSec": 215.4,
+          "endSec": 215.6,
+          "text": "and"
+        },
+        {
+          "startSec": 215.6,
+          "endSec": 216.2,
+          "text": "interests"
+        },
+        {
+          "startSec": 216.2,
+          "endSec": 216.3,
+          "text": "of"
+        },
+        {
+          "startSec": 216.3,
+          "endSec": 216.4,
+          "text": "a"
+        },
+        {
+          "startSec": 216.4,
+          "endSec": 217.1,
+          "text": "particular"
+        },
+        {
+          "startSec": 217.1,
+          "endSec": 217.4,
+          "text": "group"
+        },
+        {
+          "startSec": 217.4,
+          "endSec": 217.5,
+          "text": "at"
+        },
+        {
+          "startSec": 217.5,
+          "endSec": 217.6,
+          "text": "a"
+        },
+        {
+          "startSec": 217.6,
+          "endSec": 218.3,
+          "text": "particular"
+        },
+        {
+          "startSec": 218.3,
+          "endSec": 218.5,
+          "text": "time"
+        },
+        {
+          "startSec": 218.5,
+          "endSec": 218.7,
+          "text": "in"
+        },
+        {
+          "startSec": 218.7,
+          "endSec": 219.4,
+          "text": "history."
+        },
+        {
+          "startSec": 219.4,
+          "endSec": 219.5,
+          "text": "For"
+        },
+        {
+          "startSec": 219.5,
+          "endSec": 220.1,
+          "text": "example,"
+        }
+      ]
+    },
+    {
+      "startSec": 220.1,
+      "endSec": 224.4,
+      "text": "the hit television show Game of Thrones was a cultural happening for millennials in the",
+      "words": [
+        {
+          "startSec": 220.2,
+          "endSec": 220.3,
+          "text": "the"
+        },
+        {
+          "startSec": 220.3,
+          "endSec": 220.4,
+          "text": "hit"
+        },
+        {
+          "startSec": 220.4,
+          "endSec": 221,
+          "text": "television"
+        },
+        {
+          "startSec": 221,
+          "endSec": 221.2,
+          "text": "show"
+        },
+        {
+          "startSec": 221.2,
+          "endSec": 221.4,
+          "text": "Game"
+        },
+        {
+          "startSec": 221.4,
+          "endSec": 221.6,
+          "text": "of"
+        },
+        {
+          "startSec": 221.6,
+          "endSec": 221.9,
+          "text": "Thrones"
+        },
+        {
+          "startSec": 221.9,
+          "endSec": 222.1,
+          "text": "was"
+        },
+        {
+          "startSec": 222.1,
+          "endSec": 222.2,
+          "text": "a"
+        },
+        {
+          "startSec": 222.2,
+          "endSec": 222.6,
+          "text": "cultural"
+        },
+        {
+          "startSec": 222.6,
+          "endSec": 223.1,
+          "text": "happening"
+        },
+        {
+          "startSec": 223.1,
+          "endSec": 223.3,
+          "text": "for"
+        },
+        {
+          "startSec": 223.3,
+          "endSec": 223.9,
+          "text": "millennials"
+        },
+        {
+          "startSec": 223.9,
+          "endSec": 224.1,
+          "text": "in"
+        },
+        {
+          "startSec": 224.1,
+          "endSec": 224.4,
+          "text": "the"
+        },
+        {
+          "startSec": 224.4,
+          "endSec": 225.4,
+          "text": "2010s."
+        }
+      ]
+    },
+    {
+      "startSec": 224.4,
+      "endSec": 225.4,
+      "text": "2010s.",
+      "words": [
+        {
+          "startSec": 224.4,
+          "endSec": 225.4,
+          "text": "2010s."
+        },
+        {
+          "startSec": 225.4,
+          "endSec": 225.5,
+          "text": "So"
+        }
+      ]
+    },
+    {
+      "startSec": 225.4,
+      "endSec": 231.2,
+      "text": "So what's the future of social media? Will the amount of AI generated content continue",
+      "words": [
+        {
+          "startSec": 225.4,
+          "endSec": 225.5,
+          "text": "So"
+        },
+        {
+          "startSec": 225.5,
+          "endSec": 226,
+          "text": "what's"
+        },
+        {
+          "startSec": 226,
+          "endSec": 226.2,
+          "text": "the"
+        },
+        {
+          "startSec": 226.2,
+          "endSec": 226.7,
+          "text": "future"
+        },
+        {
+          "startSec": 226.7,
+          "endSec": 226.8,
+          "text": "of"
+        },
+        {
+          "startSec": 226.8,
+          "endSec": 227.3,
+          "text": "social"
+        },
+        {
+          "startSec": 227.3,
+          "endSec": 227.9,
+          "text": "media?"
+        },
+        {
+          "startSec": 227.9,
+          "endSec": 228.2,
+          "text": "Will"
+        },
+        {
+          "startSec": 228.2,
+          "endSec": 228.5,
+          "text": "the"
+        },
+        {
+          "startSec": 228.5,
+          "endSec": 228.9,
+          "text": "amount"
+        },
+        {
+          "startSec": 228.9,
+          "endSec": 229.1,
+          "text": "of"
+        },
+        {
+          "startSec": 229.1,
+          "endSec": 229.2,
+          "text": "AI"
+        },
+        {
+          "startSec": 229.2,
+          "endSec": 229.9,
+          "text": "generated"
+        },
+        {
+          "startSec": 229.9,
+          "endSec": 230.5,
+          "text": "content"
+        },
+        {
+          "startSec": 230.5,
+          "endSec": 231.2,
+          "text": "continue"
+        },
+        {
+          "startSec": 231.2,
+          "endSec": 231.5,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 231.2,
+      "endSec": 236.4,
+      "text": "to grow? Here's Kyle Chaker again, sharing his thoughts with BBC World Services, the",
+      "words": [
+        {
+          "startSec": 231.2,
+          "endSec": 231.5,
+          "text": "to"
+        },
+        {
+          "startSec": 231.5,
+          "endSec": 232.4,
+          "text": "grow?"
+        },
+        {
+          "startSec": 232.4,
+          "endSec": 232.7,
+          "text": "Here's"
+        },
+        {
+          "startSec": 232.7,
+          "endSec": 232.9,
+          "text": "Kyle"
+        },
+        {
+          "startSec": 232.9,
+          "endSec": 233.2,
+          "text": "Chaker"
+        },
+        {
+          "startSec": 233.2,
+          "endSec": 233.6,
+          "text": "again,"
+        },
+        {
+          "startSec": 233.6,
+          "endSec": 234,
+          "text": "sharing"
+        },
+        {
+          "startSec": 234,
+          "endSec": 234.2,
+          "text": "his"
+        },
+        {
+          "startSec": 234.2,
+          "endSec": 234.6,
+          "text": "thoughts"
+        },
+        {
+          "startSec": 234.6,
+          "endSec": 234.9,
+          "text": "with"
+        },
+        {
+          "startSec": 234.9,
+          "endSec": 235.1,
+          "text": "BBC"
+        },
+        {
+          "startSec": 235.1,
+          "endSec": 235.5,
+          "text": "World"
+        },
+        {
+          "startSec": 235.5,
+          "endSec": 236.2,
+          "text": "Services,"
+        },
+        {
+          "startSec": 236.2,
+          "endSec": 236.4,
+          "text": "the"
+        },
+        {
+          "startSec": 236.4,
+          "endSec": 237.1,
+          "text": "global"
+        }
+      ]
+    },
+    {
+      "startSec": 236.4,
+      "endSec": 238,
+      "text": "global story.",
+      "words": [
+        {
+          "startSec": 236.4,
+          "endSec": 237.1,
+          "text": "global"
+        },
+        {
+          "startSec": 237.1,
+          "endSec": 238,
+          "text": "story."
+        },
+        {
+          "startSec": 238,
+          "endSec": 238.2,
+          "text": "We"
+        }
+      ]
+    },
+    {
+      "startSec": 238,
+      "endSec": 244.5,
+      "text": "We see the large social networks and the tech behemoths leaning in to generated content.",
+      "words": [
+        {
+          "startSec": 238,
+          "endSec": 238.2,
+          "text": "We"
+        },
+        {
+          "startSec": 238.2,
+          "endSec": 238.4,
+          "text": "see"
+        },
+        {
+          "startSec": 238.4,
+          "endSec": 238.7,
+          "text": "the"
+        },
+        {
+          "startSec": 238.7,
+          "endSec": 239.1,
+          "text": "large"
+        },
+        {
+          "startSec": 239.1,
+          "endSec": 239.6,
+          "text": "social"
+        },
+        {
+          "startSec": 239.6,
+          "endSec": 240.3,
+          "text": "networks"
+        },
+        {
+          "startSec": 240.3,
+          "endSec": 240.6,
+          "text": "and"
+        },
+        {
+          "startSec": 240.6,
+          "endSec": 240.9,
+          "text": "the"
+        },
+        {
+          "startSec": 240.9,
+          "endSec": 241.2,
+          "text": "tech"
+        },
+        {
+          "startSec": 241.2,
+          "endSec": 242,
+          "text": "behemoths"
+        },
+        {
+          "startSec": 242,
+          "endSec": 242.6,
+          "text": "leaning"
+        },
+        {
+          "startSec": 242.6,
+          "endSec": 242.7,
+          "text": "in"
+        },
+        {
+          "startSec": 242.7,
+          "endSec": 242.9,
+          "text": "to"
+        },
+        {
+          "startSec": 242.9,
+          "endSec": 243.7,
+          "text": "generated"
+        },
+        {
+          "startSec": 243.7,
+          "endSec": 244.5,
+          "text": "content."
+        },
+        {
+          "startSec": 244.5,
+          "endSec": 244.6,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 244.5,
+      "endSec": 249.7,
+      "text": "And I think users don't actually want that. I think it's a novelty for now. And people",
+      "words": [
+        {
+          "startSec": 244.5,
+          "endSec": 244.6,
+          "text": "And"
+        },
+        {
+          "startSec": 244.6,
+          "endSec": 244.7,
+          "text": "I"
+        },
+        {
+          "startSec": 244.7,
+          "endSec": 244.9,
+          "text": "think"
+        },
+        {
+          "startSec": 244.9,
+          "endSec": 245.2,
+          "text": "users"
+        },
+        {
+          "startSec": 245.2,
+          "endSec": 245.4,
+          "text": "don't"
+        },
+        {
+          "startSec": 245.4,
+          "endSec": 245.8,
+          "text": "actually"
+        },
+        {
+          "startSec": 245.8,
+          "endSec": 246,
+          "text": "want"
+        },
+        {
+          "startSec": 246,
+          "endSec": 246.4,
+          "text": "that."
+        },
+        {
+          "startSec": 246.4,
+          "endSec": 246.5,
+          "text": "I"
+        },
+        {
+          "startSec": 246.5,
+          "endSec": 247,
+          "text": "think"
+        },
+        {
+          "startSec": 247,
+          "endSec": 247.5,
+          "text": "it's"
+        },
+        {
+          "startSec": 247.5,
+          "endSec": 247.6,
+          "text": "a"
+        },
+        {
+          "startSec": 247.6,
+          "endSec": 248.3,
+          "text": "novelty"
+        },
+        {
+          "startSec": 248.3,
+          "endSec": 248.6,
+          "text": "for"
+        },
+        {
+          "startSec": 248.6,
+          "endSec": 249.3,
+          "text": "now."
+        },
+        {
+          "startSec": 249.3,
+          "endSec": 249.5,
+          "text": "And"
+        },
+        {
+          "startSec": 249.5,
+          "endSec": 249.7,
+          "text": "people"
+        }
+      ]
+    },
+    {
+      "startSec": 249.7,
+      "endSec": 257,
+      "text": "drift away from it. So instead I see people gravitating towards smaller online spaces,",
+      "words": [
+        {
+          "startSec": 249.8,
+          "endSec": 250.2,
+          "text": "drift"
+        },
+        {
+          "startSec": 250.2,
+          "endSec": 250.6,
+          "text": "away"
+        },
+        {
+          "startSec": 250.6,
+          "endSec": 251,
+          "text": "from"
+        },
+        {
+          "startSec": 251,
+          "endSec": 251.4,
+          "text": "it."
+        },
+        {
+          "startSec": 251.4,
+          "endSec": 251.6,
+          "text": "So"
+        },
+        {
+          "startSec": 251.6,
+          "endSec": 252.3,
+          "text": "instead"
+        },
+        {
+          "startSec": 252.3,
+          "endSec": 252.3,
+          "text": "I"
+        },
+        {
+          "startSec": 252.3,
+          "endSec": 252.6,
+          "text": "see"
+        },
+        {
+          "startSec": 252.6,
+          "endSec": 253.2,
+          "text": "people"
+        },
+        {
+          "startSec": 253.2,
+          "endSec": 254.1,
+          "text": "gravitating"
+        },
+        {
+          "startSec": 254.1,
+          "endSec": 254.8,
+          "text": "towards"
+        },
+        {
+          "startSec": 254.8,
+          "endSec": 255.4,
+          "text": "smaller"
+        },
+        {
+          "startSec": 255.4,
+          "endSec": 255.9,
+          "text": "online"
+        },
+        {
+          "startSec": 255.9,
+          "endSec": 257,
+          "text": "spaces,"
+        },
+        {
+          "startSec": 257,
+          "endSec": 257.9,
+          "text": "connecting"
+        }
+      ]
+    },
+    {
+      "startSec": 257,
+      "endSec": 263.9,
+      "text": "connecting more closely with individual voices, like creator types, and just posting less",
+      "words": [
+        {
+          "startSec": 257,
+          "endSec": 257.9,
+          "text": "connecting"
+        },
+        {
+          "startSec": 257.9,
+          "endSec": 258.2,
+          "text": "more"
+        },
+        {
+          "startSec": 258.2,
+          "endSec": 258.8,
+          "text": "closely"
+        },
+        {
+          "startSec": 258.8,
+          "endSec": 259.2,
+          "text": "with"
+        },
+        {
+          "startSec": 259.2,
+          "endSec": 260.1,
+          "text": "individual"
+        },
+        {
+          "startSec": 260.1,
+          "endSec": 260.7,
+          "text": "voices,"
+        },
+        {
+          "startSec": 260.7,
+          "endSec": 261.1,
+          "text": "like"
+        },
+        {
+          "startSec": 261.1,
+          "endSec": 261.7,
+          "text": "creator"
+        },
+        {
+          "startSec": 261.7,
+          "endSec": 262.3,
+          "text": "types,"
+        },
+        {
+          "startSec": 262.3,
+          "endSec": 262.6,
+          "text": "and"
+        },
+        {
+          "startSec": 262.6,
+          "endSec": 262.9,
+          "text": "just"
+        },
+        {
+          "startSec": 262.9,
+          "endSec": 263.5,
+          "text": "posting"
+        },
+        {
+          "startSec": 263.5,
+          "endSec": 263.9,
+          "text": "less"
+        },
+        {
+          "startSec": 263.9,
+          "endSec": 264.2,
+          "text": "in"
+        }
+      ]
+    },
+    {
+      "startSec": 263.9,
+      "endSec": 265.5,
+      "text": "in general.",
+      "words": [
+        {
+          "startSec": 263.9,
+          "endSec": 264.2,
+          "text": "in"
+        },
+        {
+          "startSec": 264.2,
+          "endSec": 265.5,
+          "text": "general."
+        },
+        {
+          "startSec": 265.5,
+          "endSec": 265.8,
+          "text": "Kyle"
+        }
+      ]
+    },
+    {
+      "startSec": 265.5,
+      "endSec": 270.9,
+      "text": "Kyle thinks the tech behemoths, meaning large and powerful companies, will continue pushing",
+      "words": [
+        {
+          "startSec": 265.5,
+          "endSec": 265.8,
+          "text": "Kyle"
+        },
+        {
+          "startSec": 265.8,
+          "endSec": 266.2,
+          "text": "thinks"
+        },
+        {
+          "startSec": 266.2,
+          "endSec": 266.4,
+          "text": "the"
+        },
+        {
+          "startSec": 266.4,
+          "endSec": 266.6,
+          "text": "tech"
+        },
+        {
+          "startSec": 266.6,
+          "endSec": 267.4,
+          "text": "behemoths,"
+        },
+        {
+          "startSec": 267.4,
+          "endSec": 267.8,
+          "text": "meaning"
+        },
+        {
+          "startSec": 267.8,
+          "endSec": 268.1,
+          "text": "large"
+        },
+        {
+          "startSec": 268.1,
+          "endSec": 268.3,
+          "text": "and"
+        },
+        {
+          "startSec": 268.3,
+          "endSec": 268.9,
+          "text": "powerful"
+        },
+        {
+          "startSec": 268.9,
+          "endSec": 269.6,
+          "text": "companies,"
+        },
+        {
+          "startSec": 269.6,
+          "endSec": 269.9,
+          "text": "will"
+        },
+        {
+          "startSec": 269.9,
+          "endSec": 270.4,
+          "text": "continue"
+        },
+        {
+          "startSec": 270.4,
+          "endSec": 270.9,
+          "text": "pushing"
+        },
+        {
+          "startSec": 270.9,
+          "endSec": 271.3,
+          "text": "AI."
+        }
+      ]
+    },
+    {
+      "startSec": 270.9,
+      "endSec": 277.3,
+      "text": "AI. However, many people want content which is more personal and meaningful. They think",
+      "words": [
+        {
+          "startSec": 270.9,
+          "endSec": 271.3,
+          "text": "AI."
+        },
+        {
+          "startSec": 271.3,
+          "endSec": 272.1,
+          "text": "However,"
+        },
+        {
+          "startSec": 272.1,
+          "endSec": 272.4,
+          "text": "many"
+        },
+        {
+          "startSec": 272.4,
+          "endSec": 273,
+          "text": "people"
+        },
+        {
+          "startSec": 273,
+          "endSec": 273.3,
+          "text": "want"
+        },
+        {
+          "startSec": 273.3,
+          "endSec": 273.9,
+          "text": "content"
+        },
+        {
+          "startSec": 273.9,
+          "endSec": 274.3,
+          "text": "which"
+        },
+        {
+          "startSec": 274.3,
+          "endSec": 274.5,
+          "text": "is"
+        },
+        {
+          "startSec": 274.5,
+          "endSec": 274.8,
+          "text": "more"
+        },
+        {
+          "startSec": 274.8,
+          "endSec": 275.5,
+          "text": "personal"
+        },
+        {
+          "startSec": 275.5,
+          "endSec": 275.7,
+          "text": "and"
+        },
+        {
+          "startSec": 275.7,
+          "endSec": 276.9,
+          "text": "meaningful."
+        },
+        {
+          "startSec": 276.9,
+          "endSec": 277.1,
+          "text": "They"
+        },
+        {
+          "startSec": 277.1,
+          "endSec": 277.3,
+          "text": "think"
+        }
+      ]
+    },
+    {
+      "startSec": 277.3,
+      "endSec": 282.6,
+      "text": "AI is a novelty, something which is new and unusual and therefore exciting, but which",
+      "words": [
+        {
+          "startSec": 277.4,
+          "endSec": 277.5,
+          "text": "AI"
+        },
+        {
+          "startSec": 277.5,
+          "endSec": 277.6,
+          "text": "is"
+        },
+        {
+          "startSec": 277.6,
+          "endSec": 277.7,
+          "text": "a"
+        },
+        {
+          "startSec": 277.7,
+          "endSec": 278.3,
+          "text": "novelty,"
+        },
+        {
+          "startSec": 278.3,
+          "endSec": 279,
+          "text": "something"
+        },
+        {
+          "startSec": 279,
+          "endSec": 279.3,
+          "text": "which"
+        },
+        {
+          "startSec": 279.3,
+          "endSec": 279.5,
+          "text": "is"
+        },
+        {
+          "startSec": 279.5,
+          "endSec": 279.7,
+          "text": "new"
+        },
+        {
+          "startSec": 279.7,
+          "endSec": 279.9,
+          "text": "and"
+        },
+        {
+          "startSec": 279.9,
+          "endSec": 280.4,
+          "text": "unusual"
+        },
+        {
+          "startSec": 280.4,
+          "endSec": 280.6,
+          "text": "and"
+        },
+        {
+          "startSec": 280.6,
+          "endSec": 281.2,
+          "text": "therefore"
+        },
+        {
+          "startSec": 281.2,
+          "endSec": 282,
+          "text": "exciting,"
+        },
+        {
+          "startSec": 282,
+          "endSec": 282.2,
+          "text": "but"
+        },
+        {
+          "startSec": 282.2,
+          "endSec": 282.6,
+          "text": "which"
+        },
+        {
+          "startSec": 282.6,
+          "endSec": 283.3,
+          "text": "probably"
+        }
+      ]
+    },
+    {
+      "startSec": 282.6,
+      "endSec": 284.4,
+      "text": "probably won't last.",
+      "words": [
+        {
+          "startSec": 282.6,
+          "endSec": 283.3,
+          "text": "probably"
+        },
+        {
+          "startSec": 283.3,
+          "endSec": 283.8,
+          "text": "won't"
+        },
+        {
+          "startSec": 283.8,
+          "endSec": 284.4,
+          "text": "last."
+        },
+        {
+          "startSec": 284.4,
+          "endSec": 285,
+          "text": "Instead,"
+        }
+      ]
+    },
+    {
+      "startSec": 284.4,
+      "endSec": 289.9,
+      "text": "Instead, Kyle thinks people will gravitate towards smaller online communities. If you",
+      "words": [
+        {
+          "startSec": 284.4,
+          "endSec": 285,
+          "text": "Instead,"
+        },
+        {
+          "startSec": 285,
+          "endSec": 285.3,
+          "text": "Kyle"
+        },
+        {
+          "startSec": 285.3,
+          "endSec": 285.7,
+          "text": "thinks"
+        },
+        {
+          "startSec": 285.7,
+          "endSec": 286.2,
+          "text": "people"
+        },
+        {
+          "startSec": 286.2,
+          "endSec": 286.4,
+          "text": "will"
+        },
+        {
+          "startSec": 286.4,
+          "endSec": 287.1,
+          "text": "gravitate"
+        },
+        {
+          "startSec": 287.1,
+          "endSec": 287.6,
+          "text": "towards"
+        },
+        {
+          "startSec": 287.6,
+          "endSec": 288,
+          "text": "smaller"
+        },
+        {
+          "startSec": 288,
+          "endSec": 288.5,
+          "text": "online"
+        },
+        {
+          "startSec": 288.5,
+          "endSec": 289.5,
+          "text": "communities."
+        },
+        {
+          "startSec": 289.5,
+          "endSec": 289.6,
+          "text": "If"
+        },
+        {
+          "startSec": 289.6,
+          "endSec": 289.9,
+          "text": "you"
+        },
+        {
+          "startSec": 289.9,
+          "endSec": 290.5,
+          "text": "gravitate"
+        }
+      ]
+    },
+    {
+      "startSec": 289.9,
+      "endSec": 294.6,
+      "text": "gravitate towards something, you are naturally drawn or attracted to it.",
+      "words": [
+        {
+          "startSec": 289.9,
+          "endSec": 290.5,
+          "text": "gravitate"
+        },
+        {
+          "startSec": 290.5,
+          "endSec": 291,
+          "text": "towards"
+        },
+        {
+          "startSec": 291,
+          "endSec": 291.8,
+          "text": "something,"
+        },
+        {
+          "startSec": 291.8,
+          "endSec": 292,
+          "text": "you"
+        },
+        {
+          "startSec": 292,
+          "endSec": 292.2,
+          "text": "are"
+        },
+        {
+          "startSec": 292.2,
+          "endSec": 292.9,
+          "text": "naturally"
+        },
+        {
+          "startSec": 292.9,
+          "endSec": 293.2,
+          "text": "drawn"
+        },
+        {
+          "startSec": 293.2,
+          "endSec": 293.4,
+          "text": "or"
+        },
+        {
+          "startSec": 293.4,
+          "endSec": 294,
+          "text": "attracted"
+        },
+        {
+          "startSec": 294,
+          "endSec": 294.1,
+          "text": "to"
+        },
+        {
+          "startSec": 294.1,
+          "endSec": 294.6,
+          "text": "it."
+        },
+        {
+          "startSec": 294.6,
+          "endSec": 295.1,
+          "text": "Social"
+        }
+      ]
+    },
+    {
+      "startSec": 294.6,
+      "endSec": 299.9,
+      "text": "Social media has changed fast and is still in motion. It's come a long way from the",
+      "words": [
+        {
+          "startSec": 294.6,
+          "endSec": 295.1,
+          "text": "Social"
+        },
+        {
+          "startSec": 295.1,
+          "endSec": 295.5,
+          "text": "media"
+        },
+        {
+          "startSec": 295.5,
+          "endSec": 295.8,
+          "text": "has"
+        },
+        {
+          "startSec": 295.8,
+          "endSec": 296.4,
+          "text": "changed"
+        },
+        {
+          "startSec": 296.4,
+          "endSec": 296.7,
+          "text": "fast"
+        },
+        {
+          "startSec": 296.7,
+          "endSec": 296.9,
+          "text": "and"
+        },
+        {
+          "startSec": 296.9,
+          "endSec": 297.1,
+          "text": "is"
+        },
+        {
+          "startSec": 297.1,
+          "endSec": 297.5,
+          "text": "still"
+        },
+        {
+          "startSec": 297.5,
+          "endSec": 297.7,
+          "text": "in"
+        },
+        {
+          "startSec": 297.7,
+          "endSec": 298.5,
+          "text": "motion."
+        },
+        {
+          "startSec": 298.5,
+          "endSec": 298.7,
+          "text": "It's"
+        },
+        {
+          "startSec": 298.7,
+          "endSec": 299,
+          "text": "come"
+        },
+        {
+          "startSec": 299,
+          "endSec": 299,
+          "text": "a"
+        },
+        {
+          "startSec": 299,
+          "endSec": 299.3,
+          "text": "long"
+        },
+        {
+          "startSec": 299.3,
+          "endSec": 299.4,
+          "text": "way"
+        },
+        {
+          "startSec": 299.4,
+          "endSec": 299.7,
+          "text": "from"
+        },
+        {
+          "startSec": 299.7,
+          "endSec": 299.9,
+          "text": "the"
+        },
+        {
+          "startSec": 299.9,
+          "endSec": 300.2,
+          "text": "first"
+        }
+      ]
+    },
+    {
+      "startSec": 299.9,
+      "endSec": 305.2,
+      "text": "first electronic messages of 1844, which you mentioned in your question, Neil. So, did",
+      "words": [
+        {
+          "startSec": 299.9,
+          "endSec": 300.2,
+          "text": "first"
+        },
+        {
+          "startSec": 300.2,
+          "endSec": 300.8,
+          "text": "electronic"
+        },
+        {
+          "startSec": 300.8,
+          "endSec": 301.2,
+          "text": "messages"
+        },
+        {
+          "startSec": 301.2,
+          "endSec": 301.3,
+          "text": "of"
+        },
+        {
+          "startSec": 301.3,
+          "endSec": 302.2,
+          "text": "1844,"
+        },
+        {
+          "startSec": 302.2,
+          "endSec": 302.4,
+          "text": "which"
+        },
+        {
+          "startSec": 302.4,
+          "endSec": 302.6,
+          "text": "you"
+        },
+        {
+          "startSec": 302.6,
+          "endSec": 303.1,
+          "text": "mentioned"
+        },
+        {
+          "startSec": 303.1,
+          "endSec": 303.3,
+          "text": "in"
+        },
+        {
+          "startSec": 303.3,
+          "endSec": 303.5,
+          "text": "your"
+        },
+        {
+          "startSec": 303.5,
+          "endSec": 304.1,
+          "text": "question,"
+        },
+        {
+          "startSec": 304.1,
+          "endSec": 304.6,
+          "text": "Neil."
+        },
+        {
+          "startSec": 304.6,
+          "endSec": 305.1,
+          "text": "So,"
+        },
+        {
+          "startSec": 305.1,
+          "endSec": 305.2,
+          "text": "did"
+        },
+        {
+          "startSec": 305.2,
+          "endSec": 305.3,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 305.2,
+      "endSec": 311.8,
+      "text": "I get the correct answer? I asked what this new form of communication was, and you said",
+      "words": [
+        {
+          "startSec": 305.2,
+          "endSec": 305.3,
+          "text": "I"
+        },
+        {
+          "startSec": 305.3,
+          "endSec": 305.5,
+          "text": "get"
+        },
+        {
+          "startSec": 305.5,
+          "endSec": 305.7,
+          "text": "the"
+        },
+        {
+          "startSec": 305.7,
+          "endSec": 306.1,
+          "text": "correct"
+        },
+        {
+          "startSec": 306.1,
+          "endSec": 306.8,
+          "text": "answer?"
+        },
+        {
+          "startSec": 306.8,
+          "endSec": 306.8,
+          "text": "I"
+        },
+        {
+          "startSec": 306.8,
+          "endSec": 307.3,
+          "text": "asked"
+        },
+        {
+          "startSec": 307.3,
+          "endSec": 307.6,
+          "text": "what"
+        },
+        {
+          "startSec": 307.6,
+          "endSec": 308,
+          "text": "this"
+        },
+        {
+          "startSec": 308,
+          "endSec": 308.2,
+          "text": "new"
+        },
+        {
+          "startSec": 308.2,
+          "endSec": 308.6,
+          "text": "form"
+        },
+        {
+          "startSec": 308.6,
+          "endSec": 308.8,
+          "text": "of"
+        },
+        {
+          "startSec": 308.8,
+          "endSec": 309.9,
+          "text": "communication"
+        },
+        {
+          "startSec": 309.9,
+          "endSec": 311,
+          "text": "was,"
+        },
+        {
+          "startSec": 311,
+          "endSec": 311.3,
+          "text": "and"
+        },
+        {
+          "startSec": 311.3,
+          "endSec": 311.5,
+          "text": "you"
+        },
+        {
+          "startSec": 311.5,
+          "endSec": 311.8,
+          "text": "said"
+        },
+        {
+          "startSec": 311.8,
+          "endSec": 312.1,
+          "text": "that"
+        }
+      ]
+    },
+    {
+      "startSec": 311.8,
+      "endSec": 316.2,
+      "text": "that it was C Morse code and that, Pippa, is the correct answer.",
+      "words": [
+        {
+          "startSec": 311.8,
+          "endSec": 312.1,
+          "text": "that"
+        },
+        {
+          "startSec": 312.1,
+          "endSec": 312.3,
+          "text": "it"
+        },
+        {
+          "startSec": 312.3,
+          "endSec": 312.5,
+          "text": "was"
+        },
+        {
+          "startSec": 312.5,
+          "endSec": 312.6,
+          "text": "C"
+        },
+        {
+          "startSec": 312.6,
+          "endSec": 313,
+          "text": "Morse"
+        },
+        {
+          "startSec": 313,
+          "endSec": 313.3,
+          "text": "code"
+        },
+        {
+          "startSec": 313.3,
+          "endSec": 313.5,
+          "text": "and"
+        },
+        {
+          "startSec": 313.5,
+          "endSec": 314,
+          "text": "that,"
+        },
+        {
+          "startSec": 314,
+          "endSec": 314.5,
+          "text": "Pippa,"
+        },
+        {
+          "startSec": 314.5,
+          "endSec": 314.6,
+          "text": "is"
+        },
+        {
+          "startSec": 314.6,
+          "endSec": 314.9,
+          "text": "the"
+        },
+        {
+          "startSec": 314.9,
+          "endSec": 315.4,
+          "text": "correct"
+        },
+        {
+          "startSec": 315.4,
+          "endSec": 316.2,
+          "text": "answer."
+        },
+        {
+          "startSec": 316.2,
+          "endSec": 316.6,
+          "text": "Okay,"
+        }
+      ]
+    },
+    {
+      "startSec": 316.2,
+      "endSec": 322.1,
+      "text": "Okay, let's recap the vocabulary we've learned, starting with the exclamation, \"Oh, man!\"",
+      "words": [
+        {
+          "startSec": 316.2,
+          "endSec": 316.6,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 316.6,
+          "endSec": 317,
+          "text": "let's"
+        },
+        {
+          "startSec": 317,
+          "endSec": 317.3,
+          "text": "recap"
+        },
+        {
+          "startSec": 317.3,
+          "endSec": 317.5,
+          "text": "the"
+        },
+        {
+          "startSec": 317.5,
+          "endSec": 318.1,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 318.1,
+          "endSec": 318.5,
+          "text": "we've"
+        },
+        {
+          "startSec": 318.5,
+          "endSec": 319,
+          "text": "learned,"
+        },
+        {
+          "startSec": 319,
+          "endSec": 319.6,
+          "text": "starting"
+        },
+        {
+          "startSec": 319.6,
+          "endSec": 319.8,
+          "text": "with"
+        },
+        {
+          "startSec": 319.8,
+          "endSec": 320,
+          "text": "the"
+        },
+        {
+          "startSec": 320,
+          "endSec": 320.9,
+          "text": "exclamation,"
+        },
+        {
+          "startSec": 320.9,
+          "endSec": 321.5,
+          "text": "\"Oh,"
+        },
+        {
+          "startSec": 321.5,
+          "endSec": 322.1,
+          "text": "man!\""
+        },
+        {
+          "startSec": 322.1,
+          "endSec": 322.4,
+          "text": "used"
+        }
+      ]
+    },
+    {
+      "startSec": 322.1,
+      "endSec": 324.6,
+      "text": "used to show excitement or enthusiasm.",
+      "words": [
+        {
+          "startSec": 322.1,
+          "endSec": 322.4,
+          "text": "used"
+        },
+        {
+          "startSec": 322.4,
+          "endSec": 322.5,
+          "text": "to"
+        },
+        {
+          "startSec": 322.5,
+          "endSec": 322.8,
+          "text": "show"
+        },
+        {
+          "startSec": 322.8,
+          "endSec": 323.5,
+          "text": "excitement"
+        },
+        {
+          "startSec": 323.5,
+          "endSec": 323.7,
+          "text": "or"
+        },
+        {
+          "startSec": 323.7,
+          "endSec": 324.6,
+          "text": "enthusiasm."
+        },
+        {
+          "startSec": 324.6,
+          "endSec": 324.8,
+          "text": "To"
+        }
+      ]
+    },
+    {
+      "startSec": 324.6,
+      "endSec": 330.2,
+      "text": "To shatter an illusion is to destroy someone's misconceptions, causing them to realise an",
+      "words": [
+        {
+          "startSec": 324.6,
+          "endSec": 324.8,
+          "text": "To"
+        },
+        {
+          "startSec": 324.8,
+          "endSec": 325.3,
+          "text": "shatter"
+        },
+        {
+          "startSec": 325.3,
+          "endSec": 325.4,
+          "text": "an"
+        },
+        {
+          "startSec": 325.4,
+          "endSec": 326,
+          "text": "illusion"
+        },
+        {
+          "startSec": 326,
+          "endSec": 326.1,
+          "text": "is"
+        },
+        {
+          "startSec": 326.1,
+          "endSec": 326.3,
+          "text": "to"
+        },
+        {
+          "startSec": 326.3,
+          "endSec": 326.8,
+          "text": "destroy"
+        },
+        {
+          "startSec": 326.8,
+          "endSec": 327.4,
+          "text": "someone's"
+        },
+        {
+          "startSec": 327.4,
+          "endSec": 328.5,
+          "text": "misconceptions,"
+        },
+        {
+          "startSec": 328.5,
+          "endSec": 329,
+          "text": "causing"
+        },
+        {
+          "startSec": 329,
+          "endSec": 329.3,
+          "text": "them"
+        },
+        {
+          "startSec": 329.3,
+          "endSec": 329.5,
+          "text": "to"
+        },
+        {
+          "startSec": 329.5,
+          "endSec": 330,
+          "text": "realise"
+        },
+        {
+          "startSec": 330,
+          "endSec": 330.2,
+          "text": "an"
+        },
+        {
+          "startSec": 330.2,
+          "endSec": 331.2,
+          "text": "unpleasant"
+        }
+      ]
+    },
+    {
+      "startSec": 330.2,
+      "endSec": 332.2,
+      "text": "unpleasant reality.",
+      "words": [
+        {
+          "startSec": 330.2,
+          "endSec": 331.2,
+          "text": "unpleasant"
+        },
+        {
+          "startSec": 331.2,
+          "endSec": 332.2,
+          "text": "reality."
+        },
+        {
+          "startSec": 332.2,
+          "endSec": 332.3,
+          "text": "A"
+        }
+      ]
+    },
+    {
+      "startSec": 332.2,
+      "endSec": 337.4,
+      "text": "A cultural happening is an event that embodies the values and interests of a particular social",
+      "words": [
+        {
+          "startSec": 332.2,
+          "endSec": 332.3,
+          "text": "A"
+        },
+        {
+          "startSec": 332.3,
+          "endSec": 332.7,
+          "text": "cultural"
+        },
+        {
+          "startSec": 332.7,
+          "endSec": 333.3,
+          "text": "happening"
+        },
+        {
+          "startSec": 333.3,
+          "endSec": 333.5,
+          "text": "is"
+        },
+        {
+          "startSec": 333.5,
+          "endSec": 333.6,
+          "text": "an"
+        },
+        {
+          "startSec": 333.6,
+          "endSec": 333.9,
+          "text": "event"
+        },
+        {
+          "startSec": 333.9,
+          "endSec": 334.2,
+          "text": "that"
+        },
+        {
+          "startSec": 334.2,
+          "endSec": 334.7,
+          "text": "embodies"
+        },
+        {
+          "startSec": 334.7,
+          "endSec": 334.9,
+          "text": "the"
+        },
+        {
+          "startSec": 334.9,
+          "endSec": 335.3,
+          "text": "values"
+        },
+        {
+          "startSec": 335.3,
+          "endSec": 335.5,
+          "text": "and"
+        },
+        {
+          "startSec": 335.5,
+          "endSec": 336.1,
+          "text": "interests"
+        },
+        {
+          "startSec": 336.1,
+          "endSec": 336.2,
+          "text": "of"
+        },
+        {
+          "startSec": 336.2,
+          "endSec": 336.2,
+          "text": "a"
+        },
+        {
+          "startSec": 336.2,
+          "endSec": 337,
+          "text": "particular"
+        },
+        {
+          "startSec": 337,
+          "endSec": 337.4,
+          "text": "social"
+        },
+        {
+          "startSec": 337.4,
+          "endSec": 337.9,
+          "text": "group"
+        }
+      ]
+    },
+    {
+      "startSec": 337.4,
+      "endSec": 339.6,
+      "text": "group at a particular time.",
+      "words": [
+        {
+          "startSec": 337.4,
+          "endSec": 337.9,
+          "text": "group"
+        },
+        {
+          "startSec": 337.9,
+          "endSec": 338,
+          "text": "at"
+        },
+        {
+          "startSec": 338,
+          "endSec": 338.1,
+          "text": "a"
+        },
+        {
+          "startSec": 338.1,
+          "endSec": 339,
+          "text": "particular"
+        },
+        {
+          "startSec": 339,
+          "endSec": 339.6,
+          "text": "time."
+        },
+        {
+          "startSec": 339.6,
+          "endSec": 339.7,
+          "text": "A"
+        }
+      ]
+    },
+    {
+      "startSec": 339.6,
+      "endSec": 344.2,
+      "text": "A behemoth is an extremely large and powerful company or organisation.",
+      "words": [
+        {
+          "startSec": 339.6,
+          "endSec": 339.7,
+          "text": "A"
+        },
+        {
+          "startSec": 339.7,
+          "endSec": 340.3,
+          "text": "behemoth"
+        },
+        {
+          "startSec": 340.3,
+          "endSec": 340.4,
+          "text": "is"
+        },
+        {
+          "startSec": 340.4,
+          "endSec": 340.5,
+          "text": "an"
+        },
+        {
+          "startSec": 340.5,
+          "endSec": 341.2,
+          "text": "extremely"
+        },
+        {
+          "startSec": 341.2,
+          "endSec": 341.6,
+          "text": "large"
+        },
+        {
+          "startSec": 341.6,
+          "endSec": 341.8,
+          "text": "and"
+        },
+        {
+          "startSec": 341.8,
+          "endSec": 342.4,
+          "text": "powerful"
+        },
+        {
+          "startSec": 342.4,
+          "endSec": 342.9,
+          "text": "company"
+        },
+        {
+          "startSec": 342.9,
+          "endSec": 343,
+          "text": "or"
+        },
+        {
+          "startSec": 343,
+          "endSec": 344.2,
+          "text": "organisation."
+        },
+        {
+          "startSec": 344.2,
+          "endSec": 344.3,
+          "text": "A"
+        }
+      ]
+    },
+    {
+      "startSec": 344.2,
+      "endSec": 348.8,
+      "text": "A novelty is something which is new and unusual and therefore exciting.",
+      "words": [
+        {
+          "startSec": 344.2,
+          "endSec": 344.3,
+          "text": "A"
+        },
+        {
+          "startSec": 344.3,
+          "endSec": 344.8,
+          "text": "novelty"
+        },
+        {
+          "startSec": 344.8,
+          "endSec": 344.9,
+          "text": "is"
+        },
+        {
+          "startSec": 344.9,
+          "endSec": 345.6,
+          "text": "something"
+        },
+        {
+          "startSec": 345.6,
+          "endSec": 346,
+          "text": "which"
+        },
+        {
+          "startSec": 346,
+          "endSec": 346.1,
+          "text": "is"
+        },
+        {
+          "startSec": 346.1,
+          "endSec": 346.4,
+          "text": "new"
+        },
+        {
+          "startSec": 346.4,
+          "endSec": 346.6,
+          "text": "and"
+        },
+        {
+          "startSec": 346.6,
+          "endSec": 347.1,
+          "text": "unusual"
+        },
+        {
+          "startSec": 347.1,
+          "endSec": 347.3,
+          "text": "and"
+        },
+        {
+          "startSec": 347.3,
+          "endSec": 348,
+          "text": "therefore"
+        },
+        {
+          "startSec": 348,
+          "endSec": 348.8,
+          "text": "exciting."
+        },
+        {
+          "startSec": 348.8,
+          "endSec": 349,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 348.8,
+      "endSec": 354.4,
+      "text": "And finally, if you gravitate towards something, you are naturally attracted to it. Once again,",
+      "words": [
+        {
+          "startSec": 348.8,
+          "endSec": 349,
+          "text": "And"
+        },
+        {
+          "startSec": 349,
+          "endSec": 349.6,
+          "text": "finally,"
+        },
+        {
+          "startSec": 349.6,
+          "endSec": 349.8,
+          "text": "if"
+        },
+        {
+          "startSec": 349.8,
+          "endSec": 350,
+          "text": "you"
+        },
+        {
+          "startSec": 350,
+          "endSec": 350.6,
+          "text": "gravitate"
+        },
+        {
+          "startSec": 350.6,
+          "endSec": 351,
+          "text": "towards"
+        },
+        {
+          "startSec": 351,
+          "endSec": 351.8,
+          "text": "something,"
+        },
+        {
+          "startSec": 351.8,
+          "endSec": 352,
+          "text": "you"
+        },
+        {
+          "startSec": 352,
+          "endSec": 352.2,
+          "text": "are"
+        },
+        {
+          "startSec": 352.2,
+          "endSec": 352.8,
+          "text": "naturally"
+        },
+        {
+          "startSec": 352.8,
+          "endSec": 353.4,
+          "text": "attracted"
+        },
+        {
+          "startSec": 353.4,
+          "endSec": 353.5,
+          "text": "to"
+        },
+        {
+          "startSec": 353.5,
+          "endSec": 353.9,
+          "text": "it."
+        },
+        {
+          "startSec": 353.9,
+          "endSec": 354.1,
+          "text": "Once"
+        },
+        {
+          "startSec": 354.1,
+          "endSec": 354.4,
+          "text": "again,"
+        },
+        {
+          "startSec": 354.4,
+          "endSec": 354.6,
+          "text": "our"
+        }
+      ]
+    },
+    {
+      "startSec": 354.4,
+      "endSec": 359,
+      "text": "our six minutes are up, but if you're still using the internet, head over to our website",
+      "words": [
+        {
+          "startSec": 354.4,
+          "endSec": 354.6,
+          "text": "our"
+        },
+        {
+          "startSec": 354.6,
+          "endSec": 354.8,
+          "text": "six"
+        },
+        {
+          "startSec": 354.8,
+          "endSec": 355.2,
+          "text": "minutes"
+        },
+        {
+          "startSec": 355.2,
+          "endSec": 355.4,
+          "text": "are"
+        },
+        {
+          "startSec": 355.4,
+          "endSec": 355.7,
+          "text": "up,"
+        },
+        {
+          "startSec": 355.7,
+          "endSec": 355.8,
+          "text": "but"
+        },
+        {
+          "startSec": 355.8,
+          "endSec": 356,
+          "text": "if"
+        },
+        {
+          "startSec": 356,
+          "endSec": 356.3,
+          "text": "you're"
+        },
+        {
+          "startSec": 356.3,
+          "endSec": 356.6,
+          "text": "still"
+        },
+        {
+          "startSec": 356.6,
+          "endSec": 356.9,
+          "text": "using"
+        },
+        {
+          "startSec": 356.9,
+          "endSec": 357.1,
+          "text": "the"
+        },
+        {
+          "startSec": 357.1,
+          "endSec": 357.7,
+          "text": "internet,"
+        },
+        {
+          "startSec": 357.7,
+          "endSec": 357.9,
+          "text": "head"
+        },
+        {
+          "startSec": 357.9,
+          "endSec": 358.2,
+          "text": "over"
+        },
+        {
+          "startSec": 358.2,
+          "endSec": 358.3,
+          "text": "to"
+        },
+        {
+          "startSec": 358.3,
+          "endSec": 358.5,
+          "text": "our"
+        },
+        {
+          "startSec": 358.5,
+          "endSec": 359,
+          "text": "website"
+        },
+        {
+          "startSec": 359,
+          "endSec": 360.6,
+          "text": "bbclearningenglish.com,"
+        }
+      ]
+    },
+    {
+      "startSec": 359,
+      "endSec": 364.2,
+      "text": "bbclearningenglish.com, where you'll find a worksheet and quiz for this episode. See",
+      "words": [
+        {
+          "startSec": 359,
+          "endSec": 360.6,
+          "text": "bbclearningenglish.com,"
+        },
+        {
+          "startSec": 360.6,
+          "endSec": 360.9,
+          "text": "where"
+        },
+        {
+          "startSec": 360.9,
+          "endSec": 361.3,
+          "text": "you'll"
+        },
+        {
+          "startSec": 361.3,
+          "endSec": 361.5,
+          "text": "find"
+        },
+        {
+          "startSec": 361.5,
+          "endSec": 361.6,
+          "text": "a"
+        },
+        {
+          "startSec": 361.6,
+          "endSec": 362.1,
+          "text": "worksheet"
+        },
+        {
+          "startSec": 362.1,
+          "endSec": 362.3,
+          "text": "and"
+        },
+        {
+          "startSec": 362.3,
+          "endSec": 362.6,
+          "text": "quiz"
+        },
+        {
+          "startSec": 362.6,
+          "endSec": 362.8,
+          "text": "for"
+        },
+        {
+          "startSec": 362.8,
+          "endSec": 363.1,
+          "text": "this"
+        },
+        {
+          "startSec": 363.1,
+          "endSec": 364.2,
+          "text": "episode."
+        },
+        {
+          "startSec": 364.2,
+          "endSec": 364.2,
+          "text": "See"
+        },
+        {
+          "startSec": 364.2,
+          "endSec": 364.9,
+          "text": "you"
+        }
+      ]
+    },
+    {
+      "startSec": 364.2,
+      "endSec": 373.3,
+      "text": "you again soon, but for now, it's goodbye.",
+      "words": [
+        {
+          "startSec": 364.2,
+          "endSec": 364.2,
+          "text": "See"
+        },
+        {
+          "startSec": 364.2,
+          "endSec": 364.9,
+          "text": "you"
+        },
+        {
+          "startSec": 364.9,
+          "endSec": 366.1,
+          "text": "again"
+        },
+        {
+          "startSec": 366.1,
+          "endSec": 367.5,
+          "text": "soon,"
+        },
+        {
+          "startSec": 367.5,
+          "endSec": 368.1,
+          "text": "but"
+        },
+        {
+          "startSec": 368.1,
+          "endSec": 368.8,
+          "text": "for"
+        },
+        {
+          "startSec": 368.8,
+          "endSec": 370,
+          "text": "now,"
+        },
+        {
+          "startSec": 370,
+          "endSec": 370.9,
+          "text": "it's"
+        },
+        {
+          "startSec": 370.9,
+          "endSec": 373.3,
+          "text": "goodbye."
+        }
+      ]
+    }
+  ],
+  "introSec": 0
+}

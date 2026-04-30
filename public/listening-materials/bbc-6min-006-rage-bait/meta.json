@@ -1,0 +1,5202 @@
+{
+  "title": "Rage bait",
+  "source": "BBC 6 Minute English",
+  "level": "beginner",
+  "durationSec": 366,
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
+  "audioFile": "audio.mp3",
+  "segments": [
+    {
+      "startSec": 0,
+      "endSec": 13.1,
+      "text": "Hello, this is 6 Minute English from BBC Learning English. I'm Phil.",
+      "words": [
+        {
+          "startSec": 0.2,
+          "endSec": 1.6,
+          "text": "Hello,"
+        },
+        {
+          "startSec": 1.6,
+          "endSec": 2.5,
+          "text": "this"
+        },
+        {
+          "startSec": 2.5,
+          "endSec": 2.9,
+          "text": "is"
+        },
+        {
+          "startSec": 2.9,
+          "endSec": 3.6,
+          "text": "6"
+        },
+        {
+          "startSec": 3.6,
+          "endSec": 4.9,
+          "text": "Minute"
+        },
+        {
+          "startSec": 4.9,
+          "endSec": 6.5,
+          "text": "English"
+        },
+        {
+          "startSec": 6.5,
+          "endSec": 7.3,
+          "text": "from"
+        },
+        {
+          "startSec": 7.3,
+          "endSec": 8.6,
+          "text": "BBC"
+        },
+        {
+          "startSec": 8.6,
+          "endSec": 9.9,
+          "text": "Learning"
+        },
+        {
+          "startSec": 9.9,
+          "endSec": 12.2,
+          "text": "English."
+        },
+        {
+          "startSec": 12.2,
+          "endSec": 12.4,
+          "text": "I'm"
+        },
+        {
+          "startSec": 12.4,
+          "endSec": 13.1,
+          "text": "Phil."
+        },
+        {
+          "startSec": 13.1,
+          "endSec": 13.4,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 13.1,
+      "endSec": 14.3,
+      "text": "And I'm Beth.",
+      "words": [
+        {
+          "startSec": 13.1,
+          "endSec": 13.4,
+          "text": "And"
+        },
+        {
+          "startSec": 13.4,
+          "endSec": 13.6,
+          "text": "I'm"
+        },
+        {
+          "startSec": 13.6,
+          "endSec": 14.3,
+          "text": "Beth."
+        },
+        {
+          "startSec": 14.3,
+          "endSec": 14.4,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 14.3,
+      "endSec": 19.9,
+      "text": "If you use the internet and nearly everyone does, you've probably read headlines like",
+      "words": [
+        {
+          "startSec": 14.3,
+          "endSec": 14.4,
+          "text": "If"
+        },
+        {
+          "startSec": 14.4,
+          "endSec": 14.7,
+          "text": "you"
+        },
+        {
+          "startSec": 14.7,
+          "endSec": 14.9,
+          "text": "use"
+        },
+        {
+          "startSec": 14.9,
+          "endSec": 15.1,
+          "text": "the"
+        },
+        {
+          "startSec": 15.1,
+          "endSec": 15.7,
+          "text": "internet"
+        },
+        {
+          "startSec": 15.7,
+          "endSec": 16,
+          "text": "and"
+        },
+        {
+          "startSec": 16,
+          "endSec": 16.4,
+          "text": "nearly"
+        },
+        {
+          "startSec": 16.4,
+          "endSec": 17,
+          "text": "everyone"
+        },
+        {
+          "startSec": 17,
+          "endSec": 17.5,
+          "text": "does,"
+        },
+        {
+          "startSec": 17.5,
+          "endSec": 17.9,
+          "text": "you've"
+        },
+        {
+          "startSec": 17.9,
+          "endSec": 18.5,
+          "text": "probably"
+        },
+        {
+          "startSec": 18.5,
+          "endSec": 18.8,
+          "text": "read"
+        },
+        {
+          "startSec": 18.8,
+          "endSec": 19.5,
+          "text": "headlines"
+        },
+        {
+          "startSec": 19.5,
+          "endSec": 19.9,
+          "text": "like"
+        },
+        {
+          "startSec": 19.9,
+          "endSec": 20.9,
+          "text": "this."
+        }
+      ]
+    },
+    {
+      "startSec": 19.9,
+      "endSec": 25.5,
+      "text": "this. You won't believe what plastic surgery this celebrity has had done.",
+      "words": [
+        {
+          "startSec": 19.9,
+          "endSec": 20.9,
+          "text": "this."
+        },
+        {
+          "startSec": 20.9,
+          "endSec": 21.1,
+          "text": "You"
+        },
+        {
+          "startSec": 21.1,
+          "endSec": 21.4,
+          "text": "won't"
+        },
+        {
+          "startSec": 21.4,
+          "endSec": 21.8,
+          "text": "believe"
+        },
+        {
+          "startSec": 21.8,
+          "endSec": 22.1,
+          "text": "what"
+        },
+        {
+          "startSec": 22.1,
+          "endSec": 22.6,
+          "text": "plastic"
+        },
+        {
+          "startSec": 22.6,
+          "endSec": 23,
+          "text": "surgery"
+        },
+        {
+          "startSec": 23,
+          "endSec": 23.2,
+          "text": "this"
+        },
+        {
+          "startSec": 23.2,
+          "endSec": 24.1,
+          "text": "celebrity"
+        },
+        {
+          "startSec": 24.1,
+          "endSec": 24.4,
+          "text": "has"
+        },
+        {
+          "startSec": 24.4,
+          "endSec": 24.8,
+          "text": "had"
+        },
+        {
+          "startSec": 24.8,
+          "endSec": 25.5,
+          "text": "done."
+        }
+      ]
+    },
+    {
+      "startSec": 25.5,
+      "endSec": 30.7,
+      "text": "Known as clickbait, headlines like these are used to grab your attention and make you",
+      "words": [
+        {
+          "startSec": 25.6,
+          "endSec": 25.9,
+          "text": "Known"
+        },
+        {
+          "startSec": 25.9,
+          "endSec": 26,
+          "text": "as"
+        },
+        {
+          "startSec": 26,
+          "endSec": 26.8,
+          "text": "clickbait,"
+        },
+        {
+          "startSec": 26.8,
+          "endSec": 27.5,
+          "text": "headlines"
+        },
+        {
+          "startSec": 27.5,
+          "endSec": 27.8,
+          "text": "like"
+        },
+        {
+          "startSec": 27.8,
+          "endSec": 28.2,
+          "text": "these"
+        },
+        {
+          "startSec": 28.2,
+          "endSec": 28.4,
+          "text": "are"
+        },
+        {
+          "startSec": 28.4,
+          "endSec": 28.7,
+          "text": "used"
+        },
+        {
+          "startSec": 28.7,
+          "endSec": 28.8,
+          "text": "to"
+        },
+        {
+          "startSec": 28.8,
+          "endSec": 29.1,
+          "text": "grab"
+        },
+        {
+          "startSec": 29.1,
+          "endSec": 29.4,
+          "text": "your"
+        },
+        {
+          "startSec": 29.4,
+          "endSec": 30.2,
+          "text": "attention"
+        },
+        {
+          "startSec": 30.2,
+          "endSec": 30.4,
+          "text": "and"
+        },
+        {
+          "startSec": 30.4,
+          "endSec": 30.5,
+          "text": "make"
+        },
+        {
+          "startSec": 30.5,
+          "endSec": 30.7,
+          "text": "you"
+        },
+        {
+          "startSec": 30.7,
+          "endSec": 31,
+          "text": "read"
+        }
+      ]
+    },
+    {
+      "startSec": 30.7,
+      "endSec": 31.7,
+      "text": "read more.",
+      "words": [
+        {
+          "startSec": 30.7,
+          "endSec": 31,
+          "text": "read"
+        },
+        {
+          "startSec": 31,
+          "endSec": 31.7,
+          "text": "more."
+        },
+        {
+          "startSec": 31.7,
+          "endSec": 31.9,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 31.7,
+      "endSec": 38.7,
+      "text": "But now, a new trend called ragebait is spreading across social media. Ragebait is online content",
+      "words": [
+        {
+          "startSec": 31.7,
+          "endSec": 31.9,
+          "text": "But"
+        },
+        {
+          "startSec": 31.9,
+          "endSec": 32.3,
+          "text": "now,"
+        },
+        {
+          "startSec": 32.3,
+          "endSec": 32.4,
+          "text": "a"
+        },
+        {
+          "startSec": 32.4,
+          "endSec": 32.7,
+          "text": "new"
+        },
+        {
+          "startSec": 32.7,
+          "endSec": 33.1,
+          "text": "trend"
+        },
+        {
+          "startSec": 33.1,
+          "endSec": 33.6,
+          "text": "called"
+        },
+        {
+          "startSec": 33.6,
+          "endSec": 34.2,
+          "text": "ragebait"
+        },
+        {
+          "startSec": 34.2,
+          "endSec": 34.4,
+          "text": "is"
+        },
+        {
+          "startSec": 34.4,
+          "endSec": 35.2,
+          "text": "spreading"
+        },
+        {
+          "startSec": 35.2,
+          "endSec": 35.7,
+          "text": "across"
+        },
+        {
+          "startSec": 35.7,
+          "endSec": 36.2,
+          "text": "social"
+        },
+        {
+          "startSec": 36.2,
+          "endSec": 36.9,
+          "text": "media."
+        },
+        {
+          "startSec": 36.9,
+          "endSec": 37.4,
+          "text": "Ragebait"
+        },
+        {
+          "startSec": 37.4,
+          "endSec": 37.6,
+          "text": "is"
+        },
+        {
+          "startSec": 37.6,
+          "endSec": 38.1,
+          "text": "online"
+        },
+        {
+          "startSec": 38.1,
+          "endSec": 38.7,
+          "text": "content"
+        },
+        {
+          "startSec": 38.7,
+          "endSec": 39.5,
+          "text": "designed"
+        }
+      ]
+    },
+    {
+      "startSec": 38.7,
+      "endSec": 44.3,
+      "text": "designed to make you angry or outraged. In this program, we'll explore the trend of",
+      "words": [
+        {
+          "startSec": 38.7,
+          "endSec": 39.5,
+          "text": "designed"
+        },
+        {
+          "startSec": 39.5,
+          "endSec": 39.7,
+          "text": "to"
+        },
+        {
+          "startSec": 39.7,
+          "endSec": 40.1,
+          "text": "make"
+        },
+        {
+          "startSec": 40.1,
+          "endSec": 40.4,
+          "text": "you"
+        },
+        {
+          "startSec": 40.4,
+          "endSec": 40.9,
+          "text": "angry"
+        },
+        {
+          "startSec": 40.9,
+          "endSec": 41.1,
+          "text": "or"
+        },
+        {
+          "startSec": 41.1,
+          "endSec": 42.2,
+          "text": "outraged."
+        },
+        {
+          "startSec": 42.2,
+          "endSec": 42.3,
+          "text": "In"
+        },
+        {
+          "startSec": 42.3,
+          "endSec": 42.5,
+          "text": "this"
+        },
+        {
+          "startSec": 42.5,
+          "endSec": 43,
+          "text": "program,"
+        },
+        {
+          "startSec": 43,
+          "endSec": 43.3,
+          "text": "we'll"
+        },
+        {
+          "startSec": 43.3,
+          "endSec": 43.7,
+          "text": "explore"
+        },
+        {
+          "startSec": 43.7,
+          "endSec": 43.8,
+          "text": "the"
+        },
+        {
+          "startSec": 43.8,
+          "endSec": 44.2,
+          "text": "trend"
+        },
+        {
+          "startSec": 44.2,
+          "endSec": 44.3,
+          "text": "of"
+        },
+        {
+          "startSec": 44.3,
+          "endSec": 45.1,
+          "text": "ragebating"
+        }
+      ]
+    },
+    {
+      "startSec": 44.3,
+      "endSec": 49.8,
+      "text": "ragebating and as usual, we'll learn some useful new vocabulary, all of which you can",
+      "words": [
+        {
+          "startSec": 44.3,
+          "endSec": 45.1,
+          "text": "ragebating"
+        },
+        {
+          "startSec": 45.1,
+          "endSec": 45.4,
+          "text": "and"
+        },
+        {
+          "startSec": 45.4,
+          "endSec": 45.5,
+          "text": "as"
+        },
+        {
+          "startSec": 45.5,
+          "endSec": 46.1,
+          "text": "usual,"
+        },
+        {
+          "startSec": 46.1,
+          "endSec": 46.5,
+          "text": "we'll"
+        },
+        {
+          "startSec": 46.5,
+          "endSec": 46.9,
+          "text": "learn"
+        },
+        {
+          "startSec": 46.9,
+          "endSec": 47.3,
+          "text": "some"
+        },
+        {
+          "startSec": 47.3,
+          "endSec": 47.7,
+          "text": "useful"
+        },
+        {
+          "startSec": 47.7,
+          "endSec": 48,
+          "text": "new"
+        },
+        {
+          "startSec": 48,
+          "endSec": 49,
+          "text": "vocabulary,"
+        },
+        {
+          "startSec": 49,
+          "endSec": 49.2,
+          "text": "all"
+        },
+        {
+          "startSec": 49.2,
+          "endSec": 49.3,
+          "text": "of"
+        },
+        {
+          "startSec": 49.3,
+          "endSec": 49.5,
+          "text": "which"
+        },
+        {
+          "startSec": 49.5,
+          "endSec": 49.7,
+          "text": "you"
+        },
+        {
+          "startSec": 49.7,
+          "endSec": 49.8,
+          "text": "can"
+        },
+        {
+          "startSec": 49.8,
+          "endSec": 50.1,
+          "text": "find"
+        }
+      ]
+    },
+    {
+      "startSec": 49.8,
+      "endSec": 53.5,
+      "text": "find on our website, bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 49.8,
+          "endSec": 50.1,
+          "text": "find"
+        },
+        {
+          "startSec": 50.1,
+          "endSec": 50.3,
+          "text": "on"
+        },
+        {
+          "startSec": 50.3,
+          "endSec": 50.5,
+          "text": "our"
+        },
+        {
+          "startSec": 50.5,
+          "endSec": 51.2,
+          "text": "website,"
+        },
+        {
+          "startSec": 51.2,
+          "endSec": 53.5,
+          "text": "bbclearningenglish.com."
+        }
+      ]
+    },
+    {
+      "startSec": 53.5,
+      "endSec": 59,
+      "text": "Great. But first, it's time for my question, Beth, which is about the two terms we've",
+      "words": [
+        {
+          "startSec": 53.6,
+          "endSec": 54.1,
+          "text": "Great."
+        },
+        {
+          "startSec": 54.1,
+          "endSec": 54.4,
+          "text": "But"
+        },
+        {
+          "startSec": 54.4,
+          "endSec": 54.9,
+          "text": "first,"
+        },
+        {
+          "startSec": 54.9,
+          "endSec": 55.2,
+          "text": "it's"
+        },
+        {
+          "startSec": 55.2,
+          "endSec": 55.5,
+          "text": "time"
+        },
+        {
+          "startSec": 55.5,
+          "endSec": 55.8,
+          "text": "for"
+        },
+        {
+          "startSec": 55.8,
+          "endSec": 55.9,
+          "text": "my"
+        },
+        {
+          "startSec": 55.9,
+          "endSec": 56.7,
+          "text": "question,"
+        },
+        {
+          "startSec": 56.7,
+          "endSec": 57.2,
+          "text": "Beth,"
+        },
+        {
+          "startSec": 57.2,
+          "endSec": 57.5,
+          "text": "which"
+        },
+        {
+          "startSec": 57.5,
+          "endSec": 57.7,
+          "text": "is"
+        },
+        {
+          "startSec": 57.7,
+          "endSec": 58,
+          "text": "about"
+        },
+        {
+          "startSec": 58,
+          "endSec": 58.1,
+          "text": "the"
+        },
+        {
+          "startSec": 58.1,
+          "endSec": 58.3,
+          "text": "two"
+        },
+        {
+          "startSec": 58.3,
+          "endSec": 58.6,
+          "text": "terms"
+        },
+        {
+          "startSec": 58.6,
+          "endSec": 59,
+          "text": "we've"
+        },
+        {
+          "startSec": 59,
+          "endSec": 59.2,
+          "text": "been"
+        }
+      ]
+    },
+    {
+      "startSec": 59,
+      "endSec": 67.5,
+      "text": "been using. Clickbait and ragebait. Both contain the word bait. But what is its actual meaning?",
+      "words": [
+        {
+          "startSec": 59,
+          "endSec": 59.2,
+          "text": "been"
+        },
+        {
+          "startSec": 59.2,
+          "endSec": 59.7,
+          "text": "using."
+        },
+        {
+          "startSec": 59.7,
+          "endSec": 60.9,
+          "text": "Clickbait"
+        },
+        {
+          "startSec": 60.9,
+          "endSec": 61.3,
+          "text": "and"
+        },
+        {
+          "startSec": 61.3,
+          "endSec": 62.8,
+          "text": "ragebait."
+        },
+        {
+          "startSec": 62.8,
+          "endSec": 63.2,
+          "text": "Both"
+        },
+        {
+          "startSec": 63.2,
+          "endSec": 63.9,
+          "text": "contain"
+        },
+        {
+          "startSec": 63.9,
+          "endSec": 64.2,
+          "text": "the"
+        },
+        {
+          "startSec": 64.2,
+          "endSec": 64.6,
+          "text": "word"
+        },
+        {
+          "startSec": 64.6,
+          "endSec": 65.3,
+          "text": "bait."
+        },
+        {
+          "startSec": 65.3,
+          "endSec": 65.6,
+          "text": "But"
+        },
+        {
+          "startSec": 65.6,
+          "endSec": 65.9,
+          "text": "what"
+        },
+        {
+          "startSec": 65.9,
+          "endSec": 66,
+          "text": "is"
+        },
+        {
+          "startSec": 66,
+          "endSec": 66.2,
+          "text": "its"
+        },
+        {
+          "startSec": 66.2,
+          "endSec": 67.3,
+          "text": "actual"
+        },
+        {
+          "startSec": 67.3,
+          "endSec": 67.5,
+          "text": "meaning?"
+        },
+        {
+          "startSec": 67.5,
+          "endSec": 67.8,
+          "text": "Is"
+        }
+      ]
+    },
+    {
+      "startSec": 67.5,
+      "endSec": 72,
+      "text": "Is bait a strong feeling of anger?",
+      "words": [
+        {
+          "startSec": 67.5,
+          "endSec": 67.8,
+          "text": "Is"
+        },
+        {
+          "startSec": 67.8,
+          "endSec": 68.4,
+          "text": "bait"
+        },
+        {
+          "startSec": 68.4,
+          "endSec": 68.6,
+          "text": "a"
+        },
+        {
+          "startSec": 68.6,
+          "endSec": 69.4,
+          "text": "strong"
+        },
+        {
+          "startSec": 69.4,
+          "endSec": 70.5,
+          "text": "feeling"
+        },
+        {
+          "startSec": 70.5,
+          "endSec": 70.8,
+          "text": "of"
+        },
+        {
+          "startSec": 70.8,
+          "endSec": 72,
+          "text": "anger?"
+        },
+        {
+          "startSec": 72,
+          "endSec": 72.3,
+          "text": "B."
+        }
+      ]
+    },
+    {
+      "startSec": 72,
+      "endSec": 77.8,
+      "text": "B. Food. Put on a hook to catch fish or animals. We'll see a piece of computer software.",
+      "words": [
+        {
+          "startSec": 72,
+          "endSec": 72.3,
+          "text": "B."
+        },
+        {
+          "startSec": 72.3,
+          "endSec": 72.9,
+          "text": "Food."
+        },
+        {
+          "startSec": 72.9,
+          "endSec": 73.1,
+          "text": "Put"
+        },
+        {
+          "startSec": 73.1,
+          "endSec": 73.3,
+          "text": "on"
+        },
+        {
+          "startSec": 73.3,
+          "endSec": 73.4,
+          "text": "a"
+        },
+        {
+          "startSec": 73.4,
+          "endSec": 73.7,
+          "text": "hook"
+        },
+        {
+          "startSec": 73.7,
+          "endSec": 73.8,
+          "text": "to"
+        },
+        {
+          "startSec": 73.8,
+          "endSec": 74.2,
+          "text": "catch"
+        },
+        {
+          "startSec": 74.2,
+          "endSec": 74.6,
+          "text": "fish"
+        },
+        {
+          "startSec": 74.6,
+          "endSec": 74.7,
+          "text": "or"
+        },
+        {
+          "startSec": 74.7,
+          "endSec": 75.6,
+          "text": "animals."
+        },
+        {
+          "startSec": 75.6,
+          "endSec": 75.9,
+          "text": "We'll"
+        },
+        {
+          "startSec": 75.9,
+          "endSec": 76.1,
+          "text": "see"
+        },
+        {
+          "startSec": 76.1,
+          "endSec": 76.2,
+          "text": "a"
+        },
+        {
+          "startSec": 76.2,
+          "endSec": 76.5,
+          "text": "piece"
+        },
+        {
+          "startSec": 76.5,
+          "endSec": 76.6,
+          "text": "of"
+        },
+        {
+          "startSec": 76.6,
+          "endSec": 77.2,
+          "text": "computer"
+        },
+        {
+          "startSec": 77.2,
+          "endSec": 77.8,
+          "text": "software."
+        },
+        {
+          "startSec": 77.8,
+          "endSec": 77.9,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 77.8,
+      "endSec": 82.5,
+      "text": "I am fairly confident that it is bait food. Put on a hook.",
+      "words": [
+        {
+          "startSec": 77.8,
+          "endSec": 77.9,
+          "text": "I"
+        },
+        {
+          "startSec": 77.9,
+          "endSec": 78,
+          "text": "am"
+        },
+        {
+          "startSec": 78,
+          "endSec": 78.6,
+          "text": "fairly"
+        },
+        {
+          "startSec": 78.6,
+          "endSec": 79.4,
+          "text": "confident"
+        },
+        {
+          "startSec": 79.4,
+          "endSec": 79.8,
+          "text": "that"
+        },
+        {
+          "startSec": 79.8,
+          "endSec": 80,
+          "text": "it"
+        },
+        {
+          "startSec": 80,
+          "endSec": 80.2,
+          "text": "is"
+        },
+        {
+          "startSec": 80.2,
+          "endSec": 80.5,
+          "text": "bait"
+        },
+        {
+          "startSec": 80.5,
+          "endSec": 81.2,
+          "text": "food."
+        },
+        {
+          "startSec": 81.2,
+          "endSec": 81.6,
+          "text": "Put"
+        },
+        {
+          "startSec": 81.6,
+          "endSec": 81.8,
+          "text": "on"
+        },
+        {
+          "startSec": 81.8,
+          "endSec": 82,
+          "text": "a"
+        },
+        {
+          "startSec": 82,
+          "endSec": 82.5,
+          "text": "hook."
+        }
+      ]
+    },
+    {
+      "startSec": 82.5,
+      "endSec": 87.2,
+      "text": "OK, we'll find out the correct answer later in the program.",
+      "words": [
+        {
+          "startSec": 82.6,
+          "endSec": 82.9,
+          "text": "OK,"
+        },
+        {
+          "startSec": 82.9,
+          "endSec": 83.3,
+          "text": "we'll"
+        },
+        {
+          "startSec": 83.3,
+          "endSec": 83.7,
+          "text": "find"
+        },
+        {
+          "startSec": 83.7,
+          "endSec": 84,
+          "text": "out"
+        },
+        {
+          "startSec": 84,
+          "endSec": 84.2,
+          "text": "the"
+        },
+        {
+          "startSec": 84.2,
+          "endSec": 84.9,
+          "text": "correct"
+        },
+        {
+          "startSec": 84.9,
+          "endSec": 85.4,
+          "text": "answer"
+        },
+        {
+          "startSec": 85.4,
+          "endSec": 85.8,
+          "text": "later"
+        },
+        {
+          "startSec": 85.8,
+          "endSec": 86,
+          "text": "in"
+        },
+        {
+          "startSec": 86,
+          "endSec": 86.3,
+          "text": "the"
+        },
+        {
+          "startSec": 86.3,
+          "endSec": 87.2,
+          "text": "program."
+        },
+        {
+          "startSec": 87.2,
+          "endSec": 87.8,
+          "text": "Here's"
+        }
+      ]
+    },
+    {
+      "startSec": 87.2,
+      "endSec": 93.6,
+      "text": "Here's how ragebait works. A creator posts a provocative piece of content online, a message",
+      "words": [
+        {
+          "startSec": 87.2,
+          "endSec": 87.8,
+          "text": "Here's"
+        },
+        {
+          "startSec": 87.8,
+          "endSec": 88.1,
+          "text": "how"
+        },
+        {
+          "startSec": 88.1,
+          "endSec": 88.8,
+          "text": "ragebait"
+        },
+        {
+          "startSec": 88.8,
+          "endSec": 89.6,
+          "text": "works."
+        },
+        {
+          "startSec": 89.6,
+          "endSec": 89.7,
+          "text": "A"
+        },
+        {
+          "startSec": 89.7,
+          "endSec": 90.2,
+          "text": "creator"
+        },
+        {
+          "startSec": 90.2,
+          "endSec": 90.5,
+          "text": "posts"
+        },
+        {
+          "startSec": 90.5,
+          "endSec": 90.6,
+          "text": "a"
+        },
+        {
+          "startSec": 90.6,
+          "endSec": 91.4,
+          "text": "provocative"
+        },
+        {
+          "startSec": 91.4,
+          "endSec": 91.7,
+          "text": "piece"
+        },
+        {
+          "startSec": 91.7,
+          "endSec": 91.8,
+          "text": "of"
+        },
+        {
+          "startSec": 91.8,
+          "endSec": 92.4,
+          "text": "content"
+        },
+        {
+          "startSec": 92.4,
+          "endSec": 93.1,
+          "text": "online,"
+        },
+        {
+          "startSec": 93.1,
+          "endSec": 93.2,
+          "text": "a"
+        },
+        {
+          "startSec": 93.2,
+          "endSec": 93.6,
+          "text": "message"
+        },
+        {
+          "startSec": 93.6,
+          "endSec": 94.2,
+          "text": "maybe"
+        }
+      ]
+    },
+    {
+      "startSec": 93.6,
+      "endSec": 101.7,
+      "text": "maybe or a video. People see it, feel outraged and comment angrily. Others see it, like it",
+      "words": [
+        {
+          "startSec": 93.6,
+          "endSec": 94.2,
+          "text": "maybe"
+        },
+        {
+          "startSec": 94.2,
+          "endSec": 94.4,
+          "text": "or"
+        },
+        {
+          "startSec": 94.4,
+          "endSec": 94.5,
+          "text": "a"
+        },
+        {
+          "startSec": 94.5,
+          "endSec": 95.5,
+          "text": "video."
+        },
+        {
+          "startSec": 95.5,
+          "endSec": 96.2,
+          "text": "People"
+        },
+        {
+          "startSec": 96.2,
+          "endSec": 96.5,
+          "text": "see"
+        },
+        {
+          "startSec": 96.5,
+          "endSec": 97,
+          "text": "it,"
+        },
+        {
+          "startSec": 97,
+          "endSec": 97.4,
+          "text": "feel"
+        },
+        {
+          "startSec": 97.4,
+          "endSec": 98.3,
+          "text": "outraged"
+        },
+        {
+          "startSec": 98.3,
+          "endSec": 98.6,
+          "text": "and"
+        },
+        {
+          "startSec": 98.6,
+          "endSec": 99.4,
+          "text": "comment"
+        },
+        {
+          "startSec": 99.4,
+          "endSec": 100.5,
+          "text": "angrily."
+        },
+        {
+          "startSec": 100.5,
+          "endSec": 100.8,
+          "text": "Others"
+        },
+        {
+          "startSec": 100.8,
+          "endSec": 100.9,
+          "text": "see"
+        },
+        {
+          "startSec": 100.9,
+          "endSec": 101.2,
+          "text": "it,"
+        },
+        {
+          "startSec": 101.2,
+          "endSec": 101.7,
+          "text": "like"
+        },
+        {
+          "startSec": 101.7,
+          "endSec": 101.7,
+          "text": "it"
+        },
+        {
+          "startSec": 101.7,
+          "endSec": 102,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 101.7,
+      "endSec": 108.2,
+      "text": "and share it around. On either way, the content creates interest, increases internet traffic",
+      "words": [
+        {
+          "startSec": 101.7,
+          "endSec": 101.7,
+          "text": "it"
+        },
+        {
+          "startSec": 101.7,
+          "endSec": 102,
+          "text": "and"
+        },
+        {
+          "startSec": 102,
+          "endSec": 102.4,
+          "text": "share"
+        },
+        {
+          "startSec": 102.4,
+          "endSec": 102.6,
+          "text": "it"
+        },
+        {
+          "startSec": 102.6,
+          "endSec": 103.5,
+          "text": "around."
+        },
+        {
+          "startSec": 103.5,
+          "endSec": 103.7,
+          "text": "On"
+        },
+        {
+          "startSec": 103.7,
+          "endSec": 104.2,
+          "text": "either"
+        },
+        {
+          "startSec": 104.2,
+          "endSec": 104.6,
+          "text": "way,"
+        },
+        {
+          "startSec": 104.6,
+          "endSec": 104.8,
+          "text": "the"
+        },
+        {
+          "startSec": 104.8,
+          "endSec": 105.4,
+          "text": "content"
+        },
+        {
+          "startSec": 105.4,
+          "endSec": 106,
+          "text": "creates"
+        },
+        {
+          "startSec": 106,
+          "endSec": 106.9,
+          "text": "interest,"
+        },
+        {
+          "startSec": 106.9,
+          "endSec": 107.4,
+          "text": "increases"
+        },
+        {
+          "startSec": 107.4,
+          "endSec": 107.8,
+          "text": "internet"
+        },
+        {
+          "startSec": 107.8,
+          "endSec": 108.2,
+          "text": "traffic"
+        },
+        {
+          "startSec": 108.2,
+          "endSec": 108.4,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 108.2,
+      "endSec": 113.6,
+      "text": "and makes money for the creator. Here's marketing strategist Andrea Jones explaining",
+      "words": [
+        {
+          "startSec": 108.2,
+          "endSec": 108.4,
+          "text": "and"
+        },
+        {
+          "startSec": 108.4,
+          "endSec": 108.7,
+          "text": "makes"
+        },
+        {
+          "startSec": 108.7,
+          "endSec": 109.1,
+          "text": "money"
+        },
+        {
+          "startSec": 109.1,
+          "endSec": 109.3,
+          "text": "for"
+        },
+        {
+          "startSec": 109.3,
+          "endSec": 109.5,
+          "text": "the"
+        },
+        {
+          "startSec": 109.5,
+          "endSec": 110.2,
+          "text": "creator."
+        },
+        {
+          "startSec": 110.2,
+          "endSec": 110.7,
+          "text": "Here's"
+        },
+        {
+          "startSec": 110.7,
+          "endSec": 111.3,
+          "text": "marketing"
+        },
+        {
+          "startSec": 111.3,
+          "endSec": 112,
+          "text": "strategist"
+        },
+        {
+          "startSec": 112,
+          "endSec": 112.5,
+          "text": "Andrea"
+        },
+        {
+          "startSec": 112.5,
+          "endSec": 112.8,
+          "text": "Jones"
+        },
+        {
+          "startSec": 112.8,
+          "endSec": 113.6,
+          "text": "explaining"
+        },
+        {
+          "startSec": 113.6,
+          "endSec": 114,
+          "text": "more"
+        }
+      ]
+    },
+    {
+      "startSec": 113.6,
+      "endSec": 119.5,
+      "text": "more to Megan Lawton, presenter of BBC World Service Program Business Daily.",
+      "words": [
+        {
+          "startSec": 113.6,
+          "endSec": 114,
+          "text": "more"
+        },
+        {
+          "startSec": 114,
+          "endSec": 114.2,
+          "text": "to"
+        },
+        {
+          "startSec": 114.2,
+          "endSec": 114.6,
+          "text": "Megan"
+        },
+        {
+          "startSec": 114.6,
+          "endSec": 115.2,
+          "text": "Lawton,"
+        },
+        {
+          "startSec": 115.2,
+          "endSec": 116,
+          "text": "presenter"
+        },
+        {
+          "startSec": 116,
+          "endSec": 116.2,
+          "text": "of"
+        },
+        {
+          "startSec": 116.2,
+          "endSec": 116.4,
+          "text": "BBC"
+        },
+        {
+          "startSec": 116.4,
+          "endSec": 116.9,
+          "text": "World"
+        },
+        {
+          "startSec": 116.9,
+          "endSec": 117.5,
+          "text": "Service"
+        },
+        {
+          "startSec": 117.5,
+          "endSec": 118.1,
+          "text": "Program"
+        },
+        {
+          "startSec": 118.1,
+          "endSec": 118.7,
+          "text": "Business"
+        },
+        {
+          "startSec": 118.7,
+          "endSec": 119.5,
+          "text": "Daily."
+        },
+        {
+          "startSec": 119.5,
+          "endSec": 119.6,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 119.5,
+      "endSec": 123.5,
+      "text": "The more content they create, the more engagement they get, the more that they get paid. And",
+      "words": [
+        {
+          "startSec": 119.5,
+          "endSec": 119.6,
+          "text": "The"
+        },
+        {
+          "startSec": 119.6,
+          "endSec": 119.8,
+          "text": "more"
+        },
+        {
+          "startSec": 119.8,
+          "endSec": 120.2,
+          "text": "content"
+        },
+        {
+          "startSec": 120.2,
+          "endSec": 120.4,
+          "text": "they"
+        },
+        {
+          "startSec": 120.4,
+          "endSec": 120.8,
+          "text": "create,"
+        },
+        {
+          "startSec": 120.8,
+          "endSec": 121,
+          "text": "the"
+        },
+        {
+          "startSec": 121,
+          "endSec": 121.2,
+          "text": "more"
+        },
+        {
+          "startSec": 121.2,
+          "endSec": 121.7,
+          "text": "engagement"
+        },
+        {
+          "startSec": 121.7,
+          "endSec": 121.9,
+          "text": "they"
+        },
+        {
+          "startSec": 121.9,
+          "endSec": 122.1,
+          "text": "get,"
+        },
+        {
+          "startSec": 122.1,
+          "endSec": 122.3,
+          "text": "the"
+        },
+        {
+          "startSec": 122.3,
+          "endSec": 122.5,
+          "text": "more"
+        },
+        {
+          "startSec": 122.5,
+          "endSec": 122.7,
+          "text": "that"
+        },
+        {
+          "startSec": 122.7,
+          "endSec": 122.9,
+          "text": "they"
+        },
+        {
+          "startSec": 122.9,
+          "endSec": 123,
+          "text": "get"
+        },
+        {
+          "startSec": 123,
+          "endSec": 123.5,
+          "text": "paid."
+        },
+        {
+          "startSec": 123.5,
+          "endSec": 123.5,
+          "text": "And"
+        },
+        {
+          "startSec": 123.5,
+          "endSec": 123.7,
+          "text": "so"
+        }
+      ]
+    },
+    {
+      "startSec": 123.5,
+      "endSec": 128.4,
+      "text": "so they will do anything. Some creators will do anything to get more views because the",
+      "words": [
+        {
+          "startSec": 123.5,
+          "endSec": 123.5,
+          "text": "And"
+        },
+        {
+          "startSec": 123.5,
+          "endSec": 123.7,
+          "text": "so"
+        },
+        {
+          "startSec": 123.7,
+          "endSec": 123.9,
+          "text": "they"
+        },
+        {
+          "startSec": 123.9,
+          "endSec": 124.2,
+          "text": "will"
+        },
+        {
+          "startSec": 124.2,
+          "endSec": 124.3,
+          "text": "do"
+        },
+        {
+          "startSec": 124.3,
+          "endSec": 125,
+          "text": "anything."
+        },
+        {
+          "startSec": 125,
+          "endSec": 125.3,
+          "text": "Some"
+        },
+        {
+          "startSec": 125.3,
+          "endSec": 125.8,
+          "text": "creators"
+        },
+        {
+          "startSec": 125.8,
+          "endSec": 126.1,
+          "text": "will"
+        },
+        {
+          "startSec": 126.1,
+          "endSec": 126.2,
+          "text": "do"
+        },
+        {
+          "startSec": 126.2,
+          "endSec": 126.7,
+          "text": "anything"
+        },
+        {
+          "startSec": 126.7,
+          "endSec": 126.9,
+          "text": "to"
+        },
+        {
+          "startSec": 126.9,
+          "endSec": 127.1,
+          "text": "get"
+        },
+        {
+          "startSec": 127.1,
+          "endSec": 127.3,
+          "text": "more"
+        },
+        {
+          "startSec": 127.3,
+          "endSec": 127.7,
+          "text": "views"
+        },
+        {
+          "startSec": 127.7,
+          "endSec": 128.1,
+          "text": "because"
+        },
+        {
+          "startSec": 128.1,
+          "endSec": 128.4,
+          "text": "the"
+        },
+        {
+          "startSec": 128.4,
+          "endSec": 128.7,
+          "text": "more"
+        }
+      ]
+    },
+    {
+      "startSec": 128.4,
+      "endSec": 134.4,
+      "text": "more views they get, the more that they get paid. Even if, even if those views are negative",
+      "words": [
+        {
+          "startSec": 128.4,
+          "endSec": 128.7,
+          "text": "more"
+        },
+        {
+          "startSec": 128.7,
+          "endSec": 129,
+          "text": "views"
+        },
+        {
+          "startSec": 129,
+          "endSec": 129.3,
+          "text": "they"
+        },
+        {
+          "startSec": 129.3,
+          "endSec": 129.6,
+          "text": "get,"
+        },
+        {
+          "startSec": 129.6,
+          "endSec": 129.8,
+          "text": "the"
+        },
+        {
+          "startSec": 129.8,
+          "endSec": 130,
+          "text": "more"
+        },
+        {
+          "startSec": 130,
+          "endSec": 130.3,
+          "text": "that"
+        },
+        {
+          "startSec": 130.3,
+          "endSec": 130.6,
+          "text": "they"
+        },
+        {
+          "startSec": 130.6,
+          "endSec": 130.8,
+          "text": "get"
+        },
+        {
+          "startSec": 130.8,
+          "endSec": 131.2,
+          "text": "paid."
+        },
+        {
+          "startSec": 131.2,
+          "endSec": 131.6,
+          "text": "Even"
+        },
+        {
+          "startSec": 131.6,
+          "endSec": 132,
+          "text": "if,"
+        },
+        {
+          "startSec": 132,
+          "endSec": 132.3,
+          "text": "even"
+        },
+        {
+          "startSec": 132.3,
+          "endSec": 132.5,
+          "text": "if"
+        },
+        {
+          "startSec": 132.5,
+          "endSec": 133,
+          "text": "those"
+        },
+        {
+          "startSec": 133,
+          "endSec": 133.4,
+          "text": "views"
+        },
+        {
+          "startSec": 133.4,
+          "endSec": 133.7,
+          "text": "are"
+        },
+        {
+          "startSec": 133.7,
+          "endSec": 134.4,
+          "text": "negative"
+        }
+      ]
+    },
+    {
+      "startSec": 134.4,
+      "endSec": 140.9,
+      "text": "or inciting rage and anger in people. Andrea, how is ragebait different to clickbait or",
+      "words": [
+        {
+          "startSec": 134.5,
+          "endSec": 134.6,
+          "text": "or"
+        },
+        {
+          "startSec": 134.6,
+          "endSec": 135.3,
+          "text": "inciting"
+        },
+        {
+          "startSec": 135.3,
+          "endSec": 135.6,
+          "text": "rage"
+        },
+        {
+          "startSec": 135.6,
+          "endSec": 135.8,
+          "text": "and"
+        },
+        {
+          "startSec": 135.8,
+          "endSec": 136.3,
+          "text": "anger"
+        },
+        {
+          "startSec": 136.3,
+          "endSec": 136.4,
+          "text": "in"
+        },
+        {
+          "startSec": 136.4,
+          "endSec": 137.2,
+          "text": "people."
+        },
+        {
+          "startSec": 137.2,
+          "endSec": 137.9,
+          "text": "Andrea,"
+        },
+        {
+          "startSec": 137.9,
+          "endSec": 138.1,
+          "text": "how"
+        },
+        {
+          "startSec": 138.1,
+          "endSec": 138.3,
+          "text": "is"
+        },
+        {
+          "startSec": 138.3,
+          "endSec": 139,
+          "text": "ragebait"
+        },
+        {
+          "startSec": 139,
+          "endSec": 139.7,
+          "text": "different"
+        },
+        {
+          "startSec": 139.7,
+          "endSec": 139.8,
+          "text": "to"
+        },
+        {
+          "startSec": 139.8,
+          "endSec": 140.5,
+          "text": "clickbait"
+        },
+        {
+          "startSec": 140.5,
+          "endSec": 140.9,
+          "text": "or"
+        },
+        {
+          "startSec": 140.9,
+          "endSec": 141.3,
+          "text": "other"
+        }
+      ]
+    },
+    {
+      "startSec": 140.9,
+      "endSec": 145.2,
+      "text": "other online tactics? As a marketer, I'm always coaching my clients",
+      "words": [
+        {
+          "startSec": 140.9,
+          "endSec": 141.3,
+          "text": "other"
+        },
+        {
+          "startSec": 141.3,
+          "endSec": 141.7,
+          "text": "online"
+        },
+        {
+          "startSec": 141.7,
+          "endSec": 142.5,
+          "text": "tactics?"
+        },
+        {
+          "startSec": 142.5,
+          "endSec": 142.6,
+          "text": "As"
+        },
+        {
+          "startSec": 142.6,
+          "endSec": 142.7,
+          "text": "a"
+        },
+        {
+          "startSec": 142.7,
+          "endSec": 143.4,
+          "text": "marketer,"
+        },
+        {
+          "startSec": 143.4,
+          "endSec": 143.6,
+          "text": "I'm"
+        },
+        {
+          "startSec": 143.6,
+          "endSec": 144,
+          "text": "always"
+        },
+        {
+          "startSec": 144,
+          "endSec": 144.6,
+          "text": "coaching"
+        },
+        {
+          "startSec": 144.6,
+          "endSec": 144.8,
+          "text": "my"
+        },
+        {
+          "startSec": 144.8,
+          "endSec": 145.2,
+          "text": "clients"
+        },
+        {
+          "startSec": 145.2,
+          "endSec": 145.4,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 145.2,
+      "endSec": 149,
+      "text": "and talking to them about using hooks in their marketing, right? And I think the difference",
+      "words": [
+        {
+          "startSec": 145.2,
+          "endSec": 145.4,
+          "text": "and"
+        },
+        {
+          "startSec": 145.4,
+          "endSec": 145.7,
+          "text": "talking"
+        },
+        {
+          "startSec": 145.7,
+          "endSec": 145.8,
+          "text": "to"
+        },
+        {
+          "startSec": 145.8,
+          "endSec": 146,
+          "text": "them"
+        },
+        {
+          "startSec": 146,
+          "endSec": 146.3,
+          "text": "about"
+        },
+        {
+          "startSec": 146.3,
+          "endSec": 146.6,
+          "text": "using"
+        },
+        {
+          "startSec": 146.6,
+          "endSec": 146.8,
+          "text": "hooks"
+        },
+        {
+          "startSec": 146.8,
+          "endSec": 146.9,
+          "text": "in"
+        },
+        {
+          "startSec": 146.9,
+          "endSec": 147.2,
+          "text": "their"
+        },
+        {
+          "startSec": 147.2,
+          "endSec": 147.8,
+          "text": "marketing,"
+        },
+        {
+          "startSec": 147.8,
+          "endSec": 148.2,
+          "text": "right?"
+        },
+        {
+          "startSec": 148.2,
+          "endSec": 148.3,
+          "text": "And"
+        },
+        {
+          "startSec": 148.3,
+          "endSec": 148.4,
+          "text": "I"
+        },
+        {
+          "startSec": 148.4,
+          "endSec": 148.5,
+          "text": "think"
+        },
+        {
+          "startSec": 148.5,
+          "endSec": 148.6,
+          "text": "the"
+        },
+        {
+          "startSec": 148.6,
+          "endSec": 149,
+          "text": "difference"
+        },
+        {
+          "startSec": 149,
+          "endSec": 149.6,
+          "text": "between"
+        }
+      ]
+    },
+    {
+      "startSec": 149,
+      "endSec": 155.4,
+      "text": "between a hook and ragebait or even its long lost cousin clickbait content, when we think",
+      "words": [
+        {
+          "startSec": 149,
+          "endSec": 149.6,
+          "text": "between"
+        },
+        {
+          "startSec": 149.6,
+          "endSec": 149.7,
+          "text": "a"
+        },
+        {
+          "startSec": 149.7,
+          "endSec": 150,
+          "text": "hook"
+        },
+        {
+          "startSec": 150,
+          "endSec": 150.3,
+          "text": "and"
+        },
+        {
+          "startSec": 150.3,
+          "endSec": 150.9,
+          "text": "ragebait"
+        },
+        {
+          "startSec": 150.9,
+          "endSec": 151.1,
+          "text": "or"
+        },
+        {
+          "startSec": 151.1,
+          "endSec": 151.4,
+          "text": "even"
+        },
+        {
+          "startSec": 151.4,
+          "endSec": 151.7,
+          "text": "its"
+        },
+        {
+          "startSec": 151.7,
+          "endSec": 152,
+          "text": "long"
+        },
+        {
+          "startSec": 152,
+          "endSec": 152.3,
+          "text": "lost"
+        },
+        {
+          "startSec": 152.3,
+          "endSec": 152.8,
+          "text": "cousin"
+        },
+        {
+          "startSec": 152.8,
+          "endSec": 153.6,
+          "text": "clickbait"
+        },
+        {
+          "startSec": 153.6,
+          "endSec": 154.3,
+          "text": "content,"
+        },
+        {
+          "startSec": 154.3,
+          "endSec": 154.7,
+          "text": "when"
+        },
+        {
+          "startSec": 154.7,
+          "endSec": 154.8,
+          "text": "we"
+        },
+        {
+          "startSec": 154.8,
+          "endSec": 155.4,
+          "text": "think"
+        },
+        {
+          "startSec": 155.4,
+          "endSec": 155.8,
+          "text": "about"
+        }
+      ]
+    },
+    {
+      "startSec": 155.4,
+      "endSec": 161.4,
+      "text": "about a hook, to me, a hook accurately reflects what's in that piece of content and it comes",
+      "words": [
+        {
+          "startSec": 155.4,
+          "endSec": 155.8,
+          "text": "about"
+        },
+        {
+          "startSec": 155.8,
+          "endSec": 155.8,
+          "text": "a"
+        },
+        {
+          "startSec": 155.8,
+          "endSec": 156.3,
+          "text": "hook,"
+        },
+        {
+          "startSec": 156.3,
+          "endSec": 156.4,
+          "text": "to"
+        },
+        {
+          "startSec": 156.4,
+          "endSec": 156.7,
+          "text": "me,"
+        },
+        {
+          "startSec": 156.7,
+          "endSec": 156.8,
+          "text": "a"
+        },
+        {
+          "startSec": 156.8,
+          "endSec": 157.1,
+          "text": "hook"
+        },
+        {
+          "startSec": 157.1,
+          "endSec": 157.9,
+          "text": "accurately"
+        },
+        {
+          "startSec": 157.9,
+          "endSec": 158.5,
+          "text": "reflects"
+        },
+        {
+          "startSec": 158.5,
+          "endSec": 159,
+          "text": "what's"
+        },
+        {
+          "startSec": 159,
+          "endSec": 159.1,
+          "text": "in"
+        },
+        {
+          "startSec": 159.1,
+          "endSec": 159.4,
+          "text": "that"
+        },
+        {
+          "startSec": 159.4,
+          "endSec": 159.8,
+          "text": "piece"
+        },
+        {
+          "startSec": 159.8,
+          "endSec": 160,
+          "text": "of"
+        },
+        {
+          "startSec": 160,
+          "endSec": 160.5,
+          "text": "content"
+        },
+        {
+          "startSec": 160.5,
+          "endSec": 160.7,
+          "text": "and"
+        },
+        {
+          "startSec": 160.7,
+          "endSec": 160.9,
+          "text": "it"
+        },
+        {
+          "startSec": 160.9,
+          "endSec": 161.4,
+          "text": "comes"
+        }
+      ]
+    },
+    {
+      "startSec": 161.4,
+      "endSec": 168.6,
+      "text": "from a place of trust, whereas ragebait content is designed to be manipulative.",
+      "words": [
+        {
+          "startSec": 161.5,
+          "endSec": 161.8,
+          "text": "from"
+        },
+        {
+          "startSec": 161.8,
+          "endSec": 161.9,
+          "text": "a"
+        },
+        {
+          "startSec": 161.9,
+          "endSec": 162.4,
+          "text": "place"
+        },
+        {
+          "startSec": 162.4,
+          "endSec": 162.6,
+          "text": "of"
+        },
+        {
+          "startSec": 162.6,
+          "endSec": 163.3,
+          "text": "trust,"
+        },
+        {
+          "startSec": 163.3,
+          "endSec": 164,
+          "text": "whereas"
+        },
+        {
+          "startSec": 164,
+          "endSec": 164.8,
+          "text": "ragebait"
+        },
+        {
+          "startSec": 164.8,
+          "endSec": 165.5,
+          "text": "content"
+        },
+        {
+          "startSec": 165.5,
+          "endSec": 165.7,
+          "text": "is"
+        },
+        {
+          "startSec": 165.7,
+          "endSec": 166.6,
+          "text": "designed"
+        },
+        {
+          "startSec": 166.6,
+          "endSec": 166.8,
+          "text": "to"
+        },
+        {
+          "startSec": 166.8,
+          "endSec": 167,
+          "text": "be"
+        },
+        {
+          "startSec": 167,
+          "endSec": 168.6,
+          "text": "manipulative."
+        },
+        {
+          "startSec": 168.6,
+          "endSec": 169.1,
+          "text": "Andrea"
+        }
+      ]
+    },
+    {
+      "startSec": 168.6,
+      "endSec": 174.9,
+      "text": "Andrea says, the more reaction a post gets, the more money the creator makes, even if",
+      "words": [
+        {
+          "startSec": 168.6,
+          "endSec": 169.1,
+          "text": "Andrea"
+        },
+        {
+          "startSec": 169.1,
+          "endSec": 169.6,
+          "text": "says,"
+        },
+        {
+          "startSec": 169.6,
+          "endSec": 169.9,
+          "text": "the"
+        },
+        {
+          "startSec": 169.9,
+          "endSec": 170.2,
+          "text": "more"
+        },
+        {
+          "startSec": 170.2,
+          "endSec": 170.9,
+          "text": "reaction"
+        },
+        {
+          "startSec": 170.9,
+          "endSec": 171,
+          "text": "a"
+        },
+        {
+          "startSec": 171,
+          "endSec": 171.3,
+          "text": "post"
+        },
+        {
+          "startSec": 171.3,
+          "endSec": 171.8,
+          "text": "gets,"
+        },
+        {
+          "startSec": 171.8,
+          "endSec": 172.1,
+          "text": "the"
+        },
+        {
+          "startSec": 172.1,
+          "endSec": 172.4,
+          "text": "more"
+        },
+        {
+          "startSec": 172.4,
+          "endSec": 172.8,
+          "text": "money"
+        },
+        {
+          "startSec": 172.8,
+          "endSec": 173.1,
+          "text": "the"
+        },
+        {
+          "startSec": 173.1,
+          "endSec": 173.7,
+          "text": "creator"
+        },
+        {
+          "startSec": 173.7,
+          "endSec": 174.3,
+          "text": "makes,"
+        },
+        {
+          "startSec": 174.3,
+          "endSec": 174.6,
+          "text": "even"
+        },
+        {
+          "startSec": 174.6,
+          "endSec": 174.9,
+          "text": "if"
+        },
+        {
+          "startSec": 174.9,
+          "endSec": 175.1,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 174.9,
+      "endSec": 181.6,
+      "text": "the reactions are hateful. She uses the structure, the more one thing happens, the more something",
+      "words": [
+        {
+          "startSec": 174.9,
+          "endSec": 175.1,
+          "text": "the"
+        },
+        {
+          "startSec": 175.1,
+          "endSec": 175.8,
+          "text": "reactions"
+        },
+        {
+          "startSec": 175.8,
+          "endSec": 176,
+          "text": "are"
+        },
+        {
+          "startSec": 176,
+          "endSec": 176.8,
+          "text": "hateful."
+        },
+        {
+          "startSec": 176.8,
+          "endSec": 177,
+          "text": "She"
+        },
+        {
+          "startSec": 177,
+          "endSec": 177.3,
+          "text": "uses"
+        },
+        {
+          "startSec": 177.3,
+          "endSec": 177.5,
+          "text": "the"
+        },
+        {
+          "startSec": 177.5,
+          "endSec": 178.4,
+          "text": "structure,"
+        },
+        {
+          "startSec": 178.4,
+          "endSec": 178.6,
+          "text": "the"
+        },
+        {
+          "startSec": 178.6,
+          "endSec": 178.9,
+          "text": "more"
+        },
+        {
+          "startSec": 178.9,
+          "endSec": 179.1,
+          "text": "one"
+        },
+        {
+          "startSec": 179.1,
+          "endSec": 179.6,
+          "text": "thing"
+        },
+        {
+          "startSec": 179.6,
+          "endSec": 180.5,
+          "text": "happens,"
+        },
+        {
+          "startSec": 180.5,
+          "endSec": 180.6,
+          "text": "the"
+        },
+        {
+          "startSec": 180.6,
+          "endSec": 180.9,
+          "text": "more"
+        },
+        {
+          "startSec": 180.9,
+          "endSec": 181.6,
+          "text": "something"
+        },
+        {
+          "startSec": 181.6,
+          "endSec": 181.9,
+          "text": "else"
+        }
+      ]
+    },
+    {
+      "startSec": 181.6,
+      "endSec": 188.4,
+      "text": "else happens, to show that as one thing happens repeatedly, another thing increases as a result.",
+      "words": [
+        {
+          "startSec": 181.6,
+          "endSec": 181.9,
+          "text": "else"
+        },
+        {
+          "startSec": 181.9,
+          "endSec": 182.6,
+          "text": "happens,"
+        },
+        {
+          "startSec": 182.6,
+          "endSec": 182.8,
+          "text": "to"
+        },
+        {
+          "startSec": 182.8,
+          "endSec": 183.1,
+          "text": "show"
+        },
+        {
+          "startSec": 183.1,
+          "endSec": 183.4,
+          "text": "that"
+        },
+        {
+          "startSec": 183.4,
+          "endSec": 183.6,
+          "text": "as"
+        },
+        {
+          "startSec": 183.6,
+          "endSec": 183.8,
+          "text": "one"
+        },
+        {
+          "startSec": 183.8,
+          "endSec": 184.2,
+          "text": "thing"
+        },
+        {
+          "startSec": 184.2,
+          "endSec": 184.8,
+          "text": "happens"
+        },
+        {
+          "startSec": 184.8,
+          "endSec": 185.7,
+          "text": "repeatedly,"
+        },
+        {
+          "startSec": 185.7,
+          "endSec": 186.3,
+          "text": "another"
+        },
+        {
+          "startSec": 186.3,
+          "endSec": 186.7,
+          "text": "thing"
+        },
+        {
+          "startSec": 186.7,
+          "endSec": 187.4,
+          "text": "increases"
+        },
+        {
+          "startSec": 187.4,
+          "endSec": 187.6,
+          "text": "as"
+        },
+        {
+          "startSec": 187.6,
+          "endSec": 187.6,
+          "text": "a"
+        },
+        {
+          "startSec": 187.6,
+          "endSec": 188.4,
+          "text": "result."
+        }
+      ]
+    },
+    {
+      "startSec": 188.4,
+      "endSec": 192.9,
+      "text": "For example, the more you practise English, the more you'll improve.",
+      "words": [
+        {
+          "startSec": 188.5,
+          "endSec": 188.7,
+          "text": "For"
+        },
+        {
+          "startSec": 188.7,
+          "endSec": 189.3,
+          "text": "example,"
+        },
+        {
+          "startSec": 189.3,
+          "endSec": 189.5,
+          "text": "the"
+        },
+        {
+          "startSec": 189.5,
+          "endSec": 189.8,
+          "text": "more"
+        },
+        {
+          "startSec": 189.8,
+          "endSec": 190,
+          "text": "you"
+        },
+        {
+          "startSec": 190,
+          "endSec": 190.6,
+          "text": "practise"
+        },
+        {
+          "startSec": 190.6,
+          "endSec": 191.2,
+          "text": "English,"
+        },
+        {
+          "startSec": 191.2,
+          "endSec": 191.4,
+          "text": "the"
+        },
+        {
+          "startSec": 191.4,
+          "endSec": 191.7,
+          "text": "more"
+        },
+        {
+          "startSec": 191.7,
+          "endSec": 192.1,
+          "text": "you'll"
+        },
+        {
+          "startSec": 192.1,
+          "endSec": 192.9,
+          "text": "improve."
+        },
+        {
+          "startSec": 192.9,
+          "endSec": 193,
+          "text": "It"
+        }
+      ]
+    },
+    {
+      "startSec": 192.9,
+      "endSec": 197.8,
+      "text": "It doesn't matter that the content is designed to incite outrage, to encourage unpleasant",
+      "words": [
+        {
+          "startSec": 192.9,
+          "endSec": 193,
+          "text": "It"
+        },
+        {
+          "startSec": 193,
+          "endSec": 193.4,
+          "text": "doesn't"
+        },
+        {
+          "startSec": 193.4,
+          "endSec": 193.8,
+          "text": "matter"
+        },
+        {
+          "startSec": 193.8,
+          "endSec": 194.1,
+          "text": "that"
+        },
+        {
+          "startSec": 194.1,
+          "endSec": 194.2,
+          "text": "the"
+        },
+        {
+          "startSec": 194.2,
+          "endSec": 194.7,
+          "text": "content"
+        },
+        {
+          "startSec": 194.7,
+          "endSec": 194.8,
+          "text": "is"
+        },
+        {
+          "startSec": 194.8,
+          "endSec": 195.3,
+          "text": "designed"
+        },
+        {
+          "startSec": 195.3,
+          "endSec": 195.4,
+          "text": "to"
+        },
+        {
+          "startSec": 195.4,
+          "endSec": 195.8,
+          "text": "incite"
+        },
+        {
+          "startSec": 195.8,
+          "endSec": 196.4,
+          "text": "outrage,"
+        },
+        {
+          "startSec": 196.4,
+          "endSec": 196.5,
+          "text": "to"
+        },
+        {
+          "startSec": 196.5,
+          "endSec": 197.1,
+          "text": "encourage"
+        },
+        {
+          "startSec": 197.1,
+          "endSec": 197.8,
+          "text": "unpleasant"
+        },
+        {
+          "startSec": 197.8,
+          "endSec": 198,
+          "text": "or"
+        }
+      ]
+    },
+    {
+      "startSec": 197.8,
+      "endSec": 205,
+      "text": "or violent reactions. That's why Andrea thinks ragebait is worse than clickbait. While clickbait",
+      "words": [
+        {
+          "startSec": 197.8,
+          "endSec": 198,
+          "text": "or"
+        },
+        {
+          "startSec": 198,
+          "endSec": 198.6,
+          "text": "violent"
+        },
+        {
+          "startSec": 198.6,
+          "endSec": 199.7,
+          "text": "reactions."
+        },
+        {
+          "startSec": 199.7,
+          "endSec": 200.2,
+          "text": "That's"
+        },
+        {
+          "startSec": 200.2,
+          "endSec": 200.4,
+          "text": "why"
+        },
+        {
+          "startSec": 200.4,
+          "endSec": 201,
+          "text": "Andrea"
+        },
+        {
+          "startSec": 201,
+          "endSec": 201.5,
+          "text": "thinks"
+        },
+        {
+          "startSec": 201.5,
+          "endSec": 202.2,
+          "text": "ragebait"
+        },
+        {
+          "startSec": 202.2,
+          "endSec": 202.4,
+          "text": "is"
+        },
+        {
+          "startSec": 202.4,
+          "endSec": 202.9,
+          "text": "worse"
+        },
+        {
+          "startSec": 202.9,
+          "endSec": 203.2,
+          "text": "than"
+        },
+        {
+          "startSec": 203.2,
+          "endSec": 204.4,
+          "text": "clickbait."
+        },
+        {
+          "startSec": 204.4,
+          "endSec": 204.6,
+          "text": "While"
+        },
+        {
+          "startSec": 204.6,
+          "endSec": 205,
+          "text": "clickbait"
+        },
+        {
+          "startSec": 205,
+          "endSec": 205.2,
+          "text": "is"
+        }
+      ]
+    },
+    {
+      "startSec": 205,
+      "endSec": 211.6,
+      "text": "is more truthful about its content, ragebait is manipulative, meaning it tries to influence",
+      "words": [
+        {
+          "startSec": 205,
+          "endSec": 205.2,
+          "text": "is"
+        },
+        {
+          "startSec": 205.2,
+          "endSec": 205.5,
+          "text": "more"
+        },
+        {
+          "startSec": 205.5,
+          "endSec": 206.2,
+          "text": "truthful"
+        },
+        {
+          "startSec": 206.2,
+          "endSec": 206.6,
+          "text": "about"
+        },
+        {
+          "startSec": 206.6,
+          "endSec": 206.8,
+          "text": "its"
+        },
+        {
+          "startSec": 206.8,
+          "endSec": 207.6,
+          "text": "content,"
+        },
+        {
+          "startSec": 207.6,
+          "endSec": 208.2,
+          "text": "ragebait"
+        },
+        {
+          "startSec": 208.2,
+          "endSec": 208.4,
+          "text": "is"
+        },
+        {
+          "startSec": 208.4,
+          "endSec": 209.5,
+          "text": "manipulative,"
+        },
+        {
+          "startSec": 209.5,
+          "endSec": 210.1,
+          "text": "meaning"
+        },
+        {
+          "startSec": 210.1,
+          "endSec": 210.2,
+          "text": "it"
+        },
+        {
+          "startSec": 210.2,
+          "endSec": 210.6,
+          "text": "tries"
+        },
+        {
+          "startSec": 210.6,
+          "endSec": 210.8,
+          "text": "to"
+        },
+        {
+          "startSec": 210.8,
+          "endSec": 211.6,
+          "text": "influence"
+        },
+        {
+          "startSec": 211.6,
+          "endSec": 212.4,
+          "text": "something"
+        }
+      ]
+    },
+    {
+      "startSec": 211.6,
+      "endSec": 214,
+      "text": "something to its own advantage.",
+      "words": [
+        {
+          "startSec": 211.6,
+          "endSec": 212.4,
+          "text": "something"
+        },
+        {
+          "startSec": 212.4,
+          "endSec": 212.5,
+          "text": "to"
+        },
+        {
+          "startSec": 212.5,
+          "endSec": 212.8,
+          "text": "its"
+        },
+        {
+          "startSec": 212.8,
+          "endSec": 213,
+          "text": "own"
+        },
+        {
+          "startSec": 213,
+          "endSec": 214,
+          "text": "advantage."
+        }
+      ]
+    },
+    {
+      "startSec": 214,
+      "endSec": 220.1,
+      "text": "So it's not hard to see why many people think ragebait is toxic. So if you're wondering",
+      "words": [
+        {
+          "startSec": 214.1,
+          "endSec": 214.2,
+          "text": "So"
+        },
+        {
+          "startSec": 214.2,
+          "endSec": 214.6,
+          "text": "it's"
+        },
+        {
+          "startSec": 214.6,
+          "endSec": 214.9,
+          "text": "not"
+        },
+        {
+          "startSec": 214.9,
+          "endSec": 215.2,
+          "text": "hard"
+        },
+        {
+          "startSec": 215.2,
+          "endSec": 215.4,
+          "text": "to"
+        },
+        {
+          "startSec": 215.4,
+          "endSec": 215.7,
+          "text": "see"
+        },
+        {
+          "startSec": 215.7,
+          "endSec": 216,
+          "text": "why"
+        },
+        {
+          "startSec": 216,
+          "endSec": 216.3,
+          "text": "many"
+        },
+        {
+          "startSec": 216.3,
+          "endSec": 216.9,
+          "text": "people"
+        },
+        {
+          "startSec": 216.9,
+          "endSec": 217.4,
+          "text": "think"
+        },
+        {
+          "startSec": 217.4,
+          "endSec": 218.1,
+          "text": "ragebait"
+        },
+        {
+          "startSec": 218.1,
+          "endSec": 218.3,
+          "text": "is"
+        },
+        {
+          "startSec": 218.3,
+          "endSec": 219.1,
+          "text": "toxic."
+        },
+        {
+          "startSec": 219.1,
+          "endSec": 219.2,
+          "text": "So"
+        },
+        {
+          "startSec": 219.2,
+          "endSec": 219.3,
+          "text": "if"
+        },
+        {
+          "startSec": 219.3,
+          "endSec": 219.6,
+          "text": "you're"
+        },
+        {
+          "startSec": 219.6,
+          "endSec": 220.1,
+          "text": "wondering"
+        },
+        {
+          "startSec": 220.1,
+          "endSec": 220.4,
+          "text": "why"
+        }
+      ]
+    },
+    {
+      "startSec": 220.1,
+      "endSec": 226.6,
+      "text": "why people react in the first place, listen as Dr. William Brady explains the psychology",
+      "words": [
+        {
+          "startSec": 220.1,
+          "endSec": 220.4,
+          "text": "why"
+        },
+        {
+          "startSec": 220.4,
+          "endSec": 220.9,
+          "text": "people"
+        },
+        {
+          "startSec": 220.9,
+          "endSec": 221.3,
+          "text": "react"
+        },
+        {
+          "startSec": 221.3,
+          "endSec": 221.5,
+          "text": "in"
+        },
+        {
+          "startSec": 221.5,
+          "endSec": 221.7,
+          "text": "the"
+        },
+        {
+          "startSec": 221.7,
+          "endSec": 222.1,
+          "text": "first"
+        },
+        {
+          "startSec": 222.1,
+          "endSec": 222.7,
+          "text": "place,"
+        },
+        {
+          "startSec": 222.7,
+          "endSec": 223.2,
+          "text": "listen"
+        },
+        {
+          "startSec": 223.2,
+          "endSec": 223.4,
+          "text": "as"
+        },
+        {
+          "startSec": 223.4,
+          "endSec": 223.8,
+          "text": "Dr."
+        },
+        {
+          "startSec": 223.8,
+          "endSec": 224.3,
+          "text": "William"
+        },
+        {
+          "startSec": 224.3,
+          "endSec": 224.8,
+          "text": "Brady"
+        },
+        {
+          "startSec": 224.8,
+          "endSec": 225.4,
+          "text": "explains"
+        },
+        {
+          "startSec": 225.4,
+          "endSec": 225.7,
+          "text": "the"
+        },
+        {
+          "startSec": 225.7,
+          "endSec": 226.6,
+          "text": "psychology"
+        },
+        {
+          "startSec": 226.6,
+          "endSec": 227.1,
+          "text": "behind"
+        }
+      ]
+    },
+    {
+      "startSec": 226.6,
+      "endSec": 231.1,
+      "text": "behind ragebait to BBC World Services business daily.",
+      "words": [
+        {
+          "startSec": 226.6,
+          "endSec": 227.1,
+          "text": "behind"
+        },
+        {
+          "startSec": 227.1,
+          "endSec": 227.8,
+          "text": "ragebait"
+        },
+        {
+          "startSec": 227.8,
+          "endSec": 228,
+          "text": "to"
+        },
+        {
+          "startSec": 228,
+          "endSec": 228.3,
+          "text": "BBC"
+        },
+        {
+          "startSec": 228.3,
+          "endSec": 228.7,
+          "text": "World"
+        },
+        {
+          "startSec": 228.7,
+          "endSec": 229.4,
+          "text": "Services"
+        },
+        {
+          "startSec": 229.4,
+          "endSec": 230.1,
+          "text": "business"
+        },
+        {
+          "startSec": 230.1,
+          "endSec": 231.1,
+          "text": "daily."
+        },
+        {
+          "startSec": 231.1,
+          "endSec": 231.3,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 231.1,
+      "endSec": 237.2,
+      "text": "If you are an influencer and you want to figure out, well, how do I get more eyeballs on my",
+      "words": [
+        {
+          "startSec": 231.1,
+          "endSec": 231.3,
+          "text": "If"
+        },
+        {
+          "startSec": 231.3,
+          "endSec": 231.5,
+          "text": "you"
+        },
+        {
+          "startSec": 231.5,
+          "endSec": 231.7,
+          "text": "are"
+        },
+        {
+          "startSec": 231.7,
+          "endSec": 231.9,
+          "text": "an"
+        },
+        {
+          "startSec": 231.9,
+          "endSec": 232.6,
+          "text": "influencer"
+        },
+        {
+          "startSec": 232.6,
+          "endSec": 232.8,
+          "text": "and"
+        },
+        {
+          "startSec": 232.8,
+          "endSec": 233,
+          "text": "you"
+        },
+        {
+          "startSec": 233,
+          "endSec": 233.3,
+          "text": "want"
+        },
+        {
+          "startSec": 233.3,
+          "endSec": 233.5,
+          "text": "to"
+        },
+        {
+          "startSec": 233.5,
+          "endSec": 233.9,
+          "text": "figure"
+        },
+        {
+          "startSec": 233.9,
+          "endSec": 234.3,
+          "text": "out,"
+        },
+        {
+          "startSec": 234.3,
+          "endSec": 234.8,
+          "text": "well,"
+        },
+        {
+          "startSec": 234.8,
+          "endSec": 235,
+          "text": "how"
+        },
+        {
+          "startSec": 235,
+          "endSec": 235.1,
+          "text": "do"
+        },
+        {
+          "startSec": 235.1,
+          "endSec": 235.2,
+          "text": "I"
+        },
+        {
+          "startSec": 235.2,
+          "endSec": 235.4,
+          "text": "get"
+        },
+        {
+          "startSec": 235.4,
+          "endSec": 235.7,
+          "text": "more"
+        },
+        {
+          "startSec": 235.7,
+          "endSec": 236.4,
+          "text": "eyeballs"
+        },
+        {
+          "startSec": 236.4,
+          "endSec": 236.6,
+          "text": "on"
+        },
+        {
+          "startSec": 236.6,
+          "endSec": 237.2,
+          "text": "my"
+        },
+        {
+          "startSec": 237.2,
+          "endSec": 238.2,
+          "text": "content?"
+        }
+      ]
+    },
+    {
+      "startSec": 237.2,
+      "endSec": 242.6,
+      "text": "content? Well, you need to exploit those biases we have in our psychology, because that's",
+      "words": [
+        {
+          "startSec": 237.2,
+          "endSec": 238.2,
+          "text": "content?"
+        },
+        {
+          "startSec": 238.2,
+          "endSec": 238.6,
+          "text": "Well,"
+        },
+        {
+          "startSec": 238.6,
+          "endSec": 238.7,
+          "text": "you"
+        },
+        {
+          "startSec": 238.7,
+          "endSec": 239,
+          "text": "need"
+        },
+        {
+          "startSec": 239,
+          "endSec": 239.1,
+          "text": "to"
+        },
+        {
+          "startSec": 239.1,
+          "endSec": 239.5,
+          "text": "exploit"
+        },
+        {
+          "startSec": 239.5,
+          "endSec": 239.8,
+          "text": "those"
+        },
+        {
+          "startSec": 239.8,
+          "endSec": 240.2,
+          "text": "biases"
+        },
+        {
+          "startSec": 240.2,
+          "endSec": 240.3,
+          "text": "we"
+        },
+        {
+          "startSec": 240.3,
+          "endSec": 240.6,
+          "text": "have"
+        },
+        {
+          "startSec": 240.6,
+          "endSec": 240.8,
+          "text": "in"
+        },
+        {
+          "startSec": 240.8,
+          "endSec": 241,
+          "text": "our"
+        },
+        {
+          "startSec": 241,
+          "endSec": 241.9,
+          "text": "psychology,"
+        },
+        {
+          "startSec": 241.9,
+          "endSec": 242.4,
+          "text": "because"
+        },
+        {
+          "startSec": 242.4,
+          "endSec": 242.6,
+          "text": "that's"
+        }
+      ]
+    },
+    {
+      "startSec": 242.6,
+      "endSec": 246.6,
+      "text": "the content we'll pay more attention to. In turn, that's the content the algorithms",
+      "words": [
+        {
+          "startSec": 242.7,
+          "endSec": 242.8,
+          "text": "the"
+        },
+        {
+          "startSec": 242.8,
+          "endSec": 243.2,
+          "text": "content"
+        },
+        {
+          "startSec": 243.2,
+          "endSec": 243.5,
+          "text": "we'll"
+        },
+        {
+          "startSec": 243.5,
+          "endSec": 243.7,
+          "text": "pay"
+        },
+        {
+          "startSec": 243.7,
+          "endSec": 243.9,
+          "text": "more"
+        },
+        {
+          "startSec": 243.9,
+          "endSec": 244.4,
+          "text": "attention"
+        },
+        {
+          "startSec": 244.4,
+          "endSec": 244.7,
+          "text": "to."
+        },
+        {
+          "startSec": 244.7,
+          "endSec": 244.8,
+          "text": "In"
+        },
+        {
+          "startSec": 244.8,
+          "endSec": 245.1,
+          "text": "turn,"
+        },
+        {
+          "startSec": 245.1,
+          "endSec": 245.4,
+          "text": "that's"
+        },
+        {
+          "startSec": 245.4,
+          "endSec": 245.5,
+          "text": "the"
+        },
+        {
+          "startSec": 245.5,
+          "endSec": 245.9,
+          "text": "content"
+        },
+        {
+          "startSec": 245.9,
+          "endSec": 246,
+          "text": "the"
+        },
+        {
+          "startSec": 246,
+          "endSec": 246.6,
+          "text": "algorithms"
+        },
+        {
+          "startSec": 246.6,
+          "endSec": 246.9,
+          "text": "will"
+        }
+      ]
+    },
+    {
+      "startSec": 246.6,
+      "endSec": 251.3,
+      "text": "will amplify, which ultimately means more advertising revenue.",
+      "words": [
+        {
+          "startSec": 246.6,
+          "endSec": 246.9,
+          "text": "will"
+        },
+        {
+          "startSec": 246.9,
+          "endSec": 247.6,
+          "text": "amplify,"
+        },
+        {
+          "startSec": 247.6,
+          "endSec": 248,
+          "text": "which"
+        },
+        {
+          "startSec": 248,
+          "endSec": 248.8,
+          "text": "ultimately"
+        },
+        {
+          "startSec": 248.8,
+          "endSec": 249.2,
+          "text": "means"
+        },
+        {
+          "startSec": 249.2,
+          "endSec": 249.5,
+          "text": "more"
+        },
+        {
+          "startSec": 249.5,
+          "endSec": 250.4,
+          "text": "advertising"
+        },
+        {
+          "startSec": 250.4,
+          "endSec": 251.3,
+          "text": "revenue."
+        },
+        {
+          "startSec": 251.3,
+          "endSec": 252.1,
+          "text": "Influencers"
+        }
+      ]
+    },
+    {
+      "startSec": 251.3,
+      "endSec": 257.2,
+      "text": "Influencers want more eyeballs on their content, more people to view their website or social",
+      "words": [
+        {
+          "startSec": 251.3,
+          "endSec": 252.1,
+          "text": "Influencers"
+        },
+        {
+          "startSec": 252.1,
+          "endSec": 252.4,
+          "text": "want"
+        },
+        {
+          "startSec": 252.4,
+          "endSec": 252.7,
+          "text": "more"
+        },
+        {
+          "startSec": 252.7,
+          "endSec": 253.3,
+          "text": "eyeballs"
+        },
+        {
+          "startSec": 253.3,
+          "endSec": 253.5,
+          "text": "on"
+        },
+        {
+          "startSec": 253.5,
+          "endSec": 253.8,
+          "text": "their"
+        },
+        {
+          "startSec": 253.8,
+          "endSec": 254.5,
+          "text": "content,"
+        },
+        {
+          "startSec": 254.5,
+          "endSec": 254.8,
+          "text": "more"
+        },
+        {
+          "startSec": 254.8,
+          "endSec": 255.2,
+          "text": "people"
+        },
+        {
+          "startSec": 255.2,
+          "endSec": 255.4,
+          "text": "to"
+        },
+        {
+          "startSec": 255.4,
+          "endSec": 255.7,
+          "text": "view"
+        },
+        {
+          "startSec": 255.7,
+          "endSec": 256.1,
+          "text": "their"
+        },
+        {
+          "startSec": 256.1,
+          "endSec": 256.6,
+          "text": "website"
+        },
+        {
+          "startSec": 256.6,
+          "endSec": 256.7,
+          "text": "or"
+        },
+        {
+          "startSec": 256.7,
+          "endSec": 257.2,
+          "text": "social"
+        },
+        {
+          "startSec": 257.2,
+          "endSec": 257.8,
+          "text": "media"
+        }
+      ]
+    },
+    {
+      "startSec": 257.2,
+      "endSec": 263.6,
+      "text": "media posts and use human psychology to do it. Psychologically speaking, we all have",
+      "words": [
+        {
+          "startSec": 257.2,
+          "endSec": 257.8,
+          "text": "media"
+        },
+        {
+          "startSec": 257.8,
+          "endSec": 258.3,
+          "text": "posts"
+        },
+        {
+          "startSec": 258.3,
+          "endSec": 258.6,
+          "text": "and"
+        },
+        {
+          "startSec": 258.6,
+          "endSec": 258.9,
+          "text": "use"
+        },
+        {
+          "startSec": 258.9,
+          "endSec": 259.5,
+          "text": "human"
+        },
+        {
+          "startSec": 259.5,
+          "endSec": 260.5,
+          "text": "psychology"
+        },
+        {
+          "startSec": 260.5,
+          "endSec": 260.7,
+          "text": "to"
+        },
+        {
+          "startSec": 260.7,
+          "endSec": 261,
+          "text": "do"
+        },
+        {
+          "startSec": 261,
+          "endSec": 261.5,
+          "text": "it."
+        },
+        {
+          "startSec": 261.5,
+          "endSec": 262.5,
+          "text": "Psychologically"
+        },
+        {
+          "startSec": 262.5,
+          "endSec": 263.1,
+          "text": "speaking,"
+        },
+        {
+          "startSec": 263.1,
+          "endSec": 263.2,
+          "text": "we"
+        },
+        {
+          "startSec": 263.2,
+          "endSec": 263.4,
+          "text": "all"
+        },
+        {
+          "startSec": 263.4,
+          "endSec": 263.6,
+          "text": "have"
+        },
+        {
+          "startSec": 263.6,
+          "endSec": 264.3,
+          "text": "biases,"
+        }
+      ]
+    },
+    {
+      "startSec": 263.6,
+      "endSec": 270.4,
+      "text": "biases, feelings which are often unconscious, either for or against a certain idea or group",
+      "words": [
+        {
+          "startSec": 263.6,
+          "endSec": 264.3,
+          "text": "biases,"
+        },
+        {
+          "startSec": 264.3,
+          "endSec": 265,
+          "text": "feelings"
+        },
+        {
+          "startSec": 265,
+          "endSec": 265.5,
+          "text": "which"
+        },
+        {
+          "startSec": 265.5,
+          "endSec": 265.7,
+          "text": "are"
+        },
+        {
+          "startSec": 265.7,
+          "endSec": 266.2,
+          "text": "often"
+        },
+        {
+          "startSec": 266.2,
+          "endSec": 267.3,
+          "text": "unconscious,"
+        },
+        {
+          "startSec": 267.3,
+          "endSec": 267.9,
+          "text": "either"
+        },
+        {
+          "startSec": 267.9,
+          "endSec": 268.1,
+          "text": "for"
+        },
+        {
+          "startSec": 268.1,
+          "endSec": 268.3,
+          "text": "or"
+        },
+        {
+          "startSec": 268.3,
+          "endSec": 268.9,
+          "text": "against"
+        },
+        {
+          "startSec": 268.9,
+          "endSec": 269,
+          "text": "a"
+        },
+        {
+          "startSec": 269,
+          "endSec": 269.6,
+          "text": "certain"
+        },
+        {
+          "startSec": 269.6,
+          "endSec": 270,
+          "text": "idea"
+        },
+        {
+          "startSec": 270,
+          "endSec": 270.2,
+          "text": "or"
+        },
+        {
+          "startSec": 270.2,
+          "endSec": 270.4,
+          "text": "group"
+        }
+      ]
+    },
+    {
+      "startSec": 270.4,
+      "endSec": 274.3,
+      "text": "of people. Biases are emotional, and since listening",
+      "words": [
+        {
+          "startSec": 270.5,
+          "endSec": 270.7,
+          "text": "of"
+        },
+        {
+          "startSec": 270.7,
+          "endSec": 272.2,
+          "text": "people."
+        },
+        {
+          "startSec": 272.2,
+          "endSec": 272.6,
+          "text": "Biases"
+        },
+        {
+          "startSec": 272.6,
+          "endSec": 272.7,
+          "text": "are"
+        },
+        {
+          "startSec": 272.7,
+          "endSec": 273.3,
+          "text": "emotional,"
+        },
+        {
+          "startSec": 273.3,
+          "endSec": 273.5,
+          "text": "and"
+        },
+        {
+          "startSec": 273.5,
+          "endSec": 273.8,
+          "text": "since"
+        },
+        {
+          "startSec": 273.8,
+          "endSec": 274.3,
+          "text": "listening"
+        },
+        {
+          "startSec": 274.3,
+          "endSec": 274.4,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 274.3,
+      "endSec": 280.5,
+      "text": "to our emotions has been vital to the evolution of the human species, creators know that provoking",
+      "words": [
+        {
+          "startSec": 274.3,
+          "endSec": 274.4,
+          "text": "to"
+        },
+        {
+          "startSec": 274.4,
+          "endSec": 274.7,
+          "text": "our"
+        },
+        {
+          "startSec": 274.7,
+          "endSec": 275.3,
+          "text": "emotions"
+        },
+        {
+          "startSec": 275.3,
+          "endSec": 275.5,
+          "text": "has"
+        },
+        {
+          "startSec": 275.5,
+          "endSec": 275.8,
+          "text": "been"
+        },
+        {
+          "startSec": 275.8,
+          "endSec": 276.1,
+          "text": "vital"
+        },
+        {
+          "startSec": 276.1,
+          "endSec": 276.3,
+          "text": "to"
+        },
+        {
+          "startSec": 276.3,
+          "endSec": 276.5,
+          "text": "the"
+        },
+        {
+          "startSec": 276.5,
+          "endSec": 277.2,
+          "text": "evolution"
+        },
+        {
+          "startSec": 277.2,
+          "endSec": 277.3,
+          "text": "of"
+        },
+        {
+          "startSec": 277.3,
+          "endSec": 277.6,
+          "text": "the"
+        },
+        {
+          "startSec": 277.6,
+          "endSec": 277.9,
+          "text": "human"
+        },
+        {
+          "startSec": 277.9,
+          "endSec": 278.6,
+          "text": "species,"
+        },
+        {
+          "startSec": 278.6,
+          "endSec": 279.2,
+          "text": "creators"
+        },
+        {
+          "startSec": 279.2,
+          "endSec": 279.5,
+          "text": "know"
+        },
+        {
+          "startSec": 279.5,
+          "endSec": 279.8,
+          "text": "that"
+        },
+        {
+          "startSec": 279.8,
+          "endSec": 280.5,
+          "text": "provoking"
+        },
+        {
+          "startSec": 280.5,
+          "endSec": 280.8,
+          "text": "our"
+        }
+      ]
+    },
+    {
+      "startSec": 280.5,
+      "endSec": 283.4,
+      "text": "our emotions will grab our attention.",
+      "words": [
+        {
+          "startSec": 280.5,
+          "endSec": 280.8,
+          "text": "our"
+        },
+        {
+          "startSec": 280.8,
+          "endSec": 281.4,
+          "text": "emotions"
+        },
+        {
+          "startSec": 281.4,
+          "endSec": 281.8,
+          "text": "will"
+        },
+        {
+          "startSec": 281.8,
+          "endSec": 282.1,
+          "text": "grab"
+        },
+        {
+          "startSec": 282.1,
+          "endSec": 282.4,
+          "text": "our"
+        },
+        {
+          "startSec": 282.4,
+          "endSec": 283.4,
+          "text": "attention."
+        },
+        {
+          "startSec": 283.4,
+          "endSec": 283.6,
+          "text": "So"
+        }
+      ]
+    },
+    {
+      "startSec": 283.4,
+      "endSec": 289.1,
+      "text": "So what can be done to combat ragebait? Well, we could all take a moment to think before",
+      "words": [
+        {
+          "startSec": 283.4,
+          "endSec": 283.6,
+          "text": "So"
+        },
+        {
+          "startSec": 283.6,
+          "endSec": 283.9,
+          "text": "what"
+        },
+        {
+          "startSec": 283.9,
+          "endSec": 284.1,
+          "text": "can"
+        },
+        {
+          "startSec": 284.1,
+          "endSec": 284.3,
+          "text": "be"
+        },
+        {
+          "startSec": 284.3,
+          "endSec": 284.6,
+          "text": "done"
+        },
+        {
+          "startSec": 284.6,
+          "endSec": 284.8,
+          "text": "to"
+        },
+        {
+          "startSec": 284.8,
+          "endSec": 285.2,
+          "text": "combat"
+        },
+        {
+          "startSec": 285.2,
+          "endSec": 286.1,
+          "text": "ragebait?"
+        },
+        {
+          "startSec": 286.1,
+          "endSec": 286.6,
+          "text": "Well,"
+        },
+        {
+          "startSec": 286.6,
+          "endSec": 286.7,
+          "text": "we"
+        },
+        {
+          "startSec": 286.7,
+          "endSec": 287.1,
+          "text": "could"
+        },
+        {
+          "startSec": 287.1,
+          "endSec": 287.3,
+          "text": "all"
+        },
+        {
+          "startSec": 287.3,
+          "endSec": 287.7,
+          "text": "take"
+        },
+        {
+          "startSec": 287.7,
+          "endSec": 287.7,
+          "text": "a"
+        },
+        {
+          "startSec": 287.7,
+          "endSec": 288.2,
+          "text": "moment"
+        },
+        {
+          "startSec": 288.2,
+          "endSec": 288.4,
+          "text": "to"
+        },
+        {
+          "startSec": 288.4,
+          "endSec": 288.8,
+          "text": "think"
+        },
+        {
+          "startSec": 288.8,
+          "endSec": 289.1,
+          "text": "before"
+        },
+        {
+          "startSec": 289.1,
+          "endSec": 289.8,
+          "text": "reacting,"
+        }
+      ]
+    },
+    {
+      "startSec": 289.1,
+      "endSec": 294.9,
+      "text": "reacting, and remember that by sharing something outrageous you might be making things worse",
+      "words": [
+        {
+          "startSec": 289.1,
+          "endSec": 289.8,
+          "text": "reacting,"
+        },
+        {
+          "startSec": 289.8,
+          "endSec": 290,
+          "text": "and"
+        },
+        {
+          "startSec": 290,
+          "endSec": 290.6,
+          "text": "remember"
+        },
+        {
+          "startSec": 290.6,
+          "endSec": 290.9,
+          "text": "that"
+        },
+        {
+          "startSec": 290.9,
+          "endSec": 291,
+          "text": "by"
+        },
+        {
+          "startSec": 291,
+          "endSec": 291.5,
+          "text": "sharing"
+        },
+        {
+          "startSec": 291.5,
+          "endSec": 292.2,
+          "text": "something"
+        },
+        {
+          "startSec": 292.2,
+          "endSec": 292.9,
+          "text": "outrageous"
+        },
+        {
+          "startSec": 292.9,
+          "endSec": 293.1,
+          "text": "you"
+        },
+        {
+          "startSec": 293.1,
+          "endSec": 293.5,
+          "text": "might"
+        },
+        {
+          "startSec": 293.5,
+          "endSec": 293.6,
+          "text": "be"
+        },
+        {
+          "startSec": 293.6,
+          "endSec": 294,
+          "text": "making"
+        },
+        {
+          "startSec": 294,
+          "endSec": 294.5,
+          "text": "things"
+        },
+        {
+          "startSec": 294.5,
+          "endSec": 294.9,
+          "text": "worse"
+        },
+        {
+          "startSec": 294.9,
+          "endSec": 295.2,
+          "text": "while"
+        }
+      ]
+    },
+    {
+      "startSec": 294.9,
+      "endSec": 297.2,
+      "text": "while also making the creator richer.",
+      "words": [
+        {
+          "startSec": 294.9,
+          "endSec": 295.2,
+          "text": "while"
+        },
+        {
+          "startSec": 295.2,
+          "endSec": 295.5,
+          "text": "also"
+        },
+        {
+          "startSec": 295.5,
+          "endSec": 295.9,
+          "text": "making"
+        },
+        {
+          "startSec": 295.9,
+          "endSec": 296.1,
+          "text": "the"
+        },
+        {
+          "startSec": 296.1,
+          "endSec": 296.5,
+          "text": "creator"
+        },
+        {
+          "startSec": 296.5,
+          "endSec": 297.2,
+          "text": "richer."
+        },
+        {
+          "startSec": 297.2,
+          "endSec": 297.5,
+          "text": "Okay,"
+        }
+      ]
+    },
+    {
+      "startSec": 297.2,
+      "endSec": 301.9,
+      "text": "Okay, Phil, let's reveal the answer to your question. You asked me what bait is.",
+      "words": [
+        {
+          "startSec": 297.2,
+          "endSec": 297.5,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 297.5,
+          "endSec": 297.9,
+          "text": "Phil,"
+        },
+        {
+          "startSec": 297.9,
+          "endSec": 298.2,
+          "text": "let's"
+        },
+        {
+          "startSec": 298.2,
+          "endSec": 298.6,
+          "text": "reveal"
+        },
+        {
+          "startSec": 298.6,
+          "endSec": 298.8,
+          "text": "the"
+        },
+        {
+          "startSec": 298.8,
+          "endSec": 299.2,
+          "text": "answer"
+        },
+        {
+          "startSec": 299.2,
+          "endSec": 299.3,
+          "text": "to"
+        },
+        {
+          "startSec": 299.3,
+          "endSec": 299.5,
+          "text": "your"
+        },
+        {
+          "startSec": 299.5,
+          "endSec": 300.3,
+          "text": "question."
+        },
+        {
+          "startSec": 300.3,
+          "endSec": 300.5,
+          "text": "You"
+        },
+        {
+          "startSec": 300.5,
+          "endSec": 300.8,
+          "text": "asked"
+        },
+        {
+          "startSec": 300.8,
+          "endSec": 301,
+          "text": "me"
+        },
+        {
+          "startSec": 301,
+          "endSec": 301.3,
+          "text": "what"
+        },
+        {
+          "startSec": 301.3,
+          "endSec": 301.5,
+          "text": "bait"
+        },
+        {
+          "startSec": 301.5,
+          "endSec": 301.9,
+          "text": "is."
+        },
+        {
+          "startSec": 301.9,
+          "endSec": 302,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 301.9,
+      "endSec": 308.9,
+      "text": "I did, and the correct answer is 'be'. Food put on a hook to catch a fish or an animal.",
+      "words": [
+        {
+          "startSec": 301.9,
+          "endSec": 302,
+          "text": "I"
+        },
+        {
+          "startSec": 302,
+          "endSec": 302.5,
+          "text": "did,"
+        },
+        {
+          "startSec": 302.5,
+          "endSec": 302.8,
+          "text": "and"
+        },
+        {
+          "startSec": 302.8,
+          "endSec": 303,
+          "text": "the"
+        },
+        {
+          "startSec": 303,
+          "endSec": 303.7,
+          "text": "correct"
+        },
+        {
+          "startSec": 303.7,
+          "endSec": 304.3,
+          "text": "answer"
+        },
+        {
+          "startSec": 304.3,
+          "endSec": 304.5,
+          "text": "is"
+        },
+        {
+          "startSec": 304.5,
+          "endSec": 305.2,
+          "text": "'be'."
+        },
+        {
+          "startSec": 305.2,
+          "endSec": 305.6,
+          "text": "Food"
+        },
+        {
+          "startSec": 305.6,
+          "endSec": 305.9,
+          "text": "put"
+        },
+        {
+          "startSec": 305.9,
+          "endSec": 306.1,
+          "text": "on"
+        },
+        {
+          "startSec": 306.1,
+          "endSec": 306.1,
+          "text": "a"
+        },
+        {
+          "startSec": 306.1,
+          "endSec": 306.5,
+          "text": "hook"
+        },
+        {
+          "startSec": 306.5,
+          "endSec": 306.7,
+          "text": "to"
+        },
+        {
+          "startSec": 306.7,
+          "endSec": 307.2,
+          "text": "catch"
+        },
+        {
+          "startSec": 307.2,
+          "endSec": 307.3,
+          "text": "a"
+        },
+        {
+          "startSec": 307.3,
+          "endSec": 307.7,
+          "text": "fish"
+        },
+        {
+          "startSec": 307.7,
+          "endSec": 307.8,
+          "text": "or"
+        },
+        {
+          "startSec": 307.8,
+          "endSec": 308.1,
+          "text": "an"
+        },
+        {
+          "startSec": 308.1,
+          "endSec": 308.9,
+          "text": "animal."
+        },
+        {
+          "startSec": 308.9,
+          "endSec": 309.1,
+          "text": "Isn't"
+        }
+      ]
+    },
+    {
+      "startSec": 308.9,
+      "endSec": 311.4,
+      "text": "Isn't that what you said, Beth? It is, yes.",
+      "words": [
+        {
+          "startSec": 308.9,
+          "endSec": 309.1,
+          "text": "Isn't"
+        },
+        {
+          "startSec": 309.1,
+          "endSec": 309.2,
+          "text": "that"
+        },
+        {
+          "startSec": 309.2,
+          "endSec": 309.3,
+          "text": "what"
+        },
+        {
+          "startSec": 309.3,
+          "endSec": 309.4,
+          "text": "you"
+        },
+        {
+          "startSec": 309.4,
+          "endSec": 309.6,
+          "text": "said,"
+        },
+        {
+          "startSec": 309.6,
+          "endSec": 309.9,
+          "text": "Beth?"
+        },
+        {
+          "startSec": 309.9,
+          "endSec": 310.2,
+          "text": "It"
+        },
+        {
+          "startSec": 310.2,
+          "endSec": 310.6,
+          "text": "is,"
+        },
+        {
+          "startSec": 310.6,
+          "endSec": 311.4,
+          "text": "yes."
+        },
+        {
+          "startSec": 311.4,
+          "endSec": 311.8,
+          "text": "Right"
+        }
+      ]
+    },
+    {
+      "startSec": 311.4,
+      "endSec": 317.8,
+      "text": "Right again. Okay, let's recap the vocabulary we've learnt in the programme, starting with",
+      "words": [
+        {
+          "startSec": 311.4,
+          "endSec": 311.8,
+          "text": "Right"
+        },
+        {
+          "startSec": 311.8,
+          "endSec": 312.4,
+          "text": "again."
+        },
+        {
+          "startSec": 312.4,
+          "endSec": 312.9,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 312.9,
+          "endSec": 313.3,
+          "text": "let's"
+        },
+        {
+          "startSec": 313.3,
+          "endSec": 313.7,
+          "text": "recap"
+        },
+        {
+          "startSec": 313.7,
+          "endSec": 314,
+          "text": "the"
+        },
+        {
+          "startSec": 314,
+          "endSec": 314.8,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 314.8,
+          "endSec": 315.2,
+          "text": "we've"
+        },
+        {
+          "startSec": 315.2,
+          "endSec": 315.8,
+          "text": "learnt"
+        },
+        {
+          "startSec": 315.8,
+          "endSec": 316,
+          "text": "in"
+        },
+        {
+          "startSec": 316,
+          "endSec": 316.3,
+          "text": "the"
+        },
+        {
+          "startSec": 316.3,
+          "endSec": 317.2,
+          "text": "programme,"
+        },
+        {
+          "startSec": 317.2,
+          "endSec": 317.4,
+          "text": "starting"
+        },
+        {
+          "startSec": 317.4,
+          "endSec": 317.8,
+          "text": "with"
+        },
+        {
+          "startSec": 317.8,
+          "endSec": 318.7,
+          "text": "ragebait."
+        }
+      ]
+    },
+    {
+      "startSec": 317.8,
+      "endSec": 324.2,
+      "text": "ragebait. Social media content designed to provoke anger, thereby encouraging people to",
+      "words": [
+        {
+          "startSec": 317.8,
+          "endSec": 318.7,
+          "text": "ragebait."
+        },
+        {
+          "startSec": 318.7,
+          "endSec": 319.2,
+          "text": "Social"
+        },
+        {
+          "startSec": 319.2,
+          "endSec": 319.6,
+          "text": "media"
+        },
+        {
+          "startSec": 319.6,
+          "endSec": 320.1,
+          "text": "content"
+        },
+        {
+          "startSec": 320.1,
+          "endSec": 320.8,
+          "text": "designed"
+        },
+        {
+          "startSec": 320.8,
+          "endSec": 321,
+          "text": "to"
+        },
+        {
+          "startSec": 321,
+          "endSec": 321.6,
+          "text": "provoke"
+        },
+        {
+          "startSec": 321.6,
+          "endSec": 322.4,
+          "text": "anger,"
+        },
+        {
+          "startSec": 322.4,
+          "endSec": 322.9,
+          "text": "thereby"
+        },
+        {
+          "startSec": 322.9,
+          "endSec": 323.6,
+          "text": "encouraging"
+        },
+        {
+          "startSec": 323.6,
+          "endSec": 324,
+          "text": "people"
+        },
+        {
+          "startSec": 324,
+          "endSec": 324.2,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 324.2,
+      "endSec": 328.6,
+      "text": "engage with it. The structure, the more, the more, describes",
+      "words": [
+        {
+          "startSec": 324.3,
+          "endSec": 325.4,
+          "text": "engage"
+        },
+        {
+          "startSec": 325.4,
+          "endSec": 326.3,
+          "text": "with"
+        },
+        {
+          "startSec": 326.3,
+          "endSec": 327.3,
+          "text": "it."
+        },
+        {
+          "startSec": 327.3,
+          "endSec": 327.4,
+          "text": "The"
+        },
+        {
+          "startSec": 327.4,
+          "endSec": 327.8,
+          "text": "structure,"
+        },
+        {
+          "startSec": 327.8,
+          "endSec": 327.8,
+          "text": "the"
+        },
+        {
+          "startSec": 327.8,
+          "endSec": 328,
+          "text": "more,"
+        },
+        {
+          "startSec": 328,
+          "endSec": 328.1,
+          "text": "the"
+        },
+        {
+          "startSec": 328.1,
+          "endSec": 328.3,
+          "text": "more,"
+        },
+        {
+          "startSec": 328.3,
+          "endSec": 328.6,
+          "text": "describes"
+        },
+        {
+          "startSec": 328.6,
+          "endSec": 328.9,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 328.6,
+      "endSec": 334.7,
+      "text": "the situation when one thing happening repeatedly results in another thing happening too.",
+      "words": [
+        {
+          "startSec": 328.6,
+          "endSec": 328.9,
+          "text": "the"
+        },
+        {
+          "startSec": 328.9,
+          "endSec": 329.5,
+          "text": "situation"
+        },
+        {
+          "startSec": 329.5,
+          "endSec": 329.8,
+          "text": "when"
+        },
+        {
+          "startSec": 329.8,
+          "endSec": 330.1,
+          "text": "one"
+        },
+        {
+          "startSec": 330.1,
+          "endSec": 330.4,
+          "text": "thing"
+        },
+        {
+          "startSec": 330.4,
+          "endSec": 331.1,
+          "text": "happening"
+        },
+        {
+          "startSec": 331.1,
+          "endSec": 331.9,
+          "text": "repeatedly"
+        },
+        {
+          "startSec": 331.9,
+          "endSec": 332.4,
+          "text": "results"
+        },
+        {
+          "startSec": 332.4,
+          "endSec": 332.6,
+          "text": "in"
+        },
+        {
+          "startSec": 332.6,
+          "endSec": 333.1,
+          "text": "another"
+        },
+        {
+          "startSec": 333.1,
+          "endSec": 333.5,
+          "text": "thing"
+        },
+        {
+          "startSec": 333.5,
+          "endSec": 334.1,
+          "text": "happening"
+        },
+        {
+          "startSec": 334.1,
+          "endSec": 334.7,
+          "text": "too."
+        },
+        {
+          "startSec": 334.7,
+          "endSec": 334.9,
+          "text": "To"
+        }
+      ]
+    },
+    {
+      "startSec": 334.7,
+      "endSec": 341.6,
+      "text": "To incite someone means to encourage them to do or feel something unpleasant or violent.",
+      "words": [
+        {
+          "startSec": 334.7,
+          "endSec": 334.9,
+          "text": "To"
+        },
+        {
+          "startSec": 334.9,
+          "endSec": 335.4,
+          "text": "incite"
+        },
+        {
+          "startSec": 335.4,
+          "endSec": 336,
+          "text": "someone"
+        },
+        {
+          "startSec": 336,
+          "endSec": 336.5,
+          "text": "means"
+        },
+        {
+          "startSec": 336.5,
+          "endSec": 336.7,
+          "text": "to"
+        },
+        {
+          "startSec": 336.7,
+          "endSec": 337.5,
+          "text": "encourage"
+        },
+        {
+          "startSec": 337.5,
+          "endSec": 337.8,
+          "text": "them"
+        },
+        {
+          "startSec": 337.8,
+          "endSec": 338,
+          "text": "to"
+        },
+        {
+          "startSec": 338,
+          "endSec": 338.2,
+          "text": "do"
+        },
+        {
+          "startSec": 338.2,
+          "endSec": 338.4,
+          "text": "or"
+        },
+        {
+          "startSec": 338.4,
+          "endSec": 338.7,
+          "text": "feel"
+        },
+        {
+          "startSec": 338.7,
+          "endSec": 339.5,
+          "text": "something"
+        },
+        {
+          "startSec": 339.5,
+          "endSec": 340.4,
+          "text": "unpleasant"
+        },
+        {
+          "startSec": 340.4,
+          "endSec": 340.6,
+          "text": "or"
+        },
+        {
+          "startSec": 340.6,
+          "endSec": 341.6,
+          "text": "violent."
+        },
+        {
+          "startSec": 341.6,
+          "endSec": 341.8,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 341.6,
+      "endSec": 347.3,
+      "text": "The adjective manipulative describes trying to influence or control someone to your own",
+      "words": [
+        {
+          "startSec": 341.6,
+          "endSec": 341.8,
+          "text": "The"
+        },
+        {
+          "startSec": 341.8,
+          "endSec": 342.4,
+          "text": "adjective"
+        },
+        {
+          "startSec": 342.4,
+          "endSec": 343.3,
+          "text": "manipulative"
+        },
+        {
+          "startSec": 343.3,
+          "endSec": 343.9,
+          "text": "describes"
+        },
+        {
+          "startSec": 343.9,
+          "endSec": 344.3,
+          "text": "trying"
+        },
+        {
+          "startSec": 344.3,
+          "endSec": 344.5,
+          "text": "to"
+        },
+        {
+          "startSec": 344.5,
+          "endSec": 345.1,
+          "text": "influence"
+        },
+        {
+          "startSec": 345.1,
+          "endSec": 345.2,
+          "text": "or"
+        },
+        {
+          "startSec": 345.2,
+          "endSec": 345.7,
+          "text": "control"
+        },
+        {
+          "startSec": 345.7,
+          "endSec": 346.2,
+          "text": "someone"
+        },
+        {
+          "startSec": 346.2,
+          "endSec": 346.4,
+          "text": "to"
+        },
+        {
+          "startSec": 346.4,
+          "endSec": 346.7,
+          "text": "your"
+        },
+        {
+          "startSec": 346.7,
+          "endSec": 347.3,
+          "text": "own"
+        },
+        {
+          "startSec": 347.3,
+          "endSec": 348.3,
+          "text": "advantage."
+        }
+      ]
+    },
+    {
+      "startSec": 347.3,
+      "endSec": 350.7,
+      "text": "advantage. Eyeballs is an informal word for the number",
+      "words": [
+        {
+          "startSec": 347.3,
+          "endSec": 348.3,
+          "text": "advantage."
+        },
+        {
+          "startSec": 348.3,
+          "endSec": 348.8,
+          "text": "Eyeballs"
+        },
+        {
+          "startSec": 348.8,
+          "endSec": 348.9,
+          "text": "is"
+        },
+        {
+          "startSec": 348.9,
+          "endSec": 349.1,
+          "text": "an"
+        },
+        {
+          "startSec": 349.1,
+          "endSec": 349.6,
+          "text": "informal"
+        },
+        {
+          "startSec": 349.6,
+          "endSec": 349.9,
+          "text": "word"
+        },
+        {
+          "startSec": 349.9,
+          "endSec": 350.1,
+          "text": "for"
+        },
+        {
+          "startSec": 350.1,
+          "endSec": 350.3,
+          "text": "the"
+        },
+        {
+          "startSec": 350.3,
+          "endSec": 350.7,
+          "text": "number"
+        },
+        {
+          "startSec": 350.7,
+          "endSec": 350.8,
+          "text": "of"
+        }
+      ]
+    },
+    {
+      "startSec": 350.7,
+      "endSec": 354.6,
+      "text": "of people viewing a particular website or television programme.",
+      "words": [
+        {
+          "startSec": 350.7,
+          "endSec": 350.8,
+          "text": "of"
+        },
+        {
+          "startSec": 350.8,
+          "endSec": 351.2,
+          "text": "people"
+        },
+        {
+          "startSec": 351.2,
+          "endSec": 351.7,
+          "text": "viewing"
+        },
+        {
+          "startSec": 351.7,
+          "endSec": 351.8,
+          "text": "a"
+        },
+        {
+          "startSec": 351.8,
+          "endSec": 352.4,
+          "text": "particular"
+        },
+        {
+          "startSec": 352.4,
+          "endSec": 352.9,
+          "text": "website"
+        },
+        {
+          "startSec": 352.9,
+          "endSec": 353,
+          "text": "or"
+        },
+        {
+          "startSec": 353,
+          "endSec": 353.7,
+          "text": "television"
+        },
+        {
+          "startSec": 353.7,
+          "endSec": 354.6,
+          "text": "programme."
+        },
+        {
+          "startSec": 354.6,
+          "endSec": 354.8,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 354.6,
+      "endSec": 361.4,
+      "text": "And finally, biases are feelings, often unconscious, either for or against an idea or a group",
+      "words": [
+        {
+          "startSec": 354.6,
+          "endSec": 354.8,
+          "text": "And"
+        },
+        {
+          "startSec": 354.8,
+          "endSec": 355.6,
+          "text": "finally,"
+        },
+        {
+          "startSec": 355.6,
+          "endSec": 356,
+          "text": "biases"
+        },
+        {
+          "startSec": 356,
+          "endSec": 356.3,
+          "text": "are"
+        },
+        {
+          "startSec": 356.3,
+          "endSec": 357.1,
+          "text": "feelings,"
+        },
+        {
+          "startSec": 357.1,
+          "endSec": 357.5,
+          "text": "often"
+        },
+        {
+          "startSec": 357.5,
+          "endSec": 358.6,
+          "text": "unconscious,"
+        },
+        {
+          "startSec": 358.6,
+          "endSec": 359.1,
+          "text": "either"
+        },
+        {
+          "startSec": 359.1,
+          "endSec": 359.4,
+          "text": "for"
+        },
+        {
+          "startSec": 359.4,
+          "endSec": 359.6,
+          "text": "or"
+        },
+        {
+          "startSec": 359.6,
+          "endSec": 360.3,
+          "text": "against"
+        },
+        {
+          "startSec": 360.3,
+          "endSec": 360.5,
+          "text": "an"
+        },
+        {
+          "startSec": 360.5,
+          "endSec": 361,
+          "text": "idea"
+        },
+        {
+          "startSec": 361,
+          "endSec": 361.1,
+          "text": "or"
+        },
+        {
+          "startSec": 361.1,
+          "endSec": 361.1,
+          "text": "a"
+        },
+        {
+          "startSec": 361.1,
+          "endSec": 361.4,
+          "text": "group"
+        },
+        {
+          "startSec": 361.4,
+          "endSec": 361.6,
+          "text": "of"
+        }
+      ]
+    },
+    {
+      "startSec": 361.4,
+      "endSec": 365.7,
+      "text": "of people. Once again, our six minutes are up. Goodbye for now.",
+      "words": [
+        {
+          "startSec": 361.4,
+          "endSec": 361.6,
+          "text": "of"
+        },
+        {
+          "startSec": 361.6,
+          "endSec": 362.6,
+          "text": "people."
+        },
+        {
+          "startSec": 362.6,
+          "endSec": 362.8,
+          "text": "Once"
+        },
+        {
+          "startSec": 362.8,
+          "endSec": 363.2,
+          "text": "again,"
+        },
+        {
+          "startSec": 363.2,
+          "endSec": 363.4,
+          "text": "our"
+        },
+        {
+          "startSec": 363.4,
+          "endSec": 363.6,
+          "text": "six"
+        },
+        {
+          "startSec": 363.6,
+          "endSec": 364.1,
+          "text": "minutes"
+        },
+        {
+          "startSec": 364.1,
+          "endSec": 364.3,
+          "text": "are"
+        },
+        {
+          "startSec": 364.3,
+          "endSec": 364.6,
+          "text": "up."
+        },
+        {
+          "startSec": 364.6,
+          "endSec": 364.8,
+          "text": "Goodbye"
+        },
+        {
+          "startSec": 364.8,
+          "endSec": 365.2,
+          "text": "for"
+        },
+        {
+          "startSec": 365.2,
+          "endSec": 365.7,
+          "text": "now."
+        },
+        {
+          "startSec": 365.7,
+          "endSec": 366.2,
+          "text": "Bye."
+        }
+      ]
+    },
+    {
+      "startSec": 365.7,
+      "endSec": 366.2,
+      "text": "Bye.",
+      "words": [
+        {
+          "startSec": 365.7,
+          "endSec": 366.2,
+          "text": "Bye."
+        }
+      ]
+    }
+  ],
+  "introSec": 0
+}

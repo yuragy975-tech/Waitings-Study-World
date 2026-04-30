@@ -1,0 +1,5455 @@
+{
+  "title": "What's your favourite kind of noodle",
+  "source": "BBC 6 Minute English",
+  "level": "intermediate",
+  "durationSec": 367,
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
+  "audioFile": "audio.mp3",
+  "segments": [
+    {
+      "startSec": 0,
+      "endSec": 7.8,
+      "text": "6 News English from bbclearningenglish.com",
+      "words": [
+        {
+          "startSec": 0.1,
+          "endSec": 0.5,
+          "text": "6"
+        },
+        {
+          "startSec": 0.5,
+          "endSec": 1.3,
+          "text": "News"
+        },
+        {
+          "startSec": 1.3,
+          "endSec": 2.6,
+          "text": "English"
+        },
+        {
+          "startSec": 2.6,
+          "endSec": 3.3,
+          "text": "from"
+        },
+        {
+          "startSec": 3.3,
+          "endSec": 7.8,
+          "text": "bbclearningenglish.com"
+        },
+        {
+          "startSec": 7.8,
+          "endSec": 8.3,
+          "text": "Hello,"
+        }
+      ]
+    },
+    {
+      "startSec": 7.8,
+      "endSec": 13.4,
+      "text": "Hello, this is 6 Minute English from BBC Learning English. I'm Neil and I'm Beth.",
+      "words": [
+        {
+          "startSec": 7.8,
+          "endSec": 8.3,
+          "text": "Hello,"
+        },
+        {
+          "startSec": 8.3,
+          "endSec": 8.5,
+          "text": "this"
+        },
+        {
+          "startSec": 8.5,
+          "endSec": 8.7,
+          "text": "is"
+        },
+        {
+          "startSec": 8.7,
+          "endSec": 8.9,
+          "text": "6"
+        },
+        {
+          "startSec": 8.9,
+          "endSec": 9.3,
+          "text": "Minute"
+        },
+        {
+          "startSec": 9.3,
+          "endSec": 9.8,
+          "text": "English"
+        },
+        {
+          "startSec": 9.8,
+          "endSec": 10,
+          "text": "from"
+        },
+        {
+          "startSec": 10,
+          "endSec": 10.2,
+          "text": "BBC"
+        },
+        {
+          "startSec": 10.2,
+          "endSec": 10.8,
+          "text": "Learning"
+        },
+        {
+          "startSec": 10.8,
+          "endSec": 11.6,
+          "text": "English."
+        },
+        {
+          "startSec": 11.6,
+          "endSec": 11.7,
+          "text": "I'm"
+        },
+        {
+          "startSec": 11.7,
+          "endSec": 12,
+          "text": "Neil"
+        },
+        {
+          "startSec": 12,
+          "endSec": 12.4,
+          "text": "and"
+        },
+        {
+          "startSec": 12.4,
+          "endSec": 12.8,
+          "text": "I'm"
+        },
+        {
+          "startSec": 12.8,
+          "endSec": 13.4,
+          "text": "Beth."
+        },
+        {
+          "startSec": 13.4,
+          "endSec": 13.6,
+          "text": "Do"
+        }
+      ]
+    },
+    {
+      "startSec": 13.4,
+      "endSec": 16.2,
+      "text": "Do you enjoy eating noodles, Beth?",
+      "words": [
+        {
+          "startSec": 13.4,
+          "endSec": 13.6,
+          "text": "Do"
+        },
+        {
+          "startSec": 13.6,
+          "endSec": 13.8,
+          "text": "you"
+        },
+        {
+          "startSec": 13.8,
+          "endSec": 14.3,
+          "text": "enjoy"
+        },
+        {
+          "startSec": 14.3,
+          "endSec": 14.8,
+          "text": "eating"
+        },
+        {
+          "startSec": 14.8,
+          "endSec": 15.6,
+          "text": "noodles,"
+        },
+        {
+          "startSec": 15.6,
+          "endSec": 16.2,
+          "text": "Beth?"
+        },
+        {
+          "startSec": 16.2,
+          "endSec": 16.4,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 16.2,
+      "endSec": 23.5,
+      "text": "I love noodles, yes. I think my favourite are udon, the big thick ones. Mmm, they're so good.",
+      "words": [
+        {
+          "startSec": 16.2,
+          "endSec": 16.4,
+          "text": "I"
+        },
+        {
+          "startSec": 16.4,
+          "endSec": 16.8,
+          "text": "love"
+        },
+        {
+          "startSec": 16.8,
+          "endSec": 17.8,
+          "text": "noodles,"
+        },
+        {
+          "startSec": 17.8,
+          "endSec": 18.5,
+          "text": "yes."
+        },
+        {
+          "startSec": 18.5,
+          "endSec": 18.6,
+          "text": "I"
+        },
+        {
+          "startSec": 18.6,
+          "endSec": 18.9,
+          "text": "think"
+        },
+        {
+          "startSec": 18.9,
+          "endSec": 19.1,
+          "text": "my"
+        },
+        {
+          "startSec": 19.1,
+          "endSec": 19.8,
+          "text": "favourite"
+        },
+        {
+          "startSec": 19.8,
+          "endSec": 20,
+          "text": "are"
+        },
+        {
+          "startSec": 20,
+          "endSec": 20.5,
+          "text": "udon,"
+        },
+        {
+          "startSec": 20.5,
+          "endSec": 20.7,
+          "text": "the"
+        },
+        {
+          "startSec": 20.7,
+          "endSec": 20.9,
+          "text": "big"
+        },
+        {
+          "startSec": 20.9,
+          "endSec": 21.3,
+          "text": "thick"
+        },
+        {
+          "startSec": 21.3,
+          "endSec": 22,
+          "text": "ones."
+        },
+        {
+          "startSec": 22,
+          "endSec": 22.3,
+          "text": "Mmm,"
+        },
+        {
+          "startSec": 22.3,
+          "endSec": 22.8,
+          "text": "they're"
+        },
+        {
+          "startSec": 22.8,
+          "endSec": 23,
+          "text": "so"
+        },
+        {
+          "startSec": 23,
+          "endSec": 23.5,
+          "text": "good."
+        },
+        {
+          "startSec": 23.5,
+          "endSec": 24,
+          "text": "Well,"
+        }
+      ]
+    },
+    {
+      "startSec": 23.5,
+      "endSec": 29.5,
+      "text": "Well, some people buy them dried in a packet. Others make them fresh from wheat or rice,",
+      "words": [
+        {
+          "startSec": 23.5,
+          "endSec": 24,
+          "text": "Well,"
+        },
+        {
+          "startSec": 24,
+          "endSec": 24.3,
+          "text": "some"
+        },
+        {
+          "startSec": 24.3,
+          "endSec": 24.8,
+          "text": "people"
+        },
+        {
+          "startSec": 24.8,
+          "endSec": 25,
+          "text": "buy"
+        },
+        {
+          "startSec": 25,
+          "endSec": 25.3,
+          "text": "them"
+        },
+        {
+          "startSec": 25.3,
+          "endSec": 25.7,
+          "text": "dried"
+        },
+        {
+          "startSec": 25.7,
+          "endSec": 25.8,
+          "text": "in"
+        },
+        {
+          "startSec": 25.8,
+          "endSec": 25.9,
+          "text": "a"
+        },
+        {
+          "startSec": 25.9,
+          "endSec": 26.6,
+          "text": "packet."
+        },
+        {
+          "startSec": 26.6,
+          "endSec": 27.1,
+          "text": "Others"
+        },
+        {
+          "startSec": 27.1,
+          "endSec": 27.4,
+          "text": "make"
+        },
+        {
+          "startSec": 27.4,
+          "endSec": 27.7,
+          "text": "them"
+        },
+        {
+          "startSec": 27.7,
+          "endSec": 28.1,
+          "text": "fresh"
+        },
+        {
+          "startSec": 28.1,
+          "endSec": 28.4,
+          "text": "from"
+        },
+        {
+          "startSec": 28.4,
+          "endSec": 28.8,
+          "text": "wheat"
+        },
+        {
+          "startSec": 28.8,
+          "endSec": 28.9,
+          "text": "or"
+        },
+        {
+          "startSec": 28.9,
+          "endSec": 29.5,
+          "text": "rice,"
+        },
+        {
+          "startSec": 29.5,
+          "endSec": 29.7,
+          "text": "but"
+        }
+      ]
+    },
+    {
+      "startSec": 29.5,
+      "endSec": 35,
+      "text": "but there is little doubts that noodles are popular around the world. From their origins,",
+      "words": [
+        {
+          "startSec": 29.5,
+          "endSec": 29.7,
+          "text": "but"
+        },
+        {
+          "startSec": 29.7,
+          "endSec": 30,
+          "text": "there"
+        },
+        {
+          "startSec": 30,
+          "endSec": 30.2,
+          "text": "is"
+        },
+        {
+          "startSec": 30.2,
+          "endSec": 30.6,
+          "text": "little"
+        },
+        {
+          "startSec": 30.6,
+          "endSec": 31,
+          "text": "doubts"
+        },
+        {
+          "startSec": 31,
+          "endSec": 31.3,
+          "text": "that"
+        },
+        {
+          "startSec": 31.3,
+          "endSec": 31.8,
+          "text": "noodles"
+        },
+        {
+          "startSec": 31.8,
+          "endSec": 32,
+          "text": "are"
+        },
+        {
+          "startSec": 32,
+          "endSec": 32.5,
+          "text": "popular"
+        },
+        {
+          "startSec": 32.5,
+          "endSec": 32.9,
+          "text": "around"
+        },
+        {
+          "startSec": 32.9,
+          "endSec": 33.1,
+          "text": "the"
+        },
+        {
+          "startSec": 33.1,
+          "endSec": 33.7,
+          "text": "world."
+        },
+        {
+          "startSec": 33.7,
+          "endSec": 34,
+          "text": "From"
+        },
+        {
+          "startSec": 34,
+          "endSec": 34.2,
+          "text": "their"
+        },
+        {
+          "startSec": 34.2,
+          "endSec": 35,
+          "text": "origins,"
+        },
+        {
+          "startSec": 35,
+          "endSec": 35.6,
+          "text": "probably"
+        }
+      ]
+    },
+    {
+      "startSec": 35,
+      "endSec": 40.8,
+      "text": "probably somewhere in China, noodle recipes were spread by traders on the ancient silk",
+      "words": [
+        {
+          "startSec": 35,
+          "endSec": 35.6,
+          "text": "probably"
+        },
+        {
+          "startSec": 35.6,
+          "endSec": 36.3,
+          "text": "somewhere"
+        },
+        {
+          "startSec": 36.3,
+          "endSec": 36.5,
+          "text": "in"
+        },
+        {
+          "startSec": 36.5,
+          "endSec": 37,
+          "text": "China,"
+        },
+        {
+          "startSec": 37,
+          "endSec": 37.5,
+          "text": "noodle"
+        },
+        {
+          "startSec": 37.5,
+          "endSec": 38,
+          "text": "recipes"
+        },
+        {
+          "startSec": 38,
+          "endSec": 38.3,
+          "text": "were"
+        },
+        {
+          "startSec": 38.3,
+          "endSec": 38.8,
+          "text": "spread"
+        },
+        {
+          "startSec": 38.8,
+          "endSec": 38.9,
+          "text": "by"
+        },
+        {
+          "startSec": 38.9,
+          "endSec": 39.5,
+          "text": "traders"
+        },
+        {
+          "startSec": 39.5,
+          "endSec": 39.6,
+          "text": "on"
+        },
+        {
+          "startSec": 39.6,
+          "endSec": 39.8,
+          "text": "the"
+        },
+        {
+          "startSec": 39.8,
+          "endSec": 40.4,
+          "text": "ancient"
+        },
+        {
+          "startSec": 40.4,
+          "endSec": 40.8,
+          "text": "silk"
+        },
+        {
+          "startSec": 40.8,
+          "endSec": 41.3,
+          "text": "road."
+        }
+      ]
+    },
+    {
+      "startSec": 40.8,
+      "endSec": 46.7,
+      "text": "road. At each destination along the road, people gave noodles a twist, adding different",
+      "words": [
+        {
+          "startSec": 40.8,
+          "endSec": 41.3,
+          "text": "road."
+        },
+        {
+          "startSec": 41.3,
+          "endSec": 41.5,
+          "text": "At"
+        },
+        {
+          "startSec": 41.5,
+          "endSec": 41.8,
+          "text": "each"
+        },
+        {
+          "startSec": 41.8,
+          "endSec": 42.7,
+          "text": "destination"
+        },
+        {
+          "startSec": 42.7,
+          "endSec": 43.1,
+          "text": "along"
+        },
+        {
+          "startSec": 43.1,
+          "endSec": 43.3,
+          "text": "the"
+        },
+        {
+          "startSec": 43.3,
+          "endSec": 43.8,
+          "text": "road,"
+        },
+        {
+          "startSec": 43.8,
+          "endSec": 44.3,
+          "text": "people"
+        },
+        {
+          "startSec": 44.3,
+          "endSec": 44.5,
+          "text": "gave"
+        },
+        {
+          "startSec": 44.5,
+          "endSec": 45,
+          "text": "noodles"
+        },
+        {
+          "startSec": 45,
+          "endSec": 45.1,
+          "text": "a"
+        },
+        {
+          "startSec": 45.1,
+          "endSec": 45.6,
+          "text": "twist,"
+        },
+        {
+          "startSec": 45.6,
+          "endSec": 46,
+          "text": "adding"
+        },
+        {
+          "startSec": 46,
+          "endSec": 46.7,
+          "text": "different"
+        },
+        {
+          "startSec": 46.7,
+          "endSec": 47.4,
+          "text": "flavours"
+        }
+      ]
+    },
+    {
+      "startSec": 46.7,
+      "endSec": 50.1,
+      "text": "flavours and ingredients to create a new dish.",
+      "words": [
+        {
+          "startSec": 46.7,
+          "endSec": 47.4,
+          "text": "flavours"
+        },
+        {
+          "startSec": 47.4,
+          "endSec": 47.6,
+          "text": "and"
+        },
+        {
+          "startSec": 47.6,
+          "endSec": 48.5,
+          "text": "ingredients"
+        },
+        {
+          "startSec": 48.5,
+          "endSec": 48.7,
+          "text": "to"
+        },
+        {
+          "startSec": 48.7,
+          "endSec": 49.2,
+          "text": "create"
+        },
+        {
+          "startSec": 49.2,
+          "endSec": 49.3,
+          "text": "a"
+        },
+        {
+          "startSec": 49.3,
+          "endSec": 49.5,
+          "text": "new"
+        },
+        {
+          "startSec": 49.5,
+          "endSec": 50.1,
+          "text": "dish."
+        },
+        {
+          "startSec": 50.1,
+          "endSec": 50.3,
+          "text": "In"
+        }
+      ]
+    },
+    {
+      "startSec": 50.1,
+      "endSec": 54.9,
+      "text": "In this programme, we'll visit the United States and Japan, two countries which have",
+      "words": [
+        {
+          "startSec": 50.1,
+          "endSec": 50.3,
+          "text": "In"
+        },
+        {
+          "startSec": 50.3,
+          "endSec": 50.5,
+          "text": "this"
+        },
+        {
+          "startSec": 50.5,
+          "endSec": 51.2,
+          "text": "programme,"
+        },
+        {
+          "startSec": 51.2,
+          "endSec": 51.5,
+          "text": "we'll"
+        },
+        {
+          "startSec": 51.5,
+          "endSec": 51.9,
+          "text": "visit"
+        },
+        {
+          "startSec": 51.9,
+          "endSec": 52.1,
+          "text": "the"
+        },
+        {
+          "startSec": 52.1,
+          "endSec": 52.4,
+          "text": "United"
+        },
+        {
+          "startSec": 52.4,
+          "endSec": 52.8,
+          "text": "States"
+        },
+        {
+          "startSec": 52.8,
+          "endSec": 53,
+          "text": "and"
+        },
+        {
+          "startSec": 53,
+          "endSec": 53.5,
+          "text": "Japan,"
+        },
+        {
+          "startSec": 53.5,
+          "endSec": 53.7,
+          "text": "two"
+        },
+        {
+          "startSec": 53.7,
+          "endSec": 54.2,
+          "text": "countries"
+        },
+        {
+          "startSec": 54.2,
+          "endSec": 54.6,
+          "text": "which"
+        },
+        {
+          "startSec": 54.6,
+          "endSec": 54.9,
+          "text": "have"
+        }
+      ]
+    },
+    {
+      "startSec": 54.9,
+      "endSec": 61.5,
+      "text": "taken noodles and created exciting new varieties. As usual, we'll learn some useful new vocabulary",
+      "words": [
+        {
+          "startSec": 55,
+          "endSec": 55.3,
+          "text": "taken"
+        },
+        {
+          "startSec": 55.3,
+          "endSec": 55.9,
+          "text": "noodles"
+        },
+        {
+          "startSec": 55.9,
+          "endSec": 56.2,
+          "text": "and"
+        },
+        {
+          "startSec": 56.2,
+          "endSec": 56.8,
+          "text": "created"
+        },
+        {
+          "startSec": 56.8,
+          "endSec": 57.5,
+          "text": "exciting"
+        },
+        {
+          "startSec": 57.5,
+          "endSec": 57.8,
+          "text": "new"
+        },
+        {
+          "startSec": 57.8,
+          "endSec": 58.8,
+          "text": "varieties."
+        },
+        {
+          "startSec": 58.8,
+          "endSec": 58.9,
+          "text": "As"
+        },
+        {
+          "startSec": 58.9,
+          "endSec": 59.3,
+          "text": "usual,"
+        },
+        {
+          "startSec": 59.3,
+          "endSec": 59.5,
+          "text": "we'll"
+        },
+        {
+          "startSec": 59.5,
+          "endSec": 59.8,
+          "text": "learn"
+        },
+        {
+          "startSec": 59.8,
+          "endSec": 60,
+          "text": "some"
+        },
+        {
+          "startSec": 60,
+          "endSec": 60.3,
+          "text": "useful"
+        },
+        {
+          "startSec": 60.3,
+          "endSec": 60.6,
+          "text": "new"
+        },
+        {
+          "startSec": 60.6,
+          "endSec": 61.5,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 61.5,
+          "endSec": 61.7,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 61.5,
+      "endSec": 66,
+      "text": "and remember, you can read along with the transcript of this programme available now",
+      "words": [
+        {
+          "startSec": 61.5,
+          "endSec": 61.7,
+          "text": "and"
+        },
+        {
+          "startSec": 61.7,
+          "endSec": 62.3,
+          "text": "remember,"
+        },
+        {
+          "startSec": 62.3,
+          "endSec": 62.5,
+          "text": "you"
+        },
+        {
+          "startSec": 62.5,
+          "endSec": 62.6,
+          "text": "can"
+        },
+        {
+          "startSec": 62.6,
+          "endSec": 62.9,
+          "text": "read"
+        },
+        {
+          "startSec": 62.9,
+          "endSec": 63.2,
+          "text": "along"
+        },
+        {
+          "startSec": 63.2,
+          "endSec": 63.4,
+          "text": "with"
+        },
+        {
+          "startSec": 63.4,
+          "endSec": 63.6,
+          "text": "the"
+        },
+        {
+          "startSec": 63.6,
+          "endSec": 64.2,
+          "text": "transcript"
+        },
+        {
+          "startSec": 64.2,
+          "endSec": 64.3,
+          "text": "of"
+        },
+        {
+          "startSec": 64.3,
+          "endSec": 64.6,
+          "text": "this"
+        },
+        {
+          "startSec": 64.6,
+          "endSec": 65.1,
+          "text": "programme"
+        },
+        {
+          "startSec": 65.1,
+          "endSec": 65.7,
+          "text": "available"
+        },
+        {
+          "startSec": 65.7,
+          "endSec": 66,
+          "text": "now"
+        },
+        {
+          "startSec": 66,
+          "endSec": 66.1,
+          "text": "on"
+        }
+      ]
+    },
+    {
+      "startSec": 66,
+      "endSec": 69.2,
+      "text": "on our website, bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 66,
+          "endSec": 66.1,
+          "text": "on"
+        },
+        {
+          "startSec": 66.1,
+          "endSec": 66.3,
+          "text": "our"
+        },
+        {
+          "startSec": 66.3,
+          "endSec": 67,
+          "text": "website,"
+        },
+        {
+          "startSec": 67,
+          "endSec": 69.2,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 69.2,
+          "endSec": 69.4,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 69.2,
+      "endSec": 75,
+      "text": "But first, Neil, I have a question for you. As well as different shapes and ingredients,",
+      "words": [
+        {
+          "startSec": 69.2,
+          "endSec": 69.4,
+          "text": "But"
+        },
+        {
+          "startSec": 69.4,
+          "endSec": 69.9,
+          "text": "first,"
+        },
+        {
+          "startSec": 69.9,
+          "endSec": 70.4,
+          "text": "Neil,"
+        },
+        {
+          "startSec": 70.4,
+          "endSec": 70.4,
+          "text": "I"
+        },
+        {
+          "startSec": 70.4,
+          "endSec": 70.7,
+          "text": "have"
+        },
+        {
+          "startSec": 70.7,
+          "endSec": 70.8,
+          "text": "a"
+        },
+        {
+          "startSec": 70.8,
+          "endSec": 71.4,
+          "text": "question"
+        },
+        {
+          "startSec": 71.4,
+          "endSec": 71.7,
+          "text": "for"
+        },
+        {
+          "startSec": 71.7,
+          "endSec": 72.2,
+          "text": "you."
+        },
+        {
+          "startSec": 72.2,
+          "endSec": 72.3,
+          "text": "As"
+        },
+        {
+          "startSec": 72.3,
+          "endSec": 72.6,
+          "text": "well"
+        },
+        {
+          "startSec": 72.6,
+          "endSec": 72.7,
+          "text": "as"
+        },
+        {
+          "startSec": 72.7,
+          "endSec": 73.3,
+          "text": "different"
+        },
+        {
+          "startSec": 73.3,
+          "endSec": 73.7,
+          "text": "shapes"
+        },
+        {
+          "startSec": 73.7,
+          "endSec": 73.9,
+          "text": "and"
+        },
+        {
+          "startSec": 73.9,
+          "endSec": 75,
+          "text": "ingredients,"
+        },
+        {
+          "startSec": 75,
+          "endSec": 75.6,
+          "text": "noodles"
+        }
+      ]
+    },
+    {
+      "startSec": 75,
+      "endSec": 81.8,
+      "text": "noodles come in many different flavours. So which region of China is famous for its spicy",
+      "words": [
+        {
+          "startSec": 75,
+          "endSec": 75.6,
+          "text": "noodles"
+        },
+        {
+          "startSec": 75.6,
+          "endSec": 75.9,
+          "text": "come"
+        },
+        {
+          "startSec": 75.9,
+          "endSec": 76,
+          "text": "in"
+        },
+        {
+          "startSec": 76,
+          "endSec": 76.3,
+          "text": "many"
+        },
+        {
+          "startSec": 76.3,
+          "endSec": 77,
+          "text": "different"
+        },
+        {
+          "startSec": 77,
+          "endSec": 77.9,
+          "text": "flavours."
+        },
+        {
+          "startSec": 77.9,
+          "endSec": 78.1,
+          "text": "So"
+        },
+        {
+          "startSec": 78.1,
+          "endSec": 78.5,
+          "text": "which"
+        },
+        {
+          "startSec": 78.5,
+          "endSec": 79,
+          "text": "region"
+        },
+        {
+          "startSec": 79,
+          "endSec": 79.2,
+          "text": "of"
+        },
+        {
+          "startSec": 79.2,
+          "endSec": 79.6,
+          "text": "China"
+        },
+        {
+          "startSec": 79.6,
+          "endSec": 79.8,
+          "text": "is"
+        },
+        {
+          "startSec": 79.8,
+          "endSec": 80.3,
+          "text": "famous"
+        },
+        {
+          "startSec": 80.3,
+          "endSec": 80.6,
+          "text": "for"
+        },
+        {
+          "startSec": 80.6,
+          "endSec": 80.9,
+          "text": "its"
+        },
+        {
+          "startSec": 80.9,
+          "endSec": 81.8,
+          "text": "spicy"
+        }
+      ]
+    },
+    {
+      "startSec": 81.8,
+      "endSec": 89.9,
+      "text": "flavours? Is it A) Shanghai, B) Sichuan, or C) Guangzhou?",
+      "words": [
+        {
+          "startSec": 82,
+          "endSec": 83.5,
+          "text": "flavours?"
+        },
+        {
+          "startSec": 83.5,
+          "endSec": 83.8,
+          "text": "Is"
+        },
+        {
+          "startSec": 83.8,
+          "endSec": 84.1,
+          "text": "it"
+        },
+        {
+          "startSec": 84.1,
+          "endSec": 84.4,
+          "text": "A)"
+        },
+        {
+          "startSec": 84.4,
+          "endSec": 85.8,
+          "text": "Shanghai,"
+        },
+        {
+          "startSec": 85.8,
+          "endSec": 86.1,
+          "text": "B)"
+        },
+        {
+          "startSec": 86.1,
+          "endSec": 87.4,
+          "text": "Sichuan,"
+        },
+        {
+          "startSec": 87.4,
+          "endSec": 87.7,
+          "text": "or"
+        },
+        {
+          "startSec": 87.7,
+          "endSec": 88,
+          "text": "C)"
+        },
+        {
+          "startSec": 88,
+          "endSec": 89.9,
+          "text": "Guangzhou?"
+        },
+        {
+          "startSec": 89.9,
+          "endSec": 90.4,
+          "text": "Well,"
+        }
+      ]
+    },
+    {
+      "startSec": 89.9,
+      "endSec": 96.3,
+      "text": "Well, I think actually, Beth, I know the answer to this. I've been lucky enough to have been",
+      "words": [
+        {
+          "startSec": 89.9,
+          "endSec": 90.4,
+          "text": "Well,"
+        },
+        {
+          "startSec": 90.4,
+          "endSec": 90.5,
+          "text": "I"
+        },
+        {
+          "startSec": 90.5,
+          "endSec": 90.9,
+          "text": "think"
+        },
+        {
+          "startSec": 90.9,
+          "endSec": 91.7,
+          "text": "actually,"
+        },
+        {
+          "startSec": 91.7,
+          "endSec": 92.2,
+          "text": "Beth,"
+        },
+        {
+          "startSec": 92.2,
+          "endSec": 92.3,
+          "text": "I"
+        },
+        {
+          "startSec": 92.3,
+          "endSec": 92.6,
+          "text": "know"
+        },
+        {
+          "startSec": 92.6,
+          "endSec": 92.8,
+          "text": "the"
+        },
+        {
+          "startSec": 92.8,
+          "endSec": 93.3,
+          "text": "answer"
+        },
+        {
+          "startSec": 93.3,
+          "endSec": 93.5,
+          "text": "to"
+        },
+        {
+          "startSec": 93.5,
+          "endSec": 94,
+          "text": "this."
+        },
+        {
+          "startSec": 94,
+          "endSec": 94.4,
+          "text": "I've"
+        },
+        {
+          "startSec": 94.4,
+          "endSec": 94.7,
+          "text": "been"
+        },
+        {
+          "startSec": 94.7,
+          "endSec": 95.1,
+          "text": "lucky"
+        },
+        {
+          "startSec": 95.1,
+          "endSec": 95.6,
+          "text": "enough"
+        },
+        {
+          "startSec": 95.6,
+          "endSec": 95.8,
+          "text": "to"
+        },
+        {
+          "startSec": 95.8,
+          "endSec": 96,
+          "text": "have"
+        },
+        {
+          "startSec": 96,
+          "endSec": 96.3,
+          "text": "been"
+        },
+        {
+          "startSec": 96.3,
+          "endSec": 96.5,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 96.3,
+      "endSec": 99.3,
+      "text": "to this place. I think it's B) Sichuan.",
+      "words": [
+        {
+          "startSec": 96.3,
+          "endSec": 96.5,
+          "text": "to"
+        },
+        {
+          "startSec": 96.5,
+          "endSec": 96.7,
+          "text": "this"
+        },
+        {
+          "startSec": 96.7,
+          "endSec": 97.3,
+          "text": "place."
+        },
+        {
+          "startSec": 97.3,
+          "endSec": 97.4,
+          "text": "I"
+        },
+        {
+          "startSec": 97.4,
+          "endSec": 97.8,
+          "text": "think"
+        },
+        {
+          "startSec": 97.8,
+          "endSec": 98.2,
+          "text": "it's"
+        },
+        {
+          "startSec": 98.2,
+          "endSec": 98.3,
+          "text": "B)"
+        },
+        {
+          "startSec": 98.3,
+          "endSec": 99.3,
+          "text": "Sichuan."
+        },
+        {
+          "startSec": 99.3,
+          "endSec": 99.7,
+          "text": "Okay,"
+        }
+      ]
+    },
+    {
+      "startSec": 99.3,
+      "endSec": 105.4,
+      "text": "Okay, well, you sound confident. I will reveal the answer later in the programme. BBC World",
+      "words": [
+        {
+          "startSec": 99.3,
+          "endSec": 99.7,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 99.7,
+          "endSec": 100.1,
+          "text": "well,"
+        },
+        {
+          "startSec": 100.1,
+          "endSec": 100.3,
+          "text": "you"
+        },
+        {
+          "startSec": 100.3,
+          "endSec": 100.7,
+          "text": "sound"
+        },
+        {
+          "startSec": 100.7,
+          "endSec": 101.5,
+          "text": "confident."
+        },
+        {
+          "startSec": 101.5,
+          "endSec": 101.6,
+          "text": "I"
+        },
+        {
+          "startSec": 101.6,
+          "endSec": 101.9,
+          "text": "will"
+        },
+        {
+          "startSec": 101.9,
+          "endSec": 102.3,
+          "text": "reveal"
+        },
+        {
+          "startSec": 102.3,
+          "endSec": 102.5,
+          "text": "the"
+        },
+        {
+          "startSec": 102.5,
+          "endSec": 102.9,
+          "text": "answer"
+        },
+        {
+          "startSec": 102.9,
+          "endSec": 103.3,
+          "text": "later"
+        },
+        {
+          "startSec": 103.3,
+          "endSec": 103.4,
+          "text": "in"
+        },
+        {
+          "startSec": 103.4,
+          "endSec": 103.6,
+          "text": "the"
+        },
+        {
+          "startSec": 103.6,
+          "endSec": 104.6,
+          "text": "programme."
+        },
+        {
+          "startSec": 104.6,
+          "endSec": 104.9,
+          "text": "BBC"
+        },
+        {
+          "startSec": 104.9,
+          "endSec": 105.4,
+          "text": "World"
+        },
+        {
+          "startSec": 105.4,
+          "endSec": 105.9,
+          "text": "Service"
+        }
+      ]
+    },
+    {
+      "startSec": 105.4,
+      "endSec": 111.5,
+      "text": "Service programme, the Food Chain, investigated how noodles spread from Asia through Europe",
+      "words": [
+        {
+          "startSec": 105.4,
+          "endSec": 105.9,
+          "text": "Service"
+        },
+        {
+          "startSec": 105.9,
+          "endSec": 106.7,
+          "text": "programme,"
+        },
+        {
+          "startSec": 106.7,
+          "endSec": 106.9,
+          "text": "the"
+        },
+        {
+          "startSec": 106.9,
+          "endSec": 107.2,
+          "text": "Food"
+        },
+        {
+          "startSec": 107.2,
+          "endSec": 107.8,
+          "text": "Chain,"
+        },
+        {
+          "startSec": 107.8,
+          "endSec": 108.7,
+          "text": "investigated"
+        },
+        {
+          "startSec": 108.7,
+          "endSec": 108.9,
+          "text": "how"
+        },
+        {
+          "startSec": 108.9,
+          "endSec": 109.4,
+          "text": "noodles"
+        },
+        {
+          "startSec": 109.4,
+          "endSec": 109.9,
+          "text": "spread"
+        },
+        {
+          "startSec": 109.9,
+          "endSec": 110.2,
+          "text": "from"
+        },
+        {
+          "startSec": 110.2,
+          "endSec": 110.5,
+          "text": "Asia"
+        },
+        {
+          "startSec": 110.5,
+          "endSec": 111,
+          "text": "through"
+        },
+        {
+          "startSec": 111,
+          "endSec": 111.5,
+          "text": "Europe"
+        }
+      ]
+    },
+    {
+      "startSec": 111.5,
+      "endSec": 117.8,
+      "text": "to America. They uncovered a surprising story that pasta comes from noodles brought back",
+      "words": [
+        {
+          "startSec": 111.6,
+          "endSec": 111.7,
+          "text": "to"
+        },
+        {
+          "startSec": 111.7,
+          "endSec": 112.5,
+          "text": "America."
+        },
+        {
+          "startSec": 112.5,
+          "endSec": 112.8,
+          "text": "They"
+        },
+        {
+          "startSec": 112.8,
+          "endSec": 113.5,
+          "text": "uncovered"
+        },
+        {
+          "startSec": 113.5,
+          "endSec": 113.6,
+          "text": "a"
+        },
+        {
+          "startSec": 113.6,
+          "endSec": 114.4,
+          "text": "surprising"
+        },
+        {
+          "startSec": 114.4,
+          "endSec": 114.9,
+          "text": "story"
+        },
+        {
+          "startSec": 114.9,
+          "endSec": 115.2,
+          "text": "that"
+        },
+        {
+          "startSec": 115.2,
+          "endSec": 115.6,
+          "text": "pasta"
+        },
+        {
+          "startSec": 115.6,
+          "endSec": 116,
+          "text": "comes"
+        },
+        {
+          "startSec": 116,
+          "endSec": 116.3,
+          "text": "from"
+        },
+        {
+          "startSec": 116.3,
+          "endSec": 116.9,
+          "text": "noodles"
+        },
+        {
+          "startSec": 116.9,
+          "endSec": 117.5,
+          "text": "brought"
+        },
+        {
+          "startSec": 117.5,
+          "endSec": 117.8,
+          "text": "back"
+        },
+        {
+          "startSec": 117.8,
+          "endSec": 118,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 117.8,
+      "endSec": 124.9,
+      "text": "to Italy by Marco Polo in the 13th century. Jen Lin Liu, author of the book On the Noodle",
+      "words": [
+        {
+          "startSec": 117.8,
+          "endSec": 118,
+          "text": "to"
+        },
+        {
+          "startSec": 118,
+          "endSec": 118.6,
+          "text": "Italy"
+        },
+        {
+          "startSec": 118.6,
+          "endSec": 118.8,
+          "text": "by"
+        },
+        {
+          "startSec": 118.8,
+          "endSec": 119.3,
+          "text": "Marco"
+        },
+        {
+          "startSec": 119.3,
+          "endSec": 119.7,
+          "text": "Polo"
+        },
+        {
+          "startSec": 119.7,
+          "endSec": 119.9,
+          "text": "in"
+        },
+        {
+          "startSec": 119.9,
+          "endSec": 120.2,
+          "text": "the"
+        },
+        {
+          "startSec": 120.2,
+          "endSec": 121,
+          "text": "13th"
+        },
+        {
+          "startSec": 121,
+          "endSec": 122.1,
+          "text": "century."
+        },
+        {
+          "startSec": 122.1,
+          "endSec": 122.3,
+          "text": "Jen"
+        },
+        {
+          "startSec": 122.3,
+          "endSec": 122.5,
+          "text": "Lin"
+        },
+        {
+          "startSec": 122.5,
+          "endSec": 122.9,
+          "text": "Liu,"
+        },
+        {
+          "startSec": 122.9,
+          "endSec": 123.4,
+          "text": "author"
+        },
+        {
+          "startSec": 123.4,
+          "endSec": 123.5,
+          "text": "of"
+        },
+        {
+          "startSec": 123.5,
+          "endSec": 123.8,
+          "text": "the"
+        },
+        {
+          "startSec": 123.8,
+          "endSec": 124.1,
+          "text": "book"
+        },
+        {
+          "startSec": 124.1,
+          "endSec": 124.2,
+          "text": "On"
+        },
+        {
+          "startSec": 124.2,
+          "endSec": 124.4,
+          "text": "the"
+        },
+        {
+          "startSec": 124.4,
+          "endSec": 124.9,
+          "text": "Noodle"
+        },
+        {
+          "startSec": 124.9,
+          "endSec": 125.5,
+          "text": "Road,"
+        }
+      ]
+    },
+    {
+      "startSec": 124.9,
+      "endSec": 128,
+      "text": "Road, doesn't believe this story.",
+      "words": [
+        {
+          "startSec": 124.9,
+          "endSec": 125.5,
+          "text": "Road,"
+        },
+        {
+          "startSec": 125.5,
+          "endSec": 126.1,
+          "text": "doesn't"
+        },
+        {
+          "startSec": 126.1,
+          "endSec": 126.8,
+          "text": "believe"
+        },
+        {
+          "startSec": 126.8,
+          "endSec": 127.2,
+          "text": "this"
+        },
+        {
+          "startSec": 127.2,
+          "endSec": 128,
+          "text": "story."
+        },
+        {
+          "startSec": 128,
+          "endSec": 128.1,
+          "text": "So"
+        }
+      ]
+    },
+    {
+      "startSec": 128,
+      "endSec": 135.4,
+      "text": "So noodles were very exotic in the 1920s and 30s in the United States, and there was a",
+      "words": [
+        {
+          "startSec": 128,
+          "endSec": 128.1,
+          "text": "So"
+        },
+        {
+          "startSec": 128.1,
+          "endSec": 128.8,
+          "text": "noodles"
+        },
+        {
+          "startSec": 128.8,
+          "endSec": 129.1,
+          "text": "were"
+        },
+        {
+          "startSec": 129.1,
+          "endSec": 129.5,
+          "text": "very"
+        },
+        {
+          "startSec": 129.5,
+          "endSec": 130,
+          "text": "exotic"
+        },
+        {
+          "startSec": 130,
+          "endSec": 130.2,
+          "text": "in"
+        },
+        {
+          "startSec": 130.2,
+          "endSec": 130.5,
+          "text": "the"
+        },
+        {
+          "startSec": 130.5,
+          "endSec": 131.7,
+          "text": "1920s"
+        },
+        {
+          "startSec": 131.7,
+          "endSec": 131.9,
+          "text": "and"
+        },
+        {
+          "startSec": 131.9,
+          "endSec": 132.6,
+          "text": "30s"
+        },
+        {
+          "startSec": 132.6,
+          "endSec": 132.7,
+          "text": "in"
+        },
+        {
+          "startSec": 132.7,
+          "endSec": 133,
+          "text": "the"
+        },
+        {
+          "startSec": 133,
+          "endSec": 133.5,
+          "text": "United"
+        },
+        {
+          "startSec": 133.5,
+          "endSec": 134.3,
+          "text": "States,"
+        },
+        {
+          "startSec": 134.3,
+          "endSec": 134.5,
+          "text": "and"
+        },
+        {
+          "startSec": 134.5,
+          "endSec": 135,
+          "text": "there"
+        },
+        {
+          "startSec": 135,
+          "endSec": 135.3,
+          "text": "was"
+        },
+        {
+          "startSec": 135.3,
+          "endSec": 135.4,
+          "text": "a"
+        },
+        {
+          "startSec": 135.4,
+          "endSec": 135.7,
+          "text": "new"
+        }
+      ]
+    },
+    {
+      "startSec": 135.4,
+      "endSec": 143.1,
+      "text": "new pasta association in America that wanted to promote the manufacturing of dried pasta.",
+      "words": [
+        {
+          "startSec": 135.4,
+          "endSec": 135.7,
+          "text": "new"
+        },
+        {
+          "startSec": 135.7,
+          "endSec": 136.1,
+          "text": "pasta"
+        },
+        {
+          "startSec": 136.1,
+          "endSec": 137.2,
+          "text": "association"
+        },
+        {
+          "startSec": 137.2,
+          "endSec": 137.4,
+          "text": "in"
+        },
+        {
+          "startSec": 137.4,
+          "endSec": 138.1,
+          "text": "America"
+        },
+        {
+          "startSec": 138.1,
+          "endSec": 138.5,
+          "text": "that"
+        },
+        {
+          "startSec": 138.5,
+          "endSec": 139.1,
+          "text": "wanted"
+        },
+        {
+          "startSec": 139.1,
+          "endSec": 139.3,
+          "text": "to"
+        },
+        {
+          "startSec": 139.3,
+          "endSec": 140,
+          "text": "promote"
+        },
+        {
+          "startSec": 140,
+          "endSec": 140.2,
+          "text": "the"
+        },
+        {
+          "startSec": 140.2,
+          "endSec": 141.5,
+          "text": "manufacturing"
+        },
+        {
+          "startSec": 141.5,
+          "endSec": 141.7,
+          "text": "of"
+        },
+        {
+          "startSec": 141.7,
+          "endSec": 142.2,
+          "text": "dried"
+        },
+        {
+          "startSec": 142.2,
+          "endSec": 143.1,
+          "text": "pasta."
+        },
+        {
+          "startSec": 143.1,
+          "endSec": 143.4,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 143.1,
+      "endSec": 150.1,
+      "text": "And so they came up with a story about how Marco Polo went to China and found the noodle",
+      "words": [
+        {
+          "startSec": 143.1,
+          "endSec": 143.4,
+          "text": "And"
+        },
+        {
+          "startSec": 143.4,
+          "endSec": 143.6,
+          "text": "so"
+        },
+        {
+          "startSec": 143.6,
+          "endSec": 144,
+          "text": "they"
+        },
+        {
+          "startSec": 144,
+          "endSec": 144.4,
+          "text": "came"
+        },
+        {
+          "startSec": 144.4,
+          "endSec": 144.6,
+          "text": "up"
+        },
+        {
+          "startSec": 144.6,
+          "endSec": 145,
+          "text": "with"
+        },
+        {
+          "startSec": 145,
+          "endSec": 145.1,
+          "text": "a"
+        },
+        {
+          "startSec": 145.1,
+          "endSec": 145.6,
+          "text": "story"
+        },
+        {
+          "startSec": 145.6,
+          "endSec": 146.1,
+          "text": "about"
+        },
+        {
+          "startSec": 146.1,
+          "endSec": 146.4,
+          "text": "how"
+        },
+        {
+          "startSec": 146.4,
+          "endSec": 146.9,
+          "text": "Marco"
+        },
+        {
+          "startSec": 146.9,
+          "endSec": 147.3,
+          "text": "Polo"
+        },
+        {
+          "startSec": 147.3,
+          "endSec": 147.6,
+          "text": "went"
+        },
+        {
+          "startSec": 147.6,
+          "endSec": 147.8,
+          "text": "to"
+        },
+        {
+          "startSec": 147.8,
+          "endSec": 148.3,
+          "text": "China"
+        },
+        {
+          "startSec": 148.3,
+          "endSec": 148.6,
+          "text": "and"
+        },
+        {
+          "startSec": 148.6,
+          "endSec": 149.1,
+          "text": "found"
+        },
+        {
+          "startSec": 149.1,
+          "endSec": 149.4,
+          "text": "the"
+        },
+        {
+          "startSec": 149.4,
+          "endSec": 150.1,
+          "text": "noodle"
+        },
+        {
+          "startSec": 150.1,
+          "endSec": 150.6,
+          "text": "there"
+        }
+      ]
+    },
+    {
+      "startSec": 150.1,
+      "endSec": 153.3,
+      "text": "there and brought it all the way to Italy.",
+      "words": [
+        {
+          "startSec": 150.1,
+          "endSec": 150.6,
+          "text": "there"
+        },
+        {
+          "startSec": 150.6,
+          "endSec": 150.8,
+          "text": "and"
+        },
+        {
+          "startSec": 150.8,
+          "endSec": 151.4,
+          "text": "brought"
+        },
+        {
+          "startSec": 151.4,
+          "endSec": 151.6,
+          "text": "it"
+        },
+        {
+          "startSec": 151.6,
+          "endSec": 151.9,
+          "text": "all"
+        },
+        {
+          "startSec": 151.9,
+          "endSec": 152.1,
+          "text": "the"
+        },
+        {
+          "startSec": 152.1,
+          "endSec": 152.4,
+          "text": "way"
+        },
+        {
+          "startSec": 152.4,
+          "endSec": 152.6,
+          "text": "to"
+        },
+        {
+          "startSec": 152.6,
+          "endSec": 153.3,
+          "text": "Italy."
+        },
+        {
+          "startSec": 153.3,
+          "endSec": 153.4,
+          "text": "In"
+        }
+      ]
+    },
+    {
+      "startSec": 153.3,
+      "endSec": 158.8,
+      "text": "In the 1920s, noodles were popular because they were exotic, meaning foreign, unusual,",
+      "words": [
+        {
+          "startSec": 153.3,
+          "endSec": 153.4,
+          "text": "In"
+        },
+        {
+          "startSec": 153.4,
+          "endSec": 153.6,
+          "text": "the"
+        },
+        {
+          "startSec": 153.6,
+          "endSec": 154.5,
+          "text": "1920s,"
+        },
+        {
+          "startSec": 154.5,
+          "endSec": 155,
+          "text": "noodles"
+        },
+        {
+          "startSec": 155,
+          "endSec": 155.2,
+          "text": "were"
+        },
+        {
+          "startSec": 155.2,
+          "endSec": 155.7,
+          "text": "popular"
+        },
+        {
+          "startSec": 155.7,
+          "endSec": 156.1,
+          "text": "because"
+        },
+        {
+          "startSec": 156.1,
+          "endSec": 156.3,
+          "text": "they"
+        },
+        {
+          "startSec": 156.3,
+          "endSec": 156.6,
+          "text": "were"
+        },
+        {
+          "startSec": 156.6,
+          "endSec": 157.1,
+          "text": "exotic,"
+        },
+        {
+          "startSec": 157.1,
+          "endSec": 157.5,
+          "text": "meaning"
+        },
+        {
+          "startSec": 157.5,
+          "endSec": 158.1,
+          "text": "foreign,"
+        },
+        {
+          "startSec": 158.1,
+          "endSec": 158.8,
+          "text": "unusual,"
+        },
+        {
+          "startSec": 158.8,
+          "endSec": 159.1,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 158.8,
+      "endSec": 162.6,
+      "text": "and exciting. At that time, pasta companies were promoting",
+      "words": [
+        {
+          "startSec": 158.8,
+          "endSec": 159.1,
+          "text": "and"
+        },
+        {
+          "startSec": 159.1,
+          "endSec": 160.2,
+          "text": "exciting."
+        },
+        {
+          "startSec": 160.2,
+          "endSec": 160.4,
+          "text": "At"
+        },
+        {
+          "startSec": 160.4,
+          "endSec": 160.6,
+          "text": "that"
+        },
+        {
+          "startSec": 160.6,
+          "endSec": 161,
+          "text": "time,"
+        },
+        {
+          "startSec": 161,
+          "endSec": 161.3,
+          "text": "pasta"
+        },
+        {
+          "startSec": 161.3,
+          "endSec": 161.8,
+          "text": "companies"
+        },
+        {
+          "startSec": 161.8,
+          "endSec": 162.1,
+          "text": "were"
+        },
+        {
+          "startSec": 162.1,
+          "endSec": 162.6,
+          "text": "promoting"
+        }
+      ]
+    },
+    {
+      "startSec": 162.6,
+      "endSec": 168.6,
+      "text": "a new invention, dried pasta, so they came up with a story about Marco Polo to sell more",
+      "words": [
+        {
+          "startSec": 162.7,
+          "endSec": 162.7,
+          "text": "a"
+        },
+        {
+          "startSec": 162.7,
+          "endSec": 163,
+          "text": "new"
+        },
+        {
+          "startSec": 163,
+          "endSec": 163.9,
+          "text": "invention,"
+        },
+        {
+          "startSec": 163.9,
+          "endSec": 164.3,
+          "text": "dried"
+        },
+        {
+          "startSec": 164.3,
+          "endSec": 164.8,
+          "text": "pasta,"
+        },
+        {
+          "startSec": 164.8,
+          "endSec": 165,
+          "text": "so"
+        },
+        {
+          "startSec": 165,
+          "endSec": 165.3,
+          "text": "they"
+        },
+        {
+          "startSec": 165.3,
+          "endSec": 165.7,
+          "text": "came"
+        },
+        {
+          "startSec": 165.7,
+          "endSec": 165.8,
+          "text": "up"
+        },
+        {
+          "startSec": 165.8,
+          "endSec": 166.2,
+          "text": "with"
+        },
+        {
+          "startSec": 166.2,
+          "endSec": 166.2,
+          "text": "a"
+        },
+        {
+          "startSec": 166.2,
+          "endSec": 166.6,
+          "text": "story"
+        },
+        {
+          "startSec": 166.6,
+          "endSec": 167.1,
+          "text": "about"
+        },
+        {
+          "startSec": 167.1,
+          "endSec": 167.5,
+          "text": "Marco"
+        },
+        {
+          "startSec": 167.5,
+          "endSec": 167.8,
+          "text": "Polo"
+        },
+        {
+          "startSec": 167.8,
+          "endSec": 168,
+          "text": "to"
+        },
+        {
+          "startSec": 168,
+          "endSec": 168.4,
+          "text": "sell"
+        },
+        {
+          "startSec": 168.4,
+          "endSec": 168.6,
+          "text": "more"
+        },
+        {
+          "startSec": 168.6,
+          "endSec": 170,
+          "text": "pasta."
+        }
+      ]
+    },
+    {
+      "startSec": 168.6,
+      "endSec": 175,
+      "text": "pasta. If you come up with something, you suggest or think up an idea. And it worked.",
+      "words": [
+        {
+          "startSec": 168.6,
+          "endSec": 170,
+          "text": "pasta."
+        },
+        {
+          "startSec": 170,
+          "endSec": 170.1,
+          "text": "If"
+        },
+        {
+          "startSec": 170.1,
+          "endSec": 170.3,
+          "text": "you"
+        },
+        {
+          "startSec": 170.3,
+          "endSec": 170.5,
+          "text": "come"
+        },
+        {
+          "startSec": 170.5,
+          "endSec": 170.6,
+          "text": "up"
+        },
+        {
+          "startSec": 170.6,
+          "endSec": 170.8,
+          "text": "with"
+        },
+        {
+          "startSec": 170.8,
+          "endSec": 171.4,
+          "text": "something,"
+        },
+        {
+          "startSec": 171.4,
+          "endSec": 171.5,
+          "text": "you"
+        },
+        {
+          "startSec": 171.5,
+          "endSec": 171.9,
+          "text": "suggest"
+        },
+        {
+          "startSec": 171.9,
+          "endSec": 172.1,
+          "text": "or"
+        },
+        {
+          "startSec": 172.1,
+          "endSec": 172.5,
+          "text": "think"
+        },
+        {
+          "startSec": 172.5,
+          "endSec": 172.7,
+          "text": "up"
+        },
+        {
+          "startSec": 172.7,
+          "endSec": 173,
+          "text": "an"
+        },
+        {
+          "startSec": 173,
+          "endSec": 173.9,
+          "text": "idea."
+        },
+        {
+          "startSec": 173.9,
+          "endSec": 174.1,
+          "text": "And"
+        },
+        {
+          "startSec": 174.1,
+          "endSec": 174.3,
+          "text": "it"
+        },
+        {
+          "startSec": 174.3,
+          "endSec": 175,
+          "text": "worked."
+        },
+        {
+          "startSec": 175,
+          "endSec": 175.4,
+          "text": "Sales"
+        }
+      ]
+    },
+    {
+      "startSec": 175,
+      "endSec": 177.4,
+      "text": "Sales of pasta jumped as a result.",
+      "words": [
+        {
+          "startSec": 175,
+          "endSec": 175.4,
+          "text": "Sales"
+        },
+        {
+          "startSec": 175.4,
+          "endSec": 175.6,
+          "text": "of"
+        },
+        {
+          "startSec": 175.6,
+          "endSec": 175.9,
+          "text": "pasta"
+        },
+        {
+          "startSec": 175.9,
+          "endSec": 176.4,
+          "text": "jumped"
+        },
+        {
+          "startSec": 176.4,
+          "endSec": 176.5,
+          "text": "as"
+        },
+        {
+          "startSec": 176.5,
+          "endSec": 176.6,
+          "text": "a"
+        },
+        {
+          "startSec": 176.6,
+          "endSec": 177.4,
+          "text": "result."
+        },
+        {
+          "startSec": 177.4,
+          "endSec": 177.6,
+          "text": "Now"
+        }
+      ]
+    },
+    {
+      "startSec": 177.4,
+      "endSec": 183.8,
+      "text": "Now our second destination, Japan, also has a history of eating noodles. One of the most",
+      "words": [
+        {
+          "startSec": 177.4,
+          "endSec": 177.6,
+          "text": "Now"
+        },
+        {
+          "startSec": 177.6,
+          "endSec": 177.9,
+          "text": "our"
+        },
+        {
+          "startSec": 177.9,
+          "endSec": 178.4,
+          "text": "second"
+        },
+        {
+          "startSec": 178.4,
+          "endSec": 179.6,
+          "text": "destination,"
+        },
+        {
+          "startSec": 179.6,
+          "endSec": 180.2,
+          "text": "Japan,"
+        },
+        {
+          "startSec": 180.2,
+          "endSec": 180.5,
+          "text": "also"
+        },
+        {
+          "startSec": 180.5,
+          "endSec": 180.8,
+          "text": "has"
+        },
+        {
+          "startSec": 180.8,
+          "endSec": 180.9,
+          "text": "a"
+        },
+        {
+          "startSec": 180.9,
+          "endSec": 181.5,
+          "text": "history"
+        },
+        {
+          "startSec": 181.5,
+          "endSec": 181.7,
+          "text": "of"
+        },
+        {
+          "startSec": 181.7,
+          "endSec": 182.2,
+          "text": "eating"
+        },
+        {
+          "startSec": 182.2,
+          "endSec": 183.2,
+          "text": "noodles."
+        },
+        {
+          "startSec": 183.2,
+          "endSec": 183.3,
+          "text": "One"
+        },
+        {
+          "startSec": 183.3,
+          "endSec": 183.4,
+          "text": "of"
+        },
+        {
+          "startSec": 183.4,
+          "endSec": 183.5,
+          "text": "the"
+        },
+        {
+          "startSec": 183.5,
+          "endSec": 183.8,
+          "text": "most"
+        },
+        {
+          "startSec": 183.8,
+          "endSec": 184.3,
+          "text": "famous"
+        }
+      ]
+    },
+    {
+      "startSec": 183.8,
+      "endSec": 190.2,
+      "text": "famous Japanese noodle dishes is ramen, and Frank Strigel, a blogger living in Tokyo,",
+      "words": [
+        {
+          "startSec": 183.8,
+          "endSec": 184.3,
+          "text": "famous"
+        },
+        {
+          "startSec": 184.3,
+          "endSec": 185,
+          "text": "Japanese"
+        },
+        {
+          "startSec": 185,
+          "endSec": 185.5,
+          "text": "noodle"
+        },
+        {
+          "startSec": 185.5,
+          "endSec": 186,
+          "text": "dishes"
+        },
+        {
+          "startSec": 186,
+          "endSec": 186.2,
+          "text": "is"
+        },
+        {
+          "startSec": 186.2,
+          "endSec": 186.8,
+          "text": "ramen,"
+        },
+        {
+          "startSec": 186.8,
+          "endSec": 187,
+          "text": "and"
+        },
+        {
+          "startSec": 187,
+          "endSec": 187.5,
+          "text": "Frank"
+        },
+        {
+          "startSec": 187.5,
+          "endSec": 188.2,
+          "text": "Strigel,"
+        },
+        {
+          "startSec": 188.2,
+          "endSec": 188.3,
+          "text": "a"
+        },
+        {
+          "startSec": 188.3,
+          "endSec": 188.9,
+          "text": "blogger"
+        },
+        {
+          "startSec": 188.9,
+          "endSec": 189.4,
+          "text": "living"
+        },
+        {
+          "startSec": 189.4,
+          "endSec": 189.6,
+          "text": "in"
+        },
+        {
+          "startSec": 189.6,
+          "endSec": 190.2,
+          "text": "Tokyo,"
+        }
+      ]
+    },
+    {
+      "startSec": 190.2,
+      "endSec": 197.7,
+      "text": "knows all about it. He eats over 300 bowls of ramen a year. He explained to BBC World",
+      "words": [
+        {
+          "startSec": 190.3,
+          "endSec": 190.7,
+          "text": "knows"
+        },
+        {
+          "startSec": 190.7,
+          "endSec": 191,
+          "text": "all"
+        },
+        {
+          "startSec": 191,
+          "endSec": 191.5,
+          "text": "about"
+        },
+        {
+          "startSec": 191.5,
+          "endSec": 192,
+          "text": "it."
+        },
+        {
+          "startSec": 192,
+          "endSec": 192.2,
+          "text": "He"
+        },
+        {
+          "startSec": 192.2,
+          "endSec": 192.6,
+          "text": "eats"
+        },
+        {
+          "startSec": 192.6,
+          "endSec": 193,
+          "text": "over"
+        },
+        {
+          "startSec": 193,
+          "endSec": 193.9,
+          "text": "300"
+        },
+        {
+          "startSec": 193.9,
+          "endSec": 194.4,
+          "text": "bowls"
+        },
+        {
+          "startSec": 194.4,
+          "endSec": 194.6,
+          "text": "of"
+        },
+        {
+          "startSec": 194.6,
+          "endSec": 195.1,
+          "text": "ramen"
+        },
+        {
+          "startSec": 195.1,
+          "endSec": 195.2,
+          "text": "a"
+        },
+        {
+          "startSec": 195.2,
+          "endSec": 196,
+          "text": "year."
+        },
+        {
+          "startSec": 196,
+          "endSec": 196,
+          "text": "He"
+        },
+        {
+          "startSec": 196,
+          "endSec": 196.8,
+          "text": "explained"
+        },
+        {
+          "startSec": 196.8,
+          "endSec": 197,
+          "text": "to"
+        },
+        {
+          "startSec": 197,
+          "endSec": 197.2,
+          "text": "BBC"
+        },
+        {
+          "startSec": 197.2,
+          "endSec": 197.7,
+          "text": "World"
+        },
+        {
+          "startSec": 197.7,
+          "endSec": 198.3,
+          "text": "Services"
+        }
+      ]
+    },
+    {
+      "startSec": 197.7,
+      "endSec": 204.3,
+      "text": "Services the food chain how Chinese immigrants to Japan in the late 1800s influenced this",
+      "words": [
+        {
+          "startSec": 197.7,
+          "endSec": 198.3,
+          "text": "Services"
+        },
+        {
+          "startSec": 198.3,
+          "endSec": 198.5,
+          "text": "the"
+        },
+        {
+          "startSec": 198.5,
+          "endSec": 198.9,
+          "text": "food"
+        },
+        {
+          "startSec": 198.9,
+          "endSec": 199.2,
+          "text": "chain"
+        },
+        {
+          "startSec": 199.2,
+          "endSec": 199.5,
+          "text": "how"
+        },
+        {
+          "startSec": 199.5,
+          "endSec": 200,
+          "text": "Chinese"
+        },
+        {
+          "startSec": 200,
+          "endSec": 200.8,
+          "text": "immigrants"
+        },
+        {
+          "startSec": 200.8,
+          "endSec": 201,
+          "text": "to"
+        },
+        {
+          "startSec": 201,
+          "endSec": 201.4,
+          "text": "Japan"
+        },
+        {
+          "startSec": 201.4,
+          "endSec": 201.5,
+          "text": "in"
+        },
+        {
+          "startSec": 201.5,
+          "endSec": 201.7,
+          "text": "the"
+        },
+        {
+          "startSec": 201.7,
+          "endSec": 202,
+          "text": "late"
+        },
+        {
+          "startSec": 202,
+          "endSec": 203.1,
+          "text": "1800s"
+        },
+        {
+          "startSec": 203.1,
+          "endSec": 203.9,
+          "text": "influenced"
+        },
+        {
+          "startSec": 203.9,
+          "endSec": 204.3,
+          "text": "this"
+        },
+        {
+          "startSec": 204.3,
+          "endSec": 205.2,
+          "text": "Japanese"
+        }
+      ]
+    },
+    {
+      "startSec": 204.3,
+      "endSec": 206.1,
+      "text": "Japanese dish.",
+      "words": [
+        {
+          "startSec": 204.3,
+          "endSec": 205.2,
+          "text": "Japanese"
+        },
+        {
+          "startSec": 205.2,
+          "endSec": 206.1,
+          "text": "dish."
+        },
+        {
+          "startSec": 206.1,
+          "endSec": 206.3,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 206.1,
+      "endSec": 211.6,
+      "text": "And at one point or another, different chefs decided to localise these dishes. They said,",
+      "words": [
+        {
+          "startSec": 206.1,
+          "endSec": 206.3,
+          "text": "And"
+        },
+        {
+          "startSec": 206.3,
+          "endSec": 206.5,
+          "text": "at"
+        },
+        {
+          "startSec": 206.5,
+          "endSec": 206.7,
+          "text": "one"
+        },
+        {
+          "startSec": 206.7,
+          "endSec": 207,
+          "text": "point"
+        },
+        {
+          "startSec": 207,
+          "endSec": 207.2,
+          "text": "or"
+        },
+        {
+          "startSec": 207.2,
+          "endSec": 207.9,
+          "text": "another,"
+        },
+        {
+          "startSec": 207.9,
+          "endSec": 208.6,
+          "text": "different"
+        },
+        {
+          "startSec": 208.6,
+          "endSec": 208.9,
+          "text": "chefs"
+        },
+        {
+          "startSec": 208.9,
+          "endSec": 209.5,
+          "text": "decided"
+        },
+        {
+          "startSec": 209.5,
+          "endSec": 209.6,
+          "text": "to"
+        },
+        {
+          "startSec": 209.6,
+          "endSec": 210.2,
+          "text": "localise"
+        },
+        {
+          "startSec": 210.2,
+          "endSec": 210.6,
+          "text": "these"
+        },
+        {
+          "startSec": 210.6,
+          "endSec": 211.3,
+          "text": "dishes."
+        },
+        {
+          "startSec": 211.3,
+          "endSec": 211.4,
+          "text": "They"
+        },
+        {
+          "startSec": 211.4,
+          "endSec": 211.6,
+          "text": "said,"
+        },
+        {
+          "startSec": 211.6,
+          "endSec": 211.8,
+          "text": "\"We"
+        }
+      ]
+    },
+    {
+      "startSec": 211.6,
+      "endSec": 215.9,
+      "text": "\"We love these Chinese noodle dishes, however, why don't we tweak them? Why don't we make",
+      "words": [
+        {
+          "startSec": 211.6,
+          "endSec": 211.8,
+          "text": "\"We"
+        },
+        {
+          "startSec": 211.8,
+          "endSec": 212,
+          "text": "love"
+        },
+        {
+          "startSec": 212,
+          "endSec": 212.3,
+          "text": "these"
+        },
+        {
+          "startSec": 212.3,
+          "endSec": 212.7,
+          "text": "Chinese"
+        },
+        {
+          "startSec": 212.7,
+          "endSec": 213,
+          "text": "noodle"
+        },
+        {
+          "startSec": 213,
+          "endSec": 213.5,
+          "text": "dishes,"
+        },
+        {
+          "startSec": 213.5,
+          "endSec": 214,
+          "text": "however,"
+        },
+        {
+          "startSec": 214,
+          "endSec": 214.2,
+          "text": "why"
+        },
+        {
+          "startSec": 214.2,
+          "endSec": 214.5,
+          "text": "don't"
+        },
+        {
+          "startSec": 214.5,
+          "endSec": 214.6,
+          "text": "we"
+        },
+        {
+          "startSec": 214.6,
+          "endSec": 214.9,
+          "text": "tweak"
+        },
+        {
+          "startSec": 214.9,
+          "endSec": 215.4,
+          "text": "them?"
+        },
+        {
+          "startSec": 215.4,
+          "endSec": 215.5,
+          "text": "Why"
+        },
+        {
+          "startSec": 215.5,
+          "endSec": 215.7,
+          "text": "don't"
+        },
+        {
+          "startSec": 215.7,
+          "endSec": 215.7,
+          "text": "we"
+        },
+        {
+          "startSec": 215.7,
+          "endSec": 215.9,
+          "text": "make"
+        },
+        {
+          "startSec": 215.9,
+          "endSec": 216.2,
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "startSec": 215.9,
+      "endSec": 218,
+      "text": "them a little bit more Japanese?\"",
+      "words": [
+        {
+          "startSec": 215.9,
+          "endSec": 216.2,
+          "text": "them"
+        },
+        {
+          "startSec": 216.2,
+          "endSec": 216.2,
+          "text": "a"
+        },
+        {
+          "startSec": 216.2,
+          "endSec": 216.7,
+          "text": "little"
+        },
+        {
+          "startSec": 216.7,
+          "endSec": 216.9,
+          "text": "bit"
+        },
+        {
+          "startSec": 216.9,
+          "endSec": 217.2,
+          "text": "more"
+        },
+        {
+          "startSec": 217.2,
+          "endSec": 218,
+          "text": "Japanese?\""
+        }
+      ]
+    },
+    {
+      "startSec": 218,
+      "endSec": 223.4,
+      "text": "Frank says that at one point or another, chefs started to make noodle dishes more Japanese.",
+      "words": [
+        {
+          "startSec": 218.1,
+          "endSec": 218.4,
+          "text": "Frank"
+        },
+        {
+          "startSec": 218.4,
+          "endSec": 218.7,
+          "text": "says"
+        },
+        {
+          "startSec": 218.7,
+          "endSec": 218.9,
+          "text": "that"
+        },
+        {
+          "startSec": 218.9,
+          "endSec": 219.1,
+          "text": "at"
+        },
+        {
+          "startSec": 219.1,
+          "endSec": 219.3,
+          "text": "one"
+        },
+        {
+          "startSec": 219.3,
+          "endSec": 219.6,
+          "text": "point"
+        },
+        {
+          "startSec": 219.6,
+          "endSec": 219.7,
+          "text": "or"
+        },
+        {
+          "startSec": 219.7,
+          "endSec": 220.3,
+          "text": "another,"
+        },
+        {
+          "startSec": 220.3,
+          "endSec": 220.7,
+          "text": "chefs"
+        },
+        {
+          "startSec": 220.7,
+          "endSec": 221.1,
+          "text": "started"
+        },
+        {
+          "startSec": 221.1,
+          "endSec": 221.3,
+          "text": "to"
+        },
+        {
+          "startSec": 221.3,
+          "endSec": 221.5,
+          "text": "make"
+        },
+        {
+          "startSec": 221.5,
+          "endSec": 221.9,
+          "text": "noodle"
+        },
+        {
+          "startSec": 221.9,
+          "endSec": 222.3,
+          "text": "dishes"
+        },
+        {
+          "startSec": 222.3,
+          "endSec": 222.6,
+          "text": "more"
+        },
+        {
+          "startSec": 222.6,
+          "endSec": 223.4,
+          "text": "Japanese."
+        },
+        {
+          "startSec": 223.4,
+          "endSec": 223.9,
+          "text": "Here,"
+        }
+      ]
+    },
+    {
+      "startSec": 223.4,
+      "endSec": 229.8,
+      "text": "Here, the phrase \"at one point or another\" means \"at some unspecified time in the past\".",
+      "words": [
+        {
+          "startSec": 223.4,
+          "endSec": 223.9,
+          "text": "Here,"
+        },
+        {
+          "startSec": 223.9,
+          "endSec": 224.2,
+          "text": "the"
+        },
+        {
+          "startSec": 224.2,
+          "endSec": 224.7,
+          "text": "phrase"
+        },
+        {
+          "startSec": 224.7,
+          "endSec": 224.9,
+          "text": "\"at"
+        },
+        {
+          "startSec": 224.9,
+          "endSec": 225.2,
+          "text": "one"
+        },
+        {
+          "startSec": 225.2,
+          "endSec": 225.6,
+          "text": "point"
+        },
+        {
+          "startSec": 225.6,
+          "endSec": 225.8,
+          "text": "or"
+        },
+        {
+          "startSec": 225.8,
+          "endSec": 226.4,
+          "text": "another\""
+        },
+        {
+          "startSec": 226.4,
+          "endSec": 226.8,
+          "text": "means"
+        },
+        {
+          "startSec": 226.8,
+          "endSec": 227.1,
+          "text": "\"at"
+        },
+        {
+          "startSec": 227.1,
+          "endSec": 227.4,
+          "text": "some"
+        },
+        {
+          "startSec": 227.4,
+          "endSec": 228.3,
+          "text": "unspecified"
+        },
+        {
+          "startSec": 228.3,
+          "endSec": 228.7,
+          "text": "time"
+        },
+        {
+          "startSec": 228.7,
+          "endSec": 228.8,
+          "text": "in"
+        },
+        {
+          "startSec": 228.8,
+          "endSec": 229.1,
+          "text": "the"
+        },
+        {
+          "startSec": 229.1,
+          "endSec": 229.8,
+          "text": "past\"."
+        },
+        {
+          "startSec": 229.8,
+          "endSec": 230.1,
+          "text": "They"
+        }
+      ]
+    },
+    {
+      "startSec": 229.8,
+      "endSec": 234.9,
+      "text": "They did this by tweaking Chinese noodles, in other words, by changing them slightly",
+      "words": [
+        {
+          "startSec": 229.8,
+          "endSec": 230.1,
+          "text": "They"
+        },
+        {
+          "startSec": 230.1,
+          "endSec": 230.3,
+          "text": "did"
+        },
+        {
+          "startSec": 230.3,
+          "endSec": 230.6,
+          "text": "this"
+        },
+        {
+          "startSec": 230.6,
+          "endSec": 230.7,
+          "text": "by"
+        },
+        {
+          "startSec": 230.7,
+          "endSec": 231.3,
+          "text": "tweaking"
+        },
+        {
+          "startSec": 231.3,
+          "endSec": 231.7,
+          "text": "Chinese"
+        },
+        {
+          "startSec": 231.7,
+          "endSec": 232.4,
+          "text": "noodles,"
+        },
+        {
+          "startSec": 232.4,
+          "endSec": 232.5,
+          "text": "in"
+        },
+        {
+          "startSec": 232.5,
+          "endSec": 232.8,
+          "text": "other"
+        },
+        {
+          "startSec": 232.8,
+          "endSec": 233.3,
+          "text": "words,"
+        },
+        {
+          "startSec": 233.3,
+          "endSec": 233.4,
+          "text": "by"
+        },
+        {
+          "startSec": 233.4,
+          "endSec": 234,
+          "text": "changing"
+        },
+        {
+          "startSec": 234,
+          "endSec": 234.2,
+          "text": "them"
+        },
+        {
+          "startSec": 234.2,
+          "endSec": 234.9,
+          "text": "slightly"
+        },
+        {
+          "startSec": 234.9,
+          "endSec": 235.1,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 234.9,
+      "endSec": 239.7,
+      "text": "to make them better. Different, or in this case, more Japanese.",
+      "words": [
+        {
+          "startSec": 234.9,
+          "endSec": 235.1,
+          "text": "to"
+        },
+        {
+          "startSec": 235.1,
+          "endSec": 235.4,
+          "text": "make"
+        },
+        {
+          "startSec": 235.4,
+          "endSec": 235.7,
+          "text": "them"
+        },
+        {
+          "startSec": 235.7,
+          "endSec": 236.4,
+          "text": "better."
+        },
+        {
+          "startSec": 236.4,
+          "endSec": 237.3,
+          "text": "Different,"
+        },
+        {
+          "startSec": 237.3,
+          "endSec": 237.5,
+          "text": "or"
+        },
+        {
+          "startSec": 237.5,
+          "endSec": 237.6,
+          "text": "in"
+        },
+        {
+          "startSec": 237.6,
+          "endSec": 238,
+          "text": "this"
+        },
+        {
+          "startSec": 238,
+          "endSec": 238.4,
+          "text": "case,"
+        },
+        {
+          "startSec": 238.4,
+          "endSec": 238.8,
+          "text": "more"
+        },
+        {
+          "startSec": 238.8,
+          "endSec": 239.7,
+          "text": "Japanese."
+        },
+        {
+          "startSec": 239.7,
+          "endSec": 239.8,
+          "text": "By"
+        }
+      ]
+    },
+    {
+      "startSec": 239.7,
+      "endSec": 244.4,
+      "text": "By making these tweaks, adding new toppings and slices of beef or chicken, Japanese chefs",
+      "words": [
+        {
+          "startSec": 239.7,
+          "endSec": 239.8,
+          "text": "By"
+        },
+        {
+          "startSec": 239.8,
+          "endSec": 240.2,
+          "text": "making"
+        },
+        {
+          "startSec": 240.2,
+          "endSec": 240.5,
+          "text": "these"
+        },
+        {
+          "startSec": 240.5,
+          "endSec": 241,
+          "text": "tweaks,"
+        },
+        {
+          "startSec": 241,
+          "endSec": 241.3,
+          "text": "adding"
+        },
+        {
+          "startSec": 241.3,
+          "endSec": 241.5,
+          "text": "new"
+        },
+        {
+          "startSec": 241.5,
+          "endSec": 242,
+          "text": "toppings"
+        },
+        {
+          "startSec": 242,
+          "endSec": 242.2,
+          "text": "and"
+        },
+        {
+          "startSec": 242.2,
+          "endSec": 242.5,
+          "text": "slices"
+        },
+        {
+          "startSec": 242.5,
+          "endSec": 242.7,
+          "text": "of"
+        },
+        {
+          "startSec": 242.7,
+          "endSec": 242.9,
+          "text": "beef"
+        },
+        {
+          "startSec": 242.9,
+          "endSec": 243,
+          "text": "or"
+        },
+        {
+          "startSec": 243,
+          "endSec": 243.6,
+          "text": "chicken,"
+        },
+        {
+          "startSec": 243.6,
+          "endSec": 244.1,
+          "text": "Japanese"
+        },
+        {
+          "startSec": 244.1,
+          "endSec": 244.4,
+          "text": "chefs"
+        }
+      ]
+    },
+    {
+      "startSec": 244.4,
+      "endSec": 249.9,
+      "text": "created the noodle dish we know today as ramen. Here's Frank Strigel again talking with BBC",
+      "words": [
+        {
+          "startSec": 244.5,
+          "endSec": 245,
+          "text": "created"
+        },
+        {
+          "startSec": 245,
+          "endSec": 245.3,
+          "text": "the"
+        },
+        {
+          "startSec": 245.3,
+          "endSec": 245.8,
+          "text": "noodle"
+        },
+        {
+          "startSec": 245.8,
+          "endSec": 246.1,
+          "text": "dish"
+        },
+        {
+          "startSec": 246.1,
+          "endSec": 246.2,
+          "text": "we"
+        },
+        {
+          "startSec": 246.2,
+          "endSec": 246.6,
+          "text": "know"
+        },
+        {
+          "startSec": 246.6,
+          "endSec": 247,
+          "text": "today"
+        },
+        {
+          "startSec": 247,
+          "endSec": 247.1,
+          "text": "as"
+        },
+        {
+          "startSec": 247.1,
+          "endSec": 247.8,
+          "text": "ramen."
+        },
+        {
+          "startSec": 247.8,
+          "endSec": 248.1,
+          "text": "Here's"
+        },
+        {
+          "startSec": 248.1,
+          "endSec": 248.4,
+          "text": "Frank"
+        },
+        {
+          "startSec": 248.4,
+          "endSec": 248.7,
+          "text": "Strigel"
+        },
+        {
+          "startSec": 248.7,
+          "endSec": 248.9,
+          "text": "again"
+        },
+        {
+          "startSec": 248.9,
+          "endSec": 249.3,
+          "text": "talking"
+        },
+        {
+          "startSec": 249.3,
+          "endSec": 249.5,
+          "text": "with"
+        },
+        {
+          "startSec": 249.5,
+          "endSec": 249.9,
+          "text": "BBC"
+        },
+        {
+          "startSec": 249.9,
+          "endSec": 250.4,
+          "text": "World"
+        }
+      ]
+    },
+    {
+      "startSec": 249.9,
+      "endSec": 252.4,
+      "text": "World Services the food chain.",
+      "words": [
+        {
+          "startSec": 249.9,
+          "endSec": 250.4,
+          "text": "World"
+        },
+        {
+          "startSec": 250.4,
+          "endSec": 251.1,
+          "text": "Services"
+        },
+        {
+          "startSec": 251.1,
+          "endSec": 251.4,
+          "text": "the"
+        },
+        {
+          "startSec": 251.4,
+          "endSec": 251.8,
+          "text": "food"
+        },
+        {
+          "startSec": 251.8,
+          "endSec": 252.4,
+          "text": "chain."
+        },
+        {
+          "startSec": 252.4,
+          "endSec": 252.6,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 252.4,
+      "endSec": 257.2,
+      "text": "And what I find fascinating about ramen compared to perhaps other wonderful noodle dishes around",
+      "words": [
+        {
+          "startSec": 252.4,
+          "endSec": 252.6,
+          "text": "And"
+        },
+        {
+          "startSec": 252.6,
+          "endSec": 252.8,
+          "text": "what"
+        },
+        {
+          "startSec": 252.8,
+          "endSec": 252.9,
+          "text": "I"
+        },
+        {
+          "startSec": 252.9,
+          "endSec": 253.1,
+          "text": "find"
+        },
+        {
+          "startSec": 253.1,
+          "endSec": 253.8,
+          "text": "fascinating"
+        },
+        {
+          "startSec": 253.8,
+          "endSec": 254.1,
+          "text": "about"
+        },
+        {
+          "startSec": 254.1,
+          "endSec": 254.3,
+          "text": "ramen"
+        },
+        {
+          "startSec": 254.3,
+          "endSec": 254.8,
+          "text": "compared"
+        },
+        {
+          "startSec": 254.8,
+          "endSec": 254.9,
+          "text": "to"
+        },
+        {
+          "startSec": 254.9,
+          "endSec": 255.3,
+          "text": "perhaps"
+        },
+        {
+          "startSec": 255.3,
+          "endSec": 255.6,
+          "text": "other"
+        },
+        {
+          "startSec": 255.6,
+          "endSec": 256.1,
+          "text": "wonderful"
+        },
+        {
+          "startSec": 256.1,
+          "endSec": 256.5,
+          "text": "noodle"
+        },
+        {
+          "startSec": 256.5,
+          "endSec": 256.9,
+          "text": "dishes"
+        },
+        {
+          "startSec": 256.9,
+          "endSec": 257.2,
+          "text": "around"
+        },
+        {
+          "startSec": 257.2,
+          "endSec": 257.4,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 257.2,
+      "endSec": 262.7,
+      "text": "the world is that ramen continues to evolve. Unlike other Japanese foods, it's okay to",
+      "words": [
+        {
+          "startSec": 257.2,
+          "endSec": 257.4,
+          "text": "the"
+        },
+        {
+          "startSec": 257.4,
+          "endSec": 257.8,
+          "text": "world"
+        },
+        {
+          "startSec": 257.8,
+          "endSec": 257.9,
+          "text": "is"
+        },
+        {
+          "startSec": 257.9,
+          "endSec": 258.2,
+          "text": "that"
+        },
+        {
+          "startSec": 258.2,
+          "endSec": 258.6,
+          "text": "ramen"
+        },
+        {
+          "startSec": 258.6,
+          "endSec": 259.3,
+          "text": "continues"
+        },
+        {
+          "startSec": 259.3,
+          "endSec": 259.5,
+          "text": "to"
+        },
+        {
+          "startSec": 259.5,
+          "endSec": 260.2,
+          "text": "evolve."
+        },
+        {
+          "startSec": 260.2,
+          "endSec": 260.6,
+          "text": "Unlike"
+        },
+        {
+          "startSec": 260.6,
+          "endSec": 261,
+          "text": "other"
+        },
+        {
+          "startSec": 261,
+          "endSec": 261.5,
+          "text": "Japanese"
+        },
+        {
+          "startSec": 261.5,
+          "endSec": 262,
+          "text": "foods,"
+        },
+        {
+          "startSec": 262,
+          "endSec": 262.2,
+          "text": "it's"
+        },
+        {
+          "startSec": 262.2,
+          "endSec": 262.6,
+          "text": "okay"
+        },
+        {
+          "startSec": 262.6,
+          "endSec": 262.7,
+          "text": "to"
+        },
+        {
+          "startSec": 262.7,
+          "endSec": 263,
+          "text": "push"
+        }
+      ]
+    },
+    {
+      "startSec": 262.7,
+      "endSec": 264.2,
+      "text": "push the boundaries.",
+      "words": [
+        {
+          "startSec": 262.7,
+          "endSec": 263,
+          "text": "push"
+        },
+        {
+          "startSec": 263,
+          "endSec": 263.2,
+          "text": "the"
+        },
+        {
+          "startSec": 263.2,
+          "endSec": 264.2,
+          "text": "boundaries."
+        },
+        {
+          "startSec": 264.2,
+          "endSec": 264.6,
+          "text": "Frank"
+        }
+      ]
+    },
+    {
+      "startSec": 264.2,
+      "endSec": 269.8,
+      "text": "Frank thinks that Japanese ramen continues to evolve, to develop and change gradually",
+      "words": [
+        {
+          "startSec": 264.2,
+          "endSec": 264.6,
+          "text": "Frank"
+        },
+        {
+          "startSec": 264.6,
+          "endSec": 265.1,
+          "text": "thinks"
+        },
+        {
+          "startSec": 265.1,
+          "endSec": 265.3,
+          "text": "that"
+        },
+        {
+          "startSec": 265.3,
+          "endSec": 265.9,
+          "text": "Japanese"
+        },
+        {
+          "startSec": 265.9,
+          "endSec": 266.3,
+          "text": "ramen"
+        },
+        {
+          "startSec": 266.3,
+          "endSec": 267,
+          "text": "continues"
+        },
+        {
+          "startSec": 267,
+          "endSec": 267.1,
+          "text": "to"
+        },
+        {
+          "startSec": 267.1,
+          "endSec": 267.7,
+          "text": "evolve,"
+        },
+        {
+          "startSec": 267.7,
+          "endSec": 267.8,
+          "text": "to"
+        },
+        {
+          "startSec": 267.8,
+          "endSec": 268.3,
+          "text": "develop"
+        },
+        {
+          "startSec": 268.3,
+          "endSec": 268.6,
+          "text": "and"
+        },
+        {
+          "startSec": 268.6,
+          "endSec": 269,
+          "text": "change"
+        },
+        {
+          "startSec": 269,
+          "endSec": 269.8,
+          "text": "gradually"
+        },
+        {
+          "startSec": 269.8,
+          "endSec": 269.9,
+          "text": "in"
+        }
+      ]
+    },
+    {
+      "startSec": 269.8,
+      "endSec": 276,
+      "text": "in response to new developments and ideas. Unlike other traditional foods such as sushi,",
+      "words": [
+        {
+          "startSec": 269.8,
+          "endSec": 269.9,
+          "text": "in"
+        },
+        {
+          "startSec": 269.9,
+          "endSec": 270.5,
+          "text": "response"
+        },
+        {
+          "startSec": 270.5,
+          "endSec": 270.7,
+          "text": "to"
+        },
+        {
+          "startSec": 270.7,
+          "endSec": 270.9,
+          "text": "new"
+        },
+        {
+          "startSec": 270.9,
+          "endSec": 271.9,
+          "text": "developments"
+        },
+        {
+          "startSec": 271.9,
+          "endSec": 272.1,
+          "text": "and"
+        },
+        {
+          "startSec": 272.1,
+          "endSec": 272.7,
+          "text": "ideas."
+        },
+        {
+          "startSec": 272.7,
+          "endSec": 273.2,
+          "text": "Unlike"
+        },
+        {
+          "startSec": 273.2,
+          "endSec": 273.6,
+          "text": "other"
+        },
+        {
+          "startSec": 273.6,
+          "endSec": 274.4,
+          "text": "traditional"
+        },
+        {
+          "startSec": 274.4,
+          "endSec": 274.8,
+          "text": "foods"
+        },
+        {
+          "startSec": 274.8,
+          "endSec": 275.1,
+          "text": "such"
+        },
+        {
+          "startSec": 275.1,
+          "endSec": 275.3,
+          "text": "as"
+        },
+        {
+          "startSec": 275.3,
+          "endSec": 276,
+          "text": "sushi,"
+        },
+        {
+          "startSec": 276,
+          "endSec": 276.5,
+          "text": "modern"
+        }
+      ]
+    },
+    {
+      "startSec": 276,
+      "endSec": 281.2,
+      "text": "modern versions of ramen push the boundaries. If you push the boundaries, you act in a way",
+      "words": [
+        {
+          "startSec": 276,
+          "endSec": 276.5,
+          "text": "modern"
+        },
+        {
+          "startSec": 276.5,
+          "endSec": 277.1,
+          "text": "versions"
+        },
+        {
+          "startSec": 277.1,
+          "endSec": 277.2,
+          "text": "of"
+        },
+        {
+          "startSec": 277.2,
+          "endSec": 277.6,
+          "text": "ramen"
+        },
+        {
+          "startSec": 277.6,
+          "endSec": 277.9,
+          "text": "push"
+        },
+        {
+          "startSec": 277.9,
+          "endSec": 278.1,
+          "text": "the"
+        },
+        {
+          "startSec": 278.1,
+          "endSec": 279.1,
+          "text": "boundaries."
+        },
+        {
+          "startSec": 279.1,
+          "endSec": 279.2,
+          "text": "If"
+        },
+        {
+          "startSec": 279.2,
+          "endSec": 279.4,
+          "text": "you"
+        },
+        {
+          "startSec": 279.4,
+          "endSec": 279.6,
+          "text": "push"
+        },
+        {
+          "startSec": 279.6,
+          "endSec": 279.8,
+          "text": "the"
+        },
+        {
+          "startSec": 279.8,
+          "endSec": 280.5,
+          "text": "boundaries,"
+        },
+        {
+          "startSec": 280.5,
+          "endSec": 280.7,
+          "text": "you"
+        },
+        {
+          "startSec": 280.7,
+          "endSec": 280.9,
+          "text": "act"
+        },
+        {
+          "startSec": 280.9,
+          "endSec": 281,
+          "text": "in"
+        },
+        {
+          "startSec": 281,
+          "endSec": 281.1,
+          "text": "a"
+        },
+        {
+          "startSec": 281.1,
+          "endSec": 281.2,
+          "text": "way"
+        },
+        {
+          "startSec": 281.2,
+          "endSec": 281.6,
+          "text": "which"
+        }
+      ]
+    },
+    {
+      "startSec": 281.2,
+      "endSec": 284.5,
+      "text": "which challenges normal, acceptable behaviour.",
+      "words": [
+        {
+          "startSec": 281.2,
+          "endSec": 281.6,
+          "text": "which"
+        },
+        {
+          "startSec": 281.6,
+          "endSec": 282.3,
+          "text": "challenges"
+        },
+        {
+          "startSec": 282.3,
+          "endSec": 282.9,
+          "text": "normal,"
+        },
+        {
+          "startSec": 282.9,
+          "endSec": 283.6,
+          "text": "acceptable"
+        },
+        {
+          "startSec": 283.6,
+          "endSec": 284.5,
+          "text": "behaviour."
+        },
+        {
+          "startSec": 284.5,
+          "endSec": 284.8,
+          "text": "Yes,"
+        }
+      ]
+    },
+    {
+      "startSec": 284.5,
+      "endSec": 289.4,
+      "text": "Yes, noodles have changed so much since ancient times that today you can buy them dried in",
+      "words": [
+        {
+          "startSec": 284.5,
+          "endSec": 284.8,
+          "text": "Yes,"
+        },
+        {
+          "startSec": 284.8,
+          "endSec": 285.3,
+          "text": "noodles"
+        },
+        {
+          "startSec": 285.3,
+          "endSec": 285.5,
+          "text": "have"
+        },
+        {
+          "startSec": 285.5,
+          "endSec": 286,
+          "text": "changed"
+        },
+        {
+          "startSec": 286,
+          "endSec": 286.1,
+          "text": "so"
+        },
+        {
+          "startSec": 286.1,
+          "endSec": 286.4,
+          "text": "much"
+        },
+        {
+          "startSec": 286.4,
+          "endSec": 286.7,
+          "text": "since"
+        },
+        {
+          "startSec": 286.7,
+          "endSec": 287.1,
+          "text": "ancient"
+        },
+        {
+          "startSec": 287.1,
+          "endSec": 287.4,
+          "text": "times"
+        },
+        {
+          "startSec": 287.4,
+          "endSec": 287.7,
+          "text": "that"
+        },
+        {
+          "startSec": 287.7,
+          "endSec": 288,
+          "text": "today"
+        },
+        {
+          "startSec": 288,
+          "endSec": 288.2,
+          "text": "you"
+        },
+        {
+          "startSec": 288.2,
+          "endSec": 288.4,
+          "text": "can"
+        },
+        {
+          "startSec": 288.4,
+          "endSec": 288.6,
+          "text": "buy"
+        },
+        {
+          "startSec": 288.6,
+          "endSec": 288.9,
+          "text": "them"
+        },
+        {
+          "startSec": 288.9,
+          "endSec": 289.3,
+          "text": "dried"
+        },
+        {
+          "startSec": 289.3,
+          "endSec": 289.4,
+          "text": "in"
+        },
+        {
+          "startSec": 289.4,
+          "endSec": 289.5,
+          "text": "a"
+        }
+      ]
+    },
+    {
+      "startSec": 289.4,
+      "endSec": 294.6,
+      "text": "a packet and simply add hot water. But the flavours and the noodles themselves maintain",
+      "words": [
+        {
+          "startSec": 289.4,
+          "endSec": 289.5,
+          "text": "a"
+        },
+        {
+          "startSec": 289.5,
+          "endSec": 290.1,
+          "text": "packet"
+        },
+        {
+          "startSec": 290.1,
+          "endSec": 290.4,
+          "text": "and"
+        },
+        {
+          "startSec": 290.4,
+          "endSec": 290.9,
+          "text": "simply"
+        },
+        {
+          "startSec": 290.9,
+          "endSec": 291.2,
+          "text": "add"
+        },
+        {
+          "startSec": 291.2,
+          "endSec": 291.5,
+          "text": "hot"
+        },
+        {
+          "startSec": 291.5,
+          "endSec": 292.4,
+          "text": "water."
+        },
+        {
+          "startSec": 292.4,
+          "endSec": 292.5,
+          "text": "But"
+        },
+        {
+          "startSec": 292.5,
+          "endSec": 292.6,
+          "text": "the"
+        },
+        {
+          "startSec": 292.6,
+          "endSec": 293,
+          "text": "flavours"
+        },
+        {
+          "startSec": 293,
+          "endSec": 293.2,
+          "text": "and"
+        },
+        {
+          "startSec": 293.2,
+          "endSec": 293.3,
+          "text": "the"
+        },
+        {
+          "startSec": 293.3,
+          "endSec": 293.7,
+          "text": "noodles"
+        },
+        {
+          "startSec": 293.7,
+          "endSec": 294.2,
+          "text": "themselves"
+        },
+        {
+          "startSec": 294.2,
+          "endSec": 294.6,
+          "text": "maintain"
+        },
+        {
+          "startSec": 294.6,
+          "endSec": 294.7,
+          "text": "a"
+        }
+      ]
+    },
+    {
+      "startSec": 294.6,
+      "endSec": 296.3,
+      "text": "a link to the past.",
+      "words": [
+        {
+          "startSec": 294.6,
+          "endSec": 294.7,
+          "text": "a"
+        },
+        {
+          "startSec": 294.7,
+          "endSec": 295.1,
+          "text": "link"
+        },
+        {
+          "startSec": 295.1,
+          "endSec": 295.3,
+          "text": "to"
+        },
+        {
+          "startSec": 295.3,
+          "endSec": 295.6,
+          "text": "the"
+        },
+        {
+          "startSec": 295.6,
+          "endSec": 296.3,
+          "text": "past."
+        }
+      ]
+    },
+    {
+      "startSec": 296.3,
+      "endSec": 299.9,
+      "text": "Now speaking of flavours, what was the answer to your question, Beth?",
+      "words": [
+        {
+          "startSec": 296.4,
+          "endSec": 296.5,
+          "text": "Now"
+        },
+        {
+          "startSec": 296.5,
+          "endSec": 297,
+          "text": "speaking"
+        },
+        {
+          "startSec": 297,
+          "endSec": 297.1,
+          "text": "of"
+        },
+        {
+          "startSec": 297.1,
+          "endSec": 297.6,
+          "text": "flavours,"
+        },
+        {
+          "startSec": 297.6,
+          "endSec": 297.9,
+          "text": "what"
+        },
+        {
+          "startSec": 297.9,
+          "endSec": 298,
+          "text": "was"
+        },
+        {
+          "startSec": 298,
+          "endSec": 298.2,
+          "text": "the"
+        },
+        {
+          "startSec": 298.2,
+          "endSec": 298.5,
+          "text": "answer"
+        },
+        {
+          "startSec": 298.5,
+          "endSec": 298.7,
+          "text": "to"
+        },
+        {
+          "startSec": 298.7,
+          "endSec": 298.9,
+          "text": "your"
+        },
+        {
+          "startSec": 298.9,
+          "endSec": 299.5,
+          "text": "question,"
+        },
+        {
+          "startSec": 299.5,
+          "endSec": 299.9,
+          "text": "Beth?"
+        },
+        {
+          "startSec": 299.9,
+          "endSec": 300.4,
+          "text": "Well,"
+        }
+      ]
+    },
+    {
+      "startSec": 299.9,
+      "endSec": 305.9,
+      "text": "Well, I asked you which region of China is famous for its spicy flavours. You were very",
+      "words": [
+        {
+          "startSec": 299.9,
+          "endSec": 300.4,
+          "text": "Well,"
+        },
+        {
+          "startSec": 300.4,
+          "endSec": 300.5,
+          "text": "I"
+        },
+        {
+          "startSec": 300.5,
+          "endSec": 301,
+          "text": "asked"
+        },
+        {
+          "startSec": 301,
+          "endSec": 301.2,
+          "text": "you"
+        },
+        {
+          "startSec": 301.2,
+          "endSec": 301.7,
+          "text": "which"
+        },
+        {
+          "startSec": 301.7,
+          "endSec": 302.2,
+          "text": "region"
+        },
+        {
+          "startSec": 302.2,
+          "endSec": 302.4,
+          "text": "of"
+        },
+        {
+          "startSec": 302.4,
+          "endSec": 302.8,
+          "text": "China"
+        },
+        {
+          "startSec": 302.8,
+          "endSec": 303,
+          "text": "is"
+        },
+        {
+          "startSec": 303,
+          "endSec": 303.5,
+          "text": "famous"
+        },
+        {
+          "startSec": 303.5,
+          "endSec": 303.7,
+          "text": "for"
+        },
+        {
+          "startSec": 303.7,
+          "endSec": 304,
+          "text": "its"
+        },
+        {
+          "startSec": 304,
+          "endSec": 304.4,
+          "text": "spicy"
+        },
+        {
+          "startSec": 304.4,
+          "endSec": 305.5,
+          "text": "flavours."
+        },
+        {
+          "startSec": 305.5,
+          "endSec": 305.6,
+          "text": "You"
+        },
+        {
+          "startSec": 305.6,
+          "endSec": 305.7,
+          "text": "were"
+        },
+        {
+          "startSec": 305.7,
+          "endSec": 305.9,
+          "text": "very"
+        },
+        {
+          "startSec": 305.9,
+          "endSec": 306.7,
+          "text": "confident"
+        }
+      ]
+    },
+    {
+      "startSec": 305.9,
+      "endSec": 312,
+      "text": "confident with saying Sichuan, and that is the correct answer. Sichuan is a place that",
+      "words": [
+        {
+          "startSec": 305.9,
+          "endSec": 306.7,
+          "text": "confident"
+        },
+        {
+          "startSec": 306.7,
+          "endSec": 307,
+          "text": "with"
+        },
+        {
+          "startSec": 307,
+          "endSec": 307.5,
+          "text": "saying"
+        },
+        {
+          "startSec": 307.5,
+          "endSec": 308.2,
+          "text": "Sichuan,"
+        },
+        {
+          "startSec": 308.2,
+          "endSec": 308.5,
+          "text": "and"
+        },
+        {
+          "startSec": 308.5,
+          "endSec": 308.8,
+          "text": "that"
+        },
+        {
+          "startSec": 308.8,
+          "endSec": 309,
+          "text": "is"
+        },
+        {
+          "startSec": 309,
+          "endSec": 309.2,
+          "text": "the"
+        },
+        {
+          "startSec": 309.2,
+          "endSec": 309.8,
+          "text": "correct"
+        },
+        {
+          "startSec": 309.8,
+          "endSec": 310.6,
+          "text": "answer."
+        },
+        {
+          "startSec": 310.6,
+          "endSec": 311.1,
+          "text": "Sichuan"
+        },
+        {
+          "startSec": 311.1,
+          "endSec": 311.3,
+          "text": "is"
+        },
+        {
+          "startSec": 311.3,
+          "endSec": 311.3,
+          "text": "a"
+        },
+        {
+          "startSec": 311.3,
+          "endSec": 311.7,
+          "text": "place"
+        },
+        {
+          "startSec": 311.7,
+          "endSec": 312,
+          "text": "that"
+        },
+        {
+          "startSec": 312,
+          "endSec": 312.2,
+          "text": "is"
+        }
+      ]
+    },
+    {
+      "startSec": 312,
+      "endSec": 318.5,
+      "text": "is famous for spicy food such as the Sichuan pepper and Sichuan hot pot. Okay, it's time",
+      "words": [
+        {
+          "startSec": 312,
+          "endSec": 312.2,
+          "text": "is"
+        },
+        {
+          "startSec": 312.2,
+          "endSec": 312.7,
+          "text": "famous"
+        },
+        {
+          "startSec": 312.7,
+          "endSec": 313,
+          "text": "for"
+        },
+        {
+          "startSec": 313,
+          "endSec": 313.4,
+          "text": "spicy"
+        },
+        {
+          "startSec": 313.4,
+          "endSec": 313.7,
+          "text": "food"
+        },
+        {
+          "startSec": 313.7,
+          "endSec": 314.1,
+          "text": "such"
+        },
+        {
+          "startSec": 314.1,
+          "endSec": 314.3,
+          "text": "as"
+        },
+        {
+          "startSec": 314.3,
+          "endSec": 314.5,
+          "text": "the"
+        },
+        {
+          "startSec": 314.5,
+          "endSec": 315.1,
+          "text": "Sichuan"
+        },
+        {
+          "startSec": 315.1,
+          "endSec": 315.6,
+          "text": "pepper"
+        },
+        {
+          "startSec": 315.6,
+          "endSec": 315.9,
+          "text": "and"
+        },
+        {
+          "startSec": 315.9,
+          "endSec": 316.5,
+          "text": "Sichuan"
+        },
+        {
+          "startSec": 316.5,
+          "endSec": 316.8,
+          "text": "hot"
+        },
+        {
+          "startSec": 316.8,
+          "endSec": 317.4,
+          "text": "pot."
+        },
+        {
+          "startSec": 317.4,
+          "endSec": 317.9,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 317.9,
+          "endSec": 318.3,
+          "text": "it's"
+        },
+        {
+          "startSec": 318.3,
+          "endSec": 318.5,
+          "text": "time"
+        },
+        {
+          "startSec": 318.5,
+          "endSec": 318.7,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 318.5,
+      "endSec": 324,
+      "text": "to recap the vocabulary we've learnt. If you give something a twist, you change it in",
+      "words": [
+        {
+          "startSec": 318.5,
+          "endSec": 318.7,
+          "text": "to"
+        },
+        {
+          "startSec": 318.7,
+          "endSec": 319.1,
+          "text": "recap"
+        },
+        {
+          "startSec": 319.1,
+          "endSec": 319.3,
+          "text": "the"
+        },
+        {
+          "startSec": 319.3,
+          "endSec": 320,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 320,
+          "endSec": 320.4,
+          "text": "we've"
+        },
+        {
+          "startSec": 320.4,
+          "endSec": 321.1,
+          "text": "learnt."
+        },
+        {
+          "startSec": 321.1,
+          "endSec": 321.3,
+          "text": "If"
+        },
+        {
+          "startSec": 321.3,
+          "endSec": 321.5,
+          "text": "you"
+        },
+        {
+          "startSec": 321.5,
+          "endSec": 321.8,
+          "text": "give"
+        },
+        {
+          "startSec": 321.8,
+          "endSec": 322.5,
+          "text": "something"
+        },
+        {
+          "startSec": 322.5,
+          "endSec": 322.5,
+          "text": "a"
+        },
+        {
+          "startSec": 322.5,
+          "endSec": 323.1,
+          "text": "twist,"
+        },
+        {
+          "startSec": 323.1,
+          "endSec": 323.3,
+          "text": "you"
+        },
+        {
+          "startSec": 323.3,
+          "endSec": 323.8,
+          "text": "change"
+        },
+        {
+          "startSec": 323.8,
+          "endSec": 323.9,
+          "text": "it"
+        },
+        {
+          "startSec": 323.9,
+          "endSec": 324,
+          "text": "in"
+        }
+      ]
+    },
+    {
+      "startSec": 324,
+      "endSec": 327.9,
+      "text": "some small way to create something new and exciting.",
+      "words": [
+        {
+          "startSec": 324.1,
+          "endSec": 324.4,
+          "text": "some"
+        },
+        {
+          "startSec": 324.4,
+          "endSec": 324.8,
+          "text": "small"
+        },
+        {
+          "startSec": 324.8,
+          "endSec": 325,
+          "text": "way"
+        },
+        {
+          "startSec": 325,
+          "endSec": 325.2,
+          "text": "to"
+        },
+        {
+          "startSec": 325.2,
+          "endSec": 325.7,
+          "text": "create"
+        },
+        {
+          "startSec": 325.7,
+          "endSec": 326.5,
+          "text": "something"
+        },
+        {
+          "startSec": 326.5,
+          "endSec": 326.7,
+          "text": "new"
+        },
+        {
+          "startSec": 326.7,
+          "endSec": 327,
+          "text": "and"
+        },
+        {
+          "startSec": 327,
+          "endSec": 327.9,
+          "text": "exciting."
+        },
+        {
+          "startSec": 327.9,
+          "endSec": 328.1,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 327.9,
+      "endSec": 333.4,
+      "text": "The adjective 'exotic' means 'unusual and exciting' because of coming from far away.",
+      "words": [
+        {
+          "startSec": 327.9,
+          "endSec": 328.1,
+          "text": "The"
+        },
+        {
+          "startSec": 328.1,
+          "endSec": 328.7,
+          "text": "adjective"
+        },
+        {
+          "startSec": 328.7,
+          "endSec": 329.2,
+          "text": "'exotic'"
+        },
+        {
+          "startSec": 329.2,
+          "endSec": 329.6,
+          "text": "means"
+        },
+        {
+          "startSec": 329.6,
+          "endSec": 330.1,
+          "text": "'unusual"
+        },
+        {
+          "startSec": 330.1,
+          "endSec": 330.3,
+          "text": "and"
+        },
+        {
+          "startSec": 330.3,
+          "endSec": 330.9,
+          "text": "exciting'"
+        },
+        {
+          "startSec": 330.9,
+          "endSec": 331.3,
+          "text": "because"
+        },
+        {
+          "startSec": 331.3,
+          "endSec": 331.5,
+          "text": "of"
+        },
+        {
+          "startSec": 331.5,
+          "endSec": 331.9,
+          "text": "coming"
+        },
+        {
+          "startSec": 331.9,
+          "endSec": 332.1,
+          "text": "from"
+        },
+        {
+          "startSec": 332.1,
+          "endSec": 332.4,
+          "text": "far"
+        },
+        {
+          "startSec": 332.4,
+          "endSec": 333.4,
+          "text": "away."
+        },
+        {
+          "startSec": 333.4,
+          "endSec": 333.7,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 333.4,
+      "endSec": 338.8,
+      "text": "The phrase 'at one point or another' means at some unspecified time in the past.",
+      "words": [
+        {
+          "startSec": 333.4,
+          "endSec": 333.7,
+          "text": "The"
+        },
+        {
+          "startSec": 333.7,
+          "endSec": 334.1,
+          "text": "phrase"
+        },
+        {
+          "startSec": 334.1,
+          "endSec": 334.4,
+          "text": "'at"
+        },
+        {
+          "startSec": 334.4,
+          "endSec": 334.6,
+          "text": "one"
+        },
+        {
+          "startSec": 334.6,
+          "endSec": 335,
+          "text": "point"
+        },
+        {
+          "startSec": 335,
+          "endSec": 335.1,
+          "text": "or"
+        },
+        {
+          "startSec": 335.1,
+          "endSec": 335.7,
+          "text": "another'"
+        },
+        {
+          "startSec": 335.7,
+          "endSec": 336.1,
+          "text": "means"
+        },
+        {
+          "startSec": 336.1,
+          "endSec": 336.3,
+          "text": "at"
+        },
+        {
+          "startSec": 336.3,
+          "endSec": 336.6,
+          "text": "some"
+        },
+        {
+          "startSec": 336.6,
+          "endSec": 337.4,
+          "text": "unspecified"
+        },
+        {
+          "startSec": 337.4,
+          "endSec": 337.7,
+          "text": "time"
+        },
+        {
+          "startSec": 337.7,
+          "endSec": 337.9,
+          "text": "in"
+        },
+        {
+          "startSec": 337.9,
+          "endSec": 338.1,
+          "text": "the"
+        },
+        {
+          "startSec": 338.1,
+          "endSec": 338.8,
+          "text": "past."
+        },
+        {
+          "startSec": 338.8,
+          "endSec": 338.9,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 338.8,
+      "endSec": 343.1,
+      "text": "If you tweak something, you alter it slightly in order to improve it.",
+      "words": [
+        {
+          "startSec": 338.8,
+          "endSec": 338.9,
+          "text": "If"
+        },
+        {
+          "startSec": 338.9,
+          "endSec": 339.1,
+          "text": "you"
+        },
+        {
+          "startSec": 339.1,
+          "endSec": 339.5,
+          "text": "tweak"
+        },
+        {
+          "startSec": 339.5,
+          "endSec": 340.3,
+          "text": "something,"
+        },
+        {
+          "startSec": 340.3,
+          "endSec": 340.5,
+          "text": "you"
+        },
+        {
+          "startSec": 340.5,
+          "endSec": 340.8,
+          "text": "alter"
+        },
+        {
+          "startSec": 340.8,
+          "endSec": 341,
+          "text": "it"
+        },
+        {
+          "startSec": 341,
+          "endSec": 341.6,
+          "text": "slightly"
+        },
+        {
+          "startSec": 341.6,
+          "endSec": 341.7,
+          "text": "in"
+        },
+        {
+          "startSec": 341.7,
+          "endSec": 342.1,
+          "text": "order"
+        },
+        {
+          "startSec": 342.1,
+          "endSec": 342.2,
+          "text": "to"
+        },
+        {
+          "startSec": 342.2,
+          "endSec": 342.7,
+          "text": "improve"
+        },
+        {
+          "startSec": 342.7,
+          "endSec": 343.1,
+          "text": "it."
+        },
+        {
+          "startSec": 343.1,
+          "endSec": 343.7,
+          "text": "Something"
+        }
+      ]
+    },
+    {
+      "startSec": 343.1,
+      "endSec": 346.7,
+      "text": "Something which evolves, develops and changes gradually.",
+      "words": [
+        {
+          "startSec": 343.1,
+          "endSec": 343.7,
+          "text": "Something"
+        },
+        {
+          "startSec": 343.7,
+          "endSec": 344.1,
+          "text": "which"
+        },
+        {
+          "startSec": 344.1,
+          "endSec": 344.7,
+          "text": "evolves,"
+        },
+        {
+          "startSec": 344.7,
+          "endSec": 345.2,
+          "text": "develops"
+        },
+        {
+          "startSec": 345.2,
+          "endSec": 345.4,
+          "text": "and"
+        },
+        {
+          "startSec": 345.4,
+          "endSec": 345.9,
+          "text": "changes"
+        },
+        {
+          "startSec": 345.9,
+          "endSec": 346.7,
+          "text": "gradually."
+        },
+        {
+          "startSec": 346.7,
+          "endSec": 346.9,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 346.7,
+      "endSec": 351.8,
+      "text": "And finally, the idiom 'to push the boundaries' means to do things which challenge normal,",
+      "words": [
+        {
+          "startSec": 346.7,
+          "endSec": 346.9,
+          "text": "And"
+        },
+        {
+          "startSec": 346.9,
+          "endSec": 347.4,
+          "text": "finally,"
+        },
+        {
+          "startSec": 347.4,
+          "endSec": 347.6,
+          "text": "the"
+        },
+        {
+          "startSec": 347.6,
+          "endSec": 347.9,
+          "text": "idiom"
+        },
+        {
+          "startSec": 347.9,
+          "endSec": 348.1,
+          "text": "'to"
+        },
+        {
+          "startSec": 348.1,
+          "endSec": 348.3,
+          "text": "push"
+        },
+        {
+          "startSec": 348.3,
+          "endSec": 348.5,
+          "text": "the"
+        },
+        {
+          "startSec": 348.5,
+          "endSec": 349.2,
+          "text": "boundaries'"
+        },
+        {
+          "startSec": 349.2,
+          "endSec": 349.5,
+          "text": "means"
+        },
+        {
+          "startSec": 349.5,
+          "endSec": 349.6,
+          "text": "to"
+        },
+        {
+          "startSec": 349.6,
+          "endSec": 349.7,
+          "text": "do"
+        },
+        {
+          "startSec": 349.7,
+          "endSec": 350.1,
+          "text": "things"
+        },
+        {
+          "startSec": 350.1,
+          "endSec": 350.4,
+          "text": "which"
+        },
+        {
+          "startSec": 350.4,
+          "endSec": 351.1,
+          "text": "challenge"
+        },
+        {
+          "startSec": 351.1,
+          "endSec": 351.8,
+          "text": "normal,"
+        }
+      ]
+    },
+    {
+      "startSec": 351.8,
+      "endSec": 355.6,
+      "text": "acceptable behaviour. Once again, our six minutes are up.",
+      "words": [
+        {
+          "startSec": 352,
+          "endSec": 352.7,
+          "text": "acceptable"
+        },
+        {
+          "startSec": 352.7,
+          "endSec": 353.8,
+          "text": "behaviour."
+        },
+        {
+          "startSec": 353.8,
+          "endSec": 354.1,
+          "text": "Once"
+        },
+        {
+          "startSec": 354.1,
+          "endSec": 354.5,
+          "text": "again,"
+        },
+        {
+          "startSec": 354.5,
+          "endSec": 354.6,
+          "text": "our"
+        },
+        {
+          "startSec": 354.6,
+          "endSec": 354.8,
+          "text": "six"
+        },
+        {
+          "startSec": 354.8,
+          "endSec": 355.2,
+          "text": "minutes"
+        },
+        {
+          "startSec": 355.2,
+          "endSec": 355.3,
+          "text": "are"
+        },
+        {
+          "startSec": 355.3,
+          "endSec": 355.6,
+          "text": "up."
+        },
+        {
+          "startSec": 355.6,
+          "endSec": 355.8,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 355.6,
+      "endSec": 360.5,
+      "text": "If you enjoyed the programme, why not visit our website and check out all of the different",
+      "words": [
+        {
+          "startSec": 355.6,
+          "endSec": 355.8,
+          "text": "If"
+        },
+        {
+          "startSec": 355.8,
+          "endSec": 356,
+          "text": "you"
+        },
+        {
+          "startSec": 356,
+          "endSec": 356.4,
+          "text": "enjoyed"
+        },
+        {
+          "startSec": 356.4,
+          "endSec": 356.6,
+          "text": "the"
+        },
+        {
+          "startSec": 356.6,
+          "endSec": 357.3,
+          "text": "programme,"
+        },
+        {
+          "startSec": 357.3,
+          "endSec": 357.5,
+          "text": "why"
+        },
+        {
+          "startSec": 357.5,
+          "endSec": 357.7,
+          "text": "not"
+        },
+        {
+          "startSec": 357.7,
+          "endSec": 358,
+          "text": "visit"
+        },
+        {
+          "startSec": 358,
+          "endSec": 358.2,
+          "text": "our"
+        },
+        {
+          "startSec": 358.2,
+          "endSec": 358.7,
+          "text": "website"
+        },
+        {
+          "startSec": 358.7,
+          "endSec": 358.9,
+          "text": "and"
+        },
+        {
+          "startSec": 358.9,
+          "endSec": 359.2,
+          "text": "check"
+        },
+        {
+          "startSec": 359.2,
+          "endSec": 359.4,
+          "text": "out"
+        },
+        {
+          "startSec": 359.4,
+          "endSec": 359.6,
+          "text": "all"
+        },
+        {
+          "startSec": 359.6,
+          "endSec": 359.7,
+          "text": "of"
+        },
+        {
+          "startSec": 359.7,
+          "endSec": 359.9,
+          "text": "the"
+        },
+        {
+          "startSec": 359.9,
+          "endSec": 360.5,
+          "text": "different"
+        },
+        {
+          "startSec": 360.5,
+          "endSec": 361.1,
+          "text": "podcasts"
+        }
+      ]
+    },
+    {
+      "startSec": 360.5,
+      "endSec": 365.3,
+      "text": "podcasts that we have at BBC Learning English. There's something there for everyone. Thanks",
+      "words": [
+        {
+          "startSec": 360.5,
+          "endSec": 361.1,
+          "text": "podcasts"
+        },
+        {
+          "startSec": 361.1,
+          "endSec": 361.4,
+          "text": "that"
+        },
+        {
+          "startSec": 361.4,
+          "endSec": 361.5,
+          "text": "we"
+        },
+        {
+          "startSec": 361.5,
+          "endSec": 361.8,
+          "text": "have"
+        },
+        {
+          "startSec": 361.8,
+          "endSec": 361.9,
+          "text": "at"
+        },
+        {
+          "startSec": 361.9,
+          "endSec": 362.1,
+          "text": "BBC"
+        },
+        {
+          "startSec": 362.1,
+          "endSec": 362.7,
+          "text": "Learning"
+        },
+        {
+          "startSec": 362.7,
+          "endSec": 363.5,
+          "text": "English."
+        },
+        {
+          "startSec": 363.5,
+          "endSec": 363.8,
+          "text": "There's"
+        },
+        {
+          "startSec": 363.8,
+          "endSec": 364.2,
+          "text": "something"
+        },
+        {
+          "startSec": 364.2,
+          "endSec": 364.4,
+          "text": "there"
+        },
+        {
+          "startSec": 364.4,
+          "endSec": 364.6,
+          "text": "for"
+        },
+        {
+          "startSec": 364.6,
+          "endSec": 365.1,
+          "text": "everyone."
+        },
+        {
+          "startSec": 365.1,
+          "endSec": 365.3,
+          "text": "Thanks"
+        },
+        {
+          "startSec": 365.3,
+          "endSec": 365.5,
+          "text": "for"
+        }
+      ]
+    },
+    {
+      "startSec": 365.3,
+      "endSec": 367.1,
+      "text": "for joining us and goodbye. Bye.",
+      "words": [
+        {
+          "startSec": 365.3,
+          "endSec": 365.5,
+          "text": "for"
+        },
+        {
+          "startSec": 365.5,
+          "endSec": 365.9,
+          "text": "joining"
+        },
+        {
+          "startSec": 365.9,
+          "endSec": 366,
+          "text": "us"
+        },
+        {
+          "startSec": 366,
+          "endSec": 366.1,
+          "text": "and"
+        },
+        {
+          "startSec": 366.1,
+          "endSec": 366.7,
+          "text": "goodbye."
+        },
+        {
+          "startSec": 366.7,
+          "endSec": 367.1,
+          "text": "Bye."
+        }
+      ]
+    }
+  ],
+  "introSec": 7.8
+}

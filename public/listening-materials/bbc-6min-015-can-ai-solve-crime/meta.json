@@ -1,0 +1,5592 @@
+{
+  "title": "Can ai solve crime",
+  "source": "BBC 6 Minute English",
+  "level": "beginner",
+  "durationSec": 369,
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
+  "audioFile": "audio.mp3",
+  "segments": [
+    {
+      "startSec": 0,
+      "endSec": 7.8,
+      "text": "6 Meet English from bbclearningenglish.com",
+      "words": [
+        {
+          "startSec": 0.1,
+          "endSec": 0.5,
+          "text": "6"
+        },
+        {
+          "startSec": 0.5,
+          "endSec": 1.3,
+          "text": "Meet"
+        },
+        {
+          "startSec": 1.3,
+          "endSec": 2.6,
+          "text": "English"
+        },
+        {
+          "startSec": 2.6,
+          "endSec": 3.3,
+          "text": "from"
+        },
+        {
+          "startSec": 3.3,
+          "endSec": 7.8,
+          "text": "bbclearningenglish.com"
+        },
+        {
+          "startSec": 7.8,
+          "endSec": 8.3,
+          "text": "Hello"
+        }
+      ]
+    },
+    {
+      "startSec": 7.8,
+      "endSec": 13.9,
+      "text": "Hello and welcome to 6 Minute English from BBC Learning English. I'm Beth.",
+      "words": [
+        {
+          "startSec": 7.8,
+          "endSec": 8.3,
+          "text": "Hello"
+        },
+        {
+          "startSec": 8.3,
+          "endSec": 8.5,
+          "text": "and"
+        },
+        {
+          "startSec": 8.5,
+          "endSec": 9.1,
+          "text": "welcome"
+        },
+        {
+          "startSec": 9.1,
+          "endSec": 9.3,
+          "text": "to"
+        },
+        {
+          "startSec": 9.3,
+          "endSec": 9.5,
+          "text": "6"
+        },
+        {
+          "startSec": 9.5,
+          "endSec": 10,
+          "text": "Minute"
+        },
+        {
+          "startSec": 10,
+          "endSec": 10.7,
+          "text": "English"
+        },
+        {
+          "startSec": 10.7,
+          "endSec": 11.1,
+          "text": "from"
+        },
+        {
+          "startSec": 11.1,
+          "endSec": 11.4,
+          "text": "BBC"
+        },
+        {
+          "startSec": 11.4,
+          "endSec": 12.2,
+          "text": "Learning"
+        },
+        {
+          "startSec": 12.2,
+          "endSec": 13.1,
+          "text": "English."
+        },
+        {
+          "startSec": 13.1,
+          "endSec": 13.3,
+          "text": "I'm"
+        },
+        {
+          "startSec": 13.3,
+          "endSec": 13.9,
+          "text": "Beth."
+        },
+        {
+          "startSec": 13.9,
+          "endSec": 14.1,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 13.9,
+      "endSec": 18,
+      "text": "And I'm Neil. Don't forget that you can find a transcript and a quiz for this episode",
+      "words": [
+        {
+          "startSec": 13.9,
+          "endSec": 14.1,
+          "text": "And"
+        },
+        {
+          "startSec": 14.1,
+          "endSec": 14.4,
+          "text": "I'm"
+        },
+        {
+          "startSec": 14.4,
+          "endSec": 14.9,
+          "text": "Neil."
+        },
+        {
+          "startSec": 14.9,
+          "endSec": 15.2,
+          "text": "Don't"
+        },
+        {
+          "startSec": 15.2,
+          "endSec": 15.5,
+          "text": "forget"
+        },
+        {
+          "startSec": 15.5,
+          "endSec": 15.7,
+          "text": "that"
+        },
+        {
+          "startSec": 15.7,
+          "endSec": 15.8,
+          "text": "you"
+        },
+        {
+          "startSec": 15.8,
+          "endSec": 16,
+          "text": "can"
+        },
+        {
+          "startSec": 16,
+          "endSec": 16.2,
+          "text": "find"
+        },
+        {
+          "startSec": 16.2,
+          "endSec": 16.2,
+          "text": "a"
+        },
+        {
+          "startSec": 16.2,
+          "endSec": 16.7,
+          "text": "transcript"
+        },
+        {
+          "startSec": 16.7,
+          "endSec": 16.9,
+          "text": "and"
+        },
+        {
+          "startSec": 16.9,
+          "endSec": 16.9,
+          "text": "a"
+        },
+        {
+          "startSec": 16.9,
+          "endSec": 17.1,
+          "text": "quiz"
+        },
+        {
+          "startSec": 17.1,
+          "endSec": 17.3,
+          "text": "for"
+        },
+        {
+          "startSec": 17.3,
+          "endSec": 17.5,
+          "text": "this"
+        },
+        {
+          "startSec": 17.5,
+          "endSec": 18,
+          "text": "episode"
+        },
+        {
+          "startSec": 18,
+          "endSec": 18.2,
+          "text": "on"
+        }
+      ]
+    },
+    {
+      "startSec": 18,
+      "endSec": 21.3,
+      "text": "on our website bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 18,
+          "endSec": 18.2,
+          "text": "on"
+        },
+        {
+          "startSec": 18.2,
+          "endSec": 18.5,
+          "text": "our"
+        },
+        {
+          "startSec": 18.5,
+          "endSec": 19.1,
+          "text": "website"
+        },
+        {
+          "startSec": 19.1,
+          "endSec": 21.3,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 21.3,
+          "endSec": 21.6,
+          "text": "Now"
+        }
+      ]
+    },
+    {
+      "startSec": 21.3,
+      "endSec": 27,
+      "text": "Now today, Neil, we're talking all about solving crime. Do you think you'd be a good",
+      "words": [
+        {
+          "startSec": 21.3,
+          "endSec": 21.6,
+          "text": "Now"
+        },
+        {
+          "startSec": 21.6,
+          "endSec": 22.2,
+          "text": "today,"
+        },
+        {
+          "startSec": 22.2,
+          "endSec": 22.7,
+          "text": "Neil,"
+        },
+        {
+          "startSec": 22.7,
+          "endSec": 23.2,
+          "text": "we're"
+        },
+        {
+          "startSec": 23.2,
+          "endSec": 23.8,
+          "text": "talking"
+        },
+        {
+          "startSec": 23.8,
+          "endSec": 24.1,
+          "text": "all"
+        },
+        {
+          "startSec": 24.1,
+          "endSec": 24.5,
+          "text": "about"
+        },
+        {
+          "startSec": 24.5,
+          "endSec": 25.2,
+          "text": "solving"
+        },
+        {
+          "startSec": 25.2,
+          "endSec": 25.9,
+          "text": "crime."
+        },
+        {
+          "startSec": 25.9,
+          "endSec": 26,
+          "text": "Do"
+        },
+        {
+          "startSec": 26,
+          "endSec": 26.1,
+          "text": "you"
+        },
+        {
+          "startSec": 26.1,
+          "endSec": 26.3,
+          "text": "think"
+        },
+        {
+          "startSec": 26.3,
+          "endSec": 26.5,
+          "text": "you'd"
+        },
+        {
+          "startSec": 26.5,
+          "endSec": 26.6,
+          "text": "be"
+        },
+        {
+          "startSec": 26.6,
+          "endSec": 26.7,
+          "text": "a"
+        },
+        {
+          "startSec": 26.7,
+          "endSec": 27,
+          "text": "good"
+        }
+      ]
+    },
+    {
+      "startSec": 27,
+      "endSec": 33.5,
+      "text": "detective? Actually, no, Beth. I think my brain's not very good with details.",
+      "words": [
+        {
+          "startSec": 27.1,
+          "endSec": 28,
+          "text": "detective?"
+        },
+        {
+          "startSec": 28,
+          "endSec": 28.8,
+          "text": "Actually,"
+        },
+        {
+          "startSec": 28.8,
+          "endSec": 29.2,
+          "text": "no,"
+        },
+        {
+          "startSec": 29.2,
+          "endSec": 29.8,
+          "text": "Beth."
+        },
+        {
+          "startSec": 29.8,
+          "endSec": 30,
+          "text": "I"
+        },
+        {
+          "startSec": 30,
+          "endSec": 30.6,
+          "text": "think"
+        },
+        {
+          "startSec": 30.6,
+          "endSec": 30.9,
+          "text": "my"
+        },
+        {
+          "startSec": 30.9,
+          "endSec": 31.8,
+          "text": "brain's"
+        },
+        {
+          "startSec": 31.8,
+          "endSec": 32,
+          "text": "not"
+        },
+        {
+          "startSec": 32,
+          "endSec": 32.2,
+          "text": "very"
+        },
+        {
+          "startSec": 32.2,
+          "endSec": 32.4,
+          "text": "good"
+        },
+        {
+          "startSec": 32.4,
+          "endSec": 32.6,
+          "text": "with"
+        },
+        {
+          "startSec": 32.6,
+          "endSec": 33.5,
+          "text": "details."
+        },
+        {
+          "startSec": 33.5,
+          "endSec": 34,
+          "text": "Today,"
+        }
+      ]
+    },
+    {
+      "startSec": 33.5,
+      "endSec": 38.9,
+      "text": "Today, we'll be talking about how artificial intelligence might help detectives and the",
+      "words": [
+        {
+          "startSec": 33.5,
+          "endSec": 34,
+          "text": "Today,"
+        },
+        {
+          "startSec": 34,
+          "endSec": 34.4,
+          "text": "we'll"
+        },
+        {
+          "startSec": 34.4,
+          "endSec": 34.5,
+          "text": "be"
+        },
+        {
+          "startSec": 34.5,
+          "endSec": 35,
+          "text": "talking"
+        },
+        {
+          "startSec": 35,
+          "endSec": 35.4,
+          "text": "about"
+        },
+        {
+          "startSec": 35.4,
+          "endSec": 35.6,
+          "text": "how"
+        },
+        {
+          "startSec": 35.6,
+          "endSec": 36.3,
+          "text": "artificial"
+        },
+        {
+          "startSec": 36.3,
+          "endSec": 37.2,
+          "text": "intelligence"
+        },
+        {
+          "startSec": 37.2,
+          "endSec": 37.5,
+          "text": "might"
+        },
+        {
+          "startSec": 37.5,
+          "endSec": 37.9,
+          "text": "help"
+        },
+        {
+          "startSec": 37.9,
+          "endSec": 38.7,
+          "text": "detectives"
+        },
+        {
+          "startSec": 38.7,
+          "endSec": 38.9,
+          "text": "and"
+        },
+        {
+          "startSec": 38.9,
+          "endSec": 38.9,
+          "text": "the"
+        },
+        {
+          "startSec": 38.9,
+          "endSec": 39.4,
+          "text": "police"
+        }
+      ]
+    },
+    {
+      "startSec": 38.9,
+      "endSec": 44.8,
+      "text": "police investigate crimes. But first, I have a question for you, Beth. In the UK, lots",
+      "words": [
+        {
+          "startSec": 38.9,
+          "endSec": 38.9,
+          "text": "the"
+        },
+        {
+          "startSec": 38.9,
+          "endSec": 39.4,
+          "text": "police"
+        },
+        {
+          "startSec": 39.4,
+          "endSec": 40.1,
+          "text": "investigate"
+        },
+        {
+          "startSec": 40.1,
+          "endSec": 40.7,
+          "text": "crimes."
+        },
+        {
+          "startSec": 40.7,
+          "endSec": 40.9,
+          "text": "But"
+        },
+        {
+          "startSec": 40.9,
+          "endSec": 41.4,
+          "text": "first,"
+        },
+        {
+          "startSec": 41.4,
+          "endSec": 41.5,
+          "text": "I"
+        },
+        {
+          "startSec": 41.5,
+          "endSec": 41.8,
+          "text": "have"
+        },
+        {
+          "startSec": 41.8,
+          "endSec": 41.9,
+          "text": "a"
+        },
+        {
+          "startSec": 41.9,
+          "endSec": 42.4,
+          "text": "question"
+        },
+        {
+          "startSec": 42.4,
+          "endSec": 42.7,
+          "text": "for"
+        },
+        {
+          "startSec": 42.7,
+          "endSec": 43,
+          "text": "you,"
+        },
+        {
+          "startSec": 43,
+          "endSec": 43.6,
+          "text": "Beth."
+        },
+        {
+          "startSec": 43.6,
+          "endSec": 43.6,
+          "text": "In"
+        },
+        {
+          "startSec": 43.6,
+          "endSec": 44,
+          "text": "the"
+        },
+        {
+          "startSec": 44,
+          "endSec": 44.5,
+          "text": "UK,"
+        },
+        {
+          "startSec": 44.5,
+          "endSec": 44.8,
+          "text": "lots"
+        },
+        {
+          "startSec": 44.8,
+          "endSec": 45,
+          "text": "of"
+        }
+      ]
+    },
+    {
+      "startSec": 44.8,
+      "endSec": 51.1,
+      "text": "of people enjoy watching fictional detectives on TV. These programs are called murder mysteries",
+      "words": [
+        {
+          "startSec": 44.8,
+          "endSec": 45,
+          "text": "of"
+        },
+        {
+          "startSec": 45,
+          "endSec": 45.5,
+          "text": "people"
+        },
+        {
+          "startSec": 45.5,
+          "endSec": 45.9,
+          "text": "enjoy"
+        },
+        {
+          "startSec": 45.9,
+          "endSec": 46.6,
+          "text": "watching"
+        },
+        {
+          "startSec": 46.6,
+          "endSec": 47.4,
+          "text": "fictional"
+        },
+        {
+          "startSec": 47.4,
+          "endSec": 48.2,
+          "text": "detectives"
+        },
+        {
+          "startSec": 48.2,
+          "endSec": 48.4,
+          "text": "on"
+        },
+        {
+          "startSec": 48.4,
+          "endSec": 48.8,
+          "text": "TV."
+        },
+        {
+          "startSec": 48.8,
+          "endSec": 49.1,
+          "text": "These"
+        },
+        {
+          "startSec": 49.1,
+          "endSec": 49.5,
+          "text": "programs"
+        },
+        {
+          "startSec": 49.5,
+          "endSec": 49.7,
+          "text": "are"
+        },
+        {
+          "startSec": 49.7,
+          "endSec": 50,
+          "text": "called"
+        },
+        {
+          "startSec": 50,
+          "endSec": 50.3,
+          "text": "murder"
+        },
+        {
+          "startSec": 50.3,
+          "endSec": 51.1,
+          "text": "mysteries"
+        },
+        {
+          "startSec": 51.1,
+          "endSec": 51.4,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 51.1,
+      "endSec": 54.6,
+      "text": "and tell the story of a detective solving a crime.",
+      "words": [
+        {
+          "startSec": 51.1,
+          "endSec": 51.4,
+          "text": "and"
+        },
+        {
+          "startSec": 51.4,
+          "endSec": 51.7,
+          "text": "tell"
+        },
+        {
+          "startSec": 51.7,
+          "endSec": 51.9,
+          "text": "the"
+        },
+        {
+          "startSec": 51.9,
+          "endSec": 52.3,
+          "text": "story"
+        },
+        {
+          "startSec": 52.3,
+          "endSec": 52.5,
+          "text": "of"
+        },
+        {
+          "startSec": 52.5,
+          "endSec": 52.6,
+          "text": "a"
+        },
+        {
+          "startSec": 52.6,
+          "endSec": 53.3,
+          "text": "detective"
+        },
+        {
+          "startSec": 53.3,
+          "endSec": 53.9,
+          "text": "solving"
+        },
+        {
+          "startSec": 53.9,
+          "endSec": 53.9,
+          "text": "a"
+        },
+        {
+          "startSec": 53.9,
+          "endSec": 54.6,
+          "text": "crime."
+        }
+      ]
+    },
+    {
+      "startSec": 54.6,
+      "endSec": 61.4,
+      "text": "In 2020, a magazine called The Radio Times asked readers who their favourite TV detective",
+      "words": [
+        {
+          "startSec": 54.7,
+          "endSec": 54.8,
+          "text": "In"
+        },
+        {
+          "startSec": 54.8,
+          "endSec": 55.9,
+          "text": "2020,"
+        },
+        {
+          "startSec": 55.9,
+          "endSec": 56,
+          "text": "a"
+        },
+        {
+          "startSec": 56,
+          "endSec": 56.6,
+          "text": "magazine"
+        },
+        {
+          "startSec": 56.6,
+          "endSec": 57.1,
+          "text": "called"
+        },
+        {
+          "startSec": 57.1,
+          "endSec": 57.3,
+          "text": "The"
+        },
+        {
+          "startSec": 57.3,
+          "endSec": 57.7,
+          "text": "Radio"
+        },
+        {
+          "startSec": 57.7,
+          "endSec": 58.1,
+          "text": "Times"
+        },
+        {
+          "startSec": 58.1,
+          "endSec": 58.5,
+          "text": "asked"
+        },
+        {
+          "startSec": 58.5,
+          "endSec": 59.1,
+          "text": "readers"
+        },
+        {
+          "startSec": 59.1,
+          "endSec": 59.3,
+          "text": "who"
+        },
+        {
+          "startSec": 59.3,
+          "endSec": 59.7,
+          "text": "their"
+        },
+        {
+          "startSec": 59.7,
+          "endSec": 60.5,
+          "text": "favourite"
+        },
+        {
+          "startSec": 60.5,
+          "endSec": 60.6,
+          "text": "TV"
+        },
+        {
+          "startSec": 60.6,
+          "endSec": 61.4,
+          "text": "detective"
+        },
+        {
+          "startSec": 61.4,
+          "endSec": 62.4,
+          "text": "was."
+        }
+      ]
+    },
+    {
+      "startSec": 61.4,
+      "endSec": 68.8,
+      "text": "was. So who do you think was the most popular? Was it A) Sherlock Holmes, B) Air-cure Poiro,",
+      "words": [
+        {
+          "startSec": 61.4,
+          "endSec": 62.4,
+          "text": "was."
+        },
+        {
+          "startSec": 62.4,
+          "endSec": 62.5,
+          "text": "So"
+        },
+        {
+          "startSec": 62.5,
+          "endSec": 62.7,
+          "text": "who"
+        },
+        {
+          "startSec": 62.7,
+          "endSec": 62.8,
+          "text": "do"
+        },
+        {
+          "startSec": 62.8,
+          "endSec": 63,
+          "text": "you"
+        },
+        {
+          "startSec": 63,
+          "endSec": 63.3,
+          "text": "think"
+        },
+        {
+          "startSec": 63.3,
+          "endSec": 63.5,
+          "text": "was"
+        },
+        {
+          "startSec": 63.5,
+          "endSec": 63.7,
+          "text": "the"
+        },
+        {
+          "startSec": 63.7,
+          "endSec": 63.9,
+          "text": "most"
+        },
+        {
+          "startSec": 63.9,
+          "endSec": 64.6,
+          "text": "popular?"
+        },
+        {
+          "startSec": 64.6,
+          "endSec": 64.9,
+          "text": "Was"
+        },
+        {
+          "startSec": 64.9,
+          "endSec": 65.1,
+          "text": "it"
+        },
+        {
+          "startSec": 65.1,
+          "endSec": 65.3,
+          "text": "A)"
+        },
+        {
+          "startSec": 65.3,
+          "endSec": 66.2,
+          "text": "Sherlock"
+        },
+        {
+          "startSec": 66.2,
+          "endSec": 67,
+          "text": "Holmes,"
+        },
+        {
+          "startSec": 67,
+          "endSec": 67.2,
+          "text": "B)"
+        },
+        {
+          "startSec": 67.2,
+          "endSec": 68.1,
+          "text": "Air-cure"
+        },
+        {
+          "startSec": 68.1,
+          "endSec": 68.8,
+          "text": "Poiro,"
+        },
+        {
+          "startSec": 68.8,
+          "endSec": 68.9,
+          "text": "or"
+        }
+      ]
+    },
+    {
+      "startSec": 68.8,
+      "endSec": 72.3,
+      "text": "or C) Miss Marple? Surely it's Sherlock Holmes.",
+      "words": [
+        {
+          "startSec": 68.8,
+          "endSec": 68.9,
+          "text": "or"
+        },
+        {
+          "startSec": 68.9,
+          "endSec": 69.1,
+          "text": "C)"
+        },
+        {
+          "startSec": 69.1,
+          "endSec": 69.4,
+          "text": "Miss"
+        },
+        {
+          "startSec": 69.4,
+          "endSec": 70.1,
+          "text": "Marple?"
+        },
+        {
+          "startSec": 70.1,
+          "endSec": 70.6,
+          "text": "Surely"
+        },
+        {
+          "startSec": 70.6,
+          "endSec": 70.9,
+          "text": "it's"
+        },
+        {
+          "startSec": 70.9,
+          "endSec": 71.6,
+          "text": "Sherlock"
+        },
+        {
+          "startSec": 71.6,
+          "endSec": 72.3,
+          "text": "Holmes."
+        },
+        {
+          "startSec": 72.3,
+          "endSec": 72.9,
+          "text": "Well,"
+        }
+      ]
+    },
+    {
+      "startSec": 72.3,
+      "endSec": 78.5,
+      "text": "Well, you sound very sure, but I will reveal the answer at the end of the program.",
+      "words": [
+        {
+          "startSec": 72.3,
+          "endSec": 72.9,
+          "text": "Well,"
+        },
+        {
+          "startSec": 72.9,
+          "endSec": 73.1,
+          "text": "you"
+        },
+        {
+          "startSec": 73.1,
+          "endSec": 73.6,
+          "text": "sound"
+        },
+        {
+          "startSec": 73.6,
+          "endSec": 73.9,
+          "text": "very"
+        },
+        {
+          "startSec": 73.9,
+          "endSec": 74.4,
+          "text": "sure,"
+        },
+        {
+          "startSec": 74.4,
+          "endSec": 74.7,
+          "text": "but"
+        },
+        {
+          "startSec": 74.7,
+          "endSec": 74.8,
+          "text": "I"
+        },
+        {
+          "startSec": 74.8,
+          "endSec": 75.1,
+          "text": "will"
+        },
+        {
+          "startSec": 75.1,
+          "endSec": 75.6,
+          "text": "reveal"
+        },
+        {
+          "startSec": 75.6,
+          "endSec": 75.9,
+          "text": "the"
+        },
+        {
+          "startSec": 75.9,
+          "endSec": 76.4,
+          "text": "answer"
+        },
+        {
+          "startSec": 76.4,
+          "endSec": 76.6,
+          "text": "at"
+        },
+        {
+          "startSec": 76.6,
+          "endSec": 76.8,
+          "text": "the"
+        },
+        {
+          "startSec": 76.8,
+          "endSec": 77.1,
+          "text": "end"
+        },
+        {
+          "startSec": 77.1,
+          "endSec": 77.3,
+          "text": "of"
+        },
+        {
+          "startSec": 77.3,
+          "endSec": 77.5,
+          "text": "the"
+        },
+        {
+          "startSec": 77.5,
+          "endSec": 78.5,
+          "text": "program."
+        },
+        {
+          "startSec": 78.5,
+          "endSec": 78.7,
+          "text": "Now"
+        }
+      ]
+    },
+    {
+      "startSec": 78.5,
+      "endSec": 83.3,
+      "text": "Now when the police are investigating crimes in the real world, their techniques are often",
+      "words": [
+        {
+          "startSec": 78.5,
+          "endSec": 78.7,
+          "text": "Now"
+        },
+        {
+          "startSec": 78.7,
+          "endSec": 78.9,
+          "text": "when"
+        },
+        {
+          "startSec": 78.9,
+          "endSec": 79.1,
+          "text": "the"
+        },
+        {
+          "startSec": 79.1,
+          "endSec": 79.5,
+          "text": "police"
+        },
+        {
+          "startSec": 79.5,
+          "endSec": 79.7,
+          "text": "are"
+        },
+        {
+          "startSec": 79.7,
+          "endSec": 80.5,
+          "text": "investigating"
+        },
+        {
+          "startSec": 80.5,
+          "endSec": 80.9,
+          "text": "crimes"
+        },
+        {
+          "startSec": 80.9,
+          "endSec": 81,
+          "text": "in"
+        },
+        {
+          "startSec": 81,
+          "endSec": 81.2,
+          "text": "the"
+        },
+        {
+          "startSec": 81.2,
+          "endSec": 81.4,
+          "text": "real"
+        },
+        {
+          "startSec": 81.4,
+          "endSec": 81.9,
+          "text": "world,"
+        },
+        {
+          "startSec": 81.9,
+          "endSec": 82.2,
+          "text": "their"
+        },
+        {
+          "startSec": 82.2,
+          "endSec": 82.8,
+          "text": "techniques"
+        },
+        {
+          "startSec": 82.8,
+          "endSec": 83.1,
+          "text": "are"
+        },
+        {
+          "startSec": 83.1,
+          "endSec": 83.3,
+          "text": "often"
+        }
+      ]
+    },
+    {
+      "startSec": 83.3,
+      "endSec": 86.1,
+      "text": "quite different from what we see on television.",
+      "words": [
+        {
+          "startSec": 83.4,
+          "endSec": 83.7,
+          "text": "quite"
+        },
+        {
+          "startSec": 83.7,
+          "endSec": 84.3,
+          "text": "different"
+        },
+        {
+          "startSec": 84.3,
+          "endSec": 84.5,
+          "text": "from"
+        },
+        {
+          "startSec": 84.5,
+          "endSec": 84.8,
+          "text": "what"
+        },
+        {
+          "startSec": 84.8,
+          "endSec": 84.9,
+          "text": "we"
+        },
+        {
+          "startSec": 84.9,
+          "endSec": 85.1,
+          "text": "see"
+        },
+        {
+          "startSec": 85.1,
+          "endSec": 85.2,
+          "text": "on"
+        },
+        {
+          "startSec": 85.2,
+          "endSec": 86.1,
+          "text": "television."
+        },
+        {
+          "startSec": 86.1,
+          "endSec": 86.5,
+          "text": "Yes,"
+        }
+      ]
+    },
+    {
+      "startSec": 86.1,
+      "endSec": 93.3,
+      "text": "Yes, solving crimes involves collecting and reviewing lots of evidence, like DNA, fingerprints,",
+      "words": [
+        {
+          "startSec": 86.1,
+          "endSec": 86.5,
+          "text": "Yes,"
+        },
+        {
+          "startSec": 86.5,
+          "endSec": 87.1,
+          "text": "solving"
+        },
+        {
+          "startSec": 87.1,
+          "endSec": 87.6,
+          "text": "crimes"
+        },
+        {
+          "startSec": 87.6,
+          "endSec": 88.2,
+          "text": "involves"
+        },
+        {
+          "startSec": 88.2,
+          "endSec": 89,
+          "text": "collecting"
+        },
+        {
+          "startSec": 89,
+          "endSec": 89.2,
+          "text": "and"
+        },
+        {
+          "startSec": 89.2,
+          "endSec": 90,
+          "text": "reviewing"
+        },
+        {
+          "startSec": 90,
+          "endSec": 90.3,
+          "text": "lots"
+        },
+        {
+          "startSec": 90.3,
+          "endSec": 90.4,
+          "text": "of"
+        },
+        {
+          "startSec": 90.4,
+          "endSec": 91.2,
+          "text": "evidence,"
+        },
+        {
+          "startSec": 91.2,
+          "endSec": 91.6,
+          "text": "like"
+        },
+        {
+          "startSec": 91.6,
+          "endSec": 92,
+          "text": "DNA,"
+        },
+        {
+          "startSec": 92,
+          "endSec": 93.3,
+          "text": "fingerprints,"
+        },
+        {
+          "startSec": 93.3,
+          "endSec": 93.7,
+          "text": "or"
+        }
+      ]
+    },
+    {
+      "startSec": 93.3,
+      "endSec": 95,
+      "text": "or CCTV.",
+      "words": [
+        {
+          "startSec": 93.3,
+          "endSec": 93.7,
+          "text": "or"
+        },
+        {
+          "startSec": 93.7,
+          "endSec": 95,
+          "text": "CCTV."
+        },
+        {
+          "startSec": 95,
+          "endSec": 95.3,
+          "text": "All"
+        }
+      ]
+    },
+    {
+      "startSec": 95,
+      "endSec": 101.4,
+      "text": "All of this work takes a lot of time. So can AI help police speed up the work and even",
+      "words": [
+        {
+          "startSec": 95,
+          "endSec": 95.3,
+          "text": "All"
+        },
+        {
+          "startSec": 95.3,
+          "endSec": 95.5,
+          "text": "of"
+        },
+        {
+          "startSec": 95.5,
+          "endSec": 95.9,
+          "text": "this"
+        },
+        {
+          "startSec": 95.9,
+          "endSec": 96.2,
+          "text": "work"
+        },
+        {
+          "startSec": 96.2,
+          "endSec": 96.7,
+          "text": "takes"
+        },
+        {
+          "startSec": 96.7,
+          "endSec": 96.8,
+          "text": "a"
+        },
+        {
+          "startSec": 96.8,
+          "endSec": 97.1,
+          "text": "lot"
+        },
+        {
+          "startSec": 97.1,
+          "endSec": 97.2,
+          "text": "of"
+        },
+        {
+          "startSec": 97.2,
+          "endSec": 97.9,
+          "text": "time."
+        },
+        {
+          "startSec": 97.9,
+          "endSec": 98.1,
+          "text": "So"
+        },
+        {
+          "startSec": 98.1,
+          "endSec": 98.3,
+          "text": "can"
+        },
+        {
+          "startSec": 98.3,
+          "endSec": 98.5,
+          "text": "AI"
+        },
+        {
+          "startSec": 98.5,
+          "endSec": 98.9,
+          "text": "help"
+        },
+        {
+          "startSec": 98.9,
+          "endSec": 99.4,
+          "text": "police"
+        },
+        {
+          "startSec": 99.4,
+          "endSec": 99.9,
+          "text": "speed"
+        },
+        {
+          "startSec": 99.9,
+          "endSec": 100.1,
+          "text": "up"
+        },
+        {
+          "startSec": 100.1,
+          "endSec": 100.4,
+          "text": "the"
+        },
+        {
+          "startSec": 100.4,
+          "endSec": 100.7,
+          "text": "work"
+        },
+        {
+          "startSec": 100.7,
+          "endSec": 101.1,
+          "text": "and"
+        },
+        {
+          "startSec": 101.1,
+          "endSec": 101.4,
+          "text": "even"
+        },
+        {
+          "startSec": 101.4,
+          "endSec": 101.9,
+          "text": "solve"
+        }
+      ]
+    },
+    {
+      "startSec": 101.4,
+      "endSec": 106.9,
+      "text": "solve crimes? That's the question listener Aleister had for the BBC Radio 4 program,",
+      "words": [
+        {
+          "startSec": 101.4,
+          "endSec": 101.9,
+          "text": "solve"
+        },
+        {
+          "startSec": 101.9,
+          "endSec": 102.9,
+          "text": "crimes?"
+        },
+        {
+          "startSec": 102.9,
+          "endSec": 103.1,
+          "text": "That's"
+        },
+        {
+          "startSec": 103.1,
+          "endSec": 103.3,
+          "text": "the"
+        },
+        {
+          "startSec": 103.3,
+          "endSec": 103.7,
+          "text": "question"
+        },
+        {
+          "startSec": 103.7,
+          "endSec": 104.1,
+          "text": "listener"
+        },
+        {
+          "startSec": 104.1,
+          "endSec": 104.4,
+          "text": "Aleister"
+        },
+        {
+          "startSec": 104.4,
+          "endSec": 104.6,
+          "text": "had"
+        },
+        {
+          "startSec": 104.6,
+          "endSec": 104.9,
+          "text": "for"
+        },
+        {
+          "startSec": 104.9,
+          "endSec": 105.2,
+          "text": "the"
+        },
+        {
+          "startSec": 105.2,
+          "endSec": 105.5,
+          "text": "BBC"
+        },
+        {
+          "startSec": 105.5,
+          "endSec": 105.9,
+          "text": "Radio"
+        },
+        {
+          "startSec": 105.9,
+          "endSec": 106.2,
+          "text": "4"
+        },
+        {
+          "startSec": 106.2,
+          "endSec": 106.9,
+          "text": "program,"
+        }
+      ]
+    },
+    {
+      "startSec": 106.9,
+      "endSec": 112.9,
+      "text": "the Artificial Human, and host Alex Krotoski wanted to know more.",
+      "words": [
+        {
+          "startSec": 107,
+          "endSec": 107.2,
+          "text": "the"
+        },
+        {
+          "startSec": 107.2,
+          "endSec": 108.2,
+          "text": "Artificial"
+        },
+        {
+          "startSec": 108.2,
+          "endSec": 108.9,
+          "text": "Human,"
+        },
+        {
+          "startSec": 108.9,
+          "endSec": 109.2,
+          "text": "and"
+        },
+        {
+          "startSec": 109.2,
+          "endSec": 109.6,
+          "text": "host"
+        },
+        {
+          "startSec": 109.6,
+          "endSec": 110.1,
+          "text": "Alex"
+        },
+        {
+          "startSec": 110.1,
+          "endSec": 110.9,
+          "text": "Krotoski"
+        },
+        {
+          "startSec": 110.9,
+          "endSec": 111.5,
+          "text": "wanted"
+        },
+        {
+          "startSec": 111.5,
+          "endSec": 111.7,
+          "text": "to"
+        },
+        {
+          "startSec": 111.7,
+          "endSec": 112.1,
+          "text": "know"
+        },
+        {
+          "startSec": 112.1,
+          "endSec": 112.9,
+          "text": "more."
+        },
+        {
+          "startSec": 112.9,
+          "endSec": 113,
+          "text": "So"
+        }
+      ]
+    },
+    {
+      "startSec": 112.9,
+      "endSec": 117.1,
+      "text": "So Aleister, why are you asking this question? Tell us a little bit about yourself and where",
+      "words": [
+        {
+          "startSec": 112.9,
+          "endSec": 113,
+          "text": "So"
+        },
+        {
+          "startSec": 113,
+          "endSec": 113.6,
+          "text": "Aleister,"
+        },
+        {
+          "startSec": 113.6,
+          "endSec": 113.7,
+          "text": "why"
+        },
+        {
+          "startSec": 113.7,
+          "endSec": 113.9,
+          "text": "are"
+        },
+        {
+          "startSec": 113.9,
+          "endSec": 114.1,
+          "text": "you"
+        },
+        {
+          "startSec": 114.1,
+          "endSec": 114.5,
+          "text": "asking"
+        },
+        {
+          "startSec": 114.5,
+          "endSec": 114.7,
+          "text": "this"
+        },
+        {
+          "startSec": 114.7,
+          "endSec": 115.4,
+          "text": "question?"
+        },
+        {
+          "startSec": 115.4,
+          "endSec": 115.6,
+          "text": "Tell"
+        },
+        {
+          "startSec": 115.6,
+          "endSec": 115.7,
+          "text": "us"
+        },
+        {
+          "startSec": 115.7,
+          "endSec": 115.7,
+          "text": "a"
+        },
+        {
+          "startSec": 115.7,
+          "endSec": 116,
+          "text": "little"
+        },
+        {
+          "startSec": 116,
+          "endSec": 116.1,
+          "text": "bit"
+        },
+        {
+          "startSec": 116.1,
+          "endSec": 116.3,
+          "text": "about"
+        },
+        {
+          "startSec": 116.3,
+          "endSec": 116.7,
+          "text": "yourself"
+        },
+        {
+          "startSec": 116.7,
+          "endSec": 116.9,
+          "text": "and"
+        },
+        {
+          "startSec": 116.9,
+          "endSec": 117.1,
+          "text": "where"
+        },
+        {
+          "startSec": 117.1,
+          "endSec": 117.5,
+          "text": "you're"
+        }
+      ]
+    },
+    {
+      "startSec": 117.1,
+      "endSec": 118.5,
+      "text": "you're coming from.",
+      "words": [
+        {
+          "startSec": 117.1,
+          "endSec": 117.5,
+          "text": "you're"
+        },
+        {
+          "startSec": 117.5,
+          "endSec": 117.9,
+          "text": "coming"
+        },
+        {
+          "startSec": 117.9,
+          "endSec": 118.5,
+          "text": "from."
+        },
+        {
+          "startSec": 118.5,
+          "endSec": 118.6,
+          "text": "So"
+        }
+      ]
+    },
+    {
+      "startSec": 118.5,
+      "endSec": 124.5,
+      "text": "So my name's Aleister and I'm a serving police officer. My background is with investigation.",
+      "words": [
+        {
+          "startSec": 118.5,
+          "endSec": 118.6,
+          "text": "So"
+        },
+        {
+          "startSec": 118.6,
+          "endSec": 118.7,
+          "text": "my"
+        },
+        {
+          "startSec": 118.7,
+          "endSec": 119.2,
+          "text": "name's"
+        },
+        {
+          "startSec": 119.2,
+          "endSec": 119.7,
+          "text": "Aleister"
+        },
+        {
+          "startSec": 119.7,
+          "endSec": 119.9,
+          "text": "and"
+        },
+        {
+          "startSec": 119.9,
+          "endSec": 120.1,
+          "text": "I'm"
+        },
+        {
+          "startSec": 120.1,
+          "endSec": 120.2,
+          "text": "a"
+        },
+        {
+          "startSec": 120.2,
+          "endSec": 120.7,
+          "text": "serving"
+        },
+        {
+          "startSec": 120.7,
+          "endSec": 121.1,
+          "text": "police"
+        },
+        {
+          "startSec": 121.1,
+          "endSec": 121.9,
+          "text": "officer."
+        },
+        {
+          "startSec": 121.9,
+          "endSec": 122,
+          "text": "My"
+        },
+        {
+          "startSec": 122,
+          "endSec": 122.8,
+          "text": "background"
+        },
+        {
+          "startSec": 122.8,
+          "endSec": 122.9,
+          "text": "is"
+        },
+        {
+          "startSec": 122.9,
+          "endSec": 123.3,
+          "text": "with"
+        },
+        {
+          "startSec": 123.3,
+          "endSec": 124.5,
+          "text": "investigation."
+        },
+        {
+          "startSec": 124.5,
+          "endSec": 124.7,
+          "text": "I'm"
+        }
+      ]
+    },
+    {
+      "startSec": 124.5,
+      "endSec": 129.7,
+      "text": "I'm looking at artificial intelligence and thinking, what can it do for me?",
+      "words": [
+        {
+          "startSec": 124.5,
+          "endSec": 124.7,
+          "text": "I'm"
+        },
+        {
+          "startSec": 124.7,
+          "endSec": 125.2,
+          "text": "looking"
+        },
+        {
+          "startSec": 125.2,
+          "endSec": 125.4,
+          "text": "at"
+        },
+        {
+          "startSec": 125.4,
+          "endSec": 126.2,
+          "text": "artificial"
+        },
+        {
+          "startSec": 126.2,
+          "endSec": 127.1,
+          "text": "intelligence"
+        },
+        {
+          "startSec": 127.1,
+          "endSec": 127.3,
+          "text": "and"
+        },
+        {
+          "startSec": 127.3,
+          "endSec": 128.1,
+          "text": "thinking,"
+        },
+        {
+          "startSec": 128.1,
+          "endSec": 128.4,
+          "text": "what"
+        },
+        {
+          "startSec": 128.4,
+          "endSec": 128.6,
+          "text": "can"
+        },
+        {
+          "startSec": 128.6,
+          "endSec": 128.8,
+          "text": "it"
+        },
+        {
+          "startSec": 128.8,
+          "endSec": 128.9,
+          "text": "do"
+        },
+        {
+          "startSec": 128.9,
+          "endSec": 129.2,
+          "text": "for"
+        },
+        {
+          "startSec": 129.2,
+          "endSec": 129.7,
+          "text": "me?"
+        },
+        {
+          "startSec": 129.7,
+          "endSec": 130,
+          "text": "Alex"
+        }
+      ]
+    },
+    {
+      "startSec": 129.7,
+      "endSec": 136,
+      "text": "Alex asks Aleister to explain where he's coming from. This means explain his perspective",
+      "words": [
+        {
+          "startSec": 129.7,
+          "endSec": 130,
+          "text": "Alex"
+        },
+        {
+          "startSec": 130,
+          "endSec": 130.3,
+          "text": "asks"
+        },
+        {
+          "startSec": 130.3,
+          "endSec": 131,
+          "text": "Aleister"
+        },
+        {
+          "startSec": 131,
+          "endSec": 131.2,
+          "text": "to"
+        },
+        {
+          "startSec": 131.2,
+          "endSec": 131.8,
+          "text": "explain"
+        },
+        {
+          "startSec": 131.8,
+          "endSec": 132.2,
+          "text": "where"
+        },
+        {
+          "startSec": 132.2,
+          "endSec": 132.6,
+          "text": "he's"
+        },
+        {
+          "startSec": 132.6,
+          "endSec": 133.1,
+          "text": "coming"
+        },
+        {
+          "startSec": 133.1,
+          "endSec": 133.7,
+          "text": "from."
+        },
+        {
+          "startSec": 133.7,
+          "endSec": 134,
+          "text": "This"
+        },
+        {
+          "startSec": 134,
+          "endSec": 134.4,
+          "text": "means"
+        },
+        {
+          "startSec": 134.4,
+          "endSec": 134.9,
+          "text": "explain"
+        },
+        {
+          "startSec": 134.9,
+          "endSec": 135.1,
+          "text": "his"
+        },
+        {
+          "startSec": 135.1,
+          "endSec": 136,
+          "text": "perspective"
+        },
+        {
+          "startSec": 136,
+          "endSec": 136.2,
+          "text": "or"
+        }
+      ]
+    },
+    {
+      "startSec": 136,
+      "endSec": 141.7,
+      "text": "or point of view. In informal English, we'll often ask someone, do you get where I'm coming",
+      "words": [
+        {
+          "startSec": 136,
+          "endSec": 136.2,
+          "text": "or"
+        },
+        {
+          "startSec": 136.2,
+          "endSec": 136.7,
+          "text": "point"
+        },
+        {
+          "startSec": 136.7,
+          "endSec": 136.8,
+          "text": "of"
+        },
+        {
+          "startSec": 136.8,
+          "endSec": 137.5,
+          "text": "view."
+        },
+        {
+          "startSec": 137.5,
+          "endSec": 137.7,
+          "text": "In"
+        },
+        {
+          "startSec": 137.7,
+          "endSec": 138.3,
+          "text": "informal"
+        },
+        {
+          "startSec": 138.3,
+          "endSec": 139,
+          "text": "English,"
+        },
+        {
+          "startSec": 139,
+          "endSec": 139.4,
+          "text": "we'll"
+        },
+        {
+          "startSec": 139.4,
+          "endSec": 139.8,
+          "text": "often"
+        },
+        {
+          "startSec": 139.8,
+          "endSec": 140,
+          "text": "ask"
+        },
+        {
+          "startSec": 140,
+          "endSec": 140.6,
+          "text": "someone,"
+        },
+        {
+          "startSec": 140.6,
+          "endSec": 140.7,
+          "text": "do"
+        },
+        {
+          "startSec": 140.7,
+          "endSec": 140.9,
+          "text": "you"
+        },
+        {
+          "startSec": 140.9,
+          "endSec": 141,
+          "text": "get"
+        },
+        {
+          "startSec": 141,
+          "endSec": 141.2,
+          "text": "where"
+        },
+        {
+          "startSec": 141.2,
+          "endSec": 141.4,
+          "text": "I'm"
+        },
+        {
+          "startSec": 141.4,
+          "endSec": 141.7,
+          "text": "coming"
+        },
+        {
+          "startSec": 141.7,
+          "endSec": 142.7,
+          "text": "from?"
+        }
+      ]
+    },
+    {
+      "startSec": 141.7,
+      "endSec": 146.8,
+      "text": "from? And we're asking whether they understand our opinion or perspective.",
+      "words": [
+        {
+          "startSec": 141.7,
+          "endSec": 142.7,
+          "text": "from?"
+        },
+        {
+          "startSec": 142.7,
+          "endSec": 142.9,
+          "text": "And"
+        },
+        {
+          "startSec": 142.9,
+          "endSec": 143.2,
+          "text": "we're"
+        },
+        {
+          "startSec": 143.2,
+          "endSec": 143.6,
+          "text": "asking"
+        },
+        {
+          "startSec": 143.6,
+          "endSec": 144.1,
+          "text": "whether"
+        },
+        {
+          "startSec": 144.1,
+          "endSec": 144.4,
+          "text": "they"
+        },
+        {
+          "startSec": 144.4,
+          "endSec": 145,
+          "text": "understand"
+        },
+        {
+          "startSec": 145,
+          "endSec": 145.2,
+          "text": "our"
+        },
+        {
+          "startSec": 145.2,
+          "endSec": 145.7,
+          "text": "opinion"
+        },
+        {
+          "startSec": 145.7,
+          "endSec": 145.8,
+          "text": "or"
+        },
+        {
+          "startSec": 145.8,
+          "endSec": 146.8,
+          "text": "perspective."
+        },
+        {
+          "startSec": 146.8,
+          "endSec": 147.3,
+          "text": "Aleister"
+        }
+      ]
+    },
+    {
+      "startSec": 146.8,
+      "endSec": 151.5,
+      "text": "Aleister explains that he's interested in how artificial intelligence could help solve",
+      "words": [
+        {
+          "startSec": 146.8,
+          "endSec": 147.3,
+          "text": "Aleister"
+        },
+        {
+          "startSec": 147.3,
+          "endSec": 147.8,
+          "text": "explains"
+        },
+        {
+          "startSec": 147.8,
+          "endSec": 148,
+          "text": "that"
+        },
+        {
+          "startSec": 148,
+          "endSec": 148.3,
+          "text": "he's"
+        },
+        {
+          "startSec": 148.3,
+          "endSec": 148.9,
+          "text": "interested"
+        },
+        {
+          "startSec": 148.9,
+          "endSec": 149,
+          "text": "in"
+        },
+        {
+          "startSec": 149,
+          "endSec": 149.2,
+          "text": "how"
+        },
+        {
+          "startSec": 149.2,
+          "endSec": 149.8,
+          "text": "artificial"
+        },
+        {
+          "startSec": 149.8,
+          "endSec": 150.6,
+          "text": "intelligence"
+        },
+        {
+          "startSec": 150.6,
+          "endSec": 150.9,
+          "text": "could"
+        },
+        {
+          "startSec": 150.9,
+          "endSec": 151.1,
+          "text": "help"
+        },
+        {
+          "startSec": 151.1,
+          "endSec": 151.5,
+          "text": "solve"
+        },
+        {
+          "startSec": 151.5,
+          "endSec": 151.9,
+          "text": "crimes"
+        }
+      ]
+    },
+    {
+      "startSec": 151.5,
+      "endSec": 156.7,
+      "text": "crimes because he's a police officer with a background in investigations. If you have",
+      "words": [
+        {
+          "startSec": 151.5,
+          "endSec": 151.9,
+          "text": "crimes"
+        },
+        {
+          "startSec": 151.9,
+          "endSec": 152.5,
+          "text": "because"
+        },
+        {
+          "startSec": 152.5,
+          "endSec": 152.7,
+          "text": "he's"
+        },
+        {
+          "startSec": 152.7,
+          "endSec": 152.8,
+          "text": "a"
+        },
+        {
+          "startSec": 152.8,
+          "endSec": 153.3,
+          "text": "police"
+        },
+        {
+          "startSec": 153.3,
+          "endSec": 153.8,
+          "text": "officer"
+        },
+        {
+          "startSec": 153.8,
+          "endSec": 154.1,
+          "text": "with"
+        },
+        {
+          "startSec": 154.1,
+          "endSec": 154.1,
+          "text": "a"
+        },
+        {
+          "startSec": 154.1,
+          "endSec": 154.9,
+          "text": "background"
+        },
+        {
+          "startSec": 154.9,
+          "endSec": 155,
+          "text": "in"
+        },
+        {
+          "startSec": 155,
+          "endSec": 156.3,
+          "text": "investigations."
+        },
+        {
+          "startSec": 156.3,
+          "endSec": 156.4,
+          "text": "If"
+        },
+        {
+          "startSec": 156.4,
+          "endSec": 156.5,
+          "text": "you"
+        },
+        {
+          "startSec": 156.5,
+          "endSec": 156.7,
+          "text": "have"
+        },
+        {
+          "startSec": 156.7,
+          "endSec": 156.8,
+          "text": "a"
+        }
+      ]
+    },
+    {
+      "startSec": 156.7,
+      "endSec": 161.6,
+      "text": "a background in something, it means most of your previous work or experience was related",
+      "words": [
+        {
+          "startSec": 156.7,
+          "endSec": 156.8,
+          "text": "a"
+        },
+        {
+          "startSec": 156.8,
+          "endSec": 157.4,
+          "text": "background"
+        },
+        {
+          "startSec": 157.4,
+          "endSec": 157.5,
+          "text": "in"
+        },
+        {
+          "startSec": 157.5,
+          "endSec": 158.2,
+          "text": "something,"
+        },
+        {
+          "startSec": 158.2,
+          "endSec": 158.4,
+          "text": "it"
+        },
+        {
+          "startSec": 158.4,
+          "endSec": 158.7,
+          "text": "means"
+        },
+        {
+          "startSec": 158.7,
+          "endSec": 159,
+          "text": "most"
+        },
+        {
+          "startSec": 159,
+          "endSec": 159.1,
+          "text": "of"
+        },
+        {
+          "startSec": 159.1,
+          "endSec": 159.3,
+          "text": "your"
+        },
+        {
+          "startSec": 159.3,
+          "endSec": 159.9,
+          "text": "previous"
+        },
+        {
+          "startSec": 159.9,
+          "endSec": 160.1,
+          "text": "work"
+        },
+        {
+          "startSec": 160.1,
+          "endSec": 160.3,
+          "text": "or"
+        },
+        {
+          "startSec": 160.3,
+          "endSec": 160.9,
+          "text": "experience"
+        },
+        {
+          "startSec": 160.9,
+          "endSec": 161.1,
+          "text": "was"
+        },
+        {
+          "startSec": 161.1,
+          "endSec": 161.6,
+          "text": "related"
+        }
+      ]
+    },
+    {
+      "startSec": 161.6,
+      "endSec": 167.9,
+      "text": "to something. For example, I work as a producer at BBC Learning English Now Making Programs",
+      "words": [
+        {
+          "startSec": 161.7,
+          "endSec": 161.8,
+          "text": "to"
+        },
+        {
+          "startSec": 161.8,
+          "endSec": 162.7,
+          "text": "something."
+        },
+        {
+          "startSec": 162.7,
+          "endSec": 163,
+          "text": "For"
+        },
+        {
+          "startSec": 163,
+          "endSec": 163.7,
+          "text": "example,"
+        },
+        {
+          "startSec": 163.7,
+          "endSec": 163.8,
+          "text": "I"
+        },
+        {
+          "startSec": 163.8,
+          "endSec": 164.1,
+          "text": "work"
+        },
+        {
+          "startSec": 164.1,
+          "endSec": 164.2,
+          "text": "as"
+        },
+        {
+          "startSec": 164.2,
+          "endSec": 164.3,
+          "text": "a"
+        },
+        {
+          "startSec": 164.3,
+          "endSec": 164.9,
+          "text": "producer"
+        },
+        {
+          "startSec": 164.9,
+          "endSec": 165.1,
+          "text": "at"
+        },
+        {
+          "startSec": 165.1,
+          "endSec": 165.3,
+          "text": "BBC"
+        },
+        {
+          "startSec": 165.3,
+          "endSec": 166,
+          "text": "Learning"
+        },
+        {
+          "startSec": 166,
+          "endSec": 166.5,
+          "text": "English"
+        },
+        {
+          "startSec": 166.5,
+          "endSec": 166.8,
+          "text": "Now"
+        },
+        {
+          "startSec": 166.8,
+          "endSec": 167.2,
+          "text": "Making"
+        },
+        {
+          "startSec": 167.2,
+          "endSec": 167.9,
+          "text": "Programs"
+        },
+        {
+          "startSec": 167.9,
+          "endSec": 168.2,
+          "text": "but"
+        }
+      ]
+    },
+    {
+      "startSec": 167.9,
+      "endSec": 171.5,
+      "text": "but my background is in classroom teaching.",
+      "words": [
+        {
+          "startSec": 167.9,
+          "endSec": 168.2,
+          "text": "but"
+        },
+        {
+          "startSec": 168.2,
+          "endSec": 168.4,
+          "text": "my"
+        },
+        {
+          "startSec": 168.4,
+          "endSec": 169.3,
+          "text": "background"
+        },
+        {
+          "startSec": 169.3,
+          "endSec": 169.5,
+          "text": "is"
+        },
+        {
+          "startSec": 169.5,
+          "endSec": 169.7,
+          "text": "in"
+        },
+        {
+          "startSec": 169.7,
+          "endSec": 170.5,
+          "text": "classroom"
+        },
+        {
+          "startSec": 170.5,
+          "endSec": 171.5,
+          "text": "teaching."
+        },
+        {
+          "startSec": 171.5,
+          "endSec": 172.2,
+          "text": "Aleister"
+        }
+      ]
+    },
+    {
+      "startSec": 171.5,
+      "endSec": 178.6,
+      "text": "Aleister talks about using artificial intelligence for training and asks what can it do for me?",
+      "words": [
+        {
+          "startSec": 171.5,
+          "endSec": 172.2,
+          "text": "Aleister"
+        },
+        {
+          "startSec": 172.2,
+          "endSec": 172.5,
+          "text": "talks"
+        },
+        {
+          "startSec": 172.5,
+          "endSec": 172.9,
+          "text": "about"
+        },
+        {
+          "startSec": 172.9,
+          "endSec": 173.3,
+          "text": "using"
+        },
+        {
+          "startSec": 173.3,
+          "endSec": 174.1,
+          "text": "artificial"
+        },
+        {
+          "startSec": 174.1,
+          "endSec": 175,
+          "text": "intelligence"
+        },
+        {
+          "startSec": 175,
+          "endSec": 175.2,
+          "text": "for"
+        },
+        {
+          "startSec": 175.2,
+          "endSec": 175.8,
+          "text": "training"
+        },
+        {
+          "startSec": 175.8,
+          "endSec": 176.1,
+          "text": "and"
+        },
+        {
+          "startSec": 176.1,
+          "endSec": 176.4,
+          "text": "asks"
+        },
+        {
+          "startSec": 176.4,
+          "endSec": 176.7,
+          "text": "what"
+        },
+        {
+          "startSec": 176.7,
+          "endSec": 176.9,
+          "text": "can"
+        },
+        {
+          "startSec": 176.9,
+          "endSec": 177.1,
+          "text": "it"
+        },
+        {
+          "startSec": 177.1,
+          "endSec": 177.3,
+          "text": "do"
+        },
+        {
+          "startSec": 177.3,
+          "endSec": 177.6,
+          "text": "for"
+        },
+        {
+          "startSec": 177.6,
+          "endSec": 178.6,
+          "text": "me?"
+        },
+        {
+          "startSec": 178.6,
+          "endSec": 178.9,
+          "text": "This"
+        }
+      ]
+    },
+    {
+      "startSec": 178.6,
+      "endSec": 183,
+      "text": "This means how can artificial intelligence help or improve something?",
+      "words": [
+        {
+          "startSec": 178.6,
+          "endSec": 178.9,
+          "text": "This"
+        },
+        {
+          "startSec": 178.9,
+          "endSec": 179.3,
+          "text": "means"
+        },
+        {
+          "startSec": 179.3,
+          "endSec": 179.5,
+          "text": "how"
+        },
+        {
+          "startSec": 179.5,
+          "endSec": 179.7,
+          "text": "can"
+        },
+        {
+          "startSec": 179.7,
+          "endSec": 180.4,
+          "text": "artificial"
+        },
+        {
+          "startSec": 180.4,
+          "endSec": 181.2,
+          "text": "intelligence"
+        },
+        {
+          "startSec": 181.2,
+          "endSec": 181.5,
+          "text": "help"
+        },
+        {
+          "startSec": 181.5,
+          "endSec": 181.6,
+          "text": "or"
+        },
+        {
+          "startSec": 181.6,
+          "endSec": 182.1,
+          "text": "improve"
+        },
+        {
+          "startSec": 182.1,
+          "endSec": 183,
+          "text": "something?"
+        },
+        {
+          "startSec": 183,
+          "endSec": 183.3,
+          "text": "When"
+        }
+      ]
+    },
+    {
+      "startSec": 183,
+      "endSec": 187.6,
+      "text": "When a crime happens, police officers have to collect and review a lot of information",
+      "words": [
+        {
+          "startSec": 183,
+          "endSec": 183.3,
+          "text": "When"
+        },
+        {
+          "startSec": 183.3,
+          "endSec": 183.3,
+          "text": "a"
+        },
+        {
+          "startSec": 183.3,
+          "endSec": 183.6,
+          "text": "crime"
+        },
+        {
+          "startSec": 183.6,
+          "endSec": 184.2,
+          "text": "happens,"
+        },
+        {
+          "startSec": 184.2,
+          "endSec": 184.6,
+          "text": "police"
+        },
+        {
+          "startSec": 184.6,
+          "endSec": 185.1,
+          "text": "officers"
+        },
+        {
+          "startSec": 185.1,
+          "endSec": 185.3,
+          "text": "have"
+        },
+        {
+          "startSec": 185.3,
+          "endSec": 185.5,
+          "text": "to"
+        },
+        {
+          "startSec": 185.5,
+          "endSec": 185.9,
+          "text": "collect"
+        },
+        {
+          "startSec": 185.9,
+          "endSec": 186.1,
+          "text": "and"
+        },
+        {
+          "startSec": 186.1,
+          "endSec": 186.5,
+          "text": "review"
+        },
+        {
+          "startSec": 186.5,
+          "endSec": 186.5,
+          "text": "a"
+        },
+        {
+          "startSec": 186.5,
+          "endSec": 186.7,
+          "text": "lot"
+        },
+        {
+          "startSec": 186.7,
+          "endSec": 186.8,
+          "text": "of"
+        },
+        {
+          "startSec": 186.8,
+          "endSec": 187.6,
+          "text": "information"
+        }
+      ]
+    },
+    {
+      "startSec": 187.6,
+      "endSec": 192.7,
+      "text": "to find evidence. When you have a lot of information to review, it can be difficult to",
+      "words": [
+        {
+          "startSec": 187.7,
+          "endSec": 187.8,
+          "text": "to"
+        },
+        {
+          "startSec": 187.8,
+          "endSec": 188.1,
+          "text": "find"
+        },
+        {
+          "startSec": 188.1,
+          "endSec": 188.9,
+          "text": "evidence."
+        },
+        {
+          "startSec": 188.9,
+          "endSec": 189.2,
+          "text": "When"
+        },
+        {
+          "startSec": 189.2,
+          "endSec": 189.4,
+          "text": "you"
+        },
+        {
+          "startSec": 189.4,
+          "endSec": 189.8,
+          "text": "have"
+        },
+        {
+          "startSec": 189.8,
+          "endSec": 189.8,
+          "text": "a"
+        },
+        {
+          "startSec": 189.8,
+          "endSec": 190.1,
+          "text": "lot"
+        },
+        {
+          "startSec": 190.1,
+          "endSec": 190.2,
+          "text": "of"
+        },
+        {
+          "startSec": 190.2,
+          "endSec": 191,
+          "text": "information"
+        },
+        {
+          "startSec": 191,
+          "endSec": 191.2,
+          "text": "to"
+        },
+        {
+          "startSec": 191.2,
+          "endSec": 191.9,
+          "text": "review,"
+        },
+        {
+          "startSec": 191.9,
+          "endSec": 192,
+          "text": "it"
+        },
+        {
+          "startSec": 192,
+          "endSec": 192.1,
+          "text": "can"
+        },
+        {
+          "startSec": 192.1,
+          "endSec": 192.2,
+          "text": "be"
+        },
+        {
+          "startSec": 192.2,
+          "endSec": 192.6,
+          "text": "difficult"
+        },
+        {
+          "startSec": 192.6,
+          "endSec": 192.7,
+          "text": "to"
+        },
+        {
+          "startSec": 192.7,
+          "endSec": 193,
+          "text": "know"
+        }
+      ]
+    },
+    {
+      "startSec": 192.7,
+      "endSec": 197.7,
+      "text": "know what's important and find patterns which might be relevant to the crime.",
+      "words": [
+        {
+          "startSec": 192.7,
+          "endSec": 193,
+          "text": "know"
+        },
+        {
+          "startSec": 193,
+          "endSec": 193.4,
+          "text": "what's"
+        },
+        {
+          "startSec": 193.4,
+          "endSec": 194.1,
+          "text": "important"
+        },
+        {
+          "startSec": 194.1,
+          "endSec": 194.3,
+          "text": "and"
+        },
+        {
+          "startSec": 194.3,
+          "endSec": 194.6,
+          "text": "find"
+        },
+        {
+          "startSec": 194.6,
+          "endSec": 195.2,
+          "text": "patterns"
+        },
+        {
+          "startSec": 195.2,
+          "endSec": 195.6,
+          "text": "which"
+        },
+        {
+          "startSec": 195.6,
+          "endSec": 195.9,
+          "text": "might"
+        },
+        {
+          "startSec": 195.9,
+          "endSec": 196.1,
+          "text": "be"
+        },
+        {
+          "startSec": 196.1,
+          "endSec": 196.7,
+          "text": "relevant"
+        },
+        {
+          "startSec": 196.7,
+          "endSec": 196.8,
+          "text": "to"
+        },
+        {
+          "startSec": 196.8,
+          "endSec": 197,
+          "text": "the"
+        },
+        {
+          "startSec": 197,
+          "endSec": 197.7,
+          "text": "crime."
+        },
+        {
+          "startSec": 197.7,
+          "endSec": 198,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 197.7,
+      "endSec": 204.5,
+      "text": "But Professor Ruth Morgan, an expert in crime and forensic science, thinks AI could help",
+      "words": [
+        {
+          "startSec": 197.7,
+          "endSec": 198,
+          "text": "But"
+        },
+        {
+          "startSec": 198,
+          "endSec": 198.7,
+          "text": "Professor"
+        },
+        {
+          "startSec": 198.7,
+          "endSec": 199.1,
+          "text": "Ruth"
+        },
+        {
+          "startSec": 199.1,
+          "endSec": 199.8,
+          "text": "Morgan,"
+        },
+        {
+          "startSec": 199.8,
+          "endSec": 200,
+          "text": "an"
+        },
+        {
+          "startSec": 200,
+          "endSec": 200.5,
+          "text": "expert"
+        },
+        {
+          "startSec": 200.5,
+          "endSec": 200.6,
+          "text": "in"
+        },
+        {
+          "startSec": 200.6,
+          "endSec": 201.1,
+          "text": "crime"
+        },
+        {
+          "startSec": 201.1,
+          "endSec": 201.3,
+          "text": "and"
+        },
+        {
+          "startSec": 201.3,
+          "endSec": 202,
+          "text": "forensic"
+        },
+        {
+          "startSec": 202,
+          "endSec": 202.8,
+          "text": "science,"
+        },
+        {
+          "startSec": 202.8,
+          "endSec": 203.3,
+          "text": "thinks"
+        },
+        {
+          "startSec": 203.3,
+          "endSec": 203.5,
+          "text": "AI"
+        },
+        {
+          "startSec": 203.5,
+          "endSec": 204,
+          "text": "could"
+        },
+        {
+          "startSec": 204,
+          "endSec": 204.5,
+          "text": "help"
+        },
+        {
+          "startSec": 204.5,
+          "endSec": 204.9,
+          "text": "speed"
+        }
+      ]
+    },
+    {
+      "startSec": 204.5,
+      "endSec": 210.9,
+      "text": "speed up police work. As she told BBC Radio 4's, the artificial human.",
+      "words": [
+        {
+          "startSec": 204.5,
+          "endSec": 204.9,
+          "text": "speed"
+        },
+        {
+          "startSec": 204.9,
+          "endSec": 205.1,
+          "text": "up"
+        },
+        {
+          "startSec": 205.1,
+          "endSec": 205.6,
+          "text": "police"
+        },
+        {
+          "startSec": 205.6,
+          "endSec": 206.2,
+          "text": "work."
+        },
+        {
+          "startSec": 206.2,
+          "endSec": 206.4,
+          "text": "As"
+        },
+        {
+          "startSec": 206.4,
+          "endSec": 206.6,
+          "text": "she"
+        },
+        {
+          "startSec": 206.6,
+          "endSec": 207,
+          "text": "told"
+        },
+        {
+          "startSec": 207,
+          "endSec": 207.2,
+          "text": "BBC"
+        },
+        {
+          "startSec": 207.2,
+          "endSec": 207.7,
+          "text": "Radio"
+        },
+        {
+          "startSec": 207.7,
+          "endSec": 208.3,
+          "text": "4's,"
+        },
+        {
+          "startSec": 208.3,
+          "endSec": 208.5,
+          "text": "the"
+        },
+        {
+          "startSec": 208.5,
+          "endSec": 209.4,
+          "text": "artificial"
+        },
+        {
+          "startSec": 209.4,
+          "endSec": 210.9,
+          "text": "human."
+        },
+        {
+          "startSec": 210.9,
+          "endSec": 210.9,
+          "text": "I"
+        },
+        {
+          "startSec": 210.9,
+          "endSec": 211.2,
+          "text": "think"
+        }
+      ]
+    },
+    {
+      "startSec": 210.9,
+      "endSec": 214.6,
+      "text": "I think we're seeing a renaissance in the pattern recognition, forms of evidence, so",
+      "words": [
+        {
+          "startSec": 210.9,
+          "endSec": 210.9,
+          "text": "I"
+        },
+        {
+          "startSec": 210.9,
+          "endSec": 211.2,
+          "text": "think"
+        },
+        {
+          "startSec": 211.2,
+          "endSec": 211.4,
+          "text": "we're"
+        },
+        {
+          "startSec": 211.4,
+          "endSec": 211.7,
+          "text": "seeing"
+        },
+        {
+          "startSec": 211.7,
+          "endSec": 211.8,
+          "text": "a"
+        },
+        {
+          "startSec": 211.8,
+          "endSec": 212.3,
+          "text": "renaissance"
+        },
+        {
+          "startSec": 212.3,
+          "endSec": 212.4,
+          "text": "in"
+        },
+        {
+          "startSec": 212.4,
+          "endSec": 212.6,
+          "text": "the"
+        },
+        {
+          "startSec": 212.6,
+          "endSec": 212.9,
+          "text": "pattern"
+        },
+        {
+          "startSec": 212.9,
+          "endSec": 213.6,
+          "text": "recognition,"
+        },
+        {
+          "startSec": 213.6,
+          "endSec": 213.8,
+          "text": "forms"
+        },
+        {
+          "startSec": 213.8,
+          "endSec": 213.9,
+          "text": "of"
+        },
+        {
+          "startSec": 213.9,
+          "endSec": 214.5,
+          "text": "evidence,"
+        },
+        {
+          "startSec": 214.5,
+          "endSec": 214.6,
+          "text": "so"
+        }
+      ]
+    },
+    {
+      "startSec": 214.6,
+      "endSec": 218.6,
+      "text": "finger marks, footwear marks. There's been lots of challenges with those forms of evidence",
+      "words": [
+        {
+          "startSec": 214.7,
+          "endSec": 214.9,
+          "text": "finger"
+        },
+        {
+          "startSec": 214.9,
+          "endSec": 215.2,
+          "text": "marks,"
+        },
+        {
+          "startSec": 215.2,
+          "endSec": 215.6,
+          "text": "footwear"
+        },
+        {
+          "startSec": 215.6,
+          "endSec": 216,
+          "text": "marks."
+        },
+        {
+          "startSec": 216,
+          "endSec": 216.4,
+          "text": "There's"
+        },
+        {
+          "startSec": 216.4,
+          "endSec": 216.6,
+          "text": "been"
+        },
+        {
+          "startSec": 216.6,
+          "endSec": 216.8,
+          "text": "lots"
+        },
+        {
+          "startSec": 216.8,
+          "endSec": 216.9,
+          "text": "of"
+        },
+        {
+          "startSec": 216.9,
+          "endSec": 217.4,
+          "text": "challenges"
+        },
+        {
+          "startSec": 217.4,
+          "endSec": 217.6,
+          "text": "with"
+        },
+        {
+          "startSec": 217.6,
+          "endSec": 217.8,
+          "text": "those"
+        },
+        {
+          "startSec": 217.8,
+          "endSec": 218.1,
+          "text": "forms"
+        },
+        {
+          "startSec": 218.1,
+          "endSec": 218.2,
+          "text": "of"
+        },
+        {
+          "startSec": 218.2,
+          "endSec": 218.6,
+          "text": "evidence"
+        },
+        {
+          "startSec": 218.6,
+          "endSec": 218.8,
+          "text": "over"
+        }
+      ]
+    },
+    {
+      "startSec": 218.6,
+      "endSec": 222.4,
+      "text": "over the last 10 years, probably a little bit out of favour. And yet what we're beginning",
+      "words": [
+        {
+          "startSec": 218.6,
+          "endSec": 218.8,
+          "text": "over"
+        },
+        {
+          "startSec": 218.8,
+          "endSec": 219,
+          "text": "the"
+        },
+        {
+          "startSec": 219,
+          "endSec": 219.2,
+          "text": "last"
+        },
+        {
+          "startSec": 219.2,
+          "endSec": 219.5,
+          "text": "10"
+        },
+        {
+          "startSec": 219.5,
+          "endSec": 219.8,
+          "text": "years,"
+        },
+        {
+          "startSec": 219.8,
+          "endSec": 220.3,
+          "text": "probably"
+        },
+        {
+          "startSec": 220.3,
+          "endSec": 220.3,
+          "text": "a"
+        },
+        {
+          "startSec": 220.3,
+          "endSec": 220.6,
+          "text": "little"
+        },
+        {
+          "startSec": 220.6,
+          "endSec": 220.8,
+          "text": "bit"
+        },
+        {
+          "startSec": 220.8,
+          "endSec": 220.9,
+          "text": "out"
+        },
+        {
+          "startSec": 220.9,
+          "endSec": 221,
+          "text": "of"
+        },
+        {
+          "startSec": 221,
+          "endSec": 221.5,
+          "text": "favour."
+        },
+        {
+          "startSec": 221.5,
+          "endSec": 221.6,
+          "text": "And"
+        },
+        {
+          "startSec": 221.6,
+          "endSec": 221.7,
+          "text": "yet"
+        },
+        {
+          "startSec": 221.7,
+          "endSec": 221.9,
+          "text": "what"
+        },
+        {
+          "startSec": 221.9,
+          "endSec": 222.1,
+          "text": "we're"
+        },
+        {
+          "startSec": 222.1,
+          "endSec": 222.4,
+          "text": "beginning"
+        },
+        {
+          "startSec": 222.4,
+          "endSec": 222.5,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 222.4,
+      "endSec": 227.3,
+      "text": "to see now with AI is that you can take a photo of a mark with your phone, compare that",
+      "words": [
+        {
+          "startSec": 222.4,
+          "endSec": 222.5,
+          "text": "to"
+        },
+        {
+          "startSec": 222.5,
+          "endSec": 222.7,
+          "text": "see"
+        },
+        {
+          "startSec": 222.7,
+          "endSec": 223,
+          "text": "now"
+        },
+        {
+          "startSec": 223,
+          "endSec": 223.3,
+          "text": "with"
+        },
+        {
+          "startSec": 223.3,
+          "endSec": 223.4,
+          "text": "AI"
+        },
+        {
+          "startSec": 223.4,
+          "endSec": 223.5,
+          "text": "is"
+        },
+        {
+          "startSec": 223.5,
+          "endSec": 223.8,
+          "text": "that"
+        },
+        {
+          "startSec": 223.8,
+          "endSec": 224,
+          "text": "you"
+        },
+        {
+          "startSec": 224,
+          "endSec": 224.3,
+          "text": "can"
+        },
+        {
+          "startSec": 224.3,
+          "endSec": 224.6,
+          "text": "take"
+        },
+        {
+          "startSec": 224.6,
+          "endSec": 224.6,
+          "text": "a"
+        },
+        {
+          "startSec": 224.6,
+          "endSec": 225,
+          "text": "photo"
+        },
+        {
+          "startSec": 225,
+          "endSec": 225.1,
+          "text": "of"
+        },
+        {
+          "startSec": 225.1,
+          "endSec": 225.2,
+          "text": "a"
+        },
+        {
+          "startSec": 225.2,
+          "endSec": 225.5,
+          "text": "mark"
+        },
+        {
+          "startSec": 225.5,
+          "endSec": 225.8,
+          "text": "with"
+        },
+        {
+          "startSec": 225.8,
+          "endSec": 226.1,
+          "text": "your"
+        },
+        {
+          "startSec": 226.1,
+          "endSec": 226.6,
+          "text": "phone,"
+        },
+        {
+          "startSec": 226.6,
+          "endSec": 227.2,
+          "text": "compare"
+        },
+        {
+          "startSec": 227.2,
+          "endSec": 227.3,
+          "text": "that"
+        },
+        {
+          "startSec": 227.3,
+          "endSec": 227.7,
+          "text": "mark"
+        }
+      ]
+    },
+    {
+      "startSec": 227.3,
+      "endSec": 231.3,
+      "text": "mark to the database and get real time in sight.",
+      "words": [
+        {
+          "startSec": 227.3,
+          "endSec": 227.7,
+          "text": "mark"
+        },
+        {
+          "startSec": 227.7,
+          "endSec": 227.9,
+          "text": "to"
+        },
+        {
+          "startSec": 227.9,
+          "endSec": 228.2,
+          "text": "the"
+        },
+        {
+          "startSec": 228.2,
+          "endSec": 229,
+          "text": "database"
+        },
+        {
+          "startSec": 229,
+          "endSec": 229.3,
+          "text": "and"
+        },
+        {
+          "startSec": 229.3,
+          "endSec": 229.6,
+          "text": "get"
+        },
+        {
+          "startSec": 229.6,
+          "endSec": 229.9,
+          "text": "real"
+        },
+        {
+          "startSec": 229.9,
+          "endSec": 230.3,
+          "text": "time"
+        },
+        {
+          "startSec": 230.3,
+          "endSec": 230.5,
+          "text": "in"
+        },
+        {
+          "startSec": 230.5,
+          "endSec": 231.3,
+          "text": "sight."
+        },
+        {
+          "startSec": 231.3,
+          "endSec": 231.6,
+          "text": "Ruth"
+        }
+      ]
+    },
+    {
+      "startSec": 231.3,
+      "endSec": 236,
+      "text": "Ruth says there's a renaissance in looking at patterns in evidence such as finger marks",
+      "words": [
+        {
+          "startSec": 231.3,
+          "endSec": 231.6,
+          "text": "Ruth"
+        },
+        {
+          "startSec": 231.6,
+          "endSec": 231.8,
+          "text": "says"
+        },
+        {
+          "startSec": 231.8,
+          "endSec": 232.2,
+          "text": "there's"
+        },
+        {
+          "startSec": 232.2,
+          "endSec": 232.3,
+          "text": "a"
+        },
+        {
+          "startSec": 232.3,
+          "endSec": 233,
+          "text": "renaissance"
+        },
+        {
+          "startSec": 233,
+          "endSec": 233.1,
+          "text": "in"
+        },
+        {
+          "startSec": 233.1,
+          "endSec": 233.6,
+          "text": "looking"
+        },
+        {
+          "startSec": 233.6,
+          "endSec": 233.7,
+          "text": "at"
+        },
+        {
+          "startSec": 233.7,
+          "endSec": 234.2,
+          "text": "patterns"
+        },
+        {
+          "startSec": 234.2,
+          "endSec": 234.3,
+          "text": "in"
+        },
+        {
+          "startSec": 234.3,
+          "endSec": 234.8,
+          "text": "evidence"
+        },
+        {
+          "startSec": 234.8,
+          "endSec": 235.1,
+          "text": "such"
+        },
+        {
+          "startSec": 235.1,
+          "endSec": 235.2,
+          "text": "as"
+        },
+        {
+          "startSec": 235.2,
+          "endSec": 235.6,
+          "text": "finger"
+        },
+        {
+          "startSec": 235.6,
+          "endSec": 236,
+          "text": "marks"
+        },
+        {
+          "startSec": 236,
+          "endSec": 236.1,
+          "text": "or"
+        }
+      ]
+    },
+    {
+      "startSec": 236,
+      "endSec": 242.9,
+      "text": "or footwear marks. Renaissance means new interest or activity in a particular topic or area.",
+      "words": [
+        {
+          "startSec": 236,
+          "endSec": 236.1,
+          "text": "or"
+        },
+        {
+          "startSec": 236.1,
+          "endSec": 236.8,
+          "text": "footwear"
+        },
+        {
+          "startSec": 236.8,
+          "endSec": 237.4,
+          "text": "marks."
+        },
+        {
+          "startSec": 237.4,
+          "endSec": 238.3,
+          "text": "Renaissance"
+        },
+        {
+          "startSec": 238.3,
+          "endSec": 238.7,
+          "text": "means"
+        },
+        {
+          "startSec": 238.7,
+          "endSec": 239,
+          "text": "new"
+        },
+        {
+          "startSec": 239,
+          "endSec": 239.6,
+          "text": "interest"
+        },
+        {
+          "startSec": 239.6,
+          "endSec": 239.8,
+          "text": "or"
+        },
+        {
+          "startSec": 239.8,
+          "endSec": 240.5,
+          "text": "activity"
+        },
+        {
+          "startSec": 240.5,
+          "endSec": 240.6,
+          "text": "in"
+        },
+        {
+          "startSec": 240.6,
+          "endSec": 240.7,
+          "text": "a"
+        },
+        {
+          "startSec": 240.7,
+          "endSec": 241.4,
+          "text": "particular"
+        },
+        {
+          "startSec": 241.4,
+          "endSec": 241.7,
+          "text": "topic"
+        },
+        {
+          "startSec": 241.7,
+          "endSec": 241.9,
+          "text": "or"
+        },
+        {
+          "startSec": 241.9,
+          "endSec": 242.9,
+          "text": "area."
+        }
+      ]
+    },
+    {
+      "startSec": 242.9,
+      "endSec": 248.2,
+      "text": "This kind of evidence went a little bit out of favour over recent years because of the",
+      "words": [
+        {
+          "startSec": 243,
+          "endSec": 243.2,
+          "text": "This"
+        },
+        {
+          "startSec": 243.2,
+          "endSec": 243.5,
+          "text": "kind"
+        },
+        {
+          "startSec": 243.5,
+          "endSec": 243.7,
+          "text": "of"
+        },
+        {
+          "startSec": 243.7,
+          "endSec": 244.3,
+          "text": "evidence"
+        },
+        {
+          "startSec": 244.3,
+          "endSec": 244.6,
+          "text": "went"
+        },
+        {
+          "startSec": 244.6,
+          "endSec": 244.7,
+          "text": "a"
+        },
+        {
+          "startSec": 244.7,
+          "endSec": 245.1,
+          "text": "little"
+        },
+        {
+          "startSec": 245.1,
+          "endSec": 245.3,
+          "text": "bit"
+        },
+        {
+          "startSec": 245.3,
+          "endSec": 245.6,
+          "text": "out"
+        },
+        {
+          "startSec": 245.6,
+          "endSec": 245.7,
+          "text": "of"
+        },
+        {
+          "startSec": 245.7,
+          "endSec": 246.2,
+          "text": "favour"
+        },
+        {
+          "startSec": 246.2,
+          "endSec": 246.5,
+          "text": "over"
+        },
+        {
+          "startSec": 246.5,
+          "endSec": 246.9,
+          "text": "recent"
+        },
+        {
+          "startSec": 246.9,
+          "endSec": 247.3,
+          "text": "years"
+        },
+        {
+          "startSec": 247.3,
+          "endSec": 247.8,
+          "text": "because"
+        },
+        {
+          "startSec": 247.8,
+          "endSec": 247.9,
+          "text": "of"
+        },
+        {
+          "startSec": 247.9,
+          "endSec": 248.2,
+          "text": "the"
+        },
+        {
+          "startSec": 248.2,
+          "endSec": 249,
+          "text": "excitement"
+        }
+      ]
+    },
+    {
+      "startSec": 248.2,
+      "endSec": 254.9,
+      "text": "excitement around DNA evidence. If something is out of favour, it's less popular or appealing.",
+      "words": [
+        {
+          "startSec": 248.2,
+          "endSec": 249,
+          "text": "excitement"
+        },
+        {
+          "startSec": 249,
+          "endSec": 249.5,
+          "text": "around"
+        },
+        {
+          "startSec": 249.5,
+          "endSec": 249.8,
+          "text": "DNA"
+        },
+        {
+          "startSec": 249.8,
+          "endSec": 250.7,
+          "text": "evidence."
+        },
+        {
+          "startSec": 250.7,
+          "endSec": 250.8,
+          "text": "If"
+        },
+        {
+          "startSec": 250.8,
+          "endSec": 251.6,
+          "text": "something"
+        },
+        {
+          "startSec": 251.6,
+          "endSec": 251.7,
+          "text": "is"
+        },
+        {
+          "startSec": 251.7,
+          "endSec": 252,
+          "text": "out"
+        },
+        {
+          "startSec": 252,
+          "endSec": 252.1,
+          "text": "of"
+        },
+        {
+          "startSec": 252.1,
+          "endSec": 252.8,
+          "text": "favour,"
+        },
+        {
+          "startSec": 252.8,
+          "endSec": 253.1,
+          "text": "it's"
+        },
+        {
+          "startSec": 253.1,
+          "endSec": 253.5,
+          "text": "less"
+        },
+        {
+          "startSec": 253.5,
+          "endSec": 254,
+          "text": "popular"
+        },
+        {
+          "startSec": 254,
+          "endSec": 254.1,
+          "text": "or"
+        },
+        {
+          "startSec": 254.1,
+          "endSec": 254.9,
+          "text": "appealing."
+        },
+        {
+          "startSec": 254.9,
+          "endSec": 255.2,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 254.9,
+      "endSec": 261.1,
+      "text": "But AI could mean that patterns in finger marks or footwear marks are useful in solving",
+      "words": [
+        {
+          "startSec": 254.9,
+          "endSec": 255.2,
+          "text": "But"
+        },
+        {
+          "startSec": 255.2,
+          "endSec": 255.4,
+          "text": "AI"
+        },
+        {
+          "startSec": 255.4,
+          "endSec": 255.8,
+          "text": "could"
+        },
+        {
+          "startSec": 255.8,
+          "endSec": 256.1,
+          "text": "mean"
+        },
+        {
+          "startSec": 256.1,
+          "endSec": 256.5,
+          "text": "that"
+        },
+        {
+          "startSec": 256.5,
+          "endSec": 257.1,
+          "text": "patterns"
+        },
+        {
+          "startSec": 257.1,
+          "endSec": 257.3,
+          "text": "in"
+        },
+        {
+          "startSec": 257.3,
+          "endSec": 257.8,
+          "text": "finger"
+        },
+        {
+          "startSec": 257.8,
+          "endSec": 258.2,
+          "text": "marks"
+        },
+        {
+          "startSec": 258.2,
+          "endSec": 258.4,
+          "text": "or"
+        },
+        {
+          "startSec": 258.4,
+          "endSec": 259.1,
+          "text": "footwear"
+        },
+        {
+          "startSec": 259.1,
+          "endSec": 259.5,
+          "text": "marks"
+        },
+        {
+          "startSec": 259.5,
+          "endSec": 259.8,
+          "text": "are"
+        },
+        {
+          "startSec": 259.8,
+          "endSec": 260.3,
+          "text": "useful"
+        },
+        {
+          "startSec": 260.3,
+          "endSec": 260.4,
+          "text": "in"
+        },
+        {
+          "startSec": 260.4,
+          "endSec": 261.1,
+          "text": "solving"
+        },
+        {
+          "startSec": 261.1,
+          "endSec": 261.6,
+          "text": "crimes"
+        }
+      ]
+    },
+    {
+      "startSec": 261.1,
+      "endSec": 267.1,
+      "text": "crimes again. This is because AI can be used to compare a picture of a mark with a database",
+      "words": [
+        {
+          "startSec": 261.1,
+          "endSec": 261.6,
+          "text": "crimes"
+        },
+        {
+          "startSec": 261.6,
+          "endSec": 262.3,
+          "text": "again."
+        },
+        {
+          "startSec": 262.3,
+          "endSec": 262.6,
+          "text": "This"
+        },
+        {
+          "startSec": 262.6,
+          "endSec": 262.8,
+          "text": "is"
+        },
+        {
+          "startSec": 262.8,
+          "endSec": 263.4,
+          "text": "because"
+        },
+        {
+          "startSec": 263.4,
+          "endSec": 263.6,
+          "text": "AI"
+        },
+        {
+          "startSec": 263.6,
+          "endSec": 263.8,
+          "text": "can"
+        },
+        {
+          "startSec": 263.8,
+          "endSec": 264,
+          "text": "be"
+        },
+        {
+          "startSec": 264,
+          "endSec": 264.3,
+          "text": "used"
+        },
+        {
+          "startSec": 264.3,
+          "endSec": 264.5,
+          "text": "to"
+        },
+        {
+          "startSec": 264.5,
+          "endSec": 265.1,
+          "text": "compare"
+        },
+        {
+          "startSec": 265.1,
+          "endSec": 265.2,
+          "text": "a"
+        },
+        {
+          "startSec": 265.2,
+          "endSec": 265.6,
+          "text": "picture"
+        },
+        {
+          "startSec": 265.6,
+          "endSec": 265.8,
+          "text": "of"
+        },
+        {
+          "startSec": 265.8,
+          "endSec": 265.8,
+          "text": "a"
+        },
+        {
+          "startSec": 265.8,
+          "endSec": 266.1,
+          "text": "mark"
+        },
+        {
+          "startSec": 266.1,
+          "endSec": 266.4,
+          "text": "with"
+        },
+        {
+          "startSec": 266.4,
+          "endSec": 266.5,
+          "text": "a"
+        },
+        {
+          "startSec": 266.5,
+          "endSec": 267.1,
+          "text": "database"
+        }
+      ]
+    },
+    {
+      "startSec": 267.1,
+      "endSec": 273.1,
+      "text": "of pictures from other crimes and get real time in sight. The adjective \"real time\"",
+      "words": [
+        {
+          "startSec": 267.2,
+          "endSec": 267.3,
+          "text": "of"
+        },
+        {
+          "startSec": 267.3,
+          "endSec": 268,
+          "text": "pictures"
+        },
+        {
+          "startSec": 268,
+          "endSec": 268.3,
+          "text": "from"
+        },
+        {
+          "startSec": 268.3,
+          "endSec": 268.7,
+          "text": "other"
+        },
+        {
+          "startSec": 268.7,
+          "endSec": 269.2,
+          "text": "crimes"
+        },
+        {
+          "startSec": 269.2,
+          "endSec": 269.5,
+          "text": "and"
+        },
+        {
+          "startSec": 269.5,
+          "endSec": 269.7,
+          "text": "get"
+        },
+        {
+          "startSec": 269.7,
+          "endSec": 270.1,
+          "text": "real"
+        },
+        {
+          "startSec": 270.1,
+          "endSec": 270.4,
+          "text": "time"
+        },
+        {
+          "startSec": 270.4,
+          "endSec": 270.5,
+          "text": "in"
+        },
+        {
+          "startSec": 270.5,
+          "endSec": 271.2,
+          "text": "sight."
+        },
+        {
+          "startSec": 271.2,
+          "endSec": 271.5,
+          "text": "The"
+        },
+        {
+          "startSec": 271.5,
+          "endSec": 272.2,
+          "text": "adjective"
+        },
+        {
+          "startSec": 272.2,
+          "endSec": 272.6,
+          "text": "\"real"
+        },
+        {
+          "startSec": 272.6,
+          "endSec": 273.1,
+          "text": "time\""
+        },
+        {
+          "startSec": 273.1,
+          "endSec": 273.4,
+          "text": "means"
+        }
+      ]
+    },
+    {
+      "startSec": 273.1,
+      "endSec": 276.9,
+      "text": "means the information is presented at the same time that it's happening.",
+      "words": [
+        {
+          "startSec": 273.1,
+          "endSec": 273.4,
+          "text": "means"
+        },
+        {
+          "startSec": 273.4,
+          "endSec": 273.6,
+          "text": "the"
+        },
+        {
+          "startSec": 273.6,
+          "endSec": 274.3,
+          "text": "information"
+        },
+        {
+          "startSec": 274.3,
+          "endSec": 274.4,
+          "text": "is"
+        },
+        {
+          "startSec": 274.4,
+          "endSec": 274.9,
+          "text": "presented"
+        },
+        {
+          "startSec": 274.9,
+          "endSec": 275,
+          "text": "at"
+        },
+        {
+          "startSec": 275,
+          "endSec": 275.2,
+          "text": "the"
+        },
+        {
+          "startSec": 275.2,
+          "endSec": 275.4,
+          "text": "same"
+        },
+        {
+          "startSec": 275.4,
+          "endSec": 275.6,
+          "text": "time"
+        },
+        {
+          "startSec": 275.6,
+          "endSec": 275.9,
+          "text": "that"
+        },
+        {
+          "startSec": 275.9,
+          "endSec": 276.1,
+          "text": "it's"
+        },
+        {
+          "startSec": 276.1,
+          "endSec": 276.9,
+          "text": "happening."
+        },
+        {
+          "startSec": 276.9,
+          "endSec": 277.4,
+          "text": "Yes,"
+        }
+      ]
+    },
+    {
+      "startSec": 276.9,
+      "endSec": 284.5,
+      "text": "Yes, AI can compare lots of information very quickly, which makes finding patterns in evidence",
+      "words": [
+        {
+          "startSec": 276.9,
+          "endSec": 277.4,
+          "text": "Yes,"
+        },
+        {
+          "startSec": 277.4,
+          "endSec": 277.5,
+          "text": "AI"
+        },
+        {
+          "startSec": 277.5,
+          "endSec": 277.8,
+          "text": "can"
+        },
+        {
+          "startSec": 277.8,
+          "endSec": 278.5,
+          "text": "compare"
+        },
+        {
+          "startSec": 278.5,
+          "endSec": 278.8,
+          "text": "lots"
+        },
+        {
+          "startSec": 278.8,
+          "endSec": 279,
+          "text": "of"
+        },
+        {
+          "startSec": 279,
+          "endSec": 280.1,
+          "text": "information"
+        },
+        {
+          "startSec": 280.1,
+          "endSec": 280.4,
+          "text": "very"
+        },
+        {
+          "startSec": 280.4,
+          "endSec": 281.3,
+          "text": "quickly,"
+        },
+        {
+          "startSec": 281.3,
+          "endSec": 281.7,
+          "text": "which"
+        },
+        {
+          "startSec": 281.7,
+          "endSec": 282.2,
+          "text": "makes"
+        },
+        {
+          "startSec": 282.2,
+          "endSec": 282.8,
+          "text": "finding"
+        },
+        {
+          "startSec": 282.8,
+          "endSec": 283.7,
+          "text": "patterns"
+        },
+        {
+          "startSec": 283.7,
+          "endSec": 283.8,
+          "text": "in"
+        },
+        {
+          "startSec": 283.8,
+          "endSec": 284.5,
+          "text": "evidence"
+        },
+        {
+          "startSec": 284.5,
+          "endSec": 285,
+          "text": "much"
+        }
+      ]
+    },
+    {
+      "startSec": 284.5,
+      "endSec": 287.5,
+      "text": "much easier and more reliable.",
+      "words": [
+        {
+          "startSec": 284.5,
+          "endSec": 285,
+          "text": "much"
+        },
+        {
+          "startSec": 285,
+          "endSec": 285.6,
+          "text": "easier"
+        },
+        {
+          "startSec": 285.6,
+          "endSec": 285.9,
+          "text": "and"
+        },
+        {
+          "startSec": 285.9,
+          "endSec": 286.3,
+          "text": "more"
+        },
+        {
+          "startSec": 286.3,
+          "endSec": 287.5,
+          "text": "reliable."
+        },
+        {
+          "startSec": 287.5,
+          "endSec": 287.9,
+          "text": "There"
+        }
+      ]
+    },
+    {
+      "startSec": 287.5,
+      "endSec": 290.9,
+      "text": "There are some problems with using AI to solve crimes though.",
+      "words": [
+        {
+          "startSec": 287.5,
+          "endSec": 287.9,
+          "text": "There"
+        },
+        {
+          "startSec": 287.9,
+          "endSec": 288,
+          "text": "are"
+        },
+        {
+          "startSec": 288,
+          "endSec": 288.3,
+          "text": "some"
+        },
+        {
+          "startSec": 288.3,
+          "endSec": 288.8,
+          "text": "problems"
+        },
+        {
+          "startSec": 288.8,
+          "endSec": 289,
+          "text": "with"
+        },
+        {
+          "startSec": 289,
+          "endSec": 289.4,
+          "text": "using"
+        },
+        {
+          "startSec": 289.4,
+          "endSec": 289.5,
+          "text": "AI"
+        },
+        {
+          "startSec": 289.5,
+          "endSec": 289.6,
+          "text": "to"
+        },
+        {
+          "startSec": 289.6,
+          "endSec": 289.9,
+          "text": "solve"
+        },
+        {
+          "startSec": 289.9,
+          "endSec": 290.3,
+          "text": "crimes"
+        },
+        {
+          "startSec": 290.3,
+          "endSec": 290.9,
+          "text": "though."
+        },
+        {
+          "startSec": 290.9,
+          "endSec": 291,
+          "text": "To"
+        }
+      ]
+    },
+    {
+      "startSec": 290.9,
+      "endSec": 297.1,
+      "text": "To find these patterns, lots of private information would need to be collected and police usually",
+      "words": [
+        {
+          "startSec": 290.9,
+          "endSec": 291,
+          "text": "To"
+        },
+        {
+          "startSec": 291,
+          "endSec": 291.3,
+          "text": "find"
+        },
+        {
+          "startSec": 291.3,
+          "endSec": 291.7,
+          "text": "these"
+        },
+        {
+          "startSec": 291.7,
+          "endSec": 292.4,
+          "text": "patterns,"
+        },
+        {
+          "startSec": 292.4,
+          "endSec": 292.7,
+          "text": "lots"
+        },
+        {
+          "startSec": 292.7,
+          "endSec": 292.9,
+          "text": "of"
+        },
+        {
+          "startSec": 292.9,
+          "endSec": 293.4,
+          "text": "private"
+        },
+        {
+          "startSec": 293.4,
+          "endSec": 294.2,
+          "text": "information"
+        },
+        {
+          "startSec": 294.2,
+          "endSec": 294.6,
+          "text": "would"
+        },
+        {
+          "startSec": 294.6,
+          "endSec": 294.9,
+          "text": "need"
+        },
+        {
+          "startSec": 294.9,
+          "endSec": 295,
+          "text": "to"
+        },
+        {
+          "startSec": 295,
+          "endSec": 295.1,
+          "text": "be"
+        },
+        {
+          "startSec": 295.1,
+          "endSec": 295.8,
+          "text": "collected"
+        },
+        {
+          "startSec": 295.8,
+          "endSec": 296,
+          "text": "and"
+        },
+        {
+          "startSec": 296,
+          "endSec": 296.6,
+          "text": "police"
+        },
+        {
+          "startSec": 296.6,
+          "endSec": 297.1,
+          "text": "usually"
+        },
+        {
+          "startSec": 297.1,
+          "endSec": 297.4,
+          "text": "have"
+        }
+      ]
+    },
+    {
+      "startSec": 297.1,
+      "endSec": 303.3,
+      "text": "have to give clear reasons why they need access to certain information in their investigations.",
+      "words": [
+        {
+          "startSec": 297.1,
+          "endSec": 297.4,
+          "text": "have"
+        },
+        {
+          "startSec": 297.4,
+          "endSec": 297.5,
+          "text": "to"
+        },
+        {
+          "startSec": 297.5,
+          "endSec": 297.8,
+          "text": "give"
+        },
+        {
+          "startSec": 297.8,
+          "endSec": 298.2,
+          "text": "clear"
+        },
+        {
+          "startSec": 298.2,
+          "endSec": 298.7,
+          "text": "reasons"
+        },
+        {
+          "startSec": 298.7,
+          "endSec": 298.9,
+          "text": "why"
+        },
+        {
+          "startSec": 298.9,
+          "endSec": 299.2,
+          "text": "they"
+        },
+        {
+          "startSec": 299.2,
+          "endSec": 299.5,
+          "text": "need"
+        },
+        {
+          "startSec": 299.5,
+          "endSec": 300,
+          "text": "access"
+        },
+        {
+          "startSec": 300,
+          "endSec": 300.1,
+          "text": "to"
+        },
+        {
+          "startSec": 300.1,
+          "endSec": 300.6,
+          "text": "certain"
+        },
+        {
+          "startSec": 300.6,
+          "endSec": 301.5,
+          "text": "information"
+        },
+        {
+          "startSec": 301.5,
+          "endSec": 301.6,
+          "text": "in"
+        },
+        {
+          "startSec": 301.6,
+          "endSec": 302,
+          "text": "their"
+        },
+        {
+          "startSec": 302,
+          "endSec": 303.3,
+          "text": "investigations."
+        },
+        {
+          "startSec": 303.3,
+          "endSec": 303.7,
+          "text": "It's"
+        }
+      ]
+    },
+    {
+      "startSec": 303.3,
+      "endSec": 309.1,
+      "text": "It's unlikely an AI-powered robot would ever replace a detective any time soon.",
+      "words": [
+        {
+          "startSec": 303.3,
+          "endSec": 303.7,
+          "text": "It's"
+        },
+        {
+          "startSec": 303.7,
+          "endSec": 304.3,
+          "text": "unlikely"
+        },
+        {
+          "startSec": 304.3,
+          "endSec": 304.5,
+          "text": "an"
+        },
+        {
+          "startSec": 304.5,
+          "endSec": 305.3,
+          "text": "AI-powered"
+        },
+        {
+          "startSec": 305.3,
+          "endSec": 305.7,
+          "text": "robot"
+        },
+        {
+          "startSec": 305.7,
+          "endSec": 306.1,
+          "text": "would"
+        },
+        {
+          "startSec": 306.1,
+          "endSec": 306.5,
+          "text": "ever"
+        },
+        {
+          "startSec": 306.5,
+          "endSec": 307,
+          "text": "replace"
+        },
+        {
+          "startSec": 307,
+          "endSec": 307.1,
+          "text": "a"
+        },
+        {
+          "startSec": 307.1,
+          "endSec": 307.9,
+          "text": "detective"
+        },
+        {
+          "startSec": 307.9,
+          "endSec": 308.1,
+          "text": "any"
+        },
+        {
+          "startSec": 308.1,
+          "endSec": 308.4,
+          "text": "time"
+        },
+        {
+          "startSec": 308.4,
+          "endSec": 309.1,
+          "text": "soon."
+        },
+        {
+          "startSec": 309.1,
+          "endSec": 309.5,
+          "text": "Yes,"
+        }
+      ]
+    },
+    {
+      "startSec": 309.1,
+      "endSec": 315.1,
+      "text": "Yes, and that reminds me of your question, Neil. I said that Sherlock Holmes was maybe",
+      "words": [
+        {
+          "startSec": 309.1,
+          "endSec": 309.5,
+          "text": "Yes,"
+        },
+        {
+          "startSec": 309.5,
+          "endSec": 309.7,
+          "text": "and"
+        },
+        {
+          "startSec": 309.7,
+          "endSec": 310,
+          "text": "that"
+        },
+        {
+          "startSec": 310,
+          "endSec": 310.5,
+          "text": "reminds"
+        },
+        {
+          "startSec": 310.5,
+          "endSec": 310.7,
+          "text": "me"
+        },
+        {
+          "startSec": 310.7,
+          "endSec": 310.8,
+          "text": "of"
+        },
+        {
+          "startSec": 310.8,
+          "endSec": 311.1,
+          "text": "your"
+        },
+        {
+          "startSec": 311.1,
+          "endSec": 311.9,
+          "text": "question,"
+        },
+        {
+          "startSec": 311.9,
+          "endSec": 312.4,
+          "text": "Neil."
+        },
+        {
+          "startSec": 312.4,
+          "endSec": 312.5,
+          "text": "I"
+        },
+        {
+          "startSec": 312.5,
+          "endSec": 312.8,
+          "text": "said"
+        },
+        {
+          "startSec": 312.8,
+          "endSec": 313.2,
+          "text": "that"
+        },
+        {
+          "startSec": 313.2,
+          "endSec": 313.9,
+          "text": "Sherlock"
+        },
+        {
+          "startSec": 313.9,
+          "endSec": 314.4,
+          "text": "Holmes"
+        },
+        {
+          "startSec": 314.4,
+          "endSec": 314.6,
+          "text": "was"
+        },
+        {
+          "startSec": 314.6,
+          "endSec": 315.1,
+          "text": "maybe"
+        },
+        {
+          "startSec": 315.1,
+          "endSec": 315.3,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 315.1,
+      "endSec": 317.6,
+      "text": "the most popular detective, was I right?",
+      "words": [
+        {
+          "startSec": 315.1,
+          "endSec": 315.3,
+          "text": "the"
+        },
+        {
+          "startSec": 315.3,
+          "endSec": 315.5,
+          "text": "most"
+        },
+        {
+          "startSec": 315.5,
+          "endSec": 316,
+          "text": "popular"
+        },
+        {
+          "startSec": 316,
+          "endSec": 316.8,
+          "text": "detective,"
+        },
+        {
+          "startSec": 316.8,
+          "endSec": 317,
+          "text": "was"
+        },
+        {
+          "startSec": 317,
+          "endSec": 317,
+          "text": "I"
+        },
+        {
+          "startSec": 317,
+          "endSec": 317.6,
+          "text": "right?"
+        },
+        {
+          "startSec": 317.6,
+          "endSec": 317.9,
+          "text": "You"
+        }
+      ]
+    },
+    {
+      "startSec": 317.6,
+      "endSec": 323.3,
+      "text": "You were absolutely right. And I think people should try the quiz on our website to find",
+      "words": [
+        {
+          "startSec": 317.6,
+          "endSec": 317.9,
+          "text": "You"
+        },
+        {
+          "startSec": 317.9,
+          "endSec": 318.2,
+          "text": "were"
+        },
+        {
+          "startSec": 318.2,
+          "endSec": 319.1,
+          "text": "absolutely"
+        },
+        {
+          "startSec": 319.1,
+          "endSec": 319.9,
+          "text": "right."
+        },
+        {
+          "startSec": 319.9,
+          "endSec": 320.1,
+          "text": "And"
+        },
+        {
+          "startSec": 320.1,
+          "endSec": 320.1,
+          "text": "I"
+        },
+        {
+          "startSec": 320.1,
+          "endSec": 320.4,
+          "text": "think"
+        },
+        {
+          "startSec": 320.4,
+          "endSec": 320.8,
+          "text": "people"
+        },
+        {
+          "startSec": 320.8,
+          "endSec": 321.2,
+          "text": "should"
+        },
+        {
+          "startSec": 321.2,
+          "endSec": 321.4,
+          "text": "try"
+        },
+        {
+          "startSec": 321.4,
+          "endSec": 321.6,
+          "text": "the"
+        },
+        {
+          "startSec": 321.6,
+          "endSec": 321.8,
+          "text": "quiz"
+        },
+        {
+          "startSec": 321.8,
+          "endSec": 321.9,
+          "text": "on"
+        },
+        {
+          "startSec": 321.9,
+          "endSec": 322.2,
+          "text": "our"
+        },
+        {
+          "startSec": 322.2,
+          "endSec": 322.9,
+          "text": "website"
+        },
+        {
+          "startSec": 322.9,
+          "endSec": 323,
+          "text": "to"
+        },
+        {
+          "startSec": 323,
+          "endSec": 323.3,
+          "text": "find"
+        }
+      ]
+    },
+    {
+      "startSec": 323.3,
+      "endSec": 327.3,
+      "text": "out how much they know as well. It's at bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 323.4,
+          "endSec": 323.5,
+          "text": "out"
+        },
+        {
+          "startSec": 323.5,
+          "endSec": 323.7,
+          "text": "how"
+        },
+        {
+          "startSec": 323.7,
+          "endSec": 324,
+          "text": "much"
+        },
+        {
+          "startSec": 324,
+          "endSec": 324.3,
+          "text": "they"
+        },
+        {
+          "startSec": 324.3,
+          "endSec": 324.6,
+          "text": "know"
+        },
+        {
+          "startSec": 324.6,
+          "endSec": 324.7,
+          "text": "as"
+        },
+        {
+          "startSec": 324.7,
+          "endSec": 325.2,
+          "text": "well."
+        },
+        {
+          "startSec": 325.2,
+          "endSec": 325.5,
+          "text": "It's"
+        },
+        {
+          "startSec": 325.5,
+          "endSec": 325.6,
+          "text": "at"
+        },
+        {
+          "startSec": 325.6,
+          "endSec": 327.3,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 327.3,
+          "endSec": 327.7,
+          "text": "Okay,"
+        }
+      ]
+    },
+    {
+      "startSec": 327.3,
+      "endSec": 331.9,
+      "text": "Okay, let's recap the vocabulary we've learned, starting with the expression \"where you're",
+      "words": [
+        {
+          "startSec": 327.3,
+          "endSec": 327.7,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 327.7,
+          "endSec": 328,
+          "text": "let's"
+        },
+        {
+          "startSec": 328,
+          "endSec": 328.3,
+          "text": "recap"
+        },
+        {
+          "startSec": 328.3,
+          "endSec": 328.5,
+          "text": "the"
+        },
+        {
+          "startSec": 328.5,
+          "endSec": 329.1,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 329.1,
+          "endSec": 329.4,
+          "text": "we've"
+        },
+        {
+          "startSec": 329.4,
+          "endSec": 329.9,
+          "text": "learned,"
+        },
+        {
+          "startSec": 329.9,
+          "endSec": 330.4,
+          "text": "starting"
+        },
+        {
+          "startSec": 330.4,
+          "endSec": 330.6,
+          "text": "with"
+        },
+        {
+          "startSec": 330.6,
+          "endSec": 330.8,
+          "text": "the"
+        },
+        {
+          "startSec": 330.8,
+          "endSec": 331.4,
+          "text": "expression"
+        },
+        {
+          "startSec": 331.4,
+          "endSec": 331.8,
+          "text": "\"where"
+        },
+        {
+          "startSec": 331.8,
+          "endSec": 331.9,
+          "text": "you're"
+        },
+        {
+          "startSec": 331.9,
+          "endSec": 332.4,
+          "text": "coming"
+        }
+      ]
+    },
+    {
+      "startSec": 331.9,
+      "endSec": 336,
+      "text": "coming from\" which means your opinion or perspective on something.",
+      "words": [
+        {
+          "startSec": 331.9,
+          "endSec": 332.4,
+          "text": "coming"
+        },
+        {
+          "startSec": 332.4,
+          "endSec": 332.7,
+          "text": "from\""
+        },
+        {
+          "startSec": 332.7,
+          "endSec": 333,
+          "text": "which"
+        },
+        {
+          "startSec": 333,
+          "endSec": 333.4,
+          "text": "means"
+        },
+        {
+          "startSec": 333.4,
+          "endSec": 333.6,
+          "text": "your"
+        },
+        {
+          "startSec": 333.6,
+          "endSec": 334.1,
+          "text": "opinion"
+        },
+        {
+          "startSec": 334.1,
+          "endSec": 334.2,
+          "text": "or"
+        },
+        {
+          "startSec": 334.2,
+          "endSec": 335,
+          "text": "perspective"
+        },
+        {
+          "startSec": 335,
+          "endSec": 335.1,
+          "text": "on"
+        },
+        {
+          "startSec": 335.1,
+          "endSec": 336,
+          "text": "something."
+        },
+        {
+          "startSec": 336,
+          "endSec": 336.3,
+          "text": "Your"
+        }
+      ]
+    },
+    {
+      "startSec": 336,
+      "endSec": 340.3,
+      "text": "Your background is the area that you have the most work experience in.",
+      "words": [
+        {
+          "startSec": 336,
+          "endSec": 336.3,
+          "text": "Your"
+        },
+        {
+          "startSec": 336.3,
+          "endSec": 337,
+          "text": "background"
+        },
+        {
+          "startSec": 337,
+          "endSec": 337.1,
+          "text": "is"
+        },
+        {
+          "startSec": 337.1,
+          "endSec": 337.3,
+          "text": "the"
+        },
+        {
+          "startSec": 337.3,
+          "endSec": 337.6,
+          "text": "area"
+        },
+        {
+          "startSec": 337.6,
+          "endSec": 337.9,
+          "text": "that"
+        },
+        {
+          "startSec": 337.9,
+          "endSec": 338.1,
+          "text": "you"
+        },
+        {
+          "startSec": 338.1,
+          "endSec": 338.4,
+          "text": "have"
+        },
+        {
+          "startSec": 338.4,
+          "endSec": 338.6,
+          "text": "the"
+        },
+        {
+          "startSec": 338.6,
+          "endSec": 338.9,
+          "text": "most"
+        },
+        {
+          "startSec": 338.9,
+          "endSec": 339.1,
+          "text": "work"
+        },
+        {
+          "startSec": 339.1,
+          "endSec": 339.9,
+          "text": "experience"
+        },
+        {
+          "startSec": 339.9,
+          "endSec": 340.3,
+          "text": "in."
+        },
+        {
+          "startSec": 340.3,
+          "endSec": 340.5,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 340.3,
+      "endSec": 345.6,
+      "text": "The question \"what can this do for me?\" means \"how can this help or improve things?\"",
+      "words": [
+        {
+          "startSec": 340.3,
+          "endSec": 340.5,
+          "text": "The"
+        },
+        {
+          "startSec": 340.5,
+          "endSec": 341.1,
+          "text": "question"
+        },
+        {
+          "startSec": 341.1,
+          "endSec": 341.4,
+          "text": "\"what"
+        },
+        {
+          "startSec": 341.4,
+          "endSec": 341.6,
+          "text": "can"
+        },
+        {
+          "startSec": 341.6,
+          "endSec": 341.9,
+          "text": "this"
+        },
+        {
+          "startSec": 341.9,
+          "endSec": 342,
+          "text": "do"
+        },
+        {
+          "startSec": 342,
+          "endSec": 342.2,
+          "text": "for"
+        },
+        {
+          "startSec": 342.2,
+          "endSec": 342.7,
+          "text": "me?\""
+        },
+        {
+          "startSec": 342.7,
+          "endSec": 343,
+          "text": "means"
+        },
+        {
+          "startSec": 343,
+          "endSec": 343.3,
+          "text": "\"how"
+        },
+        {
+          "startSec": 343.3,
+          "endSec": 343.5,
+          "text": "can"
+        },
+        {
+          "startSec": 343.5,
+          "endSec": 343.8,
+          "text": "this"
+        },
+        {
+          "startSec": 343.8,
+          "endSec": 344.1,
+          "text": "help"
+        },
+        {
+          "startSec": 344.1,
+          "endSec": 344.3,
+          "text": "or"
+        },
+        {
+          "startSec": 344.3,
+          "endSec": 344.8,
+          "text": "improve"
+        },
+        {
+          "startSec": 344.8,
+          "endSec": 345.6,
+          "text": "things?\""
+        },
+        {
+          "startSec": 345.6,
+          "endSec": 346.5,
+          "text": "Renaissance"
+        }
+      ]
+    },
+    {
+      "startSec": 345.6,
+      "endSec": 349.6,
+      "text": "Renaissance means new interest or activity in something.",
+      "words": [
+        {
+          "startSec": 345.6,
+          "endSec": 346.5,
+          "text": "Renaissance"
+        },
+        {
+          "startSec": 346.5,
+          "endSec": 346.9,
+          "text": "means"
+        },
+        {
+          "startSec": 346.9,
+          "endSec": 347.1,
+          "text": "new"
+        },
+        {
+          "startSec": 347.1,
+          "endSec": 347.7,
+          "text": "interest"
+        },
+        {
+          "startSec": 347.7,
+          "endSec": 347.9,
+          "text": "or"
+        },
+        {
+          "startSec": 347.9,
+          "endSec": 348.5,
+          "text": "activity"
+        },
+        {
+          "startSec": 348.5,
+          "endSec": 348.6,
+          "text": "in"
+        },
+        {
+          "startSec": 348.6,
+          "endSec": 349.6,
+          "text": "something."
+        },
+        {
+          "startSec": 349.6,
+          "endSec": 349.7,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 349.6,
+      "endSec": 353.7,
+      "text": "If something is out of favour, it has become less popular or appealing.",
+      "words": [
+        {
+          "startSec": 349.6,
+          "endSec": 349.7,
+          "text": "If"
+        },
+        {
+          "startSec": 349.7,
+          "endSec": 350.3,
+          "text": "something"
+        },
+        {
+          "startSec": 350.3,
+          "endSec": 350.4,
+          "text": "is"
+        },
+        {
+          "startSec": 350.4,
+          "endSec": 350.6,
+          "text": "out"
+        },
+        {
+          "startSec": 350.6,
+          "endSec": 350.7,
+          "text": "of"
+        },
+        {
+          "startSec": 350.7,
+          "endSec": 351.2,
+          "text": "favour,"
+        },
+        {
+          "startSec": 351.2,
+          "endSec": 351.3,
+          "text": "it"
+        },
+        {
+          "startSec": 351.3,
+          "endSec": 351.5,
+          "text": "has"
+        },
+        {
+          "startSec": 351.5,
+          "endSec": 351.9,
+          "text": "become"
+        },
+        {
+          "startSec": 351.9,
+          "endSec": 352.1,
+          "text": "less"
+        },
+        {
+          "startSec": 352.1,
+          "endSec": 352.6,
+          "text": "popular"
+        },
+        {
+          "startSec": 352.6,
+          "endSec": 352.7,
+          "text": "or"
+        },
+        {
+          "startSec": 352.7,
+          "endSec": 353.7,
+          "text": "appealing."
+        },
+        {
+          "startSec": 353.7,
+          "endSec": 353.9,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 353.7,
+      "endSec": 358.8,
+      "text": "And the adjective \"real time\" means information is presented as it is happening.",
+      "words": [
+        {
+          "startSec": 353.7,
+          "endSec": 353.9,
+          "text": "And"
+        },
+        {
+          "startSec": 353.9,
+          "endSec": 354.1,
+          "text": "the"
+        },
+        {
+          "startSec": 354.1,
+          "endSec": 354.7,
+          "text": "adjective"
+        },
+        {
+          "startSec": 354.7,
+          "endSec": 355.1,
+          "text": "\"real"
+        },
+        {
+          "startSec": 355.1,
+          "endSec": 355.5,
+          "text": "time\""
+        },
+        {
+          "startSec": 355.5,
+          "endSec": 355.8,
+          "text": "means"
+        },
+        {
+          "startSec": 355.8,
+          "endSec": 356.6,
+          "text": "information"
+        },
+        {
+          "startSec": 356.6,
+          "endSec": 356.8,
+          "text": "is"
+        },
+        {
+          "startSec": 356.8,
+          "endSec": 357.4,
+          "text": "presented"
+        },
+        {
+          "startSec": 357.4,
+          "endSec": 357.5,
+          "text": "as"
+        },
+        {
+          "startSec": 357.5,
+          "endSec": 357.7,
+          "text": "it"
+        },
+        {
+          "startSec": 357.7,
+          "endSec": 357.8,
+          "text": "is"
+        },
+        {
+          "startSec": 357.8,
+          "endSec": 358.8,
+          "text": "happening."
+        },
+        {
+          "startSec": 358.8,
+          "endSec": 359,
+          "text": "Once"
+        }
+      ]
+    },
+    {
+      "startSec": 358.8,
+      "endSec": 363.4,
+      "text": "Once again, our 6 minutes are up. Head to our website to find more episodes of 6 Minute",
+      "words": [
+        {
+          "startSec": 358.8,
+          "endSec": 359,
+          "text": "Once"
+        },
+        {
+          "startSec": 359,
+          "endSec": 359.4,
+          "text": "again,"
+        },
+        {
+          "startSec": 359.4,
+          "endSec": 359.6,
+          "text": "our"
+        },
+        {
+          "startSec": 359.6,
+          "endSec": 359.7,
+          "text": "6"
+        },
+        {
+          "startSec": 359.7,
+          "endSec": 360.1,
+          "text": "minutes"
+        },
+        {
+          "startSec": 360.1,
+          "endSec": 360.3,
+          "text": "are"
+        },
+        {
+          "startSec": 360.3,
+          "endSec": 360.6,
+          "text": "up."
+        },
+        {
+          "startSec": 360.6,
+          "endSec": 360.8,
+          "text": "Head"
+        },
+        {
+          "startSec": 360.8,
+          "endSec": 360.9,
+          "text": "to"
+        },
+        {
+          "startSec": 360.9,
+          "endSec": 361.1,
+          "text": "our"
+        },
+        {
+          "startSec": 361.1,
+          "endSec": 361.6,
+          "text": "website"
+        },
+        {
+          "startSec": 361.6,
+          "endSec": 361.7,
+          "text": "to"
+        },
+        {
+          "startSec": 361.7,
+          "endSec": 361.9,
+          "text": "find"
+        },
+        {
+          "startSec": 361.9,
+          "endSec": 362.2,
+          "text": "more"
+        },
+        {
+          "startSec": 362.2,
+          "endSec": 362.7,
+          "text": "episodes"
+        },
+        {
+          "startSec": 362.7,
+          "endSec": 362.9,
+          "text": "of"
+        },
+        {
+          "startSec": 362.9,
+          "endSec": 363.2,
+          "text": "6"
+        },
+        {
+          "startSec": 363.2,
+          "endSec": 363.4,
+          "text": "Minute"
+        },
+        {
+          "startSec": 363.4,
+          "endSec": 363.9,
+          "text": "English"
+        }
+      ]
+    },
+    {
+      "startSec": 363.4,
+      "endSec": 367.2,
+      "text": "English at bbclearningenglish.com. Bye for now.",
+      "words": [
+        {
+          "startSec": 363.4,
+          "endSec": 363.9,
+          "text": "English"
+        },
+        {
+          "startSec": 363.9,
+          "endSec": 364.1,
+          "text": "at"
+        },
+        {
+          "startSec": 364.1,
+          "endSec": 366.3,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 366.3,
+          "endSec": 366.5,
+          "text": "Bye"
+        },
+        {
+          "startSec": 366.5,
+          "endSec": 366.7,
+          "text": "for"
+        },
+        {
+          "startSec": 366.7,
+          "endSec": 367.2,
+          "text": "now."
+        },
+        {
+          "startSec": 367.2,
+          "endSec": 369,
+          "text": "Bye."
+        }
+      ]
+    },
+    {
+      "startSec": 367.2,
+      "endSec": 369,
+      "text": "Bye.",
+      "words": [
+        {
+          "startSec": 367.2,
+          "endSec": 369,
+          "text": "Bye."
+        }
+      ]
+    }
+  ],
+  "introSec": 7.8
+}

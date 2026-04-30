@@ -1,0 +1,6133 @@
+{
+  "title": "Are we getting more allergic to things",
+  "source": "BBC 6 Minute English",
+  "level": "beginner",
+  "durationSec": 371,
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
+  "audioFile": "audio.mp3",
+  "segments": [
+    {
+      "startSec": 0,
+      "endSec": 8.2,
+      "text": "6 Meet English from bbclearningenglish.com",
+      "words": [
+        {
+          "startSec": 0.1,
+          "endSec": 0.5,
+          "text": "6"
+        },
+        {
+          "startSec": 0.5,
+          "endSec": 1.3,
+          "text": "Meet"
+        },
+        {
+          "startSec": 1.3,
+          "endSec": 2.6,
+          "text": "English"
+        },
+        {
+          "startSec": 2.6,
+          "endSec": 3.4,
+          "text": "from"
+        },
+        {
+          "startSec": 3.4,
+          "endSec": 8.2,
+          "text": "bbclearningenglish.com"
+        },
+        {
+          "startSec": 8.2,
+          "endSec": 8.6,
+          "text": "Hello"
+        }
+      ]
+    },
+    {
+      "startSec": 8.2,
+      "endSec": 13.7,
+      "text": "Hello and welcome to 6 Minute English from BBC Learning English. I'm Beth.",
+      "words": [
+        {
+          "startSec": 8.2,
+          "endSec": 8.6,
+          "text": "Hello"
+        },
+        {
+          "startSec": 8.6,
+          "endSec": 8.8,
+          "text": "and"
+        },
+        {
+          "startSec": 8.8,
+          "endSec": 9.3,
+          "text": "welcome"
+        },
+        {
+          "startSec": 9.3,
+          "endSec": 9.5,
+          "text": "to"
+        },
+        {
+          "startSec": 9.5,
+          "endSec": 9.7,
+          "text": "6"
+        },
+        {
+          "startSec": 9.7,
+          "endSec": 10.2,
+          "text": "Minute"
+        },
+        {
+          "startSec": 10.2,
+          "endSec": 10.7,
+          "text": "English"
+        },
+        {
+          "startSec": 10.7,
+          "endSec": 11.1,
+          "text": "from"
+        },
+        {
+          "startSec": 11.1,
+          "endSec": 11.4,
+          "text": "BBC"
+        },
+        {
+          "startSec": 11.4,
+          "endSec": 12.2,
+          "text": "Learning"
+        },
+        {
+          "startSec": 12.2,
+          "endSec": 13,
+          "text": "English."
+        },
+        {
+          "startSec": 13,
+          "endSec": 13.1,
+          "text": "I'm"
+        },
+        {
+          "startSec": 13.1,
+          "endSec": 13.7,
+          "text": "Beth."
+        },
+        {
+          "startSec": 13.7,
+          "endSec": 14,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 13.7,
+      "endSec": 18.8,
+      "text": "And I'm Neil. In this episode we're talking about allergies. Allergies are when a certain",
+      "words": [
+        {
+          "startSec": 13.7,
+          "endSec": 14,
+          "text": "And"
+        },
+        {
+          "startSec": 14,
+          "endSec": 14.2,
+          "text": "I'm"
+        },
+        {
+          "startSec": 14.2,
+          "endSec": 14.7,
+          "text": "Neil."
+        },
+        {
+          "startSec": 14.7,
+          "endSec": 14.9,
+          "text": "In"
+        },
+        {
+          "startSec": 14.9,
+          "endSec": 15.2,
+          "text": "this"
+        },
+        {
+          "startSec": 15.2,
+          "endSec": 15.7,
+          "text": "episode"
+        },
+        {
+          "startSec": 15.7,
+          "endSec": 16,
+          "text": "we're"
+        },
+        {
+          "startSec": 16,
+          "endSec": 16.5,
+          "text": "talking"
+        },
+        {
+          "startSec": 16.5,
+          "endSec": 16.9,
+          "text": "about"
+        },
+        {
+          "startSec": 16.9,
+          "endSec": 17.8,
+          "text": "allergies."
+        },
+        {
+          "startSec": 17.8,
+          "endSec": 18.2,
+          "text": "Allergies"
+        },
+        {
+          "startSec": 18.2,
+          "endSec": 18.3,
+          "text": "are"
+        },
+        {
+          "startSec": 18.3,
+          "endSec": 18.5,
+          "text": "when"
+        },
+        {
+          "startSec": 18.5,
+          "endSec": 18.5,
+          "text": "a"
+        },
+        {
+          "startSec": 18.5,
+          "endSec": 18.8,
+          "text": "certain"
+        },
+        {
+          "startSec": 18.8,
+          "endSec": 19.1,
+          "text": "food"
+        }
+      ]
+    },
+    {
+      "startSec": 18.8,
+      "endSec": 23.2,
+      "text": "food or material makes you feel sick. Do you have any allergies, Beth?",
+      "words": [
+        {
+          "startSec": 18.8,
+          "endSec": 19.1,
+          "text": "food"
+        },
+        {
+          "startSec": 19.1,
+          "endSec": 19.2,
+          "text": "or"
+        },
+        {
+          "startSec": 19.2,
+          "endSec": 19.8,
+          "text": "material"
+        },
+        {
+          "startSec": 19.8,
+          "endSec": 20.1,
+          "text": "makes"
+        },
+        {
+          "startSec": 20.1,
+          "endSec": 20.3,
+          "text": "you"
+        },
+        {
+          "startSec": 20.3,
+          "endSec": 20.6,
+          "text": "feel"
+        },
+        {
+          "startSec": 20.6,
+          "endSec": 21,
+          "text": "sick."
+        },
+        {
+          "startSec": 21,
+          "endSec": 21.2,
+          "text": "Do"
+        },
+        {
+          "startSec": 21.2,
+          "endSec": 21.4,
+          "text": "you"
+        },
+        {
+          "startSec": 21.4,
+          "endSec": 21.7,
+          "text": "have"
+        },
+        {
+          "startSec": 21.7,
+          "endSec": 21.9,
+          "text": "any"
+        },
+        {
+          "startSec": 21.9,
+          "endSec": 22.6,
+          "text": "allergies,"
+        },
+        {
+          "startSec": 22.6,
+          "endSec": 23.2,
+          "text": "Beth?"
+        },
+        {
+          "startSec": 23.2,
+          "endSec": 23.7,
+          "text": "Yeah,"
+        }
+      ]
+    },
+    {
+      "startSec": 23.2,
+      "endSec": 28.8,
+      "text": "Yeah, so I am actually allergic to dairy, so I can't have anything with milk, so no",
+      "words": [
+        {
+          "startSec": 23.2,
+          "endSec": 23.7,
+          "text": "Yeah,"
+        },
+        {
+          "startSec": 23.7,
+          "endSec": 23.8,
+          "text": "so"
+        },
+        {
+          "startSec": 23.8,
+          "endSec": 23.9,
+          "text": "I"
+        },
+        {
+          "startSec": 23.9,
+          "endSec": 24.1,
+          "text": "am"
+        },
+        {
+          "startSec": 24.1,
+          "endSec": 24.7,
+          "text": "actually"
+        },
+        {
+          "startSec": 24.7,
+          "endSec": 25.3,
+          "text": "allergic"
+        },
+        {
+          "startSec": 25.3,
+          "endSec": 25.5,
+          "text": "to"
+        },
+        {
+          "startSec": 25.5,
+          "endSec": 26,
+          "text": "dairy,"
+        },
+        {
+          "startSec": 26,
+          "endSec": 26.2,
+          "text": "so"
+        },
+        {
+          "startSec": 26.2,
+          "endSec": 26.3,
+          "text": "I"
+        },
+        {
+          "startSec": 26.3,
+          "endSec": 26.7,
+          "text": "can't"
+        },
+        {
+          "startSec": 26.7,
+          "endSec": 27,
+          "text": "have"
+        },
+        {
+          "startSec": 27,
+          "endSec": 27.6,
+          "text": "anything"
+        },
+        {
+          "startSec": 27.6,
+          "endSec": 27.9,
+          "text": "with"
+        },
+        {
+          "startSec": 27.9,
+          "endSec": 28.4,
+          "text": "milk,"
+        },
+        {
+          "startSec": 28.4,
+          "endSec": 28.6,
+          "text": "so"
+        },
+        {
+          "startSec": 28.6,
+          "endSec": 28.8,
+          "text": "no"
+        }
+      ]
+    },
+    {
+      "startSec": 28.8,
+      "endSec": 33.4,
+      "text": "cheese, no butter. What about you, Neil? Have you got any allergies?",
+      "words": [
+        {
+          "startSec": 28.9,
+          "endSec": 29.6,
+          "text": "cheese,"
+        },
+        {
+          "startSec": 29.6,
+          "endSec": 29.8,
+          "text": "no"
+        },
+        {
+          "startSec": 29.8,
+          "endSec": 30.7,
+          "text": "butter."
+        },
+        {
+          "startSec": 30.7,
+          "endSec": 31,
+          "text": "What"
+        },
+        {
+          "startSec": 31,
+          "endSec": 31.2,
+          "text": "about"
+        },
+        {
+          "startSec": 31.2,
+          "endSec": 31.5,
+          "text": "you,"
+        },
+        {
+          "startSec": 31.5,
+          "endSec": 31.9,
+          "text": "Neil?"
+        },
+        {
+          "startSec": 31.9,
+          "endSec": 32.2,
+          "text": "Have"
+        },
+        {
+          "startSec": 32.2,
+          "endSec": 32.3,
+          "text": "you"
+        },
+        {
+          "startSec": 32.3,
+          "endSec": 32.5,
+          "text": "got"
+        },
+        {
+          "startSec": 32.5,
+          "endSec": 32.7,
+          "text": "any"
+        },
+        {
+          "startSec": 32.7,
+          "endSec": 33.4,
+          "text": "allergies?"
+        },
+        {
+          "startSec": 33.4,
+          "endSec": 33.9,
+          "text": "Well,"
+        }
+      ]
+    },
+    {
+      "startSec": 33.4,
+      "endSec": 39,
+      "text": "Well, I'm not great with dairy either, but it's not an allergy, more of an intolerant,",
+      "words": [
+        {
+          "startSec": 33.4,
+          "endSec": 33.9,
+          "text": "Well,"
+        },
+        {
+          "startSec": 33.9,
+          "endSec": 34.1,
+          "text": "I'm"
+        },
+        {
+          "startSec": 34.1,
+          "endSec": 34.3,
+          "text": "not"
+        },
+        {
+          "startSec": 34.3,
+          "endSec": 34.7,
+          "text": "great"
+        },
+        {
+          "startSec": 34.7,
+          "endSec": 35,
+          "text": "with"
+        },
+        {
+          "startSec": 35,
+          "endSec": 35.3,
+          "text": "dairy"
+        },
+        {
+          "startSec": 35.3,
+          "endSec": 35.9,
+          "text": "either,"
+        },
+        {
+          "startSec": 35.9,
+          "endSec": 36.2,
+          "text": "but"
+        },
+        {
+          "startSec": 36.2,
+          "endSec": 36.5,
+          "text": "it's"
+        },
+        {
+          "startSec": 36.5,
+          "endSec": 36.7,
+          "text": "not"
+        },
+        {
+          "startSec": 36.7,
+          "endSec": 36.8,
+          "text": "an"
+        },
+        {
+          "startSec": 36.8,
+          "endSec": 37.6,
+          "text": "allergy,"
+        },
+        {
+          "startSec": 37.6,
+          "endSec": 37.9,
+          "text": "more"
+        },
+        {
+          "startSec": 37.9,
+          "endSec": 38,
+          "text": "of"
+        },
+        {
+          "startSec": 38,
+          "endSec": 38.2,
+          "text": "an"
+        },
+        {
+          "startSec": 38.2,
+          "endSec": 39,
+          "text": "intolerant,"
+        },
+        {
+          "startSec": 39,
+          "endSec": 39.1,
+          "text": "so"
+        }
+      ]
+    },
+    {
+      "startSec": 39,
+      "endSec": 44.8,
+      "text": "so it just makes me feel a bit bad rather than actually making me sick. But I do have",
+      "words": [
+        {
+          "startSec": 39,
+          "endSec": 39.1,
+          "text": "so"
+        },
+        {
+          "startSec": 39.1,
+          "endSec": 39.3,
+          "text": "it"
+        },
+        {
+          "startSec": 39.3,
+          "endSec": 39.6,
+          "text": "just"
+        },
+        {
+          "startSec": 39.6,
+          "endSec": 40.1,
+          "text": "makes"
+        },
+        {
+          "startSec": 40.1,
+          "endSec": 40.2,
+          "text": "me"
+        },
+        {
+          "startSec": 40.2,
+          "endSec": 40.6,
+          "text": "feel"
+        },
+        {
+          "startSec": 40.6,
+          "endSec": 40.7,
+          "text": "a"
+        },
+        {
+          "startSec": 40.7,
+          "endSec": 40.9,
+          "text": "bit"
+        },
+        {
+          "startSec": 40.9,
+          "endSec": 41.2,
+          "text": "bad"
+        },
+        {
+          "startSec": 41.2,
+          "endSec": 41.7,
+          "text": "rather"
+        },
+        {
+          "startSec": 41.7,
+          "endSec": 42,
+          "text": "than"
+        },
+        {
+          "startSec": 42,
+          "endSec": 42.7,
+          "text": "actually"
+        },
+        {
+          "startSec": 42.7,
+          "endSec": 43.2,
+          "text": "making"
+        },
+        {
+          "startSec": 43.2,
+          "endSec": 43.4,
+          "text": "me"
+        },
+        {
+          "startSec": 43.4,
+          "endSec": 44,
+          "text": "sick."
+        },
+        {
+          "startSec": 44,
+          "endSec": 44.3,
+          "text": "But"
+        },
+        {
+          "startSec": 44.3,
+          "endSec": 44.3,
+          "text": "I"
+        },
+        {
+          "startSec": 44.3,
+          "endSec": 44.5,
+          "text": "do"
+        },
+        {
+          "startSec": 44.5,
+          "endSec": 44.8,
+          "text": "have"
+        },
+        {
+          "startSec": 44.8,
+          "endSec": 45,
+          "text": "hay"
+        }
+      ]
+    },
+    {
+      "startSec": 44.8,
+      "endSec": 50.4,
+      "text": "hay fever, so I'm allergic to pollen. That means in the summer months I'm sneezing and",
+      "words": [
+        {
+          "startSec": 44.8,
+          "endSec": 45,
+          "text": "hay"
+        },
+        {
+          "startSec": 45,
+          "endSec": 45.5,
+          "text": "fever,"
+        },
+        {
+          "startSec": 45.5,
+          "endSec": 45.7,
+          "text": "so"
+        },
+        {
+          "startSec": 45.7,
+          "endSec": 45.9,
+          "text": "I'm"
+        },
+        {
+          "startSec": 45.9,
+          "endSec": 46.5,
+          "text": "allergic"
+        },
+        {
+          "startSec": 46.5,
+          "endSec": 46.7,
+          "text": "to"
+        },
+        {
+          "startSec": 46.7,
+          "endSec": 47.3,
+          "text": "pollen."
+        },
+        {
+          "startSec": 47.3,
+          "endSec": 47.6,
+          "text": "That"
+        },
+        {
+          "startSec": 47.6,
+          "endSec": 48,
+          "text": "means"
+        },
+        {
+          "startSec": 48,
+          "endSec": 48.2,
+          "text": "in"
+        },
+        {
+          "startSec": 48.2,
+          "endSec": 48.4,
+          "text": "the"
+        },
+        {
+          "startSec": 48.4,
+          "endSec": 48.8,
+          "text": "summer"
+        },
+        {
+          "startSec": 48.8,
+          "endSec": 49.3,
+          "text": "months"
+        },
+        {
+          "startSec": 49.3,
+          "endSec": 49.5,
+          "text": "I'm"
+        },
+        {
+          "startSec": 49.5,
+          "endSec": 50.2,
+          "text": "sneezing"
+        },
+        {
+          "startSec": 50.2,
+          "endSec": 50.4,
+          "text": "and"
+        },
+        {
+          "startSec": 50.4,
+          "endSec": 51,
+          "text": "coughing"
+        }
+      ]
+    },
+    {
+      "startSec": 50.4,
+      "endSec": 55.6,
+      "text": "coughing all the time. I get runny eyes and a runny nose, and it also gives me a little",
+      "words": [
+        {
+          "startSec": 50.4,
+          "endSec": 51,
+          "text": "coughing"
+        },
+        {
+          "startSec": 51,
+          "endSec": 51.2,
+          "text": "all"
+        },
+        {
+          "startSec": 51.2,
+          "endSec": 51.4,
+          "text": "the"
+        },
+        {
+          "startSec": 51.4,
+          "endSec": 51.9,
+          "text": "time."
+        },
+        {
+          "startSec": 51.9,
+          "endSec": 52,
+          "text": "I"
+        },
+        {
+          "startSec": 52,
+          "endSec": 52.2,
+          "text": "get"
+        },
+        {
+          "startSec": 52.2,
+          "endSec": 52.5,
+          "text": "runny"
+        },
+        {
+          "startSec": 52.5,
+          "endSec": 52.8,
+          "text": "eyes"
+        },
+        {
+          "startSec": 52.8,
+          "endSec": 53,
+          "text": "and"
+        },
+        {
+          "startSec": 53,
+          "endSec": 53.1,
+          "text": "a"
+        },
+        {
+          "startSec": 53.1,
+          "endSec": 53.5,
+          "text": "runny"
+        },
+        {
+          "startSec": 53.5,
+          "endSec": 53.9,
+          "text": "nose,"
+        },
+        {
+          "startSec": 53.9,
+          "endSec": 54.1,
+          "text": "and"
+        },
+        {
+          "startSec": 54.1,
+          "endSec": 54.2,
+          "text": "it"
+        },
+        {
+          "startSec": 54.2,
+          "endSec": 54.5,
+          "text": "also"
+        },
+        {
+          "startSec": 54.5,
+          "endSec": 54.9,
+          "text": "gives"
+        },
+        {
+          "startSec": 54.9,
+          "endSec": 55,
+          "text": "me"
+        },
+        {
+          "startSec": 55,
+          "endSec": 55.1,
+          "text": "a"
+        },
+        {
+          "startSec": 55.1,
+          "endSec": 55.6,
+          "text": "little"
+        },
+        {
+          "startSec": 55.6,
+          "endSec": 55.8,
+          "text": "bit"
+        }
+      ]
+    },
+    {
+      "startSec": 55.6,
+      "endSec": 59.9,
+      "text": "bit of asthma, so it's a bit of a pain. Oh yeah, that sounds really horrible.",
+      "words": [
+        {
+          "startSec": 55.6,
+          "endSec": 55.8,
+          "text": "bit"
+        },
+        {
+          "startSec": 55.8,
+          "endSec": 55.9,
+          "text": "of"
+        },
+        {
+          "startSec": 55.9,
+          "endSec": 56.6,
+          "text": "asthma,"
+        },
+        {
+          "startSec": 56.6,
+          "endSec": 56.7,
+          "text": "so"
+        },
+        {
+          "startSec": 56.7,
+          "endSec": 57,
+          "text": "it's"
+        },
+        {
+          "startSec": 57,
+          "endSec": 57.1,
+          "text": "a"
+        },
+        {
+          "startSec": 57.1,
+          "endSec": 57.3,
+          "text": "bit"
+        },
+        {
+          "startSec": 57.3,
+          "endSec": 57.5,
+          "text": "of"
+        },
+        {
+          "startSec": 57.5,
+          "endSec": 57.5,
+          "text": "a"
+        },
+        {
+          "startSec": 57.5,
+          "endSec": 58.2,
+          "text": "pain."
+        },
+        {
+          "startSec": 58.2,
+          "endSec": 58.3,
+          "text": "Oh"
+        },
+        {
+          "startSec": 58.3,
+          "endSec": 58.6,
+          "text": "yeah,"
+        },
+        {
+          "startSec": 58.6,
+          "endSec": 58.8,
+          "text": "that"
+        },
+        {
+          "startSec": 58.8,
+          "endSec": 59.1,
+          "text": "sounds"
+        },
+        {
+          "startSec": 59.1,
+          "endSec": 59.4,
+          "text": "really"
+        },
+        {
+          "startSec": 59.4,
+          "endSec": 59.9,
+          "text": "horrible."
+        },
+        {
+          "startSec": 59.9,
+          "endSec": 60.3,
+          "text": "Now,"
+        }
+      ]
+    },
+    {
+      "startSec": 59.9,
+      "endSec": 65.8,
+      "text": "Now, scientific evidence shows that more people are developing allergies. In this program,",
+      "words": [
+        {
+          "startSec": 59.9,
+          "endSec": 60.3,
+          "text": "Now,"
+        },
+        {
+          "startSec": 60.3,
+          "endSec": 61,
+          "text": "scientific"
+        },
+        {
+          "startSec": 61,
+          "endSec": 61.6,
+          "text": "evidence"
+        },
+        {
+          "startSec": 61.6,
+          "endSec": 61.9,
+          "text": "shows"
+        },
+        {
+          "startSec": 61.9,
+          "endSec": 62.2,
+          "text": "that"
+        },
+        {
+          "startSec": 62.2,
+          "endSec": 62.5,
+          "text": "more"
+        },
+        {
+          "startSec": 62.5,
+          "endSec": 62.9,
+          "text": "people"
+        },
+        {
+          "startSec": 62.9,
+          "endSec": 63.2,
+          "text": "are"
+        },
+        {
+          "startSec": 63.2,
+          "endSec": 63.9,
+          "text": "developing"
+        },
+        {
+          "startSec": 63.9,
+          "endSec": 64.8,
+          "text": "allergies."
+        },
+        {
+          "startSec": 64.8,
+          "endSec": 64.8,
+          "text": "In"
+        },
+        {
+          "startSec": 64.8,
+          "endSec": 64.9,
+          "text": "this"
+        },
+        {
+          "startSec": 64.9,
+          "endSec": 65.8,
+          "text": "program,"
+        },
+        {
+          "startSec": 65.8,
+          "endSec": 66.1,
+          "text": "we're"
+        }
+      ]
+    },
+    {
+      "startSec": 65.8,
+      "endSec": 70.5,
+      "text": "we're going to find out about what it's like living with an allergy and where in the world",
+      "words": [
+        {
+          "startSec": 65.8,
+          "endSec": 66.1,
+          "text": "we're"
+        },
+        {
+          "startSec": 66.1,
+          "endSec": 66.4,
+          "text": "going"
+        },
+        {
+          "startSec": 66.4,
+          "endSec": 66.5,
+          "text": "to"
+        },
+        {
+          "startSec": 66.5,
+          "endSec": 66.8,
+          "text": "find"
+        },
+        {
+          "startSec": 66.8,
+          "endSec": 67,
+          "text": "out"
+        },
+        {
+          "startSec": 67,
+          "endSec": 67.3,
+          "text": "about"
+        },
+        {
+          "startSec": 67.3,
+          "endSec": 67.6,
+          "text": "what"
+        },
+        {
+          "startSec": 67.6,
+          "endSec": 67.8,
+          "text": "it's"
+        },
+        {
+          "startSec": 67.8,
+          "endSec": 68.1,
+          "text": "like"
+        },
+        {
+          "startSec": 68.1,
+          "endSec": 68.5,
+          "text": "living"
+        },
+        {
+          "startSec": 68.5,
+          "endSec": 68.7,
+          "text": "with"
+        },
+        {
+          "startSec": 68.7,
+          "endSec": 68.9,
+          "text": "an"
+        },
+        {
+          "startSec": 68.9,
+          "endSec": 69.3,
+          "text": "allergy"
+        },
+        {
+          "startSec": 69.3,
+          "endSec": 69.5,
+          "text": "and"
+        },
+        {
+          "startSec": 69.5,
+          "endSec": 69.8,
+          "text": "where"
+        },
+        {
+          "startSec": 69.8,
+          "endSec": 70,
+          "text": "in"
+        },
+        {
+          "startSec": 70,
+          "endSec": 70,
+          "text": "the"
+        },
+        {
+          "startSec": 70,
+          "endSec": 70.5,
+          "text": "world"
+        },
+        {
+          "startSec": 70.5,
+          "endSec": 70.8,
+          "text": "has"
+        }
+      ]
+    },
+    {
+      "startSec": 70.5,
+      "endSec": 75.9,
+      "text": "has the highest rate of allergies. But first I have a question for you, Beth. What is the",
+      "words": [
+        {
+          "startSec": 70.5,
+          "endSec": 70.8,
+          "text": "has"
+        },
+        {
+          "startSec": 70.8,
+          "endSec": 71,
+          "text": "the"
+        },
+        {
+          "startSec": 71,
+          "endSec": 71.5,
+          "text": "highest"
+        },
+        {
+          "startSec": 71.5,
+          "endSec": 71.8,
+          "text": "rate"
+        },
+        {
+          "startSec": 71.8,
+          "endSec": 72,
+          "text": "of"
+        },
+        {
+          "startSec": 72,
+          "endSec": 73,
+          "text": "allergies."
+        },
+        {
+          "startSec": 73,
+          "endSec": 73.1,
+          "text": "But"
+        },
+        {
+          "startSec": 73.1,
+          "endSec": 73.4,
+          "text": "first"
+        },
+        {
+          "startSec": 73.4,
+          "endSec": 73.4,
+          "text": "I"
+        },
+        {
+          "startSec": 73.4,
+          "endSec": 73.6,
+          "text": "have"
+        },
+        {
+          "startSec": 73.6,
+          "endSec": 73.7,
+          "text": "a"
+        },
+        {
+          "startSec": 73.7,
+          "endSec": 74.1,
+          "text": "question"
+        },
+        {
+          "startSec": 74.1,
+          "endSec": 74.2,
+          "text": "for"
+        },
+        {
+          "startSec": 74.2,
+          "endSec": 74.5,
+          "text": "you,"
+        },
+        {
+          "startSec": 74.5,
+          "endSec": 75.6,
+          "text": "Beth."
+        },
+        {
+          "startSec": 75.6,
+          "endSec": 75.7,
+          "text": "What"
+        },
+        {
+          "startSec": 75.7,
+          "endSec": 75.8,
+          "text": "is"
+        },
+        {
+          "startSec": 75.8,
+          "endSec": 75.9,
+          "text": "the"
+        },
+        {
+          "startSec": 75.9,
+          "endSec": 76.4,
+          "text": "most"
+        }
+      ]
+    },
+    {
+      "startSec": 75.9,
+      "endSec": 83.2,
+      "text": "most common allergy in the world? Is it A) peanuts, B) pollen, or C) dairy?",
+      "words": [
+        {
+          "startSec": 75.9,
+          "endSec": 76.4,
+          "text": "most"
+        },
+        {
+          "startSec": 76.4,
+          "endSec": 77,
+          "text": "common"
+        },
+        {
+          "startSec": 77,
+          "endSec": 77.7,
+          "text": "allergy"
+        },
+        {
+          "startSec": 77.7,
+          "endSec": 78,
+          "text": "in"
+        },
+        {
+          "startSec": 78,
+          "endSec": 78.3,
+          "text": "the"
+        },
+        {
+          "startSec": 78.3,
+          "endSec": 79.1,
+          "text": "world?"
+        },
+        {
+          "startSec": 79.1,
+          "endSec": 79.3,
+          "text": "Is"
+        },
+        {
+          "startSec": 79.3,
+          "endSec": 79.6,
+          "text": "it"
+        },
+        {
+          "startSec": 79.6,
+          "endSec": 79.8,
+          "text": "A)"
+        },
+        {
+          "startSec": 79.8,
+          "endSec": 80.7,
+          "text": "peanuts,"
+        },
+        {
+          "startSec": 80.7,
+          "endSec": 80.9,
+          "text": "B)"
+        },
+        {
+          "startSec": 80.9,
+          "endSec": 81.8,
+          "text": "pollen,"
+        },
+        {
+          "startSec": 81.8,
+          "endSec": 82,
+          "text": "or"
+        },
+        {
+          "startSec": 82,
+          "endSec": 82.2,
+          "text": "C)"
+        },
+        {
+          "startSec": 82.2,
+          "endSec": 83.2,
+          "text": "dairy?"
+        },
+        {
+          "startSec": 83.2,
+          "endSec": 83.4,
+          "text": "I'm"
+        }
+      ]
+    },
+    {
+      "startSec": 83.2,
+      "endSec": 87,
+      "text": "I'm going to say pollen. A lot of people I know have hay fever.",
+      "words": [
+        {
+          "startSec": 83.2,
+          "endSec": 83.4,
+          "text": "I'm"
+        },
+        {
+          "startSec": 83.4,
+          "endSec": 83.7,
+          "text": "going"
+        },
+        {
+          "startSec": 83.7,
+          "endSec": 83.9,
+          "text": "to"
+        },
+        {
+          "startSec": 83.9,
+          "endSec": 84.1,
+          "text": "say"
+        },
+        {
+          "startSec": 84.1,
+          "endSec": 84.7,
+          "text": "pollen."
+        },
+        {
+          "startSec": 84.7,
+          "endSec": 84.8,
+          "text": "A"
+        },
+        {
+          "startSec": 84.8,
+          "endSec": 85,
+          "text": "lot"
+        },
+        {
+          "startSec": 85,
+          "endSec": 85.1,
+          "text": "of"
+        },
+        {
+          "startSec": 85.1,
+          "endSec": 85.5,
+          "text": "people"
+        },
+        {
+          "startSec": 85.5,
+          "endSec": 85.6,
+          "text": "I"
+        },
+        {
+          "startSec": 85.6,
+          "endSec": 85.9,
+          "text": "know"
+        },
+        {
+          "startSec": 85.9,
+          "endSec": 86.2,
+          "text": "have"
+        },
+        {
+          "startSec": 86.2,
+          "endSec": 86.4,
+          "text": "hay"
+        },
+        {
+          "startSec": 86.4,
+          "endSec": 87,
+          "text": "fever."
+        },
+        {
+          "startSec": 87,
+          "endSec": 87.3,
+          "text": "Mmm,"
+        }
+      ]
+    },
+    {
+      "startSec": 87,
+      "endSec": 92,
+      "text": "Mmm, including me. Well, we'll find out the answer at the end of the show. Now, Beth,",
+      "words": [
+        {
+          "startSec": 87,
+          "endSec": 87.3,
+          "text": "Mmm,"
+        },
+        {
+          "startSec": 87.3,
+          "endSec": 87.9,
+          "text": "including"
+        },
+        {
+          "startSec": 87.9,
+          "endSec": 88.2,
+          "text": "me."
+        },
+        {
+          "startSec": 88.2,
+          "endSec": 88.6,
+          "text": "Well,"
+        },
+        {
+          "startSec": 88.6,
+          "endSec": 89,
+          "text": "we'll"
+        },
+        {
+          "startSec": 89,
+          "endSec": 89.2,
+          "text": "find"
+        },
+        {
+          "startSec": 89.2,
+          "endSec": 89.4,
+          "text": "out"
+        },
+        {
+          "startSec": 89.4,
+          "endSec": 89.6,
+          "text": "the"
+        },
+        {
+          "startSec": 89.6,
+          "endSec": 90,
+          "text": "answer"
+        },
+        {
+          "startSec": 90,
+          "endSec": 90.2,
+          "text": "at"
+        },
+        {
+          "startSec": 90.2,
+          "endSec": 90.4,
+          "text": "the"
+        },
+        {
+          "startSec": 90.4,
+          "endSec": 90.6,
+          "text": "end"
+        },
+        {
+          "startSec": 90.6,
+          "endSec": 90.7,
+          "text": "of"
+        },
+        {
+          "startSec": 90.7,
+          "endSec": 90.9,
+          "text": "the"
+        },
+        {
+          "startSec": 90.9,
+          "endSec": 91.5,
+          "text": "show."
+        },
+        {
+          "startSec": 91.5,
+          "endSec": 91.7,
+          "text": "Now,"
+        },
+        {
+          "startSec": 91.7,
+          "endSec": 92,
+          "text": "Beth,"
+        },
+        {
+          "startSec": 92,
+          "endSec": 92.5,
+          "text": "you're"
+        }
+      ]
+    },
+    {
+      "startSec": 92,
+      "endSec": 98.6,
+      "text": "you're allergic to dairy, but imagine if you had over 50 allergies. That's the situation",
+      "words": [
+        {
+          "startSec": 92,
+          "endSec": 92.5,
+          "text": "you're"
+        },
+        {
+          "startSec": 92.5,
+          "endSec": 93.2,
+          "text": "allergic"
+        },
+        {
+          "startSec": 93.2,
+          "endSec": 93.4,
+          "text": "to"
+        },
+        {
+          "startSec": 93.4,
+          "endSec": 94,
+          "text": "dairy,"
+        },
+        {
+          "startSec": 94,
+          "endSec": 94.3,
+          "text": "but"
+        },
+        {
+          "startSec": 94.3,
+          "endSec": 94.9,
+          "text": "imagine"
+        },
+        {
+          "startSec": 94.9,
+          "endSec": 95.1,
+          "text": "if"
+        },
+        {
+          "startSec": 95.1,
+          "endSec": 95.3,
+          "text": "you"
+        },
+        {
+          "startSec": 95.3,
+          "endSec": 95.6,
+          "text": "had"
+        },
+        {
+          "startSec": 95.6,
+          "endSec": 95.9,
+          "text": "over"
+        },
+        {
+          "startSec": 95.9,
+          "endSec": 96.5,
+          "text": "50"
+        },
+        {
+          "startSec": 96.5,
+          "endSec": 97.6,
+          "text": "allergies."
+        },
+        {
+          "startSec": 97.6,
+          "endSec": 97.7,
+          "text": "That's"
+        },
+        {
+          "startSec": 97.7,
+          "endSec": 97.8,
+          "text": "the"
+        },
+        {
+          "startSec": 97.8,
+          "endSec": 98.6,
+          "text": "situation"
+        },
+        {
+          "startSec": 98.6,
+          "endSec": 98.8,
+          "text": "for"
+        }
+      ]
+    },
+    {
+      "startSec": 98.6,
+      "endSec": 103.6,
+      "text": "for Mia Silverman, who runs a social media account, Allergies with Mia, where she talks",
+      "words": [
+        {
+          "startSec": 98.6,
+          "endSec": 98.8,
+          "text": "for"
+        },
+        {
+          "startSec": 98.8,
+          "endSec": 99,
+          "text": "Mia"
+        },
+        {
+          "startSec": 99,
+          "endSec": 99.7,
+          "text": "Silverman,"
+        },
+        {
+          "startSec": 99.7,
+          "endSec": 99.9,
+          "text": "who"
+        },
+        {
+          "startSec": 99.9,
+          "endSec": 100.2,
+          "text": "runs"
+        },
+        {
+          "startSec": 100.2,
+          "endSec": 100.2,
+          "text": "a"
+        },
+        {
+          "startSec": 100.2,
+          "endSec": 100.6,
+          "text": "social"
+        },
+        {
+          "startSec": 100.6,
+          "endSec": 100.9,
+          "text": "media"
+        },
+        {
+          "startSec": 100.9,
+          "endSec": 101.5,
+          "text": "account,"
+        },
+        {
+          "startSec": 101.5,
+          "endSec": 102.1,
+          "text": "Allergies"
+        },
+        {
+          "startSec": 102.1,
+          "endSec": 102.4,
+          "text": "with"
+        },
+        {
+          "startSec": 102.4,
+          "endSec": 102.7,
+          "text": "Mia,"
+        },
+        {
+          "startSec": 102.7,
+          "endSec": 103.1,
+          "text": "where"
+        },
+        {
+          "startSec": 103.1,
+          "endSec": 103.3,
+          "text": "she"
+        },
+        {
+          "startSec": 103.3,
+          "endSec": 103.6,
+          "text": "talks"
+        },
+        {
+          "startSec": 103.6,
+          "endSec": 104,
+          "text": "about"
+        }
+      ]
+    },
+    {
+      "startSec": 103.6,
+      "endSec": 105.9,
+      "text": "about living with lots of allergies.",
+      "words": [
+        {
+          "startSec": 103.6,
+          "endSec": 104,
+          "text": "about"
+        },
+        {
+          "startSec": 104,
+          "endSec": 104.4,
+          "text": "living"
+        },
+        {
+          "startSec": 104.4,
+          "endSec": 104.6,
+          "text": "with"
+        },
+        {
+          "startSec": 104.6,
+          "endSec": 104.9,
+          "text": "lots"
+        },
+        {
+          "startSec": 104.9,
+          "endSec": 105,
+          "text": "of"
+        },
+        {
+          "startSec": 105,
+          "endSec": 105.9,
+          "text": "allergies."
+        },
+        {
+          "startSec": 105.9,
+          "endSec": 106,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 105.9,
+      "endSec": 111.4,
+      "text": "I think these plus allergies include onluts and their oils. I'm allergic to all fish except",
+      "words": [
+        {
+          "startSec": 105.9,
+          "endSec": 106,
+          "text": "I"
+        },
+        {
+          "startSec": 106,
+          "endSec": 106.3,
+          "text": "think"
+        },
+        {
+          "startSec": 106.3,
+          "endSec": 106.7,
+          "text": "these"
+        },
+        {
+          "startSec": 106.7,
+          "endSec": 106.9,
+          "text": "plus"
+        },
+        {
+          "startSec": 106.9,
+          "endSec": 107.6,
+          "text": "allergies"
+        },
+        {
+          "startSec": 107.6,
+          "endSec": 108.1,
+          "text": "include"
+        },
+        {
+          "startSec": 108.1,
+          "endSec": 108.5,
+          "text": "onluts"
+        },
+        {
+          "startSec": 108.5,
+          "endSec": 108.7,
+          "text": "and"
+        },
+        {
+          "startSec": 108.7,
+          "endSec": 109,
+          "text": "their"
+        },
+        {
+          "startSec": 109,
+          "endSec": 109.5,
+          "text": "oils."
+        },
+        {
+          "startSec": 109.5,
+          "endSec": 109.7,
+          "text": "I'm"
+        },
+        {
+          "startSec": 109.7,
+          "endSec": 110.3,
+          "text": "allergic"
+        },
+        {
+          "startSec": 110.3,
+          "endSec": 110.4,
+          "text": "to"
+        },
+        {
+          "startSec": 110.4,
+          "endSec": 110.6,
+          "text": "all"
+        },
+        {
+          "startSec": 110.6,
+          "endSec": 111,
+          "text": "fish"
+        },
+        {
+          "startSec": 111,
+          "endSec": 111.4,
+          "text": "except"
+        }
+      ]
+    },
+    {
+      "startSec": 111.4,
+      "endSec": 115.2,
+      "text": "for cooked tuna and cooked codfish.",
+      "words": [
+        {
+          "startSec": 111.5,
+          "endSec": 111.7,
+          "text": "for"
+        },
+        {
+          "startSec": 111.7,
+          "endSec": 112.4,
+          "text": "cooked"
+        },
+        {
+          "startSec": 112.4,
+          "endSec": 112.9,
+          "text": "tuna"
+        },
+        {
+          "startSec": 112.9,
+          "endSec": 113.3,
+          "text": "and"
+        },
+        {
+          "startSec": 113.3,
+          "endSec": 114,
+          "text": "cooked"
+        },
+        {
+          "startSec": 114,
+          "endSec": 115.2,
+          "text": "codfish."
+        },
+        {
+          "startSec": 115.2,
+          "endSec": 115.5,
+          "text": "Life"
+        }
+      ]
+    },
+    {
+      "startSec": 115.2,
+      "endSec": 120.5,
+      "text": "Life for Mia involves a lot of planning. As she told BBC World Service program, what",
+      "words": [
+        {
+          "startSec": 115.2,
+          "endSec": 115.5,
+          "text": "Life"
+        },
+        {
+          "startSec": 115.5,
+          "endSec": 115.7,
+          "text": "for"
+        },
+        {
+          "startSec": 115.7,
+          "endSec": 115.9,
+          "text": "Mia"
+        },
+        {
+          "startSec": 115.9,
+          "endSec": 116.5,
+          "text": "involves"
+        },
+        {
+          "startSec": 116.5,
+          "endSec": 116.6,
+          "text": "a"
+        },
+        {
+          "startSec": 116.6,
+          "endSec": 116.8,
+          "text": "lot"
+        },
+        {
+          "startSec": 116.8,
+          "endSec": 117,
+          "text": "of"
+        },
+        {
+          "startSec": 117,
+          "endSec": 117.8,
+          "text": "planning."
+        },
+        {
+          "startSec": 117.8,
+          "endSec": 117.9,
+          "text": "As"
+        },
+        {
+          "startSec": 117.9,
+          "endSec": 118.1,
+          "text": "she"
+        },
+        {
+          "startSec": 118.1,
+          "endSec": 118.4,
+          "text": "told"
+        },
+        {
+          "startSec": 118.4,
+          "endSec": 118.6,
+          "text": "BBC"
+        },
+        {
+          "startSec": 118.6,
+          "endSec": 119,
+          "text": "World"
+        },
+        {
+          "startSec": 119,
+          "endSec": 119.5,
+          "text": "Service"
+        },
+        {
+          "startSec": 119.5,
+          "endSec": 120.2,
+          "text": "program,"
+        },
+        {
+          "startSec": 120.2,
+          "endSec": 120.5,
+          "text": "what"
+        },
+        {
+          "startSec": 120.5,
+          "endSec": 120.8,
+          "text": "in"
+        }
+      ]
+    },
+    {
+      "startSec": 120.5,
+      "endSec": 122.1,
+      "text": "in the world?",
+      "words": [
+        {
+          "startSec": 120.5,
+          "endSec": 120.8,
+          "text": "in"
+        },
+        {
+          "startSec": 120.8,
+          "endSec": 121.1,
+          "text": "the"
+        },
+        {
+          "startSec": 121.1,
+          "endSec": 122.1,
+          "text": "world?"
+        },
+        {
+          "startSec": 122.1,
+          "endSec": 122.3,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 122.1,
+      "endSec": 126.8,
+      "text": "And having these 50+ allergies impact my life every single day. So when it comes to going",
+      "words": [
+        {
+          "startSec": 122.1,
+          "endSec": 122.3,
+          "text": "And"
+        },
+        {
+          "startSec": 122.3,
+          "endSec": 122.7,
+          "text": "having"
+        },
+        {
+          "startSec": 122.7,
+          "endSec": 123.1,
+          "text": "these"
+        },
+        {
+          "startSec": 123.1,
+          "endSec": 123.6,
+          "text": "50+"
+        },
+        {
+          "startSec": 123.6,
+          "endSec": 124.2,
+          "text": "allergies"
+        },
+        {
+          "startSec": 124.2,
+          "endSec": 124.6,
+          "text": "impact"
+        },
+        {
+          "startSec": 124.6,
+          "endSec": 124.8,
+          "text": "my"
+        },
+        {
+          "startSec": 124.8,
+          "endSec": 125,
+          "text": "life"
+        },
+        {
+          "startSec": 125,
+          "endSec": 125.4,
+          "text": "every"
+        },
+        {
+          "startSec": 125.4,
+          "endSec": 125.8,
+          "text": "single"
+        },
+        {
+          "startSec": 125.8,
+          "endSec": 126.3,
+          "text": "day."
+        },
+        {
+          "startSec": 126.3,
+          "endSec": 126.3,
+          "text": "So"
+        },
+        {
+          "startSec": 126.3,
+          "endSec": 126.4,
+          "text": "when"
+        },
+        {
+          "startSec": 126.4,
+          "endSec": 126.5,
+          "text": "it"
+        },
+        {
+          "startSec": 126.5,
+          "endSec": 126.6,
+          "text": "comes"
+        },
+        {
+          "startSec": 126.6,
+          "endSec": 126.7,
+          "text": "to"
+        },
+        {
+          "startSec": 126.7,
+          "endSec": 126.8,
+          "text": "going"
+        },
+        {
+          "startSec": 126.8,
+          "endSec": 126.9,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 126.8,
+      "endSec": 130.7,
+      "text": "to restaurants, having to call ahead of time, talk to the manager, talk to the chef, make",
+      "words": [
+        {
+          "startSec": 126.8,
+          "endSec": 126.9,
+          "text": "to"
+        },
+        {
+          "startSec": 126.9,
+          "endSec": 127.6,
+          "text": "restaurants,"
+        },
+        {
+          "startSec": 127.6,
+          "endSec": 127.9,
+          "text": "having"
+        },
+        {
+          "startSec": 127.9,
+          "endSec": 128,
+          "text": "to"
+        },
+        {
+          "startSec": 128,
+          "endSec": 128.2,
+          "text": "call"
+        },
+        {
+          "startSec": 128.2,
+          "endSec": 128.4,
+          "text": "ahead"
+        },
+        {
+          "startSec": 128.4,
+          "endSec": 128.5,
+          "text": "of"
+        },
+        {
+          "startSec": 128.5,
+          "endSec": 128.8,
+          "text": "time,"
+        },
+        {
+          "startSec": 128.8,
+          "endSec": 129,
+          "text": "talk"
+        },
+        {
+          "startSec": 129,
+          "endSec": 129.1,
+          "text": "to"
+        },
+        {
+          "startSec": 129.1,
+          "endSec": 129.2,
+          "text": "the"
+        },
+        {
+          "startSec": 129.2,
+          "endSec": 129.6,
+          "text": "manager,"
+        },
+        {
+          "startSec": 129.6,
+          "endSec": 129.8,
+          "text": "talk"
+        },
+        {
+          "startSec": 129.8,
+          "endSec": 129.9,
+          "text": "to"
+        },
+        {
+          "startSec": 129.9,
+          "endSec": 130.1,
+          "text": "the"
+        },
+        {
+          "startSec": 130.1,
+          "endSec": 130.3,
+          "text": "chef,"
+        },
+        {
+          "startSec": 130.3,
+          "endSec": 130.7,
+          "text": "make"
+        },
+        {
+          "startSec": 130.7,
+          "endSec": 131,
+          "text": "sure"
+        }
+      ]
+    },
+    {
+      "startSec": 130.7,
+      "endSec": 136.7,
+      "text": "sure that the restaurant can accommodate me, that they can make me something safe and use",
+      "words": [
+        {
+          "startSec": 130.7,
+          "endSec": 131,
+          "text": "sure"
+        },
+        {
+          "startSec": 131,
+          "endSec": 131.3,
+          "text": "that"
+        },
+        {
+          "startSec": 131.3,
+          "endSec": 131.5,
+          "text": "the"
+        },
+        {
+          "startSec": 131.5,
+          "endSec": 132.3,
+          "text": "restaurant"
+        },
+        {
+          "startSec": 132.3,
+          "endSec": 132.5,
+          "text": "can"
+        },
+        {
+          "startSec": 132.5,
+          "endSec": 133.4,
+          "text": "accommodate"
+        },
+        {
+          "startSec": 133.4,
+          "endSec": 133.7,
+          "text": "me,"
+        },
+        {
+          "startSec": 133.7,
+          "endSec": 134,
+          "text": "that"
+        },
+        {
+          "startSec": 134,
+          "endSec": 134.3,
+          "text": "they"
+        },
+        {
+          "startSec": 134.3,
+          "endSec": 134.5,
+          "text": "can"
+        },
+        {
+          "startSec": 134.5,
+          "endSec": 134.8,
+          "text": "make"
+        },
+        {
+          "startSec": 134.8,
+          "endSec": 134.9,
+          "text": "me"
+        },
+        {
+          "startSec": 134.9,
+          "endSec": 135.6,
+          "text": "something"
+        },
+        {
+          "startSec": 135.6,
+          "endSec": 135.9,
+          "text": "safe"
+        },
+        {
+          "startSec": 135.9,
+          "endSec": 136.2,
+          "text": "and"
+        },
+        {
+          "startSec": 136.2,
+          "endSec": 136.7,
+          "text": "use"
+        },
+        {
+          "startSec": 136.7,
+          "endSec": 137.3,
+          "text": "protocols"
+        }
+      ]
+    },
+    {
+      "startSec": 136.7,
+      "endSec": 140.5,
+      "text": "protocols to prevent any sort of risk of any allergens touching my dish.",
+      "words": [
+        {
+          "startSec": 136.7,
+          "endSec": 137.3,
+          "text": "protocols"
+        },
+        {
+          "startSec": 137.3,
+          "endSec": 137.4,
+          "text": "to"
+        },
+        {
+          "startSec": 137.4,
+          "endSec": 137.8,
+          "text": "prevent"
+        },
+        {
+          "startSec": 137.8,
+          "endSec": 138,
+          "text": "any"
+        },
+        {
+          "startSec": 138,
+          "endSec": 138.2,
+          "text": "sort"
+        },
+        {
+          "startSec": 138.2,
+          "endSec": 138.3,
+          "text": "of"
+        },
+        {
+          "startSec": 138.3,
+          "endSec": 138.6,
+          "text": "risk"
+        },
+        {
+          "startSec": 138.6,
+          "endSec": 138.7,
+          "text": "of"
+        },
+        {
+          "startSec": 138.7,
+          "endSec": 138.9,
+          "text": "any"
+        },
+        {
+          "startSec": 138.9,
+          "endSec": 139.4,
+          "text": "allergens"
+        },
+        {
+          "startSec": 139.4,
+          "endSec": 139.9,
+          "text": "touching"
+        },
+        {
+          "startSec": 139.9,
+          "endSec": 140,
+          "text": "my"
+        },
+        {
+          "startSec": 140,
+          "endSec": 140.5,
+          "text": "dish."
+        },
+        {
+          "startSec": 140.5,
+          "endSec": 140.7,
+          "text": "When"
+        }
+      ]
+    },
+    {
+      "startSec": 140.5,
+      "endSec": 144.2,
+      "text": "When it comes to socializing, it can be kind of hard sometimes because I want to show that",
+      "words": [
+        {
+          "startSec": 140.5,
+          "endSec": 140.7,
+          "text": "When"
+        },
+        {
+          "startSec": 140.7,
+          "endSec": 140.8,
+          "text": "it"
+        },
+        {
+          "startSec": 140.8,
+          "endSec": 141,
+          "text": "comes"
+        },
+        {
+          "startSec": 141,
+          "endSec": 141.1,
+          "text": "to"
+        },
+        {
+          "startSec": 141.1,
+          "endSec": 141.8,
+          "text": "socializing,"
+        },
+        {
+          "startSec": 141.8,
+          "endSec": 141.9,
+          "text": "it"
+        },
+        {
+          "startSec": 141.9,
+          "endSec": 142,
+          "text": "can"
+        },
+        {
+          "startSec": 142,
+          "endSec": 142.1,
+          "text": "be"
+        },
+        {
+          "startSec": 142.1,
+          "endSec": 142.3,
+          "text": "kind"
+        },
+        {
+          "startSec": 142.3,
+          "endSec": 142.4,
+          "text": "of"
+        },
+        {
+          "startSec": 142.4,
+          "endSec": 142.6,
+          "text": "hard"
+        },
+        {
+          "startSec": 142.6,
+          "endSec": 143.1,
+          "text": "sometimes"
+        },
+        {
+          "startSec": 143.1,
+          "endSec": 143.4,
+          "text": "because"
+        },
+        {
+          "startSec": 143.4,
+          "endSec": 143.5,
+          "text": "I"
+        },
+        {
+          "startSec": 143.5,
+          "endSec": 143.7,
+          "text": "want"
+        },
+        {
+          "startSec": 143.7,
+          "endSec": 143.8,
+          "text": "to"
+        },
+        {
+          "startSec": 143.8,
+          "endSec": 144,
+          "text": "show"
+        },
+        {
+          "startSec": 144,
+          "endSec": 144.2,
+          "text": "that"
+        },
+        {
+          "startSec": 144.2,
+          "endSec": 144.3,
+          "text": "my"
+        }
+      ]
+    },
+    {
+      "startSec": 144.2,
+      "endSec": 149.2,
+      "text": "my friends don't feel inconvenienced or feel like I'm being a burden.",
+      "words": [
+        {
+          "startSec": 144.2,
+          "endSec": 144.3,
+          "text": "my"
+        },
+        {
+          "startSec": 144.3,
+          "endSec": 144.9,
+          "text": "friends"
+        },
+        {
+          "startSec": 144.9,
+          "endSec": 145.3,
+          "text": "don't"
+        },
+        {
+          "startSec": 145.3,
+          "endSec": 145.6,
+          "text": "feel"
+        },
+        {
+          "startSec": 145.6,
+          "endSec": 146.8,
+          "text": "inconvenienced"
+        },
+        {
+          "startSec": 146.8,
+          "endSec": 147,
+          "text": "or"
+        },
+        {
+          "startSec": 147,
+          "endSec": 147.3,
+          "text": "feel"
+        },
+        {
+          "startSec": 147.3,
+          "endSec": 147.6,
+          "text": "like"
+        },
+        {
+          "startSec": 147.6,
+          "endSec": 147.9,
+          "text": "I'm"
+        },
+        {
+          "startSec": 147.9,
+          "endSec": 148.3,
+          "text": "being"
+        },
+        {
+          "startSec": 148.3,
+          "endSec": 148.3,
+          "text": "a"
+        },
+        {
+          "startSec": 148.3,
+          "endSec": 149.2,
+          "text": "burden."
+        },
+        {
+          "startSec": 149.2,
+          "endSec": 149.3,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 149.2,
+      "endSec": 153.8,
+      "text": "If Mia wants to go to a restaurant, she has to call ahead of time, to tell them about",
+      "words": [
+        {
+          "startSec": 149.2,
+          "endSec": 149.3,
+          "text": "If"
+        },
+        {
+          "startSec": 149.3,
+          "endSec": 149.5,
+          "text": "Mia"
+        },
+        {
+          "startSec": 149.5,
+          "endSec": 149.8,
+          "text": "wants"
+        },
+        {
+          "startSec": 149.8,
+          "endSec": 150,
+          "text": "to"
+        },
+        {
+          "startSec": 150,
+          "endSec": 150.1,
+          "text": "go"
+        },
+        {
+          "startSec": 150.1,
+          "endSec": 150.2,
+          "text": "to"
+        },
+        {
+          "startSec": 150.2,
+          "endSec": 150.3,
+          "text": "a"
+        },
+        {
+          "startSec": 150.3,
+          "endSec": 151.1,
+          "text": "restaurant,"
+        },
+        {
+          "startSec": 151.1,
+          "endSec": 151.3,
+          "text": "she"
+        },
+        {
+          "startSec": 151.3,
+          "endSec": 151.5,
+          "text": "has"
+        },
+        {
+          "startSec": 151.5,
+          "endSec": 151.6,
+          "text": "to"
+        },
+        {
+          "startSec": 151.6,
+          "endSec": 151.9,
+          "text": "call"
+        },
+        {
+          "startSec": 151.9,
+          "endSec": 152.2,
+          "text": "ahead"
+        },
+        {
+          "startSec": 152.2,
+          "endSec": 152.3,
+          "text": "of"
+        },
+        {
+          "startSec": 152.3,
+          "endSec": 152.7,
+          "text": "time,"
+        },
+        {
+          "startSec": 152.7,
+          "endSec": 152.8,
+          "text": "to"
+        },
+        {
+          "startSec": 152.8,
+          "endSec": 153.1,
+          "text": "tell"
+        },
+        {
+          "startSec": 153.1,
+          "endSec": 153.4,
+          "text": "them"
+        },
+        {
+          "startSec": 153.4,
+          "endSec": 153.8,
+          "text": "about"
+        },
+        {
+          "startSec": 153.8,
+          "endSec": 154.1,
+          "text": "her"
+        }
+      ]
+    },
+    {
+      "startSec": 153.8,
+      "endSec": 158.6,
+      "text": "her allergies. If you call ahead of time, you phone somewhere, like a restaurant, before",
+      "words": [
+        {
+          "startSec": 153.8,
+          "endSec": 154.1,
+          "text": "her"
+        },
+        {
+          "startSec": 154.1,
+          "endSec": 155.2,
+          "text": "allergies."
+        },
+        {
+          "startSec": 155.2,
+          "endSec": 155.3,
+          "text": "If"
+        },
+        {
+          "startSec": 155.3,
+          "endSec": 155.5,
+          "text": "you"
+        },
+        {
+          "startSec": 155.5,
+          "endSec": 155.7,
+          "text": "call"
+        },
+        {
+          "startSec": 155.7,
+          "endSec": 156,
+          "text": "ahead"
+        },
+        {
+          "startSec": 156,
+          "endSec": 156.1,
+          "text": "of"
+        },
+        {
+          "startSec": 156.1,
+          "endSec": 156.4,
+          "text": "time,"
+        },
+        {
+          "startSec": 156.4,
+          "endSec": 156.6,
+          "text": "you"
+        },
+        {
+          "startSec": 156.6,
+          "endSec": 156.9,
+          "text": "phone"
+        },
+        {
+          "startSec": 156.9,
+          "endSec": 157.6,
+          "text": "somewhere,"
+        },
+        {
+          "startSec": 157.6,
+          "endSec": 157.7,
+          "text": "like"
+        },
+        {
+          "startSec": 157.7,
+          "endSec": 157.8,
+          "text": "a"
+        },
+        {
+          "startSec": 157.8,
+          "endSec": 158.3,
+          "text": "restaurant,"
+        },
+        {
+          "startSec": 158.3,
+          "endSec": 158.6,
+          "text": "before"
+        },
+        {
+          "startSec": 158.6,
+          "endSec": 159,
+          "text": "you"
+        }
+      ]
+    },
+    {
+      "startSec": 158.6,
+      "endSec": 162.5,
+      "text": "you go. We can also say call ahead.",
+      "words": [
+        {
+          "startSec": 158.6,
+          "endSec": 159,
+          "text": "you"
+        },
+        {
+          "startSec": 159,
+          "endSec": 159.8,
+          "text": "go."
+        },
+        {
+          "startSec": 159.8,
+          "endSec": 160,
+          "text": "We"
+        },
+        {
+          "startSec": 160,
+          "endSec": 160.3,
+          "text": "can"
+        },
+        {
+          "startSec": 160.3,
+          "endSec": 160.8,
+          "text": "also"
+        },
+        {
+          "startSec": 160.8,
+          "endSec": 161.1,
+          "text": "say"
+        },
+        {
+          "startSec": 161.1,
+          "endSec": 161.6,
+          "text": "call"
+        },
+        {
+          "startSec": 161.6,
+          "endSec": 162.5,
+          "text": "ahead."
+        },
+        {
+          "startSec": 162.5,
+          "endSec": 162.7,
+          "text": "Mia"
+        }
+      ]
+    },
+    {
+      "startSec": 162.5,
+      "endSec": 167.6,
+      "text": "Mia needs to find out whether restaurants can accommodate her allergies. Accommodate,",
+      "words": [
+        {
+          "startSec": 162.5,
+          "endSec": 162.7,
+          "text": "Mia"
+        },
+        {
+          "startSec": 162.7,
+          "endSec": 163,
+          "text": "needs"
+        },
+        {
+          "startSec": 163,
+          "endSec": 163.1,
+          "text": "to"
+        },
+        {
+          "startSec": 163.1,
+          "endSec": 163.4,
+          "text": "find"
+        },
+        {
+          "startSec": 163.4,
+          "endSec": 163.6,
+          "text": "out"
+        },
+        {
+          "startSec": 163.6,
+          "endSec": 164.1,
+          "text": "whether"
+        },
+        {
+          "startSec": 164.1,
+          "endSec": 164.8,
+          "text": "restaurants"
+        },
+        {
+          "startSec": 164.8,
+          "endSec": 165,
+          "text": "can"
+        },
+        {
+          "startSec": 165,
+          "endSec": 165.7,
+          "text": "accommodate"
+        },
+        {
+          "startSec": 165.7,
+          "endSec": 165.9,
+          "text": "her"
+        },
+        {
+          "startSec": 165.9,
+          "endSec": 166.7,
+          "text": "allergies."
+        },
+        {
+          "startSec": 166.7,
+          "endSec": 167.6,
+          "text": "Accommodate,"
+        }
+      ]
+    },
+    {
+      "startSec": 167.6,
+      "endSec": 171.5,
+      "text": "in this context, means give someone what they need.",
+      "words": [
+        {
+          "startSec": 167.7,
+          "endSec": 167.8,
+          "text": "in"
+        },
+        {
+          "startSec": 167.8,
+          "endSec": 168.1,
+          "text": "this"
+        },
+        {
+          "startSec": 168.1,
+          "endSec": 168.9,
+          "text": "context,"
+        },
+        {
+          "startSec": 168.9,
+          "endSec": 169.3,
+          "text": "means"
+        },
+        {
+          "startSec": 169.3,
+          "endSec": 169.6,
+          "text": "give"
+        },
+        {
+          "startSec": 169.6,
+          "endSec": 170.2,
+          "text": "someone"
+        },
+        {
+          "startSec": 170.2,
+          "endSec": 170.6,
+          "text": "what"
+        },
+        {
+          "startSec": 170.6,
+          "endSec": 170.9,
+          "text": "they"
+        },
+        {
+          "startSec": 170.9,
+          "endSec": 171.5,
+          "text": "need."
+        },
+        {
+          "startSec": 171.5,
+          "endSec": 172,
+          "text": "Because"
+        }
+      ]
+    },
+    {
+      "startSec": 171.5,
+      "endSec": 176.1,
+      "text": "Because Mia has so many allergies, she has to visit restaurants which have protocols",
+      "words": [
+        {
+          "startSec": 171.5,
+          "endSec": 172,
+          "text": "Because"
+        },
+        {
+          "startSec": 172,
+          "endSec": 172.2,
+          "text": "Mia"
+        },
+        {
+          "startSec": 172.2,
+          "endSec": 172.3,
+          "text": "has"
+        },
+        {
+          "startSec": 172.3,
+          "endSec": 172.5,
+          "text": "so"
+        },
+        {
+          "startSec": 172.5,
+          "endSec": 172.7,
+          "text": "many"
+        },
+        {
+          "startSec": 172.7,
+          "endSec": 173.4,
+          "text": "allergies,"
+        },
+        {
+          "startSec": 173.4,
+          "endSec": 173.6,
+          "text": "she"
+        },
+        {
+          "startSec": 173.6,
+          "endSec": 173.8,
+          "text": "has"
+        },
+        {
+          "startSec": 173.8,
+          "endSec": 173.9,
+          "text": "to"
+        },
+        {
+          "startSec": 173.9,
+          "endSec": 174.2,
+          "text": "visit"
+        },
+        {
+          "startSec": 174.2,
+          "endSec": 174.9,
+          "text": "restaurants"
+        },
+        {
+          "startSec": 174.9,
+          "endSec": 175.2,
+          "text": "which"
+        },
+        {
+          "startSec": 175.2,
+          "endSec": 175.5,
+          "text": "have"
+        },
+        {
+          "startSec": 175.5,
+          "endSec": 176.1,
+          "text": "protocols"
+        },
+        {
+          "startSec": 176.1,
+          "endSec": 176.3,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 176.1,
+      "endSec": 182,
+      "text": "to stop the food she is allergic to touching her meal. Protocols means a set of rules for",
+      "words": [
+        {
+          "startSec": 176.1,
+          "endSec": 176.3,
+          "text": "to"
+        },
+        {
+          "startSec": 176.3,
+          "endSec": 176.7,
+          "text": "stop"
+        },
+        {
+          "startSec": 176.7,
+          "endSec": 176.9,
+          "text": "the"
+        },
+        {
+          "startSec": 176.9,
+          "endSec": 177.3,
+          "text": "food"
+        },
+        {
+          "startSec": 177.3,
+          "endSec": 177.6,
+          "text": "she"
+        },
+        {
+          "startSec": 177.6,
+          "endSec": 177.8,
+          "text": "is"
+        },
+        {
+          "startSec": 177.8,
+          "endSec": 178.5,
+          "text": "allergic"
+        },
+        {
+          "startSec": 178.5,
+          "endSec": 178.7,
+          "text": "to"
+        },
+        {
+          "startSec": 178.7,
+          "endSec": 179.5,
+          "text": "touching"
+        },
+        {
+          "startSec": 179.5,
+          "endSec": 179.8,
+          "text": "her"
+        },
+        {
+          "startSec": 179.8,
+          "endSec": 180.5,
+          "text": "meal."
+        },
+        {
+          "startSec": 180.5,
+          "endSec": 181,
+          "text": "Protocols"
+        },
+        {
+          "startSec": 181,
+          "endSec": 181.2,
+          "text": "means"
+        },
+        {
+          "startSec": 181.2,
+          "endSec": 181.3,
+          "text": "a"
+        },
+        {
+          "startSec": 181.3,
+          "endSec": 181.4,
+          "text": "set"
+        },
+        {
+          "startSec": 181.4,
+          "endSec": 181.5,
+          "text": "of"
+        },
+        {
+          "startSec": 181.5,
+          "endSec": 181.8,
+          "text": "rules"
+        },
+        {
+          "startSec": 181.8,
+          "endSec": 182,
+          "text": "for"
+        },
+        {
+          "startSec": 182,
+          "endSec": 182.1,
+          "text": "a"
+        }
+      ]
+    },
+    {
+      "startSec": 182,
+      "endSec": 185.8,
+      "text": "a process to make sure things are done properly.",
+      "words": [
+        {
+          "startSec": 182,
+          "endSec": 182.1,
+          "text": "a"
+        },
+        {
+          "startSec": 182.1,
+          "endSec": 182.7,
+          "text": "process"
+        },
+        {
+          "startSec": 182.7,
+          "endSec": 182.9,
+          "text": "to"
+        },
+        {
+          "startSec": 182.9,
+          "endSec": 183.2,
+          "text": "make"
+        },
+        {
+          "startSec": 183.2,
+          "endSec": 183.6,
+          "text": "sure"
+        },
+        {
+          "startSec": 183.6,
+          "endSec": 184.1,
+          "text": "things"
+        },
+        {
+          "startSec": 184.1,
+          "endSec": 184.4,
+          "text": "are"
+        },
+        {
+          "startSec": 184.4,
+          "endSec": 184.8,
+          "text": "done"
+        },
+        {
+          "startSec": 184.8,
+          "endSec": 185.8,
+          "text": "properly."
+        },
+        {
+          "startSec": 185.8,
+          "endSec": 186.1,
+          "text": "Now"
+        }
+      ]
+    },
+    {
+      "startSec": 185.8,
+      "endSec": 191.2,
+      "text": "Now most people who have allergies don't have as many as Mia, but scientists believe",
+      "words": [
+        {
+          "startSec": 185.8,
+          "endSec": 186.1,
+          "text": "Now"
+        },
+        {
+          "startSec": 186.1,
+          "endSec": 186.4,
+          "text": "most"
+        },
+        {
+          "startSec": 186.4,
+          "endSec": 186.8,
+          "text": "people"
+        },
+        {
+          "startSec": 186.8,
+          "endSec": 187,
+          "text": "who"
+        },
+        {
+          "startSec": 187,
+          "endSec": 187.3,
+          "text": "have"
+        },
+        {
+          "startSec": 187.3,
+          "endSec": 188,
+          "text": "allergies"
+        },
+        {
+          "startSec": 188,
+          "endSec": 188.4,
+          "text": "don't"
+        },
+        {
+          "startSec": 188.4,
+          "endSec": 188.7,
+          "text": "have"
+        },
+        {
+          "startSec": 188.7,
+          "endSec": 188.8,
+          "text": "as"
+        },
+        {
+          "startSec": 188.8,
+          "endSec": 189.1,
+          "text": "many"
+        },
+        {
+          "startSec": 189.1,
+          "endSec": 189.3,
+          "text": "as"
+        },
+        {
+          "startSec": 189.3,
+          "endSec": 189.6,
+          "text": "Mia,"
+        },
+        {
+          "startSec": 189.6,
+          "endSec": 189.9,
+          "text": "but"
+        },
+        {
+          "startSec": 189.9,
+          "endSec": 190.6,
+          "text": "scientists"
+        },
+        {
+          "startSec": 190.6,
+          "endSec": 191.2,
+          "text": "believe"
+        },
+        {
+          "startSec": 191.2,
+          "endSec": 191.6,
+          "text": "more"
+        }
+      ]
+    },
+    {
+      "startSec": 191.2,
+      "endSec": 196.5,
+      "text": "more people are developing allergies. And there is one place where the number of allergies",
+      "words": [
+        {
+          "startSec": 191.2,
+          "endSec": 191.6,
+          "text": "more"
+        },
+        {
+          "startSec": 191.6,
+          "endSec": 192.1,
+          "text": "people"
+        },
+        {
+          "startSec": 192.1,
+          "endSec": 192.4,
+          "text": "are"
+        },
+        {
+          "startSec": 192.4,
+          "endSec": 193.3,
+          "text": "developing"
+        },
+        {
+          "startSec": 193.3,
+          "endSec": 194.4,
+          "text": "allergies."
+        },
+        {
+          "startSec": 194.4,
+          "endSec": 194.5,
+          "text": "And"
+        },
+        {
+          "startSec": 194.5,
+          "endSec": 194.7,
+          "text": "there"
+        },
+        {
+          "startSec": 194.7,
+          "endSec": 194.8,
+          "text": "is"
+        },
+        {
+          "startSec": 194.8,
+          "endSec": 195,
+          "text": "one"
+        },
+        {
+          "startSec": 195,
+          "endSec": 195.2,
+          "text": "place"
+        },
+        {
+          "startSec": 195.2,
+          "endSec": 195.4,
+          "text": "where"
+        },
+        {
+          "startSec": 195.4,
+          "endSec": 195.5,
+          "text": "the"
+        },
+        {
+          "startSec": 195.5,
+          "endSec": 195.8,
+          "text": "number"
+        },
+        {
+          "startSec": 195.8,
+          "endSec": 195.9,
+          "text": "of"
+        },
+        {
+          "startSec": 195.9,
+          "endSec": 196.5,
+          "text": "allergies"
+        },
+        {
+          "startSec": 196.5,
+          "endSec": 196.7,
+          "text": "is"
+        }
+      ]
+    },
+    {
+      "startSec": 196.5,
+      "endSec": 199.4,
+      "text": "is particularly high, Australia.",
+      "words": [
+        {
+          "startSec": 196.5,
+          "endSec": 196.7,
+          "text": "is"
+        },
+        {
+          "startSec": 196.7,
+          "endSec": 197.7,
+          "text": "particularly"
+        },
+        {
+          "startSec": 197.7,
+          "endSec": 198.3,
+          "text": "high,"
+        },
+        {
+          "startSec": 198.3,
+          "endSec": 199.4,
+          "text": "Australia."
+        },
+        {
+          "startSec": 199.4,
+          "endSec": 199.5,
+          "text": "In"
+        }
+      ]
+    },
+    {
+      "startSec": 199.4,
+      "endSec": 204.7,
+      "text": "In fact, Australia is called the allergy capital of the world. When we describe somewhere as",
+      "words": [
+        {
+          "startSec": 199.4,
+          "endSec": 199.5,
+          "text": "In"
+        },
+        {
+          "startSec": 199.5,
+          "endSec": 199.9,
+          "text": "fact,"
+        },
+        {
+          "startSec": 199.9,
+          "endSec": 200.6,
+          "text": "Australia"
+        },
+        {
+          "startSec": 200.6,
+          "endSec": 200.7,
+          "text": "is"
+        },
+        {
+          "startSec": 200.7,
+          "endSec": 201.1,
+          "text": "called"
+        },
+        {
+          "startSec": 201.1,
+          "endSec": 201.3,
+          "text": "the"
+        },
+        {
+          "startSec": 201.3,
+          "endSec": 201.8,
+          "text": "allergy"
+        },
+        {
+          "startSec": 201.8,
+          "endSec": 202.3,
+          "text": "capital"
+        },
+        {
+          "startSec": 202.3,
+          "endSec": 202.4,
+          "text": "of"
+        },
+        {
+          "startSec": 202.4,
+          "endSec": 202.7,
+          "text": "the"
+        },
+        {
+          "startSec": 202.7,
+          "endSec": 203.2,
+          "text": "world."
+        },
+        {
+          "startSec": 203.2,
+          "endSec": 203.5,
+          "text": "When"
+        },
+        {
+          "startSec": 203.5,
+          "endSec": 203.6,
+          "text": "we"
+        },
+        {
+          "startSec": 203.6,
+          "endSec": 204,
+          "text": "describe"
+        },
+        {
+          "startSec": 204,
+          "endSec": 204.5,
+          "text": "somewhere"
+        },
+        {
+          "startSec": 204.5,
+          "endSec": 204.7,
+          "text": "as"
+        },
+        {
+          "startSec": 204.7,
+          "endSec": 204.9,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 204.7,
+      "endSec": 210.2,
+      "text": "the capital of the world in something, we mean that it's known for that thing. So the",
+      "words": [
+        {
+          "startSec": 204.7,
+          "endSec": 204.9,
+          "text": "the"
+        },
+        {
+          "startSec": 204.9,
+          "endSec": 205.4,
+          "text": "capital"
+        },
+        {
+          "startSec": 205.4,
+          "endSec": 205.6,
+          "text": "of"
+        },
+        {
+          "startSec": 205.6,
+          "endSec": 205.8,
+          "text": "the"
+        },
+        {
+          "startSec": 205.8,
+          "endSec": 206.2,
+          "text": "world"
+        },
+        {
+          "startSec": 206.2,
+          "endSec": 206.4,
+          "text": "in"
+        },
+        {
+          "startSec": 206.4,
+          "endSec": 207.2,
+          "text": "something,"
+        },
+        {
+          "startSec": 207.2,
+          "endSec": 207.3,
+          "text": "we"
+        },
+        {
+          "startSec": 207.3,
+          "endSec": 207.6,
+          "text": "mean"
+        },
+        {
+          "startSec": 207.6,
+          "endSec": 207.9,
+          "text": "that"
+        },
+        {
+          "startSec": 207.9,
+          "endSec": 208.2,
+          "text": "it's"
+        },
+        {
+          "startSec": 208.2,
+          "endSec": 208.6,
+          "text": "known"
+        },
+        {
+          "startSec": 208.6,
+          "endSec": 208.9,
+          "text": "for"
+        },
+        {
+          "startSec": 208.9,
+          "endSec": 209.2,
+          "text": "that"
+        },
+        {
+          "startSec": 209.2,
+          "endSec": 209.8,
+          "text": "thing."
+        },
+        {
+          "startSec": 209.8,
+          "endSec": 209.9,
+          "text": "So"
+        },
+        {
+          "startSec": 209.9,
+          "endSec": 210.2,
+          "text": "the"
+        },
+        {
+          "startSec": 210.2,
+          "endSec": 210.7,
+          "text": "allergy"
+        }
+      ]
+    },
+    {
+      "startSec": 210.2,
+      "endSec": 214.6,
+      "text": "allergy capital of the world is the place in the world with the most allergies.",
+      "words": [
+        {
+          "startSec": 210.2,
+          "endSec": 210.7,
+          "text": "allergy"
+        },
+        {
+          "startSec": 210.7,
+          "endSec": 211.1,
+          "text": "capital"
+        },
+        {
+          "startSec": 211.1,
+          "endSec": 211.3,
+          "text": "of"
+        },
+        {
+          "startSec": 211.3,
+          "endSec": 211.5,
+          "text": "the"
+        },
+        {
+          "startSec": 211.5,
+          "endSec": 211.8,
+          "text": "world"
+        },
+        {
+          "startSec": 211.8,
+          "endSec": 211.9,
+          "text": "is"
+        },
+        {
+          "startSec": 211.9,
+          "endSec": 212.1,
+          "text": "the"
+        },
+        {
+          "startSec": 212.1,
+          "endSec": 212.4,
+          "text": "place"
+        },
+        {
+          "startSec": 212.4,
+          "endSec": 212.6,
+          "text": "in"
+        },
+        {
+          "startSec": 212.6,
+          "endSec": 212.7,
+          "text": "the"
+        },
+        {
+          "startSec": 212.7,
+          "endSec": 213.1,
+          "text": "world"
+        },
+        {
+          "startSec": 213.1,
+          "endSec": 213.3,
+          "text": "with"
+        },
+        {
+          "startSec": 213.3,
+          "endSec": 213.5,
+          "text": "the"
+        },
+        {
+          "startSec": 213.5,
+          "endSec": 213.8,
+          "text": "most"
+        },
+        {
+          "startSec": 213.8,
+          "endSec": 214.6,
+          "text": "allergies."
+        },
+        {
+          "startSec": 214.6,
+          "endSec": 214.9,
+          "text": "BBC"
+        }
+      ]
+    },
+    {
+      "startSec": 214.6,
+      "endSec": 220.9,
+      "text": "BBC journalist Francis Now is from Australia and explained some of the allergy data to BBC",
+      "words": [
+        {
+          "startSec": 214.6,
+          "endSec": 214.9,
+          "text": "BBC"
+        },
+        {
+          "startSec": 214.9,
+          "endSec": 215.7,
+          "text": "journalist"
+        },
+        {
+          "startSec": 215.7,
+          "endSec": 216.3,
+          "text": "Francis"
+        },
+        {
+          "startSec": 216.3,
+          "endSec": 216.5,
+          "text": "Now"
+        },
+        {
+          "startSec": 216.5,
+          "endSec": 216.7,
+          "text": "is"
+        },
+        {
+          "startSec": 216.7,
+          "endSec": 217,
+          "text": "from"
+        },
+        {
+          "startSec": 217,
+          "endSec": 217.7,
+          "text": "Australia"
+        },
+        {
+          "startSec": 217.7,
+          "endSec": 218,
+          "text": "and"
+        },
+        {
+          "startSec": 218,
+          "endSec": 218.7,
+          "text": "explained"
+        },
+        {
+          "startSec": 218.7,
+          "endSec": 219,
+          "text": "some"
+        },
+        {
+          "startSec": 219,
+          "endSec": 219.2,
+          "text": "of"
+        },
+        {
+          "startSec": 219.2,
+          "endSec": 219.4,
+          "text": "the"
+        },
+        {
+          "startSec": 219.4,
+          "endSec": 220,
+          "text": "allergy"
+        },
+        {
+          "startSec": 220,
+          "endSec": 220.3,
+          "text": "data"
+        },
+        {
+          "startSec": 220.3,
+          "endSec": 220.5,
+          "text": "to"
+        },
+        {
+          "startSec": 220.5,
+          "endSec": 220.9,
+          "text": "BBC"
+        },
+        {
+          "startSec": 220.9,
+          "endSec": 221.3,
+          "text": "World"
+        }
+      ]
+    },
+    {
+      "startSec": 220.9,
+      "endSec": 223.6,
+      "text": "World Service podcast What in the World?",
+      "words": [
+        {
+          "startSec": 220.9,
+          "endSec": 221.3,
+          "text": "World"
+        },
+        {
+          "startSec": 221.3,
+          "endSec": 221.8,
+          "text": "Service"
+        },
+        {
+          "startSec": 221.8,
+          "endSec": 222.3,
+          "text": "podcast"
+        },
+        {
+          "startSec": 222.3,
+          "endSec": 222.6,
+          "text": "What"
+        },
+        {
+          "startSec": 222.6,
+          "endSec": 222.7,
+          "text": "in"
+        },
+        {
+          "startSec": 222.7,
+          "endSec": 222.9,
+          "text": "the"
+        },
+        {
+          "startSec": 222.9,
+          "endSec": 223.6,
+          "text": "World?"
+        },
+        {
+          "startSec": 223.6,
+          "endSec": 223.9,
+          "text": "You're"
+        }
+      ]
+    },
+    {
+      "startSec": 223.6,
+      "endSec": 227.8,
+      "text": "You're from Australia which has been called the allergy capital of the world. What is",
+      "words": [
+        {
+          "startSec": 223.6,
+          "endSec": 223.9,
+          "text": "You're"
+        },
+        {
+          "startSec": 223.9,
+          "endSec": 224.2,
+          "text": "from"
+        },
+        {
+          "startSec": 224.2,
+          "endSec": 224.7,
+          "text": "Australia"
+        },
+        {
+          "startSec": 224.7,
+          "endSec": 225,
+          "text": "which"
+        },
+        {
+          "startSec": 225,
+          "endSec": 225.2,
+          "text": "has"
+        },
+        {
+          "startSec": 225.2,
+          "endSec": 225.4,
+          "text": "been"
+        },
+        {
+          "startSec": 225.4,
+          "endSec": 225.8,
+          "text": "called"
+        },
+        {
+          "startSec": 225.8,
+          "endSec": 226,
+          "text": "the"
+        },
+        {
+          "startSec": 226,
+          "endSec": 226.4,
+          "text": "allergy"
+        },
+        {
+          "startSec": 226.4,
+          "endSec": 226.8,
+          "text": "capital"
+        },
+        {
+          "startSec": 226.8,
+          "endSec": 227,
+          "text": "of"
+        },
+        {
+          "startSec": 227,
+          "endSec": 227.1,
+          "text": "the"
+        },
+        {
+          "startSec": 227.1,
+          "endSec": 227.7,
+          "text": "world."
+        },
+        {
+          "startSec": 227.7,
+          "endSec": 227.7,
+          "text": "What"
+        },
+        {
+          "startSec": 227.7,
+          "endSec": 227.8,
+          "text": "is"
+        },
+        {
+          "startSec": 227.8,
+          "endSec": 227.9,
+          "text": "it"
+        }
+      ]
+    },
+    {
+      "startSec": 227.8,
+      "endSec": 232,
+      "text": "it about Australia in particular that is making people more allergic?",
+      "words": [
+        {
+          "startSec": 227.8,
+          "endSec": 227.9,
+          "text": "it"
+        },
+        {
+          "startSec": 227.9,
+          "endSec": 228.3,
+          "text": "about"
+        },
+        {
+          "startSec": 228.3,
+          "endSec": 228.9,
+          "text": "Australia"
+        },
+        {
+          "startSec": 228.9,
+          "endSec": 229,
+          "text": "in"
+        },
+        {
+          "startSec": 229,
+          "endSec": 229.7,
+          "text": "particular"
+        },
+        {
+          "startSec": 229.7,
+          "endSec": 230,
+          "text": "that"
+        },
+        {
+          "startSec": 230,
+          "endSec": 230.1,
+          "text": "is"
+        },
+        {
+          "startSec": 230.1,
+          "endSec": 230.6,
+          "text": "making"
+        },
+        {
+          "startSec": 230.6,
+          "endSec": 231,
+          "text": "people"
+        },
+        {
+          "startSec": 231,
+          "endSec": 231.3,
+          "text": "more"
+        },
+        {
+          "startSec": 231.3,
+          "endSec": 232,
+          "text": "allergic?"
+        },
+        {
+          "startSec": 232,
+          "endSec": 232.6,
+          "text": "Australia's"
+        }
+      ]
+    },
+    {
+      "startSec": 232,
+      "endSec": 235.8,
+      "text": "Australia's termed the allergy capital of the world because due to the research and",
+      "words": [
+        {
+          "startSec": 232,
+          "endSec": 232.6,
+          "text": "Australia's"
+        },
+        {
+          "startSec": 232.6,
+          "endSec": 232.9,
+          "text": "termed"
+        },
+        {
+          "startSec": 232.9,
+          "endSec": 233.1,
+          "text": "the"
+        },
+        {
+          "startSec": 233.1,
+          "endSec": 233.5,
+          "text": "allergy"
+        },
+        {
+          "startSec": 233.5,
+          "endSec": 233.8,
+          "text": "capital"
+        },
+        {
+          "startSec": 233.8,
+          "endSec": 233.9,
+          "text": "of"
+        },
+        {
+          "startSec": 233.9,
+          "endSec": 234.1,
+          "text": "the"
+        },
+        {
+          "startSec": 234.1,
+          "endSec": 234.4,
+          "text": "world"
+        },
+        {
+          "startSec": 234.4,
+          "endSec": 234.7,
+          "text": "because"
+        },
+        {
+          "startSec": 234.7,
+          "endSec": 234.9,
+          "text": "due"
+        },
+        {
+          "startSec": 234.9,
+          "endSec": 235,
+          "text": "to"
+        },
+        {
+          "startSec": 235,
+          "endSec": 235.2,
+          "text": "the"
+        },
+        {
+          "startSec": 235.2,
+          "endSec": 235.6,
+          "text": "research"
+        },
+        {
+          "startSec": 235.6,
+          "endSec": 235.8,
+          "text": "and"
+        },
+        {
+          "startSec": 235.8,
+          "endSec": 236.1,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 235.8,
+      "endSec": 242.3,
+      "text": "the data, that shows that almost one in ten infants have marked an allergy. And often",
+      "words": [
+        {
+          "startSec": 235.8,
+          "endSec": 236.1,
+          "text": "the"
+        },
+        {
+          "startSec": 236.1,
+          "endSec": 236.7,
+          "text": "data,"
+        },
+        {
+          "startSec": 236.7,
+          "endSec": 237.1,
+          "text": "that"
+        },
+        {
+          "startSec": 237.1,
+          "endSec": 237.5,
+          "text": "shows"
+        },
+        {
+          "startSec": 237.5,
+          "endSec": 237.9,
+          "text": "that"
+        },
+        {
+          "startSec": 237.9,
+          "endSec": 238.5,
+          "text": "almost"
+        },
+        {
+          "startSec": 238.5,
+          "endSec": 238.8,
+          "text": "one"
+        },
+        {
+          "startSec": 238.8,
+          "endSec": 239,
+          "text": "in"
+        },
+        {
+          "startSec": 239,
+          "endSec": 239.2,
+          "text": "ten"
+        },
+        {
+          "startSec": 239.2,
+          "endSec": 239.9,
+          "text": "infants"
+        },
+        {
+          "startSec": 239.9,
+          "endSec": 240.3,
+          "text": "have"
+        },
+        {
+          "startSec": 240.3,
+          "endSec": 240.9,
+          "text": "marked"
+        },
+        {
+          "startSec": 240.9,
+          "endSec": 241,
+          "text": "an"
+        },
+        {
+          "startSec": 241,
+          "endSec": 242,
+          "text": "allergy."
+        },
+        {
+          "startSec": 242,
+          "endSec": 242.1,
+          "text": "And"
+        },
+        {
+          "startSec": 242.1,
+          "endSec": 242.3,
+          "text": "often"
+        },
+        {
+          "startSec": 242.3,
+          "endSec": 242.8,
+          "text": "that's"
+        }
+      ]
+    },
+    {
+      "startSec": 242.3,
+      "endSec": 247.3,
+      "text": "that's a food allergy or respiratory allergy. And that does drop off once they're a bit",
+      "words": [
+        {
+          "startSec": 242.3,
+          "endSec": 242.8,
+          "text": "that's"
+        },
+        {
+          "startSec": 242.8,
+          "endSec": 242.8,
+          "text": "a"
+        },
+        {
+          "startSec": 242.8,
+          "endSec": 243.2,
+          "text": "food"
+        },
+        {
+          "startSec": 243.2,
+          "endSec": 243.7,
+          "text": "allergy"
+        },
+        {
+          "startSec": 243.7,
+          "endSec": 243.9,
+          "text": "or"
+        },
+        {
+          "startSec": 243.9,
+          "endSec": 244.8,
+          "text": "respiratory"
+        },
+        {
+          "startSec": 244.8,
+          "endSec": 245.6,
+          "text": "allergy."
+        },
+        {
+          "startSec": 245.6,
+          "endSec": 245.8,
+          "text": "And"
+        },
+        {
+          "startSec": 245.8,
+          "endSec": 246,
+          "text": "that"
+        },
+        {
+          "startSec": 246,
+          "endSec": 246.2,
+          "text": "does"
+        },
+        {
+          "startSec": 246.2,
+          "endSec": 246.4,
+          "text": "drop"
+        },
+        {
+          "startSec": 246.4,
+          "endSec": 246.5,
+          "text": "off"
+        },
+        {
+          "startSec": 246.5,
+          "endSec": 246.7,
+          "text": "once"
+        },
+        {
+          "startSec": 246.7,
+          "endSec": 247,
+          "text": "they're"
+        },
+        {
+          "startSec": 247,
+          "endSec": 247.1,
+          "text": "a"
+        },
+        {
+          "startSec": 247.1,
+          "endSec": 247.3,
+          "text": "bit"
+        },
+        {
+          "startSec": 247.3,
+          "endSec": 248.3,
+          "text": "older."
+        }
+      ]
+    },
+    {
+      "startSec": 247.3,
+      "endSec": 252.6,
+      "text": "older. Age six or so, it goes down to about six percent and then as an adult, it goes",
+      "words": [
+        {
+          "startSec": 247.3,
+          "endSec": 248.3,
+          "text": "older."
+        },
+        {
+          "startSec": 248.3,
+          "endSec": 248.5,
+          "text": "Age"
+        },
+        {
+          "startSec": 248.5,
+          "endSec": 248.8,
+          "text": "six"
+        },
+        {
+          "startSec": 248.8,
+          "endSec": 249,
+          "text": "or"
+        },
+        {
+          "startSec": 249,
+          "endSec": 249.3,
+          "text": "so,"
+        },
+        {
+          "startSec": 249.3,
+          "endSec": 249.5,
+          "text": "it"
+        },
+        {
+          "startSec": 249.5,
+          "endSec": 249.8,
+          "text": "goes"
+        },
+        {
+          "startSec": 249.8,
+          "endSec": 250.1,
+          "text": "down"
+        },
+        {
+          "startSec": 250.1,
+          "endSec": 250.3,
+          "text": "to"
+        },
+        {
+          "startSec": 250.3,
+          "endSec": 250.7,
+          "text": "about"
+        },
+        {
+          "startSec": 250.7,
+          "endSec": 251,
+          "text": "six"
+        },
+        {
+          "startSec": 251,
+          "endSec": 251.4,
+          "text": "percent"
+        },
+        {
+          "startSec": 251.4,
+          "endSec": 251.5,
+          "text": "and"
+        },
+        {
+          "startSec": 251.5,
+          "endSec": 251.7,
+          "text": "then"
+        },
+        {
+          "startSec": 251.7,
+          "endSec": 251.8,
+          "text": "as"
+        },
+        {
+          "startSec": 251.8,
+          "endSec": 251.9,
+          "text": "an"
+        },
+        {
+          "startSec": 251.9,
+          "endSec": 252.3,
+          "text": "adult,"
+        },
+        {
+          "startSec": 252.3,
+          "endSec": 252.4,
+          "text": "it"
+        },
+        {
+          "startSec": 252.4,
+          "endSec": 252.6,
+          "text": "goes"
+        },
+        {
+          "startSec": 252.6,
+          "endSec": 252.8,
+          "text": "down"
+        }
+      ]
+    },
+    {
+      "startSec": 252.6,
+      "endSec": 254.4,
+      "text": "down to like three percent.",
+      "words": [
+        {
+          "startSec": 252.6,
+          "endSec": 252.8,
+          "text": "down"
+        },
+        {
+          "startSec": 252.8,
+          "endSec": 253,
+          "text": "to"
+        },
+        {
+          "startSec": 253,
+          "endSec": 253.3,
+          "text": "like"
+        },
+        {
+          "startSec": 253.3,
+          "endSec": 253.6,
+          "text": "three"
+        },
+        {
+          "startSec": 253.6,
+          "endSec": 254.4,
+          "text": "percent."
+        },
+        {
+          "startSec": 254.4,
+          "endSec": 254.8,
+          "text": "Francis"
+        }
+      ]
+    },
+    {
+      "startSec": 254.4,
+      "endSec": 260.6,
+      "text": "Francis talks about the high numbers of Australian infants, that's babies, who have allergies.",
+      "words": [
+        {
+          "startSec": 254.4,
+          "endSec": 254.8,
+          "text": "Francis"
+        },
+        {
+          "startSec": 254.8,
+          "endSec": 255.1,
+          "text": "talks"
+        },
+        {
+          "startSec": 255.1,
+          "endSec": 255.5,
+          "text": "about"
+        },
+        {
+          "startSec": 255.5,
+          "endSec": 255.6,
+          "text": "the"
+        },
+        {
+          "startSec": 255.6,
+          "endSec": 255.9,
+          "text": "high"
+        },
+        {
+          "startSec": 255.9,
+          "endSec": 256.3,
+          "text": "numbers"
+        },
+        {
+          "startSec": 256.3,
+          "endSec": 256.5,
+          "text": "of"
+        },
+        {
+          "startSec": 256.5,
+          "endSec": 257.1,
+          "text": "Australian"
+        },
+        {
+          "startSec": 257.1,
+          "endSec": 257.7,
+          "text": "infants,"
+        },
+        {
+          "startSec": 257.7,
+          "endSec": 258,
+          "text": "that's"
+        },
+        {
+          "startSec": 258,
+          "endSec": 258.5,
+          "text": "babies,"
+        },
+        {
+          "startSec": 258.5,
+          "endSec": 258.7,
+          "text": "who"
+        },
+        {
+          "startSec": 258.7,
+          "endSec": 259.1,
+          "text": "have"
+        },
+        {
+          "startSec": 259.1,
+          "endSec": 260.6,
+          "text": "allergies."
+        },
+        {
+          "startSec": 260.6,
+          "endSec": 260.8,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 260.6,
+      "endSec": 265.8,
+      "text": "But she says the numbers drop off as children get older. If numbers or rates of something",
+      "words": [
+        {
+          "startSec": 260.6,
+          "endSec": 260.8,
+          "text": "But"
+        },
+        {
+          "startSec": 260.8,
+          "endSec": 261,
+          "text": "she"
+        },
+        {
+          "startSec": 261,
+          "endSec": 261.3,
+          "text": "says"
+        },
+        {
+          "startSec": 261.3,
+          "endSec": 261.5,
+          "text": "the"
+        },
+        {
+          "startSec": 261.5,
+          "endSec": 262,
+          "text": "numbers"
+        },
+        {
+          "startSec": 262,
+          "endSec": 262.3,
+          "text": "drop"
+        },
+        {
+          "startSec": 262.3,
+          "endSec": 262.6,
+          "text": "off"
+        },
+        {
+          "startSec": 262.6,
+          "endSec": 262.7,
+          "text": "as"
+        },
+        {
+          "startSec": 262.7,
+          "endSec": 263.3,
+          "text": "children"
+        },
+        {
+          "startSec": 263.3,
+          "endSec": 263.5,
+          "text": "get"
+        },
+        {
+          "startSec": 263.5,
+          "endSec": 264.2,
+          "text": "older."
+        },
+        {
+          "startSec": 264.2,
+          "endSec": 264.3,
+          "text": "If"
+        },
+        {
+          "startSec": 264.3,
+          "endSec": 264.7,
+          "text": "numbers"
+        },
+        {
+          "startSec": 264.7,
+          "endSec": 264.8,
+          "text": "or"
+        },
+        {
+          "startSec": 264.8,
+          "endSec": 265.1,
+          "text": "rates"
+        },
+        {
+          "startSec": 265.1,
+          "endSec": 265.2,
+          "text": "of"
+        },
+        {
+          "startSec": 265.2,
+          "endSec": 265.8,
+          "text": "something"
+        },
+        {
+          "startSec": 265.8,
+          "endSec": 266.1,
+          "text": "drop"
+        }
+      ]
+    },
+    {
+      "startSec": 265.8,
+      "endSec": 268,
+      "text": "drop off, they get lower.",
+      "words": [
+        {
+          "startSec": 265.8,
+          "endSec": 266.1,
+          "text": "drop"
+        },
+        {
+          "startSec": 266.1,
+          "endSec": 266.6,
+          "text": "off,"
+        },
+        {
+          "startSec": 266.6,
+          "endSec": 267,
+          "text": "they"
+        },
+        {
+          "startSec": 267,
+          "endSec": 267.3,
+          "text": "get"
+        },
+        {
+          "startSec": 267.3,
+          "endSec": 268,
+          "text": "lower."
+        },
+        {
+          "startSec": 268,
+          "endSec": 268.2,
+          "text": "By"
+        }
+      ]
+    },
+    {
+      "startSec": 268,
+      "endSec": 274,
+      "text": "By age six or so, Australian children are less likely to have allergies. We can use",
+      "words": [
+        {
+          "startSec": 268,
+          "endSec": 268.2,
+          "text": "By"
+        },
+        {
+          "startSec": 268.2,
+          "endSec": 268.5,
+          "text": "age"
+        },
+        {
+          "startSec": 268.5,
+          "endSec": 268.7,
+          "text": "six"
+        },
+        {
+          "startSec": 268.7,
+          "endSec": 268.9,
+          "text": "or"
+        },
+        {
+          "startSec": 268.9,
+          "endSec": 269.2,
+          "text": "so,"
+        },
+        {
+          "startSec": 269.2,
+          "endSec": 270,
+          "text": "Australian"
+        },
+        {
+          "startSec": 270,
+          "endSec": 270.7,
+          "text": "children"
+        },
+        {
+          "startSec": 270.7,
+          "endSec": 270.9,
+          "text": "are"
+        },
+        {
+          "startSec": 270.9,
+          "endSec": 271.3,
+          "text": "less"
+        },
+        {
+          "startSec": 271.3,
+          "endSec": 271.8,
+          "text": "likely"
+        },
+        {
+          "startSec": 271.8,
+          "endSec": 271.9,
+          "text": "to"
+        },
+        {
+          "startSec": 271.9,
+          "endSec": 272.3,
+          "text": "have"
+        },
+        {
+          "startSec": 272.3,
+          "endSec": 273.3,
+          "text": "allergies."
+        },
+        {
+          "startSec": 273.3,
+          "endSec": 273.4,
+          "text": "We"
+        },
+        {
+          "startSec": 273.4,
+          "endSec": 273.7,
+          "text": "can"
+        },
+        {
+          "startSec": 273.7,
+          "endSec": 274,
+          "text": "use"
+        },
+        {
+          "startSec": 274,
+          "endSec": 274.2,
+          "text": "or"
+        }
+      ]
+    },
+    {
+      "startSec": 274,
+      "endSec": 280,
+      "text": "or sow in informal speech to show that the number is an estimate. It's not exact.",
+      "words": [
+        {
+          "startSec": 274,
+          "endSec": 274.2,
+          "text": "or"
+        },
+        {
+          "startSec": 274.2,
+          "endSec": 274.4,
+          "text": "sow"
+        },
+        {
+          "startSec": 274.4,
+          "endSec": 274.6,
+          "text": "in"
+        },
+        {
+          "startSec": 274.6,
+          "endSec": 275.3,
+          "text": "informal"
+        },
+        {
+          "startSec": 275.3,
+          "endSec": 275.7,
+          "text": "speech"
+        },
+        {
+          "startSec": 275.7,
+          "endSec": 275.9,
+          "text": "to"
+        },
+        {
+          "startSec": 275.9,
+          "endSec": 276.2,
+          "text": "show"
+        },
+        {
+          "startSec": 276.2,
+          "endSec": 276.6,
+          "text": "that"
+        },
+        {
+          "startSec": 276.6,
+          "endSec": 276.8,
+          "text": "the"
+        },
+        {
+          "startSec": 276.8,
+          "endSec": 277.3,
+          "text": "number"
+        },
+        {
+          "startSec": 277.3,
+          "endSec": 277.4,
+          "text": "is"
+        },
+        {
+          "startSec": 277.4,
+          "endSec": 277.6,
+          "text": "an"
+        },
+        {
+          "startSec": 277.6,
+          "endSec": 278.6,
+          "text": "estimate."
+        },
+        {
+          "startSec": 278.6,
+          "endSec": 278.9,
+          "text": "It's"
+        },
+        {
+          "startSec": 278.9,
+          "endSec": 279.2,
+          "text": "not"
+        },
+        {
+          "startSec": 279.2,
+          "endSec": 280,
+          "text": "exact."
+        }
+      ]
+    },
+    {
+      "startSec": 280,
+      "endSec": 284,
+      "text": "So Beth, is there anything we can do about all these allergies?",
+      "words": [
+        {
+          "startSec": 280.1,
+          "endSec": 280.1,
+          "text": "So"
+        },
+        {
+          "startSec": 280.1,
+          "endSec": 280.6,
+          "text": "Beth,"
+        },
+        {
+          "startSec": 280.6,
+          "endSec": 280.7,
+          "text": "is"
+        },
+        {
+          "startSec": 280.7,
+          "endSec": 281.1,
+          "text": "there"
+        },
+        {
+          "startSec": 281.1,
+          "endSec": 281.7,
+          "text": "anything"
+        },
+        {
+          "startSec": 281.7,
+          "endSec": 281.8,
+          "text": "we"
+        },
+        {
+          "startSec": 281.8,
+          "endSec": 282,
+          "text": "can"
+        },
+        {
+          "startSec": 282,
+          "endSec": 282.2,
+          "text": "do"
+        },
+        {
+          "startSec": 282.2,
+          "endSec": 282.5,
+          "text": "about"
+        },
+        {
+          "startSec": 282.5,
+          "endSec": 282.7,
+          "text": "all"
+        },
+        {
+          "startSec": 282.7,
+          "endSec": 283.1,
+          "text": "these"
+        },
+        {
+          "startSec": 283.1,
+          "endSec": 284,
+          "text": "allergies?"
+        },
+        {
+          "startSec": 284,
+          "endSec": 284.5,
+          "text": "Well,"
+        }
+      ]
+    },
+    {
+      "startSec": 284,
+      "endSec": 291,
+      "text": "Well, scientists are investigating giving babies vitamin D, which can be shown to reduce allergies.",
+      "words": [
+        {
+          "startSec": 284,
+          "endSec": 284.5,
+          "text": "Well,"
+        },
+        {
+          "startSec": 284.5,
+          "endSec": 285.2,
+          "text": "scientists"
+        },
+        {
+          "startSec": 285.2,
+          "endSec": 285.4,
+          "text": "are"
+        },
+        {
+          "startSec": 285.4,
+          "endSec": 286.4,
+          "text": "investigating"
+        },
+        {
+          "startSec": 286.4,
+          "endSec": 286.8,
+          "text": "giving"
+        },
+        {
+          "startSec": 286.8,
+          "endSec": 287.2,
+          "text": "babies"
+        },
+        {
+          "startSec": 287.2,
+          "endSec": 287.7,
+          "text": "vitamin"
+        },
+        {
+          "startSec": 287.7,
+          "endSec": 288,
+          "text": "D,"
+        },
+        {
+          "startSec": 288,
+          "endSec": 288.3,
+          "text": "which"
+        },
+        {
+          "startSec": 288.3,
+          "endSec": 288.5,
+          "text": "can"
+        },
+        {
+          "startSec": 288.5,
+          "endSec": 288.7,
+          "text": "be"
+        },
+        {
+          "startSec": 288.7,
+          "endSec": 289,
+          "text": "shown"
+        },
+        {
+          "startSec": 289,
+          "endSec": 289.2,
+          "text": "to"
+        },
+        {
+          "startSec": 289.2,
+          "endSec": 289.7,
+          "text": "reduce"
+        },
+        {
+          "startSec": 289.7,
+          "endSec": 291,
+          "text": "allergies."
+        },
+        {
+          "startSec": 291,
+          "endSec": 291.5,
+          "text": "Another"
+        }
+      ]
+    },
+    {
+      "startSec": 291,
+      "endSec": 296.5,
+      "text": "Another technique is immunotherapy, which involves scientists giving children tiny amounts",
+      "words": [
+        {
+          "startSec": 291,
+          "endSec": 291.5,
+          "text": "Another"
+        },
+        {
+          "startSec": 291.5,
+          "endSec": 292.1,
+          "text": "technique"
+        },
+        {
+          "startSec": 292.1,
+          "endSec": 292.2,
+          "text": "is"
+        },
+        {
+          "startSec": 292.2,
+          "endSec": 293.2,
+          "text": "immunotherapy,"
+        },
+        {
+          "startSec": 293.2,
+          "endSec": 293.6,
+          "text": "which"
+        },
+        {
+          "startSec": 293.6,
+          "endSec": 294.1,
+          "text": "involves"
+        },
+        {
+          "startSec": 294.1,
+          "endSec": 294.7,
+          "text": "scientists"
+        },
+        {
+          "startSec": 294.7,
+          "endSec": 295.1,
+          "text": "giving"
+        },
+        {
+          "startSec": 295.1,
+          "endSec": 295.7,
+          "text": "children"
+        },
+        {
+          "startSec": 295.7,
+          "endSec": 296,
+          "text": "tiny"
+        },
+        {
+          "startSec": 296,
+          "endSec": 296.5,
+          "text": "amounts"
+        },
+        {
+          "startSec": 296.5,
+          "endSec": 296.6,
+          "text": "of"
+        }
+      ]
+    },
+    {
+      "startSec": 296.5,
+      "endSec": 300.6,
+      "text": "of the thing they are allergic to and then building up their baby's tolerance.",
+      "words": [
+        {
+          "startSec": 296.5,
+          "endSec": 296.6,
+          "text": "of"
+        },
+        {
+          "startSec": 296.6,
+          "endSec": 296.8,
+          "text": "the"
+        },
+        {
+          "startSec": 296.8,
+          "endSec": 297.1,
+          "text": "thing"
+        },
+        {
+          "startSec": 297.1,
+          "endSec": 297.3,
+          "text": "they"
+        },
+        {
+          "startSec": 297.3,
+          "endSec": 297.5,
+          "text": "are"
+        },
+        {
+          "startSec": 297.5,
+          "endSec": 298,
+          "text": "allergic"
+        },
+        {
+          "startSec": 298,
+          "endSec": 298.1,
+          "text": "to"
+        },
+        {
+          "startSec": 298.1,
+          "endSec": 298.3,
+          "text": "and"
+        },
+        {
+          "startSec": 298.3,
+          "endSec": 298.5,
+          "text": "then"
+        },
+        {
+          "startSec": 298.5,
+          "endSec": 299,
+          "text": "building"
+        },
+        {
+          "startSec": 299,
+          "endSec": 299.2,
+          "text": "up"
+        },
+        {
+          "startSec": 299.2,
+          "endSec": 299.5,
+          "text": "their"
+        },
+        {
+          "startSec": 299.5,
+          "endSec": 299.8,
+          "text": "baby's"
+        },
+        {
+          "startSec": 299.8,
+          "endSec": 300.6,
+          "text": "tolerance."
+        },
+        {
+          "startSec": 300.6,
+          "endSec": 301.5,
+          "text": "Interesting."
+        }
+      ]
+    },
+    {
+      "startSec": 300.6,
+      "endSec": 305.8,
+      "text": "Interesting. And I think it's time to find out the answer to my question. I asked you,",
+      "words": [
+        {
+          "startSec": 300.6,
+          "endSec": 301.5,
+          "text": "Interesting."
+        },
+        {
+          "startSec": 301.5,
+          "endSec": 301.7,
+          "text": "And"
+        },
+        {
+          "startSec": 301.7,
+          "endSec": 301.8,
+          "text": "I"
+        },
+        {
+          "startSec": 301.8,
+          "endSec": 302.1,
+          "text": "think"
+        },
+        {
+          "startSec": 302.1,
+          "endSec": 302.3,
+          "text": "it's"
+        },
+        {
+          "startSec": 302.3,
+          "endSec": 302.6,
+          "text": "time"
+        },
+        {
+          "startSec": 302.6,
+          "endSec": 302.7,
+          "text": "to"
+        },
+        {
+          "startSec": 302.7,
+          "endSec": 303,
+          "text": "find"
+        },
+        {
+          "startSec": 303,
+          "endSec": 303.2,
+          "text": "out"
+        },
+        {
+          "startSec": 303.2,
+          "endSec": 303.3,
+          "text": "the"
+        },
+        {
+          "startSec": 303.3,
+          "endSec": 303.7,
+          "text": "answer"
+        },
+        {
+          "startSec": 303.7,
+          "endSec": 303.8,
+          "text": "to"
+        },
+        {
+          "startSec": 303.8,
+          "endSec": 304,
+          "text": "my"
+        },
+        {
+          "startSec": 304,
+          "endSec": 304.8,
+          "text": "question."
+        },
+        {
+          "startSec": 304.8,
+          "endSec": 304.9,
+          "text": "I"
+        },
+        {
+          "startSec": 304.9,
+          "endSec": 305.3,
+          "text": "asked"
+        },
+        {
+          "startSec": 305.3,
+          "endSec": 305.8,
+          "text": "you,"
+        },
+        {
+          "startSec": 305.8,
+          "endSec": 306,
+          "text": "what"
+        }
+      ]
+    },
+    {
+      "startSec": 305.8,
+      "endSec": 308.1,
+      "text": "what is the most common allergy in the world?",
+      "words": [
+        {
+          "startSec": 305.8,
+          "endSec": 306,
+          "text": "what"
+        },
+        {
+          "startSec": 306,
+          "endSec": 306.1,
+          "text": "is"
+        },
+        {
+          "startSec": 306.1,
+          "endSec": 306.3,
+          "text": "the"
+        },
+        {
+          "startSec": 306.3,
+          "endSec": 306.5,
+          "text": "most"
+        },
+        {
+          "startSec": 306.5,
+          "endSec": 306.9,
+          "text": "common"
+        },
+        {
+          "startSec": 306.9,
+          "endSec": 307.3,
+          "text": "allergy"
+        },
+        {
+          "startSec": 307.3,
+          "endSec": 307.4,
+          "text": "in"
+        },
+        {
+          "startSec": 307.4,
+          "endSec": 307.6,
+          "text": "the"
+        },
+        {
+          "startSec": 307.6,
+          "endSec": 308.1,
+          "text": "world?"
+        },
+        {
+          "startSec": 308.1,
+          "endSec": 308.2,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 308.1,
+      "endSec": 310.4,
+      "text": "I said pollen, was I right?",
+      "words": [
+        {
+          "startSec": 308.1,
+          "endSec": 308.2,
+          "text": "I"
+        },
+        {
+          "startSec": 308.2,
+          "endSec": 308.5,
+          "text": "said"
+        },
+        {
+          "startSec": 308.5,
+          "endSec": 309.3,
+          "text": "pollen,"
+        },
+        {
+          "startSec": 309.3,
+          "endSec": 309.5,
+          "text": "was"
+        },
+        {
+          "startSec": 309.5,
+          "endSec": 309.6,
+          "text": "I"
+        },
+        {
+          "startSec": 309.6,
+          "endSec": 310.4,
+          "text": "right?"
+        },
+        {
+          "startSec": 310.4,
+          "endSec": 310.7,
+          "text": "You"
+        }
+      ]
+    },
+    {
+      "startSec": 310.4,
+      "endSec": 313,
+      "text": "You were right, well done.",
+      "words": [
+        {
+          "startSec": 310.4,
+          "endSec": 310.7,
+          "text": "You"
+        },
+        {
+          "startSec": 310.7,
+          "endSec": 311.1,
+          "text": "were"
+        },
+        {
+          "startSec": 311.1,
+          "endSec": 311.8,
+          "text": "right,"
+        },
+        {
+          "startSec": 311.8,
+          "endSec": 312.2,
+          "text": "well"
+        },
+        {
+          "startSec": 312.2,
+          "endSec": 313,
+          "text": "done."
+        },
+        {
+          "startSec": 313,
+          "endSec": 313.4,
+          "text": "Okay,"
+        }
+      ]
+    },
+    {
+      "startSec": 313,
+      "endSec": 319,
+      "text": "Okay, let's recap the vocabulary we've learnt, starting with call ahead of time, which means",
+      "words": [
+        {
+          "startSec": 313,
+          "endSec": 313.4,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 313.4,
+          "endSec": 313.7,
+          "text": "let's"
+        },
+        {
+          "startSec": 313.7,
+          "endSec": 314.1,
+          "text": "recap"
+        },
+        {
+          "startSec": 314.1,
+          "endSec": 314.3,
+          "text": "the"
+        },
+        {
+          "startSec": 314.3,
+          "endSec": 315,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 315,
+          "endSec": 315.4,
+          "text": "we've"
+        },
+        {
+          "startSec": 315.4,
+          "endSec": 315.9,
+          "text": "learnt,"
+        },
+        {
+          "startSec": 315.9,
+          "endSec": 316.5,
+          "text": "starting"
+        },
+        {
+          "startSec": 316.5,
+          "endSec": 316.8,
+          "text": "with"
+        },
+        {
+          "startSec": 316.8,
+          "endSec": 317.2,
+          "text": "call"
+        },
+        {
+          "startSec": 317.2,
+          "endSec": 317.8,
+          "text": "ahead"
+        },
+        {
+          "startSec": 317.8,
+          "endSec": 318,
+          "text": "of"
+        },
+        {
+          "startSec": 318,
+          "endSec": 318.6,
+          "text": "time,"
+        },
+        {
+          "startSec": 318.6,
+          "endSec": 318.7,
+          "text": "which"
+        },
+        {
+          "startSec": 318.7,
+          "endSec": 319,
+          "text": "means"
+        },
+        {
+          "startSec": 319,
+          "endSec": 319.1,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 319,
+      "endSec": 324.3,
+      "text": "to phone somewhere, like a restaurant, before your appointment or before you go there.",
+      "words": [
+        {
+          "startSec": 319,
+          "endSec": 319.1,
+          "text": "to"
+        },
+        {
+          "startSec": 319.1,
+          "endSec": 319.5,
+          "text": "phone"
+        },
+        {
+          "startSec": 319.5,
+          "endSec": 320.2,
+          "text": "somewhere,"
+        },
+        {
+          "startSec": 320.2,
+          "endSec": 320.5,
+          "text": "like"
+        },
+        {
+          "startSec": 320.5,
+          "endSec": 320.5,
+          "text": "a"
+        },
+        {
+          "startSec": 320.5,
+          "endSec": 321.4,
+          "text": "restaurant,"
+        },
+        {
+          "startSec": 321.4,
+          "endSec": 321.8,
+          "text": "before"
+        },
+        {
+          "startSec": 321.8,
+          "endSec": 322,
+          "text": "your"
+        },
+        {
+          "startSec": 322,
+          "endSec": 322.8,
+          "text": "appointment"
+        },
+        {
+          "startSec": 322.8,
+          "endSec": 322.9,
+          "text": "or"
+        },
+        {
+          "startSec": 322.9,
+          "endSec": 323.3,
+          "text": "before"
+        },
+        {
+          "startSec": 323.3,
+          "endSec": 323.5,
+          "text": "you"
+        },
+        {
+          "startSec": 323.5,
+          "endSec": 323.7,
+          "text": "go"
+        },
+        {
+          "startSec": 323.7,
+          "endSec": 324.3,
+          "text": "there."
+        },
+        {
+          "startSec": 324.3,
+          "endSec": 324.4,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 324.3,
+      "endSec": 328.1,
+      "text": "If you accommodate someone, you give them what they need.",
+      "words": [
+        {
+          "startSec": 324.3,
+          "endSec": 324.4,
+          "text": "If"
+        },
+        {
+          "startSec": 324.4,
+          "endSec": 324.6,
+          "text": "you"
+        },
+        {
+          "startSec": 324.6,
+          "endSec": 325.5,
+          "text": "accommodate"
+        },
+        {
+          "startSec": 325.5,
+          "endSec": 326.1,
+          "text": "someone,"
+        },
+        {
+          "startSec": 326.1,
+          "endSec": 326.3,
+          "text": "you"
+        },
+        {
+          "startSec": 326.3,
+          "endSec": 326.6,
+          "text": "give"
+        },
+        {
+          "startSec": 326.6,
+          "endSec": 326.9,
+          "text": "them"
+        },
+        {
+          "startSec": 326.9,
+          "endSec": 327.2,
+          "text": "what"
+        },
+        {
+          "startSec": 327.2,
+          "endSec": 327.5,
+          "text": "they"
+        },
+        {
+          "startSec": 327.5,
+          "endSec": 328.1,
+          "text": "need."
+        },
+        {
+          "startSec": 328.1,
+          "endSec": 328.8,
+          "text": "Protocols"
+        }
+      ]
+    },
+    {
+      "startSec": 328.1,
+      "endSec": 331.7,
+      "text": "Protocols are strict rules for how something is done.",
+      "words": [
+        {
+          "startSec": 328.1,
+          "endSec": 328.8,
+          "text": "Protocols"
+        },
+        {
+          "startSec": 328.8,
+          "endSec": 329,
+          "text": "are"
+        },
+        {
+          "startSec": 329,
+          "endSec": 329.4,
+          "text": "strict"
+        },
+        {
+          "startSec": 329.4,
+          "endSec": 329.8,
+          "text": "rules"
+        },
+        {
+          "startSec": 329.8,
+          "endSec": 330.1,
+          "text": "for"
+        },
+        {
+          "startSec": 330.1,
+          "endSec": 330.3,
+          "text": "how"
+        },
+        {
+          "startSec": 330.3,
+          "endSec": 331,
+          "text": "something"
+        },
+        {
+          "startSec": 331,
+          "endSec": 331.1,
+          "text": "is"
+        },
+        {
+          "startSec": 331.1,
+          "endSec": 331.7,
+          "text": "done."
+        },
+        {
+          "startSec": 331.7,
+          "endSec": 331.8,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 331.7,
+      "endSec": 337.5,
+      "text": "If somewhere is the capital of the world for a particular thing, it's known for that thing.",
+      "words": [
+        {
+          "startSec": 331.7,
+          "endSec": 331.8,
+          "text": "If"
+        },
+        {
+          "startSec": 331.8,
+          "endSec": 332.5,
+          "text": "somewhere"
+        },
+        {
+          "startSec": 332.5,
+          "endSec": 332.6,
+          "text": "is"
+        },
+        {
+          "startSec": 332.6,
+          "endSec": 332.8,
+          "text": "the"
+        },
+        {
+          "startSec": 332.8,
+          "endSec": 333.3,
+          "text": "capital"
+        },
+        {
+          "startSec": 333.3,
+          "endSec": 333.5,
+          "text": "of"
+        },
+        {
+          "startSec": 333.5,
+          "endSec": 333.7,
+          "text": "the"
+        },
+        {
+          "startSec": 333.7,
+          "endSec": 334,
+          "text": "world"
+        },
+        {
+          "startSec": 334,
+          "endSec": 334.3,
+          "text": "for"
+        },
+        {
+          "startSec": 334.3,
+          "endSec": 334.3,
+          "text": "a"
+        },
+        {
+          "startSec": 334.3,
+          "endSec": 335.1,
+          "text": "particular"
+        },
+        {
+          "startSec": 335.1,
+          "endSec": 335.6,
+          "text": "thing,"
+        },
+        {
+          "startSec": 335.6,
+          "endSec": 335.8,
+          "text": "it's"
+        },
+        {
+          "startSec": 335.8,
+          "endSec": 336.2,
+          "text": "known"
+        },
+        {
+          "startSec": 336.2,
+          "endSec": 336.4,
+          "text": "for"
+        },
+        {
+          "startSec": 336.4,
+          "endSec": 336.8,
+          "text": "that"
+        },
+        {
+          "startSec": 336.8,
+          "endSec": 337.5,
+          "text": "thing."
+        },
+        {
+          "startSec": 337.5,
+          "endSec": 337.7,
+          "text": "For"
+        }
+      ]
+    },
+    {
+      "startSec": 337.5,
+      "endSec": 342,
+      "text": "For example, London is sometimes called the theatre capital of the world because we have",
+      "words": [
+        {
+          "startSec": 337.5,
+          "endSec": 337.7,
+          "text": "For"
+        },
+        {
+          "startSec": 337.7,
+          "endSec": 338.2,
+          "text": "example,"
+        },
+        {
+          "startSec": 338.2,
+          "endSec": 338.6,
+          "text": "London"
+        },
+        {
+          "startSec": 338.6,
+          "endSec": 338.7,
+          "text": "is"
+        },
+        {
+          "startSec": 338.7,
+          "endSec": 339.3,
+          "text": "sometimes"
+        },
+        {
+          "startSec": 339.3,
+          "endSec": 339.6,
+          "text": "called"
+        },
+        {
+          "startSec": 339.6,
+          "endSec": 339.8,
+          "text": "the"
+        },
+        {
+          "startSec": 339.8,
+          "endSec": 340.3,
+          "text": "theatre"
+        },
+        {
+          "startSec": 340.3,
+          "endSec": 340.7,
+          "text": "capital"
+        },
+        {
+          "startSec": 340.7,
+          "endSec": 340.8,
+          "text": "of"
+        },
+        {
+          "startSec": 340.8,
+          "endSec": 341,
+          "text": "the"
+        },
+        {
+          "startSec": 341,
+          "endSec": 341.4,
+          "text": "world"
+        },
+        {
+          "startSec": 341.4,
+          "endSec": 341.7,
+          "text": "because"
+        },
+        {
+          "startSec": 341.7,
+          "endSec": 341.8,
+          "text": "we"
+        },
+        {
+          "startSec": 341.8,
+          "endSec": 342,
+          "text": "have"
+        },
+        {
+          "startSec": 342,
+          "endSec": 342.3,
+          "text": "lots"
+        }
+      ]
+    },
+    {
+      "startSec": 342,
+      "endSec": 343.4,
+      "text": "lots of theatres.",
+      "words": [
+        {
+          "startSec": 342,
+          "endSec": 342.3,
+          "text": "lots"
+        },
+        {
+          "startSec": 342.3,
+          "endSec": 342.5,
+          "text": "of"
+        },
+        {
+          "startSec": 342.5,
+          "endSec": 343.4,
+          "text": "theatres."
+        },
+        {
+          "startSec": 343.4,
+          "endSec": 343.6,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 343.4,
+      "endSec": 346.3,
+      "text": "If numbers drop off, it means they get lower.",
+      "words": [
+        {
+          "startSec": 343.4,
+          "endSec": 343.6,
+          "text": "If"
+        },
+        {
+          "startSec": 343.6,
+          "endSec": 344.1,
+          "text": "numbers"
+        },
+        {
+          "startSec": 344.1,
+          "endSec": 344.3,
+          "text": "drop"
+        },
+        {
+          "startSec": 344.3,
+          "endSec": 344.7,
+          "text": "off,"
+        },
+        {
+          "startSec": 344.7,
+          "endSec": 344.8,
+          "text": "it"
+        },
+        {
+          "startSec": 344.8,
+          "endSec": 345.2,
+          "text": "means"
+        },
+        {
+          "startSec": 345.2,
+          "endSec": 345.5,
+          "text": "they"
+        },
+        {
+          "startSec": 345.5,
+          "endSec": 345.7,
+          "text": "get"
+        },
+        {
+          "startSec": 345.7,
+          "endSec": 346.3,
+          "text": "lower."
+        },
+        {
+          "startSec": 346.3,
+          "endSec": 346.6,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 346.3,
+      "endSec": 352.3,
+      "text": "And we can add, or so, to a number in informal speech to show that the number is an estimate.",
+      "words": [
+        {
+          "startSec": 346.3,
+          "endSec": 346.6,
+          "text": "And"
+        },
+        {
+          "startSec": 346.6,
+          "endSec": 346.7,
+          "text": "we"
+        },
+        {
+          "startSec": 346.7,
+          "endSec": 346.9,
+          "text": "can"
+        },
+        {
+          "startSec": 346.9,
+          "endSec": 347.3,
+          "text": "add,"
+        },
+        {
+          "startSec": 347.3,
+          "endSec": 347.5,
+          "text": "or"
+        },
+        {
+          "startSec": 347.5,
+          "endSec": 347.8,
+          "text": "so,"
+        },
+        {
+          "startSec": 347.8,
+          "endSec": 347.9,
+          "text": "to"
+        },
+        {
+          "startSec": 347.9,
+          "endSec": 348,
+          "text": "a"
+        },
+        {
+          "startSec": 348,
+          "endSec": 348.5,
+          "text": "number"
+        },
+        {
+          "startSec": 348.5,
+          "endSec": 348.6,
+          "text": "in"
+        },
+        {
+          "startSec": 348.6,
+          "endSec": 349.2,
+          "text": "informal"
+        },
+        {
+          "startSec": 349.2,
+          "endSec": 349.7,
+          "text": "speech"
+        },
+        {
+          "startSec": 349.7,
+          "endSec": 349.8,
+          "text": "to"
+        },
+        {
+          "startSec": 349.8,
+          "endSec": 350.1,
+          "text": "show"
+        },
+        {
+          "startSec": 350.1,
+          "endSec": 350.4,
+          "text": "that"
+        },
+        {
+          "startSec": 350.4,
+          "endSec": 350.6,
+          "text": "the"
+        },
+        {
+          "startSec": 350.6,
+          "endSec": 351.1,
+          "text": "number"
+        },
+        {
+          "startSec": 351.1,
+          "endSec": 351.3,
+          "text": "is"
+        },
+        {
+          "startSec": 351.3,
+          "endSec": 351.4,
+          "text": "an"
+        },
+        {
+          "startSec": 351.4,
+          "endSec": 352.3,
+          "text": "estimate."
+        },
+        {
+          "startSec": 352.3,
+          "endSec": 352.6,
+          "text": "It's"
+        }
+      ]
+    },
+    {
+      "startSec": 352.3,
+      "endSec": 353.7,
+      "text": "It's not exact.",
+      "words": [
+        {
+          "startSec": 352.3,
+          "endSec": 352.6,
+          "text": "It's"
+        },
+        {
+          "startSec": 352.6,
+          "endSec": 352.9,
+          "text": "not"
+        },
+        {
+          "startSec": 352.9,
+          "endSec": 353.7,
+          "text": "exact."
+        },
+        {
+          "startSec": 353.7,
+          "endSec": 354,
+          "text": "Once"
+        }
+      ]
+    },
+    {
+      "startSec": 353.7,
+      "endSec": 358.9,
+      "text": "Once again, our six minutes are up. But you can test your knowledge even more using the",
+      "words": [
+        {
+          "startSec": 353.7,
+          "endSec": 354,
+          "text": "Once"
+        },
+        {
+          "startSec": 354,
+          "endSec": 354.5,
+          "text": "again,"
+        },
+        {
+          "startSec": 354.5,
+          "endSec": 354.7,
+          "text": "our"
+        },
+        {
+          "startSec": 354.7,
+          "endSec": 354.9,
+          "text": "six"
+        },
+        {
+          "startSec": 354.9,
+          "endSec": 355.4,
+          "text": "minutes"
+        },
+        {
+          "startSec": 355.4,
+          "endSec": 355.6,
+          "text": "are"
+        },
+        {
+          "startSec": 355.6,
+          "endSec": 356,
+          "text": "up."
+        },
+        {
+          "startSec": 356,
+          "endSec": 356.2,
+          "text": "But"
+        },
+        {
+          "startSec": 356.2,
+          "endSec": 356.4,
+          "text": "you"
+        },
+        {
+          "startSec": 356.4,
+          "endSec": 356.6,
+          "text": "can"
+        },
+        {
+          "startSec": 356.6,
+          "endSec": 356.8,
+          "text": "test"
+        },
+        {
+          "startSec": 356.8,
+          "endSec": 357.1,
+          "text": "your"
+        },
+        {
+          "startSec": 357.1,
+          "endSec": 357.6,
+          "text": "knowledge"
+        },
+        {
+          "startSec": 357.6,
+          "endSec": 357.9,
+          "text": "even"
+        },
+        {
+          "startSec": 357.9,
+          "endSec": 358.2,
+          "text": "more"
+        },
+        {
+          "startSec": 358.2,
+          "endSec": 358.6,
+          "text": "using"
+        },
+        {
+          "startSec": 358.6,
+          "endSec": 358.9,
+          "text": "the"
+        },
+        {
+          "startSec": 358.9,
+          "endSec": 359.8,
+          "text": "interactive"
+        }
+      ]
+    },
+    {
+      "startSec": 358.9,
+      "endSec": 363.9,
+      "text": "interactive quiz on our website. Visit bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 358.9,
+          "endSec": 359.8,
+          "text": "interactive"
+        },
+        {
+          "startSec": 359.8,
+          "endSec": 360.1,
+          "text": "quiz"
+        },
+        {
+          "startSec": 360.1,
+          "endSec": 360.2,
+          "text": "on"
+        },
+        {
+          "startSec": 360.2,
+          "endSec": 360.5,
+          "text": "our"
+        },
+        {
+          "startSec": 360.5,
+          "endSec": 361.3,
+          "text": "website."
+        },
+        {
+          "startSec": 361.3,
+          "endSec": 361.7,
+          "text": "Visit"
+        },
+        {
+          "startSec": 361.7,
+          "endSec": 363.9,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 363.9,
+          "endSec": 364.3,
+          "text": "Bye"
+        }
+      ]
+    },
+    {
+      "startSec": 363.9,
+      "endSec": 364.9,
+      "text": "Bye for now.",
+      "words": [
+        {
+          "startSec": 363.9,
+          "endSec": 364.3,
+          "text": "Bye"
+        },
+        {
+          "startSec": 364.3,
+          "endSec": 364.6,
+          "text": "for"
+        },
+        {
+          "startSec": 364.6,
+          "endSec": 364.9,
+          "text": "now."
+        },
+        {
+          "startSec": 364.9,
+          "endSec": 365.9,
+          "text": "Bye."
+        }
+      ]
+    },
+    {
+      "startSec": 364.9,
+      "endSec": 365.9,
+      "text": "Bye.",
+      "words": [
+        {
+          "startSec": 364.9,
+          "endSec": 365.9,
+          "text": "Bye."
+        }
+      ]
+    },
+    {
+      "startSec": 365.9,
+      "endSec": 370.8,
+      "text": "Six minutes English from bbclearningenglish.com",
+      "words": [
+        {
+          "startSec": 366,
+          "endSec": 366.3,
+          "text": "Six"
+        },
+        {
+          "startSec": 366.3,
+          "endSec": 367.1,
+          "text": "minutes"
+        },
+        {
+          "startSec": 367.1,
+          "endSec": 367.9,
+          "text": "English"
+        },
+        {
+          "startSec": 367.9,
+          "endSec": 368.3,
+          "text": "from"
+        },
+        {
+          "startSec": 368.3,
+          "endSec": 370.8,
+          "text": "bbclearningenglish.com"
+        }
+      ]
+    }
+  ],
+  "introSec": 8.2
+}

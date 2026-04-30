@@ -1,0 +1,5776 @@
+{
+  "title": "What makes a good citizen",
+  "source": "BBC 6 Minute English",
+  "level": "intermediate",
+  "durationSec": 366,
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
+  "audioFile": "audio.mp3",
+  "segments": [
+    {
+      "startSec": 0,
+      "endSec": 12.7,
+      "text": "Hello, this is Six Minute English from BBCLearningEnglish, I'm Neil.",
+      "words": [
+        {
+          "startSec": 0.2,
+          "endSec": 1.6,
+          "text": "Hello,"
+        },
+        {
+          "startSec": 1.6,
+          "endSec": 2.5,
+          "text": "this"
+        },
+        {
+          "startSec": 2.5,
+          "endSec": 2.9,
+          "text": "is"
+        },
+        {
+          "startSec": 2.9,
+          "endSec": 3.6,
+          "text": "Six"
+        },
+        {
+          "startSec": 3.6,
+          "endSec": 4.9,
+          "text": "Minute"
+        },
+        {
+          "startSec": 4.9,
+          "endSec": 6.4,
+          "text": "English"
+        },
+        {
+          "startSec": 6.4,
+          "endSec": 7.3,
+          "text": "from"
+        },
+        {
+          "startSec": 7.3,
+          "endSec": 11.9,
+          "text": "BBCLearningEnglish,"
+        },
+        {
+          "startSec": 11.9,
+          "endSec": 12.1,
+          "text": "I'm"
+        },
+        {
+          "startSec": 12.1,
+          "endSec": 12.7,
+          "text": "Neil."
+        },
+        {
+          "startSec": 12.7,
+          "endSec": 13,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 12.7,
+      "endSec": 13.7,
+      "text": "And I'm Georgie.",
+      "words": [
+        {
+          "startSec": 12.7,
+          "endSec": 13,
+          "text": "And"
+        },
+        {
+          "startSec": 13,
+          "endSec": 13.2,
+          "text": "I'm"
+        },
+        {
+          "startSec": 13.2,
+          "endSec": 13.7,
+          "text": "Georgie."
+        },
+        {
+          "startSec": 13.7,
+          "endSec": 14.6,
+          "text": "Georgie,"
+        }
+      ]
+    },
+    {
+      "startSec": 13.7,
+      "endSec": 18,
+      "text": "Georgie, what do you think makes a good citizen?",
+      "words": [
+        {
+          "startSec": 13.7,
+          "endSec": 14.6,
+          "text": "Georgie,"
+        },
+        {
+          "startSec": 14.6,
+          "endSec": 15,
+          "text": "what"
+        },
+        {
+          "startSec": 15,
+          "endSec": 15.2,
+          "text": "do"
+        },
+        {
+          "startSec": 15.2,
+          "endSec": 15.5,
+          "text": "you"
+        },
+        {
+          "startSec": 15.5,
+          "endSec": 16,
+          "text": "think"
+        },
+        {
+          "startSec": 16,
+          "endSec": 16.4,
+          "text": "makes"
+        },
+        {
+          "startSec": 16.4,
+          "endSec": 16.5,
+          "text": "a"
+        },
+        {
+          "startSec": 16.5,
+          "endSec": 16.9,
+          "text": "good"
+        },
+        {
+          "startSec": 16.9,
+          "endSec": 18,
+          "text": "citizen?"
+        },
+        {
+          "startSec": 18,
+          "endSec": 18.2,
+          "text": "Oh,"
+        }
+      ]
+    },
+    {
+      "startSec": 18,
+      "endSec": 19.8,
+      "text": "Oh, interesting question.",
+      "words": [
+        {
+          "startSec": 18,
+          "endSec": 18.2,
+          "text": "Oh,"
+        },
+        {
+          "startSec": 18.2,
+          "endSec": 19,
+          "text": "interesting"
+        },
+        {
+          "startSec": 19,
+          "endSec": 19.8,
+          "text": "question."
+        },
+        {
+          "startSec": 19.8,
+          "endSec": 19.9,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 19.8,
+      "endSec": 25.6,
+      "text": "I think a good citizen is someone who doesn't break the law and is generally kind to other",
+      "words": [
+        {
+          "startSec": 19.8,
+          "endSec": 19.9,
+          "text": "I"
+        },
+        {
+          "startSec": 19.9,
+          "endSec": 20.2,
+          "text": "think"
+        },
+        {
+          "startSec": 20.2,
+          "endSec": 20.3,
+          "text": "a"
+        },
+        {
+          "startSec": 20.3,
+          "endSec": 20.6,
+          "text": "good"
+        },
+        {
+          "startSec": 20.6,
+          "endSec": 21.2,
+          "text": "citizen"
+        },
+        {
+          "startSec": 21.2,
+          "endSec": 21.4,
+          "text": "is"
+        },
+        {
+          "startSec": 21.4,
+          "endSec": 21.9,
+          "text": "someone"
+        },
+        {
+          "startSec": 21.9,
+          "endSec": 22.2,
+          "text": "who"
+        },
+        {
+          "startSec": 22.2,
+          "endSec": 22.7,
+          "text": "doesn't"
+        },
+        {
+          "startSec": 22.7,
+          "endSec": 23.1,
+          "text": "break"
+        },
+        {
+          "startSec": 23.1,
+          "endSec": 23.4,
+          "text": "the"
+        },
+        {
+          "startSec": 23.4,
+          "endSec": 23.7,
+          "text": "law"
+        },
+        {
+          "startSec": 23.7,
+          "endSec": 23.9,
+          "text": "and"
+        },
+        {
+          "startSec": 23.9,
+          "endSec": 24.1,
+          "text": "is"
+        },
+        {
+          "startSec": 24.1,
+          "endSec": 24.8,
+          "text": "generally"
+        },
+        {
+          "startSec": 24.8,
+          "endSec": 25.1,
+          "text": "kind"
+        },
+        {
+          "startSec": 25.1,
+          "endSec": 25.2,
+          "text": "to"
+        },
+        {
+          "startSec": 25.2,
+          "endSec": 25.6,
+          "text": "other"
+        },
+        {
+          "startSec": 25.6,
+          "endSec": 26.6,
+          "text": "people."
+        }
+      ]
+    },
+    {
+      "startSec": 25.6,
+      "endSec": 26.6,
+      "text": "people.",
+      "words": [
+        {
+          "startSec": 25.6,
+          "endSec": 26.6,
+          "text": "people."
+        },
+        {
+          "startSec": 26.6,
+          "endSec": 26.9,
+          "text": "What"
+        }
+      ]
+    },
+    {
+      "startSec": 26.6,
+      "endSec": 27.6,
+      "text": "What about you?",
+      "words": [
+        {
+          "startSec": 26.6,
+          "endSec": 26.9,
+          "text": "What"
+        },
+        {
+          "startSec": 26.9,
+          "endSec": 27.2,
+          "text": "about"
+        },
+        {
+          "startSec": 27.2,
+          "endSec": 27.6,
+          "text": "you?"
+        },
+        {
+          "startSec": 27.6,
+          "endSec": 27.9,
+          "text": "Any"
+        }
+      ]
+    },
+    {
+      "startSec": 27.6,
+      "endSec": 28.6,
+      "text": "Any ideas?",
+      "words": [
+        {
+          "startSec": 27.6,
+          "endSec": 27.9,
+          "text": "Any"
+        },
+        {
+          "startSec": 27.9,
+          "endSec": 28.6,
+          "text": "ideas?"
+        }
+      ]
+    },
+    {
+      "startSec": 28.6,
+      "endSec": 35.6,
+      "text": "I agree, but also maybe people who volunteer, so people who run clubs for children and that",
+      "words": [
+        {
+          "startSec": 28.7,
+          "endSec": 28.7,
+          "text": "I"
+        },
+        {
+          "startSec": 28.7,
+          "endSec": 29.4,
+          "text": "agree,"
+        },
+        {
+          "startSec": 29.4,
+          "endSec": 29.7,
+          "text": "but"
+        },
+        {
+          "startSec": 29.7,
+          "endSec": 30,
+          "text": "also"
+        },
+        {
+          "startSec": 30,
+          "endSec": 30.5,
+          "text": "maybe"
+        },
+        {
+          "startSec": 30.5,
+          "endSec": 31.1,
+          "text": "people"
+        },
+        {
+          "startSec": 31.1,
+          "endSec": 31.3,
+          "text": "who"
+        },
+        {
+          "startSec": 31.3,
+          "endSec": 32.4,
+          "text": "volunteer,"
+        },
+        {
+          "startSec": 32.4,
+          "endSec": 32.5,
+          "text": "so"
+        },
+        {
+          "startSec": 32.5,
+          "endSec": 33.1,
+          "text": "people"
+        },
+        {
+          "startSec": 33.1,
+          "endSec": 33.4,
+          "text": "who"
+        },
+        {
+          "startSec": 33.4,
+          "endSec": 33.7,
+          "text": "run"
+        },
+        {
+          "startSec": 33.7,
+          "endSec": 34.1,
+          "text": "clubs"
+        },
+        {
+          "startSec": 34.1,
+          "endSec": 34.4,
+          "text": "for"
+        },
+        {
+          "startSec": 34.4,
+          "endSec": 35.2,
+          "text": "children"
+        },
+        {
+          "startSec": 35.2,
+          "endSec": 35.5,
+          "text": "and"
+        },
+        {
+          "startSec": 35.5,
+          "endSec": 35.6,
+          "text": "that"
+        },
+        {
+          "startSec": 35.6,
+          "endSec": 35.9,
+          "text": "kind"
+        }
+      ]
+    },
+    {
+      "startSec": 35.6,
+      "endSec": 36.6,
+      "text": "kind of thing.",
+      "words": [
+        {
+          "startSec": 35.6,
+          "endSec": 35.9,
+          "text": "kind"
+        },
+        {
+          "startSec": 35.9,
+          "endSec": 36.1,
+          "text": "of"
+        },
+        {
+          "startSec": 36.1,
+          "endSec": 36.6,
+          "text": "thing."
+        },
+        {
+          "startSec": 36.6,
+          "endSec": 36.7,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 36.6,
+      "endSec": 38.5,
+      "text": "I think they're good citizens.",
+      "words": [
+        {
+          "startSec": 36.6,
+          "endSec": 36.7,
+          "text": "I"
+        },
+        {
+          "startSec": 36.7,
+          "endSec": 37,
+          "text": "think"
+        },
+        {
+          "startSec": 37,
+          "endSec": 37.5,
+          "text": "they're"
+        },
+        {
+          "startSec": 37.5,
+          "endSec": 37.7,
+          "text": "good"
+        },
+        {
+          "startSec": 37.7,
+          "endSec": 38.5,
+          "text": "citizens."
+        },
+        {
+          "startSec": 38.5,
+          "endSec": 38.7,
+          "text": "Now"
+        }
+      ]
+    },
+    {
+      "startSec": 38.5,
+      "endSec": 43.6,
+      "text": "Now being a citizen, a member of society who enjoys certain rights in return for having",
+      "words": [
+        {
+          "startSec": 38.5,
+          "endSec": 38.7,
+          "text": "Now"
+        },
+        {
+          "startSec": 38.7,
+          "endSec": 39,
+          "text": "being"
+        },
+        {
+          "startSec": 39,
+          "endSec": 39.1,
+          "text": "a"
+        },
+        {
+          "startSec": 39.1,
+          "endSec": 39.7,
+          "text": "citizen,"
+        },
+        {
+          "startSec": 39.7,
+          "endSec": 39.8,
+          "text": "a"
+        },
+        {
+          "startSec": 39.8,
+          "endSec": 40.2,
+          "text": "member"
+        },
+        {
+          "startSec": 40.2,
+          "endSec": 40.4,
+          "text": "of"
+        },
+        {
+          "startSec": 40.4,
+          "endSec": 40.9,
+          "text": "society"
+        },
+        {
+          "startSec": 40.9,
+          "endSec": 41.1,
+          "text": "who"
+        },
+        {
+          "startSec": 41.1,
+          "endSec": 41.5,
+          "text": "enjoys"
+        },
+        {
+          "startSec": 41.5,
+          "endSec": 42,
+          "text": "certain"
+        },
+        {
+          "startSec": 42,
+          "endSec": 42.4,
+          "text": "rights"
+        },
+        {
+          "startSec": 42.4,
+          "endSec": 42.5,
+          "text": "in"
+        },
+        {
+          "startSec": 42.5,
+          "endSec": 43,
+          "text": "return"
+        },
+        {
+          "startSec": 43,
+          "endSec": 43.2,
+          "text": "for"
+        },
+        {
+          "startSec": 43.2,
+          "endSec": 43.6,
+          "text": "having"
+        },
+        {
+          "startSec": 43.6,
+          "endSec": 44.2,
+          "text": "certain"
+        }
+      ]
+    },
+    {
+      "startSec": 43.6,
+      "endSec": 49.2,
+      "text": "certain responsibilities, is an old idea that's been in the news a lot recently.",
+      "words": [
+        {
+          "startSec": 43.6,
+          "endSec": 44.2,
+          "text": "certain"
+        },
+        {
+          "startSec": 44.2,
+          "endSec": 45.6,
+          "text": "responsibilities,"
+        },
+        {
+          "startSec": 45.6,
+          "endSec": 45.7,
+          "text": "is"
+        },
+        {
+          "startSec": 45.7,
+          "endSec": 45.9,
+          "text": "an"
+        },
+        {
+          "startSec": 45.9,
+          "endSec": 46.1,
+          "text": "old"
+        },
+        {
+          "startSec": 46.1,
+          "endSec": 46.5,
+          "text": "idea"
+        },
+        {
+          "startSec": 46.5,
+          "endSec": 46.9,
+          "text": "that's"
+        },
+        {
+          "startSec": 46.9,
+          "endSec": 47.2,
+          "text": "been"
+        },
+        {
+          "startSec": 47.2,
+          "endSec": 47.4,
+          "text": "in"
+        },
+        {
+          "startSec": 47.4,
+          "endSec": 47.6,
+          "text": "the"
+        },
+        {
+          "startSec": 47.6,
+          "endSec": 48,
+          "text": "news"
+        },
+        {
+          "startSec": 48,
+          "endSec": 48,
+          "text": "a"
+        },
+        {
+          "startSec": 48,
+          "endSec": 48.3,
+          "text": "lot"
+        },
+        {
+          "startSec": 48.3,
+          "endSec": 49.2,
+          "text": "recently."
+        },
+        {
+          "startSec": 49.2,
+          "endSec": 49.9,
+          "text": "It's"
+        }
+      ]
+    },
+    {
+      "startSec": 49.2,
+      "endSec": 54.4,
+      "text": "It's something that interests Myra Anubi, presenter of BBC World Service Program, people",
+      "words": [
+        {
+          "startSec": 49.2,
+          "endSec": 49.9,
+          "text": "It's"
+        },
+        {
+          "startSec": 49.9,
+          "endSec": 51.5,
+          "text": "something"
+        },
+        {
+          "startSec": 51.5,
+          "endSec": 52.2,
+          "text": "that"
+        },
+        {
+          "startSec": 52.2,
+          "endSec": 53.9,
+          "text": "interests"
+        },
+        {
+          "startSec": 53.9,
+          "endSec": 53.9,
+          "text": "Myra"
+        },
+        {
+          "startSec": 53.9,
+          "endSec": 54,
+          "text": "Anubi,"
+        },
+        {
+          "startSec": 54,
+          "endSec": 54.1,
+          "text": "presenter"
+        },
+        {
+          "startSec": 54.1,
+          "endSec": 54.1,
+          "text": "of"
+        },
+        {
+          "startSec": 54.1,
+          "endSec": 54.1,
+          "text": "BBC"
+        },
+        {
+          "startSec": 54.1,
+          "endSec": 54.2,
+          "text": "World"
+        },
+        {
+          "startSec": 54.2,
+          "endSec": 54.2,
+          "text": "Service"
+        },
+        {
+          "startSec": 54.2,
+          "endSec": 54.3,
+          "text": "Program,"
+        },
+        {
+          "startSec": 54.3,
+          "endSec": 54.4,
+          "text": "people"
+        },
+        {
+          "startSec": 54.4,
+          "endSec": 55.6,
+          "text": "fixing"
+        }
+      ]
+    },
+    {
+      "startSec": 54.4,
+      "endSec": 57.8,
+      "text": "fixing the world.",
+      "words": [
+        {
+          "startSec": 54.4,
+          "endSec": 55.6,
+          "text": "fixing"
+        },
+        {
+          "startSec": 55.6,
+          "endSec": 56.2,
+          "text": "the"
+        },
+        {
+          "startSec": 56.2,
+          "endSec": 57.8,
+          "text": "world."
+        },
+        {
+          "startSec": 57.8,
+          "endSec": 58,
+          "text": "What"
+        }
+      ]
+    },
+    {
+      "startSec": 57.8,
+      "endSec": 59.9,
+      "text": "What do you think makes a good citizen?",
+      "words": [
+        {
+          "startSec": 57.8,
+          "endSec": 58,
+          "text": "What"
+        },
+        {
+          "startSec": 58,
+          "endSec": 58.1,
+          "text": "do"
+        },
+        {
+          "startSec": 58.1,
+          "endSec": 58.3,
+          "text": "you"
+        },
+        {
+          "startSec": 58.3,
+          "endSec": 58.6,
+          "text": "think"
+        },
+        {
+          "startSec": 58.6,
+          "endSec": 58.9,
+          "text": "makes"
+        },
+        {
+          "startSec": 58.9,
+          "endSec": 59,
+          "text": "a"
+        },
+        {
+          "startSec": 59,
+          "endSec": 59.3,
+          "text": "good"
+        },
+        {
+          "startSec": 59.3,
+          "endSec": 59.9,
+          "text": "citizen?"
+        },
+        {
+          "startSec": 59.9,
+          "endSec": 60,
+          "text": "Is"
+        }
+      ]
+    },
+    {
+      "startSec": 59.9,
+      "endSec": 63.4,
+      "text": "Is it someone who follows the laws of the land and pays their taxes?",
+      "words": [
+        {
+          "startSec": 59.9,
+          "endSec": 60,
+          "text": "Is"
+        },
+        {
+          "startSec": 60,
+          "endSec": 60.2,
+          "text": "it"
+        },
+        {
+          "startSec": 60.2,
+          "endSec": 60.6,
+          "text": "someone"
+        },
+        {
+          "startSec": 60.6,
+          "endSec": 60.8,
+          "text": "who"
+        },
+        {
+          "startSec": 60.8,
+          "endSec": 61.2,
+          "text": "follows"
+        },
+        {
+          "startSec": 61.2,
+          "endSec": 61.4,
+          "text": "the"
+        },
+        {
+          "startSec": 61.4,
+          "endSec": 61.6,
+          "text": "laws"
+        },
+        {
+          "startSec": 61.6,
+          "endSec": 61.7,
+          "text": "of"
+        },
+        {
+          "startSec": 61.7,
+          "endSec": 61.9,
+          "text": "the"
+        },
+        {
+          "startSec": 61.9,
+          "endSec": 62.1,
+          "text": "land"
+        },
+        {
+          "startSec": 62.1,
+          "endSec": 62.3,
+          "text": "and"
+        },
+        {
+          "startSec": 62.3,
+          "endSec": 62.6,
+          "text": "pays"
+        },
+        {
+          "startSec": 62.6,
+          "endSec": 62.9,
+          "text": "their"
+        },
+        {
+          "startSec": 62.9,
+          "endSec": 63.4,
+          "text": "taxes?"
+        },
+        {
+          "startSec": 63.4,
+          "endSec": 63.8,
+          "text": "Well,"
+        }
+      ]
+    },
+    {
+      "startSec": 63.4,
+      "endSec": 66.8,
+      "text": "Well, some people might say it should go beyond that.",
+      "words": [
+        {
+          "startSec": 63.4,
+          "endSec": 63.8,
+          "text": "Well,"
+        },
+        {
+          "startSec": 63.8,
+          "endSec": 64.1,
+          "text": "some"
+        },
+        {
+          "startSec": 64.1,
+          "endSec": 64.5,
+          "text": "people"
+        },
+        {
+          "startSec": 64.5,
+          "endSec": 64.9,
+          "text": "might"
+        },
+        {
+          "startSec": 64.9,
+          "endSec": 65.1,
+          "text": "say"
+        },
+        {
+          "startSec": 65.1,
+          "endSec": 65.3,
+          "text": "it"
+        },
+        {
+          "startSec": 65.3,
+          "endSec": 65.7,
+          "text": "should"
+        },
+        {
+          "startSec": 65.7,
+          "endSec": 65.8,
+          "text": "go"
+        },
+        {
+          "startSec": 65.8,
+          "endSec": 66.3,
+          "text": "beyond"
+        },
+        {
+          "startSec": 66.3,
+          "endSec": 66.8,
+          "text": "that."
+        },
+        {
+          "startSec": 66.8,
+          "endSec": 67,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 66.8,
+      "endSec": 70.8,
+      "text": "And a good citizen is one who tries to improve the place where they live.",
+      "words": [
+        {
+          "startSec": 66.8,
+          "endSec": 67,
+          "text": "And"
+        },
+        {
+          "startSec": 67,
+          "endSec": 67.1,
+          "text": "a"
+        },
+        {
+          "startSec": 67.1,
+          "endSec": 67.4,
+          "text": "good"
+        },
+        {
+          "startSec": 67.4,
+          "endSec": 67.8,
+          "text": "citizen"
+        },
+        {
+          "startSec": 67.8,
+          "endSec": 67.9,
+          "text": "is"
+        },
+        {
+          "startSec": 67.9,
+          "endSec": 68.1,
+          "text": "one"
+        },
+        {
+          "startSec": 68.1,
+          "endSec": 68.3,
+          "text": "who"
+        },
+        {
+          "startSec": 68.3,
+          "endSec": 68.6,
+          "text": "tries"
+        },
+        {
+          "startSec": 68.6,
+          "endSec": 68.8,
+          "text": "to"
+        },
+        {
+          "startSec": 68.8,
+          "endSec": 69.2,
+          "text": "improve"
+        },
+        {
+          "startSec": 69.2,
+          "endSec": 69.4,
+          "text": "the"
+        },
+        {
+          "startSec": 69.4,
+          "endSec": 69.7,
+          "text": "place"
+        },
+        {
+          "startSec": 69.7,
+          "endSec": 70,
+          "text": "where"
+        },
+        {
+          "startSec": 70,
+          "endSec": 70.3,
+          "text": "they"
+        },
+        {
+          "startSec": 70.3,
+          "endSec": 70.8,
+          "text": "live."
+        },
+        {
+          "startSec": 70.8,
+          "endSec": 70.9,
+          "text": "A"
+        }
+      ]
+    },
+    {
+      "startSec": 70.8,
+      "endSec": 75.7,
+      "text": "A good citizen obeys the law of the land, a term for the set of rules and laws that",
+      "words": [
+        {
+          "startSec": 70.8,
+          "endSec": 70.9,
+          "text": "A"
+        },
+        {
+          "startSec": 70.9,
+          "endSec": 71.2,
+          "text": "good"
+        },
+        {
+          "startSec": 71.2,
+          "endSec": 71.7,
+          "text": "citizen"
+        },
+        {
+          "startSec": 71.7,
+          "endSec": 72.1,
+          "text": "obeys"
+        },
+        {
+          "startSec": 72.1,
+          "endSec": 72.3,
+          "text": "the"
+        },
+        {
+          "startSec": 72.3,
+          "endSec": 72.5,
+          "text": "law"
+        },
+        {
+          "startSec": 72.5,
+          "endSec": 72.7,
+          "text": "of"
+        },
+        {
+          "startSec": 72.7,
+          "endSec": 72.9,
+          "text": "the"
+        },
+        {
+          "startSec": 72.9,
+          "endSec": 73.3,
+          "text": "land,"
+        },
+        {
+          "startSec": 73.3,
+          "endSec": 73.4,
+          "text": "a"
+        },
+        {
+          "startSec": 73.4,
+          "endSec": 73.7,
+          "text": "term"
+        },
+        {
+          "startSec": 73.7,
+          "endSec": 73.9,
+          "text": "for"
+        },
+        {
+          "startSec": 73.9,
+          "endSec": 74.1,
+          "text": "the"
+        },
+        {
+          "startSec": 74.1,
+          "endSec": 74.3,
+          "text": "set"
+        },
+        {
+          "startSec": 74.3,
+          "endSec": 74.5,
+          "text": "of"
+        },
+        {
+          "startSec": 74.5,
+          "endSec": 74.8,
+          "text": "rules"
+        },
+        {
+          "startSec": 74.8,
+          "endSec": 75,
+          "text": "and"
+        },
+        {
+          "startSec": 75,
+          "endSec": 75.3,
+          "text": "laws"
+        },
+        {
+          "startSec": 75.3,
+          "endSec": 75.7,
+          "text": "that"
+        },
+        {
+          "startSec": 75.7,
+          "endSec": 76.2,
+          "text": "exists"
+        }
+      ]
+    },
+    {
+      "startSec": 75.7,
+      "endSec": 77.4,
+      "text": "exists in a country.",
+      "words": [
+        {
+          "startSec": 75.7,
+          "endSec": 76.2,
+          "text": "exists"
+        },
+        {
+          "startSec": 76.2,
+          "endSec": 76.4,
+          "text": "in"
+        },
+        {
+          "startSec": 76.4,
+          "endSec": 76.5,
+          "text": "a"
+        },
+        {
+          "startSec": 76.5,
+          "endSec": 77.4,
+          "text": "country."
+        },
+        {
+          "startSec": 77.4,
+          "endSec": 77.6,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 77.4,
+      "endSec": 79.8,
+      "text": "But should there be more to it than that?",
+      "words": [
+        {
+          "startSec": 77.4,
+          "endSec": 77.6,
+          "text": "But"
+        },
+        {
+          "startSec": 77.6,
+          "endSec": 78,
+          "text": "should"
+        },
+        {
+          "startSec": 78,
+          "endSec": 78.3,
+          "text": "there"
+        },
+        {
+          "startSec": 78.3,
+          "endSec": 78.4,
+          "text": "be"
+        },
+        {
+          "startSec": 78.4,
+          "endSec": 78.7,
+          "text": "more"
+        },
+        {
+          "startSec": 78.7,
+          "endSec": 78.8,
+          "text": "to"
+        },
+        {
+          "startSec": 78.8,
+          "endSec": 79,
+          "text": "it"
+        },
+        {
+          "startSec": 79,
+          "endSec": 79.2,
+          "text": "than"
+        },
+        {
+          "startSec": 79.2,
+          "endSec": 79.8,
+          "text": "that?"
+        },
+        {
+          "startSec": 79.8,
+          "endSec": 80.2,
+          "text": "Around"
+        }
+      ]
+    },
+    {
+      "startSec": 79.8,
+      "endSec": 85.2,
+      "text": "Around the world, young people today are less likely to vote, and many people aged 18",
+      "words": [
+        {
+          "startSec": 79.8,
+          "endSec": 80.2,
+          "text": "Around"
+        },
+        {
+          "startSec": 80.2,
+          "endSec": 80.4,
+          "text": "the"
+        },
+        {
+          "startSec": 80.4,
+          "endSec": 80.9,
+          "text": "world,"
+        },
+        {
+          "startSec": 80.9,
+          "endSec": 81.2,
+          "text": "young"
+        },
+        {
+          "startSec": 81.2,
+          "endSec": 81.6,
+          "text": "people"
+        },
+        {
+          "startSec": 81.6,
+          "endSec": 81.9,
+          "text": "today"
+        },
+        {
+          "startSec": 81.9,
+          "endSec": 82.2,
+          "text": "are"
+        },
+        {
+          "startSec": 82.2,
+          "endSec": 82.4,
+          "text": "less"
+        },
+        {
+          "startSec": 82.4,
+          "endSec": 82.8,
+          "text": "likely"
+        },
+        {
+          "startSec": 82.8,
+          "endSec": 83,
+          "text": "to"
+        },
+        {
+          "startSec": 83,
+          "endSec": 83.4,
+          "text": "vote,"
+        },
+        {
+          "startSec": 83.4,
+          "endSec": 83.6,
+          "text": "and"
+        },
+        {
+          "startSec": 83.6,
+          "endSec": 83.9,
+          "text": "many"
+        },
+        {
+          "startSec": 83.9,
+          "endSec": 84.3,
+          "text": "people"
+        },
+        {
+          "startSec": 84.3,
+          "endSec": 84.7,
+          "text": "aged"
+        },
+        {
+          "startSec": 84.7,
+          "endSec": 85.2,
+          "text": "18"
+        },
+        {
+          "startSec": 85.2,
+          "endSec": 85.3,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 85.2,
+      "endSec": 88.8,
+      "text": "to 30 say they feel ignored by politicians.",
+      "words": [
+        {
+          "startSec": 85.2,
+          "endSec": 85.3,
+          "text": "to"
+        },
+        {
+          "startSec": 85.3,
+          "endSec": 85.9,
+          "text": "30"
+        },
+        {
+          "startSec": 85.9,
+          "endSec": 86.1,
+          "text": "say"
+        },
+        {
+          "startSec": 86.1,
+          "endSec": 86.5,
+          "text": "they"
+        },
+        {
+          "startSec": 86.5,
+          "endSec": 86.8,
+          "text": "feel"
+        },
+        {
+          "startSec": 86.8,
+          "endSec": 87.4,
+          "text": "ignored"
+        },
+        {
+          "startSec": 87.4,
+          "endSec": 87.6,
+          "text": "by"
+        },
+        {
+          "startSec": 87.6,
+          "endSec": 88.8,
+          "text": "politicians."
+        },
+        {
+          "startSec": 88.8,
+          "endSec": 89,
+          "text": "So"
+        }
+      ]
+    },
+    {
+      "startSec": 88.8,
+      "endSec": 93.9,
+      "text": "So in this program we'll be hearing about Mypolis, an exciting project helping young",
+      "words": [
+        {
+          "startSec": 88.8,
+          "endSec": 89,
+          "text": "So"
+        },
+        {
+          "startSec": 89,
+          "endSec": 89.1,
+          "text": "in"
+        },
+        {
+          "startSec": 89.1,
+          "endSec": 89.4,
+          "text": "this"
+        },
+        {
+          "startSec": 89.4,
+          "endSec": 89.9,
+          "text": "program"
+        },
+        {
+          "startSec": 89.9,
+          "endSec": 90.2,
+          "text": "we'll"
+        },
+        {
+          "startSec": 90.2,
+          "endSec": 90.4,
+          "text": "be"
+        },
+        {
+          "startSec": 90.4,
+          "endSec": 90.9,
+          "text": "hearing"
+        },
+        {
+          "startSec": 90.9,
+          "endSec": 91.2,
+          "text": "about"
+        },
+        {
+          "startSec": 91.2,
+          "endSec": 91.9,
+          "text": "Mypolis,"
+        },
+        {
+          "startSec": 91.9,
+          "endSec": 92,
+          "text": "an"
+        },
+        {
+          "startSec": 92,
+          "endSec": 92.6,
+          "text": "exciting"
+        },
+        {
+          "startSec": 92.6,
+          "endSec": 93,
+          "text": "project"
+        },
+        {
+          "startSec": 93,
+          "endSec": 93.5,
+          "text": "helping"
+        },
+        {
+          "startSec": 93.5,
+          "endSec": 93.9,
+          "text": "young"
+        },
+        {
+          "startSec": 93.9,
+          "endSec": 94.4,
+          "text": "people"
+        }
+      ]
+    },
+    {
+      "startSec": 93.9,
+      "endSec": 98.1,
+      "text": "people in Portugal re-engage with their citizenship.",
+      "words": [
+        {
+          "startSec": 93.9,
+          "endSec": 94.4,
+          "text": "people"
+        },
+        {
+          "startSec": 94.4,
+          "endSec": 94.6,
+          "text": "in"
+        },
+        {
+          "startSec": 94.6,
+          "endSec": 95.3,
+          "text": "Portugal"
+        },
+        {
+          "startSec": 95.3,
+          "endSec": 96.1,
+          "text": "re-engage"
+        },
+        {
+          "startSec": 96.1,
+          "endSec": 96.4,
+          "text": "with"
+        },
+        {
+          "startSec": 96.4,
+          "endSec": 96.9,
+          "text": "their"
+        },
+        {
+          "startSec": 96.9,
+          "endSec": 98.1,
+          "text": "citizenship."
+        },
+        {
+          "startSec": 98.1,
+          "endSec": 98.3,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 98.1,
+      "endSec": 102.1,
+      "text": "And as usual, we'll be learning some useful new words and phrases, all of which you'll",
+      "words": [
+        {
+          "startSec": 98.1,
+          "endSec": 98.3,
+          "text": "And"
+        },
+        {
+          "startSec": 98.3,
+          "endSec": 98.4,
+          "text": "as"
+        },
+        {
+          "startSec": 98.4,
+          "endSec": 98.8,
+          "text": "usual,"
+        },
+        {
+          "startSec": 98.8,
+          "endSec": 99,
+          "text": "we'll"
+        },
+        {
+          "startSec": 99,
+          "endSec": 99.1,
+          "text": "be"
+        },
+        {
+          "startSec": 99.1,
+          "endSec": 99.5,
+          "text": "learning"
+        },
+        {
+          "startSec": 99.5,
+          "endSec": 99.8,
+          "text": "some"
+        },
+        {
+          "startSec": 99.8,
+          "endSec": 100.1,
+          "text": "useful"
+        },
+        {
+          "startSec": 100.1,
+          "endSec": 100.3,
+          "text": "new"
+        },
+        {
+          "startSec": 100.3,
+          "endSec": 100.5,
+          "text": "words"
+        },
+        {
+          "startSec": 100.5,
+          "endSec": 100.7,
+          "text": "and"
+        },
+        {
+          "startSec": 100.7,
+          "endSec": 101.1,
+          "text": "phrases,"
+        },
+        {
+          "startSec": 101.1,
+          "endSec": 101.3,
+          "text": "all"
+        },
+        {
+          "startSec": 101.3,
+          "endSec": 101.4,
+          "text": "of"
+        },
+        {
+          "startSec": 101.4,
+          "endSec": 101.7,
+          "text": "which"
+        },
+        {
+          "startSec": 101.7,
+          "endSec": 102.1,
+          "text": "you'll"
+        },
+        {
+          "startSec": 102.1,
+          "endSec": 102.5,
+          "text": "find"
+        }
+      ]
+    },
+    {
+      "startSec": 102.1,
+      "endSec": 106.1,
+      "text": "find on our website, bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 102.1,
+          "endSec": 102.5,
+          "text": "find"
+        },
+        {
+          "startSec": 102.5,
+          "endSec": 102.7,
+          "text": "on"
+        },
+        {
+          "startSec": 102.7,
+          "endSec": 103,
+          "text": "our"
+        },
+        {
+          "startSec": 103,
+          "endSec": 103.8,
+          "text": "website,"
+        },
+        {
+          "startSec": 103.8,
+          "endSec": 106.1,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 106.1,
+          "endSec": 106.3,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 106.1,
+      "endSec": 109.2,
+      "text": "But before that, I have a question for you, Neil.",
+      "words": [
+        {
+          "startSec": 106.1,
+          "endSec": 106.3,
+          "text": "But"
+        },
+        {
+          "startSec": 106.3,
+          "endSec": 106.7,
+          "text": "before"
+        },
+        {
+          "startSec": 106.7,
+          "endSec": 107.2,
+          "text": "that,"
+        },
+        {
+          "startSec": 107.2,
+          "endSec": 107.2,
+          "text": "I"
+        },
+        {
+          "startSec": 107.2,
+          "endSec": 107.5,
+          "text": "have"
+        },
+        {
+          "startSec": 107.5,
+          "endSec": 107.6,
+          "text": "a"
+        },
+        {
+          "startSec": 107.6,
+          "endSec": 108.1,
+          "text": "question"
+        },
+        {
+          "startSec": 108.1,
+          "endSec": 108.3,
+          "text": "for"
+        },
+        {
+          "startSec": 108.3,
+          "endSec": 108.7,
+          "text": "you,"
+        },
+        {
+          "startSec": 108.7,
+          "endSec": 109.2,
+          "text": "Neil."
+        }
+      ]
+    },
+    {
+      "startSec": 109.2,
+      "endSec": 115.2,
+      "text": "The project's name, Mypolis, comes from the ancient Greek states such as Athens and Sparta,",
+      "words": [
+        {
+          "startSec": 109.3,
+          "endSec": 109.4,
+          "text": "The"
+        },
+        {
+          "startSec": 109.4,
+          "endSec": 110.1,
+          "text": "project's"
+        },
+        {
+          "startSec": 110.1,
+          "endSec": 110.6,
+          "text": "name,"
+        },
+        {
+          "startSec": 110.6,
+          "endSec": 111.2,
+          "text": "Mypolis,"
+        },
+        {
+          "startSec": 111.2,
+          "endSec": 111.6,
+          "text": "comes"
+        },
+        {
+          "startSec": 111.6,
+          "endSec": 111.9,
+          "text": "from"
+        },
+        {
+          "startSec": 111.9,
+          "endSec": 112.1,
+          "text": "the"
+        },
+        {
+          "startSec": 112.1,
+          "endSec": 112.6,
+          "text": "ancient"
+        },
+        {
+          "startSec": 112.6,
+          "endSec": 113,
+          "text": "Greek"
+        },
+        {
+          "startSec": 113,
+          "endSec": 113.5,
+          "text": "states"
+        },
+        {
+          "startSec": 113.5,
+          "endSec": 113.8,
+          "text": "such"
+        },
+        {
+          "startSec": 113.8,
+          "endSec": 113.9,
+          "text": "as"
+        },
+        {
+          "startSec": 113.9,
+          "endSec": 114.4,
+          "text": "Athens"
+        },
+        {
+          "startSec": 114.4,
+          "endSec": 114.6,
+          "text": "and"
+        },
+        {
+          "startSec": 114.6,
+          "endSec": 115.2,
+          "text": "Sparta,"
+        },
+        {
+          "startSec": 115.2,
+          "endSec": 115.6,
+          "text": "where"
+        }
+      ]
+    },
+    {
+      "startSec": 115.2,
+      "endSec": 117.9,
+      "text": "where the idea of citizenship was born.",
+      "words": [
+        {
+          "startSec": 115.2,
+          "endSec": 115.6,
+          "text": "where"
+        },
+        {
+          "startSec": 115.6,
+          "endSec": 115.8,
+          "text": "the"
+        },
+        {
+          "startSec": 115.8,
+          "endSec": 116.1,
+          "text": "idea"
+        },
+        {
+          "startSec": 116.1,
+          "endSec": 116.3,
+          "text": "of"
+        },
+        {
+          "startSec": 116.3,
+          "endSec": 117.1,
+          "text": "citizenship"
+        },
+        {
+          "startSec": 117.1,
+          "endSec": 117.3,
+          "text": "was"
+        },
+        {
+          "startSec": 117.3,
+          "endSec": 117.9,
+          "text": "born."
+        },
+        {
+          "startSec": 117.9,
+          "endSec": 118.1,
+          "text": "So"
+        }
+      ]
+    },
+    {
+      "startSec": 117.9,
+      "endSec": 122.2,
+      "text": "So what is the meaning of the ancient Greek word polis?",
+      "words": [
+        {
+          "startSec": 117.9,
+          "endSec": 118.1,
+          "text": "So"
+        },
+        {
+          "startSec": 118.1,
+          "endSec": 118.4,
+          "text": "what"
+        },
+        {
+          "startSec": 118.4,
+          "endSec": 118.6,
+          "text": "is"
+        },
+        {
+          "startSec": 118.6,
+          "endSec": 118.9,
+          "text": "the"
+        },
+        {
+          "startSec": 118.9,
+          "endSec": 119.5,
+          "text": "meaning"
+        },
+        {
+          "startSec": 119.5,
+          "endSec": 119.7,
+          "text": "of"
+        },
+        {
+          "startSec": 119.7,
+          "endSec": 120,
+          "text": "the"
+        },
+        {
+          "startSec": 120,
+          "endSec": 120.6,
+          "text": "ancient"
+        },
+        {
+          "startSec": 120.6,
+          "endSec": 121.1,
+          "text": "Greek"
+        },
+        {
+          "startSec": 121.1,
+          "endSec": 121.4,
+          "text": "word"
+        },
+        {
+          "startSec": 121.4,
+          "endSec": 122.2,
+          "text": "polis?"
+        },
+        {
+          "startSec": 122.2,
+          "endSec": 122.5,
+          "text": "Is"
+        }
+      ]
+    },
+    {
+      "startSec": 122.2,
+      "endSec": 127.2,
+      "text": "Is it A, vote, B, people, or C, city?",
+      "words": [
+        {
+          "startSec": 122.2,
+          "endSec": 122.5,
+          "text": "Is"
+        },
+        {
+          "startSec": 122.5,
+          "endSec": 122.8,
+          "text": "it"
+        },
+        {
+          "startSec": 122.8,
+          "endSec": 123.2,
+          "text": "A,"
+        },
+        {
+          "startSec": 123.2,
+          "endSec": 124,
+          "text": "vote,"
+        },
+        {
+          "startSec": 124,
+          "endSec": 124.4,
+          "text": "B,"
+        },
+        {
+          "startSec": 124.4,
+          "endSec": 125.5,
+          "text": "people,"
+        },
+        {
+          "startSec": 125.5,
+          "endSec": 125.8,
+          "text": "or"
+        },
+        {
+          "startSec": 125.8,
+          "endSec": 126.2,
+          "text": "C,"
+        },
+        {
+          "startSec": 126.2,
+          "endSec": 127.2,
+          "text": "city?"
+        },
+        {
+          "startSec": 127.2,
+          "endSec": 127.8,
+          "text": "That's"
+        }
+      ]
+    },
+    {
+      "startSec": 127.2,
+      "endSec": 129.3,
+      "text": "That's a good question.",
+      "words": [
+        {
+          "startSec": 127.2,
+          "endSec": 127.8,
+          "text": "That's"
+        },
+        {
+          "startSec": 127.8,
+          "endSec": 127.9,
+          "text": "a"
+        },
+        {
+          "startSec": 127.9,
+          "endSec": 128.3,
+          "text": "good"
+        },
+        {
+          "startSec": 128.3,
+          "endSec": 129.3,
+          "text": "question."
+        },
+        {
+          "startSec": 129.3,
+          "endSec": 129.6,
+          "text": "I'm"
+        }
+      ]
+    },
+    {
+      "startSec": 129.3,
+      "endSec": 132.2,
+      "text": "I'm going to guess B, people.",
+      "words": [
+        {
+          "startSec": 129.3,
+          "endSec": 129.6,
+          "text": "I'm"
+        },
+        {
+          "startSec": 129.6,
+          "endSec": 130.1,
+          "text": "going"
+        },
+        {
+          "startSec": 130.1,
+          "endSec": 130.3,
+          "text": "to"
+        },
+        {
+          "startSec": 130.3,
+          "endSec": 130.9,
+          "text": "guess"
+        },
+        {
+          "startSec": 130.9,
+          "endSec": 131.2,
+          "text": "B,"
+        },
+        {
+          "startSec": 131.2,
+          "endSec": 132.2,
+          "text": "people."
+        },
+        {
+          "startSec": 132.2,
+          "endSec": 132.7,
+          "text": "Okay,"
+        }
+      ]
+    },
+    {
+      "startSec": 132.2,
+      "endSec": 136.7,
+      "text": "Okay, well I'll reveal the correct answer later in the program.",
+      "words": [
+        {
+          "startSec": 132.2,
+          "endSec": 132.7,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 132.7,
+          "endSec": 133,
+          "text": "well"
+        },
+        {
+          "startSec": 133,
+          "endSec": 133.3,
+          "text": "I'll"
+        },
+        {
+          "startSec": 133.3,
+          "endSec": 133.8,
+          "text": "reveal"
+        },
+        {
+          "startSec": 133.8,
+          "endSec": 134,
+          "text": "the"
+        },
+        {
+          "startSec": 134,
+          "endSec": 134.6,
+          "text": "correct"
+        },
+        {
+          "startSec": 134.6,
+          "endSec": 135.1,
+          "text": "answer"
+        },
+        {
+          "startSec": 135.1,
+          "endSec": 135.5,
+          "text": "later"
+        },
+        {
+          "startSec": 135.5,
+          "endSec": 135.6,
+          "text": "in"
+        },
+        {
+          "startSec": 135.6,
+          "endSec": 135.9,
+          "text": "the"
+        },
+        {
+          "startSec": 135.9,
+          "endSec": 136.7,
+          "text": "program."
+        }
+      ]
+    },
+    {
+      "startSec": 136.7,
+      "endSec": 142,
+      "text": "Mypolis runs council assemblies where children can propose improvements to their local school",
+      "words": [
+        {
+          "startSec": 136.8,
+          "endSec": 137.2,
+          "text": "Mypolis"
+        },
+        {
+          "startSec": 137.2,
+          "endSec": 137.4,
+          "text": "runs"
+        },
+        {
+          "startSec": 137.4,
+          "endSec": 137.9,
+          "text": "council"
+        },
+        {
+          "startSec": 137.9,
+          "endSec": 138.5,
+          "text": "assemblies"
+        },
+        {
+          "startSec": 138.5,
+          "endSec": 138.8,
+          "text": "where"
+        },
+        {
+          "startSec": 138.8,
+          "endSec": 139.3,
+          "text": "children"
+        },
+        {
+          "startSec": 139.3,
+          "endSec": 139.5,
+          "text": "can"
+        },
+        {
+          "startSec": 139.5,
+          "endSec": 140,
+          "text": "propose"
+        },
+        {
+          "startSec": 140,
+          "endSec": 140.7,
+          "text": "improvements"
+        },
+        {
+          "startSec": 140.7,
+          "endSec": 140.9,
+          "text": "to"
+        },
+        {
+          "startSec": 140.9,
+          "endSec": 141.2,
+          "text": "their"
+        },
+        {
+          "startSec": 141.2,
+          "endSec": 141.5,
+          "text": "local"
+        },
+        {
+          "startSec": 141.5,
+          "endSec": 142,
+          "text": "school"
+        },
+        {
+          "startSec": 142,
+          "endSec": 142.8,
+          "text": "community,"
+        }
+      ]
+    },
+    {
+      "startSec": 142,
+      "endSec": 147.4,
+      "text": "community, anything from fixing broken water fountains to changing the curriculum.",
+      "words": [
+        {
+          "startSec": 142,
+          "endSec": 142.8,
+          "text": "community,"
+        },
+        {
+          "startSec": 142.8,
+          "endSec": 143.3,
+          "text": "anything"
+        },
+        {
+          "startSec": 143.3,
+          "endSec": 143.6,
+          "text": "from"
+        },
+        {
+          "startSec": 143.6,
+          "endSec": 144.1,
+          "text": "fixing"
+        },
+        {
+          "startSec": 144.1,
+          "endSec": 144.5,
+          "text": "broken"
+        },
+        {
+          "startSec": 144.5,
+          "endSec": 144.8,
+          "text": "water"
+        },
+        {
+          "startSec": 144.8,
+          "endSec": 145.5,
+          "text": "fountains"
+        },
+        {
+          "startSec": 145.5,
+          "endSec": 145.6,
+          "text": "to"
+        },
+        {
+          "startSec": 145.6,
+          "endSec": 146.2,
+          "text": "changing"
+        },
+        {
+          "startSec": 146.2,
+          "endSec": 146.4,
+          "text": "the"
+        },
+        {
+          "startSec": 146.4,
+          "endSec": 147.4,
+          "text": "curriculum."
+        },
+        {
+          "startSec": 147.4,
+          "endSec": 147.7,
+          "text": "Local"
+        }
+      ]
+    },
+    {
+      "startSec": 147.4,
+      "endSec": 152.2,
+      "text": "Local politicians also attend, listening to the children's ideas and responding by giving",
+      "words": [
+        {
+          "startSec": 147.4,
+          "endSec": 147.7,
+          "text": "Local"
+        },
+        {
+          "startSec": 147.7,
+          "endSec": 148.4,
+          "text": "politicians"
+        },
+        {
+          "startSec": 148.4,
+          "endSec": 148.7,
+          "text": "also"
+        },
+        {
+          "startSec": 148.7,
+          "endSec": 149.1,
+          "text": "attend,"
+        },
+        {
+          "startSec": 149.1,
+          "endSec": 149.7,
+          "text": "listening"
+        },
+        {
+          "startSec": 149.7,
+          "endSec": 149.8,
+          "text": "to"
+        },
+        {
+          "startSec": 149.8,
+          "endSec": 150,
+          "text": "the"
+        },
+        {
+          "startSec": 150,
+          "endSec": 150.6,
+          "text": "children's"
+        },
+        {
+          "startSec": 150.6,
+          "endSec": 150.9,
+          "text": "ideas"
+        },
+        {
+          "startSec": 150.9,
+          "endSec": 151.1,
+          "text": "and"
+        },
+        {
+          "startSec": 151.1,
+          "endSec": 151.7,
+          "text": "responding"
+        },
+        {
+          "startSec": 151.7,
+          "endSec": 151.9,
+          "text": "by"
+        },
+        {
+          "startSec": 151.9,
+          "endSec": 152.2,
+          "text": "giving"
+        },
+        {
+          "startSec": 152.2,
+          "endSec": 152.7,
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "startSec": 152.2,
+      "endSec": 155.1,
+      "text": "their support or explaining why not.",
+      "words": [
+        {
+          "startSec": 152.2,
+          "endSec": 152.7,
+          "text": "their"
+        },
+        {
+          "startSec": 152.7,
+          "endSec": 153.3,
+          "text": "support"
+        },
+        {
+          "startSec": 153.3,
+          "endSec": 153.5,
+          "text": "or"
+        },
+        {
+          "startSec": 153.5,
+          "endSec": 154.3,
+          "text": "explaining"
+        },
+        {
+          "startSec": 154.3,
+          "endSec": 154.6,
+          "text": "why"
+        },
+        {
+          "startSec": 154.6,
+          "endSec": 155.1,
+          "text": "not."
+        },
+        {
+          "startSec": 155.1,
+          "endSec": 155.3,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 155.1,
+      "endSec": 160.5,
+      "text": "The project was started by founder Benardo Goncalves when he was in his 20s, because he",
+      "words": [
+        {
+          "startSec": 155.1,
+          "endSec": 155.3,
+          "text": "The"
+        },
+        {
+          "startSec": 155.3,
+          "endSec": 155.8,
+          "text": "project"
+        },
+        {
+          "startSec": 155.8,
+          "endSec": 156,
+          "text": "was"
+        },
+        {
+          "startSec": 156,
+          "endSec": 156.5,
+          "text": "started"
+        },
+        {
+          "startSec": 156.5,
+          "endSec": 156.6,
+          "text": "by"
+        },
+        {
+          "startSec": 156.6,
+          "endSec": 157.1,
+          "text": "founder"
+        },
+        {
+          "startSec": 157.1,
+          "endSec": 157.6,
+          "text": "Benardo"
+        },
+        {
+          "startSec": 157.6,
+          "endSec": 158.2,
+          "text": "Goncalves"
+        },
+        {
+          "startSec": 158.2,
+          "endSec": 158.4,
+          "text": "when"
+        },
+        {
+          "startSec": 158.4,
+          "endSec": 158.6,
+          "text": "he"
+        },
+        {
+          "startSec": 158.6,
+          "endSec": 158.8,
+          "text": "was"
+        },
+        {
+          "startSec": 158.8,
+          "endSec": 158.9,
+          "text": "in"
+        },
+        {
+          "startSec": 158.9,
+          "endSec": 159.1,
+          "text": "his"
+        },
+        {
+          "startSec": 159.1,
+          "endSec": 159.7,
+          "text": "20s,"
+        },
+        {
+          "startSec": 159.7,
+          "endSec": 160.4,
+          "text": "because"
+        },
+        {
+          "startSec": 160.4,
+          "endSec": 160.5,
+          "text": "he"
+        },
+        {
+          "startSec": 160.5,
+          "endSec": 160.7,
+          "text": "was"
+        }
+      ]
+    },
+    {
+      "startSec": 160.5,
+      "endSec": 165.2,
+      "text": "was disappointed by interactions between political parties and young people.",
+      "words": [
+        {
+          "startSec": 160.5,
+          "endSec": 160.7,
+          "text": "was"
+        },
+        {
+          "startSec": 160.7,
+          "endSec": 161.5,
+          "text": "disappointed"
+        },
+        {
+          "startSec": 161.5,
+          "endSec": 161.6,
+          "text": "by"
+        },
+        {
+          "startSec": 161.6,
+          "endSec": 162.5,
+          "text": "interactions"
+        },
+        {
+          "startSec": 162.5,
+          "endSec": 162.9,
+          "text": "between"
+        },
+        {
+          "startSec": 162.9,
+          "endSec": 163.6,
+          "text": "political"
+        },
+        {
+          "startSec": 163.6,
+          "endSec": 164,
+          "text": "parties"
+        },
+        {
+          "startSec": 164,
+          "endSec": 164.2,
+          "text": "and"
+        },
+        {
+          "startSec": 164.2,
+          "endSec": 164.6,
+          "text": "young"
+        },
+        {
+          "startSec": 164.6,
+          "endSec": 165.2,
+          "text": "people."
+        }
+      ]
+    },
+    {
+      "startSec": 165.2,
+      "endSec": 170.9,
+      "text": "Here's Benardo telling more to BBC World Service programme People Fixing the World.",
+      "words": [
+        {
+          "startSec": 165.3,
+          "endSec": 165.7,
+          "text": "Here's"
+        },
+        {
+          "startSec": 165.7,
+          "endSec": 166.2,
+          "text": "Benardo"
+        },
+        {
+          "startSec": 166.2,
+          "endSec": 166.8,
+          "text": "telling"
+        },
+        {
+          "startSec": 166.8,
+          "endSec": 167.1,
+          "text": "more"
+        },
+        {
+          "startSec": 167.1,
+          "endSec": 167.2,
+          "text": "to"
+        },
+        {
+          "startSec": 167.2,
+          "endSec": 167.4,
+          "text": "BBC"
+        },
+        {
+          "startSec": 167.4,
+          "endSec": 167.8,
+          "text": "World"
+        },
+        {
+          "startSec": 167.8,
+          "endSec": 168.4,
+          "text": "Service"
+        },
+        {
+          "startSec": 168.4,
+          "endSec": 169.1,
+          "text": "programme"
+        },
+        {
+          "startSec": 169.1,
+          "endSec": 169.5,
+          "text": "People"
+        },
+        {
+          "startSec": 169.5,
+          "endSec": 170,
+          "text": "Fixing"
+        },
+        {
+          "startSec": 170,
+          "endSec": 170.2,
+          "text": "the"
+        },
+        {
+          "startSec": 170.2,
+          "endSec": 170.9,
+          "text": "World."
+        },
+        {
+          "startSec": 170.9,
+          "endSec": 171.1,
+          "text": "We"
+        }
+      ]
+    },
+    {
+      "startSec": 170.9,
+      "endSec": 177.8,
+      "text": "We have seen a quick erosion in the trust of the population on the democratic institutions,",
+      "words": [
+        {
+          "startSec": 170.9,
+          "endSec": 171.1,
+          "text": "We"
+        },
+        {
+          "startSec": 171.1,
+          "endSec": 171.4,
+          "text": "have"
+        },
+        {
+          "startSec": 171.4,
+          "endSec": 171.8,
+          "text": "seen"
+        },
+        {
+          "startSec": 171.8,
+          "endSec": 171.9,
+          "text": "a"
+        },
+        {
+          "startSec": 171.9,
+          "endSec": 172.3,
+          "text": "quick"
+        },
+        {
+          "startSec": 172.3,
+          "endSec": 173,
+          "text": "erosion"
+        },
+        {
+          "startSec": 173,
+          "endSec": 173.1,
+          "text": "in"
+        },
+        {
+          "startSec": 173.1,
+          "endSec": 173.4,
+          "text": "the"
+        },
+        {
+          "startSec": 173.4,
+          "endSec": 173.9,
+          "text": "trust"
+        },
+        {
+          "startSec": 173.9,
+          "endSec": 174,
+          "text": "of"
+        },
+        {
+          "startSec": 174,
+          "endSec": 174.3,
+          "text": "the"
+        },
+        {
+          "startSec": 174.3,
+          "endSec": 175.2,
+          "text": "population"
+        },
+        {
+          "startSec": 175.2,
+          "endSec": 175.4,
+          "text": "on"
+        },
+        {
+          "startSec": 175.4,
+          "endSec": 175.7,
+          "text": "the"
+        },
+        {
+          "startSec": 175.7,
+          "endSec": 176.5,
+          "text": "democratic"
+        },
+        {
+          "startSec": 176.5,
+          "endSec": 177.8,
+          "text": "institutions,"
+        },
+        {
+          "startSec": 177.8,
+          "endSec": 178.1,
+          "text": "such"
+        }
+      ]
+    },
+    {
+      "startSec": 177.8,
+      "endSec": 182.1,
+      "text": "such as the national parliament, such as the government in office.",
+      "words": [
+        {
+          "startSec": 177.8,
+          "endSec": 178.1,
+          "text": "such"
+        },
+        {
+          "startSec": 178.1,
+          "endSec": 178.2,
+          "text": "as"
+        },
+        {
+          "startSec": 178.2,
+          "endSec": 178.4,
+          "text": "the"
+        },
+        {
+          "startSec": 178.4,
+          "endSec": 179,
+          "text": "national"
+        },
+        {
+          "startSec": 179,
+          "endSec": 179.9,
+          "text": "parliament,"
+        },
+        {
+          "startSec": 179.9,
+          "endSec": 180.2,
+          "text": "such"
+        },
+        {
+          "startSec": 180.2,
+          "endSec": 180.3,
+          "text": "as"
+        },
+        {
+          "startSec": 180.3,
+          "endSec": 180.5,
+          "text": "the"
+        },
+        {
+          "startSec": 180.5,
+          "endSec": 181.3,
+          "text": "government"
+        },
+        {
+          "startSec": 181.3,
+          "endSec": 181.4,
+          "text": "in"
+        },
+        {
+          "startSec": 181.4,
+          "endSec": 182.1,
+          "text": "office."
+        },
+        {
+          "startSec": 182.1,
+          "endSec": 182.2,
+          "text": "We"
+        }
+      ]
+    },
+    {
+      "startSec": 182.1,
+      "endSec": 187.3,
+      "text": "We need to find new ways to connect children and young citizens to democratic institutions,",
+      "words": [
+        {
+          "startSec": 182.1,
+          "endSec": 182.2,
+          "text": "We"
+        },
+        {
+          "startSec": 182.2,
+          "endSec": 182.5,
+          "text": "need"
+        },
+        {
+          "startSec": 182.5,
+          "endSec": 182.6,
+          "text": "to"
+        },
+        {
+          "startSec": 182.6,
+          "endSec": 182.9,
+          "text": "find"
+        },
+        {
+          "startSec": 182.9,
+          "endSec": 183.1,
+          "text": "new"
+        },
+        {
+          "startSec": 183.1,
+          "endSec": 183.3,
+          "text": "ways"
+        },
+        {
+          "startSec": 183.3,
+          "endSec": 183.4,
+          "text": "to"
+        },
+        {
+          "startSec": 183.4,
+          "endSec": 183.9,
+          "text": "connect"
+        },
+        {
+          "startSec": 183.9,
+          "endSec": 184.4,
+          "text": "children"
+        },
+        {
+          "startSec": 184.4,
+          "endSec": 184.6,
+          "text": "and"
+        },
+        {
+          "startSec": 184.6,
+          "endSec": 184.9,
+          "text": "young"
+        },
+        {
+          "startSec": 184.9,
+          "endSec": 185.4,
+          "text": "citizens"
+        },
+        {
+          "startSec": 185.4,
+          "endSec": 185.5,
+          "text": "to"
+        },
+        {
+          "startSec": 185.5,
+          "endSec": 186.2,
+          "text": "democratic"
+        },
+        {
+          "startSec": 186.2,
+          "endSec": 187.3,
+          "text": "institutions,"
+        },
+        {
+          "startSec": 187.3,
+          "endSec": 188.2,
+          "text": "otherwise"
+        }
+      ]
+    },
+    {
+      "startSec": 187.3,
+      "endSec": 191.4,
+      "text": "otherwise the gap will get bigger and bigger.",
+      "words": [
+        {
+          "startSec": 187.3,
+          "endSec": 188.2,
+          "text": "otherwise"
+        },
+        {
+          "startSec": 188.2,
+          "endSec": 188.5,
+          "text": "the"
+        },
+        {
+          "startSec": 188.5,
+          "endSec": 188.8,
+          "text": "gap"
+        },
+        {
+          "startSec": 188.8,
+          "endSec": 189.2,
+          "text": "will"
+        },
+        {
+          "startSec": 189.2,
+          "endSec": 189.6,
+          "text": "get"
+        },
+        {
+          "startSec": 189.6,
+          "endSec": 190.2,
+          "text": "bigger"
+        },
+        {
+          "startSec": 190.2,
+          "endSec": 190.5,
+          "text": "and"
+        },
+        {
+          "startSec": 190.5,
+          "endSec": 191.4,
+          "text": "bigger."
+        },
+        {
+          "startSec": 191.4,
+          "endSec": 191.7,
+          "text": "This"
+        }
+      ]
+    },
+    {
+      "startSec": 191.4,
+      "endSec": 194,
+      "text": "This is very dangerous for democracy.",
+      "words": [
+        {
+          "startSec": 191.4,
+          "endSec": 191.7,
+          "text": "This"
+        },
+        {
+          "startSec": 191.7,
+          "endSec": 191.9,
+          "text": "is"
+        },
+        {
+          "startSec": 191.9,
+          "endSec": 192.2,
+          "text": "very"
+        },
+        {
+          "startSec": 192.2,
+          "endSec": 192.9,
+          "text": "dangerous"
+        },
+        {
+          "startSec": 192.9,
+          "endSec": 193.1,
+          "text": "for"
+        },
+        {
+          "startSec": 193.1,
+          "endSec": 194,
+          "text": "democracy."
+        }
+      ]
+    },
+    {
+      "startSec": 194,
+      "endSec": 199.4,
+      "text": "Benardo thinks Portugal has seen an erosion of trust, a term for the gradual weakening",
+      "words": [
+        {
+          "startSec": 194.1,
+          "endSec": 194.6,
+          "text": "Benardo"
+        },
+        {
+          "startSec": 194.6,
+          "endSec": 195,
+          "text": "thinks"
+        },
+        {
+          "startSec": 195,
+          "endSec": 195.6,
+          "text": "Portugal"
+        },
+        {
+          "startSec": 195.6,
+          "endSec": 195.8,
+          "text": "has"
+        },
+        {
+          "startSec": 195.8,
+          "endSec": 196.1,
+          "text": "seen"
+        },
+        {
+          "startSec": 196.1,
+          "endSec": 196.2,
+          "text": "an"
+        },
+        {
+          "startSec": 196.2,
+          "endSec": 196.7,
+          "text": "erosion"
+        },
+        {
+          "startSec": 196.7,
+          "endSec": 196.9,
+          "text": "of"
+        },
+        {
+          "startSec": 196.9,
+          "endSec": 197.4,
+          "text": "trust,"
+        },
+        {
+          "startSec": 197.4,
+          "endSec": 197.5,
+          "text": "a"
+        },
+        {
+          "startSec": 197.5,
+          "endSec": 197.7,
+          "text": "term"
+        },
+        {
+          "startSec": 197.7,
+          "endSec": 198,
+          "text": "for"
+        },
+        {
+          "startSec": 198,
+          "endSec": 198.2,
+          "text": "the"
+        },
+        {
+          "startSec": 198.2,
+          "endSec": 198.7,
+          "text": "gradual"
+        },
+        {
+          "startSec": 198.7,
+          "endSec": 199.4,
+          "text": "weakening"
+        },
+        {
+          "startSec": 199.4,
+          "endSec": 199.6,
+          "text": "of"
+        }
+      ]
+    },
+    {
+      "startSec": 199.4,
+      "endSec": 205.7,
+      "text": "of people's confidence in political and economic institutions, and the government in office.",
+      "words": [
+        {
+          "startSec": 199.4,
+          "endSec": 199.6,
+          "text": "of"
+        },
+        {
+          "startSec": 199.6,
+          "endSec": 200.1,
+          "text": "people's"
+        },
+        {
+          "startSec": 200.1,
+          "endSec": 200.9,
+          "text": "confidence"
+        },
+        {
+          "startSec": 200.9,
+          "endSec": 201,
+          "text": "in"
+        },
+        {
+          "startSec": 201,
+          "endSec": 201.6,
+          "text": "political"
+        },
+        {
+          "startSec": 201.6,
+          "endSec": 201.8,
+          "text": "and"
+        },
+        {
+          "startSec": 201.8,
+          "endSec": 202.4,
+          "text": "economic"
+        },
+        {
+          "startSec": 202.4,
+          "endSec": 203.4,
+          "text": "institutions,"
+        },
+        {
+          "startSec": 203.4,
+          "endSec": 203.6,
+          "text": "and"
+        },
+        {
+          "startSec": 203.6,
+          "endSec": 203.8,
+          "text": "the"
+        },
+        {
+          "startSec": 203.8,
+          "endSec": 204.6,
+          "text": "government"
+        },
+        {
+          "startSec": 204.6,
+          "endSec": 204.8,
+          "text": "in"
+        },
+        {
+          "startSec": 204.8,
+          "endSec": 205.7,
+          "text": "office."
+        },
+        {
+          "startSec": 205.7,
+          "endSec": 205.8,
+          "text": "A"
+        }
+      ]
+    },
+    {
+      "startSec": 205.7,
+      "endSec": 210.2,
+      "text": "A government in office means the government in power at the present time.",
+      "words": [
+        {
+          "startSec": 205.7,
+          "endSec": 205.8,
+          "text": "A"
+        },
+        {
+          "startSec": 205.8,
+          "endSec": 206.5,
+          "text": "government"
+        },
+        {
+          "startSec": 206.5,
+          "endSec": 206.6,
+          "text": "in"
+        },
+        {
+          "startSec": 206.6,
+          "endSec": 207,
+          "text": "office"
+        },
+        {
+          "startSec": 207,
+          "endSec": 207.4,
+          "text": "means"
+        },
+        {
+          "startSec": 207.4,
+          "endSec": 207.6,
+          "text": "the"
+        },
+        {
+          "startSec": 207.6,
+          "endSec": 208.3,
+          "text": "government"
+        },
+        {
+          "startSec": 208.3,
+          "endSec": 208.5,
+          "text": "in"
+        },
+        {
+          "startSec": 208.5,
+          "endSec": 208.8,
+          "text": "power"
+        },
+        {
+          "startSec": 208.8,
+          "endSec": 209,
+          "text": "at"
+        },
+        {
+          "startSec": 209,
+          "endSec": 209.2,
+          "text": "the"
+        },
+        {
+          "startSec": 209.2,
+          "endSec": 209.7,
+          "text": "present"
+        },
+        {
+          "startSec": 209.7,
+          "endSec": 210.2,
+          "text": "time."
+        },
+        {
+          "startSec": 210.2,
+          "endSec": 210.7,
+          "text": "Mypolis"
+        }
+      ]
+    },
+    {
+      "startSec": 210.2,
+      "endSec": 215.6,
+      "text": "Mypolis mirrors the political activities that children will need as adult citizens, things",
+      "words": [
+        {
+          "startSec": 210.2,
+          "endSec": 210.7,
+          "text": "Mypolis"
+        },
+        {
+          "startSec": 210.7,
+          "endSec": 211.3,
+          "text": "mirrors"
+        },
+        {
+          "startSec": 211.3,
+          "endSec": 211.5,
+          "text": "the"
+        },
+        {
+          "startSec": 211.5,
+          "endSec": 212.1,
+          "text": "political"
+        },
+        {
+          "startSec": 212.1,
+          "endSec": 212.8,
+          "text": "activities"
+        },
+        {
+          "startSec": 212.8,
+          "endSec": 213.1,
+          "text": "that"
+        },
+        {
+          "startSec": 213.1,
+          "endSec": 213.7,
+          "text": "children"
+        },
+        {
+          "startSec": 213.7,
+          "endSec": 214,
+          "text": "will"
+        },
+        {
+          "startSec": 214,
+          "endSec": 214.3,
+          "text": "need"
+        },
+        {
+          "startSec": 214.3,
+          "endSec": 214.4,
+          "text": "as"
+        },
+        {
+          "startSec": 214.4,
+          "endSec": 214.8,
+          "text": "adult"
+        },
+        {
+          "startSec": 214.8,
+          "endSec": 215.6,
+          "text": "citizens,"
+        },
+        {
+          "startSec": 215.6,
+          "endSec": 215.6,
+          "text": "things"
+        },
+        {
+          "startSec": 215.6,
+          "endSec": 216,
+          "text": "like"
+        }
+      ]
+    },
+    {
+      "startSec": 215.6,
+      "endSec": 219.6,
+      "text": "like voting and holding politicians accountable.",
+      "words": [
+        {
+          "startSec": 215.6,
+          "endSec": 215.6,
+          "text": "things"
+        },
+        {
+          "startSec": 215.6,
+          "endSec": 216,
+          "text": "like"
+        },
+        {
+          "startSec": 216,
+          "endSec": 216.5,
+          "text": "voting"
+        },
+        {
+          "startSec": 216.5,
+          "endSec": 216.8,
+          "text": "and"
+        },
+        {
+          "startSec": 216.8,
+          "endSec": 217.4,
+          "text": "holding"
+        },
+        {
+          "startSec": 217.4,
+          "endSec": 218.3,
+          "text": "politicians"
+        },
+        {
+          "startSec": 218.3,
+          "endSec": 219.6,
+          "text": "accountable."
+        }
+      ]
+    },
+    {
+      "startSec": 219.6,
+      "endSec": 224.5,
+      "text": "Mr Alison Roberts visited schools around the Portuguese capital Lisbon, and was impressed",
+      "words": [
+        {
+          "startSec": 219.7,
+          "endSec": 219.7,
+          "text": "Mr"
+        },
+        {
+          "startSec": 219.7,
+          "endSec": 220.1,
+          "text": "Alison"
+        },
+        {
+          "startSec": 220.1,
+          "endSec": 220.5,
+          "text": "Roberts"
+        },
+        {
+          "startSec": 220.5,
+          "endSec": 221,
+          "text": "visited"
+        },
+        {
+          "startSec": 221,
+          "endSec": 221.4,
+          "text": "schools"
+        },
+        {
+          "startSec": 221.4,
+          "endSec": 221.8,
+          "text": "around"
+        },
+        {
+          "startSec": 221.8,
+          "endSec": 222,
+          "text": "the"
+        },
+        {
+          "startSec": 222,
+          "endSec": 222.6,
+          "text": "Portuguese"
+        },
+        {
+          "startSec": 222.6,
+          "endSec": 223,
+          "text": "capital"
+        },
+        {
+          "startSec": 223,
+          "endSec": 223.5,
+          "text": "Lisbon,"
+        },
+        {
+          "startSec": 223.5,
+          "endSec": 223.7,
+          "text": "and"
+        },
+        {
+          "startSec": 223.7,
+          "endSec": 223.9,
+          "text": "was"
+        },
+        {
+          "startSec": 223.9,
+          "endSec": 224.5,
+          "text": "impressed"
+        },
+        {
+          "startSec": 224.5,
+          "endSec": 224.7,
+          "text": "by"
+        }
+      ]
+    },
+    {
+      "startSec": 224.5,
+      "endSec": 230.4,
+      "text": "by what she saw, as she explains here to Myra Anubi, presenter of BBC World Services People",
+      "words": [
+        {
+          "startSec": 224.5,
+          "endSec": 224.7,
+          "text": "by"
+        },
+        {
+          "startSec": 224.7,
+          "endSec": 225,
+          "text": "what"
+        },
+        {
+          "startSec": 225,
+          "endSec": 225.2,
+          "text": "she"
+        },
+        {
+          "startSec": 225.2,
+          "endSec": 225.6,
+          "text": "saw,"
+        },
+        {
+          "startSec": 225.6,
+          "endSec": 225.7,
+          "text": "as"
+        },
+        {
+          "startSec": 225.7,
+          "endSec": 226,
+          "text": "she"
+        },
+        {
+          "startSec": 226,
+          "endSec": 226.6,
+          "text": "explains"
+        },
+        {
+          "startSec": 226.6,
+          "endSec": 226.9,
+          "text": "here"
+        },
+        {
+          "startSec": 226.9,
+          "endSec": 227.1,
+          "text": "to"
+        },
+        {
+          "startSec": 227.1,
+          "endSec": 227.4,
+          "text": "Myra"
+        },
+        {
+          "startSec": 227.4,
+          "endSec": 227.9,
+          "text": "Anubi,"
+        },
+        {
+          "startSec": 227.9,
+          "endSec": 228.6,
+          "text": "presenter"
+        },
+        {
+          "startSec": 228.6,
+          "endSec": 228.7,
+          "text": "of"
+        },
+        {
+          "startSec": 228.7,
+          "endSec": 228.9,
+          "text": "BBC"
+        },
+        {
+          "startSec": 228.9,
+          "endSec": 229.3,
+          "text": "World"
+        },
+        {
+          "startSec": 229.3,
+          "endSec": 229.9,
+          "text": "Services"
+        },
+        {
+          "startSec": 229.9,
+          "endSec": 230.4,
+          "text": "People"
+        },
+        {
+          "startSec": 230.4,
+          "endSec": 231.1,
+          "text": "Fixing"
+        }
+      ]
+    },
+    {
+      "startSec": 230.4,
+      "endSec": 232.4,
+      "text": "Fixing the World.",
+      "words": [
+        {
+          "startSec": 230.4,
+          "endSec": 231.1,
+          "text": "Fixing"
+        },
+        {
+          "startSec": 231.1,
+          "endSec": 231.5,
+          "text": "the"
+        },
+        {
+          "startSec": 231.5,
+          "endSec": 232.4,
+          "text": "World."
+        },
+        {
+          "startSec": 232.4,
+          "endSec": 232.9,
+          "text": "Another"
+        }
+      ]
+    },
+    {
+      "startSec": 232.4,
+      "endSec": 236.8,
+      "text": "Another benefit is mypolis has designed the programme so it can be included as part of",
+      "words": [
+        {
+          "startSec": 232.4,
+          "endSec": 232.9,
+          "text": "Another"
+        },
+        {
+          "startSec": 232.9,
+          "endSec": 233.3,
+          "text": "benefit"
+        },
+        {
+          "startSec": 233.3,
+          "endSec": 233.4,
+          "text": "is"
+        },
+        {
+          "startSec": 233.4,
+          "endSec": 233.8,
+          "text": "mypolis"
+        },
+        {
+          "startSec": 233.8,
+          "endSec": 234,
+          "text": "has"
+        },
+        {
+          "startSec": 234,
+          "endSec": 234.5,
+          "text": "designed"
+        },
+        {
+          "startSec": 234.5,
+          "endSec": 234.7,
+          "text": "the"
+        },
+        {
+          "startSec": 234.7,
+          "endSec": 235.2,
+          "text": "programme"
+        },
+        {
+          "startSec": 235.2,
+          "endSec": 235.3,
+          "text": "so"
+        },
+        {
+          "startSec": 235.3,
+          "endSec": 235.4,
+          "text": "it"
+        },
+        {
+          "startSec": 235.4,
+          "endSec": 235.6,
+          "text": "can"
+        },
+        {
+          "startSec": 235.6,
+          "endSec": 235.7,
+          "text": "be"
+        },
+        {
+          "startSec": 235.7,
+          "endSec": 236.2,
+          "text": "included"
+        },
+        {
+          "startSec": 236.2,
+          "endSec": 236.3,
+          "text": "as"
+        },
+        {
+          "startSec": 236.3,
+          "endSec": 236.6,
+          "text": "part"
+        },
+        {
+          "startSec": 236.6,
+          "endSec": 236.8,
+          "text": "of"
+        },
+        {
+          "startSec": 236.8,
+          "endSec": 237,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 236.8,
+      "endSec": 239.6,
+      "text": "the national curriculum rather than as an adorn.",
+      "words": [
+        {
+          "startSec": 236.8,
+          "endSec": 237,
+          "text": "the"
+        },
+        {
+          "startSec": 237,
+          "endSec": 237.5,
+          "text": "national"
+        },
+        {
+          "startSec": 237.5,
+          "endSec": 238.1,
+          "text": "curriculum"
+        },
+        {
+          "startSec": 238.1,
+          "endSec": 238.5,
+          "text": "rather"
+        },
+        {
+          "startSec": 238.5,
+          "endSec": 238.8,
+          "text": "than"
+        },
+        {
+          "startSec": 238.8,
+          "endSec": 238.9,
+          "text": "as"
+        },
+        {
+          "startSec": 238.9,
+          "endSec": 239,
+          "text": "an"
+        },
+        {
+          "startSec": 239,
+          "endSec": 239.6,
+          "text": "adorn."
+        },
+        {
+          "startSec": 239.6,
+          "endSec": 239.9,
+          "text": "Well,"
+        }
+      ]
+    },
+    {
+      "startSec": 239.6,
+      "endSec": 243.6,
+      "text": "Well, it's good to know that this is happening in other places, but the thing that also really",
+      "words": [
+        {
+          "startSec": 239.6,
+          "endSec": 239.9,
+          "text": "Well,"
+        },
+        {
+          "startSec": 239.9,
+          "endSec": 240.1,
+          "text": "it's"
+        },
+        {
+          "startSec": 240.1,
+          "endSec": 240.3,
+          "text": "good"
+        },
+        {
+          "startSec": 240.3,
+          "endSec": 240.4,
+          "text": "to"
+        },
+        {
+          "startSec": 240.4,
+          "endSec": 240.6,
+          "text": "know"
+        },
+        {
+          "startSec": 240.6,
+          "endSec": 240.8,
+          "text": "that"
+        },
+        {
+          "startSec": 240.8,
+          "endSec": 241,
+          "text": "this"
+        },
+        {
+          "startSec": 241,
+          "endSec": 241.1,
+          "text": "is"
+        },
+        {
+          "startSec": 241.1,
+          "endSec": 241.5,
+          "text": "happening"
+        },
+        {
+          "startSec": 241.5,
+          "endSec": 241.6,
+          "text": "in"
+        },
+        {
+          "startSec": 241.6,
+          "endSec": 241.9,
+          "text": "other"
+        },
+        {
+          "startSec": 241.9,
+          "endSec": 242.3,
+          "text": "places,"
+        },
+        {
+          "startSec": 242.3,
+          "endSec": 242.4,
+          "text": "but"
+        },
+        {
+          "startSec": 242.4,
+          "endSec": 242.6,
+          "text": "the"
+        },
+        {
+          "startSec": 242.6,
+          "endSec": 242.8,
+          "text": "thing"
+        },
+        {
+          "startSec": 242.8,
+          "endSec": 243,
+          "text": "that"
+        },
+        {
+          "startSec": 243,
+          "endSec": 243.3,
+          "text": "also"
+        },
+        {
+          "startSec": 243.3,
+          "endSec": 243.6,
+          "text": "really"
+        },
+        {
+          "startSec": 243.6,
+          "endSec": 244,
+          "text": "strikes"
+        }
+      ]
+    },
+    {
+      "startSec": 243.6,
+      "endSec": 249.4,
+      "text": "strikes me here is that politicians are actually listening to these kids and taking them seriously,",
+      "words": [
+        {
+          "startSec": 243.6,
+          "endSec": 244,
+          "text": "strikes"
+        },
+        {
+          "startSec": 244,
+          "endSec": 244.2,
+          "text": "me"
+        },
+        {
+          "startSec": 244.2,
+          "endSec": 244.4,
+          "text": "here"
+        },
+        {
+          "startSec": 244.4,
+          "endSec": 244.5,
+          "text": "is"
+        },
+        {
+          "startSec": 244.5,
+          "endSec": 244.8,
+          "text": "that"
+        },
+        {
+          "startSec": 244.8,
+          "endSec": 245.5,
+          "text": "politicians"
+        },
+        {
+          "startSec": 245.5,
+          "endSec": 245.7,
+          "text": "are"
+        },
+        {
+          "startSec": 245.7,
+          "endSec": 246.3,
+          "text": "actually"
+        },
+        {
+          "startSec": 246.3,
+          "endSec": 246.8,
+          "text": "listening"
+        },
+        {
+          "startSec": 246.8,
+          "endSec": 247,
+          "text": "to"
+        },
+        {
+          "startSec": 247,
+          "endSec": 247.3,
+          "text": "these"
+        },
+        {
+          "startSec": 247.3,
+          "endSec": 247.6,
+          "text": "kids"
+        },
+        {
+          "startSec": 247.6,
+          "endSec": 247.8,
+          "text": "and"
+        },
+        {
+          "startSec": 247.8,
+          "endSec": 248.1,
+          "text": "taking"
+        },
+        {
+          "startSec": 248.1,
+          "endSec": 248.4,
+          "text": "them"
+        },
+        {
+          "startSec": 248.4,
+          "endSec": 249.4,
+          "text": "seriously,"
+        }
+      ]
+    },
+    {
+      "startSec": 249.4,
+      "endSec": 254.1,
+      "text": "taking them answers because politicians as we know can be hard to pin down.",
+      "words": [
+        {
+          "startSec": 249.5,
+          "endSec": 249.8,
+          "text": "taking"
+        },
+        {
+          "startSec": 249.8,
+          "endSec": 250.1,
+          "text": "them"
+        },
+        {
+          "startSec": 250.1,
+          "endSec": 250.6,
+          "text": "answers"
+        },
+        {
+          "startSec": 250.6,
+          "endSec": 251.1,
+          "text": "because"
+        },
+        {
+          "startSec": 251.1,
+          "endSec": 251.9,
+          "text": "politicians"
+        },
+        {
+          "startSec": 251.9,
+          "endSec": 252.1,
+          "text": "as"
+        },
+        {
+          "startSec": 252.1,
+          "endSec": 252.2,
+          "text": "we"
+        },
+        {
+          "startSec": 252.2,
+          "endSec": 252.5,
+          "text": "know"
+        },
+        {
+          "startSec": 252.5,
+          "endSec": 252.7,
+          "text": "can"
+        },
+        {
+          "startSec": 252.7,
+          "endSec": 252.9,
+          "text": "be"
+        },
+        {
+          "startSec": 252.9,
+          "endSec": 253.1,
+          "text": "hard"
+        },
+        {
+          "startSec": 253.1,
+          "endSec": 253.3,
+          "text": "to"
+        },
+        {
+          "startSec": 253.3,
+          "endSec": 253.5,
+          "text": "pin"
+        },
+        {
+          "startSec": 253.5,
+          "endSec": 254.1,
+          "text": "down."
+        },
+        {
+          "startSec": 254.1,
+          "endSec": 254.3,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 254.1,
+      "endSec": 258.7,
+      "text": "The Mypolis programme is designed as part of the whole school curriculum, and not just",
+      "words": [
+        {
+          "startSec": 254.1,
+          "endSec": 254.3,
+          "text": "The"
+        },
+        {
+          "startSec": 254.3,
+          "endSec": 254.7,
+          "text": "Mypolis"
+        },
+        {
+          "startSec": 254.7,
+          "endSec": 255.3,
+          "text": "programme"
+        },
+        {
+          "startSec": 255.3,
+          "endSec": 255.4,
+          "text": "is"
+        },
+        {
+          "startSec": 255.4,
+          "endSec": 255.9,
+          "text": "designed"
+        },
+        {
+          "startSec": 255.9,
+          "endSec": 256,
+          "text": "as"
+        },
+        {
+          "startSec": 256,
+          "endSec": 256.2,
+          "text": "part"
+        },
+        {
+          "startSec": 256.2,
+          "endSec": 256.4,
+          "text": "of"
+        },
+        {
+          "startSec": 256.4,
+          "endSec": 256.5,
+          "text": "the"
+        },
+        {
+          "startSec": 256.5,
+          "endSec": 256.9,
+          "text": "whole"
+        },
+        {
+          "startSec": 256.9,
+          "endSec": 257.2,
+          "text": "school"
+        },
+        {
+          "startSec": 257.2,
+          "endSec": 258,
+          "text": "curriculum,"
+        },
+        {
+          "startSec": 258,
+          "endSec": 258.2,
+          "text": "and"
+        },
+        {
+          "startSec": 258.2,
+          "endSec": 258.4,
+          "text": "not"
+        },
+        {
+          "startSec": 258.4,
+          "endSec": 258.7,
+          "text": "just"
+        },
+        {
+          "startSec": 258.7,
+          "endSec": 258.9,
+          "text": "an"
+        }
+      ]
+    },
+    {
+      "startSec": 258.7,
+      "endSec": 264,
+      "text": "an adorn, meaning something extra that is added later instead of being planned in from",
+      "words": [
+        {
+          "startSec": 258.7,
+          "endSec": 258.9,
+          "text": "an"
+        },
+        {
+          "startSec": 258.9,
+          "endSec": 259.4,
+          "text": "adorn,"
+        },
+        {
+          "startSec": 259.4,
+          "endSec": 259.9,
+          "text": "meaning"
+        },
+        {
+          "startSec": 259.9,
+          "endSec": 260.5,
+          "text": "something"
+        },
+        {
+          "startSec": 260.5,
+          "endSec": 260.9,
+          "text": "extra"
+        },
+        {
+          "startSec": 260.9,
+          "endSec": 261.2,
+          "text": "that"
+        },
+        {
+          "startSec": 261.2,
+          "endSec": 261.3,
+          "text": "is"
+        },
+        {
+          "startSec": 261.3,
+          "endSec": 261.6,
+          "text": "added"
+        },
+        {
+          "startSec": 261.6,
+          "endSec": 262,
+          "text": "later"
+        },
+        {
+          "startSec": 262,
+          "endSec": 262.5,
+          "text": "instead"
+        },
+        {
+          "startSec": 262.5,
+          "endSec": 262.6,
+          "text": "of"
+        },
+        {
+          "startSec": 262.6,
+          "endSec": 263,
+          "text": "being"
+        },
+        {
+          "startSec": 263,
+          "endSec": 263.5,
+          "text": "planned"
+        },
+        {
+          "startSec": 263.5,
+          "endSec": 263.6,
+          "text": "in"
+        },
+        {
+          "startSec": 263.6,
+          "endSec": 264,
+          "text": "from"
+        },
+        {
+          "startSec": 264,
+          "endSec": 264.3,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 264,
+      "endSec": 265.2,
+      "text": "the start.",
+      "words": [
+        {
+          "startSec": 264,
+          "endSec": 264.3,
+          "text": "the"
+        },
+        {
+          "startSec": 264.3,
+          "endSec": 265.2,
+          "text": "start."
+        },
+        {
+          "startSec": 265.2,
+          "endSec": 265.5,
+          "text": "Myra"
+        }
+      ]
+    },
+    {
+      "startSec": 265.2,
+      "endSec": 270,
+      "text": "Myra was impressed that local politicians take the school children seriously.",
+      "words": [
+        {
+          "startSec": 265.2,
+          "endSec": 265.5,
+          "text": "Myra"
+        },
+        {
+          "startSec": 265.5,
+          "endSec": 265.7,
+          "text": "was"
+        },
+        {
+          "startSec": 265.7,
+          "endSec": 266.3,
+          "text": "impressed"
+        },
+        {
+          "startSec": 266.3,
+          "endSec": 266.6,
+          "text": "that"
+        },
+        {
+          "startSec": 266.6,
+          "endSec": 266.9,
+          "text": "local"
+        },
+        {
+          "startSec": 266.9,
+          "endSec": 267.7,
+          "text": "politicians"
+        },
+        {
+          "startSec": 267.7,
+          "endSec": 267.9,
+          "text": "take"
+        },
+        {
+          "startSec": 267.9,
+          "endSec": 268.1,
+          "text": "the"
+        },
+        {
+          "startSec": 268.1,
+          "endSec": 268.5,
+          "text": "school"
+        },
+        {
+          "startSec": 268.5,
+          "endSec": 269.1,
+          "text": "children"
+        },
+        {
+          "startSec": 269.1,
+          "endSec": 270,
+          "text": "seriously."
+        },
+        {
+          "startSec": 270,
+          "endSec": 270.1,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 270,
+      "endSec": 275.7,
+      "text": "If you take someone or something seriously, you think it's important and deserves attention.",
+      "words": [
+        {
+          "startSec": 270,
+          "endSec": 270.1,
+          "text": "If"
+        },
+        {
+          "startSec": 270.1,
+          "endSec": 270.3,
+          "text": "you"
+        },
+        {
+          "startSec": 270.3,
+          "endSec": 270.6,
+          "text": "take"
+        },
+        {
+          "startSec": 270.6,
+          "endSec": 271.1,
+          "text": "someone"
+        },
+        {
+          "startSec": 271.1,
+          "endSec": 271.2,
+          "text": "or"
+        },
+        {
+          "startSec": 271.2,
+          "endSec": 271.8,
+          "text": "something"
+        },
+        {
+          "startSec": 271.8,
+          "endSec": 272.5,
+          "text": "seriously,"
+        },
+        {
+          "startSec": 272.5,
+          "endSec": 272.7,
+          "text": "you"
+        },
+        {
+          "startSec": 272.7,
+          "endSec": 273.1,
+          "text": "think"
+        },
+        {
+          "startSec": 273.1,
+          "endSec": 273.3,
+          "text": "it's"
+        },
+        {
+          "startSec": 273.3,
+          "endSec": 273.9,
+          "text": "important"
+        },
+        {
+          "startSec": 273.9,
+          "endSec": 274.1,
+          "text": "and"
+        },
+        {
+          "startSec": 274.1,
+          "endSec": 274.6,
+          "text": "deserves"
+        },
+        {
+          "startSec": 274.6,
+          "endSec": 275.7,
+          "text": "attention."
+        }
+      ]
+    },
+    {
+      "startSec": 275.7,
+      "endSec": 280.8,
+      "text": "And that's good because, as everyone knows, politicians can be hard to pin down.",
+      "words": [
+        {
+          "startSec": 275.8,
+          "endSec": 275.9,
+          "text": "And"
+        },
+        {
+          "startSec": 275.9,
+          "endSec": 276.4,
+          "text": "that's"
+        },
+        {
+          "startSec": 276.4,
+          "endSec": 276.6,
+          "text": "good"
+        },
+        {
+          "startSec": 276.6,
+          "endSec": 277.3,
+          "text": "because,"
+        },
+        {
+          "startSec": 277.3,
+          "endSec": 277.4,
+          "text": "as"
+        },
+        {
+          "startSec": 277.4,
+          "endSec": 278,
+          "text": "everyone"
+        },
+        {
+          "startSec": 278,
+          "endSec": 278.5,
+          "text": "knows,"
+        },
+        {
+          "startSec": 278.5,
+          "endSec": 279.3,
+          "text": "politicians"
+        },
+        {
+          "startSec": 279.3,
+          "endSec": 279.5,
+          "text": "can"
+        },
+        {
+          "startSec": 279.5,
+          "endSec": 279.6,
+          "text": "be"
+        },
+        {
+          "startSec": 279.6,
+          "endSec": 279.9,
+          "text": "hard"
+        },
+        {
+          "startSec": 279.9,
+          "endSec": 280,
+          "text": "to"
+        },
+        {
+          "startSec": 280,
+          "endSec": 280.2,
+          "text": "pin"
+        },
+        {
+          "startSec": 280.2,
+          "endSec": 280.8,
+          "text": "down."
+        },
+        {
+          "startSec": 280.8,
+          "endSec": 280.9,
+          "text": "To"
+        }
+      ]
+    },
+    {
+      "startSec": 280.8,
+      "endSec": 286.4,
+      "text": "To pin someone down means to force them to explain their plans and intentions in detail.",
+      "words": [
+        {
+          "startSec": 280.8,
+          "endSec": 280.9,
+          "text": "To"
+        },
+        {
+          "startSec": 280.9,
+          "endSec": 281.2,
+          "text": "pin"
+        },
+        {
+          "startSec": 281.2,
+          "endSec": 281.7,
+          "text": "someone"
+        },
+        {
+          "startSec": 281.7,
+          "endSec": 282,
+          "text": "down"
+        },
+        {
+          "startSec": 282,
+          "endSec": 282.3,
+          "text": "means"
+        },
+        {
+          "startSec": 282.3,
+          "endSec": 282.5,
+          "text": "to"
+        },
+        {
+          "startSec": 282.5,
+          "endSec": 282.8,
+          "text": "force"
+        },
+        {
+          "startSec": 282.8,
+          "endSec": 283.1,
+          "text": "them"
+        },
+        {
+          "startSec": 283.1,
+          "endSec": 283.3,
+          "text": "to"
+        },
+        {
+          "startSec": 283.3,
+          "endSec": 283.8,
+          "text": "explain"
+        },
+        {
+          "startSec": 283.8,
+          "endSec": 284.2,
+          "text": "their"
+        },
+        {
+          "startSec": 284.2,
+          "endSec": 284.5,
+          "text": "plans"
+        },
+        {
+          "startSec": 284.5,
+          "endSec": 284.7,
+          "text": "and"
+        },
+        {
+          "startSec": 284.7,
+          "endSec": 285.5,
+          "text": "intentions"
+        },
+        {
+          "startSec": 285.5,
+          "endSec": 285.6,
+          "text": "in"
+        },
+        {
+          "startSec": 285.6,
+          "endSec": 286.4,
+          "text": "detail."
+        },
+        {
+          "startSec": 286.4,
+          "endSec": 286.5,
+          "text": "It"
+        }
+      ]
+    },
+    {
+      "startSec": 286.4,
+      "endSec": 291.7,
+      "text": "It sounds like the programme is really developing active citizens of the future in Portugal.",
+      "words": [
+        {
+          "startSec": 286.4,
+          "endSec": 286.5,
+          "text": "It"
+        },
+        {
+          "startSec": 286.5,
+          "endSec": 286.9,
+          "text": "sounds"
+        },
+        {
+          "startSec": 286.9,
+          "endSec": 287.2,
+          "text": "like"
+        },
+        {
+          "startSec": 287.2,
+          "endSec": 287.4,
+          "text": "the"
+        },
+        {
+          "startSec": 287.4,
+          "endSec": 288,
+          "text": "programme"
+        },
+        {
+          "startSec": 288,
+          "endSec": 288.1,
+          "text": "is"
+        },
+        {
+          "startSec": 288.1,
+          "endSec": 288.5,
+          "text": "really"
+        },
+        {
+          "startSec": 288.5,
+          "endSec": 289.1,
+          "text": "developing"
+        },
+        {
+          "startSec": 289.1,
+          "endSec": 289.5,
+          "text": "active"
+        },
+        {
+          "startSec": 289.5,
+          "endSec": 290.1,
+          "text": "citizens"
+        },
+        {
+          "startSec": 290.1,
+          "endSec": 290.2,
+          "text": "of"
+        },
+        {
+          "startSec": 290.2,
+          "endSec": 290.4,
+          "text": "the"
+        },
+        {
+          "startSec": 290.4,
+          "endSec": 290.8,
+          "text": "future"
+        },
+        {
+          "startSec": 290.8,
+          "endSec": 290.9,
+          "text": "in"
+        },
+        {
+          "startSec": 290.9,
+          "endSec": 291.7,
+          "text": "Portugal."
+        },
+        {
+          "startSec": 291.7,
+          "endSec": 291.9,
+          "text": "In"
+        }
+      ]
+    },
+    {
+      "startSec": 291.7,
+      "endSec": 297.1,
+      "text": "In fact, it's been so successful that similar programmes have been started in Italy, Hungary,",
+      "words": [
+        {
+          "startSec": 291.7,
+          "endSec": 291.9,
+          "text": "In"
+        },
+        {
+          "startSec": 291.9,
+          "endSec": 292.2,
+          "text": "fact,"
+        },
+        {
+          "startSec": 292.2,
+          "endSec": 292.5,
+          "text": "it's"
+        },
+        {
+          "startSec": 292.5,
+          "endSec": 292.8,
+          "text": "been"
+        },
+        {
+          "startSec": 292.8,
+          "endSec": 292.9,
+          "text": "so"
+        },
+        {
+          "startSec": 292.9,
+          "endSec": 293.5,
+          "text": "successful"
+        },
+        {
+          "startSec": 293.5,
+          "endSec": 293.8,
+          "text": "that"
+        },
+        {
+          "startSec": 293.8,
+          "endSec": 294.3,
+          "text": "similar"
+        },
+        {
+          "startSec": 294.3,
+          "endSec": 294.9,
+          "text": "programmes"
+        },
+        {
+          "startSec": 294.9,
+          "endSec": 295.2,
+          "text": "have"
+        },
+        {
+          "startSec": 295.2,
+          "endSec": 295.4,
+          "text": "been"
+        },
+        {
+          "startSec": 295.4,
+          "endSec": 295.9,
+          "text": "started"
+        },
+        {
+          "startSec": 295.9,
+          "endSec": 296,
+          "text": "in"
+        },
+        {
+          "startSec": 296,
+          "endSec": 296.5,
+          "text": "Italy,"
+        },
+        {
+          "startSec": 296.5,
+          "endSec": 297.1,
+          "text": "Hungary,"
+        },
+        {
+          "startSec": 297.1,
+          "endSec": 297.3,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 297.1,
+      "endSec": 298.1,
+      "text": "and Mozambique.",
+      "words": [
+        {
+          "startSec": 297.1,
+          "endSec": 297.3,
+          "text": "and"
+        },
+        {
+          "startSec": 297.3,
+          "endSec": 298.1,
+          "text": "Mozambique."
+        },
+        {
+          "startSec": 298.1,
+          "endSec": 298.6,
+          "text": "Okay,"
+        }
+      ]
+    },
+    {
+      "startSec": 298.1,
+      "endSec": 302.9,
+      "text": "Okay, Neil, I think I should reveal the answer to my question.",
+      "words": [
+        {
+          "startSec": 298.1,
+          "endSec": 298.6,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 298.6,
+          "endSec": 299.1,
+          "text": "Neil,"
+        },
+        {
+          "startSec": 299.1,
+          "endSec": 299.2,
+          "text": "I"
+        },
+        {
+          "startSec": 299.2,
+          "endSec": 299.7,
+          "text": "think"
+        },
+        {
+          "startSec": 299.7,
+          "endSec": 299.7,
+          "text": "I"
+        },
+        {
+          "startSec": 299.7,
+          "endSec": 300.3,
+          "text": "should"
+        },
+        {
+          "startSec": 300.3,
+          "endSec": 300.8,
+          "text": "reveal"
+        },
+        {
+          "startSec": 300.8,
+          "endSec": 301,
+          "text": "the"
+        },
+        {
+          "startSec": 301,
+          "endSec": 301.5,
+          "text": "answer"
+        },
+        {
+          "startSec": 301.5,
+          "endSec": 301.7,
+          "text": "to"
+        },
+        {
+          "startSec": 301.7,
+          "endSec": 301.9,
+          "text": "my"
+        },
+        {
+          "startSec": 301.9,
+          "endSec": 302.9,
+          "text": "question."
+        },
+        {
+          "startSec": 302.9,
+          "endSec": 303,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 302.9,
+      "endSec": 309.6,
+      "text": "I asked you what is the meaning of the ancient Greek word 'polis', and you said 'people'.",
+      "words": [
+        {
+          "startSec": 302.9,
+          "endSec": 303,
+          "text": "I"
+        },
+        {
+          "startSec": 303,
+          "endSec": 303.3,
+          "text": "asked"
+        },
+        {
+          "startSec": 303.3,
+          "endSec": 303.6,
+          "text": "you"
+        },
+        {
+          "startSec": 303.6,
+          "endSec": 303.9,
+          "text": "what"
+        },
+        {
+          "startSec": 303.9,
+          "endSec": 304,
+          "text": "is"
+        },
+        {
+          "startSec": 304,
+          "endSec": 304.2,
+          "text": "the"
+        },
+        {
+          "startSec": 304.2,
+          "endSec": 304.8,
+          "text": "meaning"
+        },
+        {
+          "startSec": 304.8,
+          "endSec": 304.9,
+          "text": "of"
+        },
+        {
+          "startSec": 304.9,
+          "endSec": 305.2,
+          "text": "the"
+        },
+        {
+          "startSec": 305.2,
+          "endSec": 305.7,
+          "text": "ancient"
+        },
+        {
+          "startSec": 305.7,
+          "endSec": 306.1,
+          "text": "Greek"
+        },
+        {
+          "startSec": 306.1,
+          "endSec": 306.4,
+          "text": "word"
+        },
+        {
+          "startSec": 306.4,
+          "endSec": 307.1,
+          "text": "'polis',"
+        },
+        {
+          "startSec": 307.1,
+          "endSec": 307.5,
+          "text": "and"
+        },
+        {
+          "startSec": 307.5,
+          "endSec": 307.8,
+          "text": "you"
+        },
+        {
+          "startSec": 307.8,
+          "endSec": 308.3,
+          "text": "said"
+        },
+        {
+          "startSec": 308.3,
+          "endSec": 309.6,
+          "text": "'people'."
+        },
+        {
+          "startSec": 309.6,
+          "endSec": 310,
+          "text": "Which"
+        }
+      ]
+    },
+    {
+      "startSec": 309.6,
+      "endSec": 312.4,
+      "text": "Which was the wrong answer, I'm afraid.",
+      "words": [
+        {
+          "startSec": 309.6,
+          "endSec": 310,
+          "text": "Which"
+        },
+        {
+          "startSec": 310,
+          "endSec": 310.2,
+          "text": "was"
+        },
+        {
+          "startSec": 310.2,
+          "endSec": 310.5,
+          "text": "the"
+        },
+        {
+          "startSec": 310.5,
+          "endSec": 310.8,
+          "text": "wrong"
+        },
+        {
+          "startSec": 310.8,
+          "endSec": 311.5,
+          "text": "answer,"
+        },
+        {
+          "startSec": 311.5,
+          "endSec": 311.7,
+          "text": "I'm"
+        },
+        {
+          "startSec": 311.7,
+          "endSec": 312.4,
+          "text": "afraid."
+        },
+        {
+          "startSec": 312.4,
+          "endSec": 312.7,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 312.4,
+      "endSec": 314.6,
+      "text": "The right answer was 'see city'.",
+      "words": [
+        {
+          "startSec": 312.4,
+          "endSec": 312.7,
+          "text": "The"
+        },
+        {
+          "startSec": 312.7,
+          "endSec": 313,
+          "text": "right"
+        },
+        {
+          "startSec": 313,
+          "endSec": 313.5,
+          "text": "answer"
+        },
+        {
+          "startSec": 313.5,
+          "endSec": 313.7,
+          "text": "was"
+        },
+        {
+          "startSec": 313.7,
+          "endSec": 314,
+          "text": "'see"
+        },
+        {
+          "startSec": 314,
+          "endSec": 314.6,
+          "text": "city'."
+        },
+        {
+          "startSec": 314.6,
+          "endSec": 314.9,
+          "text": "Oh"
+        }
+      ]
+    },
+    {
+      "startSec": 314.6,
+      "endSec": 315.6,
+      "text": "Oh no.",
+      "words": [
+        {
+          "startSec": 314.6,
+          "endSec": 314.9,
+          "text": "Oh"
+        },
+        {
+          "startSec": 314.9,
+          "endSec": 315.6,
+          "text": "no."
+        },
+        {
+          "startSec": 315.6,
+          "endSec": 316.1,
+          "text": "Right,"
+        }
+      ]
+    },
+    {
+      "startSec": 315.6,
+      "endSec": 320.7,
+      "text": "Right, it's time to recap the vocabulary we've learned, starting with the law of the",
+      "words": [
+        {
+          "startSec": 315.6,
+          "endSec": 316.1,
+          "text": "Right,"
+        },
+        {
+          "startSec": 316.1,
+          "endSec": 316.4,
+          "text": "it's"
+        },
+        {
+          "startSec": 316.4,
+          "endSec": 316.6,
+          "text": "time"
+        },
+        {
+          "startSec": 316.6,
+          "endSec": 316.8,
+          "text": "to"
+        },
+        {
+          "startSec": 316.8,
+          "endSec": 317.1,
+          "text": "recap"
+        },
+        {
+          "startSec": 317.1,
+          "endSec": 317.3,
+          "text": "the"
+        },
+        {
+          "startSec": 317.3,
+          "endSec": 318,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 318,
+          "endSec": 318.3,
+          "text": "we've"
+        },
+        {
+          "startSec": 318.3,
+          "endSec": 318.9,
+          "text": "learned,"
+        },
+        {
+          "startSec": 318.9,
+          "endSec": 319.5,
+          "text": "starting"
+        },
+        {
+          "startSec": 319.5,
+          "endSec": 319.8,
+          "text": "with"
+        },
+        {
+          "startSec": 319.8,
+          "endSec": 320,
+          "text": "the"
+        },
+        {
+          "startSec": 320,
+          "endSec": 320.2,
+          "text": "law"
+        },
+        {
+          "startSec": 320.2,
+          "endSec": 320.4,
+          "text": "of"
+        },
+        {
+          "startSec": 320.4,
+          "endSec": 320.7,
+          "text": "the"
+        },
+        {
+          "startSec": 320.7,
+          "endSec": 321.1,
+          "text": "land,"
+        }
+      ]
+    },
+    {
+      "startSec": 320.7,
+      "endSec": 325.2,
+      "text": "land, a term for the set of rules and laws that exists in a country.",
+      "words": [
+        {
+          "startSec": 320.7,
+          "endSec": 321.1,
+          "text": "land,"
+        },
+        {
+          "startSec": 321.1,
+          "endSec": 321.2,
+          "text": "a"
+        },
+        {
+          "startSec": 321.2,
+          "endSec": 321.5,
+          "text": "term"
+        },
+        {
+          "startSec": 321.5,
+          "endSec": 321.8,
+          "text": "for"
+        },
+        {
+          "startSec": 321.8,
+          "endSec": 322,
+          "text": "the"
+        },
+        {
+          "startSec": 322,
+          "endSec": 322.2,
+          "text": "set"
+        },
+        {
+          "startSec": 322.2,
+          "endSec": 322.4,
+          "text": "of"
+        },
+        {
+          "startSec": 322.4,
+          "endSec": 322.8,
+          "text": "rules"
+        },
+        {
+          "startSec": 322.8,
+          "endSec": 323,
+          "text": "and"
+        },
+        {
+          "startSec": 323,
+          "endSec": 323.3,
+          "text": "laws"
+        },
+        {
+          "startSec": 323.3,
+          "endSec": 323.6,
+          "text": "that"
+        },
+        {
+          "startSec": 323.6,
+          "endSec": 324.1,
+          "text": "exists"
+        },
+        {
+          "startSec": 324.1,
+          "endSec": 324.2,
+          "text": "in"
+        },
+        {
+          "startSec": 324.2,
+          "endSec": 324.3,
+          "text": "a"
+        },
+        {
+          "startSec": 324.3,
+          "endSec": 325.2,
+          "text": "country."
+        },
+        {
+          "startSec": 325.2,
+          "endSec": 325.3,
+          "text": "An"
+        }
+      ]
+    },
+    {
+      "startSec": 325.2,
+      "endSec": 331.6,
+      "text": "An erosion of trust happens when people gradually lose confidence in political and economic institutions.",
+      "words": [
+        {
+          "startSec": 325.2,
+          "endSec": 325.3,
+          "text": "An"
+        },
+        {
+          "startSec": 325.3,
+          "endSec": 325.7,
+          "text": "erosion"
+        },
+        {
+          "startSec": 325.7,
+          "endSec": 325.8,
+          "text": "of"
+        },
+        {
+          "startSec": 325.8,
+          "endSec": 326.1,
+          "text": "trust"
+        },
+        {
+          "startSec": 326.1,
+          "endSec": 326.6,
+          "text": "happens"
+        },
+        {
+          "startSec": 326.6,
+          "endSec": 326.8,
+          "text": "when"
+        },
+        {
+          "startSec": 326.8,
+          "endSec": 327.2,
+          "text": "people"
+        },
+        {
+          "startSec": 327.2,
+          "endSec": 327.8,
+          "text": "gradually"
+        },
+        {
+          "startSec": 327.8,
+          "endSec": 328,
+          "text": "lose"
+        },
+        {
+          "startSec": 328,
+          "endSec": 328.6,
+          "text": "confidence"
+        },
+        {
+          "startSec": 328.6,
+          "endSec": 328.7,
+          "text": "in"
+        },
+        {
+          "startSec": 328.7,
+          "endSec": 329.3,
+          "text": "political"
+        },
+        {
+          "startSec": 329.3,
+          "endSec": 329.6,
+          "text": "and"
+        },
+        {
+          "startSec": 329.6,
+          "endSec": 330.1,
+          "text": "economic"
+        },
+        {
+          "startSec": 330.1,
+          "endSec": 331.6,
+          "text": "institutions."
+        },
+        {
+          "startSec": 331.6,
+          "endSec": 331.7,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 331.6,
+      "endSec": 335.3,
+      "text": "If a government is in office, it means they are currently in power.",
+      "words": [
+        {
+          "startSec": 331.6,
+          "endSec": 331.7,
+          "text": "If"
+        },
+        {
+          "startSec": 331.7,
+          "endSec": 331.8,
+          "text": "a"
+        },
+        {
+          "startSec": 331.8,
+          "endSec": 332.4,
+          "text": "government"
+        },
+        {
+          "startSec": 332.4,
+          "endSec": 332.5,
+          "text": "is"
+        },
+        {
+          "startSec": 332.5,
+          "endSec": 332.7,
+          "text": "in"
+        },
+        {
+          "startSec": 332.7,
+          "endSec": 333.2,
+          "text": "office,"
+        },
+        {
+          "startSec": 333.2,
+          "endSec": 333.3,
+          "text": "it"
+        },
+        {
+          "startSec": 333.3,
+          "endSec": 333.6,
+          "text": "means"
+        },
+        {
+          "startSec": 333.6,
+          "endSec": 333.9,
+          "text": "they"
+        },
+        {
+          "startSec": 333.9,
+          "endSec": 334,
+          "text": "are"
+        },
+        {
+          "startSec": 334,
+          "endSec": 334.6,
+          "text": "currently"
+        },
+        {
+          "startSec": 334.6,
+          "endSec": 334.8,
+          "text": "in"
+        },
+        {
+          "startSec": 334.8,
+          "endSec": 335.3,
+          "text": "power."
+        },
+        {
+          "startSec": 335.3,
+          "endSec": 335.5,
+          "text": "An"
+        }
+      ]
+    },
+    {
+      "startSec": 335.3,
+      "endSec": 340,
+      "text": "An add-on is an extra part that is added to something later, rather than being built in",
+      "words": [
+        {
+          "startSec": 335.3,
+          "endSec": 335.5,
+          "text": "An"
+        },
+        {
+          "startSec": 335.5,
+          "endSec": 335.8,
+          "text": "add-on"
+        },
+        {
+          "startSec": 335.8,
+          "endSec": 336,
+          "text": "is"
+        },
+        {
+          "startSec": 336,
+          "endSec": 336.1,
+          "text": "an"
+        },
+        {
+          "startSec": 336.1,
+          "endSec": 336.4,
+          "text": "extra"
+        },
+        {
+          "startSec": 336.4,
+          "endSec": 336.7,
+          "text": "part"
+        },
+        {
+          "startSec": 336.7,
+          "endSec": 337,
+          "text": "that"
+        },
+        {
+          "startSec": 337,
+          "endSec": 337.1,
+          "text": "is"
+        },
+        {
+          "startSec": 337.1,
+          "endSec": 337.4,
+          "text": "added"
+        },
+        {
+          "startSec": 337.4,
+          "endSec": 337.5,
+          "text": "to"
+        },
+        {
+          "startSec": 337.5,
+          "endSec": 338.1,
+          "text": "something"
+        },
+        {
+          "startSec": 338.1,
+          "endSec": 338.7,
+          "text": "later,"
+        },
+        {
+          "startSec": 338.7,
+          "endSec": 339,
+          "text": "rather"
+        },
+        {
+          "startSec": 339,
+          "endSec": 339.2,
+          "text": "than"
+        },
+        {
+          "startSec": 339.2,
+          "endSec": 339.5,
+          "text": "being"
+        },
+        {
+          "startSec": 339.5,
+          "endSec": 339.8,
+          "text": "built"
+        },
+        {
+          "startSec": 339.8,
+          "endSec": 340,
+          "text": "in"
+        },
+        {
+          "startSec": 340,
+          "endSec": 340.4,
+          "text": "from"
+        }
+      ]
+    },
+    {
+      "startSec": 340,
+      "endSec": 341.6,
+      "text": "from the start.",
+      "words": [
+        {
+          "startSec": 340,
+          "endSec": 340.4,
+          "text": "from"
+        },
+        {
+          "startSec": 340.4,
+          "endSec": 340.7,
+          "text": "the"
+        },
+        {
+          "startSec": 340.7,
+          "endSec": 341.6,
+          "text": "start."
+        },
+        {
+          "startSec": 341.6,
+          "endSec": 341.7,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 341.6,
+      "endSec": 346.6,
+      "text": "If you take someone seriously, you consider them important and worthy of your attention.",
+      "words": [
+        {
+          "startSec": 341.6,
+          "endSec": 341.7,
+          "text": "If"
+        },
+        {
+          "startSec": 341.7,
+          "endSec": 341.9,
+          "text": "you"
+        },
+        {
+          "startSec": 341.9,
+          "endSec": 342.1,
+          "text": "take"
+        },
+        {
+          "startSec": 342.1,
+          "endSec": 342.6,
+          "text": "someone"
+        },
+        {
+          "startSec": 342.6,
+          "endSec": 343.3,
+          "text": "seriously,"
+        },
+        {
+          "startSec": 343.3,
+          "endSec": 343.4,
+          "text": "you"
+        },
+        {
+          "startSec": 343.4,
+          "endSec": 344,
+          "text": "consider"
+        },
+        {
+          "startSec": 344,
+          "endSec": 344.2,
+          "text": "them"
+        },
+        {
+          "startSec": 344.2,
+          "endSec": 344.8,
+          "text": "important"
+        },
+        {
+          "startSec": 344.8,
+          "endSec": 345,
+          "text": "and"
+        },
+        {
+          "startSec": 345,
+          "endSec": 345.3,
+          "text": "worthy"
+        },
+        {
+          "startSec": 345.3,
+          "endSec": 345.5,
+          "text": "of"
+        },
+        {
+          "startSec": 345.5,
+          "endSec": 345.7,
+          "text": "your"
+        },
+        {
+          "startSec": 345.7,
+          "endSec": 346.6,
+          "text": "attention."
+        },
+        {
+          "startSec": 346.6,
+          "endSec": 346.8,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 346.6,
+      "endSec": 351.6,
+      "text": "And finally, if you find it hard to pin someone down, it's difficult to find out their specific",
+      "words": [
+        {
+          "startSec": 346.6,
+          "endSec": 346.8,
+          "text": "And"
+        },
+        {
+          "startSec": 346.8,
+          "endSec": 347.3,
+          "text": "finally,"
+        },
+        {
+          "startSec": 347.3,
+          "endSec": 347.5,
+          "text": "if"
+        },
+        {
+          "startSec": 347.5,
+          "endSec": 347.6,
+          "text": "you"
+        },
+        {
+          "startSec": 347.6,
+          "endSec": 347.9,
+          "text": "find"
+        },
+        {
+          "startSec": 347.9,
+          "endSec": 348,
+          "text": "it"
+        },
+        {
+          "startSec": 348,
+          "endSec": 348.3,
+          "text": "hard"
+        },
+        {
+          "startSec": 348.3,
+          "endSec": 348.4,
+          "text": "to"
+        },
+        {
+          "startSec": 348.4,
+          "endSec": 348.6,
+          "text": "pin"
+        },
+        {
+          "startSec": 348.6,
+          "endSec": 349.1,
+          "text": "someone"
+        },
+        {
+          "startSec": 349.1,
+          "endSec": 349.4,
+          "text": "down,"
+        },
+        {
+          "startSec": 349.4,
+          "endSec": 349.7,
+          "text": "it's"
+        },
+        {
+          "startSec": 349.7,
+          "endSec": 350.3,
+          "text": "difficult"
+        },
+        {
+          "startSec": 350.3,
+          "endSec": 350.4,
+          "text": "to"
+        },
+        {
+          "startSec": 350.4,
+          "endSec": 350.7,
+          "text": "find"
+        },
+        {
+          "startSec": 350.7,
+          "endSec": 350.9,
+          "text": "out"
+        },
+        {
+          "startSec": 350.9,
+          "endSec": 351.1,
+          "text": "their"
+        },
+        {
+          "startSec": 351.1,
+          "endSec": 351.6,
+          "text": "specific"
+        },
+        {
+          "startSec": 351.6,
+          "endSec": 352.2,
+          "text": "plans"
+        }
+      ]
+    },
+    {
+      "startSec": 351.6,
+      "endSec": 353.8,
+      "text": "plans and intentions.",
+      "words": [
+        {
+          "startSec": 351.6,
+          "endSec": 352.2,
+          "text": "plans"
+        },
+        {
+          "startSec": 352.2,
+          "endSec": 352.5,
+          "text": "and"
+        },
+        {
+          "startSec": 352.5,
+          "endSec": 353.8,
+          "text": "intentions."
+        },
+        {
+          "startSec": 353.8,
+          "endSec": 354.1,
+          "text": "Once"
+        }
+      ]
+    },
+    {
+      "startSec": 353.8,
+      "endSec": 358.5,
+      "text": "Once again our six minutes are up, but remember you'll find a quiz and worksheet for this",
+      "words": [
+        {
+          "startSec": 353.8,
+          "endSec": 354.1,
+          "text": "Once"
+        },
+        {
+          "startSec": 354.1,
+          "endSec": 354.4,
+          "text": "again"
+        },
+        {
+          "startSec": 354.4,
+          "endSec": 354.6,
+          "text": "our"
+        },
+        {
+          "startSec": 354.6,
+          "endSec": 354.8,
+          "text": "six"
+        },
+        {
+          "startSec": 354.8,
+          "endSec": 355.2,
+          "text": "minutes"
+        },
+        {
+          "startSec": 355.2,
+          "endSec": 355.4,
+          "text": "are"
+        },
+        {
+          "startSec": 355.4,
+          "endSec": 355.7,
+          "text": "up,"
+        },
+        {
+          "startSec": 355.7,
+          "endSec": 355.8,
+          "text": "but"
+        },
+        {
+          "startSec": 355.8,
+          "endSec": 356.4,
+          "text": "remember"
+        },
+        {
+          "startSec": 356.4,
+          "endSec": 356.7,
+          "text": "you'll"
+        },
+        {
+          "startSec": 356.7,
+          "endSec": 357,
+          "text": "find"
+        },
+        {
+          "startSec": 357,
+          "endSec": 357.1,
+          "text": "a"
+        },
+        {
+          "startSec": 357.1,
+          "endSec": 357.3,
+          "text": "quiz"
+        },
+        {
+          "startSec": 357.3,
+          "endSec": 357.5,
+          "text": "and"
+        },
+        {
+          "startSec": 357.5,
+          "endSec": 358.2,
+          "text": "worksheet"
+        },
+        {
+          "startSec": 358.2,
+          "endSec": 358.3,
+          "text": "for"
+        },
+        {
+          "startSec": 358.3,
+          "endSec": 358.5,
+          "text": "this"
+        }
+      ]
+    },
+    {
+      "startSec": 358.5,
+      "endSec": 363,
+      "text": "episode, over on our website, bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 358.6,
+          "endSec": 359.2,
+          "text": "episode,"
+        },
+        {
+          "startSec": 359.2,
+          "endSec": 359.5,
+          "text": "over"
+        },
+        {
+          "startSec": 359.5,
+          "endSec": 359.7,
+          "text": "on"
+        },
+        {
+          "startSec": 359.7,
+          "endSec": 359.9,
+          "text": "our"
+        },
+        {
+          "startSec": 359.9,
+          "endSec": 360.6,
+          "text": "website,"
+        },
+        {
+          "startSec": 360.6,
+          "endSec": 363,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 363,
+          "endSec": 363.1,
+          "text": "See"
+        }
+      ]
+    },
+    {
+      "startSec": 363,
+      "endSec": 364,
+      "text": "See you there soon.",
+      "words": [
+        {
+          "startSec": 363,
+          "endSec": 363.1,
+          "text": "See"
+        },
+        {
+          "startSec": 363.1,
+          "endSec": 363.3,
+          "text": "you"
+        },
+        {
+          "startSec": 363.3,
+          "endSec": 363.6,
+          "text": "there"
+        },
+        {
+          "startSec": 363.6,
+          "endSec": 364,
+          "text": "soon."
+        },
+        {
+          "startSec": 364,
+          "endSec": 365,
+          "text": "Bye."
+        }
+      ]
+    },
+    {
+      "startSec": 364,
+      "endSec": 365,
+      "text": "Bye.",
+      "words": [
+        {
+          "startSec": 364,
+          "endSec": 365,
+          "text": "Bye."
+        },
+        {
+          "startSec": 365,
+          "endSec": 365.5,
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "startSec": 365,
+      "endSec": 365.5,
+      "text": "Goodbye.",
+      "words": [
+        {
+          "startSec": 365,
+          "endSec": 365.5,
+          "text": "Goodbye."
+        }
+      ]
+    }
+  ],
+  "introSec": 0
+}

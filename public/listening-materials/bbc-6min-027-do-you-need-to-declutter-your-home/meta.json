@@ -1,0 +1,6083 @@
+{
+  "title": "Do you need to declutter your home",
+  "source": "BBC 6 Minute English",
+  "level": "intermediate",
+  "durationSec": 379,
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
+  "audioFile": "audio.mp3",
+  "segments": [
+    {
+      "startSec": 0,
+      "endSec": 12.6,
+      "text": "Hello, this is 6 Minute English from BBC Learning English. I'm Neil.",
+      "words": [
+        {
+          "startSec": 0.2,
+          "endSec": 1.5,
+          "text": "Hello,"
+        },
+        {
+          "startSec": 1.5,
+          "endSec": 2.4,
+          "text": "this"
+        },
+        {
+          "startSec": 2.4,
+          "endSec": 2.8,
+          "text": "is"
+        },
+        {
+          "startSec": 2.8,
+          "endSec": 3.5,
+          "text": "6"
+        },
+        {
+          "startSec": 3.5,
+          "endSec": 4.8,
+          "text": "Minute"
+        },
+        {
+          "startSec": 4.8,
+          "endSec": 6.3,
+          "text": "English"
+        },
+        {
+          "startSec": 6.3,
+          "endSec": 7.2,
+          "text": "from"
+        },
+        {
+          "startSec": 7.2,
+          "endSec": 8.3,
+          "text": "BBC"
+        },
+        {
+          "startSec": 8.3,
+          "endSec": 9.5,
+          "text": "Learning"
+        },
+        {
+          "startSec": 9.5,
+          "endSec": 11.8,
+          "text": "English."
+        },
+        {
+          "startSec": 11.8,
+          "endSec": 12,
+          "text": "I'm"
+        },
+        {
+          "startSec": 12,
+          "endSec": 12.6,
+          "text": "Neil."
+        },
+        {
+          "startSec": 12.6,
+          "endSec": 12.8,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 12.6,
+      "endSec": 17.8,
+      "text": "And I'm Georgie. Do you live in a neat and tidy home? Or is there stuff everywhere?",
+      "words": [
+        {
+          "startSec": 12.6,
+          "endSec": 12.8,
+          "text": "And"
+        },
+        {
+          "startSec": 12.8,
+          "endSec": 13,
+          "text": "I'm"
+        },
+        {
+          "startSec": 13,
+          "endSec": 13.6,
+          "text": "Georgie."
+        },
+        {
+          "startSec": 13.6,
+          "endSec": 13.8,
+          "text": "Do"
+        },
+        {
+          "startSec": 13.8,
+          "endSec": 14,
+          "text": "you"
+        },
+        {
+          "startSec": 14,
+          "endSec": 14.3,
+          "text": "live"
+        },
+        {
+          "startSec": 14.3,
+          "endSec": 14.5,
+          "text": "in"
+        },
+        {
+          "startSec": 14.5,
+          "endSec": 14.6,
+          "text": "a"
+        },
+        {
+          "startSec": 14.6,
+          "endSec": 14.9,
+          "text": "neat"
+        },
+        {
+          "startSec": 14.9,
+          "endSec": 15.2,
+          "text": "and"
+        },
+        {
+          "startSec": 15.2,
+          "endSec": 15.5,
+          "text": "tidy"
+        },
+        {
+          "startSec": 15.5,
+          "endSec": 16.1,
+          "text": "home?"
+        },
+        {
+          "startSec": 16.1,
+          "endSec": 16.3,
+          "text": "Or"
+        },
+        {
+          "startSec": 16.3,
+          "endSec": 16.4,
+          "text": "is"
+        },
+        {
+          "startSec": 16.4,
+          "endSec": 16.7,
+          "text": "there"
+        },
+        {
+          "startSec": 16.7,
+          "endSec": 17,
+          "text": "stuff"
+        },
+        {
+          "startSec": 17,
+          "endSec": 17.8,
+          "text": "everywhere?"
+        },
+        {
+          "startSec": 17.8,
+          "endSec": 17.9,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 17.8,
+      "endSec": 22.4,
+      "text": "If your room is filled with heaps of clothes and piles of books, you may have a problem",
+      "words": [
+        {
+          "startSec": 17.8,
+          "endSec": 17.9,
+          "text": "If"
+        },
+        {
+          "startSec": 17.9,
+          "endSec": 18.2,
+          "text": "your"
+        },
+        {
+          "startSec": 18.2,
+          "endSec": 18.5,
+          "text": "room"
+        },
+        {
+          "startSec": 18.5,
+          "endSec": 18.6,
+          "text": "is"
+        },
+        {
+          "startSec": 18.6,
+          "endSec": 19,
+          "text": "filled"
+        },
+        {
+          "startSec": 19,
+          "endSec": 19.2,
+          "text": "with"
+        },
+        {
+          "startSec": 19.2,
+          "endSec": 19.6,
+          "text": "heaps"
+        },
+        {
+          "startSec": 19.6,
+          "endSec": 19.7,
+          "text": "of"
+        },
+        {
+          "startSec": 19.7,
+          "endSec": 20.1,
+          "text": "clothes"
+        },
+        {
+          "startSec": 20.1,
+          "endSec": 20.3,
+          "text": "and"
+        },
+        {
+          "startSec": 20.3,
+          "endSec": 20.6,
+          "text": "piles"
+        },
+        {
+          "startSec": 20.6,
+          "endSec": 20.8,
+          "text": "of"
+        },
+        {
+          "startSec": 20.8,
+          "endSec": 21.2,
+          "text": "books,"
+        },
+        {
+          "startSec": 21.2,
+          "endSec": 21.4,
+          "text": "you"
+        },
+        {
+          "startSec": 21.4,
+          "endSec": 21.6,
+          "text": "may"
+        },
+        {
+          "startSec": 21.6,
+          "endSec": 21.9,
+          "text": "have"
+        },
+        {
+          "startSec": 21.9,
+          "endSec": 21.9,
+          "text": "a"
+        },
+        {
+          "startSec": 21.9,
+          "endSec": 22.4,
+          "text": "problem"
+        },
+        {
+          "startSec": 22.4,
+          "endSec": 22.9,
+          "text": "with"
+        }
+      ]
+    },
+    {
+      "startSec": 22.4,
+      "endSec": 28.5,
+      "text": "with clutter. Things in your home which take up space in an untidy, disorganised way.",
+      "words": [
+        {
+          "startSec": 22.4,
+          "endSec": 22.9,
+          "text": "with"
+        },
+        {
+          "startSec": 22.9,
+          "endSec": 24,
+          "text": "clutter."
+        },
+        {
+          "startSec": 24,
+          "endSec": 24.3,
+          "text": "Things"
+        },
+        {
+          "startSec": 24.3,
+          "endSec": 24.4,
+          "text": "in"
+        },
+        {
+          "startSec": 24.4,
+          "endSec": 24.6,
+          "text": "your"
+        },
+        {
+          "startSec": 24.6,
+          "endSec": 24.8,
+          "text": "home"
+        },
+        {
+          "startSec": 24.8,
+          "endSec": 25.1,
+          "text": "which"
+        },
+        {
+          "startSec": 25.1,
+          "endSec": 25.3,
+          "text": "take"
+        },
+        {
+          "startSec": 25.3,
+          "endSec": 25.4,
+          "text": "up"
+        },
+        {
+          "startSec": 25.4,
+          "endSec": 25.6,
+          "text": "space"
+        },
+        {
+          "startSec": 25.6,
+          "endSec": 25.8,
+          "text": "in"
+        },
+        {
+          "startSec": 25.8,
+          "endSec": 26,
+          "text": "an"
+        },
+        {
+          "startSec": 26,
+          "endSec": 26.7,
+          "text": "untidy,"
+        },
+        {
+          "startSec": 26.7,
+          "endSec": 27.9,
+          "text": "disorganised"
+        },
+        {
+          "startSec": 27.9,
+          "endSec": 28.5,
+          "text": "way."
+        }
+      ]
+    },
+    {
+      "startSec": 28.5,
+      "endSec": 34.3,
+      "text": "Clutter is a common problem. In fact, clutter was the topic of a recent episode of BBC Radio",
+      "words": [
+        {
+          "startSec": 28.6,
+          "endSec": 29.1,
+          "text": "Clutter"
+        },
+        {
+          "startSec": 29.1,
+          "endSec": 29.2,
+          "text": "is"
+        },
+        {
+          "startSec": 29.2,
+          "endSec": 29.3,
+          "text": "a"
+        },
+        {
+          "startSec": 29.3,
+          "endSec": 29.7,
+          "text": "common"
+        },
+        {
+          "startSec": 29.7,
+          "endSec": 30.5,
+          "text": "problem."
+        },
+        {
+          "startSec": 30.5,
+          "endSec": 30.7,
+          "text": "In"
+        },
+        {
+          "startSec": 30.7,
+          "endSec": 31,
+          "text": "fact,"
+        },
+        {
+          "startSec": 31,
+          "endSec": 31.3,
+          "text": "clutter"
+        },
+        {
+          "startSec": 31.3,
+          "endSec": 31.5,
+          "text": "was"
+        },
+        {
+          "startSec": 31.5,
+          "endSec": 31.7,
+          "text": "the"
+        },
+        {
+          "startSec": 31.7,
+          "endSec": 32,
+          "text": "topic"
+        },
+        {
+          "startSec": 32,
+          "endSec": 32.1,
+          "text": "of"
+        },
+        {
+          "startSec": 32.1,
+          "endSec": 32.2,
+          "text": "a"
+        },
+        {
+          "startSec": 32.2,
+          "endSec": 32.6,
+          "text": "recent"
+        },
+        {
+          "startSec": 32.6,
+          "endSec": 33.1,
+          "text": "episode"
+        },
+        {
+          "startSec": 33.1,
+          "endSec": 33.4,
+          "text": "of"
+        },
+        {
+          "startSec": 33.4,
+          "endSec": 33.9,
+          "text": "BBC"
+        },
+        {
+          "startSec": 33.9,
+          "endSec": 34.3,
+          "text": "Radio"
+        },
+        {
+          "startSec": 34.3,
+          "endSec": 34.5,
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "startSec": 34.3,
+      "endSec": 40.3,
+      "text": "4 program Woman's Hour. Here's presenter, Nula McGovern, reading a message from one listener.",
+      "words": [
+        {
+          "startSec": 34.3,
+          "endSec": 34.5,
+          "text": "4"
+        },
+        {
+          "startSec": 34.5,
+          "endSec": 35.1,
+          "text": "program"
+        },
+        {
+          "startSec": 35.1,
+          "endSec": 35.7,
+          "text": "Woman's"
+        },
+        {
+          "startSec": 35.7,
+          "endSec": 36.3,
+          "text": "Hour."
+        },
+        {
+          "startSec": 36.3,
+          "endSec": 36.7,
+          "text": "Here's"
+        },
+        {
+          "startSec": 36.7,
+          "endSec": 37.3,
+          "text": "presenter,"
+        },
+        {
+          "startSec": 37.3,
+          "endSec": 37.5,
+          "text": "Nula"
+        },
+        {
+          "startSec": 37.5,
+          "endSec": 38,
+          "text": "McGovern,"
+        },
+        {
+          "startSec": 38,
+          "endSec": 38.3,
+          "text": "reading"
+        },
+        {
+          "startSec": 38.3,
+          "endSec": 38.4,
+          "text": "a"
+        },
+        {
+          "startSec": 38.4,
+          "endSec": 38.8,
+          "text": "message"
+        },
+        {
+          "startSec": 38.8,
+          "endSec": 39.1,
+          "text": "from"
+        },
+        {
+          "startSec": 39.1,
+          "endSec": 39.3,
+          "text": "one"
+        },
+        {
+          "startSec": 39.3,
+          "endSec": 40.3,
+          "text": "listener."
+        },
+        {
+          "startSec": 40.3,
+          "endSec": 40.6,
+          "text": "Some"
+        }
+      ]
+    },
+    {
+      "startSec": 40.3,
+      "endSec": 44.5,
+      "text": "Some of you have been in touch already to share your thoughts and experiences when it",
+      "words": [
+        {
+          "startSec": 40.3,
+          "endSec": 40.6,
+          "text": "Some"
+        },
+        {
+          "startSec": 40.6,
+          "endSec": 40.7,
+          "text": "of"
+        },
+        {
+          "startSec": 40.7,
+          "endSec": 40.9,
+          "text": "you"
+        },
+        {
+          "startSec": 40.9,
+          "endSec": 41.1,
+          "text": "have"
+        },
+        {
+          "startSec": 41.1,
+          "endSec": 41.3,
+          "text": "been"
+        },
+        {
+          "startSec": 41.3,
+          "endSec": 41.5,
+          "text": "in"
+        },
+        {
+          "startSec": 41.5,
+          "endSec": 41.8,
+          "text": "touch"
+        },
+        {
+          "startSec": 41.8,
+          "endSec": 42.2,
+          "text": "already"
+        },
+        {
+          "startSec": 42.2,
+          "endSec": 42.3,
+          "text": "to"
+        },
+        {
+          "startSec": 42.3,
+          "endSec": 42.6,
+          "text": "share"
+        },
+        {
+          "startSec": 42.6,
+          "endSec": 42.8,
+          "text": "your"
+        },
+        {
+          "startSec": 42.8,
+          "endSec": 43.3,
+          "text": "thoughts"
+        },
+        {
+          "startSec": 43.3,
+          "endSec": 43.5,
+          "text": "and"
+        },
+        {
+          "startSec": 43.5,
+          "endSec": 44.2,
+          "text": "experiences"
+        },
+        {
+          "startSec": 44.2,
+          "endSec": 44.4,
+          "text": "when"
+        },
+        {
+          "startSec": 44.4,
+          "endSec": 44.5,
+          "text": "it"
+        },
+        {
+          "startSec": 44.5,
+          "endSec": 45,
+          "text": "comes"
+        }
+      ]
+    },
+    {
+      "startSec": 44.5,
+      "endSec": 47.1,
+      "text": "comes to clutter. Here is one.",
+      "words": [
+        {
+          "startSec": 44.5,
+          "endSec": 45,
+          "text": "comes"
+        },
+        {
+          "startSec": 45,
+          "endSec": 45.2,
+          "text": "to"
+        },
+        {
+          "startSec": 45.2,
+          "endSec": 46.1,
+          "text": "clutter."
+        },
+        {
+          "startSec": 46.1,
+          "endSec": 46.5,
+          "text": "Here"
+        },
+        {
+          "startSec": 46.5,
+          "endSec": 46.6,
+          "text": "is"
+        },
+        {
+          "startSec": 46.6,
+          "endSec": 47.1,
+          "text": "one."
+        },
+        {
+          "startSec": 47.1,
+          "endSec": 47.3,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 47.1,
+      "endSec": 51.7,
+      "text": "The clutter in my house is actually starting to affect my mental health. I can't think",
+      "words": [
+        {
+          "startSec": 47.1,
+          "endSec": 47.3,
+          "text": "The"
+        },
+        {
+          "startSec": 47.3,
+          "endSec": 47.7,
+          "text": "clutter"
+        },
+        {
+          "startSec": 47.7,
+          "endSec": 47.8,
+          "text": "in"
+        },
+        {
+          "startSec": 47.8,
+          "endSec": 47.9,
+          "text": "my"
+        },
+        {
+          "startSec": 47.9,
+          "endSec": 48.2,
+          "text": "house"
+        },
+        {
+          "startSec": 48.2,
+          "endSec": 48.3,
+          "text": "is"
+        },
+        {
+          "startSec": 48.3,
+          "endSec": 48.7,
+          "text": "actually"
+        },
+        {
+          "startSec": 48.7,
+          "endSec": 49.2,
+          "text": "starting"
+        },
+        {
+          "startSec": 49.2,
+          "endSec": 49.3,
+          "text": "to"
+        },
+        {
+          "startSec": 49.3,
+          "endSec": 49.6,
+          "text": "affect"
+        },
+        {
+          "startSec": 49.6,
+          "endSec": 49.8,
+          "text": "my"
+        },
+        {
+          "startSec": 49.8,
+          "endSec": 50.1,
+          "text": "mental"
+        },
+        {
+          "startSec": 50.1,
+          "endSec": 50.6,
+          "text": "health."
+        },
+        {
+          "startSec": 50.6,
+          "endSec": 50.7,
+          "text": "I"
+        },
+        {
+          "startSec": 50.7,
+          "endSec": 51.2,
+          "text": "can't"
+        },
+        {
+          "startSec": 51.2,
+          "endSec": 51.7,
+          "text": "think"
+        },
+        {
+          "startSec": 51.7,
+          "endSec": 51.9,
+          "text": "or"
+        }
+      ]
+    },
+    {
+      "startSec": 51.7,
+      "endSec": 57.1,
+      "text": "or work anymore. So much so, it woke me at 4am this morning and I felt a strong urge to",
+      "words": [
+        {
+          "startSec": 51.7,
+          "endSec": 51.9,
+          "text": "or"
+        },
+        {
+          "startSec": 51.9,
+          "endSec": 52.3,
+          "text": "work"
+        },
+        {
+          "startSec": 52.3,
+          "endSec": 53.3,
+          "text": "anymore."
+        },
+        {
+          "startSec": 53.3,
+          "endSec": 53.4,
+          "text": "So"
+        },
+        {
+          "startSec": 53.4,
+          "endSec": 53.7,
+          "text": "much"
+        },
+        {
+          "startSec": 53.7,
+          "endSec": 53.9,
+          "text": "so,"
+        },
+        {
+          "startSec": 53.9,
+          "endSec": 54.1,
+          "text": "it"
+        },
+        {
+          "startSec": 54.1,
+          "endSec": 54.3,
+          "text": "woke"
+        },
+        {
+          "startSec": 54.3,
+          "endSec": 54.5,
+          "text": "me"
+        },
+        {
+          "startSec": 54.5,
+          "endSec": 54.6,
+          "text": "at"
+        },
+        {
+          "startSec": 54.6,
+          "endSec": 54.9,
+          "text": "4am"
+        },
+        {
+          "startSec": 54.9,
+          "endSec": 55.2,
+          "text": "this"
+        },
+        {
+          "startSec": 55.2,
+          "endSec": 55.8,
+          "text": "morning"
+        },
+        {
+          "startSec": 55.8,
+          "endSec": 55.9,
+          "text": "and"
+        },
+        {
+          "startSec": 55.9,
+          "endSec": 56,
+          "text": "I"
+        },
+        {
+          "startSec": 56,
+          "endSec": 56.2,
+          "text": "felt"
+        },
+        {
+          "startSec": 56.2,
+          "endSec": 56.3,
+          "text": "a"
+        },
+        {
+          "startSec": 56.3,
+          "endSec": 56.6,
+          "text": "strong"
+        },
+        {
+          "startSec": 56.6,
+          "endSec": 56.9,
+          "text": "urge"
+        },
+        {
+          "startSec": 56.9,
+          "endSec": 57.1,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 57.1,
+      "endSec": 61.8,
+      "text": "tidy. I have given myself a week as I cannot take it anymore.",
+      "words": [
+        {
+          "startSec": 57.2,
+          "endSec": 57.6,
+          "text": "tidy."
+        },
+        {
+          "startSec": 57.6,
+          "endSec": 57.7,
+          "text": "I"
+        },
+        {
+          "startSec": 57.7,
+          "endSec": 58,
+          "text": "have"
+        },
+        {
+          "startSec": 58,
+          "endSec": 58.4,
+          "text": "given"
+        },
+        {
+          "startSec": 58.4,
+          "endSec": 58.9,
+          "text": "myself"
+        },
+        {
+          "startSec": 58.9,
+          "endSec": 58.9,
+          "text": "a"
+        },
+        {
+          "startSec": 58.9,
+          "endSec": 59.2,
+          "text": "week"
+        },
+        {
+          "startSec": 59.2,
+          "endSec": 59.4,
+          "text": "as"
+        },
+        {
+          "startSec": 59.4,
+          "endSec": 59.5,
+          "text": "I"
+        },
+        {
+          "startSec": 59.5,
+          "endSec": 59.9,
+          "text": "cannot"
+        },
+        {
+          "startSec": 59.9,
+          "endSec": 60.3,
+          "text": "take"
+        },
+        {
+          "startSec": 60.3,
+          "endSec": 60.6,
+          "text": "it"
+        },
+        {
+          "startSec": 60.6,
+          "endSec": 61.8,
+          "text": "anymore."
+        },
+        {
+          "startSec": 61.8,
+          "endSec": 62.1,
+          "text": "So,"
+        }
+      ]
+    },
+    {
+      "startSec": 61.8,
+      "endSec": 65,
+      "text": "So, Neil, do you have a problem with clutter?",
+      "words": [
+        {
+          "startSec": 61.8,
+          "endSec": 62.1,
+          "text": "So,"
+        },
+        {
+          "startSec": 62.1,
+          "endSec": 62.6,
+          "text": "Neil,"
+        },
+        {
+          "startSec": 62.6,
+          "endSec": 62.7,
+          "text": "do"
+        },
+        {
+          "startSec": 62.7,
+          "endSec": 62.9,
+          "text": "you"
+        },
+        {
+          "startSec": 62.9,
+          "endSec": 63.2,
+          "text": "have"
+        },
+        {
+          "startSec": 63.2,
+          "endSec": 63.3,
+          "text": "a"
+        },
+        {
+          "startSec": 63.3,
+          "endSec": 63.8,
+          "text": "problem"
+        },
+        {
+          "startSec": 63.8,
+          "endSec": 64.1,
+          "text": "with"
+        },
+        {
+          "startSec": 64.1,
+          "endSec": 65,
+          "text": "clutter?"
+        },
+        {
+          "startSec": 65,
+          "endSec": 65.4,
+          "text": "Well,"
+        }
+      ]
+    },
+    {
+      "startSec": 65,
+      "endSec": 71,
+      "text": "Well, I don't have a problem with clutter, but I live with children and there is clutter",
+      "words": [
+        {
+          "startSec": 65,
+          "endSec": 65.4,
+          "text": "Well,"
+        },
+        {
+          "startSec": 65.4,
+          "endSec": 65.5,
+          "text": "I"
+        },
+        {
+          "startSec": 65.5,
+          "endSec": 65.9,
+          "text": "don't"
+        },
+        {
+          "startSec": 65.9,
+          "endSec": 66.2,
+          "text": "have"
+        },
+        {
+          "startSec": 66.2,
+          "endSec": 66.3,
+          "text": "a"
+        },
+        {
+          "startSec": 66.3,
+          "endSec": 66.9,
+          "text": "problem"
+        },
+        {
+          "startSec": 66.9,
+          "endSec": 67.2,
+          "text": "with"
+        },
+        {
+          "startSec": 67.2,
+          "endSec": 67.9,
+          "text": "clutter,"
+        },
+        {
+          "startSec": 67.9,
+          "endSec": 68.2,
+          "text": "but"
+        },
+        {
+          "startSec": 68.2,
+          "endSec": 68.3,
+          "text": "I"
+        },
+        {
+          "startSec": 68.3,
+          "endSec": 68.6,
+          "text": "live"
+        },
+        {
+          "startSec": 68.6,
+          "endSec": 68.9,
+          "text": "with"
+        },
+        {
+          "startSec": 68.9,
+          "endSec": 69.6,
+          "text": "children"
+        },
+        {
+          "startSec": 69.6,
+          "endSec": 69.8,
+          "text": "and"
+        },
+        {
+          "startSec": 69.8,
+          "endSec": 70.2,
+          "text": "there"
+        },
+        {
+          "startSec": 70.2,
+          "endSec": 70.4,
+          "text": "is"
+        },
+        {
+          "startSec": 70.4,
+          "endSec": 71,
+          "text": "clutter"
+        },
+        {
+          "startSec": 71,
+          "endSec": 71.9,
+          "text": "everywhere"
+        }
+      ]
+    },
+    {
+      "startSec": 71,
+      "endSec": 73.6,
+      "text": "everywhere and it drives me mad.",
+      "words": [
+        {
+          "startSec": 71,
+          "endSec": 71.9,
+          "text": "everywhere"
+        },
+        {
+          "startSec": 71.9,
+          "endSec": 72.2,
+          "text": "and"
+        },
+        {
+          "startSec": 72.2,
+          "endSec": 72.3,
+          "text": "it"
+        },
+        {
+          "startSec": 72.3,
+          "endSec": 72.9,
+          "text": "drives"
+        },
+        {
+          "startSec": 72.9,
+          "endSec": 73,
+          "text": "me"
+        },
+        {
+          "startSec": 73,
+          "endSec": 73.6,
+          "text": "mad."
+        },
+        {
+          "startSec": 73.6,
+          "endSec": 73.9,
+          "text": "Ah,"
+        }
+      ]
+    },
+    {
+      "startSec": 73.6,
+      "endSec": 75.5,
+      "text": "Ah, that's so annoying.",
+      "words": [
+        {
+          "startSec": 73.6,
+          "endSec": 73.9,
+          "text": "Ah,"
+        },
+        {
+          "startSec": 73.9,
+          "endSec": 74.4,
+          "text": "that's"
+        },
+        {
+          "startSec": 74.4,
+          "endSec": 74.5,
+          "text": "so"
+        },
+        {
+          "startSec": 74.5,
+          "endSec": 75.5,
+          "text": "annoying."
+        },
+        {
+          "startSec": 75.5,
+          "endSec": 75.7,
+          "text": "How"
+        }
+      ]
+    },
+    {
+      "startSec": 75.5,
+      "endSec": 76.5,
+      "text": "How about you?",
+      "words": [
+        {
+          "startSec": 75.5,
+          "endSec": 75.7,
+          "text": "How"
+        },
+        {
+          "startSec": 75.7,
+          "endSec": 76,
+          "text": "about"
+        },
+        {
+          "startSec": 76,
+          "endSec": 76.5,
+          "text": "you?"
+        },
+        {
+          "startSec": 76.5,
+          "endSec": 76.8,
+          "text": "Yeah,"
+        }
+      ]
+    },
+    {
+      "startSec": 76.5,
+      "endSec": 80.6,
+      "text": "Yeah, I don't have a problem with clutter. I would describe myself as a minimalist.",
+      "words": [
+        {
+          "startSec": 76.5,
+          "endSec": 76.8,
+          "text": "Yeah,"
+        },
+        {
+          "startSec": 76.8,
+          "endSec": 76.9,
+          "text": "I"
+        },
+        {
+          "startSec": 76.9,
+          "endSec": 77.1,
+          "text": "don't"
+        },
+        {
+          "startSec": 77.1,
+          "endSec": 77.4,
+          "text": "have"
+        },
+        {
+          "startSec": 77.4,
+          "endSec": 77.4,
+          "text": "a"
+        },
+        {
+          "startSec": 77.4,
+          "endSec": 77.8,
+          "text": "problem"
+        },
+        {
+          "startSec": 77.8,
+          "endSec": 78,
+          "text": "with"
+        },
+        {
+          "startSec": 78,
+          "endSec": 78.6,
+          "text": "clutter."
+        },
+        {
+          "startSec": 78.6,
+          "endSec": 78.6,
+          "text": "I"
+        },
+        {
+          "startSec": 78.6,
+          "endSec": 78.9,
+          "text": "would"
+        },
+        {
+          "startSec": 78.9,
+          "endSec": 79.3,
+          "text": "describe"
+        },
+        {
+          "startSec": 79.3,
+          "endSec": 79.7,
+          "text": "myself"
+        },
+        {
+          "startSec": 79.7,
+          "endSec": 79.8,
+          "text": "as"
+        },
+        {
+          "startSec": 79.8,
+          "endSec": 79.8,
+          "text": "a"
+        },
+        {
+          "startSec": 79.8,
+          "endSec": 80.6,
+          "text": "minimalist."
+        },
+        {
+          "startSec": 80.6,
+          "endSec": 80.7,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 80.6,
+      "endSec": 82.3,
+      "text": "I don't have very much stuff.",
+      "words": [
+        {
+          "startSec": 80.6,
+          "endSec": 80.7,
+          "text": "I"
+        },
+        {
+          "startSec": 80.7,
+          "endSec": 81,
+          "text": "don't"
+        },
+        {
+          "startSec": 81,
+          "endSec": 81.3,
+          "text": "have"
+        },
+        {
+          "startSec": 81.3,
+          "endSec": 81.5,
+          "text": "very"
+        },
+        {
+          "startSec": 81.5,
+          "endSec": 81.8,
+          "text": "much"
+        },
+        {
+          "startSec": 81.8,
+          "endSec": 82.3,
+          "text": "stuff."
+        },
+        {
+          "startSec": 82.3,
+          "endSec": 82.6,
+          "text": "Ah,"
+        }
+      ]
+    },
+    {
+      "startSec": 82.3,
+      "endSec": 83.9,
+      "text": "Ah, very efficient.",
+      "words": [
+        {
+          "startSec": 82.3,
+          "endSec": 82.6,
+          "text": "Ah,"
+        },
+        {
+          "startSec": 82.6,
+          "endSec": 82.9,
+          "text": "very"
+        },
+        {
+          "startSec": 82.9,
+          "endSec": 83.9,
+          "text": "efficient."
+        }
+      ]
+    },
+    {
+      "startSec": 83.9,
+      "endSec": 89.8,
+      "text": "Yes. So we don't have a problem with clutter, but if you do, there's a simple solution.",
+      "words": [
+        {
+          "startSec": 84,
+          "endSec": 84.4,
+          "text": "Yes."
+        },
+        {
+          "startSec": 84.4,
+          "endSec": 84.6,
+          "text": "So"
+        },
+        {
+          "startSec": 84.6,
+          "endSec": 84.7,
+          "text": "we"
+        },
+        {
+          "startSec": 84.7,
+          "endSec": 85.1,
+          "text": "don't"
+        },
+        {
+          "startSec": 85.1,
+          "endSec": 85.4,
+          "text": "have"
+        },
+        {
+          "startSec": 85.4,
+          "endSec": 85.5,
+          "text": "a"
+        },
+        {
+          "startSec": 85.5,
+          "endSec": 86.1,
+          "text": "problem"
+        },
+        {
+          "startSec": 86.1,
+          "endSec": 86.4,
+          "text": "with"
+        },
+        {
+          "startSec": 86.4,
+          "endSec": 87.1,
+          "text": "clutter,"
+        },
+        {
+          "startSec": 87.1,
+          "endSec": 87.2,
+          "text": "but"
+        },
+        {
+          "startSec": 87.2,
+          "endSec": 87.3,
+          "text": "if"
+        },
+        {
+          "startSec": 87.3,
+          "endSec": 87.5,
+          "text": "you"
+        },
+        {
+          "startSec": 87.5,
+          "endSec": 87.8,
+          "text": "do,"
+        },
+        {
+          "startSec": 87.8,
+          "endSec": 88.4,
+          "text": "there's"
+        },
+        {
+          "startSec": 88.4,
+          "endSec": 88.4,
+          "text": "a"
+        },
+        {
+          "startSec": 88.4,
+          "endSec": 88.9,
+          "text": "simple"
+        },
+        {
+          "startSec": 88.9,
+          "endSec": 89.8,
+          "text": "solution."
+        },
+        {
+          "startSec": 89.8,
+          "endSec": 90.6,
+          "text": "Decluttering"
+        }
+      ]
+    },
+    {
+      "startSec": 89.8,
+      "endSec": 94.9,
+      "text": "Decluttering or throwing away some of the unused stuff filling our homes. But deciding what",
+      "words": [
+        {
+          "startSec": 89.8,
+          "endSec": 90.6,
+          "text": "Decluttering"
+        },
+        {
+          "startSec": 90.6,
+          "endSec": 90.7,
+          "text": "or"
+        },
+        {
+          "startSec": 90.7,
+          "endSec": 91.3,
+          "text": "throwing"
+        },
+        {
+          "startSec": 91.3,
+          "endSec": 91.6,
+          "text": "away"
+        },
+        {
+          "startSec": 91.6,
+          "endSec": 91.9,
+          "text": "some"
+        },
+        {
+          "startSec": 91.9,
+          "endSec": 92,
+          "text": "of"
+        },
+        {
+          "startSec": 92,
+          "endSec": 92.2,
+          "text": "the"
+        },
+        {
+          "startSec": 92.2,
+          "endSec": 92.6,
+          "text": "unused"
+        },
+        {
+          "startSec": 92.6,
+          "endSec": 93,
+          "text": "stuff"
+        },
+        {
+          "startSec": 93,
+          "endSec": 93.5,
+          "text": "filling"
+        },
+        {
+          "startSec": 93.5,
+          "endSec": 93.7,
+          "text": "our"
+        },
+        {
+          "startSec": 93.7,
+          "endSec": 94.3,
+          "text": "homes."
+        },
+        {
+          "startSec": 94.3,
+          "endSec": 94.4,
+          "text": "But"
+        },
+        {
+          "startSec": 94.4,
+          "endSec": 94.8,
+          "text": "deciding"
+        },
+        {
+          "startSec": 94.8,
+          "endSec": 94.9,
+          "text": "what"
+        },
+        {
+          "startSec": 94.9,
+          "endSec": 95.1,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 94.9,
+      "endSec": 98.2,
+      "text": "to keep and what to throw away is not so easy.",
+      "words": [
+        {
+          "startSec": 94.9,
+          "endSec": 95.1,
+          "text": "to"
+        },
+        {
+          "startSec": 95.1,
+          "endSec": 95.4,
+          "text": "keep"
+        },
+        {
+          "startSec": 95.4,
+          "endSec": 95.7,
+          "text": "and"
+        },
+        {
+          "startSec": 95.7,
+          "endSec": 96,
+          "text": "what"
+        },
+        {
+          "startSec": 96,
+          "endSec": 96.2,
+          "text": "to"
+        },
+        {
+          "startSec": 96.2,
+          "endSec": 96.6,
+          "text": "throw"
+        },
+        {
+          "startSec": 96.6,
+          "endSec": 97,
+          "text": "away"
+        },
+        {
+          "startSec": 97,
+          "endSec": 97.1,
+          "text": "is"
+        },
+        {
+          "startSec": 97.1,
+          "endSec": 97.4,
+          "text": "not"
+        },
+        {
+          "startSec": 97.4,
+          "endSec": 97.6,
+          "text": "so"
+        },
+        {
+          "startSec": 97.6,
+          "endSec": 98.2,
+          "text": "easy."
+        },
+        {
+          "startSec": 98.2,
+          "endSec": 98.4,
+          "text": "So"
+        }
+      ]
+    },
+    {
+      "startSec": 98.2,
+      "endSec": 102.7,
+      "text": "So in this episode, we'll hear some advice on keeping your life clutter free along with",
+      "words": [
+        {
+          "startSec": 98.2,
+          "endSec": 98.4,
+          "text": "So"
+        },
+        {
+          "startSec": 98.4,
+          "endSec": 98.5,
+          "text": "in"
+        },
+        {
+          "startSec": 98.5,
+          "endSec": 98.7,
+          "text": "this"
+        },
+        {
+          "startSec": 98.7,
+          "endSec": 99.3,
+          "text": "episode,"
+        },
+        {
+          "startSec": 99.3,
+          "endSec": 99.6,
+          "text": "we'll"
+        },
+        {
+          "startSec": 99.6,
+          "endSec": 99.8,
+          "text": "hear"
+        },
+        {
+          "startSec": 99.8,
+          "endSec": 100,
+          "text": "some"
+        },
+        {
+          "startSec": 100,
+          "endSec": 100.4,
+          "text": "advice"
+        },
+        {
+          "startSec": 100.4,
+          "endSec": 100.5,
+          "text": "on"
+        },
+        {
+          "startSec": 100.5,
+          "endSec": 100.9,
+          "text": "keeping"
+        },
+        {
+          "startSec": 100.9,
+          "endSec": 101.2,
+          "text": "your"
+        },
+        {
+          "startSec": 101.2,
+          "endSec": 101.4,
+          "text": "life"
+        },
+        {
+          "startSec": 101.4,
+          "endSec": 101.8,
+          "text": "clutter"
+        },
+        {
+          "startSec": 101.8,
+          "endSec": 102.1,
+          "text": "free"
+        },
+        {
+          "startSec": 102.1,
+          "endSec": 102.4,
+          "text": "along"
+        },
+        {
+          "startSec": 102.4,
+          "endSec": 102.7,
+          "text": "with"
+        },
+        {
+          "startSec": 102.7,
+          "endSec": 103,
+          "text": "some"
+        }
+      ]
+    },
+    {
+      "startSec": 102.7,
+      "endSec": 108.6,
+      "text": "some useful new words and phrases. And remember, you can find all the vocabulary for this program",
+      "words": [
+        {
+          "startSec": 102.7,
+          "endSec": 103,
+          "text": "some"
+        },
+        {
+          "startSec": 103,
+          "endSec": 103.5,
+          "text": "useful"
+        },
+        {
+          "startSec": 103.5,
+          "endSec": 103.8,
+          "text": "new"
+        },
+        {
+          "startSec": 103.8,
+          "endSec": 104.2,
+          "text": "words"
+        },
+        {
+          "startSec": 104.2,
+          "endSec": 104.4,
+          "text": "and"
+        },
+        {
+          "startSec": 104.4,
+          "endSec": 105.2,
+          "text": "phrases."
+        },
+        {
+          "startSec": 105.2,
+          "endSec": 105.4,
+          "text": "And"
+        },
+        {
+          "startSec": 105.4,
+          "endSec": 106,
+          "text": "remember,"
+        },
+        {
+          "startSec": 106,
+          "endSec": 106.1,
+          "text": "you"
+        },
+        {
+          "startSec": 106.1,
+          "endSec": 106.3,
+          "text": "can"
+        },
+        {
+          "startSec": 106.3,
+          "endSec": 106.5,
+          "text": "find"
+        },
+        {
+          "startSec": 106.5,
+          "endSec": 106.7,
+          "text": "all"
+        },
+        {
+          "startSec": 106.7,
+          "endSec": 106.9,
+          "text": "the"
+        },
+        {
+          "startSec": 106.9,
+          "endSec": 107.5,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 107.5,
+          "endSec": 107.6,
+          "text": "for"
+        },
+        {
+          "startSec": 107.6,
+          "endSec": 107.8,
+          "text": "this"
+        },
+        {
+          "startSec": 107.8,
+          "endSec": 108.6,
+          "text": "program"
+        }
+      ]
+    },
+    {
+      "startSec": 108.6,
+      "endSec": 114.1,
+      "text": "along with a quiz and worksheet on our website, bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 108.7,
+          "endSec": 109,
+          "text": "along"
+        },
+        {
+          "startSec": 109,
+          "endSec": 109.3,
+          "text": "with"
+        },
+        {
+          "startSec": 109.3,
+          "endSec": 109.4,
+          "text": "a"
+        },
+        {
+          "startSec": 109.4,
+          "endSec": 109.8,
+          "text": "quiz"
+        },
+        {
+          "startSec": 109.8,
+          "endSec": 110,
+          "text": "and"
+        },
+        {
+          "startSec": 110,
+          "endSec": 110.7,
+          "text": "worksheet"
+        },
+        {
+          "startSec": 110.7,
+          "endSec": 110.9,
+          "text": "on"
+        },
+        {
+          "startSec": 110.9,
+          "endSec": 111.1,
+          "text": "our"
+        },
+        {
+          "startSec": 111.1,
+          "endSec": 111.9,
+          "text": "website,"
+        },
+        {
+          "startSec": 111.9,
+          "endSec": 114.1,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 114.1,
+          "endSec": 114.4,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 114.1,
+      "endSec": 119.2,
+      "text": "But first, I have a question for you, Georgie. Decluttering was popularised by Marie Kondo's",
+      "words": [
+        {
+          "startSec": 114.1,
+          "endSec": 114.4,
+          "text": "But"
+        },
+        {
+          "startSec": 114.4,
+          "endSec": 114.9,
+          "text": "first,"
+        },
+        {
+          "startSec": 114.9,
+          "endSec": 115,
+          "text": "I"
+        },
+        {
+          "startSec": 115,
+          "endSec": 115.3,
+          "text": "have"
+        },
+        {
+          "startSec": 115.3,
+          "endSec": 115.3,
+          "text": "a"
+        },
+        {
+          "startSec": 115.3,
+          "endSec": 115.9,
+          "text": "question"
+        },
+        {
+          "startSec": 115.9,
+          "endSec": 116.2,
+          "text": "for"
+        },
+        {
+          "startSec": 116.2,
+          "endSec": 116.6,
+          "text": "you,"
+        },
+        {
+          "startSec": 116.6,
+          "endSec": 117.4,
+          "text": "Georgie."
+        },
+        {
+          "startSec": 117.4,
+          "endSec": 117.9,
+          "text": "Decluttering"
+        },
+        {
+          "startSec": 117.9,
+          "endSec": 118.1,
+          "text": "was"
+        },
+        {
+          "startSec": 118.1,
+          "endSec": 118.6,
+          "text": "popularised"
+        },
+        {
+          "startSec": 118.6,
+          "endSec": 118.7,
+          "text": "by"
+        },
+        {
+          "startSec": 118.7,
+          "endSec": 118.9,
+          "text": "Marie"
+        },
+        {
+          "startSec": 118.9,
+          "endSec": 119.2,
+          "text": "Kondo's"
+        },
+        {
+          "startSec": 119.2,
+          "endSec": 120.3,
+          "text": "best-selling"
+        }
+      ]
+    },
+    {
+      "startSec": 119.2,
+      "endSec": 124.7,
+      "text": "best-selling 2011 book, The Life Changing Magic of Tiding Up.",
+      "words": [
+        {
+          "startSec": 119.2,
+          "endSec": 120.3,
+          "text": "best-selling"
+        },
+        {
+          "startSec": 120.3,
+          "endSec": 121.3,
+          "text": "2011"
+        },
+        {
+          "startSec": 121.3,
+          "endSec": 121.8,
+          "text": "book,"
+        },
+        {
+          "startSec": 121.8,
+          "endSec": 122.1,
+          "text": "The"
+        },
+        {
+          "startSec": 122.1,
+          "endSec": 122.4,
+          "text": "Life"
+        },
+        {
+          "startSec": 122.4,
+          "endSec": 123.1,
+          "text": "Changing"
+        },
+        {
+          "startSec": 123.1,
+          "endSec": 123.5,
+          "text": "Magic"
+        },
+        {
+          "startSec": 123.5,
+          "endSec": 123.7,
+          "text": "of"
+        },
+        {
+          "startSec": 123.7,
+          "endSec": 124.2,
+          "text": "Tiding"
+        },
+        {
+          "startSec": 124.2,
+          "endSec": 124.7,
+          "text": "Up."
+        },
+        {
+          "startSec": 124.7,
+          "endSec": 124.8,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 124.7,
+      "endSec": 126.7,
+      "text": "And there's still lots of interest today.",
+      "words": [
+        {
+          "startSec": 124.7,
+          "endSec": 124.8,
+          "text": "And"
+        },
+        {
+          "startSec": 124.8,
+          "endSec": 125.2,
+          "text": "there's"
+        },
+        {
+          "startSec": 125.2,
+          "endSec": 125.5,
+          "text": "still"
+        },
+        {
+          "startSec": 125.5,
+          "endSec": 125.7,
+          "text": "lots"
+        },
+        {
+          "startSec": 125.7,
+          "endSec": 125.8,
+          "text": "of"
+        },
+        {
+          "startSec": 125.8,
+          "endSec": 126.3,
+          "text": "interest"
+        },
+        {
+          "startSec": 126.3,
+          "endSec": 126.7,
+          "text": "today."
+        },
+        {
+          "startSec": 126.7,
+          "endSec": 126.9,
+          "text": "So"
+        }
+      ]
+    },
+    {
+      "startSec": 126.7,
+      "endSec": 132.9,
+      "text": "So how many Instagram posts can you currently find under the hashtag Declutter?",
+      "words": [
+        {
+          "startSec": 126.7,
+          "endSec": 126.9,
+          "text": "So"
+        },
+        {
+          "startSec": 126.9,
+          "endSec": 127.2,
+          "text": "how"
+        },
+        {
+          "startSec": 127.2,
+          "endSec": 127.5,
+          "text": "many"
+        },
+        {
+          "startSec": 127.5,
+          "endSec": 128.3,
+          "text": "Instagram"
+        },
+        {
+          "startSec": 128.3,
+          "endSec": 128.7,
+          "text": "posts"
+        },
+        {
+          "startSec": 128.7,
+          "endSec": 129,
+          "text": "can"
+        },
+        {
+          "startSec": 129,
+          "endSec": 129.3,
+          "text": "you"
+        },
+        {
+          "startSec": 129.3,
+          "endSec": 130.1,
+          "text": "currently"
+        },
+        {
+          "startSec": 130.1,
+          "endSec": 130.4,
+          "text": "find"
+        },
+        {
+          "startSec": 130.4,
+          "endSec": 130.9,
+          "text": "under"
+        },
+        {
+          "startSec": 130.9,
+          "endSec": 131.1,
+          "text": "the"
+        },
+        {
+          "startSec": 131.1,
+          "endSec": 131.7,
+          "text": "hashtag"
+        },
+        {
+          "startSec": 131.7,
+          "endSec": 132.9,
+          "text": "Declutter?"
+        },
+        {
+          "startSec": 132.9,
+          "endSec": 133.1,
+          "text": "Is"
+        }
+      ]
+    },
+    {
+      "startSec": 132.9,
+      "endSec": 139.5,
+      "text": "Is it A) 2.6000, B) 2.6 million, or C) 26 million?",
+      "words": [
+        {
+          "startSec": 132.9,
+          "endSec": 133.1,
+          "text": "Is"
+        },
+        {
+          "startSec": 133.1,
+          "endSec": 133.3,
+          "text": "it"
+        },
+        {
+          "startSec": 133.3,
+          "endSec": 133.5,
+          "text": "A)"
+        },
+        {
+          "startSec": 133.5,
+          "endSec": 135.5,
+          "text": "2.6000,"
+        },
+        {
+          "startSec": 135.5,
+          "endSec": 135.7,
+          "text": "B)"
+        },
+        {
+          "startSec": 135.7,
+          "endSec": 136.6,
+          "text": "2.6"
+        },
+        {
+          "startSec": 136.6,
+          "endSec": 137.5,
+          "text": "million,"
+        },
+        {
+          "startSec": 137.5,
+          "endSec": 137.7,
+          "text": "or"
+        },
+        {
+          "startSec": 137.7,
+          "endSec": 137.9,
+          "text": "C)"
+        },
+        {
+          "startSec": 137.9,
+          "endSec": 138.5,
+          "text": "26"
+        },
+        {
+          "startSec": 138.5,
+          "endSec": 139.5,
+          "text": "million?"
+        },
+        {
+          "startSec": 139.5,
+          "endSec": 139.8,
+          "text": "I'm"
+        }
+      ]
+    },
+    {
+      "startSec": 139.5,
+      "endSec": 144.4,
+      "text": "I'm going to go in the middle and say B) 2.6 million.",
+      "words": [
+        {
+          "startSec": 139.5,
+          "endSec": 139.8,
+          "text": "I'm"
+        },
+        {
+          "startSec": 139.8,
+          "endSec": 140.3,
+          "text": "going"
+        },
+        {
+          "startSec": 140.3,
+          "endSec": 140.5,
+          "text": "to"
+        },
+        {
+          "startSec": 140.5,
+          "endSec": 140.7,
+          "text": "go"
+        },
+        {
+          "startSec": 140.7,
+          "endSec": 140.9,
+          "text": "in"
+        },
+        {
+          "startSec": 140.9,
+          "endSec": 141.2,
+          "text": "the"
+        },
+        {
+          "startSec": 141.2,
+          "endSec": 141.7,
+          "text": "middle"
+        },
+        {
+          "startSec": 141.7,
+          "endSec": 142,
+          "text": "and"
+        },
+        {
+          "startSec": 142,
+          "endSec": 142.3,
+          "text": "say"
+        },
+        {
+          "startSec": 142.3,
+          "endSec": 142.5,
+          "text": "B)"
+        },
+        {
+          "startSec": 142.5,
+          "endSec": 143.4,
+          "text": "2.6"
+        },
+        {
+          "startSec": 143.4,
+          "endSec": 144.4,
+          "text": "million."
+        },
+        {
+          "startSec": 144.4,
+          "endSec": 144.9,
+          "text": "Okay,"
+        }
+      ]
+    },
+    {
+      "startSec": 144.4,
+      "endSec": 148.3,
+      "text": "Okay, we'll find out the answer at the end of the program.",
+      "words": [
+        {
+          "startSec": 144.4,
+          "endSec": 144.9,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 144.9,
+          "endSec": 145.3,
+          "text": "we'll"
+        },
+        {
+          "startSec": 145.3,
+          "endSec": 145.6,
+          "text": "find"
+        },
+        {
+          "startSec": 145.6,
+          "endSec": 145.8,
+          "text": "out"
+        },
+        {
+          "startSec": 145.8,
+          "endSec": 146,
+          "text": "the"
+        },
+        {
+          "startSec": 146,
+          "endSec": 146.5,
+          "text": "answer"
+        },
+        {
+          "startSec": 146.5,
+          "endSec": 146.6,
+          "text": "at"
+        },
+        {
+          "startSec": 146.6,
+          "endSec": 146.9,
+          "text": "the"
+        },
+        {
+          "startSec": 146.9,
+          "endSec": 147.1,
+          "text": "end"
+        },
+        {
+          "startSec": 147.1,
+          "endSec": 147.2,
+          "text": "of"
+        },
+        {
+          "startSec": 147.2,
+          "endSec": 147.5,
+          "text": "the"
+        },
+        {
+          "startSec": 147.5,
+          "endSec": 148.3,
+          "text": "program."
+        },
+        {
+          "startSec": 148.3,
+          "endSec": 148.4,
+          "text": "As"
+        }
+      ]
+    },
+    {
+      "startSec": 148.3,
+      "endSec": 153.3,
+      "text": "As well as social media, decluttering has become popular with television shows, including the",
+      "words": [
+        {
+          "startSec": 148.3,
+          "endSec": 148.4,
+          "text": "As"
+        },
+        {
+          "startSec": 148.4,
+          "endSec": 148.6,
+          "text": "well"
+        },
+        {
+          "startSec": 148.6,
+          "endSec": 148.8,
+          "text": "as"
+        },
+        {
+          "startSec": 148.8,
+          "endSec": 149.1,
+          "text": "social"
+        },
+        {
+          "startSec": 149.1,
+          "endSec": 149.5,
+          "text": "media,"
+        },
+        {
+          "startSec": 149.5,
+          "endSec": 150.3,
+          "text": "decluttering"
+        },
+        {
+          "startSec": 150.3,
+          "endSec": 150.4,
+          "text": "has"
+        },
+        {
+          "startSec": 150.4,
+          "endSec": 150.8,
+          "text": "become"
+        },
+        {
+          "startSec": 150.8,
+          "endSec": 151.2,
+          "text": "popular"
+        },
+        {
+          "startSec": 151.2,
+          "endSec": 151.5,
+          "text": "with"
+        },
+        {
+          "startSec": 151.5,
+          "endSec": 152.1,
+          "text": "television"
+        },
+        {
+          "startSec": 152.1,
+          "endSec": 152.5,
+          "text": "shows,"
+        },
+        {
+          "startSec": 152.5,
+          "endSec": 153.1,
+          "text": "including"
+        },
+        {
+          "startSec": 153.1,
+          "endSec": 153.3,
+          "text": "the"
+        },
+        {
+          "startSec": 153.3,
+          "endSec": 153.8,
+          "text": "BBC's"
+        }
+      ]
+    },
+    {
+      "startSec": 153.3,
+      "endSec": 156.1,
+      "text": "BBC's Interior Design Masters.",
+      "words": [
+        {
+          "startSec": 153.3,
+          "endSec": 153.8,
+          "text": "BBC's"
+        },
+        {
+          "startSec": 153.8,
+          "endSec": 154.6,
+          "text": "Interior"
+        },
+        {
+          "startSec": 154.6,
+          "endSec": 155.1,
+          "text": "Design"
+        },
+        {
+          "startSec": 155.1,
+          "endSec": 156.1,
+          "text": "Masters."
+        },
+        {
+          "startSec": 156.1,
+          "endSec": 156.5,
+          "text": "Here,"
+        }
+      ]
+    },
+    {
+      "startSec": 156.1,
+      "endSec": 161.2,
+      "text": "Here, one of the show's judges, Michelle O'Gunderhin, tells BBC Radio 4's Woman's",
+      "words": [
+        {
+          "startSec": 156.1,
+          "endSec": 156.5,
+          "text": "Here,"
+        },
+        {
+          "startSec": 156.5,
+          "endSec": 156.7,
+          "text": "one"
+        },
+        {
+          "startSec": 156.7,
+          "endSec": 156.8,
+          "text": "of"
+        },
+        {
+          "startSec": 156.8,
+          "endSec": 157,
+          "text": "the"
+        },
+        {
+          "startSec": 157,
+          "endSec": 157.4,
+          "text": "show's"
+        },
+        {
+          "startSec": 157.4,
+          "endSec": 158,
+          "text": "judges,"
+        },
+        {
+          "startSec": 158,
+          "endSec": 158.5,
+          "text": "Michelle"
+        },
+        {
+          "startSec": 158.5,
+          "endSec": 159.4,
+          "text": "O'Gunderhin,"
+        },
+        {
+          "startSec": 159.4,
+          "endSec": 159.7,
+          "text": "tells"
+        },
+        {
+          "startSec": 159.7,
+          "endSec": 159.9,
+          "text": "BBC"
+        },
+        {
+          "startSec": 159.9,
+          "endSec": 160.2,
+          "text": "Radio"
+        },
+        {
+          "startSec": 160.2,
+          "endSec": 160.6,
+          "text": "4's"
+        },
+        {
+          "startSec": 160.6,
+          "endSec": 161.2,
+          "text": "Woman's"
+        }
+      ]
+    },
+    {
+      "startSec": 161.2,
+      "endSec": 164.4,
+      "text": "Hour why she thinks Clutter is such a problem.",
+      "words": [
+        {
+          "startSec": 161.3,
+          "endSec": 161.6,
+          "text": "Hour"
+        },
+        {
+          "startSec": 161.6,
+          "endSec": 161.8,
+          "text": "why"
+        },
+        {
+          "startSec": 161.8,
+          "endSec": 162,
+          "text": "she"
+        },
+        {
+          "startSec": 162,
+          "endSec": 162.5,
+          "text": "thinks"
+        },
+        {
+          "startSec": 162.5,
+          "endSec": 163,
+          "text": "Clutter"
+        },
+        {
+          "startSec": 163,
+          "endSec": 163.2,
+          "text": "is"
+        },
+        {
+          "startSec": 163.2,
+          "endSec": 163.5,
+          "text": "such"
+        },
+        {
+          "startSec": 163.5,
+          "endSec": 163.6,
+          "text": "a"
+        },
+        {
+          "startSec": 163.6,
+          "endSec": 164.4,
+          "text": "problem."
+        },
+        {
+          "startSec": 164.4,
+          "endSec": 164.9,
+          "text": "\"Visual"
+        }
+      ]
+    },
+    {
+      "startSec": 164.4,
+      "endSec": 169.7,
+      "text": "\"Visual Clutter is more exhausting than we realise. It's not just stuff. Our brains",
+      "words": [
+        {
+          "startSec": 164.4,
+          "endSec": 164.9,
+          "text": "\"Visual"
+        },
+        {
+          "startSec": 164.9,
+          "endSec": 165.4,
+          "text": "Clutter"
+        },
+        {
+          "startSec": 165.4,
+          "endSec": 165.5,
+          "text": "is"
+        },
+        {
+          "startSec": 165.5,
+          "endSec": 165.8,
+          "text": "more"
+        },
+        {
+          "startSec": 165.8,
+          "endSec": 166.5,
+          "text": "exhausting"
+        },
+        {
+          "startSec": 166.5,
+          "endSec": 166.8,
+          "text": "than"
+        },
+        {
+          "startSec": 166.8,
+          "endSec": 167,
+          "text": "we"
+        },
+        {
+          "startSec": 167,
+          "endSec": 167.8,
+          "text": "realise."
+        },
+        {
+          "startSec": 167.8,
+          "endSec": 168,
+          "text": "It's"
+        },
+        {
+          "startSec": 168,
+          "endSec": 168.2,
+          "text": "not"
+        },
+        {
+          "startSec": 168.2,
+          "endSec": 168.5,
+          "text": "just"
+        },
+        {
+          "startSec": 168.5,
+          "endSec": 169,
+          "text": "stuff."
+        },
+        {
+          "startSec": 169,
+          "endSec": 169.3,
+          "text": "Our"
+        },
+        {
+          "startSec": 169.3,
+          "endSec": 169.7,
+          "text": "brains"
+        },
+        {
+          "startSec": 169.7,
+          "endSec": 169.9,
+          "text": "are"
+        }
+      ]
+    },
+    {
+      "startSec": 169.7,
+      "endSec": 174,
+      "text": "are constantly processing our surroundings. So they have to work overtime if they're",
+      "words": [
+        {
+          "startSec": 169.7,
+          "endSec": 169.9,
+          "text": "are"
+        },
+        {
+          "startSec": 169.9,
+          "endSec": 170.4,
+          "text": "constantly"
+        },
+        {
+          "startSec": 170.4,
+          "endSec": 171,
+          "text": "processing"
+        },
+        {
+          "startSec": 171,
+          "endSec": 171.2,
+          "text": "our"
+        },
+        {
+          "startSec": 171.2,
+          "endSec": 172.1,
+          "text": "surroundings."
+        },
+        {
+          "startSec": 172.1,
+          "endSec": 172.2,
+          "text": "So"
+        },
+        {
+          "startSec": 172.2,
+          "endSec": 172.4,
+          "text": "they"
+        },
+        {
+          "startSec": 172.4,
+          "endSec": 172.7,
+          "text": "have"
+        },
+        {
+          "startSec": 172.7,
+          "endSec": 172.8,
+          "text": "to"
+        },
+        {
+          "startSec": 172.8,
+          "endSec": 173,
+          "text": "work"
+        },
+        {
+          "startSec": 173,
+          "endSec": 173.5,
+          "text": "overtime"
+        },
+        {
+          "startSec": 173.5,
+          "endSec": 173.6,
+          "text": "if"
+        },
+        {
+          "startSec": 173.6,
+          "endSec": 174,
+          "text": "they're"
+        },
+        {
+          "startSec": 174,
+          "endSec": 174.9,
+          "text": "surrounded"
+        }
+      ]
+    },
+    {
+      "startSec": 174,
+      "endSec": 180,
+      "text": "surrounded by chaos. So if you feel drained or exhausted at home, it could be your clutter.",
+      "words": [
+        {
+          "startSec": 174,
+          "endSec": 174.9,
+          "text": "surrounded"
+        },
+        {
+          "startSec": 174.9,
+          "endSec": 175.1,
+          "text": "by"
+        },
+        {
+          "startSec": 175.1,
+          "endSec": 175.8,
+          "text": "chaos."
+        },
+        {
+          "startSec": 175.8,
+          "endSec": 176,
+          "text": "So"
+        },
+        {
+          "startSec": 176,
+          "endSec": 176.2,
+          "text": "if"
+        },
+        {
+          "startSec": 176.2,
+          "endSec": 176.4,
+          "text": "you"
+        },
+        {
+          "startSec": 176.4,
+          "endSec": 176.7,
+          "text": "feel"
+        },
+        {
+          "startSec": 176.7,
+          "endSec": 177.3,
+          "text": "drained"
+        },
+        {
+          "startSec": 177.3,
+          "endSec": 177.4,
+          "text": "or"
+        },
+        {
+          "startSec": 177.4,
+          "endSec": 178.2,
+          "text": "exhausted"
+        },
+        {
+          "startSec": 178.2,
+          "endSec": 178.3,
+          "text": "at"
+        },
+        {
+          "startSec": 178.3,
+          "endSec": 178.8,
+          "text": "home,"
+        },
+        {
+          "startSec": 178.8,
+          "endSec": 178.9,
+          "text": "it"
+        },
+        {
+          "startSec": 178.9,
+          "endSec": 179.2,
+          "text": "could"
+        },
+        {
+          "startSec": 179.2,
+          "endSec": 179.3,
+          "text": "be"
+        },
+        {
+          "startSec": 179.3,
+          "endSec": 179.5,
+          "text": "your"
+        },
+        {
+          "startSec": 179.5,
+          "endSec": 180,
+          "text": "clutter."
+        },
+        {
+          "startSec": 180,
+          "endSec": 180.1,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 180,
+      "endSec": 186.1,
+      "text": "I mean, we know that homily, clear space, clear mind. And I promise you that when you",
+      "words": [
+        {
+          "startSec": 180,
+          "endSec": 180.1,
+          "text": "I"
+        },
+        {
+          "startSec": 180.1,
+          "endSec": 180.6,
+          "text": "mean,"
+        },
+        {
+          "startSec": 180.6,
+          "endSec": 180.8,
+          "text": "we"
+        },
+        {
+          "startSec": 180.8,
+          "endSec": 181.1,
+          "text": "know"
+        },
+        {
+          "startSec": 181.1,
+          "endSec": 181.4,
+          "text": "that"
+        },
+        {
+          "startSec": 181.4,
+          "endSec": 182,
+          "text": "homily,"
+        },
+        {
+          "startSec": 182,
+          "endSec": 182.5,
+          "text": "clear"
+        },
+        {
+          "startSec": 182.5,
+          "endSec": 183,
+          "text": "space,"
+        },
+        {
+          "startSec": 183,
+          "endSec": 183.4,
+          "text": "clear"
+        },
+        {
+          "startSec": 183.4,
+          "endSec": 184.1,
+          "text": "mind."
+        },
+        {
+          "startSec": 184.1,
+          "endSec": 184.3,
+          "text": "And"
+        },
+        {
+          "startSec": 184.3,
+          "endSec": 184.4,
+          "text": "I"
+        },
+        {
+          "startSec": 184.4,
+          "endSec": 185,
+          "text": "promise"
+        },
+        {
+          "startSec": 185,
+          "endSec": 185.2,
+          "text": "you"
+        },
+        {
+          "startSec": 185.2,
+          "endSec": 185.6,
+          "text": "that"
+        },
+        {
+          "startSec": 185.6,
+          "endSec": 185.9,
+          "text": "when"
+        },
+        {
+          "startSec": 185.9,
+          "endSec": 186.1,
+          "text": "you"
+        }
+      ]
+    },
+    {
+      "startSec": 186.1,
+      "endSec": 191.9,
+      "text": "clear away the stuff that has no purpose in your life, you will feel better, lighter,",
+      "words": [
+        {
+          "startSec": 186.2,
+          "endSec": 186.5,
+          "text": "clear"
+        },
+        {
+          "startSec": 186.5,
+          "endSec": 186.8,
+          "text": "away"
+        },
+        {
+          "startSec": 186.8,
+          "endSec": 187,
+          "text": "the"
+        },
+        {
+          "startSec": 187,
+          "endSec": 187.4,
+          "text": "stuff"
+        },
+        {
+          "startSec": 187.4,
+          "endSec": 187.7,
+          "text": "that"
+        },
+        {
+          "startSec": 187.7,
+          "endSec": 187.9,
+          "text": "has"
+        },
+        {
+          "startSec": 187.9,
+          "endSec": 188.1,
+          "text": "no"
+        },
+        {
+          "startSec": 188.1,
+          "endSec": 188.6,
+          "text": "purpose"
+        },
+        {
+          "startSec": 188.6,
+          "endSec": 188.8,
+          "text": "in"
+        },
+        {
+          "startSec": 188.8,
+          "endSec": 189.1,
+          "text": "your"
+        },
+        {
+          "startSec": 189.1,
+          "endSec": 189.5,
+          "text": "life,"
+        },
+        {
+          "startSec": 189.5,
+          "endSec": 189.8,
+          "text": "you"
+        },
+        {
+          "startSec": 189.8,
+          "endSec": 190.1,
+          "text": "will"
+        },
+        {
+          "startSec": 190.1,
+          "endSec": 190.4,
+          "text": "feel"
+        },
+        {
+          "startSec": 190.4,
+          "endSec": 191,
+          "text": "better,"
+        },
+        {
+          "startSec": 191,
+          "endSec": 191.9,
+          "text": "lighter,"
+        },
+        {
+          "startSec": 191.9,
+          "endSec": 193,
+          "text": "uplifted,"
+        }
+      ]
+    },
+    {
+      "startSec": 191.9,
+      "endSec": 194.4,
+      "text": "uplifted, energised.\"",
+      "words": [
+        {
+          "startSec": 191.9,
+          "endSec": 193,
+          "text": "uplifted,"
+        },
+        {
+          "startSec": 193,
+          "endSec": 194.4,
+          "text": "energised.\""
+        },
+        {
+          "startSec": 194.4,
+          "endSec": 194.5,
+          "text": "In"
+        }
+      ]
+    },
+    {
+      "startSec": 194.4,
+      "endSec": 199.4,
+      "text": "In a cluttered room, our brains work overtime, meaning they work extra hard to make sense",
+      "words": [
+        {
+          "startSec": 194.4,
+          "endSec": 194.5,
+          "text": "In"
+        },
+        {
+          "startSec": 194.5,
+          "endSec": 194.6,
+          "text": "a"
+        },
+        {
+          "startSec": 194.6,
+          "endSec": 195.2,
+          "text": "cluttered"
+        },
+        {
+          "startSec": 195.2,
+          "endSec": 195.6,
+          "text": "room,"
+        },
+        {
+          "startSec": 195.6,
+          "endSec": 195.8,
+          "text": "our"
+        },
+        {
+          "startSec": 195.8,
+          "endSec": 196.1,
+          "text": "brains"
+        },
+        {
+          "startSec": 196.1,
+          "endSec": 196.4,
+          "text": "work"
+        },
+        {
+          "startSec": 196.4,
+          "endSec": 197.1,
+          "text": "overtime,"
+        },
+        {
+          "startSec": 197.1,
+          "endSec": 197.5,
+          "text": "meaning"
+        },
+        {
+          "startSec": 197.5,
+          "endSec": 197.8,
+          "text": "they"
+        },
+        {
+          "startSec": 197.8,
+          "endSec": 198,
+          "text": "work"
+        },
+        {
+          "startSec": 198,
+          "endSec": 198.3,
+          "text": "extra"
+        },
+        {
+          "startSec": 198.3,
+          "endSec": 198.6,
+          "text": "hard"
+        },
+        {
+          "startSec": 198.6,
+          "endSec": 198.7,
+          "text": "to"
+        },
+        {
+          "startSec": 198.7,
+          "endSec": 199,
+          "text": "make"
+        },
+        {
+          "startSec": 199,
+          "endSec": 199.4,
+          "text": "sense"
+        },
+        {
+          "startSec": 199.4,
+          "endSec": 199.5,
+          "text": "at"
+        }
+      ]
+    },
+    {
+      "startSec": 199.4,
+      "endSec": 205.2,
+      "text": "at the disorder, leaving us exhausted. Work overtime also often means work longer than",
+      "words": [
+        {
+          "startSec": 199.4,
+          "endSec": 199.5,
+          "text": "at"
+        },
+        {
+          "startSec": 199.5,
+          "endSec": 199.8,
+          "text": "the"
+        },
+        {
+          "startSec": 199.8,
+          "endSec": 200.7,
+          "text": "disorder,"
+        },
+        {
+          "startSec": 200.7,
+          "endSec": 201.4,
+          "text": "leaving"
+        },
+        {
+          "startSec": 201.4,
+          "endSec": 201.5,
+          "text": "us"
+        },
+        {
+          "startSec": 201.5,
+          "endSec": 202.7,
+          "text": "exhausted."
+        },
+        {
+          "startSec": 202.7,
+          "endSec": 202.9,
+          "text": "Work"
+        },
+        {
+          "startSec": 202.9,
+          "endSec": 203.4,
+          "text": "overtime"
+        },
+        {
+          "startSec": 203.4,
+          "endSec": 203.7,
+          "text": "also"
+        },
+        {
+          "startSec": 203.7,
+          "endSec": 204,
+          "text": "often"
+        },
+        {
+          "startSec": 204,
+          "endSec": 204.3,
+          "text": "means"
+        },
+        {
+          "startSec": 204.3,
+          "endSec": 204.6,
+          "text": "work"
+        },
+        {
+          "startSec": 204.6,
+          "endSec": 205,
+          "text": "longer"
+        },
+        {
+          "startSec": 205,
+          "endSec": 205.2,
+          "text": "than"
+        },
+        {
+          "startSec": 205.2,
+          "endSec": 205.7,
+          "text": "your"
+        }
+      ]
+    },
+    {
+      "startSec": 205.2,
+      "endSec": 207.1,
+      "text": "your set hours.",
+      "words": [
+        {
+          "startSec": 205.2,
+          "endSec": 205.7,
+          "text": "your"
+        },
+        {
+          "startSec": 205.7,
+          "endSec": 206.1,
+          "text": "set"
+        },
+        {
+          "startSec": 206.1,
+          "endSec": 207.1,
+          "text": "hours."
+        },
+        {
+          "startSec": 207.1,
+          "endSec": 207.6,
+          "text": "Getting"
+        }
+      ]
+    },
+    {
+      "startSec": 207.1,
+      "endSec": 212.8,
+      "text": "Getting rid of clutter makes us feel uplifted, cheerful, happy and more positive. It sounds",
+      "words": [
+        {
+          "startSec": 207.1,
+          "endSec": 207.6,
+          "text": "Getting"
+        },
+        {
+          "startSec": 207.6,
+          "endSec": 207.9,
+          "text": "rid"
+        },
+        {
+          "startSec": 207.9,
+          "endSec": 208,
+          "text": "of"
+        },
+        {
+          "startSec": 208,
+          "endSec": 208.5,
+          "text": "clutter"
+        },
+        {
+          "startSec": 208.5,
+          "endSec": 208.9,
+          "text": "makes"
+        },
+        {
+          "startSec": 208.9,
+          "endSec": 209,
+          "text": "us"
+        },
+        {
+          "startSec": 209,
+          "endSec": 209.3,
+          "text": "feel"
+        },
+        {
+          "startSec": 209.3,
+          "endSec": 210,
+          "text": "uplifted,"
+        },
+        {
+          "startSec": 210,
+          "endSec": 210.7,
+          "text": "cheerful,"
+        },
+        {
+          "startSec": 210.7,
+          "endSec": 211.1,
+          "text": "happy"
+        },
+        {
+          "startSec": 211.1,
+          "endSec": 211.3,
+          "text": "and"
+        },
+        {
+          "startSec": 211.3,
+          "endSec": 211.6,
+          "text": "more"
+        },
+        {
+          "startSec": 211.6,
+          "endSec": 212.5,
+          "text": "positive."
+        },
+        {
+          "startSec": 212.5,
+          "endSec": 212.6,
+          "text": "It"
+        },
+        {
+          "startSec": 212.6,
+          "endSec": 212.8,
+          "text": "sounds"
+        }
+      ]
+    },
+    {
+      "startSec": 212.8,
+      "endSec": 218.2,
+      "text": "simple, doesn't it? And there's even an expression in English, clear space, clear mind.",
+      "words": [
+        {
+          "startSec": 212.9,
+          "endSec": 213.3,
+          "text": "simple,"
+        },
+        {
+          "startSec": 213.3,
+          "endSec": 213.7,
+          "text": "doesn't"
+        },
+        {
+          "startSec": 213.7,
+          "endSec": 214,
+          "text": "it?"
+        },
+        {
+          "startSec": 214,
+          "endSec": 214.2,
+          "text": "And"
+        },
+        {
+          "startSec": 214.2,
+          "endSec": 214.6,
+          "text": "there's"
+        },
+        {
+          "startSec": 214.6,
+          "endSec": 214.8,
+          "text": "even"
+        },
+        {
+          "startSec": 214.8,
+          "endSec": 214.9,
+          "text": "an"
+        },
+        {
+          "startSec": 214.9,
+          "endSec": 215.5,
+          "text": "expression"
+        },
+        {
+          "startSec": 215.5,
+          "endSec": 215.6,
+          "text": "in"
+        },
+        {
+          "startSec": 215.6,
+          "endSec": 216.1,
+          "text": "English,"
+        },
+        {
+          "startSec": 216.1,
+          "endSec": 216.4,
+          "text": "clear"
+        },
+        {
+          "startSec": 216.4,
+          "endSec": 217,
+          "text": "space,"
+        },
+        {
+          "startSec": 217,
+          "endSec": 217.2,
+          "text": "clear"
+        },
+        {
+          "startSec": 217.2,
+          "endSec": 218.2,
+          "text": "mind."
+        },
+        {
+          "startSec": 218.2,
+          "endSec": 218.3,
+          "text": "So"
+        }
+      ]
+    },
+    {
+      "startSec": 218.2,
+      "endSec": 223.8,
+      "text": "So why do many of us find it hard to throw stuff away? Even things we rarely use.",
+      "words": [
+        {
+          "startSec": 218.2,
+          "endSec": 218.3,
+          "text": "So"
+        },
+        {
+          "startSec": 218.3,
+          "endSec": 218.6,
+          "text": "why"
+        },
+        {
+          "startSec": 218.6,
+          "endSec": 218.7,
+          "text": "do"
+        },
+        {
+          "startSec": 218.7,
+          "endSec": 219,
+          "text": "many"
+        },
+        {
+          "startSec": 219,
+          "endSec": 219.2,
+          "text": "of"
+        },
+        {
+          "startSec": 219.2,
+          "endSec": 219.4,
+          "text": "us"
+        },
+        {
+          "startSec": 219.4,
+          "endSec": 219.7,
+          "text": "find"
+        },
+        {
+          "startSec": 219.7,
+          "endSec": 219.8,
+          "text": "it"
+        },
+        {
+          "startSec": 219.8,
+          "endSec": 220.2,
+          "text": "hard"
+        },
+        {
+          "startSec": 220.2,
+          "endSec": 220.3,
+          "text": "to"
+        },
+        {
+          "startSec": 220.3,
+          "endSec": 220.7,
+          "text": "throw"
+        },
+        {
+          "startSec": 220.7,
+          "endSec": 221.1,
+          "text": "stuff"
+        },
+        {
+          "startSec": 221.1,
+          "endSec": 221.8,
+          "text": "away?"
+        },
+        {
+          "startSec": 221.8,
+          "endSec": 222.1,
+          "text": "Even"
+        },
+        {
+          "startSec": 222.1,
+          "endSec": 222.6,
+          "text": "things"
+        },
+        {
+          "startSec": 222.6,
+          "endSec": 222.8,
+          "text": "we"
+        },
+        {
+          "startSec": 222.8,
+          "endSec": 223.3,
+          "text": "rarely"
+        },
+        {
+          "startSec": 223.3,
+          "endSec": 223.8,
+          "text": "use."
+        },
+        {
+          "startSec": 223.8,
+          "endSec": 224,
+          "text": "One"
+        }
+      ]
+    },
+    {
+      "startSec": 223.8,
+      "endSec": 229,
+      "text": "One reason people put off decluttering is the time it takes. Plus, it can be emotionally",
+      "words": [
+        {
+          "startSec": 223.8,
+          "endSec": 224,
+          "text": "One"
+        },
+        {
+          "startSec": 224,
+          "endSec": 224.4,
+          "text": "reason"
+        },
+        {
+          "startSec": 224.4,
+          "endSec": 224.9,
+          "text": "people"
+        },
+        {
+          "startSec": 224.9,
+          "endSec": 225.1,
+          "text": "put"
+        },
+        {
+          "startSec": 225.1,
+          "endSec": 225.3,
+          "text": "off"
+        },
+        {
+          "startSec": 225.3,
+          "endSec": 226.2,
+          "text": "decluttering"
+        },
+        {
+          "startSec": 226.2,
+          "endSec": 226.3,
+          "text": "is"
+        },
+        {
+          "startSec": 226.3,
+          "endSec": 226.5,
+          "text": "the"
+        },
+        {
+          "startSec": 226.5,
+          "endSec": 226.8,
+          "text": "time"
+        },
+        {
+          "startSec": 226.8,
+          "endSec": 226.9,
+          "text": "it"
+        },
+        {
+          "startSec": 226.9,
+          "endSec": 227.6,
+          "text": "takes."
+        },
+        {
+          "startSec": 227.6,
+          "endSec": 228,
+          "text": "Plus,"
+        },
+        {
+          "startSec": 228,
+          "endSec": 228.1,
+          "text": "it"
+        },
+        {
+          "startSec": 228.1,
+          "endSec": 228.3,
+          "text": "can"
+        },
+        {
+          "startSec": 228.3,
+          "endSec": 228.4,
+          "text": "be"
+        },
+        {
+          "startSec": 228.4,
+          "endSec": 229,
+          "text": "emotionally"
+        },
+        {
+          "startSec": 229,
+          "endSec": 229.7,
+          "text": "disturbing"
+        }
+      ]
+    },
+    {
+      "startSec": 229,
+      "endSec": 232.5,
+      "text": "disturbing deciding what to keep and what to throw away.",
+      "words": [
+        {
+          "startSec": 229,
+          "endSec": 229.7,
+          "text": "disturbing"
+        },
+        {
+          "startSec": 229.7,
+          "endSec": 230.3,
+          "text": "deciding"
+        },
+        {
+          "startSec": 230.3,
+          "endSec": 230.6,
+          "text": "what"
+        },
+        {
+          "startSec": 230.6,
+          "endSec": 230.7,
+          "text": "to"
+        },
+        {
+          "startSec": 230.7,
+          "endSec": 231,
+          "text": "keep"
+        },
+        {
+          "startSec": 231,
+          "endSec": 231.2,
+          "text": "and"
+        },
+        {
+          "startSec": 231.2,
+          "endSec": 231.5,
+          "text": "what"
+        },
+        {
+          "startSec": 231.5,
+          "endSec": 231.6,
+          "text": "to"
+        },
+        {
+          "startSec": 231.6,
+          "endSec": 232,
+          "text": "throw"
+        },
+        {
+          "startSec": 232,
+          "endSec": 232.5,
+          "text": "away."
+        },
+        {
+          "startSec": 232.5,
+          "endSec": 232.7,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 232.5,
+      "endSec": 237.3,
+      "text": "But don't worry, says professional organiser and host of the Declutter Club podcast, Ingrid",
+      "words": [
+        {
+          "startSec": 232.5,
+          "endSec": 232.7,
+          "text": "But"
+        },
+        {
+          "startSec": 232.7,
+          "endSec": 233,
+          "text": "don't"
+        },
+        {
+          "startSec": 233,
+          "endSec": 233.4,
+          "text": "worry,"
+        },
+        {
+          "startSec": 233.4,
+          "endSec": 233.7,
+          "text": "says"
+        },
+        {
+          "startSec": 233.7,
+          "endSec": 234.4,
+          "text": "professional"
+        },
+        {
+          "startSec": 234.4,
+          "endSec": 235,
+          "text": "organiser"
+        },
+        {
+          "startSec": 235,
+          "endSec": 235.2,
+          "text": "and"
+        },
+        {
+          "startSec": 235.2,
+          "endSec": 235.4,
+          "text": "host"
+        },
+        {
+          "startSec": 235.4,
+          "endSec": 235.5,
+          "text": "of"
+        },
+        {
+          "startSec": 235.5,
+          "endSec": 235.7,
+          "text": "the"
+        },
+        {
+          "startSec": 235.7,
+          "endSec": 236.3,
+          "text": "Declutter"
+        },
+        {
+          "startSec": 236.3,
+          "endSec": 236.5,
+          "text": "Club"
+        },
+        {
+          "startSec": 236.5,
+          "endSec": 237.2,
+          "text": "podcast,"
+        },
+        {
+          "startSec": 237.2,
+          "endSec": 237.3,
+          "text": "Ingrid"
+        },
+        {
+          "startSec": 237.3,
+          "endSec": 238.1,
+          "text": "Janssen."
+        }
+      ]
+    },
+    {
+      "startSec": 237.3,
+      "endSec": 243.8,
+      "text": "Janssen. The answer is to go slow, as she explains here to BBC Radio 4's Woman's Hour.",
+      "words": [
+        {
+          "startSec": 237.3,
+          "endSec": 238.1,
+          "text": "Janssen."
+        },
+        {
+          "startSec": 238.1,
+          "endSec": 238.3,
+          "text": "The"
+        },
+        {
+          "startSec": 238.3,
+          "endSec": 238.8,
+          "text": "answer"
+        },
+        {
+          "startSec": 238.8,
+          "endSec": 239,
+          "text": "is"
+        },
+        {
+          "startSec": 239,
+          "endSec": 239.1,
+          "text": "to"
+        },
+        {
+          "startSec": 239.1,
+          "endSec": 239.3,
+          "text": "go"
+        },
+        {
+          "startSec": 239.3,
+          "endSec": 239.8,
+          "text": "slow,"
+        },
+        {
+          "startSec": 239.8,
+          "endSec": 239.9,
+          "text": "as"
+        },
+        {
+          "startSec": 239.9,
+          "endSec": 240.2,
+          "text": "she"
+        },
+        {
+          "startSec": 240.2,
+          "endSec": 240.8,
+          "text": "explains"
+        },
+        {
+          "startSec": 240.8,
+          "endSec": 241.1,
+          "text": "here"
+        },
+        {
+          "startSec": 241.1,
+          "endSec": 241.3,
+          "text": "to"
+        },
+        {
+          "startSec": 241.3,
+          "endSec": 241.5,
+          "text": "BBC"
+        },
+        {
+          "startSec": 241.5,
+          "endSec": 241.9,
+          "text": "Radio"
+        },
+        {
+          "startSec": 241.9,
+          "endSec": 242.3,
+          "text": "4's"
+        },
+        {
+          "startSec": 242.3,
+          "endSec": 243,
+          "text": "Woman's"
+        },
+        {
+          "startSec": 243,
+          "endSec": 243.8,
+          "text": "Hour."
+        },
+        {
+          "startSec": 243.8,
+          "endSec": 244.1,
+          "text": "\"You"
+        }
+      ]
+    },
+    {
+      "startSec": 243.8,
+      "endSec": 250.8,
+      "text": "\"You have to do decluttering slowly but surely. One drawer, one cupboard at a time. You can't",
+      "words": [
+        {
+          "startSec": 243.8,
+          "endSec": 244.1,
+          "text": "\"You"
+        },
+        {
+          "startSec": 244.1,
+          "endSec": 244.4,
+          "text": "have"
+        },
+        {
+          "startSec": 244.4,
+          "endSec": 244.6,
+          "text": "to"
+        },
+        {
+          "startSec": 244.6,
+          "endSec": 244.8,
+          "text": "do"
+        },
+        {
+          "startSec": 244.8,
+          "endSec": 245.8,
+          "text": "decluttering"
+        },
+        {
+          "startSec": 245.8,
+          "endSec": 246.3,
+          "text": "slowly"
+        },
+        {
+          "startSec": 246.3,
+          "endSec": 246.6,
+          "text": "but"
+        },
+        {
+          "startSec": 246.6,
+          "endSec": 247.4,
+          "text": "surely."
+        },
+        {
+          "startSec": 247.4,
+          "endSec": 247.6,
+          "text": "One"
+        },
+        {
+          "startSec": 247.6,
+          "endSec": 248.3,
+          "text": "drawer,"
+        },
+        {
+          "startSec": 248.3,
+          "endSec": 248.6,
+          "text": "one"
+        },
+        {
+          "startSec": 248.6,
+          "endSec": 249.3,
+          "text": "cupboard"
+        },
+        {
+          "startSec": 249.3,
+          "endSec": 249.4,
+          "text": "at"
+        },
+        {
+          "startSec": 249.4,
+          "endSec": 249.5,
+          "text": "a"
+        },
+        {
+          "startSec": 249.5,
+          "endSec": 250.2,
+          "text": "time."
+        },
+        {
+          "startSec": 250.2,
+          "endSec": 250.5,
+          "text": "You"
+        },
+        {
+          "startSec": 250.5,
+          "endSec": 250.8,
+          "text": "can't"
+        },
+        {
+          "startSec": 250.8,
+          "endSec": 250.9,
+          "text": "go"
+        }
+      ]
+    },
+    {
+      "startSec": 250.8,
+      "endSec": 255.6,
+      "text": "go in all guns blazing. You can't go in. That's what we hear all the time. This weekend,",
+      "words": [
+        {
+          "startSec": 250.8,
+          "endSec": 250.9,
+          "text": "go"
+        },
+        {
+          "startSec": 250.9,
+          "endSec": 251,
+          "text": "in"
+        },
+        {
+          "startSec": 251,
+          "endSec": 251.2,
+          "text": "all"
+        },
+        {
+          "startSec": 251.2,
+          "endSec": 251.4,
+          "text": "guns"
+        },
+        {
+          "startSec": 251.4,
+          "endSec": 252.1,
+          "text": "blazing."
+        },
+        {
+          "startSec": 252.1,
+          "endSec": 252.3,
+          "text": "You"
+        },
+        {
+          "startSec": 252.3,
+          "endSec": 252.6,
+          "text": "can't"
+        },
+        {
+          "startSec": 252.6,
+          "endSec": 252.7,
+          "text": "go"
+        },
+        {
+          "startSec": 252.7,
+          "endSec": 253,
+          "text": "in."
+        },
+        {
+          "startSec": 253,
+          "endSec": 253.4,
+          "text": "That's"
+        },
+        {
+          "startSec": 253.4,
+          "endSec": 253.6,
+          "text": "what"
+        },
+        {
+          "startSec": 253.6,
+          "endSec": 253.7,
+          "text": "we"
+        },
+        {
+          "startSec": 253.7,
+          "endSec": 254,
+          "text": "hear"
+        },
+        {
+          "startSec": 254,
+          "endSec": 254.2,
+          "text": "all"
+        },
+        {
+          "startSec": 254.2,
+          "endSec": 254.4,
+          "text": "the"
+        },
+        {
+          "startSec": 254.4,
+          "endSec": 254.9,
+          "text": "time."
+        },
+        {
+          "startSec": 254.9,
+          "endSec": 255,
+          "text": "This"
+        },
+        {
+          "startSec": 255,
+          "endSec": 255.6,
+          "text": "weekend,"
+        },
+        {
+          "startSec": 255.6,
+          "endSec": 256,
+          "text": "I'm"
+        }
+      ]
+    },
+    {
+      "startSec": 255.6,
+      "endSec": 262.2,
+      "text": "I'm going to sort out my whole room of doom. And after two hours in, they will look around",
+      "words": [
+        {
+          "startSec": 255.6,
+          "endSec": 256,
+          "text": "I'm"
+        },
+        {
+          "startSec": 256,
+          "endSec": 256.6,
+          "text": "going"
+        },
+        {
+          "startSec": 256.6,
+          "endSec": 256.9,
+          "text": "to"
+        },
+        {
+          "startSec": 256.9,
+          "endSec": 257.4,
+          "text": "sort"
+        },
+        {
+          "startSec": 257.4,
+          "endSec": 257.7,
+          "text": "out"
+        },
+        {
+          "startSec": 257.7,
+          "endSec": 258,
+          "text": "my"
+        },
+        {
+          "startSec": 258,
+          "endSec": 258.6,
+          "text": "whole"
+        },
+        {
+          "startSec": 258.6,
+          "endSec": 259.1,
+          "text": "room"
+        },
+        {
+          "startSec": 259.1,
+          "endSec": 259.4,
+          "text": "of"
+        },
+        {
+          "startSec": 259.4,
+          "endSec": 260.3,
+          "text": "doom."
+        },
+        {
+          "startSec": 260.3,
+          "endSec": 260.4,
+          "text": "And"
+        },
+        {
+          "startSec": 260.4,
+          "endSec": 260.7,
+          "text": "after"
+        },
+        {
+          "startSec": 260.7,
+          "endSec": 260.8,
+          "text": "two"
+        },
+        {
+          "startSec": 260.8,
+          "endSec": 261.1,
+          "text": "hours"
+        },
+        {
+          "startSec": 261.1,
+          "endSec": 261.3,
+          "text": "in,"
+        },
+        {
+          "startSec": 261.3,
+          "endSec": 261.5,
+          "text": "they"
+        },
+        {
+          "startSec": 261.5,
+          "endSec": 261.7,
+          "text": "will"
+        },
+        {
+          "startSec": 261.7,
+          "endSec": 261.9,
+          "text": "look"
+        },
+        {
+          "startSec": 261.9,
+          "endSec": 262.2,
+          "text": "around"
+        }
+      ]
+    },
+    {
+      "startSec": 262.2,
+      "endSec": 267.8,
+      "text": "and go, 'What have I done?' There's more chaos than there was before, because they've",
+      "words": [
+        {
+          "startSec": 262.3,
+          "endSec": 262.4,
+          "text": "and"
+        },
+        {
+          "startSec": 262.4,
+          "endSec": 262.7,
+          "text": "go,"
+        },
+        {
+          "startSec": 262.7,
+          "endSec": 263.1,
+          "text": "'What"
+        },
+        {
+          "startSec": 263.1,
+          "endSec": 263.4,
+          "text": "have"
+        },
+        {
+          "startSec": 263.4,
+          "endSec": 263.5,
+          "text": "I"
+        },
+        {
+          "startSec": 263.5,
+          "endSec": 264.1,
+          "text": "done?'"
+        },
+        {
+          "startSec": 264.1,
+          "endSec": 264.6,
+          "text": "There's"
+        },
+        {
+          "startSec": 264.6,
+          "endSec": 264.9,
+          "text": "more"
+        },
+        {
+          "startSec": 264.9,
+          "endSec": 265.3,
+          "text": "chaos"
+        },
+        {
+          "startSec": 265.3,
+          "endSec": 265.6,
+          "text": "than"
+        },
+        {
+          "startSec": 265.6,
+          "endSec": 266,
+          "text": "there"
+        },
+        {
+          "startSec": 266,
+          "endSec": 266.2,
+          "text": "was"
+        },
+        {
+          "startSec": 266.2,
+          "endSec": 266.8,
+          "text": "before,"
+        },
+        {
+          "startSec": 266.8,
+          "endSec": 267.3,
+          "text": "because"
+        },
+        {
+          "startSec": 267.3,
+          "endSec": 267.8,
+          "text": "they've"
+        },
+        {
+          "startSec": 267.8,
+          "endSec": 268.3,
+          "text": "bitten"
+        }
+      ]
+    },
+    {
+      "startSec": 267.8,
+      "endSec": 270.7,
+      "text": "bitten off too much that they can chew.\"",
+      "words": [
+        {
+          "startSec": 267.8,
+          "endSec": 268.3,
+          "text": "bitten"
+        },
+        {
+          "startSec": 268.3,
+          "endSec": 268.5,
+          "text": "off"
+        },
+        {
+          "startSec": 268.5,
+          "endSec": 268.8,
+          "text": "too"
+        },
+        {
+          "startSec": 268.8,
+          "endSec": 269.1,
+          "text": "much"
+        },
+        {
+          "startSec": 269.1,
+          "endSec": 269.4,
+          "text": "that"
+        },
+        {
+          "startSec": 269.4,
+          "endSec": 269.8,
+          "text": "they"
+        },
+        {
+          "startSec": 269.8,
+          "endSec": 270,
+          "text": "can"
+        },
+        {
+          "startSec": 270,
+          "endSec": 270.7,
+          "text": "chew.\""
+        },
+        {
+          "startSec": 270.7,
+          "endSec": 271,
+          "text": "When"
+        }
+      ]
+    },
+    {
+      "startSec": 270.7,
+      "endSec": 275.7,
+      "text": "When it comes to decluttering your home, it's best to do things slowly but surely, in a",
+      "words": [
+        {
+          "startSec": 270.7,
+          "endSec": 271,
+          "text": "When"
+        },
+        {
+          "startSec": 271,
+          "endSec": 271.1,
+          "text": "it"
+        },
+        {
+          "startSec": 271.1,
+          "endSec": 271.5,
+          "text": "comes"
+        },
+        {
+          "startSec": 271.5,
+          "endSec": 271.6,
+          "text": "to"
+        },
+        {
+          "startSec": 271.6,
+          "endSec": 272.4,
+          "text": "decluttering"
+        },
+        {
+          "startSec": 272.4,
+          "endSec": 272.7,
+          "text": "your"
+        },
+        {
+          "startSec": 272.7,
+          "endSec": 273.1,
+          "text": "home,"
+        },
+        {
+          "startSec": 273.1,
+          "endSec": 273.4,
+          "text": "it's"
+        },
+        {
+          "startSec": 273.4,
+          "endSec": 273.7,
+          "text": "best"
+        },
+        {
+          "startSec": 273.7,
+          "endSec": 273.8,
+          "text": "to"
+        },
+        {
+          "startSec": 273.8,
+          "endSec": 274,
+          "text": "do"
+        },
+        {
+          "startSec": 274,
+          "endSec": 274.4,
+          "text": "things"
+        },
+        {
+          "startSec": 274.4,
+          "endSec": 274.8,
+          "text": "slowly"
+        },
+        {
+          "startSec": 274.8,
+          "endSec": 275,
+          "text": "but"
+        },
+        {
+          "startSec": 275,
+          "endSec": 275.6,
+          "text": "surely,"
+        },
+        {
+          "startSec": 275.6,
+          "endSec": 275.7,
+          "text": "in"
+        },
+        {
+          "startSec": 275.7,
+          "endSec": 275.7,
+          "text": "a"
+        },
+        {
+          "startSec": 275.7,
+          "endSec": 276.2,
+          "text": "gradual"
+        }
+      ]
+    },
+    {
+      "startSec": 275.7,
+      "endSec": 279.6,
+      "text": "gradual but reliable way which will achieve the result you want.",
+      "words": [
+        {
+          "startSec": 275.7,
+          "endSec": 275.7,
+          "text": "a"
+        },
+        {
+          "startSec": 275.7,
+          "endSec": 276.2,
+          "text": "gradual"
+        },
+        {
+          "startSec": 276.2,
+          "endSec": 276.4,
+          "text": "but"
+        },
+        {
+          "startSec": 276.4,
+          "endSec": 277,
+          "text": "reliable"
+        },
+        {
+          "startSec": 277,
+          "endSec": 277.2,
+          "text": "way"
+        },
+        {
+          "startSec": 277.2,
+          "endSec": 277.5,
+          "text": "which"
+        },
+        {
+          "startSec": 277.5,
+          "endSec": 277.8,
+          "text": "will"
+        },
+        {
+          "startSec": 277.8,
+          "endSec": 278.3,
+          "text": "achieve"
+        },
+        {
+          "startSec": 278.3,
+          "endSec": 278.5,
+          "text": "the"
+        },
+        {
+          "startSec": 278.5,
+          "endSec": 278.9,
+          "text": "result"
+        },
+        {
+          "startSec": 278.9,
+          "endSec": 279.1,
+          "text": "you"
+        },
+        {
+          "startSec": 279.1,
+          "endSec": 279.6,
+          "text": "want."
+        },
+        {
+          "startSec": 279.6,
+          "endSec": 280,
+          "text": "It's"
+        }
+      ]
+    },
+    {
+      "startSec": 279.6,
+      "endSec": 285.8,
+      "text": "It's a mistake to try to declutter everything all at once, with all guns blazing, an idiom",
+      "words": [
+        {
+          "startSec": 279.6,
+          "endSec": 280,
+          "text": "It's"
+        },
+        {
+          "startSec": 280,
+          "endSec": 280,
+          "text": "a"
+        },
+        {
+          "startSec": 280,
+          "endSec": 280.6,
+          "text": "mistake"
+        },
+        {
+          "startSec": 280.6,
+          "endSec": 280.8,
+          "text": "to"
+        },
+        {
+          "startSec": 280.8,
+          "endSec": 281,
+          "text": "try"
+        },
+        {
+          "startSec": 281,
+          "endSec": 281.2,
+          "text": "to"
+        },
+        {
+          "startSec": 281.2,
+          "endSec": 281.9,
+          "text": "declutter"
+        },
+        {
+          "startSec": 281.9,
+          "endSec": 282.7,
+          "text": "everything"
+        },
+        {
+          "startSec": 282.7,
+          "endSec": 282.9,
+          "text": "all"
+        },
+        {
+          "startSec": 282.9,
+          "endSec": 283.1,
+          "text": "at"
+        },
+        {
+          "startSec": 283.1,
+          "endSec": 283.6,
+          "text": "once,"
+        },
+        {
+          "startSec": 283.6,
+          "endSec": 283.9,
+          "text": "with"
+        },
+        {
+          "startSec": 283.9,
+          "endSec": 284.1,
+          "text": "all"
+        },
+        {
+          "startSec": 284.1,
+          "endSec": 284.5,
+          "text": "guns"
+        },
+        {
+          "startSec": 284.5,
+          "endSec": 285.2,
+          "text": "blazing,"
+        },
+        {
+          "startSec": 285.2,
+          "endSec": 285.4,
+          "text": "an"
+        },
+        {
+          "startSec": 285.4,
+          "endSec": 285.8,
+          "text": "idiom"
+        },
+        {
+          "startSec": 285.8,
+          "endSec": 286.4,
+          "text": "meaning"
+        }
+      ]
+    },
+    {
+      "startSec": 285.8,
+      "endSec": 291.3,
+      "text": "meaning to do things dramatically with lots of energy and enthusiasm. After an hour or",
+      "words": [
+        {
+          "startSec": 285.8,
+          "endSec": 286.4,
+          "text": "meaning"
+        },
+        {
+          "startSec": 286.4,
+          "endSec": 286.6,
+          "text": "to"
+        },
+        {
+          "startSec": 286.6,
+          "endSec": 286.7,
+          "text": "do"
+        },
+        {
+          "startSec": 286.7,
+          "endSec": 287.2,
+          "text": "things"
+        },
+        {
+          "startSec": 287.2,
+          "endSec": 288.1,
+          "text": "dramatically"
+        },
+        {
+          "startSec": 288.1,
+          "endSec": 288.5,
+          "text": "with"
+        },
+        {
+          "startSec": 288.5,
+          "endSec": 288.8,
+          "text": "lots"
+        },
+        {
+          "startSec": 288.8,
+          "endSec": 288.9,
+          "text": "of"
+        },
+        {
+          "startSec": 288.9,
+          "endSec": 289.4,
+          "text": "energy"
+        },
+        {
+          "startSec": 289.4,
+          "endSec": 289.6,
+          "text": "and"
+        },
+        {
+          "startSec": 289.6,
+          "endSec": 290.7,
+          "text": "enthusiasm."
+        },
+        {
+          "startSec": 290.7,
+          "endSec": 290.9,
+          "text": "After"
+        },
+        {
+          "startSec": 290.9,
+          "endSec": 291,
+          "text": "an"
+        },
+        {
+          "startSec": 291,
+          "endSec": 291.2,
+          "text": "hour"
+        },
+        {
+          "startSec": 291.2,
+          "endSec": 291.3,
+          "text": "or"
+        },
+        {
+          "startSec": 291.3,
+          "endSec": 291.5,
+          "text": "two"
+        }
+      ]
+    },
+    {
+      "startSec": 291.3,
+      "endSec": 296.6,
+      "text": "two of this, decluttering becomes physically and emotionally exhausting. You may have bitten",
+      "words": [
+        {
+          "startSec": 291.3,
+          "endSec": 291.5,
+          "text": "two"
+        },
+        {
+          "startSec": 291.5,
+          "endSec": 291.6,
+          "text": "of"
+        },
+        {
+          "startSec": 291.6,
+          "endSec": 292,
+          "text": "this,"
+        },
+        {
+          "startSec": 292,
+          "endSec": 292.8,
+          "text": "decluttering"
+        },
+        {
+          "startSec": 292.8,
+          "endSec": 293.2,
+          "text": "becomes"
+        },
+        {
+          "startSec": 293.2,
+          "endSec": 293.9,
+          "text": "physically"
+        },
+        {
+          "startSec": 293.9,
+          "endSec": 294.1,
+          "text": "and"
+        },
+        {
+          "startSec": 294.1,
+          "endSec": 294.8,
+          "text": "emotionally"
+        },
+        {
+          "startSec": 294.8,
+          "endSec": 295.7,
+          "text": "exhausting."
+        },
+        {
+          "startSec": 295.7,
+          "endSec": 295.8,
+          "text": "You"
+        },
+        {
+          "startSec": 295.8,
+          "endSec": 296,
+          "text": "may"
+        },
+        {
+          "startSec": 296,
+          "endSec": 296.2,
+          "text": "have"
+        },
+        {
+          "startSec": 296.2,
+          "endSec": 296.6,
+          "text": "bitten"
+        },
+        {
+          "startSec": 296.6,
+          "endSec": 296.9,
+          "text": "off"
+        }
+      ]
+    },
+    {
+      "startSec": 296.6,
+      "endSec": 301.2,
+      "text": "off more than you can chew. Another idiom meaning to try doing something which is too",
+      "words": [
+        {
+          "startSec": 296.6,
+          "endSec": 296.9,
+          "text": "off"
+        },
+        {
+          "startSec": 296.9,
+          "endSec": 297.2,
+          "text": "more"
+        },
+        {
+          "startSec": 297.2,
+          "endSec": 297.6,
+          "text": "than"
+        },
+        {
+          "startSec": 297.6,
+          "endSec": 297.8,
+          "text": "you"
+        },
+        {
+          "startSec": 297.8,
+          "endSec": 298.1,
+          "text": "can"
+        },
+        {
+          "startSec": 298.1,
+          "endSec": 298.7,
+          "text": "chew."
+        },
+        {
+          "startSec": 298.7,
+          "endSec": 299,
+          "text": "Another"
+        },
+        {
+          "startSec": 299,
+          "endSec": 299.3,
+          "text": "idiom"
+        },
+        {
+          "startSec": 299.3,
+          "endSec": 299.7,
+          "text": "meaning"
+        },
+        {
+          "startSec": 299.7,
+          "endSec": 299.8,
+          "text": "to"
+        },
+        {
+          "startSec": 299.8,
+          "endSec": 299.9,
+          "text": "try"
+        },
+        {
+          "startSec": 299.9,
+          "endSec": 300.2,
+          "text": "doing"
+        },
+        {
+          "startSec": 300.2,
+          "endSec": 300.6,
+          "text": "something"
+        },
+        {
+          "startSec": 300.6,
+          "endSec": 300.9,
+          "text": "which"
+        },
+        {
+          "startSec": 300.9,
+          "endSec": 301,
+          "text": "is"
+        },
+        {
+          "startSec": 301,
+          "endSec": 301.2,
+          "text": "too"
+        },
+        {
+          "startSec": 301.2,
+          "endSec": 301.8,
+          "text": "difficult"
+        }
+      ]
+    },
+    {
+      "startSec": 301.2,
+      "endSec": 302.4,
+      "text": "difficult for you.",
+      "words": [
+        {
+          "startSec": 301.2,
+          "endSec": 301.8,
+          "text": "difficult"
+        },
+        {
+          "startSec": 301.8,
+          "endSec": 302,
+          "text": "for"
+        },
+        {
+          "startSec": 302,
+          "endSec": 302.4,
+          "text": "you."
+        },
+        {
+          "startSec": 302.4,
+          "endSec": 302.8,
+          "text": "\"So,"
+        }
+      ]
+    },
+    {
+      "startSec": 302.4,
+      "endSec": 308.4,
+      "text": "\"So, if you want to declutter without stress, remember break the job down and go slow.\"",
+      "words": [
+        {
+          "startSec": 302.4,
+          "endSec": 302.8,
+          "text": "\"So,"
+        },
+        {
+          "startSec": 302.8,
+          "endSec": 302.9,
+          "text": "if"
+        },
+        {
+          "startSec": 302.9,
+          "endSec": 303.2,
+          "text": "you"
+        },
+        {
+          "startSec": 303.2,
+          "endSec": 303.5,
+          "text": "want"
+        },
+        {
+          "startSec": 303.5,
+          "endSec": 303.6,
+          "text": "to"
+        },
+        {
+          "startSec": 303.6,
+          "endSec": 304.3,
+          "text": "declutter"
+        },
+        {
+          "startSec": 304.3,
+          "endSec": 304.9,
+          "text": "without"
+        },
+        {
+          "startSec": 304.9,
+          "endSec": 305.5,
+          "text": "stress,"
+        },
+        {
+          "startSec": 305.5,
+          "endSec": 306.1,
+          "text": "remember"
+        },
+        {
+          "startSec": 306.1,
+          "endSec": 306.5,
+          "text": "break"
+        },
+        {
+          "startSec": 306.5,
+          "endSec": 306.7,
+          "text": "the"
+        },
+        {
+          "startSec": 306.7,
+          "endSec": 307,
+          "text": "job"
+        },
+        {
+          "startSec": 307,
+          "endSec": 307.3,
+          "text": "down"
+        },
+        {
+          "startSec": 307.3,
+          "endSec": 307.5,
+          "text": "and"
+        },
+        {
+          "startSec": 307.5,
+          "endSec": 307.7,
+          "text": "go"
+        },
+        {
+          "startSec": 307.7,
+          "endSec": 308.4,
+          "text": "slow.\""
+        },
+        {
+          "startSec": 308.4,
+          "endSec": 308.9,
+          "text": "Right,"
+        }
+      ]
+    },
+    {
+      "startSec": 308.4,
+      "endSec": 313.8,
+      "text": "Right, it's time to reveal the answer to my question, Georgie. I asked you how many Instagram",
+      "words": [
+        {
+          "startSec": 308.4,
+          "endSec": 308.9,
+          "text": "Right,"
+        },
+        {
+          "startSec": 308.9,
+          "endSec": 309.1,
+          "text": "it's"
+        },
+        {
+          "startSec": 309.1,
+          "endSec": 309.4,
+          "text": "time"
+        },
+        {
+          "startSec": 309.4,
+          "endSec": 309.5,
+          "text": "to"
+        },
+        {
+          "startSec": 309.5,
+          "endSec": 309.9,
+          "text": "reveal"
+        },
+        {
+          "startSec": 309.9,
+          "endSec": 310.1,
+          "text": "the"
+        },
+        {
+          "startSec": 310.1,
+          "endSec": 310.4,
+          "text": "answer"
+        },
+        {
+          "startSec": 310.4,
+          "endSec": 310.6,
+          "text": "to"
+        },
+        {
+          "startSec": 310.6,
+          "endSec": 310.7,
+          "text": "my"
+        },
+        {
+          "startSec": 310.7,
+          "endSec": 311.3,
+          "text": "question,"
+        },
+        {
+          "startSec": 311.3,
+          "endSec": 312,
+          "text": "Georgie."
+        },
+        {
+          "startSec": 312,
+          "endSec": 312.1,
+          "text": "I"
+        },
+        {
+          "startSec": 312.1,
+          "endSec": 312.5,
+          "text": "asked"
+        },
+        {
+          "startSec": 312.5,
+          "endSec": 312.7,
+          "text": "you"
+        },
+        {
+          "startSec": 312.7,
+          "endSec": 312.9,
+          "text": "how"
+        },
+        {
+          "startSec": 312.9,
+          "endSec": 313.2,
+          "text": "many"
+        },
+        {
+          "startSec": 313.2,
+          "endSec": 313.8,
+          "text": "Instagram"
+        },
+        {
+          "startSec": 313.8,
+          "endSec": 314.1,
+          "text": "posts"
+        }
+      ]
+    },
+    {
+      "startSec": 313.8,
+      "endSec": 317.4,
+      "text": "posts you can currently find under the hashtag 'declutter'.",
+      "words": [
+        {
+          "startSec": 313.8,
+          "endSec": 314.1,
+          "text": "posts"
+        },
+        {
+          "startSec": 314.1,
+          "endSec": 314.3,
+          "text": "you"
+        },
+        {
+          "startSec": 314.3,
+          "endSec": 314.5,
+          "text": "can"
+        },
+        {
+          "startSec": 314.5,
+          "endSec": 315.1,
+          "text": "currently"
+        },
+        {
+          "startSec": 315.1,
+          "endSec": 315.4,
+          "text": "find"
+        },
+        {
+          "startSec": 315.4,
+          "endSec": 315.7,
+          "text": "under"
+        },
+        {
+          "startSec": 315.7,
+          "endSec": 315.9,
+          "text": "the"
+        },
+        {
+          "startSec": 315.9,
+          "endSec": 316.4,
+          "text": "hashtag"
+        },
+        {
+          "startSec": 316.4,
+          "endSec": 317.4,
+          "text": "'declutter'."
+        }
+      ]
+    },
+    {
+      "startSec": 317.4,
+      "endSec": 321.7,
+      "text": "\"I said B, 2.6 million.\" Well, you were correct, well done.",
+      "words": [
+        {
+          "startSec": 317.5,
+          "endSec": 317.7,
+          "text": "\"I"
+        },
+        {
+          "startSec": 317.7,
+          "endSec": 318.3,
+          "text": "said"
+        },
+        {
+          "startSec": 318.3,
+          "endSec": 318.7,
+          "text": "B,"
+        },
+        {
+          "startSec": 318.7,
+          "endSec": 320,
+          "text": "2.6"
+        },
+        {
+          "startSec": 320,
+          "endSec": 321.7,
+          "text": "million.\""
+        },
+        {
+          "startSec": 321.7,
+          "endSec": 321.7,
+          "text": "Well,"
+        },
+        {
+          "startSec": 321.7,
+          "endSec": 321.7,
+          "text": "you"
+        },
+        {
+          "startSec": 321.7,
+          "endSec": 321.7,
+          "text": "were"
+        },
+        {
+          "startSec": 321.7,
+          "endSec": 321.7,
+          "text": "correct,"
+        },
+        {
+          "startSec": 321.7,
+          "endSec": 321.7,
+          "text": "well"
+        },
+        {
+          "startSec": 321.7,
+          "endSec": 321.7,
+          "text": "done."
+        },
+        {
+          "startSec": 321.7,
+          "endSec": 322.7,
+          "text": "Yay!"
+        }
+      ]
+    },
+    {
+      "startSec": 321.7,
+      "endSec": 322.7,
+      "text": "Yay!",
+      "words": [
+        {
+          "startSec": 321.7,
+          "endSec": 321.7,
+          "text": "Well,"
+        },
+        {
+          "startSec": 321.7,
+          "endSec": 321.7,
+          "text": "you"
+        },
+        {
+          "startSec": 321.7,
+          "endSec": 321.7,
+          "text": "were"
+        },
+        {
+          "startSec": 321.7,
+          "endSec": 321.7,
+          "text": "correct,"
+        },
+        {
+          "startSec": 321.7,
+          "endSec": 321.7,
+          "text": "well"
+        },
+        {
+          "startSec": 321.7,
+          "endSec": 321.7,
+          "text": "done."
+        },
+        {
+          "startSec": 321.7,
+          "endSec": 322.7,
+          "text": "Yay!"
+        },
+        {
+          "startSec": 322.7,
+          "endSec": 322.9,
+          "text": "OK,"
+        }
+      ]
+    },
+    {
+      "startSec": 322.7,
+      "endSec": 327.5,
+      "text": "OK, let's recap the vocabulary we've learned in this episode about clutter. Things we buy",
+      "words": [
+        {
+          "startSec": 322.7,
+          "endSec": 322.9,
+          "text": "OK,"
+        },
+        {
+          "startSec": 322.9,
+          "endSec": 323.3,
+          "text": "let's"
+        },
+        {
+          "startSec": 323.3,
+          "endSec": 323.6,
+          "text": "recap"
+        },
+        {
+          "startSec": 323.6,
+          "endSec": 323.8,
+          "text": "the"
+        },
+        {
+          "startSec": 323.8,
+          "endSec": 324.4,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 324.4,
+          "endSec": 324.8,
+          "text": "we've"
+        },
+        {
+          "startSec": 324.8,
+          "endSec": 325.2,
+          "text": "learned"
+        },
+        {
+          "startSec": 325.2,
+          "endSec": 325.4,
+          "text": "in"
+        },
+        {
+          "startSec": 325.4,
+          "endSec": 325.6,
+          "text": "this"
+        },
+        {
+          "startSec": 325.6,
+          "endSec": 326.1,
+          "text": "episode"
+        },
+        {
+          "startSec": 326.1,
+          "endSec": 326.4,
+          "text": "about"
+        },
+        {
+          "startSec": 326.4,
+          "endSec": 327.1,
+          "text": "clutter."
+        },
+        {
+          "startSec": 327.1,
+          "endSec": 327.2,
+          "text": "Things"
+        },
+        {
+          "startSec": 327.2,
+          "endSec": 327.3,
+          "text": "we"
+        },
+        {
+          "startSec": 327.3,
+          "endSec": 327.5,
+          "text": "buy"
+        },
+        {
+          "startSec": 327.5,
+          "endSec": 327.9,
+          "text": "which"
+        }
+      ]
+    },
+    {
+      "startSec": 327.5,
+      "endSec": 331.4,
+      "text": "which fill up our homes in an untidy, disorganized way.",
+      "words": [
+        {
+          "startSec": 327.5,
+          "endSec": 327.9,
+          "text": "which"
+        },
+        {
+          "startSec": 327.9,
+          "endSec": 328.2,
+          "text": "fill"
+        },
+        {
+          "startSec": 328.2,
+          "endSec": 328.4,
+          "text": "up"
+        },
+        {
+          "startSec": 328.4,
+          "endSec": 328.6,
+          "text": "our"
+        },
+        {
+          "startSec": 328.6,
+          "endSec": 329,
+          "text": "homes"
+        },
+        {
+          "startSec": 329,
+          "endSec": 329.2,
+          "text": "in"
+        },
+        {
+          "startSec": 329.2,
+          "endSec": 329.3,
+          "text": "an"
+        },
+        {
+          "startSec": 329.3,
+          "endSec": 330,
+          "text": "untidy,"
+        },
+        {
+          "startSec": 330,
+          "endSec": 330.9,
+          "text": "disorganized"
+        },
+        {
+          "startSec": 330.9,
+          "endSec": 331.4,
+          "text": "way."
+        },
+        {
+          "startSec": 331.4,
+          "endSec": 331.7,
+          "text": "When"
+        }
+      ]
+    },
+    {
+      "startSec": 331.4,
+      "endSec": 337,
+      "text": "When something has to work overtime, it works extra hard using lots of energy. Work overtime",
+      "words": [
+        {
+          "startSec": 331.4,
+          "endSec": 331.7,
+          "text": "When"
+        },
+        {
+          "startSec": 331.7,
+          "endSec": 332.4,
+          "text": "something"
+        },
+        {
+          "startSec": 332.4,
+          "endSec": 332.6,
+          "text": "has"
+        },
+        {
+          "startSec": 332.6,
+          "endSec": 332.8,
+          "text": "to"
+        },
+        {
+          "startSec": 332.8,
+          "endSec": 333,
+          "text": "work"
+        },
+        {
+          "startSec": 333,
+          "endSec": 333.8,
+          "text": "overtime,"
+        },
+        {
+          "startSec": 333.8,
+          "endSec": 333.9,
+          "text": "it"
+        },
+        {
+          "startSec": 333.9,
+          "endSec": 334.3,
+          "text": "works"
+        },
+        {
+          "startSec": 334.3,
+          "endSec": 334.6,
+          "text": "extra"
+        },
+        {
+          "startSec": 334.6,
+          "endSec": 334.9,
+          "text": "hard"
+        },
+        {
+          "startSec": 334.9,
+          "endSec": 335.3,
+          "text": "using"
+        },
+        {
+          "startSec": 335.3,
+          "endSec": 335.6,
+          "text": "lots"
+        },
+        {
+          "startSec": 335.6,
+          "endSec": 335.7,
+          "text": "of"
+        },
+        {
+          "startSec": 335.7,
+          "endSec": 336.4,
+          "text": "energy."
+        },
+        {
+          "startSec": 336.4,
+          "endSec": 336.6,
+          "text": "Work"
+        },
+        {
+          "startSec": 336.6,
+          "endSec": 337,
+          "text": "overtime"
+        },
+        {
+          "startSec": 337,
+          "endSec": 337.4,
+          "text": "also"
+        }
+      ]
+    },
+    {
+      "startSec": 337,
+      "endSec": 340.4,
+      "text": "also often means work longer than your set hours.",
+      "words": [
+        {
+          "startSec": 337,
+          "endSec": 337.4,
+          "text": "also"
+        },
+        {
+          "startSec": 337.4,
+          "endSec": 337.7,
+          "text": "often"
+        },
+        {
+          "startSec": 337.7,
+          "endSec": 338.1,
+          "text": "means"
+        },
+        {
+          "startSec": 338.1,
+          "endSec": 338.4,
+          "text": "work"
+        },
+        {
+          "startSec": 338.4,
+          "endSec": 338.9,
+          "text": "longer"
+        },
+        {
+          "startSec": 338.9,
+          "endSec": 339.2,
+          "text": "than"
+        },
+        {
+          "startSec": 339.2,
+          "endSec": 339.5,
+          "text": "your"
+        },
+        {
+          "startSec": 339.5,
+          "endSec": 339.8,
+          "text": "set"
+        },
+        {
+          "startSec": 339.8,
+          "endSec": 340.4,
+          "text": "hours."
+        },
+        {
+          "startSec": 340.4,
+          "endSec": 340.6,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 340.4,
+      "endSec": 345,
+      "text": "The adjective 'up-lifted' means feeling cheerful, happy and optimistic.",
+      "words": [
+        {
+          "startSec": 340.4,
+          "endSec": 340.6,
+          "text": "The"
+        },
+        {
+          "startSec": 340.6,
+          "endSec": 341.2,
+          "text": "adjective"
+        },
+        {
+          "startSec": 341.2,
+          "endSec": 341.9,
+          "text": "'up-lifted'"
+        },
+        {
+          "startSec": 341.9,
+          "endSec": 342.3,
+          "text": "means"
+        },
+        {
+          "startSec": 342.3,
+          "endSec": 342.8,
+          "text": "feeling"
+        },
+        {
+          "startSec": 342.8,
+          "endSec": 343.4,
+          "text": "cheerful,"
+        },
+        {
+          "startSec": 343.4,
+          "endSec": 343.8,
+          "text": "happy"
+        },
+        {
+          "startSec": 343.8,
+          "endSec": 344,
+          "text": "and"
+        },
+        {
+          "startSec": 344,
+          "endSec": 345,
+          "text": "optimistic."
+        },
+        {
+          "startSec": 345,
+          "endSec": 345.1,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 345,
+      "endSec": 350.1,
+      "text": "If you do something slowly but surely, you do it in a gradual but reliable way which will",
+      "words": [
+        {
+          "startSec": 345,
+          "endSec": 345.1,
+          "text": "If"
+        },
+        {
+          "startSec": 345.1,
+          "endSec": 345.3,
+          "text": "you"
+        },
+        {
+          "startSec": 345.3,
+          "endSec": 345.5,
+          "text": "do"
+        },
+        {
+          "startSec": 345.5,
+          "endSec": 346.1,
+          "text": "something"
+        },
+        {
+          "startSec": 346.1,
+          "endSec": 346.5,
+          "text": "slowly"
+        },
+        {
+          "startSec": 346.5,
+          "endSec": 346.7,
+          "text": "but"
+        },
+        {
+          "startSec": 346.7,
+          "endSec": 347.3,
+          "text": "surely,"
+        },
+        {
+          "startSec": 347.3,
+          "endSec": 347.5,
+          "text": "you"
+        },
+        {
+          "startSec": 347.5,
+          "endSec": 347.7,
+          "text": "do"
+        },
+        {
+          "startSec": 347.7,
+          "endSec": 347.8,
+          "text": "it"
+        },
+        {
+          "startSec": 347.8,
+          "endSec": 347.9,
+          "text": "in"
+        },
+        {
+          "startSec": 347.9,
+          "endSec": 348,
+          "text": "a"
+        },
+        {
+          "startSec": 348,
+          "endSec": 348.5,
+          "text": "gradual"
+        },
+        {
+          "startSec": 348.5,
+          "endSec": 348.7,
+          "text": "but"
+        },
+        {
+          "startSec": 348.7,
+          "endSec": 349.3,
+          "text": "reliable"
+        },
+        {
+          "startSec": 349.3,
+          "endSec": 349.5,
+          "text": "way"
+        },
+        {
+          "startSec": 349.5,
+          "endSec": 350,
+          "text": "which"
+        },
+        {
+          "startSec": 350,
+          "endSec": 350.1,
+          "text": "will"
+        },
+        {
+          "startSec": 350.1,
+          "endSec": 350.6,
+          "text": "achieve"
+        }
+      ]
+    },
+    {
+      "startSec": 350.1,
+      "endSec": 352,
+      "text": "achieve the result you want.",
+      "words": [
+        {
+          "startSec": 350.1,
+          "endSec": 350.6,
+          "text": "achieve"
+        },
+        {
+          "startSec": 350.6,
+          "endSec": 350.9,
+          "text": "the"
+        },
+        {
+          "startSec": 350.9,
+          "endSec": 351.3,
+          "text": "result"
+        },
+        {
+          "startSec": 351.3,
+          "endSec": 351.5,
+          "text": "you"
+        },
+        {
+          "startSec": 351.5,
+          "endSec": 352,
+          "text": "want."
+        },
+        {
+          "startSec": 352,
+          "endSec": 352.3,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 352,
+      "endSec": 357.8,
+      "text": "The idiom with all guns blazing describes doing things with lots of energy and enthusiasm.",
+      "words": [
+        {
+          "startSec": 352,
+          "endSec": 352.3,
+          "text": "The"
+        },
+        {
+          "startSec": 352.3,
+          "endSec": 352.6,
+          "text": "idiom"
+        },
+        {
+          "startSec": 352.6,
+          "endSec": 352.9,
+          "text": "with"
+        },
+        {
+          "startSec": 352.9,
+          "endSec": 353.1,
+          "text": "all"
+        },
+        {
+          "startSec": 353.1,
+          "endSec": 353.4,
+          "text": "guns"
+        },
+        {
+          "startSec": 353.4,
+          "endSec": 353.9,
+          "text": "blazing"
+        },
+        {
+          "startSec": 353.9,
+          "endSec": 354.6,
+          "text": "describes"
+        },
+        {
+          "startSec": 354.6,
+          "endSec": 354.9,
+          "text": "doing"
+        },
+        {
+          "startSec": 354.9,
+          "endSec": 355.4,
+          "text": "things"
+        },
+        {
+          "startSec": 355.4,
+          "endSec": 355.7,
+          "text": "with"
+        },
+        {
+          "startSec": 355.7,
+          "endSec": 355.9,
+          "text": "lots"
+        },
+        {
+          "startSec": 355.9,
+          "endSec": 356.1,
+          "text": "of"
+        },
+        {
+          "startSec": 356.1,
+          "endSec": 356.5,
+          "text": "energy"
+        },
+        {
+          "startSec": 356.5,
+          "endSec": 356.7,
+          "text": "and"
+        },
+        {
+          "startSec": 356.7,
+          "endSec": 357.8,
+          "text": "enthusiasm."
+        },
+        {
+          "startSec": 357.8,
+          "endSec": 357.9,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 357.8,
+      "endSec": 362,
+      "text": "And finally, if you bite off more than you can chew, you try to do something which is",
+      "words": [
+        {
+          "startSec": 357.8,
+          "endSec": 357.9,
+          "text": "And"
+        },
+        {
+          "startSec": 357.9,
+          "endSec": 358.5,
+          "text": "finally,"
+        },
+        {
+          "startSec": 358.5,
+          "endSec": 358.6,
+          "text": "if"
+        },
+        {
+          "startSec": 358.6,
+          "endSec": 358.8,
+          "text": "you"
+        },
+        {
+          "startSec": 358.8,
+          "endSec": 359,
+          "text": "bite"
+        },
+        {
+          "startSec": 359,
+          "endSec": 359.2,
+          "text": "off"
+        },
+        {
+          "startSec": 359.2,
+          "endSec": 359.4,
+          "text": "more"
+        },
+        {
+          "startSec": 359.4,
+          "endSec": 359.6,
+          "text": "than"
+        },
+        {
+          "startSec": 359.6,
+          "endSec": 359.8,
+          "text": "you"
+        },
+        {
+          "startSec": 359.8,
+          "endSec": 360,
+          "text": "can"
+        },
+        {
+          "startSec": 360,
+          "endSec": 360.3,
+          "text": "chew,"
+        },
+        {
+          "startSec": 360.3,
+          "endSec": 360.5,
+          "text": "you"
+        },
+        {
+          "startSec": 360.5,
+          "endSec": 360.7,
+          "text": "try"
+        },
+        {
+          "startSec": 360.7,
+          "endSec": 360.8,
+          "text": "to"
+        },
+        {
+          "startSec": 360.8,
+          "endSec": 360.9,
+          "text": "do"
+        },
+        {
+          "startSec": 360.9,
+          "endSec": 361.5,
+          "text": "something"
+        },
+        {
+          "startSec": 361.5,
+          "endSec": 361.8,
+          "text": "which"
+        },
+        {
+          "startSec": 361.8,
+          "endSec": 362,
+          "text": "is"
+        },
+        {
+          "startSec": 362,
+          "endSec": 362.2,
+          "text": "too"
+        }
+      ]
+    },
+    {
+      "startSec": 362,
+      "endSec": 366.8,
+      "text": "too difficult for you. Once again, our six minutes are up, but why not head over to our",
+      "words": [
+        {
+          "startSec": 362,
+          "endSec": 362.2,
+          "text": "too"
+        },
+        {
+          "startSec": 362.2,
+          "endSec": 363,
+          "text": "difficult"
+        },
+        {
+          "startSec": 363,
+          "endSec": 363.3,
+          "text": "for"
+        },
+        {
+          "startSec": 363.3,
+          "endSec": 363.8,
+          "text": "you."
+        },
+        {
+          "startSec": 363.8,
+          "endSec": 364,
+          "text": "Once"
+        },
+        {
+          "startSec": 364,
+          "endSec": 364.4,
+          "text": "again,"
+        },
+        {
+          "startSec": 364.4,
+          "endSec": 364.6,
+          "text": "our"
+        },
+        {
+          "startSec": 364.6,
+          "endSec": 364.8,
+          "text": "six"
+        },
+        {
+          "startSec": 364.8,
+          "endSec": 365.2,
+          "text": "minutes"
+        },
+        {
+          "startSec": 365.2,
+          "endSec": 365.3,
+          "text": "are"
+        },
+        {
+          "startSec": 365.3,
+          "endSec": 365.6,
+          "text": "up,"
+        },
+        {
+          "startSec": 365.6,
+          "endSec": 365.7,
+          "text": "but"
+        },
+        {
+          "startSec": 365.7,
+          "endSec": 365.8,
+          "text": "why"
+        },
+        {
+          "startSec": 365.8,
+          "endSec": 366,
+          "text": "not"
+        },
+        {
+          "startSec": 366,
+          "endSec": 366.3,
+          "text": "head"
+        },
+        {
+          "startSec": 366.3,
+          "endSec": 366.5,
+          "text": "over"
+        },
+        {
+          "startSec": 366.5,
+          "endSec": 366.6,
+          "text": "to"
+        },
+        {
+          "startSec": 366.6,
+          "endSec": 366.8,
+          "text": "our"
+        },
+        {
+          "startSec": 366.8,
+          "endSec": 367.4,
+          "text": "website,"
+        }
+      ]
+    },
+    {
+      "startSec": 366.8,
+      "endSec": 372.4,
+      "text": "website, bbclearningenglish.com, to try the quiz for this episode. Good luck decluttering",
+      "words": [
+        {
+          "startSec": 366.8,
+          "endSec": 367.4,
+          "text": "website,"
+        },
+        {
+          "startSec": 367.4,
+          "endSec": 369.3,
+          "text": "bbclearningenglish.com,"
+        },
+        {
+          "startSec": 369.3,
+          "endSec": 369.5,
+          "text": "to"
+        },
+        {
+          "startSec": 369.5,
+          "endSec": 369.7,
+          "text": "try"
+        },
+        {
+          "startSec": 369.7,
+          "endSec": 369.9,
+          "text": "the"
+        },
+        {
+          "startSec": 369.9,
+          "endSec": 370.2,
+          "text": "quiz"
+        },
+        {
+          "startSec": 370.2,
+          "endSec": 370.4,
+          "text": "for"
+        },
+        {
+          "startSec": 370.4,
+          "endSec": 370.7,
+          "text": "this"
+        },
+        {
+          "startSec": 370.7,
+          "endSec": 371.6,
+          "text": "episode."
+        },
+        {
+          "startSec": 371.6,
+          "endSec": 371.7,
+          "text": "Good"
+        },
+        {
+          "startSec": 371.7,
+          "endSec": 371.9,
+          "text": "luck"
+        },
+        {
+          "startSec": 371.9,
+          "endSec": 372.4,
+          "text": "decluttering"
+        }
+      ]
+    },
+    {
+      "startSec": 372.4,
+      "endSec": 379.4,
+      "text": "and see you again soon. Bye!",
+      "words": [
+        {
+          "startSec": 372.5,
+          "endSec": 373.1,
+          "text": "and"
+        },
+        {
+          "startSec": 373.1,
+          "endSec": 373.9,
+          "text": "see"
+        },
+        {
+          "startSec": 373.9,
+          "endSec": 374.7,
+          "text": "you"
+        },
+        {
+          "startSec": 374.7,
+          "endSec": 376,
+          "text": "again"
+        },
+        {
+          "startSec": 376,
+          "endSec": 377.8,
+          "text": "soon."
+        },
+        {
+          "startSec": 377.8,
+          "endSec": 379.4,
+          "text": "Bye!"
+        }
+      ]
+    }
+  ],
+  "introSec": 0
+}

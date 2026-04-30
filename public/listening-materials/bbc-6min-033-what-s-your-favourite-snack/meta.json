@@ -1,0 +1,5445 @@
+{
+  "title": "What's your favourite snack",
+  "source": "BBC 6 Minute English",
+  "level": "intermediate",
+  "durationSec": 372,
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
+  "audioFile": "audio.mp3",
+  "segments": [
+    {
+      "startSec": 0,
+      "endSec": 7.9,
+      "text": "6 News English from bbclearningenglish.com",
+      "words": [
+        {
+          "startSec": 0.1,
+          "endSec": 0.5,
+          "text": "6"
+        },
+        {
+          "startSec": 0.5,
+          "endSec": 1.3,
+          "text": "News"
+        },
+        {
+          "startSec": 1.3,
+          "endSec": 2.6,
+          "text": "English"
+        },
+        {
+          "startSec": 2.6,
+          "endSec": 3.3,
+          "text": "from"
+        },
+        {
+          "startSec": 3.3,
+          "endSec": 7.9,
+          "text": "bbclearningenglish.com"
+        },
+        {
+          "startSec": 7.9,
+          "endSec": 8.2,
+          "text": "Hello"
+        }
+      ]
+    },
+    {
+      "startSec": 7.9,
+      "endSec": 12.2,
+      "text": "Hello this is 6 Minute English from BBC Learning English, I'm Neil.",
+      "words": [
+        {
+          "startSec": 7.9,
+          "endSec": 8.2,
+          "text": "Hello"
+        },
+        {
+          "startSec": 8.2,
+          "endSec": 8.5,
+          "text": "this"
+        },
+        {
+          "startSec": 8.5,
+          "endSec": 8.7,
+          "text": "is"
+        },
+        {
+          "startSec": 8.7,
+          "endSec": 8.9,
+          "text": "6"
+        },
+        {
+          "startSec": 8.9,
+          "endSec": 9.3,
+          "text": "Minute"
+        },
+        {
+          "startSec": 9.3,
+          "endSec": 9.8,
+          "text": "English"
+        },
+        {
+          "startSec": 9.8,
+          "endSec": 10.1,
+          "text": "from"
+        },
+        {
+          "startSec": 10.1,
+          "endSec": 10.3,
+          "text": "BBC"
+        },
+        {
+          "startSec": 10.3,
+          "endSec": 10.8,
+          "text": "Learning"
+        },
+        {
+          "startSec": 10.8,
+          "endSec": 11.5,
+          "text": "English,"
+        },
+        {
+          "startSec": 11.5,
+          "endSec": 11.6,
+          "text": "I'm"
+        },
+        {
+          "startSec": 11.6,
+          "endSec": 12.2,
+          "text": "Neil."
+        },
+        {
+          "startSec": 12.2,
+          "endSec": 12.5,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 12.2,
+      "endSec": 18.2,
+      "text": "And I'm Beth. It seems people around the world are in love with snacks. From old favourites",
+      "words": [
+        {
+          "startSec": 12.2,
+          "endSec": 12.5,
+          "text": "And"
+        },
+        {
+          "startSec": 12.5,
+          "endSec": 12.8,
+          "text": "I'm"
+        },
+        {
+          "startSec": 12.8,
+          "endSec": 13.4,
+          "text": "Beth."
+        },
+        {
+          "startSec": 13.4,
+          "endSec": 13.6,
+          "text": "It"
+        },
+        {
+          "startSec": 13.6,
+          "endSec": 13.9,
+          "text": "seems"
+        },
+        {
+          "startSec": 13.9,
+          "endSec": 14.2,
+          "text": "people"
+        },
+        {
+          "startSec": 14.2,
+          "endSec": 14.6,
+          "text": "around"
+        },
+        {
+          "startSec": 14.6,
+          "endSec": 14.8,
+          "text": "the"
+        },
+        {
+          "startSec": 14.8,
+          "endSec": 15.1,
+          "text": "world"
+        },
+        {
+          "startSec": 15.1,
+          "endSec": 15.3,
+          "text": "are"
+        },
+        {
+          "startSec": 15.3,
+          "endSec": 15.4,
+          "text": "in"
+        },
+        {
+          "startSec": 15.4,
+          "endSec": 15.8,
+          "text": "love"
+        },
+        {
+          "startSec": 15.8,
+          "endSec": 16.3,
+          "text": "with"
+        },
+        {
+          "startSec": 16.3,
+          "endSec": 17.3,
+          "text": "snacks."
+        },
+        {
+          "startSec": 17.3,
+          "endSec": 17.5,
+          "text": "From"
+        },
+        {
+          "startSec": 17.5,
+          "endSec": 17.7,
+          "text": "old"
+        },
+        {
+          "startSec": 17.7,
+          "endSec": 18.2,
+          "text": "favourites"
+        },
+        {
+          "startSec": 18.2,
+          "endSec": 18.5,
+          "text": "like"
+        }
+      ]
+    },
+    {
+      "startSec": 18.2,
+      "endSec": 24.1,
+      "text": "like popcorn and crisps to new inventions like the chocolate sandwich, snacks are big",
+      "words": [
+        {
+          "startSec": 18.2,
+          "endSec": 18.5,
+          "text": "like"
+        },
+        {
+          "startSec": 18.5,
+          "endSec": 19.1,
+          "text": "popcorn"
+        },
+        {
+          "startSec": 19.1,
+          "endSec": 19.3,
+          "text": "and"
+        },
+        {
+          "startSec": 19.3,
+          "endSec": 19.8,
+          "text": "crisps"
+        },
+        {
+          "startSec": 19.8,
+          "endSec": 20,
+          "text": "to"
+        },
+        {
+          "startSec": 20,
+          "endSec": 20.2,
+          "text": "new"
+        },
+        {
+          "startSec": 20.2,
+          "endSec": 21,
+          "text": "inventions"
+        },
+        {
+          "startSec": 21,
+          "endSec": 21.3,
+          "text": "like"
+        },
+        {
+          "startSec": 21.3,
+          "endSec": 21.6,
+          "text": "the"
+        },
+        {
+          "startSec": 21.6,
+          "endSec": 22.3,
+          "text": "chocolate"
+        },
+        {
+          "startSec": 22.3,
+          "endSec": 23.1,
+          "text": "sandwich,"
+        },
+        {
+          "startSec": 23.1,
+          "endSec": 23.6,
+          "text": "snacks"
+        },
+        {
+          "startSec": 23.6,
+          "endSec": 23.8,
+          "text": "are"
+        },
+        {
+          "startSec": 23.8,
+          "endSec": 24.1,
+          "text": "big"
+        }
+      ]
+    },
+    {
+      "startSec": 24.1,
+      "endSec": 31.5,
+      "text": "business with an estimated $1.5 trillion a year spent globally on snacking.",
+      "words": [
+        {
+          "startSec": 24.2,
+          "endSec": 24.9,
+          "text": "business"
+        },
+        {
+          "startSec": 24.9,
+          "endSec": 25.3,
+          "text": "with"
+        },
+        {
+          "startSec": 25.3,
+          "endSec": 25.5,
+          "text": "an"
+        },
+        {
+          "startSec": 25.5,
+          "endSec": 26.4,
+          "text": "estimated"
+        },
+        {
+          "startSec": 26.4,
+          "endSec": 27.4,
+          "text": "$1.5"
+        },
+        {
+          "startSec": 27.4,
+          "endSec": 28.3,
+          "text": "trillion"
+        },
+        {
+          "startSec": 28.3,
+          "endSec": 28.4,
+          "text": "a"
+        },
+        {
+          "startSec": 28.4,
+          "endSec": 28.8,
+          "text": "year"
+        },
+        {
+          "startSec": 28.8,
+          "endSec": 29.3,
+          "text": "spent"
+        },
+        {
+          "startSec": 29.3,
+          "endSec": 30.1,
+          "text": "globally"
+        },
+        {
+          "startSec": 30.1,
+          "endSec": 30.3,
+          "text": "on"
+        },
+        {
+          "startSec": 30.3,
+          "endSec": 31.5,
+          "text": "snacking."
+        },
+        {
+          "startSec": 31.5,
+          "endSec": 31.9,
+          "text": "Let's"
+        }
+      ]
+    },
+    {
+      "startSec": 31.5,
+      "endSec": 37.3,
+      "text": "Let's listen as British food historian Annie Gray, an Argentinian chef Barbara Oyavari",
+      "words": [
+        {
+          "startSec": 31.5,
+          "endSec": 31.9,
+          "text": "Let's"
+        },
+        {
+          "startSec": 31.9,
+          "endSec": 32.3,
+          "text": "listen"
+        },
+        {
+          "startSec": 32.3,
+          "endSec": 32.5,
+          "text": "as"
+        },
+        {
+          "startSec": 32.5,
+          "endSec": 33,
+          "text": "British"
+        },
+        {
+          "startSec": 33,
+          "endSec": 33.3,
+          "text": "food"
+        },
+        {
+          "startSec": 33.3,
+          "endSec": 34,
+          "text": "historian"
+        },
+        {
+          "startSec": 34,
+          "endSec": 34.3,
+          "text": "Annie"
+        },
+        {
+          "startSec": 34.3,
+          "endSec": 34.9,
+          "text": "Gray,"
+        },
+        {
+          "startSec": 34.9,
+          "endSec": 35.1,
+          "text": "an"
+        },
+        {
+          "startSec": 35.1,
+          "endSec": 35.9,
+          "text": "Argentinian"
+        },
+        {
+          "startSec": 35.9,
+          "endSec": 36.2,
+          "text": "chef"
+        },
+        {
+          "startSec": 36.2,
+          "endSec": 36.7,
+          "text": "Barbara"
+        },
+        {
+          "startSec": 36.7,
+          "endSec": 37.3,
+          "text": "Oyavari"
+        },
+        {
+          "startSec": 37.3,
+          "endSec": 37.6,
+          "text": "tell"
+        }
+      ]
+    },
+    {
+      "startSec": 37.3,
+      "endSec": 42.2,
+      "text": "tell BBC World Service Programme the food chain what they'd like to snack on between",
+      "words": [
+        {
+          "startSec": 37.3,
+          "endSec": 37.6,
+          "text": "tell"
+        },
+        {
+          "startSec": 37.6,
+          "endSec": 37.8,
+          "text": "BBC"
+        },
+        {
+          "startSec": 37.8,
+          "endSec": 38.1,
+          "text": "World"
+        },
+        {
+          "startSec": 38.1,
+          "endSec": 38.6,
+          "text": "Service"
+        },
+        {
+          "startSec": 38.6,
+          "endSec": 39.2,
+          "text": "Programme"
+        },
+        {
+          "startSec": 39.2,
+          "endSec": 39.5,
+          "text": "the"
+        },
+        {
+          "startSec": 39.5,
+          "endSec": 39.7,
+          "text": "food"
+        },
+        {
+          "startSec": 39.7,
+          "endSec": 40,
+          "text": "chain"
+        },
+        {
+          "startSec": 40,
+          "endSec": 40.3,
+          "text": "what"
+        },
+        {
+          "startSec": 40.3,
+          "endSec": 40.7,
+          "text": "they'd"
+        },
+        {
+          "startSec": 40.7,
+          "endSec": 41,
+          "text": "like"
+        },
+        {
+          "startSec": 41,
+          "endSec": 41.1,
+          "text": "to"
+        },
+        {
+          "startSec": 41.1,
+          "endSec": 41.5,
+          "text": "snack"
+        },
+        {
+          "startSec": 41.5,
+          "endSec": 41.6,
+          "text": "on"
+        },
+        {
+          "startSec": 41.6,
+          "endSec": 42.2,
+          "text": "between"
+        },
+        {
+          "startSec": 42.2,
+          "endSec": 43.2,
+          "text": "meals."
+        }
+      ]
+    },
+    {
+      "startSec": 42.2,
+      "endSec": 43.2,
+      "text": "meals.",
+      "words": [
+        {
+          "startSec": 42.2,
+          "endSec": 43.2,
+          "text": "meals."
+        },
+        {
+          "startSec": 43.2,
+          "endSec": 43.3,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 43.2,
+      "endSec": 48.6,
+      "text": "I like salted peanuts and I love a banana. Preferably together actually I find that they",
+      "words": [
+        {
+          "startSec": 43.2,
+          "endSec": 43.3,
+          "text": "I"
+        },
+        {
+          "startSec": 43.3,
+          "endSec": 43.6,
+          "text": "like"
+        },
+        {
+          "startSec": 43.6,
+          "endSec": 44,
+          "text": "salted"
+        },
+        {
+          "startSec": 44,
+          "endSec": 44.5,
+          "text": "peanuts"
+        },
+        {
+          "startSec": 44.5,
+          "endSec": 44.7,
+          "text": "and"
+        },
+        {
+          "startSec": 44.7,
+          "endSec": 44.8,
+          "text": "I"
+        },
+        {
+          "startSec": 44.8,
+          "endSec": 45.1,
+          "text": "love"
+        },
+        {
+          "startSec": 45.1,
+          "endSec": 45.2,
+          "text": "a"
+        },
+        {
+          "startSec": 45.2,
+          "endSec": 45.8,
+          "text": "banana."
+        },
+        {
+          "startSec": 45.8,
+          "endSec": 46.6,
+          "text": "Preferably"
+        },
+        {
+          "startSec": 46.6,
+          "endSec": 47.2,
+          "text": "together"
+        },
+        {
+          "startSec": 47.2,
+          "endSec": 47.7,
+          "text": "actually"
+        },
+        {
+          "startSec": 47.7,
+          "endSec": 47.8,
+          "text": "I"
+        },
+        {
+          "startSec": 47.8,
+          "endSec": 48.1,
+          "text": "find"
+        },
+        {
+          "startSec": 48.1,
+          "endSec": 48.5,
+          "text": "that"
+        },
+        {
+          "startSec": 48.5,
+          "endSec": 48.6,
+          "text": "they"
+        },
+        {
+          "startSec": 48.6,
+          "endSec": 48.9,
+          "text": "hit"
+        }
+      ]
+    },
+    {
+      "startSec": 48.6,
+      "endSec": 50,
+      "text": "hit the spot.",
+      "words": [
+        {
+          "startSec": 48.6,
+          "endSec": 48.9,
+          "text": "hit"
+        },
+        {
+          "startSec": 48.9,
+          "endSec": 49.2,
+          "text": "the"
+        },
+        {
+          "startSec": 49.2,
+          "endSec": 50,
+          "text": "spot."
+        }
+      ]
+    },
+    {
+      "startSec": 50,
+      "endSec": 57,
+      "text": "My favourite snack is called Chippa. It's a small round bun made with cassava, cheese,",
+      "words": [
+        {
+          "startSec": 50.1,
+          "endSec": 50.2,
+          "text": "My"
+        },
+        {
+          "startSec": 50.2,
+          "endSec": 51,
+          "text": "favourite"
+        },
+        {
+          "startSec": 51,
+          "endSec": 51.4,
+          "text": "snack"
+        },
+        {
+          "startSec": 51.4,
+          "endSec": 51.6,
+          "text": "is"
+        },
+        {
+          "startSec": 51.6,
+          "endSec": 52.1,
+          "text": "called"
+        },
+        {
+          "startSec": 52.1,
+          "endSec": 52.9,
+          "text": "Chippa."
+        },
+        {
+          "startSec": 52.9,
+          "endSec": 53.2,
+          "text": "It's"
+        },
+        {
+          "startSec": 53.2,
+          "endSec": 53.3,
+          "text": "a"
+        },
+        {
+          "startSec": 53.3,
+          "endSec": 53.7,
+          "text": "small"
+        },
+        {
+          "startSec": 53.7,
+          "endSec": 54.2,
+          "text": "round"
+        },
+        {
+          "startSec": 54.2,
+          "endSec": 54.4,
+          "text": "bun"
+        },
+        {
+          "startSec": 54.4,
+          "endSec": 54.8,
+          "text": "made"
+        },
+        {
+          "startSec": 54.8,
+          "endSec": 55.1,
+          "text": "with"
+        },
+        {
+          "startSec": 55.1,
+          "endSec": 56,
+          "text": "cassava,"
+        },
+        {
+          "startSec": 56,
+          "endSec": 57,
+          "text": "cheese,"
+        },
+        {
+          "startSec": 57,
+          "endSec": 58,
+          "text": "butter,"
+        }
+      ]
+    },
+    {
+      "startSec": 57,
+      "endSec": 59.4,
+      "text": "butter, milk and salt.",
+      "words": [
+        {
+          "startSec": 57,
+          "endSec": 58,
+          "text": "butter,"
+        },
+        {
+          "startSec": 58,
+          "endSec": 58.5,
+          "text": "milk"
+        },
+        {
+          "startSec": 58.5,
+          "endSec": 58.9,
+          "text": "and"
+        },
+        {
+          "startSec": 58.9,
+          "endSec": 59.4,
+          "text": "salt."
+        },
+        {
+          "startSec": 59.4,
+          "endSec": 60.1,
+          "text": "Barbara's"
+        }
+      ]
+    },
+    {
+      "startSec": 59.4,
+      "endSec": 65.5,
+      "text": "Barbara's favourite snack is a cheese bread called Chippa. While for Annie it's the combination",
+      "words": [
+        {
+          "startSec": 59.4,
+          "endSec": 60.1,
+          "text": "Barbara's"
+        },
+        {
+          "startSec": 60.1,
+          "endSec": 60.9,
+          "text": "favourite"
+        },
+        {
+          "startSec": 60.9,
+          "endSec": 61.2,
+          "text": "snack"
+        },
+        {
+          "startSec": 61.2,
+          "endSec": 61.4,
+          "text": "is"
+        },
+        {
+          "startSec": 61.4,
+          "endSec": 61.5,
+          "text": "a"
+        },
+        {
+          "startSec": 61.5,
+          "endSec": 61.9,
+          "text": "cheese"
+        },
+        {
+          "startSec": 61.9,
+          "endSec": 62.3,
+          "text": "bread"
+        },
+        {
+          "startSec": 62.3,
+          "endSec": 62.8,
+          "text": "called"
+        },
+        {
+          "startSec": 62.8,
+          "endSec": 63.6,
+          "text": "Chippa."
+        },
+        {
+          "startSec": 63.6,
+          "endSec": 63.9,
+          "text": "While"
+        },
+        {
+          "startSec": 63.9,
+          "endSec": 64,
+          "text": "for"
+        },
+        {
+          "startSec": 64,
+          "endSec": 64.3,
+          "text": "Annie"
+        },
+        {
+          "startSec": 64.3,
+          "endSec": 64.6,
+          "text": "it's"
+        },
+        {
+          "startSec": 64.6,
+          "endSec": 64.7,
+          "text": "the"
+        },
+        {
+          "startSec": 64.7,
+          "endSec": 65.5,
+          "text": "combination"
+        },
+        {
+          "startSec": 65.5,
+          "endSec": 65.6,
+          "text": "of"
+        }
+      ]
+    },
+    {
+      "startSec": 65.5,
+      "endSec": 71.2,
+      "text": "of peanuts and banana that hits the spot. An idiom meaning that it's exactly what you",
+      "words": [
+        {
+          "startSec": 65.5,
+          "endSec": 65.6,
+          "text": "of"
+        },
+        {
+          "startSec": 65.6,
+          "endSec": 66.2,
+          "text": "peanuts"
+        },
+        {
+          "startSec": 66.2,
+          "endSec": 66.4,
+          "text": "and"
+        },
+        {
+          "startSec": 66.4,
+          "endSec": 66.9,
+          "text": "banana"
+        },
+        {
+          "startSec": 66.9,
+          "endSec": 67.2,
+          "text": "that"
+        },
+        {
+          "startSec": 67.2,
+          "endSec": 67.5,
+          "text": "hits"
+        },
+        {
+          "startSec": 67.5,
+          "endSec": 67.8,
+          "text": "the"
+        },
+        {
+          "startSec": 67.8,
+          "endSec": 68.3,
+          "text": "spot."
+        },
+        {
+          "startSec": 68.3,
+          "endSec": 68.5,
+          "text": "An"
+        },
+        {
+          "startSec": 68.5,
+          "endSec": 68.9,
+          "text": "idiom"
+        },
+        {
+          "startSec": 68.9,
+          "endSec": 69.4,
+          "text": "meaning"
+        },
+        {
+          "startSec": 69.4,
+          "endSec": 69.8,
+          "text": "that"
+        },
+        {
+          "startSec": 69.8,
+          "endSec": 70.1,
+          "text": "it's"
+        },
+        {
+          "startSec": 70.1,
+          "endSec": 70.6,
+          "text": "exactly"
+        },
+        {
+          "startSec": 70.6,
+          "endSec": 71,
+          "text": "what"
+        },
+        {
+          "startSec": 71,
+          "endSec": 71.2,
+          "text": "you"
+        },
+        {
+          "startSec": 71.2,
+          "endSec": 72.2,
+          "text": "want."
+        }
+      ]
+    },
+    {
+      "startSec": 71.2,
+      "endSec": 74,
+      "text": "want. Neil what's your favourite snack?",
+      "words": [
+        {
+          "startSec": 71.2,
+          "endSec": 72.2,
+          "text": "want."
+        },
+        {
+          "startSec": 72.2,
+          "endSec": 72.5,
+          "text": "Neil"
+        },
+        {
+          "startSec": 72.5,
+          "endSec": 72.8,
+          "text": "what's"
+        },
+        {
+          "startSec": 72.8,
+          "endSec": 73,
+          "text": "your"
+        },
+        {
+          "startSec": 73,
+          "endSec": 73.6,
+          "text": "favourite"
+        },
+        {
+          "startSec": 73.6,
+          "endSec": 74,
+          "text": "snack?"
+        }
+      ]
+    },
+    {
+      "startSec": 74,
+      "endSec": 80.4,
+      "text": "Well I want to say something healthy but actually you know I really love a bag of crisps.",
+      "words": [
+        {
+          "startSec": 74.1,
+          "endSec": 74.4,
+          "text": "Well"
+        },
+        {
+          "startSec": 74.4,
+          "endSec": 74.5,
+          "text": "I"
+        },
+        {
+          "startSec": 74.5,
+          "endSec": 74.8,
+          "text": "want"
+        },
+        {
+          "startSec": 74.8,
+          "endSec": 75,
+          "text": "to"
+        },
+        {
+          "startSec": 75,
+          "endSec": 75.2,
+          "text": "say"
+        },
+        {
+          "startSec": 75.2,
+          "endSec": 76,
+          "text": "something"
+        },
+        {
+          "startSec": 76,
+          "endSec": 76.6,
+          "text": "healthy"
+        },
+        {
+          "startSec": 76.6,
+          "endSec": 76.8,
+          "text": "but"
+        },
+        {
+          "startSec": 76.8,
+          "endSec": 77.5,
+          "text": "actually"
+        },
+        {
+          "startSec": 77.5,
+          "endSec": 77.8,
+          "text": "you"
+        },
+        {
+          "startSec": 77.8,
+          "endSec": 78.1,
+          "text": "know"
+        },
+        {
+          "startSec": 78.1,
+          "endSec": 78.2,
+          "text": "I"
+        },
+        {
+          "startSec": 78.2,
+          "endSec": 78.7,
+          "text": "really"
+        },
+        {
+          "startSec": 78.7,
+          "endSec": 79,
+          "text": "love"
+        },
+        {
+          "startSec": 79,
+          "endSec": 79.1,
+          "text": "a"
+        },
+        {
+          "startSec": 79.1,
+          "endSec": 79.4,
+          "text": "bag"
+        },
+        {
+          "startSec": 79.4,
+          "endSec": 79.5,
+          "text": "of"
+        },
+        {
+          "startSec": 79.5,
+          "endSec": 80.4,
+          "text": "crisps."
+        },
+        {
+          "startSec": 80.4,
+          "endSec": 80.7,
+          "text": "Me"
+        }
+      ]
+    },
+    {
+      "startSec": 80.4,
+      "endSec": 83,
+      "text": "Me too. Yeah crisps are good.",
+      "words": [
+        {
+          "startSec": 80.4,
+          "endSec": 80.7,
+          "text": "Me"
+        },
+        {
+          "startSec": 80.7,
+          "endSec": 81.4,
+          "text": "too."
+        },
+        {
+          "startSec": 81.4,
+          "endSec": 81.7,
+          "text": "Yeah"
+        },
+        {
+          "startSec": 81.7,
+          "endSec": 82.2,
+          "text": "crisps"
+        },
+        {
+          "startSec": 82.2,
+          "endSec": 82.4,
+          "text": "are"
+        },
+        {
+          "startSec": 82.4,
+          "endSec": 83,
+          "text": "good."
+        },
+        {
+          "startSec": 83,
+          "endSec": 83.3,
+          "text": "Well"
+        }
+      ]
+    },
+    {
+      "startSec": 83,
+      "endSec": 88.1,
+      "text": "Well whatever you like to nibble on in this episode we'll find out why we are so in love",
+      "words": [
+        {
+          "startSec": 83,
+          "endSec": 83.3,
+          "text": "Well"
+        },
+        {
+          "startSec": 83.3,
+          "endSec": 83.8,
+          "text": "whatever"
+        },
+        {
+          "startSec": 83.8,
+          "endSec": 84.1,
+          "text": "you"
+        },
+        {
+          "startSec": 84.1,
+          "endSec": 84.3,
+          "text": "like"
+        },
+        {
+          "startSec": 84.3,
+          "endSec": 84.5,
+          "text": "to"
+        },
+        {
+          "startSec": 84.5,
+          "endSec": 84.9,
+          "text": "nibble"
+        },
+        {
+          "startSec": 84.9,
+          "endSec": 85,
+          "text": "on"
+        },
+        {
+          "startSec": 85,
+          "endSec": 85.2,
+          "text": "in"
+        },
+        {
+          "startSec": 85.2,
+          "endSec": 85.5,
+          "text": "this"
+        },
+        {
+          "startSec": 85.5,
+          "endSec": 85.9,
+          "text": "episode"
+        },
+        {
+          "startSec": 85.9,
+          "endSec": 86.3,
+          "text": "we'll"
+        },
+        {
+          "startSec": 86.3,
+          "endSec": 86.6,
+          "text": "find"
+        },
+        {
+          "startSec": 86.6,
+          "endSec": 86.8,
+          "text": "out"
+        },
+        {
+          "startSec": 86.8,
+          "endSec": 87,
+          "text": "why"
+        },
+        {
+          "startSec": 87,
+          "endSec": 87.1,
+          "text": "we"
+        },
+        {
+          "startSec": 87.1,
+          "endSec": 87.3,
+          "text": "are"
+        },
+        {
+          "startSec": 87.3,
+          "endSec": 87.5,
+          "text": "so"
+        },
+        {
+          "startSec": 87.5,
+          "endSec": 87.7,
+          "text": "in"
+        },
+        {
+          "startSec": 87.7,
+          "endSec": 88.1,
+          "text": "love"
+        },
+        {
+          "startSec": 88.1,
+          "endSec": 88.5,
+          "text": "with"
+        }
+      ]
+    },
+    {
+      "startSec": 88.1,
+      "endSec": 93.8,
+      "text": "with snack food. As usual we'll learn some useful new words and phrases and remember",
+      "words": [
+        {
+          "startSec": 88.1,
+          "endSec": 88.5,
+          "text": "with"
+        },
+        {
+          "startSec": 88.5,
+          "endSec": 89,
+          "text": "snack"
+        },
+        {
+          "startSec": 89,
+          "endSec": 89.8,
+          "text": "food."
+        },
+        {
+          "startSec": 89.8,
+          "endSec": 89.9,
+          "text": "As"
+        },
+        {
+          "startSec": 89.9,
+          "endSec": 90.2,
+          "text": "usual"
+        },
+        {
+          "startSec": 90.2,
+          "endSec": 90.5,
+          "text": "we'll"
+        },
+        {
+          "startSec": 90.5,
+          "endSec": 90.9,
+          "text": "learn"
+        },
+        {
+          "startSec": 90.9,
+          "endSec": 91.1,
+          "text": "some"
+        },
+        {
+          "startSec": 91.1,
+          "endSec": 91.5,
+          "text": "useful"
+        },
+        {
+          "startSec": 91.5,
+          "endSec": 91.7,
+          "text": "new"
+        },
+        {
+          "startSec": 91.7,
+          "endSec": 92,
+          "text": "words"
+        },
+        {
+          "startSec": 92,
+          "endSec": 92.3,
+          "text": "and"
+        },
+        {
+          "startSec": 92.3,
+          "endSec": 92.9,
+          "text": "phrases"
+        },
+        {
+          "startSec": 92.9,
+          "endSec": 93.1,
+          "text": "and"
+        },
+        {
+          "startSec": 93.1,
+          "endSec": 93.8,
+          "text": "remember"
+        },
+        {
+          "startSec": 93.8,
+          "endSec": 94.3,
+          "text": "you'll"
+        }
+      ]
+    },
+    {
+      "startSec": 93.8,
+      "endSec": 99.2,
+      "text": "you'll find all the vocabulary and a quiz on our website bbclearningenglish.com",
+      "words": [
+        {
+          "startSec": 93.8,
+          "endSec": 94.3,
+          "text": "you'll"
+        },
+        {
+          "startSec": 94.3,
+          "endSec": 94.6,
+          "text": "find"
+        },
+        {
+          "startSec": 94.6,
+          "endSec": 94.8,
+          "text": "all"
+        },
+        {
+          "startSec": 94.8,
+          "endSec": 95.1,
+          "text": "the"
+        },
+        {
+          "startSec": 95.1,
+          "endSec": 95.8,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 95.8,
+          "endSec": 96,
+          "text": "and"
+        },
+        {
+          "startSec": 96,
+          "endSec": 96.1,
+          "text": "a"
+        },
+        {
+          "startSec": 96.1,
+          "endSec": 96.4,
+          "text": "quiz"
+        },
+        {
+          "startSec": 96.4,
+          "endSec": 96.6,
+          "text": "on"
+        },
+        {
+          "startSec": 96.6,
+          "endSec": 96.8,
+          "text": "our"
+        },
+        {
+          "startSec": 96.8,
+          "endSec": 97.3,
+          "text": "website"
+        },
+        {
+          "startSec": 97.3,
+          "endSec": 99.2,
+          "text": "bbclearningenglish.com"
+        }
+      ]
+    },
+    {
+      "startSec": 99.2,
+      "endSec": 105.8,
+      "text": "Okay but first I have a question for you Beth. According to a recent U-GOV survey which of",
+      "words": [
+        {
+          "startSec": 99.3,
+          "endSec": 99.5,
+          "text": "Okay"
+        },
+        {
+          "startSec": 99.5,
+          "endSec": 99.8,
+          "text": "but"
+        },
+        {
+          "startSec": 99.8,
+          "endSec": 100.2,
+          "text": "first"
+        },
+        {
+          "startSec": 100.2,
+          "endSec": 100.3,
+          "text": "I"
+        },
+        {
+          "startSec": 100.3,
+          "endSec": 100.7,
+          "text": "have"
+        },
+        {
+          "startSec": 100.7,
+          "endSec": 100.7,
+          "text": "a"
+        },
+        {
+          "startSec": 100.7,
+          "endSec": 101.4,
+          "text": "question"
+        },
+        {
+          "startSec": 101.4,
+          "endSec": 101.7,
+          "text": "for"
+        },
+        {
+          "startSec": 101.7,
+          "endSec": 101.9,
+          "text": "you"
+        },
+        {
+          "startSec": 101.9,
+          "endSec": 102.5,
+          "text": "Beth."
+        },
+        {
+          "startSec": 102.5,
+          "endSec": 103.3,
+          "text": "According"
+        },
+        {
+          "startSec": 103.3,
+          "endSec": 103.5,
+          "text": "to"
+        },
+        {
+          "startSec": 103.5,
+          "endSec": 103.6,
+          "text": "a"
+        },
+        {
+          "startSec": 103.6,
+          "endSec": 104.1,
+          "text": "recent"
+        },
+        {
+          "startSec": 104.1,
+          "endSec": 104.5,
+          "text": "U-GOV"
+        },
+        {
+          "startSec": 104.5,
+          "endSec": 105.1,
+          "text": "survey"
+        },
+        {
+          "startSec": 105.1,
+          "endSec": 105.6,
+          "text": "which"
+        },
+        {
+          "startSec": 105.6,
+          "endSec": 105.8,
+          "text": "of"
+        },
+        {
+          "startSec": 105.8,
+          "endSec": 106,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 105.8,
+      "endSec": 112.6,
+      "text": "the following snacks is most popular amongst Brits. Is it A) crisps, B) confectionery and",
+      "words": [
+        {
+          "startSec": 105.8,
+          "endSec": 106,
+          "text": "the"
+        },
+        {
+          "startSec": 106,
+          "endSec": 106.8,
+          "text": "following"
+        },
+        {
+          "startSec": 106.8,
+          "endSec": 107.3,
+          "text": "snacks"
+        },
+        {
+          "startSec": 107.3,
+          "endSec": 107.4,
+          "text": "is"
+        },
+        {
+          "startSec": 107.4,
+          "endSec": 107.7,
+          "text": "most"
+        },
+        {
+          "startSec": 107.7,
+          "endSec": 108.3,
+          "text": "popular"
+        },
+        {
+          "startSec": 108.3,
+          "endSec": 108.9,
+          "text": "amongst"
+        },
+        {
+          "startSec": 108.9,
+          "endSec": 109.6,
+          "text": "Brits."
+        },
+        {
+          "startSec": 109.6,
+          "endSec": 109.8,
+          "text": "Is"
+        },
+        {
+          "startSec": 109.8,
+          "endSec": 109.9,
+          "text": "it"
+        },
+        {
+          "startSec": 109.9,
+          "endSec": 110.1,
+          "text": "A)"
+        },
+        {
+          "startSec": 110.1,
+          "endSec": 110.9,
+          "text": "crisps,"
+        },
+        {
+          "startSec": 110.9,
+          "endSec": 111.1,
+          "text": "B)"
+        },
+        {
+          "startSec": 111.1,
+          "endSec": 112.4,
+          "text": "confectionery"
+        },
+        {
+          "startSec": 112.4,
+          "endSec": 112.6,
+          "text": "and"
+        },
+        {
+          "startSec": 112.6,
+          "endSec": 113.5,
+          "text": "chocolate"
+        }
+      ]
+    },
+    {
+      "startSec": 112.6,
+      "endSec": 116.5,
+      "text": "chocolate or C) savoury snacks and biscuits?",
+      "words": [
+        {
+          "startSec": 112.6,
+          "endSec": 113.5,
+          "text": "chocolate"
+        },
+        {
+          "startSec": 113.5,
+          "endSec": 113.8,
+          "text": "or"
+        },
+        {
+          "startSec": 113.8,
+          "endSec": 114,
+          "text": "C)"
+        },
+        {
+          "startSec": 114,
+          "endSec": 114.7,
+          "text": "savoury"
+        },
+        {
+          "startSec": 114.7,
+          "endSec": 115.3,
+          "text": "snacks"
+        },
+        {
+          "startSec": 115.3,
+          "endSec": 115.6,
+          "text": "and"
+        },
+        {
+          "startSec": 115.6,
+          "endSec": 116.5,
+          "text": "biscuits?"
+        },
+        {
+          "startSec": 116.5,
+          "endSec": 116.8,
+          "text": "Well"
+        }
+      ]
+    },
+    {
+      "startSec": 116.5,
+      "endSec": 120.8,
+      "text": "Well we both just said crisps so I'm going to say crisps.",
+      "words": [
+        {
+          "startSec": 116.5,
+          "endSec": 116.8,
+          "text": "Well"
+        },
+        {
+          "startSec": 116.8,
+          "endSec": 117,
+          "text": "we"
+        },
+        {
+          "startSec": 117,
+          "endSec": 117.4,
+          "text": "both"
+        },
+        {
+          "startSec": 117.4,
+          "endSec": 117.7,
+          "text": "just"
+        },
+        {
+          "startSec": 117.7,
+          "endSec": 118.1,
+          "text": "said"
+        },
+        {
+          "startSec": 118.1,
+          "endSec": 118.6,
+          "text": "crisps"
+        },
+        {
+          "startSec": 118.6,
+          "endSec": 118.8,
+          "text": "so"
+        },
+        {
+          "startSec": 118.8,
+          "endSec": 119.1,
+          "text": "I'm"
+        },
+        {
+          "startSec": 119.1,
+          "endSec": 119.5,
+          "text": "going"
+        },
+        {
+          "startSec": 119.5,
+          "endSec": 119.7,
+          "text": "to"
+        },
+        {
+          "startSec": 119.7,
+          "endSec": 120,
+          "text": "say"
+        },
+        {
+          "startSec": 120,
+          "endSec": 120.8,
+          "text": "crisps."
+        },
+        {
+          "startSec": 120.8,
+          "endSec": 121.1,
+          "text": "Well"
+        }
+      ]
+    },
+    {
+      "startSec": 120.8,
+      "endSec": 126,
+      "text": "Well we'll find out the answer later in the programme. Someone with a professional interest",
+      "words": [
+        {
+          "startSec": 120.8,
+          "endSec": 121.1,
+          "text": "Well"
+        },
+        {
+          "startSec": 121.1,
+          "endSec": 121.5,
+          "text": "we'll"
+        },
+        {
+          "startSec": 121.5,
+          "endSec": 121.8,
+          "text": "find"
+        },
+        {
+          "startSec": 121.8,
+          "endSec": 122.1,
+          "text": "out"
+        },
+        {
+          "startSec": 122.1,
+          "endSec": 122.3,
+          "text": "the"
+        },
+        {
+          "startSec": 122.3,
+          "endSec": 122.8,
+          "text": "answer"
+        },
+        {
+          "startSec": 122.8,
+          "endSec": 123.2,
+          "text": "later"
+        },
+        {
+          "startSec": 123.2,
+          "endSec": 123.4,
+          "text": "in"
+        },
+        {
+          "startSec": 123.4,
+          "endSec": 123.6,
+          "text": "the"
+        },
+        {
+          "startSec": 123.6,
+          "endSec": 124.6,
+          "text": "programme."
+        },
+        {
+          "startSec": 124.6,
+          "endSec": 124.9,
+          "text": "Someone"
+        },
+        {
+          "startSec": 124.9,
+          "endSec": 125,
+          "text": "with"
+        },
+        {
+          "startSec": 125,
+          "endSec": 125,
+          "text": "a"
+        },
+        {
+          "startSec": 125,
+          "endSec": 125.5,
+          "text": "professional"
+        },
+        {
+          "startSec": 125.5,
+          "endSec": 126,
+          "text": "interest"
+        }
+      ]
+    },
+    {
+      "startSec": 126,
+      "endSec": 132,
+      "text": "in snacking is Christine Cochran, president of Snack International, the trade association",
+      "words": [
+        {
+          "startSec": 126.1,
+          "endSec": 126.2,
+          "text": "in"
+        },
+        {
+          "startSec": 126.2,
+          "endSec": 126.8,
+          "text": "snacking"
+        },
+        {
+          "startSec": 126.8,
+          "endSec": 126.9,
+          "text": "is"
+        },
+        {
+          "startSec": 126.9,
+          "endSec": 127.6,
+          "text": "Christine"
+        },
+        {
+          "startSec": 127.6,
+          "endSec": 128.2,
+          "text": "Cochran,"
+        },
+        {
+          "startSec": 128.2,
+          "endSec": 128.9,
+          "text": "president"
+        },
+        {
+          "startSec": 128.9,
+          "endSec": 129.1,
+          "text": "of"
+        },
+        {
+          "startSec": 129.1,
+          "endSec": 129.4,
+          "text": "Snack"
+        },
+        {
+          "startSec": 129.4,
+          "endSec": 130.6,
+          "text": "International,"
+        },
+        {
+          "startSec": 130.6,
+          "endSec": 130.8,
+          "text": "the"
+        },
+        {
+          "startSec": 130.8,
+          "endSec": 131.2,
+          "text": "trade"
+        },
+        {
+          "startSec": 131.2,
+          "endSec": 132,
+          "text": "association"
+        },
+        {
+          "startSec": 132,
+          "endSec": 132.3,
+          "text": "for"
+        }
+      ]
+    },
+    {
+      "startSec": 132,
+      "endSec": 138.2,
+      "text": "for the industry. Here Christine shares her ideas about why we love to snack with BBC World",
+      "words": [
+        {
+          "startSec": 132,
+          "endSec": 132.3,
+          "text": "for"
+        },
+        {
+          "startSec": 132.3,
+          "endSec": 132.6,
+          "text": "the"
+        },
+        {
+          "startSec": 132.6,
+          "endSec": 133.8,
+          "text": "industry."
+        },
+        {
+          "startSec": 133.8,
+          "endSec": 134,
+          "text": "Here"
+        },
+        {
+          "startSec": 134,
+          "endSec": 134.5,
+          "text": "Christine"
+        },
+        {
+          "startSec": 134.5,
+          "endSec": 134.9,
+          "text": "shares"
+        },
+        {
+          "startSec": 134.9,
+          "endSec": 135.1,
+          "text": "her"
+        },
+        {
+          "startSec": 135.1,
+          "endSec": 135.4,
+          "text": "ideas"
+        },
+        {
+          "startSec": 135.4,
+          "endSec": 135.7,
+          "text": "about"
+        },
+        {
+          "startSec": 135.7,
+          "endSec": 135.9,
+          "text": "why"
+        },
+        {
+          "startSec": 135.9,
+          "endSec": 136.1,
+          "text": "we"
+        },
+        {
+          "startSec": 136.1,
+          "endSec": 136.4,
+          "text": "love"
+        },
+        {
+          "startSec": 136.4,
+          "endSec": 136.6,
+          "text": "to"
+        },
+        {
+          "startSec": 136.6,
+          "endSec": 137,
+          "text": "snack"
+        },
+        {
+          "startSec": 137,
+          "endSec": 137.4,
+          "text": "with"
+        },
+        {
+          "startSec": 137.4,
+          "endSec": 137.7,
+          "text": "BBC"
+        },
+        {
+          "startSec": 137.7,
+          "endSec": 138.2,
+          "text": "World"
+        },
+        {
+          "startSec": 138.2,
+          "endSec": 138.7,
+          "text": "Service"
+        }
+      ]
+    },
+    {
+      "startSec": 138.2,
+      "endSec": 140.7,
+      "text": "Service programme The Food Chain.",
+      "words": [
+        {
+          "startSec": 138.2,
+          "endSec": 138.7,
+          "text": "Service"
+        },
+        {
+          "startSec": 138.7,
+          "endSec": 139.4,
+          "text": "programme"
+        },
+        {
+          "startSec": 139.4,
+          "endSec": 139.7,
+          "text": "The"
+        },
+        {
+          "startSec": 139.7,
+          "endSec": 140,
+          "text": "Food"
+        },
+        {
+          "startSec": 140,
+          "endSec": 140.7,
+          "text": "Chain."
+        },
+        {
+          "startSec": 140.7,
+          "endSec": 140.8,
+          "text": "A"
+        }
+      ]
+    },
+    {
+      "startSec": 140.7,
+      "endSec": 148.6,
+      "text": "A snack is an affordable luxury so if you've had a bad day or money is tight this is something",
+      "words": [
+        {
+          "startSec": 140.7,
+          "endSec": 140.8,
+          "text": "A"
+        },
+        {
+          "startSec": 140.8,
+          "endSec": 141.3,
+          "text": "snack"
+        },
+        {
+          "startSec": 141.3,
+          "endSec": 141.5,
+          "text": "is"
+        },
+        {
+          "startSec": 141.5,
+          "endSec": 141.7,
+          "text": "an"
+        },
+        {
+          "startSec": 141.7,
+          "endSec": 142.8,
+          "text": "affordable"
+        },
+        {
+          "startSec": 142.8,
+          "endSec": 143.4,
+          "text": "luxury"
+        },
+        {
+          "startSec": 143.4,
+          "endSec": 143.6,
+          "text": "so"
+        },
+        {
+          "startSec": 143.6,
+          "endSec": 143.8,
+          "text": "if"
+        },
+        {
+          "startSec": 143.8,
+          "endSec": 144.4,
+          "text": "you've"
+        },
+        {
+          "startSec": 144.4,
+          "endSec": 144.7,
+          "text": "had"
+        },
+        {
+          "startSec": 144.7,
+          "endSec": 144.8,
+          "text": "a"
+        },
+        {
+          "startSec": 144.8,
+          "endSec": 145.1,
+          "text": "bad"
+        },
+        {
+          "startSec": 145.1,
+          "endSec": 145.5,
+          "text": "day"
+        },
+        {
+          "startSec": 145.5,
+          "endSec": 145.7,
+          "text": "or"
+        },
+        {
+          "startSec": 145.7,
+          "endSec": 146.2,
+          "text": "money"
+        },
+        {
+          "startSec": 146.2,
+          "endSec": 146.4,
+          "text": "is"
+        },
+        {
+          "startSec": 146.4,
+          "endSec": 146.9,
+          "text": "tight"
+        },
+        {
+          "startSec": 146.9,
+          "endSec": 147.3,
+          "text": "this"
+        },
+        {
+          "startSec": 147.3,
+          "endSec": 147.5,
+          "text": "is"
+        },
+        {
+          "startSec": 147.5,
+          "endSec": 148.6,
+          "text": "something"
+        },
+        {
+          "startSec": 148.6,
+          "endSec": 149,
+          "text": "that"
+        }
+      ]
+    },
+    {
+      "startSec": 148.6,
+      "endSec": 155.1,
+      "text": "that you can turn to and I think that is why you see it as so popular. Consumers especially",
+      "words": [
+        {
+          "startSec": 148.6,
+          "endSec": 149,
+          "text": "that"
+        },
+        {
+          "startSec": 149,
+          "endSec": 149.2,
+          "text": "you"
+        },
+        {
+          "startSec": 149.2,
+          "endSec": 149.5,
+          "text": "can"
+        },
+        {
+          "startSec": 149.5,
+          "endSec": 149.9,
+          "text": "turn"
+        },
+        {
+          "startSec": 149.9,
+          "endSec": 150.1,
+          "text": "to"
+        },
+        {
+          "startSec": 150.1,
+          "endSec": 150.4,
+          "text": "and"
+        },
+        {
+          "startSec": 150.4,
+          "endSec": 150.5,
+          "text": "I"
+        },
+        {
+          "startSec": 150.5,
+          "endSec": 151,
+          "text": "think"
+        },
+        {
+          "startSec": 151,
+          "endSec": 151.4,
+          "text": "that"
+        },
+        {
+          "startSec": 151.4,
+          "endSec": 151.6,
+          "text": "is"
+        },
+        {
+          "startSec": 151.6,
+          "endSec": 151.8,
+          "text": "why"
+        },
+        {
+          "startSec": 151.8,
+          "endSec": 152.1,
+          "text": "you"
+        },
+        {
+          "startSec": 152.1,
+          "endSec": 152.4,
+          "text": "see"
+        },
+        {
+          "startSec": 152.4,
+          "endSec": 152.6,
+          "text": "it"
+        },
+        {
+          "startSec": 152.6,
+          "endSec": 152.8,
+          "text": "as"
+        },
+        {
+          "startSec": 152.8,
+          "endSec": 153,
+          "text": "so"
+        },
+        {
+          "startSec": 153,
+          "endSec": 154,
+          "text": "popular."
+        },
+        {
+          "startSec": 154,
+          "endSec": 154.5,
+          "text": "Consumers"
+        },
+        {
+          "startSec": 154.5,
+          "endSec": 155.1,
+          "text": "especially"
+        }
+      ]
+    },
+    {
+      "startSec": 155.1,
+      "endSec": 161.4,
+      "text": "in the United States are looking for smaller more convenient portions. They're not always",
+      "words": [
+        {
+          "startSec": 155.2,
+          "endSec": 155.3,
+          "text": "in"
+        },
+        {
+          "startSec": 155.3,
+          "endSec": 155.6,
+          "text": "the"
+        },
+        {
+          "startSec": 155.6,
+          "endSec": 156.1,
+          "text": "United"
+        },
+        {
+          "startSec": 156.1,
+          "endSec": 156.7,
+          "text": "States"
+        },
+        {
+          "startSec": 156.7,
+          "endSec": 156.9,
+          "text": "are"
+        },
+        {
+          "startSec": 156.9,
+          "endSec": 157.6,
+          "text": "looking"
+        },
+        {
+          "startSec": 157.6,
+          "endSec": 157.8,
+          "text": "for"
+        },
+        {
+          "startSec": 157.8,
+          "endSec": 158.5,
+          "text": "smaller"
+        },
+        {
+          "startSec": 158.5,
+          "endSec": 158.8,
+          "text": "more"
+        },
+        {
+          "startSec": 158.8,
+          "endSec": 159.7,
+          "text": "convenient"
+        },
+        {
+          "startSec": 159.7,
+          "endSec": 160.8,
+          "text": "portions."
+        },
+        {
+          "startSec": 160.8,
+          "endSec": 161.1,
+          "text": "They're"
+        },
+        {
+          "startSec": 161.1,
+          "endSec": 161.2,
+          "text": "not"
+        },
+        {
+          "startSec": 161.2,
+          "endSec": 161.4,
+          "text": "always"
+        },
+        {
+          "startSec": 161.4,
+          "endSec": 161.8,
+          "text": "going"
+        }
+      ]
+    },
+    {
+      "startSec": 161.4,
+      "endSec": 166.1,
+      "text": "going to be able to sit down and have three meals a day, right? So they're eating on the",
+      "words": [
+        {
+          "startSec": 161.4,
+          "endSec": 161.8,
+          "text": "going"
+        },
+        {
+          "startSec": 161.8,
+          "endSec": 161.9,
+          "text": "to"
+        },
+        {
+          "startSec": 161.9,
+          "endSec": 162,
+          "text": "be"
+        },
+        {
+          "startSec": 162,
+          "endSec": 162.3,
+          "text": "able"
+        },
+        {
+          "startSec": 162.3,
+          "endSec": 162.5,
+          "text": "to"
+        },
+        {
+          "startSec": 162.5,
+          "endSec": 162.7,
+          "text": "sit"
+        },
+        {
+          "startSec": 162.7,
+          "endSec": 163,
+          "text": "down"
+        },
+        {
+          "startSec": 163,
+          "endSec": 163.2,
+          "text": "and"
+        },
+        {
+          "startSec": 163.2,
+          "endSec": 163.5,
+          "text": "have"
+        },
+        {
+          "startSec": 163.5,
+          "endSec": 163.8,
+          "text": "three"
+        },
+        {
+          "startSec": 163.8,
+          "endSec": 164.2,
+          "text": "meals"
+        },
+        {
+          "startSec": 164.2,
+          "endSec": 164.3,
+          "text": "a"
+        },
+        {
+          "startSec": 164.3,
+          "endSec": 164.6,
+          "text": "day,"
+        },
+        {
+          "startSec": 164.6,
+          "endSec": 165.3,
+          "text": "right?"
+        },
+        {
+          "startSec": 165.3,
+          "endSec": 165.4,
+          "text": "So"
+        },
+        {
+          "startSec": 165.4,
+          "endSec": 165.7,
+          "text": "they're"
+        },
+        {
+          "startSec": 165.7,
+          "endSec": 165.9,
+          "text": "eating"
+        },
+        {
+          "startSec": 165.9,
+          "endSec": 166,
+          "text": "on"
+        },
+        {
+          "startSec": 166,
+          "endSec": 166.1,
+          "text": "the"
+        },
+        {
+          "startSec": 166.1,
+          "endSec": 166.4,
+          "text": "goat"
+        }
+      ]
+    },
+    {
+      "startSec": 166.1,
+      "endSec": 171.7,
+      "text": "goat and the other thing that you see is this desire for very specific functional ingredients,",
+      "words": [
+        {
+          "startSec": 166.1,
+          "endSec": 166.4,
+          "text": "goat"
+        },
+        {
+          "startSec": 166.4,
+          "endSec": 166.6,
+          "text": "and"
+        },
+        {
+          "startSec": 166.6,
+          "endSec": 166.8,
+          "text": "the"
+        },
+        {
+          "startSec": 166.8,
+          "endSec": 167.1,
+          "text": "other"
+        },
+        {
+          "startSec": 167.1,
+          "endSec": 167.5,
+          "text": "thing"
+        },
+        {
+          "startSec": 167.5,
+          "endSec": 167.7,
+          "text": "that"
+        },
+        {
+          "startSec": 167.7,
+          "endSec": 167.9,
+          "text": "you"
+        },
+        {
+          "startSec": 167.9,
+          "endSec": 168.1,
+          "text": "see"
+        },
+        {
+          "startSec": 168.1,
+          "endSec": 168.3,
+          "text": "is"
+        },
+        {
+          "startSec": 168.3,
+          "endSec": 168.6,
+          "text": "this"
+        },
+        {
+          "startSec": 168.6,
+          "endSec": 169,
+          "text": "desire"
+        },
+        {
+          "startSec": 169,
+          "endSec": 169.2,
+          "text": "for"
+        },
+        {
+          "startSec": 169.2,
+          "endSec": 169.4,
+          "text": "very"
+        },
+        {
+          "startSec": 169.4,
+          "endSec": 170,
+          "text": "specific"
+        },
+        {
+          "startSec": 170,
+          "endSec": 170.7,
+          "text": "functional"
+        },
+        {
+          "startSec": 170.7,
+          "endSec": 171.7,
+          "text": "ingredients,"
+        },
+        {
+          "startSec": 171.7,
+          "endSec": 172.4,
+          "text": "right?"
+        }
+      ]
+    },
+    {
+      "startSec": 171.7,
+      "endSec": 178.8,
+      "text": "right? So mental clarity, gut health, muscle development, these sorts of things again they're",
+      "words": [
+        {
+          "startSec": 171.7,
+          "endSec": 172.4,
+          "text": "right?"
+        },
+        {
+          "startSec": 172.4,
+          "endSec": 172.6,
+          "text": "So"
+        },
+        {
+          "startSec": 172.6,
+          "endSec": 173.1,
+          "text": "mental"
+        },
+        {
+          "startSec": 173.1,
+          "endSec": 173.9,
+          "text": "clarity,"
+        },
+        {
+          "startSec": 173.9,
+          "endSec": 174.1,
+          "text": "gut"
+        },
+        {
+          "startSec": 174.1,
+          "endSec": 174.8,
+          "text": "health,"
+        },
+        {
+          "startSec": 174.8,
+          "endSec": 175.3,
+          "text": "muscle"
+        },
+        {
+          "startSec": 175.3,
+          "endSec": 176.4,
+          "text": "development,"
+        },
+        {
+          "startSec": 176.4,
+          "endSec": 176.9,
+          "text": "these"
+        },
+        {
+          "startSec": 176.9,
+          "endSec": 177.3,
+          "text": "sorts"
+        },
+        {
+          "startSec": 177.3,
+          "endSec": 177.5,
+          "text": "of"
+        },
+        {
+          "startSec": 177.5,
+          "endSec": 178,
+          "text": "things"
+        },
+        {
+          "startSec": 178,
+          "endSec": 178.5,
+          "text": "again"
+        },
+        {
+          "startSec": 178.5,
+          "endSec": 178.8,
+          "text": "they're"
+        }
+      ]
+    },
+    {
+      "startSec": 178.8,
+      "endSec": 186.7,
+      "text": "nicely packaged in snack sizes. Snacks are often seen as a little luxury but to be successful",
+      "words": [
+        {
+          "startSec": 178.9,
+          "endSec": 179.4,
+          "text": "nicely"
+        },
+        {
+          "startSec": 179.4,
+          "endSec": 180.2,
+          "text": "packaged"
+        },
+        {
+          "startSec": 180.2,
+          "endSec": 180.4,
+          "text": "in"
+        },
+        {
+          "startSec": 180.4,
+          "endSec": 180.9,
+          "text": "snack"
+        },
+        {
+          "startSec": 180.9,
+          "endSec": 181.7,
+          "text": "sizes."
+        },
+        {
+          "startSec": 181.7,
+          "endSec": 182.3,
+          "text": "Snacks"
+        },
+        {
+          "startSec": 182.3,
+          "endSec": 182.6,
+          "text": "are"
+        },
+        {
+          "startSec": 182.6,
+          "endSec": 183.1,
+          "text": "often"
+        },
+        {
+          "startSec": 183.1,
+          "endSec": 183.5,
+          "text": "seen"
+        },
+        {
+          "startSec": 183.5,
+          "endSec": 183.7,
+          "text": "as"
+        },
+        {
+          "startSec": 183.7,
+          "endSec": 183.8,
+          "text": "a"
+        },
+        {
+          "startSec": 183.8,
+          "endSec": 184.4,
+          "text": "little"
+        },
+        {
+          "startSec": 184.4,
+          "endSec": 185,
+          "text": "luxury"
+        },
+        {
+          "startSec": 185,
+          "endSec": 185.4,
+          "text": "but"
+        },
+        {
+          "startSec": 185.4,
+          "endSec": 185.5,
+          "text": "to"
+        },
+        {
+          "startSec": 185.5,
+          "endSec": 185.6,
+          "text": "be"
+        },
+        {
+          "startSec": 185.6,
+          "endSec": 186.7,
+          "text": "successful"
+        },
+        {
+          "startSec": 186.7,
+          "endSec": 186.8,
+          "text": "a"
+        }
+      ]
+    },
+    {
+      "startSec": 186.7,
+      "endSec": 192.6,
+      "text": "a snack must also be affordable, an adjective meaning not expensive.",
+      "words": [
+        {
+          "startSec": 186.7,
+          "endSec": 186.8,
+          "text": "a"
+        },
+        {
+          "startSec": 186.8,
+          "endSec": 187.3,
+          "text": "snack"
+        },
+        {
+          "startSec": 187.3,
+          "endSec": 187.7,
+          "text": "must"
+        },
+        {
+          "startSec": 187.7,
+          "endSec": 188.1,
+          "text": "also"
+        },
+        {
+          "startSec": 188.1,
+          "endSec": 188.2,
+          "text": "be"
+        },
+        {
+          "startSec": 188.2,
+          "endSec": 189.4,
+          "text": "affordable,"
+        },
+        {
+          "startSec": 189.4,
+          "endSec": 189.6,
+          "text": "an"
+        },
+        {
+          "startSec": 189.6,
+          "endSec": 190.5,
+          "text": "adjective"
+        },
+        {
+          "startSec": 190.5,
+          "endSec": 191.1,
+          "text": "meaning"
+        },
+        {
+          "startSec": 191.1,
+          "endSec": 191.4,
+          "text": "not"
+        },
+        {
+          "startSec": 191.4,
+          "endSec": 192.6,
+          "text": "expensive."
+        },
+        {
+          "startSec": 192.6,
+          "endSec": 193,
+          "text": "Snacks"
+        }
+      ]
+    },
+    {
+      "startSec": 192.6,
+      "endSec": 197.6,
+      "text": "Snacks which are cheap enough for most people to buy will sell even if money is tight, a",
+      "words": [
+        {
+          "startSec": 192.6,
+          "endSec": 193,
+          "text": "Snacks"
+        },
+        {
+          "startSec": 193,
+          "endSec": 193.4,
+          "text": "which"
+        },
+        {
+          "startSec": 193.4,
+          "endSec": 193.5,
+          "text": "are"
+        },
+        {
+          "startSec": 193.5,
+          "endSec": 193.9,
+          "text": "cheap"
+        },
+        {
+          "startSec": 193.9,
+          "endSec": 194.3,
+          "text": "enough"
+        },
+        {
+          "startSec": 194.3,
+          "endSec": 194.4,
+          "text": "for"
+        },
+        {
+          "startSec": 194.4,
+          "endSec": 194.7,
+          "text": "most"
+        },
+        {
+          "startSec": 194.7,
+          "endSec": 195.1,
+          "text": "people"
+        },
+        {
+          "startSec": 195.1,
+          "endSec": 195.2,
+          "text": "to"
+        },
+        {
+          "startSec": 195.2,
+          "endSec": 195.4,
+          "text": "buy"
+        },
+        {
+          "startSec": 195.4,
+          "endSec": 195.7,
+          "text": "will"
+        },
+        {
+          "startSec": 195.7,
+          "endSec": 195.9,
+          "text": "sell"
+        },
+        {
+          "startSec": 195.9,
+          "endSec": 196.2,
+          "text": "even"
+        },
+        {
+          "startSec": 196.2,
+          "endSec": 196.3,
+          "text": "if"
+        },
+        {
+          "startSec": 196.3,
+          "endSec": 196.6,
+          "text": "money"
+        },
+        {
+          "startSec": 196.6,
+          "endSec": 196.8,
+          "text": "is"
+        },
+        {
+          "startSec": 196.8,
+          "endSec": 197.3,
+          "text": "tight,"
+        },
+        {
+          "startSec": 197.3,
+          "endSec": 197.6,
+          "text": "a"
+        },
+        {
+          "startSec": 197.6,
+          "endSec": 198,
+          "text": "phrase"
+        }
+      ]
+    },
+    {
+      "startSec": 197.6,
+      "endSec": 202.3,
+      "text": "phrase used to describe a situation where there's only just enough money to live on.",
+      "words": [
+        {
+          "startSec": 197.6,
+          "endSec": 198,
+          "text": "phrase"
+        },
+        {
+          "startSec": 198,
+          "endSec": 198.3,
+          "text": "used"
+        },
+        {
+          "startSec": 198.3,
+          "endSec": 198.4,
+          "text": "to"
+        },
+        {
+          "startSec": 198.4,
+          "endSec": 198.9,
+          "text": "describe"
+        },
+        {
+          "startSec": 198.9,
+          "endSec": 199,
+          "text": "a"
+        },
+        {
+          "startSec": 199,
+          "endSec": 199.5,
+          "text": "situation"
+        },
+        {
+          "startSec": 199.5,
+          "endSec": 199.9,
+          "text": "where"
+        },
+        {
+          "startSec": 199.9,
+          "endSec": 200.3,
+          "text": "there's"
+        },
+        {
+          "startSec": 200.3,
+          "endSec": 200.5,
+          "text": "only"
+        },
+        {
+          "startSec": 200.5,
+          "endSec": 200.8,
+          "text": "just"
+        },
+        {
+          "startSec": 200.8,
+          "endSec": 201.2,
+          "text": "enough"
+        },
+        {
+          "startSec": 201.2,
+          "endSec": 201.5,
+          "text": "money"
+        },
+        {
+          "startSec": 201.5,
+          "endSec": 201.6,
+          "text": "to"
+        },
+        {
+          "startSec": 201.6,
+          "endSec": 201.9,
+          "text": "live"
+        },
+        {
+          "startSec": 201.9,
+          "endSec": 202.3,
+          "text": "on."
+        },
+        {
+          "startSec": 202.3,
+          "endSec": 202.8,
+          "text": "Thanks"
+        }
+      ]
+    },
+    {
+      "startSec": 202.3,
+      "endSec": 208.4,
+      "text": "Thanks to snacks today fewer people sit down to eat a proper meal instead they eat on the",
+      "words": [
+        {
+          "startSec": 202.3,
+          "endSec": 202.8,
+          "text": "Thanks"
+        },
+        {
+          "startSec": 202.8,
+          "endSec": 203,
+          "text": "to"
+        },
+        {
+          "startSec": 203,
+          "endSec": 203.5,
+          "text": "snacks"
+        },
+        {
+          "startSec": 203.5,
+          "endSec": 204,
+          "text": "today"
+        },
+        {
+          "startSec": 204,
+          "endSec": 204.4,
+          "text": "fewer"
+        },
+        {
+          "startSec": 204.4,
+          "endSec": 204.9,
+          "text": "people"
+        },
+        {
+          "startSec": 204.9,
+          "endSec": 205.2,
+          "text": "sit"
+        },
+        {
+          "startSec": 205.2,
+          "endSec": 205.5,
+          "text": "down"
+        },
+        {
+          "startSec": 205.5,
+          "endSec": 205.7,
+          "text": "to"
+        },
+        {
+          "startSec": 205.7,
+          "endSec": 205.9,
+          "text": "eat"
+        },
+        {
+          "startSec": 205.9,
+          "endSec": 206,
+          "text": "a"
+        },
+        {
+          "startSec": 206,
+          "endSec": 206.5,
+          "text": "proper"
+        },
+        {
+          "startSec": 206.5,
+          "endSec": 206.9,
+          "text": "meal"
+        },
+        {
+          "startSec": 206.9,
+          "endSec": 207.5,
+          "text": "instead"
+        },
+        {
+          "startSec": 207.5,
+          "endSec": 207.8,
+          "text": "they"
+        },
+        {
+          "startSec": 207.8,
+          "endSec": 208.1,
+          "text": "eat"
+        },
+        {
+          "startSec": 208.1,
+          "endSec": 208.3,
+          "text": "on"
+        },
+        {
+          "startSec": 208.3,
+          "endSec": 208.4,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 208.4,
+      "endSec": 214.2,
+      "text": "go. If you do something on the go you do it while you're busy travelling or moving around",
+      "words": [
+        {
+          "startSec": 208.5,
+          "endSec": 208.8,
+          "text": "go."
+        },
+        {
+          "startSec": 208.8,
+          "endSec": 209,
+          "text": "If"
+        },
+        {
+          "startSec": 209,
+          "endSec": 209.2,
+          "text": "you"
+        },
+        {
+          "startSec": 209.2,
+          "endSec": 209.3,
+          "text": "do"
+        },
+        {
+          "startSec": 209.3,
+          "endSec": 210,
+          "text": "something"
+        },
+        {
+          "startSec": 210,
+          "endSec": 210.2,
+          "text": "on"
+        },
+        {
+          "startSec": 210.2,
+          "endSec": 210.4,
+          "text": "the"
+        },
+        {
+          "startSec": 210.4,
+          "endSec": 210.5,
+          "text": "go"
+        },
+        {
+          "startSec": 210.5,
+          "endSec": 210.8,
+          "text": "you"
+        },
+        {
+          "startSec": 210.8,
+          "endSec": 210.9,
+          "text": "do"
+        },
+        {
+          "startSec": 210.9,
+          "endSec": 211.1,
+          "text": "it"
+        },
+        {
+          "startSec": 211.1,
+          "endSec": 211.4,
+          "text": "while"
+        },
+        {
+          "startSec": 211.4,
+          "endSec": 211.9,
+          "text": "you're"
+        },
+        {
+          "startSec": 211.9,
+          "endSec": 212.2,
+          "text": "busy"
+        },
+        {
+          "startSec": 212.2,
+          "endSec": 212.9,
+          "text": "travelling"
+        },
+        {
+          "startSec": 212.9,
+          "endSec": 213.1,
+          "text": "or"
+        },
+        {
+          "startSec": 213.1,
+          "endSec": 213.6,
+          "text": "moving"
+        },
+        {
+          "startSec": 213.6,
+          "endSec": 214.2,
+          "text": "around"
+        },
+        {
+          "startSec": 214.2,
+          "endSec": 214.8,
+          "text": "rather"
+        }
+      ]
+    },
+    {
+      "startSec": 214.2,
+      "endSec": 220.1,
+      "text": "rather than at home. Many modern snacks target a specific function. For example an energy",
+      "words": [
+        {
+          "startSec": 214.2,
+          "endSec": 214.8,
+          "text": "rather"
+        },
+        {
+          "startSec": 214.8,
+          "endSec": 215.2,
+          "text": "than"
+        },
+        {
+          "startSec": 215.2,
+          "endSec": 215.4,
+          "text": "at"
+        },
+        {
+          "startSec": 215.4,
+          "endSec": 216.1,
+          "text": "home."
+        },
+        {
+          "startSec": 216.1,
+          "endSec": 216.4,
+          "text": "Many"
+        },
+        {
+          "startSec": 216.4,
+          "endSec": 216.8,
+          "text": "modern"
+        },
+        {
+          "startSec": 216.8,
+          "endSec": 217.2,
+          "text": "snacks"
+        },
+        {
+          "startSec": 217.2,
+          "endSec": 217.6,
+          "text": "target"
+        },
+        {
+          "startSec": 217.6,
+          "endSec": 217.7,
+          "text": "a"
+        },
+        {
+          "startSec": 217.7,
+          "endSec": 218.3,
+          "text": "specific"
+        },
+        {
+          "startSec": 218.3,
+          "endSec": 219,
+          "text": "function."
+        },
+        {
+          "startSec": 219,
+          "endSec": 219.2,
+          "text": "For"
+        },
+        {
+          "startSec": 219.2,
+          "endSec": 219.6,
+          "text": "example"
+        },
+        {
+          "startSec": 219.6,
+          "endSec": 219.8,
+          "text": "an"
+        },
+        {
+          "startSec": 219.8,
+          "endSec": 220.1,
+          "text": "energy"
+        },
+        {
+          "startSec": 220.1,
+          "endSec": 220.5,
+          "text": "drink"
+        }
+      ]
+    },
+    {
+      "startSec": 220.1,
+      "endSec": 225.2,
+      "text": "drink might claim to improve your gut health or your mental clarity, a term describing",
+      "words": [
+        {
+          "startSec": 220.1,
+          "endSec": 220.5,
+          "text": "drink"
+        },
+        {
+          "startSec": 220.5,
+          "endSec": 220.8,
+          "text": "might"
+        },
+        {
+          "startSec": 220.8,
+          "endSec": 221.1,
+          "text": "claim"
+        },
+        {
+          "startSec": 221.1,
+          "endSec": 221.3,
+          "text": "to"
+        },
+        {
+          "startSec": 221.3,
+          "endSec": 221.8,
+          "text": "improve"
+        },
+        {
+          "startSec": 221.8,
+          "endSec": 222,
+          "text": "your"
+        },
+        {
+          "startSec": 222,
+          "endSec": 222.2,
+          "text": "gut"
+        },
+        {
+          "startSec": 222.2,
+          "endSec": 222.6,
+          "text": "health"
+        },
+        {
+          "startSec": 222.6,
+          "endSec": 222.8,
+          "text": "or"
+        },
+        {
+          "startSec": 222.8,
+          "endSec": 223,
+          "text": "your"
+        },
+        {
+          "startSec": 223,
+          "endSec": 223.4,
+          "text": "mental"
+        },
+        {
+          "startSec": 223.4,
+          "endSec": 224.1,
+          "text": "clarity,"
+        },
+        {
+          "startSec": 224.1,
+          "endSec": 224.1,
+          "text": "a"
+        },
+        {
+          "startSec": 224.1,
+          "endSec": 224.4,
+          "text": "term"
+        },
+        {
+          "startSec": 224.4,
+          "endSec": 225.2,
+          "text": "describing"
+        },
+        {
+          "startSec": 225.2,
+          "endSec": 225.3,
+          "text": "a"
+        }
+      ]
+    },
+    {
+      "startSec": 225.2,
+      "endSec": 230,
+      "text": "a state of mind which is focused and engaged not dull or foggy.",
+      "words": [
+        {
+          "startSec": 225.2,
+          "endSec": 225.3,
+          "text": "a"
+        },
+        {
+          "startSec": 225.3,
+          "endSec": 225.7,
+          "text": "state"
+        },
+        {
+          "startSec": 225.7,
+          "endSec": 225.9,
+          "text": "of"
+        },
+        {
+          "startSec": 225.9,
+          "endSec": 226.3,
+          "text": "mind"
+        },
+        {
+          "startSec": 226.3,
+          "endSec": 226.7,
+          "text": "which"
+        },
+        {
+          "startSec": 226.7,
+          "endSec": 226.9,
+          "text": "is"
+        },
+        {
+          "startSec": 226.9,
+          "endSec": 227.5,
+          "text": "focused"
+        },
+        {
+          "startSec": 227.5,
+          "endSec": 227.8,
+          "text": "and"
+        },
+        {
+          "startSec": 227.8,
+          "endSec": 228.4,
+          "text": "engaged"
+        },
+        {
+          "startSec": 228.4,
+          "endSec": 228.7,
+          "text": "not"
+        },
+        {
+          "startSec": 228.7,
+          "endSec": 229.1,
+          "text": "dull"
+        },
+        {
+          "startSec": 229.1,
+          "endSec": 229.3,
+          "text": "or"
+        },
+        {
+          "startSec": 229.3,
+          "endSec": 230,
+          "text": "foggy."
+        },
+        {
+          "startSec": 230,
+          "endSec": 230.2,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 230,
+      "endSec": 235.7,
+      "text": "But not everyone is a fan of modern packaged snacks such as the bag of crisps and chocolate",
+      "words": [
+        {
+          "startSec": 230,
+          "endSec": 230.2,
+          "text": "But"
+        },
+        {
+          "startSec": 230.2,
+          "endSec": 230.5,
+          "text": "not"
+        },
+        {
+          "startSec": 230.5,
+          "endSec": 231.1,
+          "text": "everyone"
+        },
+        {
+          "startSec": 231.1,
+          "endSec": 231.2,
+          "text": "is"
+        },
+        {
+          "startSec": 231.2,
+          "endSec": 231.3,
+          "text": "a"
+        },
+        {
+          "startSec": 231.3,
+          "endSec": 231.5,
+          "text": "fan"
+        },
+        {
+          "startSec": 231.5,
+          "endSec": 231.7,
+          "text": "of"
+        },
+        {
+          "startSec": 231.7,
+          "endSec": 232.1,
+          "text": "modern"
+        },
+        {
+          "startSec": 232.1,
+          "endSec": 232.7,
+          "text": "packaged"
+        },
+        {
+          "startSec": 232.7,
+          "endSec": 233.2,
+          "text": "snacks"
+        },
+        {
+          "startSec": 233.2,
+          "endSec": 233.5,
+          "text": "such"
+        },
+        {
+          "startSec": 233.5,
+          "endSec": 233.7,
+          "text": "as"
+        },
+        {
+          "startSec": 233.7,
+          "endSec": 233.9,
+          "text": "the"
+        },
+        {
+          "startSec": 233.9,
+          "endSec": 234.1,
+          "text": "bag"
+        },
+        {
+          "startSec": 234.1,
+          "endSec": 234.3,
+          "text": "of"
+        },
+        {
+          "startSec": 234.3,
+          "endSec": 234.7,
+          "text": "crisps"
+        },
+        {
+          "startSec": 234.7,
+          "endSec": 234.9,
+          "text": "and"
+        },
+        {
+          "startSec": 234.9,
+          "endSec": 235.7,
+          "text": "chocolate"
+        },
+        {
+          "startSec": 235.7,
+          "endSec": 235.8,
+          "text": "bars"
+        }
+      ]
+    },
+    {
+      "startSec": 235.7,
+      "endSec": 242.6,
+      "text": "bars which fill our shops. Originally from Argentina, Barbara Oivari now lives in Florida",
+      "words": [
+        {
+          "startSec": 235.7,
+          "endSec": 235.8,
+          "text": "bars"
+        },
+        {
+          "startSec": 235.8,
+          "endSec": 235.8,
+          "text": "which"
+        },
+        {
+          "startSec": 235.8,
+          "endSec": 235.9,
+          "text": "fill"
+        },
+        {
+          "startSec": 235.9,
+          "endSec": 236,
+          "text": "our"
+        },
+        {
+          "startSec": 236,
+          "endSec": 236.1,
+          "text": "shops."
+        },
+        {
+          "startSec": 236.1,
+          "endSec": 236.3,
+          "text": "Originally"
+        },
+        {
+          "startSec": 236.3,
+          "endSec": 236.3,
+          "text": "from"
+        },
+        {
+          "startSec": 236.3,
+          "endSec": 236.5,
+          "text": "Argentina,"
+        },
+        {
+          "startSec": 236.5,
+          "endSec": 236.6,
+          "text": "Barbara"
+        },
+        {
+          "startSec": 236.6,
+          "endSec": 241,
+          "text": "Oivari"
+        },
+        {
+          "startSec": 241,
+          "endSec": 241.4,
+          "text": "now"
+        },
+        {
+          "startSec": 241.4,
+          "endSec": 241.9,
+          "text": "lives"
+        },
+        {
+          "startSec": 241.9,
+          "endSec": 242.1,
+          "text": "in"
+        },
+        {
+          "startSec": 242.1,
+          "endSec": 242.6,
+          "text": "Florida"
+        },
+        {
+          "startSec": 242.6,
+          "endSec": 243.6,
+          "text": "USA."
+        }
+      ]
+    },
+    {
+      "startSec": 242.6,
+      "endSec": 249.2,
+      "text": "USA. Here Barbara tells BBC World Services the food chain how she encourages her 9 year",
+      "words": [
+        {
+          "startSec": 242.6,
+          "endSec": 243.6,
+          "text": "USA."
+        },
+        {
+          "startSec": 243.6,
+          "endSec": 243.9,
+          "text": "Here"
+        },
+        {
+          "startSec": 243.9,
+          "endSec": 244.5,
+          "text": "Barbara"
+        },
+        {
+          "startSec": 244.5,
+          "endSec": 244.9,
+          "text": "tells"
+        },
+        {
+          "startSec": 244.9,
+          "endSec": 245.2,
+          "text": "BBC"
+        },
+        {
+          "startSec": 245.2,
+          "endSec": 245.6,
+          "text": "World"
+        },
+        {
+          "startSec": 245.6,
+          "endSec": 246.3,
+          "text": "Services"
+        },
+        {
+          "startSec": 246.3,
+          "endSec": 246.6,
+          "text": "the"
+        },
+        {
+          "startSec": 246.6,
+          "endSec": 246.9,
+          "text": "food"
+        },
+        {
+          "startSec": 246.9,
+          "endSec": 247.3,
+          "text": "chain"
+        },
+        {
+          "startSec": 247.3,
+          "endSec": 247.6,
+          "text": "how"
+        },
+        {
+          "startSec": 247.6,
+          "endSec": 247.8,
+          "text": "she"
+        },
+        {
+          "startSec": 247.8,
+          "endSec": 248.7,
+          "text": "encourages"
+        },
+        {
+          "startSec": 248.7,
+          "endSec": 248.9,
+          "text": "her"
+        },
+        {
+          "startSec": 248.9,
+          "endSec": 249.2,
+          "text": "9"
+        },
+        {
+          "startSec": 249.2,
+          "endSec": 249.2,
+          "text": "year"
+        },
+        {
+          "startSec": 249.2,
+          "endSec": 249.5,
+          "text": "old"
+        }
+      ]
+    },
+    {
+      "startSec": 249.2,
+      "endSec": 256.5,
+      "text": "old son to choose more natural snacks. Personally I enjoy cooking and eating more natural simpler",
+      "words": [
+        {
+          "startSec": 249.2,
+          "endSec": 249.2,
+          "text": "year"
+        },
+        {
+          "startSec": 249.2,
+          "endSec": 249.5,
+          "text": "old"
+        },
+        {
+          "startSec": 249.5,
+          "endSec": 249.7,
+          "text": "son"
+        },
+        {
+          "startSec": 249.7,
+          "endSec": 249.9,
+          "text": "to"
+        },
+        {
+          "startSec": 249.9,
+          "endSec": 250.4,
+          "text": "choose"
+        },
+        {
+          "startSec": 250.4,
+          "endSec": 250.8,
+          "text": "more"
+        },
+        {
+          "startSec": 250.8,
+          "endSec": 251.4,
+          "text": "natural"
+        },
+        {
+          "startSec": 251.4,
+          "endSec": 252.2,
+          "text": "snacks."
+        },
+        {
+          "startSec": 252.2,
+          "endSec": 253,
+          "text": "Personally"
+        },
+        {
+          "startSec": 253,
+          "endSec": 253.1,
+          "text": "I"
+        },
+        {
+          "startSec": 253.1,
+          "endSec": 253.5,
+          "text": "enjoy"
+        },
+        {
+          "startSec": 253.5,
+          "endSec": 254.1,
+          "text": "cooking"
+        },
+        {
+          "startSec": 254.1,
+          "endSec": 254.4,
+          "text": "and"
+        },
+        {
+          "startSec": 254.4,
+          "endSec": 254.9,
+          "text": "eating"
+        },
+        {
+          "startSec": 254.9,
+          "endSec": 255.3,
+          "text": "more"
+        },
+        {
+          "startSec": 255.3,
+          "endSec": 255.9,
+          "text": "natural"
+        },
+        {
+          "startSec": 255.9,
+          "endSec": 256.5,
+          "text": "simpler"
+        },
+        {
+          "startSec": 256.5,
+          "endSec": 256.9,
+          "text": "snacks"
+        }
+      ]
+    },
+    {
+      "startSec": 256.5,
+      "endSec": 261.4,
+      "text": "snacks but of course I can't swim against the current and if my 9 year old wants to",
+      "words": [
+        {
+          "startSec": 256.5,
+          "endSec": 256.9,
+          "text": "snacks"
+        },
+        {
+          "startSec": 256.9,
+          "endSec": 257.1,
+          "text": "but"
+        },
+        {
+          "startSec": 257.1,
+          "endSec": 257.3,
+          "text": "of"
+        },
+        {
+          "startSec": 257.3,
+          "endSec": 257.7,
+          "text": "course"
+        },
+        {
+          "startSec": 257.7,
+          "endSec": 257.8,
+          "text": "I"
+        },
+        {
+          "startSec": 257.8,
+          "endSec": 258.1,
+          "text": "can't"
+        },
+        {
+          "startSec": 258.1,
+          "endSec": 258.4,
+          "text": "swim"
+        },
+        {
+          "startSec": 258.4,
+          "endSec": 258.9,
+          "text": "against"
+        },
+        {
+          "startSec": 258.9,
+          "endSec": 259.1,
+          "text": "the"
+        },
+        {
+          "startSec": 259.1,
+          "endSec": 259.6,
+          "text": "current"
+        },
+        {
+          "startSec": 259.6,
+          "endSec": 259.8,
+          "text": "and"
+        },
+        {
+          "startSec": 259.8,
+          "endSec": 260,
+          "text": "if"
+        },
+        {
+          "startSec": 260,
+          "endSec": 260.1,
+          "text": "my"
+        },
+        {
+          "startSec": 260.1,
+          "endSec": 260.3,
+          "text": "9"
+        },
+        {
+          "startSec": 260.3,
+          "endSec": 260.6,
+          "text": "year"
+        },
+        {
+          "startSec": 260.6,
+          "endSec": 260.8,
+          "text": "old"
+        },
+        {
+          "startSec": 260.8,
+          "endSec": 261.2,
+          "text": "wants"
+        },
+        {
+          "startSec": 261.2,
+          "endSec": 261.4,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 261.4,
+      "endSec": 267.1,
+      "text": "eat the little baked snacks that have terror ironically it is something baked with cheese",
+      "words": [
+        {
+          "startSec": 261.5,
+          "endSec": 261.6,
+          "text": "eat"
+        },
+        {
+          "startSec": 261.6,
+          "endSec": 261.8,
+          "text": "the"
+        },
+        {
+          "startSec": 261.8,
+          "endSec": 262.3,
+          "text": "little"
+        },
+        {
+          "startSec": 262.3,
+          "endSec": 262.7,
+          "text": "baked"
+        },
+        {
+          "startSec": 262.7,
+          "endSec": 263.1,
+          "text": "snacks"
+        },
+        {
+          "startSec": 263.1,
+          "endSec": 263.4,
+          "text": "that"
+        },
+        {
+          "startSec": 263.4,
+          "endSec": 263.7,
+          "text": "have"
+        },
+        {
+          "startSec": 263.7,
+          "endSec": 264.2,
+          "text": "terror"
+        },
+        {
+          "startSec": 264.2,
+          "endSec": 264.9,
+          "text": "ironically"
+        },
+        {
+          "startSec": 264.9,
+          "endSec": 265.1,
+          "text": "it"
+        },
+        {
+          "startSec": 265.1,
+          "endSec": 265.2,
+          "text": "is"
+        },
+        {
+          "startSec": 265.2,
+          "endSec": 265.9,
+          "text": "something"
+        },
+        {
+          "startSec": 265.9,
+          "endSec": 266.3,
+          "text": "baked"
+        },
+        {
+          "startSec": 266.3,
+          "endSec": 266.6,
+          "text": "with"
+        },
+        {
+          "startSec": 266.6,
+          "endSec": 267.1,
+          "text": "cheese"
+        },
+        {
+          "startSec": 267.1,
+          "endSec": 267.3,
+          "text": "in"
+        }
+      ]
+    },
+    {
+      "startSec": 267.1,
+      "endSec": 271.7,
+      "text": "in it which is similar to what I enjoy it's just the modern twist.",
+      "words": [
+        {
+          "startSec": 267.1,
+          "endSec": 267.3,
+          "text": "in"
+        },
+        {
+          "startSec": 267.3,
+          "endSec": 267.4,
+          "text": "it"
+        },
+        {
+          "startSec": 267.4,
+          "endSec": 267.8,
+          "text": "which"
+        },
+        {
+          "startSec": 267.8,
+          "endSec": 268,
+          "text": "is"
+        },
+        {
+          "startSec": 268,
+          "endSec": 268.5,
+          "text": "similar"
+        },
+        {
+          "startSec": 268.5,
+          "endSec": 268.7,
+          "text": "to"
+        },
+        {
+          "startSec": 268.7,
+          "endSec": 269,
+          "text": "what"
+        },
+        {
+          "startSec": 269,
+          "endSec": 269,
+          "text": "I"
+        },
+        {
+          "startSec": 269,
+          "endSec": 269.4,
+          "text": "enjoy"
+        },
+        {
+          "startSec": 269.4,
+          "endSec": 269.7,
+          "text": "it's"
+        },
+        {
+          "startSec": 269.7,
+          "endSec": 270,
+          "text": "just"
+        },
+        {
+          "startSec": 270,
+          "endSec": 270.3,
+          "text": "the"
+        },
+        {
+          "startSec": 270.3,
+          "endSec": 270.7,
+          "text": "modern"
+        },
+        {
+          "startSec": 270.7,
+          "endSec": 271.7,
+          "text": "twist."
+        },
+        {
+          "startSec": 271.7,
+          "endSec": 272.2,
+          "text": "Barbara"
+        }
+      ]
+    },
+    {
+      "startSec": 271.7,
+      "endSec": 278.3,
+      "text": "Barbara wants her son to eat healthy homemade food although he prefers modern packaged snacks.",
+      "words": [
+        {
+          "startSec": 271.7,
+          "endSec": 272.2,
+          "text": "Barbara"
+        },
+        {
+          "startSec": 272.2,
+          "endSec": 272.6,
+          "text": "wants"
+        },
+        {
+          "startSec": 272.6,
+          "endSec": 272.8,
+          "text": "her"
+        },
+        {
+          "startSec": 272.8,
+          "endSec": 273,
+          "text": "son"
+        },
+        {
+          "startSec": 273,
+          "endSec": 273.1,
+          "text": "to"
+        },
+        {
+          "startSec": 273.1,
+          "endSec": 273.4,
+          "text": "eat"
+        },
+        {
+          "startSec": 273.4,
+          "endSec": 273.9,
+          "text": "healthy"
+        },
+        {
+          "startSec": 273.9,
+          "endSec": 274.4,
+          "text": "homemade"
+        },
+        {
+          "startSec": 274.4,
+          "endSec": 274.7,
+          "text": "food"
+        },
+        {
+          "startSec": 274.7,
+          "endSec": 275.3,
+          "text": "although"
+        },
+        {
+          "startSec": 275.3,
+          "endSec": 275.4,
+          "text": "he"
+        },
+        {
+          "startSec": 275.4,
+          "endSec": 275.9,
+          "text": "prefers"
+        },
+        {
+          "startSec": 275.9,
+          "endSec": 276.3,
+          "text": "modern"
+        },
+        {
+          "startSec": 276.3,
+          "endSec": 277,
+          "text": "packaged"
+        },
+        {
+          "startSec": 277,
+          "endSec": 278.3,
+          "text": "snacks."
+        },
+        {
+          "startSec": 278.3,
+          "endSec": 278.7,
+          "text": "Barbara"
+        }
+      ]
+    },
+    {
+      "startSec": 278.3,
+      "endSec": 283.4,
+      "text": "Barbara complains she can't swim against the current. The idioms swim against the current",
+      "words": [
+        {
+          "startSec": 278.3,
+          "endSec": 278.7,
+          "text": "Barbara"
+        },
+        {
+          "startSec": 278.7,
+          "endSec": 279.3,
+          "text": "complains"
+        },
+        {
+          "startSec": 279.3,
+          "endSec": 279.5,
+          "text": "she"
+        },
+        {
+          "startSec": 279.5,
+          "endSec": 279.8,
+          "text": "can't"
+        },
+        {
+          "startSec": 279.8,
+          "endSec": 280.1,
+          "text": "swim"
+        },
+        {
+          "startSec": 280.1,
+          "endSec": 280.6,
+          "text": "against"
+        },
+        {
+          "startSec": 280.6,
+          "endSec": 280.8,
+          "text": "the"
+        },
+        {
+          "startSec": 280.8,
+          "endSec": 281.4,
+          "text": "current."
+        },
+        {
+          "startSec": 281.4,
+          "endSec": 281.6,
+          "text": "The"
+        },
+        {
+          "startSec": 281.6,
+          "endSec": 282,
+          "text": "idioms"
+        },
+        {
+          "startSec": 282,
+          "endSec": 282.2,
+          "text": "swim"
+        },
+        {
+          "startSec": 282.2,
+          "endSec": 282.7,
+          "text": "against"
+        },
+        {
+          "startSec": 282.7,
+          "endSec": 283,
+          "text": "the"
+        },
+        {
+          "startSec": 283,
+          "endSec": 283.4,
+          "text": "current"
+        },
+        {
+          "startSec": 283.4,
+          "endSec": 283.7,
+          "text": "means"
+        }
+      ]
+    },
+    {
+      "startSec": 283.4,
+      "endSec": 288.7,
+      "text": "means to act differently from other people often because you do not mind being different.",
+      "words": [
+        {
+          "startSec": 283.4,
+          "endSec": 283.7,
+          "text": "means"
+        },
+        {
+          "startSec": 283.7,
+          "endSec": 283.9,
+          "text": "to"
+        },
+        {
+          "startSec": 283.9,
+          "endSec": 284,
+          "text": "act"
+        },
+        {
+          "startSec": 284,
+          "endSec": 284.7,
+          "text": "differently"
+        },
+        {
+          "startSec": 284.7,
+          "endSec": 284.9,
+          "text": "from"
+        },
+        {
+          "startSec": 284.9,
+          "endSec": 285.2,
+          "text": "other"
+        },
+        {
+          "startSec": 285.2,
+          "endSec": 285.6,
+          "text": "people"
+        },
+        {
+          "startSec": 285.6,
+          "endSec": 285.9,
+          "text": "often"
+        },
+        {
+          "startSec": 285.9,
+          "endSec": 286.3,
+          "text": "because"
+        },
+        {
+          "startSec": 286.3,
+          "endSec": 286.5,
+          "text": "you"
+        },
+        {
+          "startSec": 286.5,
+          "endSec": 286.6,
+          "text": "do"
+        },
+        {
+          "startSec": 286.6,
+          "endSec": 286.8,
+          "text": "not"
+        },
+        {
+          "startSec": 286.8,
+          "endSec": 287,
+          "text": "mind"
+        },
+        {
+          "startSec": 287,
+          "endSec": 287.3,
+          "text": "being"
+        },
+        {
+          "startSec": 287.3,
+          "endSec": 288.7,
+          "text": "different."
+        }
+      ]
+    },
+    {
+      "startSec": 288.7,
+      "endSec": 293.6,
+      "text": "Well Neil all these snacks have made me hungry. Now isn't it time to reveal the answer to",
+      "words": [
+        {
+          "startSec": 288.8,
+          "endSec": 289,
+          "text": "Well"
+        },
+        {
+          "startSec": 289,
+          "endSec": 289.3,
+          "text": "Neil"
+        },
+        {
+          "startSec": 289.3,
+          "endSec": 289.5,
+          "text": "all"
+        },
+        {
+          "startSec": 289.5,
+          "endSec": 289.9,
+          "text": "these"
+        },
+        {
+          "startSec": 289.9,
+          "endSec": 290.3,
+          "text": "snacks"
+        },
+        {
+          "startSec": 290.3,
+          "endSec": 290.6,
+          "text": "have"
+        },
+        {
+          "startSec": 290.6,
+          "endSec": 290.9,
+          "text": "made"
+        },
+        {
+          "startSec": 290.9,
+          "endSec": 291.1,
+          "text": "me"
+        },
+        {
+          "startSec": 291.1,
+          "endSec": 291.8,
+          "text": "hungry."
+        },
+        {
+          "startSec": 291.8,
+          "endSec": 291.9,
+          "text": "Now"
+        },
+        {
+          "startSec": 291.9,
+          "endSec": 292.2,
+          "text": "isn't"
+        },
+        {
+          "startSec": 292.2,
+          "endSec": 292.3,
+          "text": "it"
+        },
+        {
+          "startSec": 292.3,
+          "endSec": 292.5,
+          "text": "time"
+        },
+        {
+          "startSec": 292.5,
+          "endSec": 292.7,
+          "text": "to"
+        },
+        {
+          "startSec": 292.7,
+          "endSec": 293,
+          "text": "reveal"
+        },
+        {
+          "startSec": 293,
+          "endSec": 293.2,
+          "text": "the"
+        },
+        {
+          "startSec": 293.2,
+          "endSec": 293.5,
+          "text": "answer"
+        },
+        {
+          "startSec": 293.5,
+          "endSec": 293.6,
+          "text": "to"
+        },
+        {
+          "startSec": 293.6,
+          "endSec": 293.9,
+          "text": "your"
+        }
+      ]
+    },
+    {
+      "startSec": 293.6,
+      "endSec": 297.3,
+      "text": "your question? Yes it is. I asked according to a recent",
+      "words": [
+        {
+          "startSec": 293.6,
+          "endSec": 293.9,
+          "text": "your"
+        },
+        {
+          "startSec": 293.9,
+          "endSec": 294.6,
+          "text": "question?"
+        },
+        {
+          "startSec": 294.6,
+          "endSec": 294.9,
+          "text": "Yes"
+        },
+        {
+          "startSec": 294.9,
+          "endSec": 295.1,
+          "text": "it"
+        },
+        {
+          "startSec": 295.1,
+          "endSec": 295.5,
+          "text": "is."
+        },
+        {
+          "startSec": 295.5,
+          "endSec": 295.6,
+          "text": "I"
+        },
+        {
+          "startSec": 295.6,
+          "endSec": 295.9,
+          "text": "asked"
+        },
+        {
+          "startSec": 295.9,
+          "endSec": 296.6,
+          "text": "according"
+        },
+        {
+          "startSec": 296.6,
+          "endSec": 296.8,
+          "text": "to"
+        },
+        {
+          "startSec": 296.8,
+          "endSec": 296.8,
+          "text": "a"
+        },
+        {
+          "startSec": 296.8,
+          "endSec": 297.3,
+          "text": "recent"
+        },
+        {
+          "startSec": 297.3,
+          "endSec": 297.8,
+          "text": "YouGov"
+        }
+      ]
+    },
+    {
+      "startSec": 297.3,
+      "endSec": 303.2,
+      "text": "YouGov survey which of the following snacks is the most popular amongst Brits, crisps,",
+      "words": [
+        {
+          "startSec": 297.3,
+          "endSec": 297.8,
+          "text": "YouGov"
+        },
+        {
+          "startSec": 297.8,
+          "endSec": 298.2,
+          "text": "survey"
+        },
+        {
+          "startSec": 298.2,
+          "endSec": 298.6,
+          "text": "which"
+        },
+        {
+          "startSec": 298.6,
+          "endSec": 298.8,
+          "text": "of"
+        },
+        {
+          "startSec": 298.8,
+          "endSec": 299,
+          "text": "the"
+        },
+        {
+          "startSec": 299,
+          "endSec": 299.7,
+          "text": "following"
+        },
+        {
+          "startSec": 299.7,
+          "endSec": 300.2,
+          "text": "snacks"
+        },
+        {
+          "startSec": 300.2,
+          "endSec": 300.3,
+          "text": "is"
+        },
+        {
+          "startSec": 300.3,
+          "endSec": 300.5,
+          "text": "the"
+        },
+        {
+          "startSec": 300.5,
+          "endSec": 300.8,
+          "text": "most"
+        },
+        {
+          "startSec": 300.8,
+          "endSec": 301.4,
+          "text": "popular"
+        },
+        {
+          "startSec": 301.4,
+          "endSec": 301.9,
+          "text": "amongst"
+        },
+        {
+          "startSec": 301.9,
+          "endSec": 302.5,
+          "text": "Brits,"
+        },
+        {
+          "startSec": 302.5,
+          "endSec": 303.2,
+          "text": "crisps,"
+        },
+        {
+          "startSec": 303.2,
+          "endSec": 304.3,
+          "text": "confectionery"
+        }
+      ]
+    },
+    {
+      "startSec": 303.2,
+      "endSec": 310.1,
+      "text": "confectionery and chocolate or savoury snacks and biscuits and the answer was B, confectionery",
+      "words": [
+        {
+          "startSec": 303.2,
+          "endSec": 304.3,
+          "text": "confectionery"
+        },
+        {
+          "startSec": 304.3,
+          "endSec": 304.5,
+          "text": "and"
+        },
+        {
+          "startSec": 304.5,
+          "endSec": 305.3,
+          "text": "chocolate"
+        },
+        {
+          "startSec": 305.3,
+          "endSec": 305.4,
+          "text": "or"
+        },
+        {
+          "startSec": 305.4,
+          "endSec": 306,
+          "text": "savoury"
+        },
+        {
+          "startSec": 306,
+          "endSec": 306.5,
+          "text": "snacks"
+        },
+        {
+          "startSec": 306.5,
+          "endSec": 306.7,
+          "text": "and"
+        },
+        {
+          "startSec": 306.7,
+          "endSec": 307.4,
+          "text": "biscuits"
+        },
+        {
+          "startSec": 307.4,
+          "endSec": 307.6,
+          "text": "and"
+        },
+        {
+          "startSec": 307.6,
+          "endSec": 307.9,
+          "text": "the"
+        },
+        {
+          "startSec": 307.9,
+          "endSec": 308.4,
+          "text": "answer"
+        },
+        {
+          "startSec": 308.4,
+          "endSec": 308.7,
+          "text": "was"
+        },
+        {
+          "startSec": 308.7,
+          "endSec": 309.6,
+          "text": "B,"
+        },
+        {
+          "startSec": 309.6,
+          "endSec": 310.1,
+          "text": "confectionery"
+        },
+        {
+          "startSec": 310.1,
+          "endSec": 310.3,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 310.1,
+      "endSec": 315.8,
+      "text": "and chocolate which 45% of Britain's indulging weekly according to that survey.",
+      "words": [
+        {
+          "startSec": 310.1,
+          "endSec": 310.3,
+          "text": "and"
+        },
+        {
+          "startSec": 310.3,
+          "endSec": 311,
+          "text": "chocolate"
+        },
+        {
+          "startSec": 311,
+          "endSec": 311.4,
+          "text": "which"
+        },
+        {
+          "startSec": 311.4,
+          "endSec": 311.9,
+          "text": "45%"
+        },
+        {
+          "startSec": 311.9,
+          "endSec": 312.1,
+          "text": "of"
+        },
+        {
+          "startSec": 312.1,
+          "endSec": 312.8,
+          "text": "Britain's"
+        },
+        {
+          "startSec": 312.8,
+          "endSec": 313.4,
+          "text": "indulging"
+        },
+        {
+          "startSec": 313.4,
+          "endSec": 313.9,
+          "text": "weekly"
+        },
+        {
+          "startSec": 313.9,
+          "endSec": 314.6,
+          "text": "according"
+        },
+        {
+          "startSec": 314.6,
+          "endSec": 314.7,
+          "text": "to"
+        },
+        {
+          "startSec": 314.7,
+          "endSec": 315.1,
+          "text": "that"
+        },
+        {
+          "startSec": 315.1,
+          "endSec": 315.8,
+          "text": "survey."
+        }
+      ]
+    },
+    {
+      "startSec": 315.8,
+      "endSec": 321.5,
+      "text": "Ok let's recap the vocabulary we've learnt. Starting with the phrase hits the spot which",
+      "words": [
+        {
+          "startSec": 315.9,
+          "endSec": 315.9,
+          "text": "Ok"
+        },
+        {
+          "startSec": 315.9,
+          "endSec": 316.3,
+          "text": "let's"
+        },
+        {
+          "startSec": 316.3,
+          "endSec": 316.7,
+          "text": "recap"
+        },
+        {
+          "startSec": 316.7,
+          "endSec": 316.9,
+          "text": "the"
+        },
+        {
+          "startSec": 316.9,
+          "endSec": 317.6,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 317.6,
+          "endSec": 318,
+          "text": "we've"
+        },
+        {
+          "startSec": 318,
+          "endSec": 318.6,
+          "text": "learnt."
+        },
+        {
+          "startSec": 318.6,
+          "endSec": 319.2,
+          "text": "Starting"
+        },
+        {
+          "startSec": 319.2,
+          "endSec": 319.5,
+          "text": "with"
+        },
+        {
+          "startSec": 319.5,
+          "endSec": 319.7,
+          "text": "the"
+        },
+        {
+          "startSec": 319.7,
+          "endSec": 320.2,
+          "text": "phrase"
+        },
+        {
+          "startSec": 320.2,
+          "endSec": 320.5,
+          "text": "hits"
+        },
+        {
+          "startSec": 320.5,
+          "endSec": 320.8,
+          "text": "the"
+        },
+        {
+          "startSec": 320.8,
+          "endSec": 321.1,
+          "text": "spot"
+        },
+        {
+          "startSec": 321.1,
+          "endSec": 321.5,
+          "text": "which"
+        },
+        {
+          "startSec": 321.5,
+          "endSec": 322.2,
+          "text": "describes"
+        }
+      ]
+    },
+    {
+      "startSec": 321.5,
+      "endSec": 327.2,
+      "text": "describes something which is exactly what you want or need. If something is affordable",
+      "words": [
+        {
+          "startSec": 321.5,
+          "endSec": 322.2,
+          "text": "describes"
+        },
+        {
+          "startSec": 322.2,
+          "endSec": 322.9,
+          "text": "something"
+        },
+        {
+          "startSec": 322.9,
+          "endSec": 323.3,
+          "text": "which"
+        },
+        {
+          "startSec": 323.3,
+          "endSec": 323.4,
+          "text": "is"
+        },
+        {
+          "startSec": 323.4,
+          "endSec": 324,
+          "text": "exactly"
+        },
+        {
+          "startSec": 324,
+          "endSec": 324.2,
+          "text": "what"
+        },
+        {
+          "startSec": 324.2,
+          "endSec": 324.5,
+          "text": "you"
+        },
+        {
+          "startSec": 324.5,
+          "endSec": 324.8,
+          "text": "want"
+        },
+        {
+          "startSec": 324.8,
+          "endSec": 324.9,
+          "text": "or"
+        },
+        {
+          "startSec": 324.9,
+          "endSec": 325.5,
+          "text": "need."
+        },
+        {
+          "startSec": 325.5,
+          "endSec": 325.6,
+          "text": "If"
+        },
+        {
+          "startSec": 325.6,
+          "endSec": 326,
+          "text": "something"
+        },
+        {
+          "startSec": 326,
+          "endSec": 326.1,
+          "text": "is"
+        },
+        {
+          "startSec": 326.1,
+          "endSec": 327.2,
+          "text": "affordable"
+        },
+        {
+          "startSec": 327.2,
+          "endSec": 327.4,
+          "text": "it's"
+        }
+      ]
+    },
+    {
+      "startSec": 327.2,
+      "endSec": 332.4,
+      "text": "it's cheap enough that most people have enough money to buy it. The phrase money is tight",
+      "words": [
+        {
+          "startSec": 327.2,
+          "endSec": 327.4,
+          "text": "it's"
+        },
+        {
+          "startSec": 327.4,
+          "endSec": 327.7,
+          "text": "cheap"
+        },
+        {
+          "startSec": 327.7,
+          "endSec": 328.1,
+          "text": "enough"
+        },
+        {
+          "startSec": 328.1,
+          "endSec": 328.4,
+          "text": "that"
+        },
+        {
+          "startSec": 328.4,
+          "endSec": 328.7,
+          "text": "most"
+        },
+        {
+          "startSec": 328.7,
+          "endSec": 329,
+          "text": "people"
+        },
+        {
+          "startSec": 329,
+          "endSec": 329.3,
+          "text": "have"
+        },
+        {
+          "startSec": 329.3,
+          "endSec": 329.7,
+          "text": "enough"
+        },
+        {
+          "startSec": 329.7,
+          "endSec": 330,
+          "text": "money"
+        },
+        {
+          "startSec": 330,
+          "endSec": 330.1,
+          "text": "to"
+        },
+        {
+          "startSec": 330.1,
+          "endSec": 330.3,
+          "text": "buy"
+        },
+        {
+          "startSec": 330.3,
+          "endSec": 330.7,
+          "text": "it."
+        },
+        {
+          "startSec": 330.7,
+          "endSec": 330.9,
+          "text": "The"
+        },
+        {
+          "startSec": 330.9,
+          "endSec": 331.3,
+          "text": "phrase"
+        },
+        {
+          "startSec": 331.3,
+          "endSec": 331.6,
+          "text": "money"
+        },
+        {
+          "startSec": 331.6,
+          "endSec": 331.8,
+          "text": "is"
+        },
+        {
+          "startSec": 331.8,
+          "endSec": 332.4,
+          "text": "tight"
+        },
+        {
+          "startSec": 332.4,
+          "endSec": 332.8,
+          "text": "means"
+        }
+      ]
+    },
+    {
+      "startSec": 332.4,
+      "endSec": 338.1,
+      "text": "means you only have just enough money to live. The idiom on the go means doing things while",
+      "words": [
+        {
+          "startSec": 332.4,
+          "endSec": 332.8,
+          "text": "means"
+        },
+        {
+          "startSec": 332.8,
+          "endSec": 333,
+          "text": "you"
+        },
+        {
+          "startSec": 333,
+          "endSec": 333.3,
+          "text": "only"
+        },
+        {
+          "startSec": 333.3,
+          "endSec": 333.6,
+          "text": "have"
+        },
+        {
+          "startSec": 333.6,
+          "endSec": 334,
+          "text": "just"
+        },
+        {
+          "startSec": 334,
+          "endSec": 334.5,
+          "text": "enough"
+        },
+        {
+          "startSec": 334.5,
+          "endSec": 334.9,
+          "text": "money"
+        },
+        {
+          "startSec": 334.9,
+          "endSec": 335,
+          "text": "to"
+        },
+        {
+          "startSec": 335,
+          "endSec": 335.6,
+          "text": "live."
+        },
+        {
+          "startSec": 335.6,
+          "endSec": 335.9,
+          "text": "The"
+        },
+        {
+          "startSec": 335.9,
+          "endSec": 336.2,
+          "text": "idiom"
+        },
+        {
+          "startSec": 336.2,
+          "endSec": 336.3,
+          "text": "on"
+        },
+        {
+          "startSec": 336.3,
+          "endSec": 336.6,
+          "text": "the"
+        },
+        {
+          "startSec": 336.6,
+          "endSec": 336.7,
+          "text": "go"
+        },
+        {
+          "startSec": 336.7,
+          "endSec": 337.1,
+          "text": "means"
+        },
+        {
+          "startSec": 337.1,
+          "endSec": 337.4,
+          "text": "doing"
+        },
+        {
+          "startSec": 337.4,
+          "endSec": 337.9,
+          "text": "things"
+        },
+        {
+          "startSec": 337.9,
+          "endSec": 338.1,
+          "text": "while"
+        },
+        {
+          "startSec": 338.1,
+          "endSec": 338.5,
+          "text": "you're"
+        }
+      ]
+    },
+    {
+      "startSec": 338.1,
+      "endSec": 343,
+      "text": "you're busy travelling or moving around. Mental clarity is a state in which your mind",
+      "words": [
+        {
+          "startSec": 338.1,
+          "endSec": 338.5,
+          "text": "you're"
+        },
+        {
+          "startSec": 338.5,
+          "endSec": 338.8,
+          "text": "busy"
+        },
+        {
+          "startSec": 338.8,
+          "endSec": 339.6,
+          "text": "travelling"
+        },
+        {
+          "startSec": 339.6,
+          "endSec": 339.7,
+          "text": "or"
+        },
+        {
+          "startSec": 339.7,
+          "endSec": 340.2,
+          "text": "moving"
+        },
+        {
+          "startSec": 340.2,
+          "endSec": 340.9,
+          "text": "around."
+        },
+        {
+          "startSec": 340.9,
+          "endSec": 341.2,
+          "text": "Mental"
+        },
+        {
+          "startSec": 341.2,
+          "endSec": 341.6,
+          "text": "clarity"
+        },
+        {
+          "startSec": 341.6,
+          "endSec": 341.8,
+          "text": "is"
+        },
+        {
+          "startSec": 341.8,
+          "endSec": 341.8,
+          "text": "a"
+        },
+        {
+          "startSec": 341.8,
+          "endSec": 342.1,
+          "text": "state"
+        },
+        {
+          "startSec": 342.1,
+          "endSec": 342.2,
+          "text": "in"
+        },
+        {
+          "startSec": 342.2,
+          "endSec": 342.5,
+          "text": "which"
+        },
+        {
+          "startSec": 342.5,
+          "endSec": 342.7,
+          "text": "your"
+        },
+        {
+          "startSec": 342.7,
+          "endSec": 343,
+          "text": "mind"
+        },
+        {
+          "startSec": 343,
+          "endSec": 343.2,
+          "text": "is"
+        }
+      ]
+    },
+    {
+      "startSec": 343,
+      "endSec": 349.9,
+      "text": "is fully focused and active not dull or foggy. And finally people who swim against the current",
+      "words": [
+        {
+          "startSec": 343,
+          "endSec": 343.2,
+          "text": "is"
+        },
+        {
+          "startSec": 343.2,
+          "endSec": 343.7,
+          "text": "fully"
+        },
+        {
+          "startSec": 343.7,
+          "endSec": 344.4,
+          "text": "focused"
+        },
+        {
+          "startSec": 344.4,
+          "endSec": 344.7,
+          "text": "and"
+        },
+        {
+          "startSec": 344.7,
+          "endSec": 345.3,
+          "text": "active"
+        },
+        {
+          "startSec": 345.3,
+          "endSec": 345.6,
+          "text": "not"
+        },
+        {
+          "startSec": 345.6,
+          "endSec": 346,
+          "text": "dull"
+        },
+        {
+          "startSec": 346,
+          "endSec": 346.2,
+          "text": "or"
+        },
+        {
+          "startSec": 346.2,
+          "endSec": 346.9,
+          "text": "foggy."
+        },
+        {
+          "startSec": 346.9,
+          "endSec": 347.1,
+          "text": "And"
+        },
+        {
+          "startSec": 347.1,
+          "endSec": 347.6,
+          "text": "finally"
+        },
+        {
+          "startSec": 347.6,
+          "endSec": 348.1,
+          "text": "people"
+        },
+        {
+          "startSec": 348.1,
+          "endSec": 348.3,
+          "text": "who"
+        },
+        {
+          "startSec": 348.3,
+          "endSec": 348.6,
+          "text": "swim"
+        },
+        {
+          "startSec": 348.6,
+          "endSec": 349.1,
+          "text": "against"
+        },
+        {
+          "startSec": 349.1,
+          "endSec": 349.3,
+          "text": "the"
+        },
+        {
+          "startSec": 349.3,
+          "endSec": 349.9,
+          "text": "current"
+        },
+        {
+          "startSec": 349.9,
+          "endSec": 350.1,
+          "text": "or"
+        }
+      ]
+    },
+    {
+      "startSec": 349.9,
+      "endSec": 356.1,
+      "text": "or the tide do or say things differently from most other people. Once again our six minutes",
+      "words": [
+        {
+          "startSec": 349.9,
+          "endSec": 350.1,
+          "text": "or"
+        },
+        {
+          "startSec": 350.1,
+          "endSec": 350.3,
+          "text": "the"
+        },
+        {
+          "startSec": 350.3,
+          "endSec": 350.7,
+          "text": "tide"
+        },
+        {
+          "startSec": 350.7,
+          "endSec": 350.9,
+          "text": "do"
+        },
+        {
+          "startSec": 350.9,
+          "endSec": 351.1,
+          "text": "or"
+        },
+        {
+          "startSec": 351.1,
+          "endSec": 351.3,
+          "text": "say"
+        },
+        {
+          "startSec": 351.3,
+          "endSec": 351.9,
+          "text": "things"
+        },
+        {
+          "startSec": 351.9,
+          "endSec": 352.9,
+          "text": "differently"
+        },
+        {
+          "startSec": 352.9,
+          "endSec": 353.2,
+          "text": "from"
+        },
+        {
+          "startSec": 353.2,
+          "endSec": 353.6,
+          "text": "most"
+        },
+        {
+          "startSec": 353.6,
+          "endSec": 354,
+          "text": "other"
+        },
+        {
+          "startSec": 354,
+          "endSec": 354.8,
+          "text": "people."
+        },
+        {
+          "startSec": 354.8,
+          "endSec": 355.1,
+          "text": "Once"
+        },
+        {
+          "startSec": 355.1,
+          "endSec": 355.4,
+          "text": "again"
+        },
+        {
+          "startSec": 355.4,
+          "endSec": 355.6,
+          "text": "our"
+        },
+        {
+          "startSec": 355.6,
+          "endSec": 355.8,
+          "text": "six"
+        },
+        {
+          "startSec": 355.8,
+          "endSec": 356.1,
+          "text": "minutes"
+        },
+        {
+          "startSec": 356.1,
+          "endSec": 356.4,
+          "text": "are"
+        }
+      ]
+    },
+    {
+      "startSec": 356.1,
+      "endSec": 362.5,
+      "text": "are up but why not head over to our website bbclearningenglish.com to try the quiz and",
+      "words": [
+        {
+          "startSec": 356.1,
+          "endSec": 356.4,
+          "text": "are"
+        },
+        {
+          "startSec": 356.4,
+          "endSec": 356.6,
+          "text": "up"
+        },
+        {
+          "startSec": 356.6,
+          "endSec": 356.8,
+          "text": "but"
+        },
+        {
+          "startSec": 356.8,
+          "endSec": 357.1,
+          "text": "why"
+        },
+        {
+          "startSec": 357.1,
+          "endSec": 357.3,
+          "text": "not"
+        },
+        {
+          "startSec": 357.3,
+          "endSec": 357.7,
+          "text": "head"
+        },
+        {
+          "startSec": 357.7,
+          "endSec": 358,
+          "text": "over"
+        },
+        {
+          "startSec": 358,
+          "endSec": 358.2,
+          "text": "to"
+        },
+        {
+          "startSec": 358.2,
+          "endSec": 358.5,
+          "text": "our"
+        },
+        {
+          "startSec": 358.5,
+          "endSec": 359.1,
+          "text": "website"
+        },
+        {
+          "startSec": 359.1,
+          "endSec": 361.1,
+          "text": "bbclearningenglish.com"
+        },
+        {
+          "startSec": 361.1,
+          "endSec": 361.3,
+          "text": "to"
+        },
+        {
+          "startSec": 361.3,
+          "endSec": 361.6,
+          "text": "try"
+        },
+        {
+          "startSec": 361.6,
+          "endSec": 361.8,
+          "text": "the"
+        },
+        {
+          "startSec": 361.8,
+          "endSec": 362.3,
+          "text": "quiz"
+        },
+        {
+          "startSec": 362.3,
+          "endSec": 362.5,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 362.5,
+      "endSec": 372.3,
+      "text": "worksheets for this episode. See you again soon.",
+      "words": [
+        {
+          "startSec": 362.7,
+          "endSec": 366.1,
+          "text": "worksheets"
+        },
+        {
+          "startSec": 366.1,
+          "endSec": 367.2,
+          "text": "for"
+        },
+        {
+          "startSec": 367.2,
+          "endSec": 368.6,
+          "text": "this"
+        },
+        {
+          "startSec": 368.6,
+          "endSec": 372.3,
+          "text": "episode."
+        },
+        {
+          "startSec": 372.3,
+          "endSec": 372.3,
+          "text": "See"
+        },
+        {
+          "startSec": 372.3,
+          "endSec": 372.3,
+          "text": "you"
+        },
+        {
+          "startSec": 372.3,
+          "endSec": 372.3,
+          "text": "again"
+        },
+        {
+          "startSec": 372.3,
+          "endSec": 372.3,
+          "text": "soon."
+        }
+      ]
+    }
+  ],
+  "introSec": 7.9
+}

@@ -1,0 +1,5668 @@
+{
+  "title": "Is breakfast the most important meal of the day",
+  "source": "BBC 6 Minute English",
+  "level": "advanced",
+  "durationSec": 364,
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
+  "audioFile": "audio.mp3",
+  "segments": [
+    {
+      "startSec": 0,
+      "endSec": 12.3,
+      "text": "Hello, this is 6 Minute English from BBC Learning English. I'm Georgie.",
+      "words": [
+        {
+          "startSec": 0.2,
+          "endSec": 8.3,
+          "text": "Hello,"
+        },
+        {
+          "startSec": 8.3,
+          "endSec": 8.7,
+          "text": "this"
+        },
+        {
+          "startSec": 8.7,
+          "endSec": 8.7,
+          "text": "is"
+        },
+        {
+          "startSec": 8.7,
+          "endSec": 8.9,
+          "text": "6"
+        },
+        {
+          "startSec": 8.9,
+          "endSec": 9.2,
+          "text": "Minute"
+        },
+        {
+          "startSec": 9.2,
+          "endSec": 9.7,
+          "text": "English"
+        },
+        {
+          "startSec": 9.7,
+          "endSec": 9.9,
+          "text": "from"
+        },
+        {
+          "startSec": 9.9,
+          "endSec": 10.1,
+          "text": "BBC"
+        },
+        {
+          "startSec": 10.1,
+          "endSec": 10.6,
+          "text": "Learning"
+        },
+        {
+          "startSec": 10.6,
+          "endSec": 11.3,
+          "text": "English."
+        },
+        {
+          "startSec": 11.3,
+          "endSec": 11.5,
+          "text": "I'm"
+        },
+        {
+          "startSec": 11.5,
+          "endSec": 12.3,
+          "text": "Georgie."
+        },
+        {
+          "startSec": 12.3,
+          "endSec": 12.6,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 12.3,
+      "endSec": 16.9,
+      "text": "And I'm Phil. Did you have any breakfast today, Georgie? Or did you skip it?",
+      "words": [
+        {
+          "startSec": 12.3,
+          "endSec": 12.6,
+          "text": "And"
+        },
+        {
+          "startSec": 12.6,
+          "endSec": 12.8,
+          "text": "I'm"
+        },
+        {
+          "startSec": 12.8,
+          "endSec": 13.5,
+          "text": "Phil."
+        },
+        {
+          "startSec": 13.5,
+          "endSec": 13.7,
+          "text": "Did"
+        },
+        {
+          "startSec": 13.7,
+          "endSec": 13.8,
+          "text": "you"
+        },
+        {
+          "startSec": 13.8,
+          "endSec": 14,
+          "text": "have"
+        },
+        {
+          "startSec": 14,
+          "endSec": 14.1,
+          "text": "any"
+        },
+        {
+          "startSec": 14.1,
+          "endSec": 14.5,
+          "text": "breakfast"
+        },
+        {
+          "startSec": 14.5,
+          "endSec": 14.8,
+          "text": "today,"
+        },
+        {
+          "startSec": 14.8,
+          "endSec": 15.2,
+          "text": "Georgie?"
+        },
+        {
+          "startSec": 15.2,
+          "endSec": 15.4,
+          "text": "Or"
+        },
+        {
+          "startSec": 15.4,
+          "endSec": 15.7,
+          "text": "did"
+        },
+        {
+          "startSec": 15.7,
+          "endSec": 16,
+          "text": "you"
+        },
+        {
+          "startSec": 16,
+          "endSec": 16.4,
+          "text": "skip"
+        },
+        {
+          "startSec": 16.4,
+          "endSec": 16.9,
+          "text": "it?"
+        },
+        {
+          "startSec": 16.9,
+          "endSec": 17,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 16.9,
+      "endSec": 23,
+      "text": "I did have some breakfast. On the way to the office, I got myself a pastry and a coffee.",
+      "words": [
+        {
+          "startSec": 16.9,
+          "endSec": 17,
+          "text": "I"
+        },
+        {
+          "startSec": 17,
+          "endSec": 17.2,
+          "text": "did"
+        },
+        {
+          "startSec": 17.2,
+          "endSec": 17.5,
+          "text": "have"
+        },
+        {
+          "startSec": 17.5,
+          "endSec": 17.8,
+          "text": "some"
+        },
+        {
+          "startSec": 17.8,
+          "endSec": 18.7,
+          "text": "breakfast."
+        },
+        {
+          "startSec": 18.7,
+          "endSec": 18.8,
+          "text": "On"
+        },
+        {
+          "startSec": 18.8,
+          "endSec": 19.1,
+          "text": "the"
+        },
+        {
+          "startSec": 19.1,
+          "endSec": 19.3,
+          "text": "way"
+        },
+        {
+          "startSec": 19.3,
+          "endSec": 19.5,
+          "text": "to"
+        },
+        {
+          "startSec": 19.5,
+          "endSec": 19.7,
+          "text": "the"
+        },
+        {
+          "startSec": 19.7,
+          "endSec": 20.3,
+          "text": "office,"
+        },
+        {
+          "startSec": 20.3,
+          "endSec": 20.4,
+          "text": "I"
+        },
+        {
+          "startSec": 20.4,
+          "endSec": 20.7,
+          "text": "got"
+        },
+        {
+          "startSec": 20.7,
+          "endSec": 21.2,
+          "text": "myself"
+        },
+        {
+          "startSec": 21.2,
+          "endSec": 21.3,
+          "text": "a"
+        },
+        {
+          "startSec": 21.3,
+          "endSec": 21.9,
+          "text": "pastry"
+        },
+        {
+          "startSec": 21.9,
+          "endSec": 22.2,
+          "text": "and"
+        },
+        {
+          "startSec": 22.2,
+          "endSec": 22.3,
+          "text": "a"
+        },
+        {
+          "startSec": 22.3,
+          "endSec": 23,
+          "text": "coffee."
+        },
+        {
+          "startSec": 23,
+          "endSec": 23.3,
+          "text": "What"
+        }
+      ]
+    },
+    {
+      "startSec": 23,
+      "endSec": 24,
+      "text": "What about you?",
+      "words": [
+        {
+          "startSec": 23,
+          "endSec": 23.3,
+          "text": "What"
+        },
+        {
+          "startSec": 23.3,
+          "endSec": 23.6,
+          "text": "about"
+        },
+        {
+          "startSec": 23.6,
+          "endSec": 24,
+          "text": "you?"
+        },
+        {
+          "startSec": 24,
+          "endSec": 24.1,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 24,
+      "endSec": 29.7,
+      "text": "I had a big bowl of porridge, but it was at 6 o'clock this morning, so I'm hungry again",
+      "words": [
+        {
+          "startSec": 24,
+          "endSec": 24.1,
+          "text": "I"
+        },
+        {
+          "startSec": 24.1,
+          "endSec": 24.3,
+          "text": "had"
+        },
+        {
+          "startSec": 24.3,
+          "endSec": 24.4,
+          "text": "a"
+        },
+        {
+          "startSec": 24.4,
+          "endSec": 24.6,
+          "text": "big"
+        },
+        {
+          "startSec": 24.6,
+          "endSec": 24.9,
+          "text": "bowl"
+        },
+        {
+          "startSec": 24.9,
+          "endSec": 25.1,
+          "text": "of"
+        },
+        {
+          "startSec": 25.1,
+          "endSec": 25.8,
+          "text": "porridge,"
+        },
+        {
+          "startSec": 25.8,
+          "endSec": 26,
+          "text": "but"
+        },
+        {
+          "startSec": 26,
+          "endSec": 26.2,
+          "text": "it"
+        },
+        {
+          "startSec": 26.2,
+          "endSec": 26.4,
+          "text": "was"
+        },
+        {
+          "startSec": 26.4,
+          "endSec": 26.6,
+          "text": "at"
+        },
+        {
+          "startSec": 26.6,
+          "endSec": 26.8,
+          "text": "6"
+        },
+        {
+          "startSec": 26.8,
+          "endSec": 27.3,
+          "text": "o'clock"
+        },
+        {
+          "startSec": 27.3,
+          "endSec": 27.6,
+          "text": "this"
+        },
+        {
+          "startSec": 27.6,
+          "endSec": 28.4,
+          "text": "morning,"
+        },
+        {
+          "startSec": 28.4,
+          "endSec": 28.6,
+          "text": "so"
+        },
+        {
+          "startSec": 28.6,
+          "endSec": 28.8,
+          "text": "I'm"
+        },
+        {
+          "startSec": 28.8,
+          "endSec": 29.3,
+          "text": "hungry"
+        },
+        {
+          "startSec": 29.3,
+          "endSec": 29.7,
+          "text": "again"
+        }
+      ]
+    },
+    {
+      "startSec": 29.7,
+      "endSec": 36.4,
+      "text": "now. And you might soon be hungry as well, because we're going to talk about breakfast.",
+      "words": [
+        {
+          "startSec": 29.8,
+          "endSec": 30.9,
+          "text": "now."
+        },
+        {
+          "startSec": 30.9,
+          "endSec": 31.1,
+          "text": "And"
+        },
+        {
+          "startSec": 31.1,
+          "endSec": 31.4,
+          "text": "you"
+        },
+        {
+          "startSec": 31.4,
+          "endSec": 31.7,
+          "text": "might"
+        },
+        {
+          "startSec": 31.7,
+          "endSec": 32,
+          "text": "soon"
+        },
+        {
+          "startSec": 32,
+          "endSec": 32.2,
+          "text": "be"
+        },
+        {
+          "startSec": 32.2,
+          "endSec": 32.6,
+          "text": "hungry"
+        },
+        {
+          "startSec": 32.6,
+          "endSec": 32.8,
+          "text": "as"
+        },
+        {
+          "startSec": 32.8,
+          "endSec": 33.2,
+          "text": "well,"
+        },
+        {
+          "startSec": 33.2,
+          "endSec": 33.7,
+          "text": "because"
+        },
+        {
+          "startSec": 33.7,
+          "endSec": 34.1,
+          "text": "we're"
+        },
+        {
+          "startSec": 34.1,
+          "endSec": 34.5,
+          "text": "going"
+        },
+        {
+          "startSec": 34.5,
+          "endSec": 34.7,
+          "text": "to"
+        },
+        {
+          "startSec": 34.7,
+          "endSec": 35,
+          "text": "talk"
+        },
+        {
+          "startSec": 35,
+          "endSec": 35.4,
+          "text": "about"
+        },
+        {
+          "startSec": 35.4,
+          "endSec": 36.4,
+          "text": "breakfast."
+        },
+        {
+          "startSec": 36.4,
+          "endSec": 36.7,
+          "text": "How"
+        }
+      ]
+    },
+    {
+      "startSec": 36.4,
+      "endSec": 42.3,
+      "text": "How important is it? Let's start by hearing from Professor Alexandra Johnston, a nutrition",
+      "words": [
+        {
+          "startSec": 36.4,
+          "endSec": 36.7,
+          "text": "How"
+        },
+        {
+          "startSec": 36.7,
+          "endSec": 37.7,
+          "text": "important"
+        },
+        {
+          "startSec": 37.7,
+          "endSec": 37.9,
+          "text": "is"
+        },
+        {
+          "startSec": 37.9,
+          "endSec": 38.5,
+          "text": "it?"
+        },
+        {
+          "startSec": 38.5,
+          "endSec": 38.8,
+          "text": "Let's"
+        },
+        {
+          "startSec": 38.8,
+          "endSec": 39,
+          "text": "start"
+        },
+        {
+          "startSec": 39,
+          "endSec": 39.1,
+          "text": "by"
+        },
+        {
+          "startSec": 39.1,
+          "endSec": 39.5,
+          "text": "hearing"
+        },
+        {
+          "startSec": 39.5,
+          "endSec": 39.7,
+          "text": "from"
+        },
+        {
+          "startSec": 39.7,
+          "endSec": 40.2,
+          "text": "Professor"
+        },
+        {
+          "startSec": 40.2,
+          "endSec": 40.8,
+          "text": "Alexandra"
+        },
+        {
+          "startSec": 40.8,
+          "endSec": 41.6,
+          "text": "Johnston,"
+        },
+        {
+          "startSec": 41.6,
+          "endSec": 41.6,
+          "text": "a"
+        },
+        {
+          "startSec": 41.6,
+          "endSec": 42.3,
+          "text": "nutrition"
+        },
+        {
+          "startSec": 42.3,
+          "endSec": 43,
+          "text": "scientist"
+        }
+      ]
+    },
+    {
+      "startSec": 42.3,
+      "endSec": 49.3,
+      "text": "scientist who spoke to Ruth Alexander, host of BBC World Service programme, The Food Chain.",
+      "words": [
+        {
+          "startSec": 42.3,
+          "endSec": 43,
+          "text": "scientist"
+        },
+        {
+          "startSec": 43,
+          "endSec": 43.2,
+          "text": "who"
+        },
+        {
+          "startSec": 43.2,
+          "endSec": 43.6,
+          "text": "spoke"
+        },
+        {
+          "startSec": 43.6,
+          "endSec": 43.7,
+          "text": "to"
+        },
+        {
+          "startSec": 43.7,
+          "endSec": 44,
+          "text": "Ruth"
+        },
+        {
+          "startSec": 44,
+          "endSec": 44.9,
+          "text": "Alexander,"
+        },
+        {
+          "startSec": 44.9,
+          "endSec": 45.2,
+          "text": "host"
+        },
+        {
+          "startSec": 45.2,
+          "endSec": 45.3,
+          "text": "of"
+        },
+        {
+          "startSec": 45.3,
+          "endSec": 45.6,
+          "text": "BBC"
+        },
+        {
+          "startSec": 45.6,
+          "endSec": 45.9,
+          "text": "World"
+        },
+        {
+          "startSec": 45.9,
+          "endSec": 46.5,
+          "text": "Service"
+        },
+        {
+          "startSec": 46.5,
+          "endSec": 47.3,
+          "text": "programme,"
+        },
+        {
+          "startSec": 47.3,
+          "endSec": 47.5,
+          "text": "The"
+        },
+        {
+          "startSec": 47.5,
+          "endSec": 47.9,
+          "text": "Food"
+        },
+        {
+          "startSec": 47.9,
+          "endSec": 49.3,
+          "text": "Chain."
+        },
+        {
+          "startSec": 49.3,
+          "endSec": 49.4,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 49.3,
+      "endSec": 54.7,
+      "text": "I am supporting the meme, breakfast like a king and down like a pauper.",
+      "words": [
+        {
+          "startSec": 49.3,
+          "endSec": 49.4,
+          "text": "I"
+        },
+        {
+          "startSec": 49.4,
+          "endSec": 49.5,
+          "text": "am"
+        },
+        {
+          "startSec": 49.5,
+          "endSec": 50.4,
+          "text": "supporting"
+        },
+        {
+          "startSec": 50.4,
+          "endSec": 50.7,
+          "text": "the"
+        },
+        {
+          "startSec": 50.7,
+          "endSec": 51.2,
+          "text": "meme,"
+        },
+        {
+          "startSec": 51.2,
+          "endSec": 52,
+          "text": "breakfast"
+        },
+        {
+          "startSec": 52,
+          "endSec": 52.4,
+          "text": "like"
+        },
+        {
+          "startSec": 52.4,
+          "endSec": 52.4,
+          "text": "a"
+        },
+        {
+          "startSec": 52.4,
+          "endSec": 52.8,
+          "text": "king"
+        },
+        {
+          "startSec": 52.8,
+          "endSec": 53,
+          "text": "and"
+        },
+        {
+          "startSec": 53,
+          "endSec": 53.4,
+          "text": "down"
+        },
+        {
+          "startSec": 53.4,
+          "endSec": 53.7,
+          "text": "like"
+        },
+        {
+          "startSec": 53.7,
+          "endSec": 53.8,
+          "text": "a"
+        },
+        {
+          "startSec": 53.8,
+          "endSec": 54.7,
+          "text": "pauper."
+        },
+        {
+          "startSec": 54.7,
+          "endSec": 54.9,
+          "text": "For"
+        }
+      ]
+    },
+    {
+      "startSec": 54.7,
+      "endSec": 58.4,
+      "text": "For you then, breakfast is the most important meal of the day.",
+      "words": [
+        {
+          "startSec": 54.7,
+          "endSec": 54.9,
+          "text": "For"
+        },
+        {
+          "startSec": 54.9,
+          "endSec": 55.1,
+          "text": "you"
+        },
+        {
+          "startSec": 55.1,
+          "endSec": 55.5,
+          "text": "then,"
+        },
+        {
+          "startSec": 55.5,
+          "endSec": 56.1,
+          "text": "breakfast"
+        },
+        {
+          "startSec": 56.1,
+          "endSec": 56.3,
+          "text": "is"
+        },
+        {
+          "startSec": 56.3,
+          "endSec": 56.5,
+          "text": "the"
+        },
+        {
+          "startSec": 56.5,
+          "endSec": 56.7,
+          "text": "most"
+        },
+        {
+          "startSec": 56.7,
+          "endSec": 57.3,
+          "text": "important"
+        },
+        {
+          "startSec": 57.3,
+          "endSec": 57.6,
+          "text": "meal"
+        },
+        {
+          "startSec": 57.6,
+          "endSec": 57.7,
+          "text": "of"
+        },
+        {
+          "startSec": 57.7,
+          "endSec": 57.9,
+          "text": "the"
+        },
+        {
+          "startSec": 57.9,
+          "endSec": 58.4,
+          "text": "day."
+        }
+      ]
+    },
+    {
+      "startSec": 58.4,
+      "endSec": 65.2,
+      "text": "I agree, so it's really important, particularly for people who are trying to maintain a healthy",
+      "words": [
+        {
+          "startSec": 58.5,
+          "endSec": 58.5,
+          "text": "I"
+        },
+        {
+          "startSec": 58.5,
+          "endSec": 59.1,
+          "text": "agree,"
+        },
+        {
+          "startSec": 59.1,
+          "endSec": 59.2,
+          "text": "so"
+        },
+        {
+          "startSec": 59.2,
+          "endSec": 59.5,
+          "text": "it's"
+        },
+        {
+          "startSec": 59.5,
+          "endSec": 60,
+          "text": "really"
+        },
+        {
+          "startSec": 60,
+          "endSec": 60.9,
+          "text": "important,"
+        },
+        {
+          "startSec": 60.9,
+          "endSec": 61.9,
+          "text": "particularly"
+        },
+        {
+          "startSec": 61.9,
+          "endSec": 62.2,
+          "text": "for"
+        },
+        {
+          "startSec": 62.2,
+          "endSec": 62.6,
+          "text": "people"
+        },
+        {
+          "startSec": 62.6,
+          "endSec": 62.9,
+          "text": "who"
+        },
+        {
+          "startSec": 62.9,
+          "endSec": 63.1,
+          "text": "are"
+        },
+        {
+          "startSec": 63.1,
+          "endSec": 63.6,
+          "text": "trying"
+        },
+        {
+          "startSec": 63.6,
+          "endSec": 63.8,
+          "text": "to"
+        },
+        {
+          "startSec": 63.8,
+          "endSec": 64.4,
+          "text": "maintain"
+        },
+        {
+          "startSec": 64.4,
+          "endSec": 64.5,
+          "text": "a"
+        },
+        {
+          "startSec": 64.5,
+          "endSec": 65.2,
+          "text": "healthy"
+        },
+        {
+          "startSec": 65.2,
+          "endSec": 65.6,
+          "text": "weight"
+        }
+      ]
+    },
+    {
+      "startSec": 65.2,
+      "endSec": 68.2,
+      "text": "weight and people who are trying to lose weight.",
+      "words": [
+        {
+          "startSec": 65.2,
+          "endSec": 65.6,
+          "text": "weight"
+        },
+        {
+          "startSec": 65.6,
+          "endSec": 65.8,
+          "text": "and"
+        },
+        {
+          "startSec": 65.8,
+          "endSec": 66.3,
+          "text": "people"
+        },
+        {
+          "startSec": 66.3,
+          "endSec": 66.5,
+          "text": "who"
+        },
+        {
+          "startSec": 66.5,
+          "endSec": 66.7,
+          "text": "are"
+        },
+        {
+          "startSec": 66.7,
+          "endSec": 67.1,
+          "text": "trying"
+        },
+        {
+          "startSec": 67.1,
+          "endSec": 67.2,
+          "text": "to"
+        },
+        {
+          "startSec": 67.2,
+          "endSec": 67.5,
+          "text": "lose"
+        },
+        {
+          "startSec": 67.5,
+          "endSec": 68.2,
+          "text": "weight."
+        },
+        {
+          "startSec": 68.2,
+          "endSec": 68.9,
+          "text": "Alexandra"
+        }
+      ]
+    },
+    {
+      "startSec": 68.2,
+      "endSec": 73.6,
+      "text": "Alexandra says that you should breakfast like a king and dine like a pauper.",
+      "words": [
+        {
+          "startSec": 68.2,
+          "endSec": 68.9,
+          "text": "Alexandra"
+        },
+        {
+          "startSec": 68.9,
+          "endSec": 69.2,
+          "text": "says"
+        },
+        {
+          "startSec": 69.2,
+          "endSec": 69.6,
+          "text": "that"
+        },
+        {
+          "startSec": 69.6,
+          "endSec": 69.8,
+          "text": "you"
+        },
+        {
+          "startSec": 69.8,
+          "endSec": 70.3,
+          "text": "should"
+        },
+        {
+          "startSec": 70.3,
+          "endSec": 71.1,
+          "text": "breakfast"
+        },
+        {
+          "startSec": 71.1,
+          "endSec": 71.4,
+          "text": "like"
+        },
+        {
+          "startSec": 71.4,
+          "endSec": 71.5,
+          "text": "a"
+        },
+        {
+          "startSec": 71.5,
+          "endSec": 71.8,
+          "text": "king"
+        },
+        {
+          "startSec": 71.8,
+          "endSec": 72.1,
+          "text": "and"
+        },
+        {
+          "startSec": 72.1,
+          "endSec": 72.4,
+          "text": "dine"
+        },
+        {
+          "startSec": 72.4,
+          "endSec": 72.7,
+          "text": "like"
+        },
+        {
+          "startSec": 72.7,
+          "endSec": 72.8,
+          "text": "a"
+        },
+        {
+          "startSec": 72.8,
+          "endSec": 73.6,
+          "text": "pauper."
+        },
+        {
+          "startSec": 73.6,
+          "endSec": 74.2,
+          "text": "\"Pauper\""
+        }
+      ]
+    },
+    {
+      "startSec": 73.6,
+      "endSec": 79.1,
+      "text": "\"Pauper\" is an old-fashioned word for a very poor person. The expression means have a big",
+      "words": [
+        {
+          "startSec": 73.6,
+          "endSec": 74.2,
+          "text": "\"Pauper\""
+        },
+        {
+          "startSec": 74.2,
+          "endSec": 74.3,
+          "text": "is"
+        },
+        {
+          "startSec": 74.3,
+          "endSec": 74.5,
+          "text": "an"
+        },
+        {
+          "startSec": 74.5,
+          "endSec": 75.4,
+          "text": "old-fashioned"
+        },
+        {
+          "startSec": 75.4,
+          "endSec": 75.7,
+          "text": "word"
+        },
+        {
+          "startSec": 75.7,
+          "endSec": 75.9,
+          "text": "for"
+        },
+        {
+          "startSec": 75.9,
+          "endSec": 76,
+          "text": "a"
+        },
+        {
+          "startSec": 76,
+          "endSec": 76.3,
+          "text": "very"
+        },
+        {
+          "startSec": 76.3,
+          "endSec": 76.6,
+          "text": "poor"
+        },
+        {
+          "startSec": 76.6,
+          "endSec": 77.3,
+          "text": "person."
+        },
+        {
+          "startSec": 77.3,
+          "endSec": 77.5,
+          "text": "The"
+        },
+        {
+          "startSec": 77.5,
+          "endSec": 78.3,
+          "text": "expression"
+        },
+        {
+          "startSec": 78.3,
+          "endSec": 78.6,
+          "text": "means"
+        },
+        {
+          "startSec": 78.6,
+          "endSec": 78.8,
+          "text": "have"
+        },
+        {
+          "startSec": 78.8,
+          "endSec": 78.9,
+          "text": "a"
+        },
+        {
+          "startSec": 78.9,
+          "endSec": 79.1,
+          "text": "big"
+        },
+        {
+          "startSec": 79.1,
+          "endSec": 79.9,
+          "text": "breakfast"
+        }
+      ]
+    },
+    {
+      "startSec": 79.1,
+      "endSec": 81.4,
+      "text": "breakfast and a small dinner.",
+      "words": [
+        {
+          "startSec": 79.1,
+          "endSec": 79.9,
+          "text": "breakfast"
+        },
+        {
+          "startSec": 79.9,
+          "endSec": 80.1,
+          "text": "and"
+        },
+        {
+          "startSec": 80.1,
+          "endSec": 80.2,
+          "text": "a"
+        },
+        {
+          "startSec": 80.2,
+          "endSec": 80.6,
+          "text": "small"
+        },
+        {
+          "startSec": 80.6,
+          "endSec": 81.4,
+          "text": "dinner."
+        },
+        {
+          "startSec": 81.4,
+          "endSec": 81.7,
+          "text": "We're"
+        }
+      ]
+    },
+    {
+      "startSec": 81.4,
+      "endSec": 85.7,
+      "text": "We're going to find out some of the reasons that Alexandra and other experts recommend",
+      "words": [
+        {
+          "startSec": 81.4,
+          "endSec": 81.7,
+          "text": "We're"
+        },
+        {
+          "startSec": 81.7,
+          "endSec": 82,
+          "text": "going"
+        },
+        {
+          "startSec": 82,
+          "endSec": 82.1,
+          "text": "to"
+        },
+        {
+          "startSec": 82.1,
+          "endSec": 82.3,
+          "text": "find"
+        },
+        {
+          "startSec": 82.3,
+          "endSec": 82.5,
+          "text": "out"
+        },
+        {
+          "startSec": 82.5,
+          "endSec": 82.8,
+          "text": "some"
+        },
+        {
+          "startSec": 82.8,
+          "endSec": 82.9,
+          "text": "of"
+        },
+        {
+          "startSec": 82.9,
+          "endSec": 83.1,
+          "text": "the"
+        },
+        {
+          "startSec": 83.1,
+          "endSec": 83.5,
+          "text": "reasons"
+        },
+        {
+          "startSec": 83.5,
+          "endSec": 83.7,
+          "text": "that"
+        },
+        {
+          "startSec": 83.7,
+          "endSec": 84.2,
+          "text": "Alexandra"
+        },
+        {
+          "startSec": 84.2,
+          "endSec": 84.4,
+          "text": "and"
+        },
+        {
+          "startSec": 84.4,
+          "endSec": 84.7,
+          "text": "other"
+        },
+        {
+          "startSec": 84.7,
+          "endSec": 85.1,
+          "text": "experts"
+        },
+        {
+          "startSec": 85.1,
+          "endSec": 85.7,
+          "text": "recommend"
+        }
+      ]
+    },
+    {
+      "startSec": 85.7,
+      "endSec": 91.4,
+      "text": "doing this. And as usual, we'll learn some useful new words and phrases. And remember,",
+      "words": [
+        {
+          "startSec": 85.9,
+          "endSec": 87,
+          "text": "doing"
+        },
+        {
+          "startSec": 87,
+          "endSec": 88.7,
+          "text": "this."
+        },
+        {
+          "startSec": 88.7,
+          "endSec": 88.7,
+          "text": "And"
+        },
+        {
+          "startSec": 88.7,
+          "endSec": 88.7,
+          "text": "as"
+        },
+        {
+          "startSec": 88.7,
+          "endSec": 88.7,
+          "text": "usual,"
+        },
+        {
+          "startSec": 88.7,
+          "endSec": 88.8,
+          "text": "we'll"
+        },
+        {
+          "startSec": 88.8,
+          "endSec": 88.8,
+          "text": "learn"
+        },
+        {
+          "startSec": 88.8,
+          "endSec": 88.8,
+          "text": "some"
+        },
+        {
+          "startSec": 88.8,
+          "endSec": 88.8,
+          "text": "useful"
+        },
+        {
+          "startSec": 88.8,
+          "endSec": 88.8,
+          "text": "new"
+        },
+        {
+          "startSec": 88.8,
+          "endSec": 89.3,
+          "text": "words"
+        },
+        {
+          "startSec": 89.3,
+          "endSec": 89.5,
+          "text": "and"
+        },
+        {
+          "startSec": 89.5,
+          "endSec": 90.6,
+          "text": "phrases."
+        },
+        {
+          "startSec": 90.6,
+          "endSec": 90.8,
+          "text": "And"
+        },
+        {
+          "startSec": 90.8,
+          "endSec": 91.4,
+          "text": "remember,"
+        },
+        {
+          "startSec": 91.4,
+          "endSec": 91.8,
+          "text": "you'll"
+        }
+      ]
+    },
+    {
+      "startSec": 91.4,
+      "endSec": 97.5,
+      "text": "you'll find all the vocabulary and a quiz on our website, bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 91.4,
+          "endSec": 91.8,
+          "text": "you'll"
+        },
+        {
+          "startSec": 91.8,
+          "endSec": 92.2,
+          "text": "find"
+        },
+        {
+          "startSec": 92.2,
+          "endSec": 92.4,
+          "text": "all"
+        },
+        {
+          "startSec": 92.4,
+          "endSec": 92.6,
+          "text": "the"
+        },
+        {
+          "startSec": 92.6,
+          "endSec": 93.5,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 93.5,
+          "endSec": 93.7,
+          "text": "and"
+        },
+        {
+          "startSec": 93.7,
+          "endSec": 93.8,
+          "text": "a"
+        },
+        {
+          "startSec": 93.8,
+          "endSec": 94.1,
+          "text": "quiz"
+        },
+        {
+          "startSec": 94.1,
+          "endSec": 94.3,
+          "text": "on"
+        },
+        {
+          "startSec": 94.3,
+          "endSec": 94.5,
+          "text": "our"
+        },
+        {
+          "startSec": 94.5,
+          "endSec": 95.2,
+          "text": "website,"
+        },
+        {
+          "startSec": 95.2,
+          "endSec": 97.5,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 97.5,
+          "endSec": 97.9,
+          "text": "OK,"
+        }
+      ]
+    },
+    {
+      "startSec": 97.5,
+      "endSec": 103.9,
+      "text": "OK, but first I have a question for you, Phil. According to a recent survey, which of the",
+      "words": [
+        {
+          "startSec": 97.5,
+          "endSec": 97.9,
+          "text": "OK,"
+        },
+        {
+          "startSec": 97.9,
+          "endSec": 98.2,
+          "text": "but"
+        },
+        {
+          "startSec": 98.2,
+          "endSec": 98.7,
+          "text": "first"
+        },
+        {
+          "startSec": 98.7,
+          "endSec": 98.8,
+          "text": "I"
+        },
+        {
+          "startSec": 98.8,
+          "endSec": 99.2,
+          "text": "have"
+        },
+        {
+          "startSec": 99.2,
+          "endSec": 99.3,
+          "text": "a"
+        },
+        {
+          "startSec": 99.3,
+          "endSec": 100.1,
+          "text": "question"
+        },
+        {
+          "startSec": 100.1,
+          "endSec": 100.4,
+          "text": "for"
+        },
+        {
+          "startSec": 100.4,
+          "endSec": 100.9,
+          "text": "you,"
+        },
+        {
+          "startSec": 100.9,
+          "endSec": 101.7,
+          "text": "Phil."
+        },
+        {
+          "startSec": 101.7,
+          "endSec": 102.3,
+          "text": "According"
+        },
+        {
+          "startSec": 102.3,
+          "endSec": 102.4,
+          "text": "to"
+        },
+        {
+          "startSec": 102.4,
+          "endSec": 102.5,
+          "text": "a"
+        },
+        {
+          "startSec": 102.5,
+          "endSec": 102.9,
+          "text": "recent"
+        },
+        {
+          "startSec": 102.9,
+          "endSec": 103.4,
+          "text": "survey,"
+        },
+        {
+          "startSec": 103.4,
+          "endSec": 103.7,
+          "text": "which"
+        },
+        {
+          "startSec": 103.7,
+          "endSec": 103.8,
+          "text": "of"
+        },
+        {
+          "startSec": 103.8,
+          "endSec": 103.9,
+          "text": "the"
+        },
+        {
+          "startSec": 103.9,
+          "endSec": 104.7,
+          "text": "following"
+        }
+      ]
+    },
+    {
+      "startSec": 103.9,
+      "endSec": 112.8,
+      "text": "following is the most popular breakfast in the UK? Is it A, eggs, B, toast or C, cereal?",
+      "words": [
+        {
+          "startSec": 103.9,
+          "endSec": 104.7,
+          "text": "following"
+        },
+        {
+          "startSec": 104.7,
+          "endSec": 104.9,
+          "text": "is"
+        },
+        {
+          "startSec": 104.9,
+          "endSec": 105.2,
+          "text": "the"
+        },
+        {
+          "startSec": 105.2,
+          "endSec": 105.5,
+          "text": "most"
+        },
+        {
+          "startSec": 105.5,
+          "endSec": 106.1,
+          "text": "popular"
+        },
+        {
+          "startSec": 106.1,
+          "endSec": 106.9,
+          "text": "breakfast"
+        },
+        {
+          "startSec": 106.9,
+          "endSec": 107.1,
+          "text": "in"
+        },
+        {
+          "startSec": 107.1,
+          "endSec": 107.4,
+          "text": "the"
+        },
+        {
+          "startSec": 107.4,
+          "endSec": 107.8,
+          "text": "UK?"
+        },
+        {
+          "startSec": 107.8,
+          "endSec": 108.1,
+          "text": "Is"
+        },
+        {
+          "startSec": 108.1,
+          "endSec": 108.4,
+          "text": "it"
+        },
+        {
+          "startSec": 108.4,
+          "endSec": 108.8,
+          "text": "A,"
+        },
+        {
+          "startSec": 108.8,
+          "endSec": 109.7,
+          "text": "eggs,"
+        },
+        {
+          "startSec": 109.7,
+          "endSec": 110.1,
+          "text": "B,"
+        },
+        {
+          "startSec": 110.1,
+          "endSec": 110.8,
+          "text": "toast"
+        },
+        {
+          "startSec": 110.8,
+          "endSec": 111.1,
+          "text": "or"
+        },
+        {
+          "startSec": 111.1,
+          "endSec": 111.9,
+          "text": "C,"
+        },
+        {
+          "startSec": 111.9,
+          "endSec": 112.8,
+          "text": "cereal?"
+        }
+      ]
+    },
+    {
+      "startSec": 112.8,
+      "endSec": 118,
+      "text": "Well, I think people like to keep it simple, so I'm going to say toast.",
+      "words": [
+        {
+          "startSec": 112.9,
+          "endSec": 113.4,
+          "text": "Well,"
+        },
+        {
+          "startSec": 113.4,
+          "endSec": 113.4,
+          "text": "I"
+        },
+        {
+          "startSec": 113.4,
+          "endSec": 113.9,
+          "text": "think"
+        },
+        {
+          "startSec": 113.9,
+          "endSec": 114.4,
+          "text": "people"
+        },
+        {
+          "startSec": 114.4,
+          "endSec": 114.7,
+          "text": "like"
+        },
+        {
+          "startSec": 114.7,
+          "endSec": 114.9,
+          "text": "to"
+        },
+        {
+          "startSec": 114.9,
+          "endSec": 115.2,
+          "text": "keep"
+        },
+        {
+          "startSec": 115.2,
+          "endSec": 115.4,
+          "text": "it"
+        },
+        {
+          "startSec": 115.4,
+          "endSec": 116.1,
+          "text": "simple,"
+        },
+        {
+          "startSec": 116.1,
+          "endSec": 116.2,
+          "text": "so"
+        },
+        {
+          "startSec": 116.2,
+          "endSec": 116.5,
+          "text": "I'm"
+        },
+        {
+          "startSec": 116.5,
+          "endSec": 116.9,
+          "text": "going"
+        },
+        {
+          "startSec": 116.9,
+          "endSec": 117.1,
+          "text": "to"
+        },
+        {
+          "startSec": 117.1,
+          "endSec": 117.3,
+          "text": "say"
+        },
+        {
+          "startSec": 117.3,
+          "endSec": 118,
+          "text": "toast."
+        },
+        {
+          "startSec": 118,
+          "endSec": 118.3,
+          "text": "OK,"
+        }
+      ]
+    },
+    {
+      "startSec": 118,
+      "endSec": 122.7,
+      "text": "OK, well, we'll find out the answer later in the programme. Let's hear some reasons",
+      "words": [
+        {
+          "startSec": 118,
+          "endSec": 118.3,
+          "text": "OK,"
+        },
+        {
+          "startSec": 118.3,
+          "endSec": 118.7,
+          "text": "well,"
+        },
+        {
+          "startSec": 118.7,
+          "endSec": 119,
+          "text": "we'll"
+        },
+        {
+          "startSec": 119,
+          "endSec": 119.3,
+          "text": "find"
+        },
+        {
+          "startSec": 119.3,
+          "endSec": 119.5,
+          "text": "out"
+        },
+        {
+          "startSec": 119.5,
+          "endSec": 119.7,
+          "text": "the"
+        },
+        {
+          "startSec": 119.7,
+          "endSec": 120,
+          "text": "answer"
+        },
+        {
+          "startSec": 120,
+          "endSec": 120.4,
+          "text": "later"
+        },
+        {
+          "startSec": 120.4,
+          "endSec": 120.5,
+          "text": "in"
+        },
+        {
+          "startSec": 120.5,
+          "endSec": 120.7,
+          "text": "the"
+        },
+        {
+          "startSec": 120.7,
+          "endSec": 121.5,
+          "text": "programme."
+        },
+        {
+          "startSec": 121.5,
+          "endSec": 121.8,
+          "text": "Let's"
+        },
+        {
+          "startSec": 121.8,
+          "endSec": 122.1,
+          "text": "hear"
+        },
+        {
+          "startSec": 122.1,
+          "endSec": 122.3,
+          "text": "some"
+        },
+        {
+          "startSec": 122.3,
+          "endSec": 122.7,
+          "text": "reasons"
+        },
+        {
+          "startSec": 122.7,
+          "endSec": 122.9,
+          "text": "for"
+        }
+      ]
+    },
+    {
+      "startSec": 122.7,
+      "endSec": 128,
+      "text": "for why we should breakfast like a king or queen. Courtney Peterson, who researches eating",
+      "words": [
+        {
+          "startSec": 122.7,
+          "endSec": 122.9,
+          "text": "for"
+        },
+        {
+          "startSec": 122.9,
+          "endSec": 123.2,
+          "text": "why"
+        },
+        {
+          "startSec": 123.2,
+          "endSec": 123.3,
+          "text": "we"
+        },
+        {
+          "startSec": 123.3,
+          "endSec": 123.7,
+          "text": "should"
+        },
+        {
+          "startSec": 123.7,
+          "endSec": 124.4,
+          "text": "breakfast"
+        },
+        {
+          "startSec": 124.4,
+          "endSec": 124.7,
+          "text": "like"
+        },
+        {
+          "startSec": 124.7,
+          "endSec": 124.8,
+          "text": "a"
+        },
+        {
+          "startSec": 124.8,
+          "endSec": 125.1,
+          "text": "king"
+        },
+        {
+          "startSec": 125.1,
+          "endSec": 125.2,
+          "text": "or"
+        },
+        {
+          "startSec": 125.2,
+          "endSec": 125.8,
+          "text": "queen."
+        },
+        {
+          "startSec": 125.8,
+          "endSec": 126.3,
+          "text": "Courtney"
+        },
+        {
+          "startSec": 126.3,
+          "endSec": 126.8,
+          "text": "Peterson,"
+        },
+        {
+          "startSec": 126.8,
+          "endSec": 126.9,
+          "text": "who"
+        },
+        {
+          "startSec": 126.9,
+          "endSec": 127.5,
+          "text": "researches"
+        },
+        {
+          "startSec": 127.5,
+          "endSec": 128,
+          "text": "eating"
+        },
+        {
+          "startSec": 128,
+          "endSec": 128.9,
+          "text": "behaviours,"
+        }
+      ]
+    },
+    {
+      "startSec": 128,
+      "endSec": 133.8,
+      "text": "behaviours, explains how the time of day affects how our bodies process food on BBC World's",
+      "words": [
+        {
+          "startSec": 128,
+          "endSec": 128.9,
+          "text": "behaviours,"
+        },
+        {
+          "startSec": 128.9,
+          "endSec": 129.5,
+          "text": "explains"
+        },
+        {
+          "startSec": 129.5,
+          "endSec": 129.7,
+          "text": "how"
+        },
+        {
+          "startSec": 129.7,
+          "endSec": 130,
+          "text": "the"
+        },
+        {
+          "startSec": 130,
+          "endSec": 130.3,
+          "text": "time"
+        },
+        {
+          "startSec": 130.3,
+          "endSec": 130.4,
+          "text": "of"
+        },
+        {
+          "startSec": 130.4,
+          "endSec": 130.7,
+          "text": "day"
+        },
+        {
+          "startSec": 130.7,
+          "endSec": 131.2,
+          "text": "affects"
+        },
+        {
+          "startSec": 131.2,
+          "endSec": 131.4,
+          "text": "how"
+        },
+        {
+          "startSec": 131.4,
+          "endSec": 131.7,
+          "text": "our"
+        },
+        {
+          "startSec": 131.7,
+          "endSec": 132.1,
+          "text": "bodies"
+        },
+        {
+          "startSec": 132.1,
+          "endSec": 132.7,
+          "text": "process"
+        },
+        {
+          "startSec": 132.7,
+          "endSec": 133,
+          "text": "food"
+        },
+        {
+          "startSec": 133,
+          "endSec": 133.1,
+          "text": "on"
+        },
+        {
+          "startSec": 133.1,
+          "endSec": 133.4,
+          "text": "BBC"
+        },
+        {
+          "startSec": 133.4,
+          "endSec": 133.8,
+          "text": "World's"
+        },
+        {
+          "startSec": 133.8,
+          "endSec": 134.4,
+          "text": "service"
+        }
+      ]
+    },
+    {
+      "startSec": 133.8,
+      "endSec": 136.5,
+      "text": "service programme, the food chain.",
+      "words": [
+        {
+          "startSec": 133.8,
+          "endSec": 134.4,
+          "text": "service"
+        },
+        {
+          "startSec": 134.4,
+          "endSec": 135.3,
+          "text": "programme,"
+        },
+        {
+          "startSec": 135.3,
+          "endSec": 135.5,
+          "text": "the"
+        },
+        {
+          "startSec": 135.5,
+          "endSec": 135.8,
+          "text": "food"
+        },
+        {
+          "startSec": 135.8,
+          "endSec": 136.5,
+          "text": "chain."
+        },
+        {
+          "startSec": 136.5,
+          "endSec": 136.7,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 136.5,
+      "endSec": 142.1,
+      "text": "And so if you can eat a large breakfast in the morning, and/or I would even say a large",
+      "words": [
+        {
+          "startSec": 136.5,
+          "endSec": 136.7,
+          "text": "And"
+        },
+        {
+          "startSec": 136.7,
+          "endSec": 136.9,
+          "text": "so"
+        },
+        {
+          "startSec": 136.9,
+          "endSec": 137,
+          "text": "if"
+        },
+        {
+          "startSec": 137,
+          "endSec": 137.2,
+          "text": "you"
+        },
+        {
+          "startSec": 137.2,
+          "endSec": 137.5,
+          "text": "can"
+        },
+        {
+          "startSec": 137.5,
+          "endSec": 137.7,
+          "text": "eat"
+        },
+        {
+          "startSec": 137.7,
+          "endSec": 137.8,
+          "text": "a"
+        },
+        {
+          "startSec": 137.8,
+          "endSec": 138.2,
+          "text": "large"
+        },
+        {
+          "startSec": 138.2,
+          "endSec": 138.9,
+          "text": "breakfast"
+        },
+        {
+          "startSec": 138.9,
+          "endSec": 139,
+          "text": "in"
+        },
+        {
+          "startSec": 139,
+          "endSec": 139.2,
+          "text": "the"
+        },
+        {
+          "startSec": 139.2,
+          "endSec": 139.9,
+          "text": "morning,"
+        },
+        {
+          "startSec": 139.9,
+          "endSec": 140.4,
+          "text": "and/or"
+        },
+        {
+          "startSec": 140.4,
+          "endSec": 140.5,
+          "text": "I"
+        },
+        {
+          "startSec": 140.5,
+          "endSec": 140.8,
+          "text": "would"
+        },
+        {
+          "startSec": 140.8,
+          "endSec": 141.2,
+          "text": "even"
+        },
+        {
+          "startSec": 141.2,
+          "endSec": 141.4,
+          "text": "say"
+        },
+        {
+          "startSec": 141.4,
+          "endSec": 141.6,
+          "text": "a"
+        },
+        {
+          "startSec": 141.6,
+          "endSec": 142.1,
+          "text": "large"
+        }
+      ]
+    },
+    {
+      "startSec": 142.1,
+      "endSec": 146.5,
+      "text": "lunch in the morning, your body's going to be better at metabolising that food. And what",
+      "words": [
+        {
+          "startSec": 142.2,
+          "endSec": 142.4,
+          "text": "lunch"
+        },
+        {
+          "startSec": 142.4,
+          "endSec": 142.5,
+          "text": "in"
+        },
+        {
+          "startSec": 142.5,
+          "endSec": 142.7,
+          "text": "the"
+        },
+        {
+          "startSec": 142.7,
+          "endSec": 143.2,
+          "text": "morning,"
+        },
+        {
+          "startSec": 143.2,
+          "endSec": 143.4,
+          "text": "your"
+        },
+        {
+          "startSec": 143.4,
+          "endSec": 143.8,
+          "text": "body's"
+        },
+        {
+          "startSec": 143.8,
+          "endSec": 144.1,
+          "text": "going"
+        },
+        {
+          "startSec": 144.1,
+          "endSec": 144.2,
+          "text": "to"
+        },
+        {
+          "startSec": 144.2,
+          "endSec": 144.3,
+          "text": "be"
+        },
+        {
+          "startSec": 144.3,
+          "endSec": 144.6,
+          "text": "better"
+        },
+        {
+          "startSec": 144.6,
+          "endSec": 144.8,
+          "text": "at"
+        },
+        {
+          "startSec": 144.8,
+          "endSec": 145.4,
+          "text": "metabolising"
+        },
+        {
+          "startSec": 145.4,
+          "endSec": 145.7,
+          "text": "that"
+        },
+        {
+          "startSec": 145.7,
+          "endSec": 146.2,
+          "text": "food."
+        },
+        {
+          "startSec": 146.2,
+          "endSec": 146.3,
+          "text": "And"
+        },
+        {
+          "startSec": 146.3,
+          "endSec": 146.5,
+          "text": "what"
+        },
+        {
+          "startSec": 146.5,
+          "endSec": 146.7,
+          "text": "that"
+        }
+      ]
+    },
+    {
+      "startSec": 146.5,
+      "endSec": 151.6,
+      "text": "that means is your body's going to actually, your blood sugar levels won't spike as high.",
+      "words": [
+        {
+          "startSec": 146.5,
+          "endSec": 146.7,
+          "text": "that"
+        },
+        {
+          "startSec": 146.7,
+          "endSec": 147,
+          "text": "means"
+        },
+        {
+          "startSec": 147,
+          "endSec": 147.1,
+          "text": "is"
+        },
+        {
+          "startSec": 147.1,
+          "endSec": 147.3,
+          "text": "your"
+        },
+        {
+          "startSec": 147.3,
+          "endSec": 147.6,
+          "text": "body's"
+        },
+        {
+          "startSec": 147.6,
+          "endSec": 147.8,
+          "text": "going"
+        },
+        {
+          "startSec": 147.8,
+          "endSec": 147.9,
+          "text": "to"
+        },
+        {
+          "startSec": 147.9,
+          "endSec": 148.5,
+          "text": "actually,"
+        },
+        {
+          "startSec": 148.5,
+          "endSec": 148.7,
+          "text": "your"
+        },
+        {
+          "startSec": 148.7,
+          "endSec": 148.9,
+          "text": "blood"
+        },
+        {
+          "startSec": 148.9,
+          "endSec": 149.2,
+          "text": "sugar"
+        },
+        {
+          "startSec": 149.2,
+          "endSec": 149.5,
+          "text": "levels"
+        },
+        {
+          "startSec": 149.5,
+          "endSec": 149.8,
+          "text": "won't"
+        },
+        {
+          "startSec": 149.8,
+          "endSec": 150,
+          "text": "spike"
+        },
+        {
+          "startSec": 150,
+          "endSec": 150.2,
+          "text": "as"
+        },
+        {
+          "startSec": 150.2,
+          "endSec": 151.6,
+          "text": "high."
+        },
+        {
+          "startSec": 151.6,
+          "endSec": 151.7,
+          "text": "You"
+        }
+      ]
+    },
+    {
+      "startSec": 151.6,
+      "endSec": 155.2,
+      "text": "You might burn slightly more fat. You might burn slightly more calories from eating earlier",
+      "words": [
+        {
+          "startSec": 151.6,
+          "endSec": 151.7,
+          "text": "You"
+        },
+        {
+          "startSec": 151.7,
+          "endSec": 151.9,
+          "text": "might"
+        },
+        {
+          "startSec": 151.9,
+          "endSec": 152.1,
+          "text": "burn"
+        },
+        {
+          "startSec": 152.1,
+          "endSec": 152.5,
+          "text": "slightly"
+        },
+        {
+          "startSec": 152.5,
+          "endSec": 152.7,
+          "text": "more"
+        },
+        {
+          "startSec": 152.7,
+          "endSec": 153,
+          "text": "fat."
+        },
+        {
+          "startSec": 153,
+          "endSec": 153.2,
+          "text": "You"
+        },
+        {
+          "startSec": 153.2,
+          "endSec": 153.4,
+          "text": "might"
+        },
+        {
+          "startSec": 153.4,
+          "endSec": 153.6,
+          "text": "burn"
+        },
+        {
+          "startSec": 153.6,
+          "endSec": 153.9,
+          "text": "slightly"
+        },
+        {
+          "startSec": 153.9,
+          "endSec": 154.1,
+          "text": "more"
+        },
+        {
+          "startSec": 154.1,
+          "endSec": 154.4,
+          "text": "calories"
+        },
+        {
+          "startSec": 154.4,
+          "endSec": 154.6,
+          "text": "from"
+        },
+        {
+          "startSec": 154.6,
+          "endSec": 154.9,
+          "text": "eating"
+        },
+        {
+          "startSec": 154.9,
+          "endSec": 155.2,
+          "text": "earlier"
+        },
+        {
+          "startSec": 155.2,
+          "endSec": 155.5,
+          "text": "in"
+        }
+      ]
+    },
+    {
+      "startSec": 155.2,
+      "endSec": 159.7,
+      "text": "in the day. Whereas if you had, if you eat most of your food later in the day, your",
+      "words": [
+        {
+          "startSec": 155.2,
+          "endSec": 155.5,
+          "text": "in"
+        },
+        {
+          "startSec": 155.5,
+          "endSec": 155.9,
+          "text": "the"
+        },
+        {
+          "startSec": 155.9,
+          "endSec": 156.8,
+          "text": "day."
+        },
+        {
+          "startSec": 156.8,
+          "endSec": 157.1,
+          "text": "Whereas"
+        },
+        {
+          "startSec": 157.1,
+          "endSec": 157.2,
+          "text": "if"
+        },
+        {
+          "startSec": 157.2,
+          "endSec": 157.4,
+          "text": "you"
+        },
+        {
+          "startSec": 157.4,
+          "endSec": 157.6,
+          "text": "had,"
+        },
+        {
+          "startSec": 157.6,
+          "endSec": 157.7,
+          "text": "if"
+        },
+        {
+          "startSec": 157.7,
+          "endSec": 157.9,
+          "text": "you"
+        },
+        {
+          "startSec": 157.9,
+          "endSec": 158,
+          "text": "eat"
+        },
+        {
+          "startSec": 158,
+          "endSec": 158.2,
+          "text": "most"
+        },
+        {
+          "startSec": 158.2,
+          "endSec": 158.3,
+          "text": "of"
+        },
+        {
+          "startSec": 158.3,
+          "endSec": 158.5,
+          "text": "your"
+        },
+        {
+          "startSec": 158.5,
+          "endSec": 158.8,
+          "text": "food"
+        },
+        {
+          "startSec": 158.8,
+          "endSec": 159,
+          "text": "later"
+        },
+        {
+          "startSec": 159,
+          "endSec": 159.1,
+          "text": "in"
+        },
+        {
+          "startSec": 159.1,
+          "endSec": 159.3,
+          "text": "the"
+        },
+        {
+          "startSec": 159.3,
+          "endSec": 159.5,
+          "text": "day,"
+        },
+        {
+          "startSec": 159.5,
+          "endSec": 159.7,
+          "text": "your"
+        },
+        {
+          "startSec": 159.7,
+          "endSec": 160.4,
+          "text": "metabolism's"
+        }
+      ]
+    },
+    {
+      "startSec": 159.7,
+      "endSec": 164.4,
+      "text": "metabolism's actually slower later in the day. So for instance, if you ate the same, I don't",
+      "words": [
+        {
+          "startSec": 159.7,
+          "endSec": 160.4,
+          "text": "metabolism's"
+        },
+        {
+          "startSec": 160.4,
+          "endSec": 160.8,
+          "text": "actually"
+        },
+        {
+          "startSec": 160.8,
+          "endSec": 161.1,
+          "text": "slower"
+        },
+        {
+          "startSec": 161.1,
+          "endSec": 161.4,
+          "text": "later"
+        },
+        {
+          "startSec": 161.4,
+          "endSec": 161.5,
+          "text": "in"
+        },
+        {
+          "startSec": 161.5,
+          "endSec": 161.6,
+          "text": "the"
+        },
+        {
+          "startSec": 161.6,
+          "endSec": 162,
+          "text": "day."
+        },
+        {
+          "startSec": 162,
+          "endSec": 162.2,
+          "text": "So"
+        },
+        {
+          "startSec": 162.2,
+          "endSec": 162.4,
+          "text": "for"
+        },
+        {
+          "startSec": 162.4,
+          "endSec": 163.1,
+          "text": "instance,"
+        },
+        {
+          "startSec": 163.1,
+          "endSec": 163.2,
+          "text": "if"
+        },
+        {
+          "startSec": 163.2,
+          "endSec": 163.4,
+          "text": "you"
+        },
+        {
+          "startSec": 163.4,
+          "endSec": 163.6,
+          "text": "ate"
+        },
+        {
+          "startSec": 163.6,
+          "endSec": 163.8,
+          "text": "the"
+        },
+        {
+          "startSec": 163.8,
+          "endSec": 164.2,
+          "text": "same,"
+        },
+        {
+          "startSec": 164.2,
+          "endSec": 164.3,
+          "text": "I"
+        },
+        {
+          "startSec": 164.3,
+          "endSec": 164.4,
+          "text": "don't"
+        },
+        {
+          "startSec": 164.4,
+          "endSec": 164.7,
+          "text": "know,"
+        }
+      ]
+    },
+    {
+      "startSec": 164.4,
+      "endSec": 168.6,
+      "text": "know, bowl of ice cream in the morning, the afternoon in the evening, your blood sugar",
+      "words": [
+        {
+          "startSec": 164.4,
+          "endSec": 164.7,
+          "text": "know,"
+        },
+        {
+          "startSec": 164.7,
+          "endSec": 165,
+          "text": "bowl"
+        },
+        {
+          "startSec": 165,
+          "endSec": 165.1,
+          "text": "of"
+        },
+        {
+          "startSec": 165.1,
+          "endSec": 165.2,
+          "text": "ice"
+        },
+        {
+          "startSec": 165.2,
+          "endSec": 165.5,
+          "text": "cream"
+        },
+        {
+          "startSec": 165.5,
+          "endSec": 165.6,
+          "text": "in"
+        },
+        {
+          "startSec": 165.6,
+          "endSec": 165.8,
+          "text": "the"
+        },
+        {
+          "startSec": 165.8,
+          "endSec": 166.3,
+          "text": "morning,"
+        },
+        {
+          "startSec": 166.3,
+          "endSec": 166.5,
+          "text": "the"
+        },
+        {
+          "startSec": 166.5,
+          "endSec": 167,
+          "text": "afternoon"
+        },
+        {
+          "startSec": 167,
+          "endSec": 167.1,
+          "text": "in"
+        },
+        {
+          "startSec": 167.1,
+          "endSec": 167.3,
+          "text": "the"
+        },
+        {
+          "startSec": 167.3,
+          "endSec": 167.8,
+          "text": "evening,"
+        },
+        {
+          "startSec": 167.8,
+          "endSec": 168,
+          "text": "your"
+        },
+        {
+          "startSec": 168,
+          "endSec": 168.3,
+          "text": "blood"
+        },
+        {
+          "startSec": 168.3,
+          "endSec": 168.6,
+          "text": "sugar"
+        }
+      ]
+    },
+    {
+      "startSec": 168.6,
+      "endSec": 173.1,
+      "text": "levels will spike significantly higher in the afternoon in the evening.",
+      "words": [
+        {
+          "startSec": 168.7,
+          "endSec": 169,
+          "text": "levels"
+        },
+        {
+          "startSec": 169,
+          "endSec": 169.3,
+          "text": "will"
+        },
+        {
+          "startSec": 169.3,
+          "endSec": 169.7,
+          "text": "spike"
+        },
+        {
+          "startSec": 169.7,
+          "endSec": 170.6,
+          "text": "significantly"
+        },
+        {
+          "startSec": 170.6,
+          "endSec": 171,
+          "text": "higher"
+        },
+        {
+          "startSec": 171,
+          "endSec": 171.1,
+          "text": "in"
+        },
+        {
+          "startSec": 171.1,
+          "endSec": 171.3,
+          "text": "the"
+        },
+        {
+          "startSec": 171.3,
+          "endSec": 172,
+          "text": "afternoon"
+        },
+        {
+          "startSec": 172,
+          "endSec": 172.1,
+          "text": "in"
+        },
+        {
+          "startSec": 172.1,
+          "endSec": 172.3,
+          "text": "the"
+        },
+        {
+          "startSec": 172.3,
+          "endSec": 173.1,
+          "text": "evening."
+        },
+        {
+          "startSec": 173.1,
+          "endSec": 173.2,
+          "text": "We"
+        }
+      ]
+    },
+    {
+      "startSec": 173.1,
+      "endSec": 178.2,
+      "text": "We heard the noun metabolism. This is a word that refers to the chemical processes in your",
+      "words": [
+        {
+          "startSec": 173.1,
+          "endSec": 173.2,
+          "text": "We"
+        },
+        {
+          "startSec": 173.2,
+          "endSec": 173.5,
+          "text": "heard"
+        },
+        {
+          "startSec": 173.5,
+          "endSec": 173.7,
+          "text": "the"
+        },
+        {
+          "startSec": 173.7,
+          "endSec": 174,
+          "text": "noun"
+        },
+        {
+          "startSec": 174,
+          "endSec": 174.9,
+          "text": "metabolism."
+        },
+        {
+          "startSec": 174.9,
+          "endSec": 175.2,
+          "text": "This"
+        },
+        {
+          "startSec": 175.2,
+          "endSec": 175.3,
+          "text": "is"
+        },
+        {
+          "startSec": 175.3,
+          "endSec": 175.3,
+          "text": "a"
+        },
+        {
+          "startSec": 175.3,
+          "endSec": 175.6,
+          "text": "word"
+        },
+        {
+          "startSec": 175.6,
+          "endSec": 175.9,
+          "text": "that"
+        },
+        {
+          "startSec": 175.9,
+          "endSec": 176.3,
+          "text": "refers"
+        },
+        {
+          "startSec": 176.3,
+          "endSec": 176.4,
+          "text": "to"
+        },
+        {
+          "startSec": 176.4,
+          "endSec": 176.6,
+          "text": "the"
+        },
+        {
+          "startSec": 176.6,
+          "endSec": 177.2,
+          "text": "chemical"
+        },
+        {
+          "startSec": 177.2,
+          "endSec": 177.8,
+          "text": "processes"
+        },
+        {
+          "startSec": 177.8,
+          "endSec": 178,
+          "text": "in"
+        },
+        {
+          "startSec": 178,
+          "endSec": 178.2,
+          "text": "your"
+        },
+        {
+          "startSec": 178.2,
+          "endSec": 178.6,
+          "text": "body,"
+        }
+      ]
+    },
+    {
+      "startSec": 178.2,
+      "endSec": 184.1,
+      "text": "body, and we most often use it to talk about those that convert food into energy. And we",
+      "words": [
+        {
+          "startSec": 178.2,
+          "endSec": 178.6,
+          "text": "body,"
+        },
+        {
+          "startSec": 178.6,
+          "endSec": 178.9,
+          "text": "and"
+        },
+        {
+          "startSec": 178.9,
+          "endSec": 179,
+          "text": "we"
+        },
+        {
+          "startSec": 179,
+          "endSec": 179.3,
+          "text": "most"
+        },
+        {
+          "startSec": 179.3,
+          "endSec": 179.7,
+          "text": "often"
+        },
+        {
+          "startSec": 179.7,
+          "endSec": 179.9,
+          "text": "use"
+        },
+        {
+          "startSec": 179.9,
+          "endSec": 180.1,
+          "text": "it"
+        },
+        {
+          "startSec": 180.1,
+          "endSec": 180.2,
+          "text": "to"
+        },
+        {
+          "startSec": 180.2,
+          "endSec": 180.5,
+          "text": "talk"
+        },
+        {
+          "startSec": 180.5,
+          "endSec": 180.9,
+          "text": "about"
+        },
+        {
+          "startSec": 180.9,
+          "endSec": 181.3,
+          "text": "those"
+        },
+        {
+          "startSec": 181.3,
+          "endSec": 181.6,
+          "text": "that"
+        },
+        {
+          "startSec": 181.6,
+          "endSec": 182.2,
+          "text": "convert"
+        },
+        {
+          "startSec": 182.2,
+          "endSec": 182.5,
+          "text": "food"
+        },
+        {
+          "startSec": 182.5,
+          "endSec": 182.8,
+          "text": "into"
+        },
+        {
+          "startSec": 182.8,
+          "endSec": 183.6,
+          "text": "energy."
+        },
+        {
+          "startSec": 183.6,
+          "endSec": 184,
+          "text": "And"
+        },
+        {
+          "startSec": 184,
+          "endSec": 184.1,
+          "text": "we"
+        },
+        {
+          "startSec": 184.1,
+          "endSec": 184.5,
+          "text": "also"
+        }
+      ]
+    },
+    {
+      "startSec": 184.1,
+      "endSec": 187.7,
+      "text": "also heard the verb form metabolise.",
+      "words": [
+        {
+          "startSec": 184.1,
+          "endSec": 184.5,
+          "text": "also"
+        },
+        {
+          "startSec": 184.5,
+          "endSec": 185.1,
+          "text": "heard"
+        },
+        {
+          "startSec": 185.1,
+          "endSec": 185.4,
+          "text": "the"
+        },
+        {
+          "startSec": 185.4,
+          "endSec": 185.8,
+          "text": "verb"
+        },
+        {
+          "startSec": 185.8,
+          "endSec": 186.3,
+          "text": "form"
+        },
+        {
+          "startSec": 186.3,
+          "endSec": 187.7,
+          "text": "metabolise."
+        },
+        {
+          "startSec": 187.7,
+          "endSec": 188.3,
+          "text": "Courtney"
+        }
+      ]
+    },
+    {
+      "startSec": 187.7,
+      "endSec": 193.4,
+      "text": "Courtney talked about blood sugar levels spiking. A spike is a sharp pointed shape. If you see",
+      "words": [
+        {
+          "startSec": 187.7,
+          "endSec": 188.3,
+          "text": "Courtney"
+        },
+        {
+          "startSec": 188.3,
+          "endSec": 188.7,
+          "text": "talked"
+        },
+        {
+          "startSec": 188.7,
+          "endSec": 189,
+          "text": "about"
+        },
+        {
+          "startSec": 189,
+          "endSec": 189.3,
+          "text": "blood"
+        },
+        {
+          "startSec": 189.3,
+          "endSec": 189.6,
+          "text": "sugar"
+        },
+        {
+          "startSec": 189.6,
+          "endSec": 190,
+          "text": "levels"
+        },
+        {
+          "startSec": 190,
+          "endSec": 190.7,
+          "text": "spiking."
+        },
+        {
+          "startSec": 190.7,
+          "endSec": 190.8,
+          "text": "A"
+        },
+        {
+          "startSec": 190.8,
+          "endSec": 191.2,
+          "text": "spike"
+        },
+        {
+          "startSec": 191.2,
+          "endSec": 191.4,
+          "text": "is"
+        },
+        {
+          "startSec": 191.4,
+          "endSec": 191.5,
+          "text": "a"
+        },
+        {
+          "startSec": 191.5,
+          "endSec": 191.9,
+          "text": "sharp"
+        },
+        {
+          "startSec": 191.9,
+          "endSec": 192.5,
+          "text": "pointed"
+        },
+        {
+          "startSec": 192.5,
+          "endSec": 193.2,
+          "text": "shape."
+        },
+        {
+          "startSec": 193.2,
+          "endSec": 193.2,
+          "text": "If"
+        },
+        {
+          "startSec": 193.2,
+          "endSec": 193.3,
+          "text": "you"
+        },
+        {
+          "startSec": 193.3,
+          "endSec": 193.4,
+          "text": "see"
+        },
+        {
+          "startSec": 193.4,
+          "endSec": 193.5,
+          "text": "it"
+        }
+      ]
+    },
+    {
+      "startSec": 193.4,
+      "endSec": 198.2,
+      "text": "it on a line graph, it means that something has increased very rapidly. We often use the",
+      "words": [
+        {
+          "startSec": 193.4,
+          "endSec": 193.5,
+          "text": "it"
+        },
+        {
+          "startSec": 193.5,
+          "endSec": 193.7,
+          "text": "on"
+        },
+        {
+          "startSec": 193.7,
+          "endSec": 193.7,
+          "text": "a"
+        },
+        {
+          "startSec": 193.7,
+          "endSec": 194,
+          "text": "line"
+        },
+        {
+          "startSec": 194,
+          "endSec": 194.4,
+          "text": "graph,"
+        },
+        {
+          "startSec": 194.4,
+          "endSec": 194.6,
+          "text": "it"
+        },
+        {
+          "startSec": 194.6,
+          "endSec": 194.9,
+          "text": "means"
+        },
+        {
+          "startSec": 194.9,
+          "endSec": 195.1,
+          "text": "that"
+        },
+        {
+          "startSec": 195.1,
+          "endSec": 195.7,
+          "text": "something"
+        },
+        {
+          "startSec": 195.7,
+          "endSec": 195.9,
+          "text": "has"
+        },
+        {
+          "startSec": 195.9,
+          "endSec": 196.5,
+          "text": "increased"
+        },
+        {
+          "startSec": 196.5,
+          "endSec": 196.8,
+          "text": "very"
+        },
+        {
+          "startSec": 196.8,
+          "endSec": 197.4,
+          "text": "rapidly."
+        },
+        {
+          "startSec": 197.4,
+          "endSec": 197.5,
+          "text": "We"
+        },
+        {
+          "startSec": 197.5,
+          "endSec": 197.8,
+          "text": "often"
+        },
+        {
+          "startSec": 197.8,
+          "endSec": 198.1,
+          "text": "use"
+        },
+        {
+          "startSec": 198.1,
+          "endSec": 198.2,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 198.2,
+      "endSec": 203.8,
+      "text": "noun spike to mean a sudden increase in a value that is being measured. The verb spike",
+      "words": [
+        {
+          "startSec": 198.3,
+          "endSec": 198.5,
+          "text": "noun"
+        },
+        {
+          "startSec": 198.5,
+          "endSec": 198.9,
+          "text": "spike"
+        },
+        {
+          "startSec": 198.9,
+          "endSec": 199.1,
+          "text": "to"
+        },
+        {
+          "startSec": 199.1,
+          "endSec": 199.4,
+          "text": "mean"
+        },
+        {
+          "startSec": 199.4,
+          "endSec": 199.4,
+          "text": "a"
+        },
+        {
+          "startSec": 199.4,
+          "endSec": 199.9,
+          "text": "sudden"
+        },
+        {
+          "startSec": 199.9,
+          "endSec": 200.5,
+          "text": "increase"
+        },
+        {
+          "startSec": 200.5,
+          "endSec": 200.6,
+          "text": "in"
+        },
+        {
+          "startSec": 200.6,
+          "endSec": 200.7,
+          "text": "a"
+        },
+        {
+          "startSec": 200.7,
+          "endSec": 201.1,
+          "text": "value"
+        },
+        {
+          "startSec": 201.1,
+          "endSec": 201.4,
+          "text": "that"
+        },
+        {
+          "startSec": 201.4,
+          "endSec": 201.5,
+          "text": "is"
+        },
+        {
+          "startSec": 201.5,
+          "endSec": 201.9,
+          "text": "being"
+        },
+        {
+          "startSec": 201.9,
+          "endSec": 202.8,
+          "text": "measured."
+        },
+        {
+          "startSec": 202.8,
+          "endSec": 202.9,
+          "text": "The"
+        },
+        {
+          "startSec": 202.9,
+          "endSec": 203.2,
+          "text": "verb"
+        },
+        {
+          "startSec": 203.2,
+          "endSec": 203.8,
+          "text": "spike"
+        },
+        {
+          "startSec": 203.8,
+          "endSec": 204.3,
+          "text": "means"
+        }
+      ]
+    },
+    {
+      "startSec": 203.8,
+      "endSec": 206.1,
+      "text": "means to suddenly increase.",
+      "words": [
+        {
+          "startSec": 203.8,
+          "endSec": 204.3,
+          "text": "means"
+        },
+        {
+          "startSec": 204.3,
+          "endSec": 204.4,
+          "text": "to"
+        },
+        {
+          "startSec": 204.4,
+          "endSec": 205.1,
+          "text": "suddenly"
+        },
+        {
+          "startSec": 205.1,
+          "endSec": 206.1,
+          "text": "increase."
+        },
+        {
+          "startSec": 206.1,
+          "endSec": 206.4,
+          "text": "We've"
+        }
+      ]
+    },
+    {
+      "startSec": 206.1,
+      "endSec": 212,
+      "text": "We've heard that eating earlier in the day can be healthier for us. Now people often don't",
+      "words": [
+        {
+          "startSec": 206.1,
+          "endSec": 206.4,
+          "text": "We've"
+        },
+        {
+          "startSec": 206.4,
+          "endSec": 206.8,
+          "text": "heard"
+        },
+        {
+          "startSec": 206.8,
+          "endSec": 207.1,
+          "text": "that"
+        },
+        {
+          "startSec": 207.1,
+          "endSec": 207.5,
+          "text": "eating"
+        },
+        {
+          "startSec": 207.5,
+          "endSec": 208,
+          "text": "earlier"
+        },
+        {
+          "startSec": 208,
+          "endSec": 208.1,
+          "text": "in"
+        },
+        {
+          "startSec": 208.1,
+          "endSec": 208.4,
+          "text": "the"
+        },
+        {
+          "startSec": 208.4,
+          "endSec": 208.6,
+          "text": "day"
+        },
+        {
+          "startSec": 208.6,
+          "endSec": 208.8,
+          "text": "can"
+        },
+        {
+          "startSec": 208.8,
+          "endSec": 208.9,
+          "text": "be"
+        },
+        {
+          "startSec": 208.9,
+          "endSec": 209.6,
+          "text": "healthier"
+        },
+        {
+          "startSec": 209.6,
+          "endSec": 209.8,
+          "text": "for"
+        },
+        {
+          "startSec": 209.8,
+          "endSec": 210.2,
+          "text": "us."
+        },
+        {
+          "startSec": 210.2,
+          "endSec": 210.5,
+          "text": "Now"
+        },
+        {
+          "startSec": 210.5,
+          "endSec": 211.1,
+          "text": "people"
+        },
+        {
+          "startSec": 211.1,
+          "endSec": 211.6,
+          "text": "often"
+        },
+        {
+          "startSec": 211.6,
+          "endSec": 212,
+          "text": "don't"
+        },
+        {
+          "startSec": 212,
+          "endSec": 212.2,
+          "text": "eat"
+        }
+      ]
+    },
+    {
+      "startSec": 212,
+      "endSec": 216.2,
+      "text": "eat breakfast, sometimes because they don't have time, sometimes because they're trying",
+      "words": [
+        {
+          "startSec": 212,
+          "endSec": 212.2,
+          "text": "eat"
+        },
+        {
+          "startSec": 212.2,
+          "endSec": 212.7,
+          "text": "breakfast,"
+        },
+        {
+          "startSec": 212.7,
+          "endSec": 213.2,
+          "text": "sometimes"
+        },
+        {
+          "startSec": 213.2,
+          "endSec": 213.6,
+          "text": "because"
+        },
+        {
+          "startSec": 213.6,
+          "endSec": 213.8,
+          "text": "they"
+        },
+        {
+          "startSec": 213.8,
+          "endSec": 214.1,
+          "text": "don't"
+        },
+        {
+          "startSec": 214.1,
+          "endSec": 214.3,
+          "text": "have"
+        },
+        {
+          "startSec": 214.3,
+          "endSec": 214.6,
+          "text": "time,"
+        },
+        {
+          "startSec": 214.6,
+          "endSec": 215.1,
+          "text": "sometimes"
+        },
+        {
+          "startSec": 215.1,
+          "endSec": 215.4,
+          "text": "because"
+        },
+        {
+          "startSec": 215.4,
+          "endSec": 215.8,
+          "text": "they're"
+        },
+        {
+          "startSec": 215.8,
+          "endSec": 216.2,
+          "text": "trying"
+        },
+        {
+          "startSec": 216.2,
+          "endSec": 216.4,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 216.2,
+      "endSec": 222.6,
+      "text": "to save money. Let's hear again from Professor Alexandra Johnson talking to BBC World Services",
+      "words": [
+        {
+          "startSec": 216.2,
+          "endSec": 216.4,
+          "text": "to"
+        },
+        {
+          "startSec": 216.4,
+          "endSec": 216.8,
+          "text": "save"
+        },
+        {
+          "startSec": 216.8,
+          "endSec": 217.6,
+          "text": "money."
+        },
+        {
+          "startSec": 217.6,
+          "endSec": 217.8,
+          "text": "Let's"
+        },
+        {
+          "startSec": 217.8,
+          "endSec": 218,
+          "text": "hear"
+        },
+        {
+          "startSec": 218,
+          "endSec": 218.3,
+          "text": "again"
+        },
+        {
+          "startSec": 218.3,
+          "endSec": 218.5,
+          "text": "from"
+        },
+        {
+          "startSec": 218.5,
+          "endSec": 218.9,
+          "text": "Professor"
+        },
+        {
+          "startSec": 218.9,
+          "endSec": 219.4,
+          "text": "Alexandra"
+        },
+        {
+          "startSec": 219.4,
+          "endSec": 220.1,
+          "text": "Johnson"
+        },
+        {
+          "startSec": 220.1,
+          "endSec": 220.8,
+          "text": "talking"
+        },
+        {
+          "startSec": 220.8,
+          "endSec": 221,
+          "text": "to"
+        },
+        {
+          "startSec": 221,
+          "endSec": 221.3,
+          "text": "BBC"
+        },
+        {
+          "startSec": 221.3,
+          "endSec": 221.8,
+          "text": "World"
+        },
+        {
+          "startSec": 221.8,
+          "endSec": 222.6,
+          "text": "Services"
+        }
+      ]
+    },
+    {
+      "startSec": 222.6,
+      "endSec": 229.6,
+      "text": "the food chain. Now, breakfast scoping is interesting because my own work would tend",
+      "words": [
+        {
+          "startSec": 222.7,
+          "endSec": 222.9,
+          "text": "the"
+        },
+        {
+          "startSec": 222.9,
+          "endSec": 223.3,
+          "text": "food"
+        },
+        {
+          "startSec": 223.3,
+          "endSec": 224.1,
+          "text": "chain."
+        },
+        {
+          "startSec": 224.1,
+          "endSec": 224.7,
+          "text": "Now,"
+        },
+        {
+          "startSec": 224.7,
+          "endSec": 225.6,
+          "text": "breakfast"
+        },
+        {
+          "startSec": 225.6,
+          "endSec": 226.3,
+          "text": "scoping"
+        },
+        {
+          "startSec": 226.3,
+          "endSec": 226.5,
+          "text": "is"
+        },
+        {
+          "startSec": 226.5,
+          "endSec": 227.6,
+          "text": "interesting"
+        },
+        {
+          "startSec": 227.6,
+          "endSec": 228.4,
+          "text": "because"
+        },
+        {
+          "startSec": 228.4,
+          "endSec": 228.4,
+          "text": "my"
+        },
+        {
+          "startSec": 228.4,
+          "endSec": 228.7,
+          "text": "own"
+        },
+        {
+          "startSec": 228.7,
+          "endSec": 229,
+          "text": "work"
+        },
+        {
+          "startSec": 229,
+          "endSec": 229.3,
+          "text": "would"
+        },
+        {
+          "startSec": 229.3,
+          "endSec": 229.6,
+          "text": "tend"
+        },
+        {
+          "startSec": 229.6,
+          "endSec": 230.3,
+          "text": "suggest"
+        }
+      ]
+    },
+    {
+      "startSec": 229.6,
+      "endSec": 236.6,
+      "text": "suggest that sort of observational large scale epidemiological studies would also support",
+      "words": [
+        {
+          "startSec": 229.6,
+          "endSec": 230.3,
+          "text": "suggest"
+        },
+        {
+          "startSec": 230.3,
+          "endSec": 230.6,
+          "text": "that"
+        },
+        {
+          "startSec": 230.6,
+          "endSec": 231,
+          "text": "sort"
+        },
+        {
+          "startSec": 231,
+          "endSec": 231.2,
+          "text": "of"
+        },
+        {
+          "startSec": 231.2,
+          "endSec": 232.4,
+          "text": "observational"
+        },
+        {
+          "startSec": 232.4,
+          "endSec": 232.8,
+          "text": "large"
+        },
+        {
+          "startSec": 232.8,
+          "endSec": 233.3,
+          "text": "scale"
+        },
+        {
+          "startSec": 233.3,
+          "endSec": 234.6,
+          "text": "epidemiological"
+        },
+        {
+          "startSec": 234.6,
+          "endSec": 235.2,
+          "text": "studies"
+        },
+        {
+          "startSec": 235.2,
+          "endSec": 235.7,
+          "text": "would"
+        },
+        {
+          "startSec": 235.7,
+          "endSec": 236.1,
+          "text": "also"
+        },
+        {
+          "startSec": 236.1,
+          "endSec": 236.6,
+          "text": "support"
+        },
+        {
+          "startSec": 236.6,
+          "endSec": 237.4,
+          "text": "this,"
+        }
+      ]
+    },
+    {
+      "startSec": 236.6,
+      "endSec": 246.6,
+      "text": "this, that people who have a regular breakfast are actually leaner, and my own work would",
+      "words": [
+        {
+          "startSec": 236.6,
+          "endSec": 237.4,
+          "text": "this,"
+        },
+        {
+          "startSec": 237.4,
+          "endSec": 237.9,
+          "text": "that"
+        },
+        {
+          "startSec": 237.9,
+          "endSec": 238.7,
+          "text": "people"
+        },
+        {
+          "startSec": 238.7,
+          "endSec": 239.1,
+          "text": "who"
+        },
+        {
+          "startSec": 239.1,
+          "endSec": 239.6,
+          "text": "have"
+        },
+        {
+          "startSec": 239.6,
+          "endSec": 239.8,
+          "text": "a"
+        },
+        {
+          "startSec": 239.8,
+          "endSec": 240.7,
+          "text": "regular"
+        },
+        {
+          "startSec": 240.7,
+          "endSec": 241.8,
+          "text": "breakfast"
+        },
+        {
+          "startSec": 241.8,
+          "endSec": 242.2,
+          "text": "are"
+        },
+        {
+          "startSec": 242.2,
+          "endSec": 243.3,
+          "text": "actually"
+        },
+        {
+          "startSec": 243.3,
+          "endSec": 244.6,
+          "text": "leaner,"
+        },
+        {
+          "startSec": 244.6,
+          "endSec": 244.7,
+          "text": "and"
+        },
+        {
+          "startSec": 244.7,
+          "endSec": 245,
+          "text": "my"
+        },
+        {
+          "startSec": 245,
+          "endSec": 245.4,
+          "text": "own"
+        },
+        {
+          "startSec": 245.4,
+          "endSec": 245.9,
+          "text": "work"
+        },
+        {
+          "startSec": 245.9,
+          "endSec": 246.6,
+          "text": "would"
+        }
+      ]
+    },
+    {
+      "startSec": 246.6,
+      "endSec": 254.8,
+      "text": "tend suggest that having your largest meal of the day in the morning period gives you",
+      "words": [
+        {
+          "startSec": 246.7,
+          "endSec": 247,
+          "text": "tend"
+        },
+        {
+          "startSec": 247,
+          "endSec": 247.9,
+          "text": "suggest"
+        },
+        {
+          "startSec": 247.9,
+          "endSec": 248.3,
+          "text": "that"
+        },
+        {
+          "startSec": 248.3,
+          "endSec": 249,
+          "text": "having"
+        },
+        {
+          "startSec": 249,
+          "endSec": 249.5,
+          "text": "your"
+        },
+        {
+          "startSec": 249.5,
+          "endSec": 250.3,
+          "text": "largest"
+        },
+        {
+          "startSec": 250.3,
+          "endSec": 250.8,
+          "text": "meal"
+        },
+        {
+          "startSec": 250.8,
+          "endSec": 251,
+          "text": "of"
+        },
+        {
+          "startSec": 251,
+          "endSec": 251.4,
+          "text": "the"
+        },
+        {
+          "startSec": 251.4,
+          "endSec": 251.7,
+          "text": "day"
+        },
+        {
+          "startSec": 251.7,
+          "endSec": 251.9,
+          "text": "in"
+        },
+        {
+          "startSec": 251.9,
+          "endSec": 252.3,
+          "text": "the"
+        },
+        {
+          "startSec": 252.3,
+          "endSec": 253.1,
+          "text": "morning"
+        },
+        {
+          "startSec": 253.1,
+          "endSec": 253.8,
+          "text": "period"
+        },
+        {
+          "startSec": 253.8,
+          "endSec": 254.5,
+          "text": "gives"
+        },
+        {
+          "startSec": 254.5,
+          "endSec": 254.8,
+          "text": "you"
+        },
+        {
+          "startSec": 254.8,
+          "endSec": 254.9,
+          "text": "a"
+        }
+      ]
+    },
+    {
+      "startSec": 254.8,
+      "endSec": 262.3,
+      "text": "a much better appetite control, which then means it's much easier control food intake",
+      "words": [
+        {
+          "startSec": 254.8,
+          "endSec": 254.9,
+          "text": "a"
+        },
+        {
+          "startSec": 254.9,
+          "endSec": 255.3,
+          "text": "much"
+        },
+        {
+          "startSec": 255.3,
+          "endSec": 255.9,
+          "text": "better"
+        },
+        {
+          "startSec": 255.9,
+          "endSec": 256.7,
+          "text": "appetite"
+        },
+        {
+          "startSec": 256.7,
+          "endSec": 257.6,
+          "text": "control,"
+        },
+        {
+          "startSec": 257.6,
+          "endSec": 258.2,
+          "text": "which"
+        },
+        {
+          "startSec": 258.2,
+          "endSec": 258.6,
+          "text": "then"
+        },
+        {
+          "startSec": 258.6,
+          "endSec": 259.1,
+          "text": "means"
+        },
+        {
+          "startSec": 259.1,
+          "endSec": 259.5,
+          "text": "it's"
+        },
+        {
+          "startSec": 259.5,
+          "endSec": 259.9,
+          "text": "much"
+        },
+        {
+          "startSec": 259.9,
+          "endSec": 260.5,
+          "text": "easier"
+        },
+        {
+          "startSec": 260.5,
+          "endSec": 261.2,
+          "text": "control"
+        },
+        {
+          "startSec": 261.2,
+          "endSec": 261.6,
+          "text": "food"
+        },
+        {
+          "startSec": 261.6,
+          "endSec": 262.3,
+          "text": "intake"
+        },
+        {
+          "startSec": 262.3,
+          "endSec": 262.9,
+          "text": "later"
+        }
+      ]
+    },
+    {
+      "startSec": 262.3,
+      "endSec": 264.3,
+      "text": "later in the day.",
+      "words": [
+        {
+          "startSec": 262.3,
+          "endSec": 262.9,
+          "text": "later"
+        },
+        {
+          "startSec": 262.9,
+          "endSec": 263.2,
+          "text": "in"
+        },
+        {
+          "startSec": 263.2,
+          "endSec": 263.5,
+          "text": "the"
+        },
+        {
+          "startSec": 263.5,
+          "endSec": 264.3,
+          "text": "day."
+        },
+        {
+          "startSec": 264.3,
+          "endSec": 265,
+          "text": "Alexandra"
+        }
+      ]
+    },
+    {
+      "startSec": 264.3,
+      "endSec": 269.5,
+      "text": "Alexandra starts by mentioning breakfast skipping. If you skip something, then you don't do",
+      "words": [
+        {
+          "startSec": 264.3,
+          "endSec": 265,
+          "text": "Alexandra"
+        },
+        {
+          "startSec": 265,
+          "endSec": 265.4,
+          "text": "starts"
+        },
+        {
+          "startSec": 265.4,
+          "endSec": 265.5,
+          "text": "by"
+        },
+        {
+          "startSec": 265.5,
+          "endSec": 266.2,
+          "text": "mentioning"
+        },
+        {
+          "startSec": 266.2,
+          "endSec": 266.9,
+          "text": "breakfast"
+        },
+        {
+          "startSec": 266.9,
+          "endSec": 267.7,
+          "text": "skipping."
+        },
+        {
+          "startSec": 267.7,
+          "endSec": 267.8,
+          "text": "If"
+        },
+        {
+          "startSec": 267.8,
+          "endSec": 267.9,
+          "text": "you"
+        },
+        {
+          "startSec": 267.9,
+          "endSec": 268.2,
+          "text": "skip"
+        },
+        {
+          "startSec": 268.2,
+          "endSec": 268.7,
+          "text": "something,"
+        },
+        {
+          "startSec": 268.7,
+          "endSec": 268.9,
+          "text": "then"
+        },
+        {
+          "startSec": 268.9,
+          "endSec": 269.1,
+          "text": "you"
+        },
+        {
+          "startSec": 269.1,
+          "endSec": 269.4,
+          "text": "don't"
+        },
+        {
+          "startSec": 269.4,
+          "endSec": 269.5,
+          "text": "do"
+        },
+        {
+          "startSec": 269.5,
+          "endSec": 269.9,
+          "text": "it."
+        }
+      ]
+    },
+    {
+      "startSec": 269.5,
+      "endSec": 274.9,
+      "text": "it. Bad students might skip lessons, they don't go to them. If you skip a meal, it means",
+      "words": [
+        {
+          "startSec": 269.5,
+          "endSec": 269.9,
+          "text": "it."
+        },
+        {
+          "startSec": 269.9,
+          "endSec": 270.1,
+          "text": "Bad"
+        },
+        {
+          "startSec": 270.1,
+          "endSec": 270.6,
+          "text": "students"
+        },
+        {
+          "startSec": 270.6,
+          "endSec": 271,
+          "text": "might"
+        },
+        {
+          "startSec": 271,
+          "endSec": 271.3,
+          "text": "skip"
+        },
+        {
+          "startSec": 271.3,
+          "endSec": 271.9,
+          "text": "lessons,"
+        },
+        {
+          "startSec": 271.9,
+          "endSec": 272.2,
+          "text": "they"
+        },
+        {
+          "startSec": 272.2,
+          "endSec": 272.6,
+          "text": "don't"
+        },
+        {
+          "startSec": 272.6,
+          "endSec": 272.8,
+          "text": "go"
+        },
+        {
+          "startSec": 272.8,
+          "endSec": 272.9,
+          "text": "to"
+        },
+        {
+          "startSec": 272.9,
+          "endSec": 273.6,
+          "text": "them."
+        },
+        {
+          "startSec": 273.6,
+          "endSec": 273.7,
+          "text": "If"
+        },
+        {
+          "startSec": 273.7,
+          "endSec": 273.9,
+          "text": "you"
+        },
+        {
+          "startSec": 273.9,
+          "endSec": 274.1,
+          "text": "skip"
+        },
+        {
+          "startSec": 274.1,
+          "endSec": 274.2,
+          "text": "a"
+        },
+        {
+          "startSec": 274.2,
+          "endSec": 274.5,
+          "text": "meal,"
+        },
+        {
+          "startSec": 274.5,
+          "endSec": 274.6,
+          "text": "it"
+        },
+        {
+          "startSec": 274.6,
+          "endSec": 274.9,
+          "text": "means"
+        }
+      ]
+    },
+    {
+      "startSec": 274.9,
+      "endSec": 276.6,
+      "text": "that you don't eat it.",
+      "words": [
+        {
+          "startSec": 275,
+          "endSec": 275.2,
+          "text": "that"
+        },
+        {
+          "startSec": 275.2,
+          "endSec": 275.5,
+          "text": "you"
+        },
+        {
+          "startSec": 275.5,
+          "endSec": 275.9,
+          "text": "don't"
+        },
+        {
+          "startSec": 275.9,
+          "endSec": 276.2,
+          "text": "eat"
+        },
+        {
+          "startSec": 276.2,
+          "endSec": 276.6,
+          "text": "it."
+        },
+        {
+          "startSec": 276.6,
+          "endSec": 276.8,
+          "text": "We"
+        }
+      ]
+    },
+    {
+      "startSec": 276.6,
+      "endSec": 283,
+      "text": "We also heard that people who have a regular breakfast are leaner. If someone is lean,",
+      "words": [
+        {
+          "startSec": 276.6,
+          "endSec": 276.8,
+          "text": "We"
+        },
+        {
+          "startSec": 276.8,
+          "endSec": 277.2,
+          "text": "also"
+        },
+        {
+          "startSec": 277.2,
+          "endSec": 277.6,
+          "text": "heard"
+        },
+        {
+          "startSec": 277.6,
+          "endSec": 277.9,
+          "text": "that"
+        },
+        {
+          "startSec": 277.9,
+          "endSec": 278.4,
+          "text": "people"
+        },
+        {
+          "startSec": 278.4,
+          "endSec": 278.7,
+          "text": "who"
+        },
+        {
+          "startSec": 278.7,
+          "endSec": 279,
+          "text": "have"
+        },
+        {
+          "startSec": 279,
+          "endSec": 279.1,
+          "text": "a"
+        },
+        {
+          "startSec": 279.1,
+          "endSec": 279.7,
+          "text": "regular"
+        },
+        {
+          "startSec": 279.7,
+          "endSec": 280.5,
+          "text": "breakfast"
+        },
+        {
+          "startSec": 280.5,
+          "endSec": 280.8,
+          "text": "are"
+        },
+        {
+          "startSec": 280.8,
+          "endSec": 281.5,
+          "text": "leaner."
+        },
+        {
+          "startSec": 281.5,
+          "endSec": 281.7,
+          "text": "If"
+        },
+        {
+          "startSec": 281.7,
+          "endSec": 282.3,
+          "text": "someone"
+        },
+        {
+          "startSec": 282.3,
+          "endSec": 282.5,
+          "text": "is"
+        },
+        {
+          "startSec": 282.5,
+          "endSec": 283,
+          "text": "lean,"
+        },
+        {
+          "startSec": 283,
+          "endSec": 283.4,
+          "text": "then"
+        }
+      ]
+    },
+    {
+      "startSec": 283,
+      "endSec": 284.8,
+      "text": "then they're not fat.",
+      "words": [
+        {
+          "startSec": 283,
+          "endSec": 283.4,
+          "text": "then"
+        },
+        {
+          "startSec": 283.4,
+          "endSec": 284,
+          "text": "they're"
+        },
+        {
+          "startSec": 284,
+          "endSec": 284.3,
+          "text": "not"
+        },
+        {
+          "startSec": 284.3,
+          "endSec": 284.8,
+          "text": "fat."
+        },
+        {
+          "startSec": 284.8,
+          "endSec": 285,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 284.8,
+      "endSec": 289.2,
+      "text": "And one of the reasons given why people might be leaner is that they have better appetite",
+      "words": [
+        {
+          "startSec": 284.8,
+          "endSec": 285,
+          "text": "And"
+        },
+        {
+          "startSec": 285,
+          "endSec": 285.2,
+          "text": "one"
+        },
+        {
+          "startSec": 285.2,
+          "endSec": 285.3,
+          "text": "of"
+        },
+        {
+          "startSec": 285.3,
+          "endSec": 285.5,
+          "text": "the"
+        },
+        {
+          "startSec": 285.5,
+          "endSec": 285.9,
+          "text": "reasons"
+        },
+        {
+          "startSec": 285.9,
+          "endSec": 286.2,
+          "text": "given"
+        },
+        {
+          "startSec": 286.2,
+          "endSec": 286.3,
+          "text": "why"
+        },
+        {
+          "startSec": 286.3,
+          "endSec": 286.7,
+          "text": "people"
+        },
+        {
+          "startSec": 286.7,
+          "endSec": 287,
+          "text": "might"
+        },
+        {
+          "startSec": 287,
+          "endSec": 287.1,
+          "text": "be"
+        },
+        {
+          "startSec": 287.1,
+          "endSec": 287.4,
+          "text": "leaner"
+        },
+        {
+          "startSec": 287.4,
+          "endSec": 287.5,
+          "text": "is"
+        },
+        {
+          "startSec": 287.5,
+          "endSec": 287.8,
+          "text": "that"
+        },
+        {
+          "startSec": 287.8,
+          "endSec": 288,
+          "text": "they"
+        },
+        {
+          "startSec": 288,
+          "endSec": 288.2,
+          "text": "have"
+        },
+        {
+          "startSec": 288.2,
+          "endSec": 288.6,
+          "text": "better"
+        },
+        {
+          "startSec": 288.6,
+          "endSec": 289.2,
+          "text": "appetite"
+        },
+        {
+          "startSec": 289.2,
+          "endSec": 290.5,
+          "text": "control."
+        }
+      ]
+    },
+    {
+      "startSec": 289.2,
+      "endSec": 294.1,
+      "text": "control. Appetite control is where your brain decides how much you should eat.",
+      "words": [
+        {
+          "startSec": 289.2,
+          "endSec": 290.5,
+          "text": "control."
+        },
+        {
+          "startSec": 290.5,
+          "endSec": 290.9,
+          "text": "Appetite"
+        },
+        {
+          "startSec": 290.9,
+          "endSec": 291.2,
+          "text": "control"
+        },
+        {
+          "startSec": 291.2,
+          "endSec": 291.3,
+          "text": "is"
+        },
+        {
+          "startSec": 291.3,
+          "endSec": 291.5,
+          "text": "where"
+        },
+        {
+          "startSec": 291.5,
+          "endSec": 291.7,
+          "text": "your"
+        },
+        {
+          "startSec": 291.7,
+          "endSec": 292,
+          "text": "brain"
+        },
+        {
+          "startSec": 292,
+          "endSec": 292.3,
+          "text": "decides"
+        },
+        {
+          "startSec": 292.3,
+          "endSec": 292.6,
+          "text": "how"
+        },
+        {
+          "startSec": 292.6,
+          "endSec": 292.9,
+          "text": "much"
+        },
+        {
+          "startSec": 292.9,
+          "endSec": 293.1,
+          "text": "you"
+        },
+        {
+          "startSec": 293.1,
+          "endSec": 293.6,
+          "text": "should"
+        },
+        {
+          "startSec": 293.6,
+          "endSec": 294.1,
+          "text": "eat."
+        },
+        {
+          "startSec": 294.1,
+          "endSec": 294.6,
+          "text": "Thanks"
+        }
+      ]
+    },
+    {
+      "startSec": 294.1,
+      "endSec": 299,
+      "text": "Thanks Georgie. Now, I think it's time that we heard the answer to your question.",
+      "words": [
+        {
+          "startSec": 294.1,
+          "endSec": 294.6,
+          "text": "Thanks"
+        },
+        {
+          "startSec": 294.6,
+          "endSec": 295.3,
+          "text": "Georgie."
+        },
+        {
+          "startSec": 295.3,
+          "endSec": 295.6,
+          "text": "Now,"
+        },
+        {
+          "startSec": 295.6,
+          "endSec": 295.7,
+          "text": "I"
+        },
+        {
+          "startSec": 295.7,
+          "endSec": 296,
+          "text": "think"
+        },
+        {
+          "startSec": 296,
+          "endSec": 296.3,
+          "text": "it's"
+        },
+        {
+          "startSec": 296.3,
+          "endSec": 296.5,
+          "text": "time"
+        },
+        {
+          "startSec": 296.5,
+          "endSec": 296.8,
+          "text": "that"
+        },
+        {
+          "startSec": 296.8,
+          "endSec": 296.9,
+          "text": "we"
+        },
+        {
+          "startSec": 296.9,
+          "endSec": 297.2,
+          "text": "heard"
+        },
+        {
+          "startSec": 297.2,
+          "endSec": 297.4,
+          "text": "the"
+        },
+        {
+          "startSec": 297.4,
+          "endSec": 297.8,
+          "text": "answer"
+        },
+        {
+          "startSec": 297.8,
+          "endSec": 297.9,
+          "text": "to"
+        },
+        {
+          "startSec": 297.9,
+          "endSec": 298.2,
+          "text": "your"
+        },
+        {
+          "startSec": 298.2,
+          "endSec": 299,
+          "text": "question."
+        }
+      ]
+    },
+    {
+      "startSec": 299,
+      "endSec": 305.6,
+      "text": "Yes, it is. Okay, I asked, according to a recent survey, what is the most popular breakfast",
+      "words": [
+        {
+          "startSec": 299.1,
+          "endSec": 299.4,
+          "text": "Yes,"
+        },
+        {
+          "startSec": 299.4,
+          "endSec": 299.6,
+          "text": "it"
+        },
+        {
+          "startSec": 299.6,
+          "endSec": 300,
+          "text": "is."
+        },
+        {
+          "startSec": 300,
+          "endSec": 300.4,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 300.4,
+          "endSec": 300.5,
+          "text": "I"
+        },
+        {
+          "startSec": 300.5,
+          "endSec": 301.1,
+          "text": "asked,"
+        },
+        {
+          "startSec": 301.1,
+          "endSec": 301.8,
+          "text": "according"
+        },
+        {
+          "startSec": 301.8,
+          "endSec": 302,
+          "text": "to"
+        },
+        {
+          "startSec": 302,
+          "endSec": 302.1,
+          "text": "a"
+        },
+        {
+          "startSec": 302.1,
+          "endSec": 302.5,
+          "text": "recent"
+        },
+        {
+          "startSec": 302.5,
+          "endSec": 303.2,
+          "text": "survey,"
+        },
+        {
+          "startSec": 303.2,
+          "endSec": 303.5,
+          "text": "what"
+        },
+        {
+          "startSec": 303.5,
+          "endSec": 303.7,
+          "text": "is"
+        },
+        {
+          "startSec": 303.7,
+          "endSec": 303.9,
+          "text": "the"
+        },
+        {
+          "startSec": 303.9,
+          "endSec": 304.2,
+          "text": "most"
+        },
+        {
+          "startSec": 304.2,
+          "endSec": 304.9,
+          "text": "popular"
+        },
+        {
+          "startSec": 304.9,
+          "endSec": 305.6,
+          "text": "breakfast"
+        },
+        {
+          "startSec": 305.6,
+          "endSec": 305.9,
+          "text": "in"
+        }
+      ]
+    },
+    {
+      "startSec": 305.6,
+      "endSec": 307,
+      "text": "in the UK?",
+      "words": [
+        {
+          "startSec": 305.6,
+          "endSec": 305.9,
+          "text": "in"
+        },
+        {
+          "startSec": 305.9,
+          "endSec": 306.3,
+          "text": "the"
+        },
+        {
+          "startSec": 306.3,
+          "endSec": 307,
+          "text": "UK?"
+        },
+        {
+          "startSec": 307,
+          "endSec": 307.4,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 307,
+      "endSec": 309.1,
+      "text": "And I said toast.",
+      "words": [
+        {
+          "startSec": 307,
+          "endSec": 307.4,
+          "text": "And"
+        },
+        {
+          "startSec": 307.4,
+          "endSec": 307.6,
+          "text": "I"
+        },
+        {
+          "startSec": 307.6,
+          "endSec": 308.2,
+          "text": "said"
+        },
+        {
+          "startSec": 308.2,
+          "endSec": 309.1,
+          "text": "toast."
+        },
+        {
+          "startSec": 309.1,
+          "endSec": 309.5,
+          "text": "Which"
+        }
+      ]
+    },
+    {
+      "startSec": 309.1,
+      "endSec": 314.7,
+      "text": "Which was the most popular in London, but the most popular in the country as a whole was",
+      "words": [
+        {
+          "startSec": 309.1,
+          "endSec": 309.5,
+          "text": "Which"
+        },
+        {
+          "startSec": 309.5,
+          "endSec": 309.7,
+          "text": "was"
+        },
+        {
+          "startSec": 309.7,
+          "endSec": 310,
+          "text": "the"
+        },
+        {
+          "startSec": 310,
+          "endSec": 310.3,
+          "text": "most"
+        },
+        {
+          "startSec": 310.3,
+          "endSec": 310.8,
+          "text": "popular"
+        },
+        {
+          "startSec": 310.8,
+          "endSec": 310.9,
+          "text": "in"
+        },
+        {
+          "startSec": 310.9,
+          "endSec": 311.6,
+          "text": "London,"
+        },
+        {
+          "startSec": 311.6,
+          "endSec": 311.8,
+          "text": "but"
+        },
+        {
+          "startSec": 311.8,
+          "endSec": 312,
+          "text": "the"
+        },
+        {
+          "startSec": 312,
+          "endSec": 312.3,
+          "text": "most"
+        },
+        {
+          "startSec": 312.3,
+          "endSec": 312.8,
+          "text": "popular"
+        },
+        {
+          "startSec": 312.8,
+          "endSec": 313,
+          "text": "in"
+        },
+        {
+          "startSec": 313,
+          "endSec": 313.2,
+          "text": "the"
+        },
+        {
+          "startSec": 313.2,
+          "endSec": 313.8,
+          "text": "country"
+        },
+        {
+          "startSec": 313.8,
+          "endSec": 313.9,
+          "text": "as"
+        },
+        {
+          "startSec": 313.9,
+          "endSec": 314,
+          "text": "a"
+        },
+        {
+          "startSec": 314,
+          "endSec": 314.4,
+          "text": "whole"
+        },
+        {
+          "startSec": 314.4,
+          "endSec": 314.7,
+          "text": "was"
+        },
+        {
+          "startSec": 314.7,
+          "endSec": 315.4,
+          "text": "cereal."
+        }
+      ]
+    },
+    {
+      "startSec": 314.7,
+      "endSec": 320,
+      "text": "cereal. And that's according to a survey by a cereal manufacturer. So I'm afraid you",
+      "words": [
+        {
+          "startSec": 314.7,
+          "endSec": 315.4,
+          "text": "cereal."
+        },
+        {
+          "startSec": 315.4,
+          "endSec": 315.6,
+          "text": "And"
+        },
+        {
+          "startSec": 315.6,
+          "endSec": 316.1,
+          "text": "that's"
+        },
+        {
+          "startSec": 316.1,
+          "endSec": 316.7,
+          "text": "according"
+        },
+        {
+          "startSec": 316.7,
+          "endSec": 316.9,
+          "text": "to"
+        },
+        {
+          "startSec": 316.9,
+          "endSec": 317,
+          "text": "a"
+        },
+        {
+          "startSec": 317,
+          "endSec": 317.4,
+          "text": "survey"
+        },
+        {
+          "startSec": 317.4,
+          "endSec": 317.6,
+          "text": "by"
+        },
+        {
+          "startSec": 317.6,
+          "endSec": 317.6,
+          "text": "a"
+        },
+        {
+          "startSec": 317.6,
+          "endSec": 318.1,
+          "text": "cereal"
+        },
+        {
+          "startSec": 318.1,
+          "endSec": 319.3,
+          "text": "manufacturer."
+        },
+        {
+          "startSec": 319.3,
+          "endSec": 319.4,
+          "text": "So"
+        },
+        {
+          "startSec": 319.4,
+          "endSec": 319.6,
+          "text": "I'm"
+        },
+        {
+          "startSec": 319.6,
+          "endSec": 319.9,
+          "text": "afraid"
+        },
+        {
+          "startSec": 319.9,
+          "endSec": 320,
+          "text": "you"
+        },
+        {
+          "startSec": 320,
+          "endSec": 320.3,
+          "text": "got"
+        }
+      ]
+    },
+    {
+      "startSec": 320,
+      "endSec": 321,
+      "text": "got it wrong.",
+      "words": [
+        {
+          "startSec": 320,
+          "endSec": 320.3,
+          "text": "got"
+        },
+        {
+          "startSec": 320.3,
+          "endSec": 320.4,
+          "text": "it"
+        },
+        {
+          "startSec": 320.4,
+          "endSec": 321,
+          "text": "wrong."
+        },
+        {
+          "startSec": 321,
+          "endSec": 321.4,
+          "text": "Okay,"
+        }
+      ]
+    },
+    {
+      "startSec": 321,
+      "endSec": 325.7,
+      "text": "Okay, let's recap the vocabulary we've learned starting with pauper, which is an old fashioned",
+      "words": [
+        {
+          "startSec": 321,
+          "endSec": 321.4,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 321.4,
+          "endSec": 321.7,
+          "text": "let's"
+        },
+        {
+          "startSec": 321.7,
+          "endSec": 321.9,
+          "text": "recap"
+        },
+        {
+          "startSec": 321.9,
+          "endSec": 322.1,
+          "text": "the"
+        },
+        {
+          "startSec": 322.1,
+          "endSec": 322.7,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 322.7,
+          "endSec": 322.9,
+          "text": "we've"
+        },
+        {
+          "startSec": 322.9,
+          "endSec": 323.3,
+          "text": "learned"
+        },
+        {
+          "startSec": 323.3,
+          "endSec": 323.8,
+          "text": "starting"
+        },
+        {
+          "startSec": 323.8,
+          "endSec": 324,
+          "text": "with"
+        },
+        {
+          "startSec": 324,
+          "endSec": 324.4,
+          "text": "pauper,"
+        },
+        {
+          "startSec": 324.4,
+          "endSec": 324.7,
+          "text": "which"
+        },
+        {
+          "startSec": 324.7,
+          "endSec": 324.8,
+          "text": "is"
+        },
+        {
+          "startSec": 324.8,
+          "endSec": 324.9,
+          "text": "an"
+        },
+        {
+          "startSec": 324.9,
+          "endSec": 325.1,
+          "text": "old"
+        },
+        {
+          "startSec": 325.1,
+          "endSec": 325.7,
+          "text": "fashioned"
+        },
+        {
+          "startSec": 325.7,
+          "endSec": 326.1,
+          "text": "word"
+        }
+      ]
+    },
+    {
+      "startSec": 325.7,
+      "endSec": 328.2,
+      "text": "word for a very poor person.",
+      "words": [
+        {
+          "startSec": 325.7,
+          "endSec": 326.1,
+          "text": "word"
+        },
+        {
+          "startSec": 326.1,
+          "endSec": 326.4,
+          "text": "for"
+        },
+        {
+          "startSec": 326.4,
+          "endSec": 326.5,
+          "text": "a"
+        },
+        {
+          "startSec": 326.5,
+          "endSec": 326.8,
+          "text": "very"
+        },
+        {
+          "startSec": 326.8,
+          "endSec": 327.2,
+          "text": "poor"
+        },
+        {
+          "startSec": 327.2,
+          "endSec": 328.2,
+          "text": "person."
+        },
+        {
+          "startSec": 328.2,
+          "endSec": 328.5,
+          "text": "When"
+        }
+      ]
+    },
+    {
+      "startSec": 328.2,
+      "endSec": 332.8,
+      "text": "When we're talking about data, it spikes when it increases suddenly.",
+      "words": [
+        {
+          "startSec": 328.2,
+          "endSec": 328.5,
+          "text": "When"
+        },
+        {
+          "startSec": 328.5,
+          "endSec": 328.8,
+          "text": "we're"
+        },
+        {
+          "startSec": 328.8,
+          "endSec": 329.4,
+          "text": "talking"
+        },
+        {
+          "startSec": 329.4,
+          "endSec": 329.7,
+          "text": "about"
+        },
+        {
+          "startSec": 329.7,
+          "endSec": 330.2,
+          "text": "data,"
+        },
+        {
+          "startSec": 330.2,
+          "endSec": 330.3,
+          "text": "it"
+        },
+        {
+          "startSec": 330.3,
+          "endSec": 330.8,
+          "text": "spikes"
+        },
+        {
+          "startSec": 330.8,
+          "endSec": 331.1,
+          "text": "when"
+        },
+        {
+          "startSec": 331.1,
+          "endSec": 331.3,
+          "text": "it"
+        },
+        {
+          "startSec": 331.3,
+          "endSec": 331.9,
+          "text": "increases"
+        },
+        {
+          "startSec": 331.9,
+          "endSec": 332.8,
+          "text": "suddenly."
+        },
+        {
+          "startSec": 332.8,
+          "endSec": 333.4,
+          "text": "Metabolism"
+        }
+      ]
+    },
+    {
+      "startSec": 332.8,
+      "endSec": 337.2,
+      "text": "Metabolism refers to the chemical processes inside your body, especially those which",
+      "words": [
+        {
+          "startSec": 332.8,
+          "endSec": 333.4,
+          "text": "Metabolism"
+        },
+        {
+          "startSec": 333.4,
+          "endSec": 333.8,
+          "text": "refers"
+        },
+        {
+          "startSec": 333.8,
+          "endSec": 333.9,
+          "text": "to"
+        },
+        {
+          "startSec": 333.9,
+          "endSec": 334,
+          "text": "the"
+        },
+        {
+          "startSec": 334,
+          "endSec": 334.5,
+          "text": "chemical"
+        },
+        {
+          "startSec": 334.5,
+          "endSec": 335,
+          "text": "processes"
+        },
+        {
+          "startSec": 335,
+          "endSec": 335.4,
+          "text": "inside"
+        },
+        {
+          "startSec": 335.4,
+          "endSec": 335.6,
+          "text": "your"
+        },
+        {
+          "startSec": 335.6,
+          "endSec": 336,
+          "text": "body,"
+        },
+        {
+          "startSec": 336,
+          "endSec": 336.5,
+          "text": "especially"
+        },
+        {
+          "startSec": 336.5,
+          "endSec": 336.8,
+          "text": "those"
+        },
+        {
+          "startSec": 336.8,
+          "endSec": 337.2,
+          "text": "which"
+        },
+        {
+          "startSec": 337.2,
+          "endSec": 338,
+          "text": "process"
+        }
+      ]
+    },
+    {
+      "startSec": 337.2,
+      "endSec": 338.8,
+      "text": "process food.",
+      "words": [
+        {
+          "startSec": 337.2,
+          "endSec": 338,
+          "text": "process"
+        },
+        {
+          "startSec": 338,
+          "endSec": 338.8,
+          "text": "food."
+        },
+        {
+          "startSec": 338.8,
+          "endSec": 338.9,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 338.8,
+      "endSec": 342.6,
+      "text": "If you skip something, you miss it, you don't do it.",
+      "words": [
+        {
+          "startSec": 338.8,
+          "endSec": 338.9,
+          "text": "If"
+        },
+        {
+          "startSec": 338.9,
+          "endSec": 339.2,
+          "text": "you"
+        },
+        {
+          "startSec": 339.2,
+          "endSec": 339.5,
+          "text": "skip"
+        },
+        {
+          "startSec": 339.5,
+          "endSec": 340.4,
+          "text": "something,"
+        },
+        {
+          "startSec": 340.4,
+          "endSec": 340.7,
+          "text": "you"
+        },
+        {
+          "startSec": 340.7,
+          "endSec": 341,
+          "text": "miss"
+        },
+        {
+          "startSec": 341,
+          "endSec": 341.3,
+          "text": "it,"
+        },
+        {
+          "startSec": 341.3,
+          "endSec": 341.6,
+          "text": "you"
+        },
+        {
+          "startSec": 341.6,
+          "endSec": 342,
+          "text": "don't"
+        },
+        {
+          "startSec": 342,
+          "endSec": 342.1,
+          "text": "do"
+        },
+        {
+          "startSec": 342.1,
+          "endSec": 342.6,
+          "text": "it."
+        },
+        {
+          "startSec": 342.6,
+          "endSec": 342.8,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 342.6,
+      "endSec": 345.2,
+      "text": "If someone is lean, then they are not fat.",
+      "words": [
+        {
+          "startSec": 342.6,
+          "endSec": 342.8,
+          "text": "If"
+        },
+        {
+          "startSec": 342.8,
+          "endSec": 343.3,
+          "text": "someone"
+        },
+        {
+          "startSec": 343.3,
+          "endSec": 343.4,
+          "text": "is"
+        },
+        {
+          "startSec": 343.4,
+          "endSec": 343.8,
+          "text": "lean,"
+        },
+        {
+          "startSec": 343.8,
+          "endSec": 344.1,
+          "text": "then"
+        },
+        {
+          "startSec": 344.1,
+          "endSec": 344.4,
+          "text": "they"
+        },
+        {
+          "startSec": 344.4,
+          "endSec": 344.6,
+          "text": "are"
+        },
+        {
+          "startSec": 344.6,
+          "endSec": 344.8,
+          "text": "not"
+        },
+        {
+          "startSec": 344.8,
+          "endSec": 345.2,
+          "text": "fat."
+        },
+        {
+          "startSec": 345.2,
+          "endSec": 345.5,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 345.2,
+      "endSec": 351.2,
+      "text": "And finally, appetite control is how your brain decides how much you should eat. Once",
+      "words": [
+        {
+          "startSec": 345.2,
+          "endSec": 345.5,
+          "text": "And"
+        },
+        {
+          "startSec": 345.5,
+          "endSec": 346.2,
+          "text": "finally,"
+        },
+        {
+          "startSec": 346.2,
+          "endSec": 346.9,
+          "text": "appetite"
+        },
+        {
+          "startSec": 346.9,
+          "endSec": 347.5,
+          "text": "control"
+        },
+        {
+          "startSec": 347.5,
+          "endSec": 347.6,
+          "text": "is"
+        },
+        {
+          "startSec": 347.6,
+          "endSec": 347.9,
+          "text": "how"
+        },
+        {
+          "startSec": 347.9,
+          "endSec": 348.2,
+          "text": "your"
+        },
+        {
+          "startSec": 348.2,
+          "endSec": 348.6,
+          "text": "brain"
+        },
+        {
+          "startSec": 348.6,
+          "endSec": 349.2,
+          "text": "decides"
+        },
+        {
+          "startSec": 349.2,
+          "endSec": 349.5,
+          "text": "how"
+        },
+        {
+          "startSec": 349.5,
+          "endSec": 349.8,
+          "text": "much"
+        },
+        {
+          "startSec": 349.8,
+          "endSec": 350.1,
+          "text": "you"
+        },
+        {
+          "startSec": 350.1,
+          "endSec": 350.6,
+          "text": "should"
+        },
+        {
+          "startSec": 350.6,
+          "endSec": 351.1,
+          "text": "eat."
+        },
+        {
+          "startSec": 351.1,
+          "endSec": 351.2,
+          "text": "Once"
+        },
+        {
+          "startSec": 351.2,
+          "endSec": 351.7,
+          "text": "again,"
+        }
+      ]
+    },
+    {
+      "startSec": 351.2,
+      "endSec": 357.9,
+      "text": "again, our six minutes are up, but why not head over to our website, bbclearningenglish.com",
+      "words": [
+        {
+          "startSec": 351.2,
+          "endSec": 351.7,
+          "text": "again,"
+        },
+        {
+          "startSec": 351.7,
+          "endSec": 352,
+          "text": "our"
+        },
+        {
+          "startSec": 352,
+          "endSec": 352.2,
+          "text": "six"
+        },
+        {
+          "startSec": 352.2,
+          "endSec": 352.8,
+          "text": "minutes"
+        },
+        {
+          "startSec": 352.8,
+          "endSec": 353,
+          "text": "are"
+        },
+        {
+          "startSec": 353,
+          "endSec": 353.3,
+          "text": "up,"
+        },
+        {
+          "startSec": 353.3,
+          "endSec": 353.6,
+          "text": "but"
+        },
+        {
+          "startSec": 353.6,
+          "endSec": 353.8,
+          "text": "why"
+        },
+        {
+          "startSec": 353.8,
+          "endSec": 354.1,
+          "text": "not"
+        },
+        {
+          "startSec": 354.1,
+          "endSec": 354.4,
+          "text": "head"
+        },
+        {
+          "startSec": 354.4,
+          "endSec": 354.7,
+          "text": "over"
+        },
+        {
+          "startSec": 354.7,
+          "endSec": 354.9,
+          "text": "to"
+        },
+        {
+          "startSec": 354.9,
+          "endSec": 355.1,
+          "text": "our"
+        },
+        {
+          "startSec": 355.1,
+          "endSec": 355.8,
+          "text": "website,"
+        },
+        {
+          "startSec": 355.8,
+          "endSec": 357.9,
+          "text": "bbclearningenglish.com"
+        },
+        {
+          "startSec": 357.9,
+          "endSec": 358.1,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 357.9,
+      "endSec": 361.6,
+      "text": "to try the quiz and worksheet for this episode.",
+      "words": [
+        {
+          "startSec": 357.9,
+          "endSec": 358.1,
+          "text": "to"
+        },
+        {
+          "startSec": 358.1,
+          "endSec": 358.3,
+          "text": "try"
+        },
+        {
+          "startSec": 358.3,
+          "endSec": 358.6,
+          "text": "the"
+        },
+        {
+          "startSec": 358.6,
+          "endSec": 359,
+          "text": "quiz"
+        },
+        {
+          "startSec": 359,
+          "endSec": 359.2,
+          "text": "and"
+        },
+        {
+          "startSec": 359.2,
+          "endSec": 360,
+          "text": "worksheet"
+        },
+        {
+          "startSec": 360,
+          "endSec": 360.3,
+          "text": "for"
+        },
+        {
+          "startSec": 360.3,
+          "endSec": 360.7,
+          "text": "this"
+        },
+        {
+          "startSec": 360.7,
+          "endSec": 361.6,
+          "text": "episode."
+        },
+        {
+          "startSec": 361.6,
+          "endSec": 361.8,
+          "text": "See"
+        }
+      ]
+    },
+    {
+      "startSec": 361.6,
+      "endSec": 362.6,
+      "text": "See you again soon.",
+      "words": [
+        {
+          "startSec": 361.6,
+          "endSec": 361.8,
+          "text": "See"
+        },
+        {
+          "startSec": 361.8,
+          "endSec": 362,
+          "text": "you"
+        },
+        {
+          "startSec": 362,
+          "endSec": 362.2,
+          "text": "again"
+        },
+        {
+          "startSec": 362.2,
+          "endSec": 362.6,
+          "text": "soon."
+        },
+        {
+          "startSec": 362.6,
+          "endSec": 363.6,
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "startSec": 362.6,
+      "endSec": 363.6,
+      "text": "Goodbye.",
+      "words": [
+        {
+          "startSec": 362.6,
+          "endSec": 363.6,
+          "text": "Goodbye."
+        },
+        {
+          "startSec": 363.6,
+          "endSec": 364.1,
+          "text": "Bye."
+        }
+      ]
+    },
+    {
+      "startSec": 363.6,
+      "endSec": 364.1,
+      "text": "Bye.",
+      "words": [
+        {
+          "startSec": 363.6,
+          "endSec": 364.1,
+          "text": "Bye."
+        }
+      ]
+    }
+  ],
+  "introSec": 0
+}

@@ -1,0 +1,5311 @@
+{
+  "title": "Should we pay more for chocolate",
+  "source": "BBC 6 Minute English",
+  "level": "advanced",
+  "durationSec": 349,
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
+  "audioFile": "audio.mp3",
+  "segments": [
+    {
+      "startSec": 0,
+      "endSec": 12.2,
+      "text": "Hello, this is Six Minute English from BBC Learning English. I'm Neil.",
+      "words": [
+        {
+          "startSec": 0.2,
+          "endSec": 1.5,
+          "text": "Hello,"
+        },
+        {
+          "startSec": 1.5,
+          "endSec": 2.3,
+          "text": "this"
+        },
+        {
+          "startSec": 2.3,
+          "endSec": 2.7,
+          "text": "is"
+        },
+        {
+          "startSec": 2.7,
+          "endSec": 3.3,
+          "text": "Six"
+        },
+        {
+          "startSec": 3.3,
+          "endSec": 4.6,
+          "text": "Minute"
+        },
+        {
+          "startSec": 4.6,
+          "endSec": 6,
+          "text": "English"
+        },
+        {
+          "startSec": 6,
+          "endSec": 6.9,
+          "text": "from"
+        },
+        {
+          "startSec": 6.9,
+          "endSec": 8.1,
+          "text": "BBC"
+        },
+        {
+          "startSec": 8.1,
+          "endSec": 9.2,
+          "text": "Learning"
+        },
+        {
+          "startSec": 9.2,
+          "endSec": 11.3,
+          "text": "English."
+        },
+        {
+          "startSec": 11.3,
+          "endSec": 11.5,
+          "text": "I'm"
+        },
+        {
+          "startSec": 11.5,
+          "endSec": 12.2,
+          "text": "Neil."
+        },
+        {
+          "startSec": 12.2,
+          "endSec": 12.5,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 12.2,
+      "endSec": 17.4,
+      "text": "And I'm Becca. How many of our listeners, Neil? Do you think love chocolate?",
+      "words": [
+        {
+          "startSec": 12.2,
+          "endSec": 12.5,
+          "text": "And"
+        },
+        {
+          "startSec": 12.5,
+          "endSec": 12.7,
+          "text": "I'm"
+        },
+        {
+          "startSec": 12.7,
+          "endSec": 13.2,
+          "text": "Becca."
+        },
+        {
+          "startSec": 13.2,
+          "endSec": 13.5,
+          "text": "How"
+        },
+        {
+          "startSec": 13.5,
+          "endSec": 13.7,
+          "text": "many"
+        },
+        {
+          "startSec": 13.7,
+          "endSec": 13.9,
+          "text": "of"
+        },
+        {
+          "startSec": 13.9,
+          "endSec": 14.1,
+          "text": "our"
+        },
+        {
+          "startSec": 14.1,
+          "endSec": 14.9,
+          "text": "listeners,"
+        },
+        {
+          "startSec": 14.9,
+          "endSec": 15.4,
+          "text": "Neil?"
+        },
+        {
+          "startSec": 15.4,
+          "endSec": 15.5,
+          "text": "Do"
+        },
+        {
+          "startSec": 15.5,
+          "endSec": 15.6,
+          "text": "you"
+        },
+        {
+          "startSec": 15.6,
+          "endSec": 16.1,
+          "text": "think"
+        },
+        {
+          "startSec": 16.1,
+          "endSec": 16.4,
+          "text": "love"
+        },
+        {
+          "startSec": 16.4,
+          "endSec": 17.4,
+          "text": "chocolate?"
+        },
+        {
+          "startSec": 17.4,
+          "endSec": 17.8,
+          "text": "Well,"
+        }
+      ]
+    },
+    {
+      "startSec": 17.4,
+      "endSec": 22.2,
+      "text": "Well, I can't think of anyone who doesn't love chocolate. I know, I certainly do.",
+      "words": [
+        {
+          "startSec": 17.4,
+          "endSec": 17.8,
+          "text": "Well,"
+        },
+        {
+          "startSec": 17.8,
+          "endSec": 17.9,
+          "text": "I"
+        },
+        {
+          "startSec": 17.9,
+          "endSec": 18.2,
+          "text": "can't"
+        },
+        {
+          "startSec": 18.2,
+          "endSec": 18.5,
+          "text": "think"
+        },
+        {
+          "startSec": 18.5,
+          "endSec": 18.6,
+          "text": "of"
+        },
+        {
+          "startSec": 18.6,
+          "endSec": 19,
+          "text": "anyone"
+        },
+        {
+          "startSec": 19,
+          "endSec": 19.2,
+          "text": "who"
+        },
+        {
+          "startSec": 19.2,
+          "endSec": 19.6,
+          "text": "doesn't"
+        },
+        {
+          "startSec": 19.6,
+          "endSec": 19.8,
+          "text": "love"
+        },
+        {
+          "startSec": 19.8,
+          "endSec": 20.6,
+          "text": "chocolate."
+        },
+        {
+          "startSec": 20.6,
+          "endSec": 20.7,
+          "text": "I"
+        },
+        {
+          "startSec": 20.7,
+          "endSec": 21.1,
+          "text": "know,"
+        },
+        {
+          "startSec": 21.1,
+          "endSec": 21.2,
+          "text": "I"
+        },
+        {
+          "startSec": 21.2,
+          "endSec": 21.8,
+          "text": "certainly"
+        },
+        {
+          "startSec": 21.8,
+          "endSec": 22.2,
+          "text": "do."
+        },
+        {
+          "startSec": 22.2,
+          "endSec": 22.6,
+          "text": "Yes,"
+        }
+      ]
+    },
+    {
+      "startSec": 22.2,
+      "endSec": 27.2,
+      "text": "Yes, I thought you might say that. Having seen your mid-morning snack most days.",
+      "words": [
+        {
+          "startSec": 22.2,
+          "endSec": 22.6,
+          "text": "Yes,"
+        },
+        {
+          "startSec": 22.6,
+          "endSec": 22.6,
+          "text": "I"
+        },
+        {
+          "startSec": 22.6,
+          "endSec": 23.2,
+          "text": "thought"
+        },
+        {
+          "startSec": 23.2,
+          "endSec": 23.4,
+          "text": "you"
+        },
+        {
+          "startSec": 23.4,
+          "endSec": 23.7,
+          "text": "might"
+        },
+        {
+          "startSec": 23.7,
+          "endSec": 24,
+          "text": "say"
+        },
+        {
+          "startSec": 24,
+          "endSec": 24.5,
+          "text": "that."
+        },
+        {
+          "startSec": 24.5,
+          "endSec": 24.9,
+          "text": "Having"
+        },
+        {
+          "startSec": 24.9,
+          "endSec": 25.1,
+          "text": "seen"
+        },
+        {
+          "startSec": 25.1,
+          "endSec": 25.3,
+          "text": "your"
+        },
+        {
+          "startSec": 25.3,
+          "endSec": 25.9,
+          "text": "mid-morning"
+        },
+        {
+          "startSec": 25.9,
+          "endSec": 26.2,
+          "text": "snack"
+        },
+        {
+          "startSec": 26.2,
+          "endSec": 26.5,
+          "text": "most"
+        },
+        {
+          "startSec": 26.5,
+          "endSec": 27.2,
+          "text": "days."
+        }
+      ]
+    },
+    {
+      "startSec": 27.2,
+      "endSec": 31.6,
+      "text": "That's true. I do love a bit of dark chocolate. Do you know I really like the one that's got some",
+      "words": [
+        {
+          "startSec": 27.3,
+          "endSec": 27.6,
+          "text": "That's"
+        },
+        {
+          "startSec": 27.6,
+          "endSec": 28,
+          "text": "true."
+        },
+        {
+          "startSec": 28,
+          "endSec": 28,
+          "text": "I"
+        },
+        {
+          "startSec": 28,
+          "endSec": 28.2,
+          "text": "do"
+        },
+        {
+          "startSec": 28.2,
+          "endSec": 28.4,
+          "text": "love"
+        },
+        {
+          "startSec": 28.4,
+          "endSec": 28.5,
+          "text": "a"
+        },
+        {
+          "startSec": 28.5,
+          "endSec": 28.6,
+          "text": "bit"
+        },
+        {
+          "startSec": 28.6,
+          "endSec": 28.8,
+          "text": "of"
+        },
+        {
+          "startSec": 28.8,
+          "endSec": 29,
+          "text": "dark"
+        },
+        {
+          "startSec": 29,
+          "endSec": 29.8,
+          "text": "chocolate."
+        },
+        {
+          "startSec": 29.8,
+          "endSec": 29.9,
+          "text": "Do"
+        },
+        {
+          "startSec": 29.9,
+          "endSec": 30,
+          "text": "you"
+        },
+        {
+          "startSec": 30,
+          "endSec": 30.2,
+          "text": "know"
+        },
+        {
+          "startSec": 30.2,
+          "endSec": 30.2,
+          "text": "I"
+        },
+        {
+          "startSec": 30.2,
+          "endSec": 30.5,
+          "text": "really"
+        },
+        {
+          "startSec": 30.5,
+          "endSec": 30.7,
+          "text": "like"
+        },
+        {
+          "startSec": 30.7,
+          "endSec": 30.9,
+          "text": "the"
+        },
+        {
+          "startSec": 30.9,
+          "endSec": 31.1,
+          "text": "one"
+        },
+        {
+          "startSec": 31.1,
+          "endSec": 31.3,
+          "text": "that's"
+        },
+        {
+          "startSec": 31.3,
+          "endSec": 31.4,
+          "text": "got"
+        },
+        {
+          "startSec": 31.4,
+          "endSec": 31.6,
+          "text": "some"
+        },
+        {
+          "startSec": 31.6,
+          "endSec": 32.1,
+          "text": "chili"
+        }
+      ]
+    },
+    {
+      "startSec": 31.6,
+      "endSec": 37.4,
+      "text": "chili in it? What's your favourite, Becca? Oh, I also love dark chocolate, but chili's a bit",
+      "words": [
+        {
+          "startSec": 31.6,
+          "endSec": 32.1,
+          "text": "chili"
+        },
+        {
+          "startSec": 32.1,
+          "endSec": 32.2,
+          "text": "in"
+        },
+        {
+          "startSec": 32.2,
+          "endSec": 32.7,
+          "text": "it?"
+        },
+        {
+          "startSec": 32.7,
+          "endSec": 33,
+          "text": "What's"
+        },
+        {
+          "startSec": 33,
+          "endSec": 33.2,
+          "text": "your"
+        },
+        {
+          "startSec": 33.2,
+          "endSec": 33.8,
+          "text": "favourite,"
+        },
+        {
+          "startSec": 33.8,
+          "endSec": 34.2,
+          "text": "Becca?"
+        },
+        {
+          "startSec": 34.2,
+          "endSec": 34.7,
+          "text": "Oh,"
+        },
+        {
+          "startSec": 34.7,
+          "endSec": 34.8,
+          "text": "I"
+        },
+        {
+          "startSec": 34.8,
+          "endSec": 35.3,
+          "text": "also"
+        },
+        {
+          "startSec": 35.3,
+          "endSec": 35.8,
+          "text": "love"
+        },
+        {
+          "startSec": 35.8,
+          "endSec": 36,
+          "text": "dark"
+        },
+        {
+          "startSec": 36,
+          "endSec": 36.6,
+          "text": "chocolate,"
+        },
+        {
+          "startSec": 36.6,
+          "endSec": 36.7,
+          "text": "but"
+        },
+        {
+          "startSec": 36.7,
+          "endSec": 37.1,
+          "text": "chili's"
+        },
+        {
+          "startSec": 37.1,
+          "endSec": 37.2,
+          "text": "a"
+        },
+        {
+          "startSec": 37.2,
+          "endSec": 37.4,
+          "text": "bit"
+        },
+        {
+          "startSec": 37.4,
+          "endSec": 37.7,
+          "text": "spicy"
+        }
+      ]
+    },
+    {
+      "startSec": 37.4,
+      "endSec": 44.1,
+      "text": "spicy for me. I like it with sea salt. Mmm, that's also good. But now to the stuff that makes chocolate",
+      "words": [
+        {
+          "startSec": 37.4,
+          "endSec": 37.7,
+          "text": "spicy"
+        },
+        {
+          "startSec": 37.7,
+          "endSec": 38,
+          "text": "for"
+        },
+        {
+          "startSec": 38,
+          "endSec": 38.3,
+          "text": "me."
+        },
+        {
+          "startSec": 38.3,
+          "endSec": 38.4,
+          "text": "I"
+        },
+        {
+          "startSec": 38.4,
+          "endSec": 38.7,
+          "text": "like"
+        },
+        {
+          "startSec": 38.7,
+          "endSec": 38.9,
+          "text": "it"
+        },
+        {
+          "startSec": 38.9,
+          "endSec": 39.2,
+          "text": "with"
+        },
+        {
+          "startSec": 39.2,
+          "endSec": 39.4,
+          "text": "sea"
+        },
+        {
+          "startSec": 39.4,
+          "endSec": 40,
+          "text": "salt."
+        },
+        {
+          "startSec": 40,
+          "endSec": 40.3,
+          "text": "Mmm,"
+        },
+        {
+          "startSec": 40.3,
+          "endSec": 40.7,
+          "text": "that's"
+        },
+        {
+          "startSec": 40.7,
+          "endSec": 41,
+          "text": "also"
+        },
+        {
+          "startSec": 41,
+          "endSec": 41.5,
+          "text": "good."
+        },
+        {
+          "startSec": 41.5,
+          "endSec": 41.8,
+          "text": "But"
+        },
+        {
+          "startSec": 41.8,
+          "endSec": 42,
+          "text": "now"
+        },
+        {
+          "startSec": 42,
+          "endSec": 42.1,
+          "text": "to"
+        },
+        {
+          "startSec": 42.1,
+          "endSec": 42.4,
+          "text": "the"
+        },
+        {
+          "startSec": 42.4,
+          "endSec": 42.7,
+          "text": "stuff"
+        },
+        {
+          "startSec": 42.7,
+          "endSec": 43,
+          "text": "that"
+        },
+        {
+          "startSec": 43,
+          "endSec": 43.4,
+          "text": "makes"
+        },
+        {
+          "startSec": 43.4,
+          "endSec": 44.1,
+          "text": "chocolate"
+        },
+        {
+          "startSec": 44.1,
+          "endSec": 44.9,
+          "text": "possible."
+        }
+      ]
+    },
+    {
+      "startSec": 44.1,
+      "endSec": 49.9,
+      "text": "possible. Coco, a key ingredient. And it's become more expensive in recent years.",
+      "words": [
+        {
+          "startSec": 44.1,
+          "endSec": 44.9,
+          "text": "possible."
+        },
+        {
+          "startSec": 44.9,
+          "endSec": 45.4,
+          "text": "Coco,"
+        },
+        {
+          "startSec": 45.4,
+          "endSec": 45.4,
+          "text": "a"
+        },
+        {
+          "startSec": 45.4,
+          "endSec": 45.7,
+          "text": "key"
+        },
+        {
+          "startSec": 45.7,
+          "endSec": 46.7,
+          "text": "ingredient."
+        },
+        {
+          "startSec": 46.7,
+          "endSec": 46.9,
+          "text": "And"
+        },
+        {
+          "startSec": 46.9,
+          "endSec": 47.2,
+          "text": "it's"
+        },
+        {
+          "startSec": 47.2,
+          "endSec": 47.7,
+          "text": "become"
+        },
+        {
+          "startSec": 47.7,
+          "endSec": 48,
+          "text": "more"
+        },
+        {
+          "startSec": 48,
+          "endSec": 48.6,
+          "text": "expensive"
+        },
+        {
+          "startSec": 48.6,
+          "endSec": 48.8,
+          "text": "in"
+        },
+        {
+          "startSec": 48.8,
+          "endSec": 49.3,
+          "text": "recent"
+        },
+        {
+          "startSec": 49.3,
+          "endSec": 49.9,
+          "text": "years."
+        },
+        {
+          "startSec": 49.9,
+          "endSec": 50.2,
+          "text": "Now"
+        }
+      ]
+    },
+    {
+      "startSec": 49.9,
+      "endSec": 56.6,
+      "text": "Now a new EU law could make chocolate even more expensive. Today we'll talk about how this law",
+      "words": [
+        {
+          "startSec": 49.9,
+          "endSec": 50.2,
+          "text": "Now"
+        },
+        {
+          "startSec": 50.2,
+          "endSec": 50.3,
+          "text": "a"
+        },
+        {
+          "startSec": 50.3,
+          "endSec": 50.6,
+          "text": "new"
+        },
+        {
+          "startSec": 50.6,
+          "endSec": 50.8,
+          "text": "EU"
+        },
+        {
+          "startSec": 50.8,
+          "endSec": 51.1,
+          "text": "law"
+        },
+        {
+          "startSec": 51.1,
+          "endSec": 51.6,
+          "text": "could"
+        },
+        {
+          "startSec": 51.6,
+          "endSec": 52,
+          "text": "make"
+        },
+        {
+          "startSec": 52,
+          "endSec": 52.8,
+          "text": "chocolate"
+        },
+        {
+          "startSec": 52.8,
+          "endSec": 53.2,
+          "text": "even"
+        },
+        {
+          "startSec": 53.2,
+          "endSec": 53.6,
+          "text": "more"
+        },
+        {
+          "startSec": 53.6,
+          "endSec": 54.9,
+          "text": "expensive."
+        },
+        {
+          "startSec": 54.9,
+          "endSec": 55.2,
+          "text": "Today"
+        },
+        {
+          "startSec": 55.2,
+          "endSec": 55.5,
+          "text": "we'll"
+        },
+        {
+          "startSec": 55.5,
+          "endSec": 55.8,
+          "text": "talk"
+        },
+        {
+          "startSec": 55.8,
+          "endSec": 55.9,
+          "text": "about"
+        },
+        {
+          "startSec": 55.9,
+          "endSec": 56.2,
+          "text": "how"
+        },
+        {
+          "startSec": 56.2,
+          "endSec": 56.4,
+          "text": "this"
+        },
+        {
+          "startSec": 56.4,
+          "endSec": 56.6,
+          "text": "law"
+        }
+      ]
+    },
+    {
+      "startSec": 56.6,
+      "endSec": 61.3,
+      "text": "could change things for farmers, companies and chocolate lovers, as discussed on the recent",
+      "words": [
+        {
+          "startSec": 56.8,
+          "endSec": 56.9,
+          "text": "could"
+        },
+        {
+          "startSec": 56.9,
+          "endSec": 57.2,
+          "text": "change"
+        },
+        {
+          "startSec": 57.2,
+          "endSec": 57.6,
+          "text": "things"
+        },
+        {
+          "startSec": 57.6,
+          "endSec": 57.7,
+          "text": "for"
+        },
+        {
+          "startSec": 57.7,
+          "endSec": 58.2,
+          "text": "farmers,"
+        },
+        {
+          "startSec": 58.2,
+          "endSec": 58.7,
+          "text": "companies"
+        },
+        {
+          "startSec": 58.7,
+          "endSec": 58.9,
+          "text": "and"
+        },
+        {
+          "startSec": 58.9,
+          "endSec": 59.4,
+          "text": "chocolate"
+        },
+        {
+          "startSec": 59.4,
+          "endSec": 59.8,
+          "text": "lovers,"
+        },
+        {
+          "startSec": 59.8,
+          "endSec": 60,
+          "text": "as"
+        },
+        {
+          "startSec": 60,
+          "endSec": 60.6,
+          "text": "discussed"
+        },
+        {
+          "startSec": 60.6,
+          "endSec": 60.7,
+          "text": "on"
+        },
+        {
+          "startSec": 60.7,
+          "endSec": 60.9,
+          "text": "the"
+        },
+        {
+          "startSec": 60.9,
+          "endSec": 61.3,
+          "text": "recent"
+        },
+        {
+          "startSec": 61.3,
+          "endSec": 61.5,
+          "text": "BBC"
+        }
+      ]
+    },
+    {
+      "startSec": 61.3,
+      "endSec": 66.7,
+      "text": "BBC World Service programme, Business Daily. As always, we'll learn some useful new words and",
+      "words": [
+        {
+          "startSec": 61.3,
+          "endSec": 61.5,
+          "text": "BBC"
+        },
+        {
+          "startSec": 61.5,
+          "endSec": 61.8,
+          "text": "World"
+        },
+        {
+          "startSec": 61.8,
+          "endSec": 62.3,
+          "text": "Service"
+        },
+        {
+          "startSec": 62.3,
+          "endSec": 63,
+          "text": "programme,"
+        },
+        {
+          "startSec": 63,
+          "endSec": 63.5,
+          "text": "Business"
+        },
+        {
+          "startSec": 63.5,
+          "endSec": 64,
+          "text": "Daily."
+        },
+        {
+          "startSec": 64,
+          "endSec": 64.2,
+          "text": "As"
+        },
+        {
+          "startSec": 64.2,
+          "endSec": 64.7,
+          "text": "always,"
+        },
+        {
+          "startSec": 64.7,
+          "endSec": 65,
+          "text": "we'll"
+        },
+        {
+          "startSec": 65,
+          "endSec": 65.4,
+          "text": "learn"
+        },
+        {
+          "startSec": 65.4,
+          "endSec": 65.6,
+          "text": "some"
+        },
+        {
+          "startSec": 65.6,
+          "endSec": 66.1,
+          "text": "useful"
+        },
+        {
+          "startSec": 66.1,
+          "endSec": 66.2,
+          "text": "new"
+        },
+        {
+          "startSec": 66.2,
+          "endSec": 66.6,
+          "text": "words"
+        },
+        {
+          "startSec": 66.6,
+          "endSec": 66.7,
+          "text": "and"
+        },
+        {
+          "startSec": 66.7,
+          "endSec": 67.2,
+          "text": "phrases"
+        }
+      ]
+    },
+    {
+      "startSec": 66.7,
+      "endSec": 73.4,
+      "text": "phrases and you'll find all the vocabulary along with the transcript on our website bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 66.7,
+          "endSec": 67.2,
+          "text": "phrases"
+        },
+        {
+          "startSec": 67.2,
+          "endSec": 67.4,
+          "text": "and"
+        },
+        {
+          "startSec": 67.4,
+          "endSec": 67.7,
+          "text": "you'll"
+        },
+        {
+          "startSec": 67.7,
+          "endSec": 68,
+          "text": "find"
+        },
+        {
+          "startSec": 68,
+          "endSec": 68.2,
+          "text": "all"
+        },
+        {
+          "startSec": 68.2,
+          "endSec": 68.4,
+          "text": "the"
+        },
+        {
+          "startSec": 68.4,
+          "endSec": 69,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 69,
+          "endSec": 69.4,
+          "text": "along"
+        },
+        {
+          "startSec": 69.4,
+          "endSec": 69.6,
+          "text": "with"
+        },
+        {
+          "startSec": 69.6,
+          "endSec": 69.8,
+          "text": "the"
+        },
+        {
+          "startSec": 69.8,
+          "endSec": 70.5,
+          "text": "transcript"
+        },
+        {
+          "startSec": 70.5,
+          "endSec": 70.6,
+          "text": "on"
+        },
+        {
+          "startSec": 70.6,
+          "endSec": 70.8,
+          "text": "our"
+        },
+        {
+          "startSec": 70.8,
+          "endSec": 71.3,
+          "text": "website"
+        },
+        {
+          "startSec": 71.3,
+          "endSec": 73.4,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 73.4,
+          "endSec": 73.9,
+          "text": "Before"
+        }
+      ]
+    },
+    {
+      "startSec": 73.4,
+      "endSec": 79.4,
+      "text": "Before we get started, Neil, I have a question for you. Europeans are big fans of chocolate,",
+      "words": [
+        {
+          "startSec": 73.4,
+          "endSec": 73.9,
+          "text": "Before"
+        },
+        {
+          "startSec": 73.9,
+          "endSec": 74,
+          "text": "we"
+        },
+        {
+          "startSec": 74,
+          "endSec": 74.2,
+          "text": "get"
+        },
+        {
+          "startSec": 74.2,
+          "endSec": 74.8,
+          "text": "started,"
+        },
+        {
+          "startSec": 74.8,
+          "endSec": 75.3,
+          "text": "Neil,"
+        },
+        {
+          "startSec": 75.3,
+          "endSec": 75.3,
+          "text": "I"
+        },
+        {
+          "startSec": 75.3,
+          "endSec": 75.6,
+          "text": "have"
+        },
+        {
+          "startSec": 75.6,
+          "endSec": 75.7,
+          "text": "a"
+        },
+        {
+          "startSec": 75.7,
+          "endSec": 76.2,
+          "text": "question"
+        },
+        {
+          "startSec": 76.2,
+          "endSec": 76.5,
+          "text": "for"
+        },
+        {
+          "startSec": 76.5,
+          "endSec": 76.9,
+          "text": "you."
+        },
+        {
+          "startSec": 76.9,
+          "endSec": 77.7,
+          "text": "Europeans"
+        },
+        {
+          "startSec": 77.7,
+          "endSec": 77.9,
+          "text": "are"
+        },
+        {
+          "startSec": 77.9,
+          "endSec": 78.2,
+          "text": "big"
+        },
+        {
+          "startSec": 78.2,
+          "endSec": 78.6,
+          "text": "fans"
+        },
+        {
+          "startSec": 78.6,
+          "endSec": 78.7,
+          "text": "of"
+        },
+        {
+          "startSec": 78.7,
+          "endSec": 79.4,
+          "text": "chocolate,"
+        },
+        {
+          "startSec": 79.4,
+          "endSec": 79.7,
+          "text": "just"
+        }
+      ]
+    },
+    {
+      "startSec": 79.4,
+      "endSec": 86.2,
+      "text": "just like us. Around how many tons of cocoa beans were imported to Europe in 2023? Was it?",
+      "words": [
+        {
+          "startSec": 79.4,
+          "endSec": 79.7,
+          "text": "just"
+        },
+        {
+          "startSec": 79.7,
+          "endSec": 80,
+          "text": "like"
+        },
+        {
+          "startSec": 80,
+          "endSec": 80.4,
+          "text": "us."
+        },
+        {
+          "startSec": 80.4,
+          "endSec": 80.9,
+          "text": "Around"
+        },
+        {
+          "startSec": 80.9,
+          "endSec": 81.1,
+          "text": "how"
+        },
+        {
+          "startSec": 81.1,
+          "endSec": 81.5,
+          "text": "many"
+        },
+        {
+          "startSec": 81.5,
+          "endSec": 81.8,
+          "text": "tons"
+        },
+        {
+          "startSec": 81.8,
+          "endSec": 82,
+          "text": "of"
+        },
+        {
+          "startSec": 82,
+          "endSec": 82.3,
+          "text": "cocoa"
+        },
+        {
+          "startSec": 82.3,
+          "endSec": 82.7,
+          "text": "beans"
+        },
+        {
+          "startSec": 82.7,
+          "endSec": 83.1,
+          "text": "were"
+        },
+        {
+          "startSec": 83.1,
+          "endSec": 83.6,
+          "text": "imported"
+        },
+        {
+          "startSec": 83.6,
+          "endSec": 83.7,
+          "text": "to"
+        },
+        {
+          "startSec": 83.7,
+          "endSec": 84.1,
+          "text": "Europe"
+        },
+        {
+          "startSec": 84.1,
+          "endSec": 84.2,
+          "text": "in"
+        },
+        {
+          "startSec": 84.2,
+          "endSec": 85.8,
+          "text": "2023?"
+        },
+        {
+          "startSec": 85.8,
+          "endSec": 86.1,
+          "text": "Was"
+        },
+        {
+          "startSec": 86.1,
+          "endSec": 86.2,
+          "text": "it?"
+        }
+      ]
+    },
+    {
+      "startSec": 86.7,
+      "endSec": 94,
+      "text": "A) 500,000 tons? B) 2 million tons? Or C) 10 million tons?",
+      "words": [
+        {
+          "startSec": 86.7,
+          "endSec": 86.9,
+          "text": "A)"
+        },
+        {
+          "startSec": 86.9,
+          "endSec": 88.6,
+          "text": "500,000"
+        },
+        {
+          "startSec": 88.6,
+          "endSec": 89.3,
+          "text": "tons?"
+        },
+        {
+          "startSec": 89.3,
+          "endSec": 89.5,
+          "text": "B)"
+        },
+        {
+          "startSec": 89.5,
+          "endSec": 89.8,
+          "text": "2"
+        },
+        {
+          "startSec": 89.8,
+          "endSec": 90.6,
+          "text": "million"
+        },
+        {
+          "startSec": 90.6,
+          "endSec": 91.3,
+          "text": "tons?"
+        },
+        {
+          "startSec": 91.3,
+          "endSec": 91.6,
+          "text": "Or"
+        },
+        {
+          "startSec": 91.6,
+          "endSec": 91.8,
+          "text": "C)"
+        },
+        {
+          "startSec": 91.8,
+          "endSec": 92.4,
+          "text": "10"
+        },
+        {
+          "startSec": 92.4,
+          "endSec": 93.1,
+          "text": "million"
+        },
+        {
+          "startSec": 93.1,
+          "endSec": 94,
+          "text": "tons?"
+        },
+        {
+          "startSec": 94,
+          "endSec": 94.4,
+          "text": "Well,"
+        }
+      ]
+    },
+    {
+      "startSec": 94,
+      "endSec": 99.5,
+      "text": "Well, I have no idea, but I'm just going to guess and say 500,000 tons.",
+      "words": [
+        {
+          "startSec": 94,
+          "endSec": 94.4,
+          "text": "Well,"
+        },
+        {
+          "startSec": 94.4,
+          "endSec": 94.5,
+          "text": "I"
+        },
+        {
+          "startSec": 94.5,
+          "endSec": 94.8,
+          "text": "have"
+        },
+        {
+          "startSec": 94.8,
+          "endSec": 94.9,
+          "text": "no"
+        },
+        {
+          "startSec": 94.9,
+          "endSec": 95.4,
+          "text": "idea,"
+        },
+        {
+          "startSec": 95.4,
+          "endSec": 95.6,
+          "text": "but"
+        },
+        {
+          "startSec": 95.6,
+          "endSec": 95.8,
+          "text": "I'm"
+        },
+        {
+          "startSec": 95.8,
+          "endSec": 96.1,
+          "text": "just"
+        },
+        {
+          "startSec": 96.1,
+          "endSec": 96.5,
+          "text": "going"
+        },
+        {
+          "startSec": 96.5,
+          "endSec": 96.6,
+          "text": "to"
+        },
+        {
+          "startSec": 96.6,
+          "endSec": 97,
+          "text": "guess"
+        },
+        {
+          "startSec": 97,
+          "endSec": 97.2,
+          "text": "and"
+        },
+        {
+          "startSec": 97.2,
+          "endSec": 97.4,
+          "text": "say"
+        },
+        {
+          "startSec": 97.4,
+          "endSec": 98.9,
+          "text": "500,000"
+        },
+        {
+          "startSec": 98.9,
+          "endSec": 99.5,
+          "text": "tons."
+        },
+        {
+          "startSec": 99.5,
+          "endSec": 99.9,
+          "text": "We'll"
+        }
+      ]
+    },
+    {
+      "startSec": 99.5,
+      "endSec": 106.2,
+      "text": "We'll find out if you're right later on. Now, that new EU law that we were talking about earlier",
+      "words": [
+        {
+          "startSec": 99.5,
+          "endSec": 99.9,
+          "text": "We'll"
+        },
+        {
+          "startSec": 99.9,
+          "endSec": 100.2,
+          "text": "find"
+        },
+        {
+          "startSec": 100.2,
+          "endSec": 100.5,
+          "text": "out"
+        },
+        {
+          "startSec": 100.5,
+          "endSec": 100.6,
+          "text": "if"
+        },
+        {
+          "startSec": 100.6,
+          "endSec": 101.1,
+          "text": "you're"
+        },
+        {
+          "startSec": 101.1,
+          "endSec": 101.5,
+          "text": "right"
+        },
+        {
+          "startSec": 101.5,
+          "endSec": 101.9,
+          "text": "later"
+        },
+        {
+          "startSec": 101.9,
+          "endSec": 102.3,
+          "text": "on."
+        },
+        {
+          "startSec": 102.3,
+          "endSec": 102.7,
+          "text": "Now,"
+        },
+        {
+          "startSec": 102.7,
+          "endSec": 103,
+          "text": "that"
+        },
+        {
+          "startSec": 103,
+          "endSec": 103.3,
+          "text": "new"
+        },
+        {
+          "startSec": 103.3,
+          "endSec": 103.4,
+          "text": "EU"
+        },
+        {
+          "startSec": 103.4,
+          "endSec": 103.7,
+          "text": "law"
+        },
+        {
+          "startSec": 103.7,
+          "endSec": 104,
+          "text": "that"
+        },
+        {
+          "startSec": 104,
+          "endSec": 104.2,
+          "text": "we"
+        },
+        {
+          "startSec": 104.2,
+          "endSec": 104.5,
+          "text": "were"
+        },
+        {
+          "startSec": 104.5,
+          "endSec": 105.1,
+          "text": "talking"
+        },
+        {
+          "startSec": 105.1,
+          "endSec": 105.5,
+          "text": "about"
+        },
+        {
+          "startSec": 105.5,
+          "endSec": 106.2,
+          "text": "earlier"
+        },
+        {
+          "startSec": 106.2,
+          "endSec": 106.6,
+          "text": "would"
+        }
+      ]
+    },
+    {
+      "startSec": 106.2,
+      "endSec": 112.6,
+      "text": "would stop companies buying cocoa from land where any trees were cut down in the last six years.",
+      "words": [
+        {
+          "startSec": 106.2,
+          "endSec": 106.6,
+          "text": "would"
+        },
+        {
+          "startSec": 106.6,
+          "endSec": 106.9,
+          "text": "stop"
+        },
+        {
+          "startSec": 106.9,
+          "endSec": 107.6,
+          "text": "companies"
+        },
+        {
+          "startSec": 107.6,
+          "endSec": 108,
+          "text": "buying"
+        },
+        {
+          "startSec": 108,
+          "endSec": 108.4,
+          "text": "cocoa"
+        },
+        {
+          "startSec": 108.4,
+          "endSec": 108.8,
+          "text": "from"
+        },
+        {
+          "startSec": 108.8,
+          "endSec": 109.1,
+          "text": "land"
+        },
+        {
+          "startSec": 109.1,
+          "endSec": 109.4,
+          "text": "where"
+        },
+        {
+          "startSec": 109.4,
+          "endSec": 109.7,
+          "text": "any"
+        },
+        {
+          "startSec": 109.7,
+          "endSec": 110.1,
+          "text": "trees"
+        },
+        {
+          "startSec": 110.1,
+          "endSec": 110.4,
+          "text": "were"
+        },
+        {
+          "startSec": 110.4,
+          "endSec": 110.6,
+          "text": "cut"
+        },
+        {
+          "startSec": 110.6,
+          "endSec": 110.9,
+          "text": "down"
+        },
+        {
+          "startSec": 110.9,
+          "endSec": 111.1,
+          "text": "in"
+        },
+        {
+          "startSec": 111.1,
+          "endSec": 111.3,
+          "text": "the"
+        },
+        {
+          "startSec": 111.3,
+          "endSec": 111.6,
+          "text": "last"
+        },
+        {
+          "startSec": 111.6,
+          "endSec": 111.8,
+          "text": "six"
+        },
+        {
+          "startSec": 111.8,
+          "endSec": 112.6,
+          "text": "years."
+        }
+      ]
+    },
+    {
+      "startSec": 112.6,
+      "endSec": 119,
+      "text": "The process of cutting down trees is called deforestation. Albert Smith, who owns a small",
+      "words": [
+        {
+          "startSec": 112.7,
+          "endSec": 112.8,
+          "text": "The"
+        },
+        {
+          "startSec": 112.8,
+          "endSec": 113.4,
+          "text": "process"
+        },
+        {
+          "startSec": 113.4,
+          "endSec": 113.6,
+          "text": "of"
+        },
+        {
+          "startSec": 113.6,
+          "endSec": 114.2,
+          "text": "cutting"
+        },
+        {
+          "startSec": 114.2,
+          "endSec": 114.6,
+          "text": "down"
+        },
+        {
+          "startSec": 114.6,
+          "endSec": 115,
+          "text": "trees"
+        },
+        {
+          "startSec": 115,
+          "endSec": 115.2,
+          "text": "is"
+        },
+        {
+          "startSec": 115.2,
+          "endSec": 115.7,
+          "text": "called"
+        },
+        {
+          "startSec": 115.7,
+          "endSec": 117.1,
+          "text": "deforestation."
+        },
+        {
+          "startSec": 117.1,
+          "endSec": 117.6,
+          "text": "Albert"
+        },
+        {
+          "startSec": 117.6,
+          "endSec": 118.1,
+          "text": "Smith,"
+        },
+        {
+          "startSec": 118.1,
+          "endSec": 118.3,
+          "text": "who"
+        },
+        {
+          "startSec": 118.3,
+          "endSec": 118.6,
+          "text": "owns"
+        },
+        {
+          "startSec": 118.6,
+          "endSec": 118.6,
+          "text": "a"
+        },
+        {
+          "startSec": 118.6,
+          "endSec": 119,
+          "text": "small"
+        },
+        {
+          "startSec": 119,
+          "endSec": 119.5,
+          "text": "chocolate"
+        }
+      ]
+    },
+    {
+      "startSec": 119,
+      "endSec": 123.2,
+      "text": "chocolate business, believes that the new law wouldn't change too much for his company.",
+      "words": [
+        {
+          "startSec": 119,
+          "endSec": 119.5,
+          "text": "chocolate"
+        },
+        {
+          "startSec": 119.5,
+          "endSec": 120,
+          "text": "business,"
+        },
+        {
+          "startSec": 120,
+          "endSec": 120.4,
+          "text": "believes"
+        },
+        {
+          "startSec": 120.4,
+          "endSec": 120.7,
+          "text": "that"
+        },
+        {
+          "startSec": 120.7,
+          "endSec": 120.8,
+          "text": "the"
+        },
+        {
+          "startSec": 120.8,
+          "endSec": 121,
+          "text": "new"
+        },
+        {
+          "startSec": 121,
+          "endSec": 121.1,
+          "text": "law"
+        },
+        {
+          "startSec": 121.1,
+          "endSec": 121.6,
+          "text": "wouldn't"
+        },
+        {
+          "startSec": 121.6,
+          "endSec": 121.9,
+          "text": "change"
+        },
+        {
+          "startSec": 121.9,
+          "endSec": 122.1,
+          "text": "too"
+        },
+        {
+          "startSec": 122.1,
+          "endSec": 122.3,
+          "text": "much"
+        },
+        {
+          "startSec": 122.3,
+          "endSec": 122.4,
+          "text": "for"
+        },
+        {
+          "startSec": 122.4,
+          "endSec": 122.6,
+          "text": "his"
+        },
+        {
+          "startSec": 122.6,
+          "endSec": 123.2,
+          "text": "company."
+        },
+        {
+          "startSec": 123.2,
+          "endSec": 123.4,
+          "text": "We"
+        }
+      ]
+    },
+    {
+      "startSec": 123.2,
+      "endSec": 131.3,
+      "text": "We have all the information on farm level already because the producers that we work with are",
+      "words": [
+        {
+          "startSec": 123.2,
+          "endSec": 123.4,
+          "text": "We"
+        },
+        {
+          "startSec": 123.4,
+          "endSec": 123.9,
+          "text": "have"
+        },
+        {
+          "startSec": 123.9,
+          "endSec": 124.3,
+          "text": "all"
+        },
+        {
+          "startSec": 124.3,
+          "endSec": 124.6,
+          "text": "the"
+        },
+        {
+          "startSec": 124.6,
+          "endSec": 125.9,
+          "text": "information"
+        },
+        {
+          "startSec": 125.9,
+          "endSec": 126.1,
+          "text": "on"
+        },
+        {
+          "startSec": 126.1,
+          "endSec": 126.6,
+          "text": "farm"
+        },
+        {
+          "startSec": 126.6,
+          "endSec": 127.2,
+          "text": "level"
+        },
+        {
+          "startSec": 127.2,
+          "endSec": 128.1,
+          "text": "already"
+        },
+        {
+          "startSec": 128.1,
+          "endSec": 128.3,
+          "text": "because"
+        },
+        {
+          "startSec": 128.3,
+          "endSec": 129.4,
+          "text": "the"
+        },
+        {
+          "startSec": 129.4,
+          "endSec": 129.9,
+          "text": "producers"
+        },
+        {
+          "startSec": 129.9,
+          "endSec": 130.1,
+          "text": "that"
+        },
+        {
+          "startSec": 130.1,
+          "endSec": 130.2,
+          "text": "we"
+        },
+        {
+          "startSec": 130.2,
+          "endSec": 130.5,
+          "text": "work"
+        },
+        {
+          "startSec": 130.5,
+          "endSec": 131.3,
+          "text": "with"
+        },
+        {
+          "startSec": 131.3,
+          "endSec": 131.3,
+          "text": "are"
+        },
+        {
+          "startSec": 131.3,
+          "endSec": 131.7,
+          "text": "small"
+        }
+      ]
+    },
+    {
+      "startSec": 131.3,
+      "endSec": 138.5,
+      "text": "small plantations that either work through a co-op or a social enterprise and all of our cocoa is",
+      "words": [
+        {
+          "startSec": 131.3,
+          "endSec": 131.3,
+          "text": "are"
+        },
+        {
+          "startSec": 131.3,
+          "endSec": 131.7,
+          "text": "small"
+        },
+        {
+          "startSec": 131.7,
+          "endSec": 132.5,
+          "text": "plantations"
+        },
+        {
+          "startSec": 132.5,
+          "endSec": 132.8,
+          "text": "that"
+        },
+        {
+          "startSec": 132.8,
+          "endSec": 133.2,
+          "text": "either"
+        },
+        {
+          "startSec": 133.2,
+          "endSec": 133.5,
+          "text": "work"
+        },
+        {
+          "startSec": 133.5,
+          "endSec": 134,
+          "text": "through"
+        },
+        {
+          "startSec": 134,
+          "endSec": 134.1,
+          "text": "a"
+        },
+        {
+          "startSec": 134.1,
+          "endSec": 134.4,
+          "text": "co-op"
+        },
+        {
+          "startSec": 134.4,
+          "endSec": 134.6,
+          "text": "or"
+        },
+        {
+          "startSec": 134.6,
+          "endSec": 134.7,
+          "text": "a"
+        },
+        {
+          "startSec": 134.7,
+          "endSec": 135.1,
+          "text": "social"
+        },
+        {
+          "startSec": 135.1,
+          "endSec": 135.9,
+          "text": "enterprise"
+        },
+        {
+          "startSec": 135.9,
+          "endSec": 136.7,
+          "text": "and"
+        },
+        {
+          "startSec": 136.7,
+          "endSec": 137.6,
+          "text": "all"
+        },
+        {
+          "startSec": 137.6,
+          "endSec": 137.7,
+          "text": "of"
+        },
+        {
+          "startSec": 137.7,
+          "endSec": 137.8,
+          "text": "our"
+        },
+        {
+          "startSec": 137.8,
+          "endSec": 138.3,
+          "text": "cocoa"
+        },
+        {
+          "startSec": 138.3,
+          "endSec": 138.5,
+          "text": "is"
+        }
+      ]
+    },
+    {
+      "startSec": 138.5,
+      "endSec": 143.8,
+      "text": "already traced back to the plantation. Albert adds that they already know where the cocoa beans",
+      "words": [
+        {
+          "startSec": 138.6,
+          "endSec": 138.9,
+          "text": "already"
+        },
+        {
+          "startSec": 138.9,
+          "endSec": 139.3,
+          "text": "traced"
+        },
+        {
+          "startSec": 139.3,
+          "endSec": 139.6,
+          "text": "back"
+        },
+        {
+          "startSec": 139.6,
+          "endSec": 139.7,
+          "text": "to"
+        },
+        {
+          "startSec": 139.7,
+          "endSec": 139.9,
+          "text": "the"
+        },
+        {
+          "startSec": 139.9,
+          "endSec": 140.7,
+          "text": "plantation."
+        },
+        {
+          "startSec": 140.7,
+          "endSec": 141.1,
+          "text": "Albert"
+        },
+        {
+          "startSec": 141.1,
+          "endSec": 141.3,
+          "text": "adds"
+        },
+        {
+          "startSec": 141.3,
+          "endSec": 141.6,
+          "text": "that"
+        },
+        {
+          "startSec": 141.6,
+          "endSec": 141.8,
+          "text": "they"
+        },
+        {
+          "startSec": 141.8,
+          "endSec": 142.3,
+          "text": "already"
+        },
+        {
+          "startSec": 142.3,
+          "endSec": 142.6,
+          "text": "know"
+        },
+        {
+          "startSec": 142.6,
+          "endSec": 142.8,
+          "text": "where"
+        },
+        {
+          "startSec": 142.8,
+          "endSec": 143,
+          "text": "the"
+        },
+        {
+          "startSec": 143,
+          "endSec": 143.4,
+          "text": "cocoa"
+        },
+        {
+          "startSec": 143.4,
+          "endSec": 143.8,
+          "text": "beans"
+        },
+        {
+          "startSec": 143.8,
+          "endSec": 144.1,
+          "text": "come"
+        }
+      ]
+    },
+    {
+      "startSec": 143.8,
+      "endSec": 149.8,
+      "text": "come from as they work with farmers from co-ops or social enterprises. A co-op, in this case,",
+      "words": [
+        {
+          "startSec": 143.8,
+          "endSec": 144.1,
+          "text": "come"
+        },
+        {
+          "startSec": 144.1,
+          "endSec": 144.4,
+          "text": "from"
+        },
+        {
+          "startSec": 144.4,
+          "endSec": 144.5,
+          "text": "as"
+        },
+        {
+          "startSec": 144.5,
+          "endSec": 144.8,
+          "text": "they"
+        },
+        {
+          "startSec": 144.8,
+          "endSec": 145.1,
+          "text": "work"
+        },
+        {
+          "startSec": 145.1,
+          "endSec": 145.4,
+          "text": "with"
+        },
+        {
+          "startSec": 145.4,
+          "endSec": 146,
+          "text": "farmers"
+        },
+        {
+          "startSec": 146,
+          "endSec": 146.3,
+          "text": "from"
+        },
+        {
+          "startSec": 146.3,
+          "endSec": 146.7,
+          "text": "co-ops"
+        },
+        {
+          "startSec": 146.7,
+          "endSec": 146.9,
+          "text": "or"
+        },
+        {
+          "startSec": 146.9,
+          "endSec": 147.3,
+          "text": "social"
+        },
+        {
+          "startSec": 147.3,
+          "endSec": 148.5,
+          "text": "enterprises."
+        },
+        {
+          "startSec": 148.5,
+          "endSec": 148.6,
+          "text": "A"
+        },
+        {
+          "startSec": 148.6,
+          "endSec": 149.2,
+          "text": "co-op,"
+        },
+        {
+          "startSec": 149.2,
+          "endSec": 149.3,
+          "text": "in"
+        },
+        {
+          "startSec": 149.3,
+          "endSec": 149.5,
+          "text": "this"
+        },
+        {
+          "startSec": 149.5,
+          "endSec": 149.8,
+          "text": "case,"
+        },
+        {
+          "startSec": 149.8,
+          "endSec": 150,
+          "text": "is"
+        }
+      ]
+    },
+    {
+      "startSec": 149.8,
+      "endSec": 155.9,
+      "text": "is a farm owned by its workers. A social enterprise is a business that wants to help the community.",
+      "words": [
+        {
+          "startSec": 149.8,
+          "endSec": 150,
+          "text": "is"
+        },
+        {
+          "startSec": 150,
+          "endSec": 150.1,
+          "text": "a"
+        },
+        {
+          "startSec": 150.1,
+          "endSec": 150.4,
+          "text": "farm"
+        },
+        {
+          "startSec": 150.4,
+          "endSec": 150.8,
+          "text": "owned"
+        },
+        {
+          "startSec": 150.8,
+          "endSec": 151,
+          "text": "by"
+        },
+        {
+          "startSec": 151,
+          "endSec": 151.2,
+          "text": "its"
+        },
+        {
+          "startSec": 151.2,
+          "endSec": 152.1,
+          "text": "workers."
+        },
+        {
+          "startSec": 152.1,
+          "endSec": 152.2,
+          "text": "A"
+        },
+        {
+          "startSec": 152.2,
+          "endSec": 152.7,
+          "text": "social"
+        },
+        {
+          "startSec": 152.7,
+          "endSec": 153.5,
+          "text": "enterprise"
+        },
+        {
+          "startSec": 153.5,
+          "endSec": 153.7,
+          "text": "is"
+        },
+        {
+          "startSec": 153.7,
+          "endSec": 153.7,
+          "text": "a"
+        },
+        {
+          "startSec": 153.7,
+          "endSec": 154.5,
+          "text": "business"
+        },
+        {
+          "startSec": 154.5,
+          "endSec": 154.6,
+          "text": "that"
+        },
+        {
+          "startSec": 154.6,
+          "endSec": 154.9,
+          "text": "wants"
+        },
+        {
+          "startSec": 154.9,
+          "endSec": 155,
+          "text": "to"
+        },
+        {
+          "startSec": 155,
+          "endSec": 155.1,
+          "text": "help"
+        },
+        {
+          "startSec": 155.1,
+          "endSec": 155.3,
+          "text": "the"
+        },
+        {
+          "startSec": 155.3,
+          "endSec": 155.9,
+          "text": "community."
+        },
+        {
+          "startSec": 155.9,
+          "endSec": 156.5,
+          "text": "Because"
+        }
+      ]
+    },
+    {
+      "startSec": 155.9,
+      "endSec": 161.6,
+      "text": "Because of working with farmers who are part of these organisations, Albert says that the",
+      "words": [
+        {
+          "startSec": 155.9,
+          "endSec": 156.5,
+          "text": "Because"
+        },
+        {
+          "startSec": 156.5,
+          "endSec": 156.6,
+          "text": "of"
+        },
+        {
+          "startSec": 156.6,
+          "endSec": 157.2,
+          "text": "working"
+        },
+        {
+          "startSec": 157.2,
+          "endSec": 157.5,
+          "text": "with"
+        },
+        {
+          "startSec": 157.5,
+          "endSec": 158,
+          "text": "farmers"
+        },
+        {
+          "startSec": 158,
+          "endSec": 158.3,
+          "text": "who"
+        },
+        {
+          "startSec": 158.3,
+          "endSec": 158.5,
+          "text": "are"
+        },
+        {
+          "startSec": 158.5,
+          "endSec": 158.8,
+          "text": "part"
+        },
+        {
+          "startSec": 158.8,
+          "endSec": 159,
+          "text": "of"
+        },
+        {
+          "startSec": 159,
+          "endSec": 159.3,
+          "text": "these"
+        },
+        {
+          "startSec": 159.3,
+          "endSec": 160.6,
+          "text": "organisations,"
+        },
+        {
+          "startSec": 160.6,
+          "endSec": 161,
+          "text": "Albert"
+        },
+        {
+          "startSec": 161,
+          "endSec": 161.3,
+          "text": "says"
+        },
+        {
+          "startSec": 161.3,
+          "endSec": 161.4,
+          "text": "that"
+        },
+        {
+          "startSec": 161.4,
+          "endSec": 161.6,
+          "text": "the"
+        },
+        {
+          "startSec": 161.6,
+          "endSec": 161.9,
+          "text": "cocoa"
+        }
+      ]
+    },
+    {
+      "startSec": 161.6,
+      "endSec": 167,
+      "text": "cocoa they buy can already be traced back to the farms. To trace something back to something",
+      "words": [
+        {
+          "startSec": 161.6,
+          "endSec": 161.9,
+          "text": "cocoa"
+        },
+        {
+          "startSec": 161.9,
+          "endSec": 162.2,
+          "text": "they"
+        },
+        {
+          "startSec": 162.2,
+          "endSec": 162.4,
+          "text": "buy"
+        },
+        {
+          "startSec": 162.4,
+          "endSec": 162.6,
+          "text": "can"
+        },
+        {
+          "startSec": 162.6,
+          "endSec": 163.1,
+          "text": "already"
+        },
+        {
+          "startSec": 163.1,
+          "endSec": 163.2,
+          "text": "be"
+        },
+        {
+          "startSec": 163.2,
+          "endSec": 163.6,
+          "text": "traced"
+        },
+        {
+          "startSec": 163.6,
+          "endSec": 163.9,
+          "text": "back"
+        },
+        {
+          "startSec": 163.9,
+          "endSec": 164,
+          "text": "to"
+        },
+        {
+          "startSec": 164,
+          "endSec": 164.2,
+          "text": "the"
+        },
+        {
+          "startSec": 164.2,
+          "endSec": 164.8,
+          "text": "farms."
+        },
+        {
+          "startSec": 164.8,
+          "endSec": 164.9,
+          "text": "To"
+        },
+        {
+          "startSec": 164.9,
+          "endSec": 165.2,
+          "text": "trace"
+        },
+        {
+          "startSec": 165.2,
+          "endSec": 165.9,
+          "text": "something"
+        },
+        {
+          "startSec": 165.9,
+          "endSec": 166.1,
+          "text": "back"
+        },
+        {
+          "startSec": 166.1,
+          "endSec": 166.3,
+          "text": "to"
+        },
+        {
+          "startSec": 166.3,
+          "endSec": 167,
+          "text": "something"
+        }
+      ]
+    },
+    {
+      "startSec": 167,
+      "endSec": 171.3,
+      "text": "means to find out where something has come from. Here's Albert Smith again.",
+      "words": [
+        {
+          "startSec": 167.2,
+          "endSec": 167.4,
+          "text": "means"
+        },
+        {
+          "startSec": 167.4,
+          "endSec": 167.5,
+          "text": "to"
+        },
+        {
+          "startSec": 167.5,
+          "endSec": 167.7,
+          "text": "find"
+        },
+        {
+          "startSec": 167.7,
+          "endSec": 167.9,
+          "text": "out"
+        },
+        {
+          "startSec": 167.9,
+          "endSec": 168.2,
+          "text": "where"
+        },
+        {
+          "startSec": 168.2,
+          "endSec": 168.8,
+          "text": "something"
+        },
+        {
+          "startSec": 168.8,
+          "endSec": 169,
+          "text": "has"
+        },
+        {
+          "startSec": 169,
+          "endSec": 169.2,
+          "text": "come"
+        },
+        {
+          "startSec": 169.2,
+          "endSec": 169.7,
+          "text": "from."
+        },
+        {
+          "startSec": 169.7,
+          "endSec": 170,
+          "text": "Here's"
+        },
+        {
+          "startSec": 170,
+          "endSec": 170.4,
+          "text": "Albert"
+        },
+        {
+          "startSec": 170.4,
+          "endSec": 170.7,
+          "text": "Smith"
+        },
+        {
+          "startSec": 170.7,
+          "endSec": 171.3,
+          "text": "again."
+        },
+        {
+          "startSec": 171.3,
+          "endSec": 171.9,
+          "text": "Mapping"
+        }
+      ]
+    },
+    {
+      "startSec": 171.3,
+      "endSec": 178,
+      "text": "Mapping means that farmers have to actually provide the geolocations of their plantation",
+      "words": [
+        {
+          "startSec": 171.3,
+          "endSec": 171.9,
+          "text": "Mapping"
+        },
+        {
+          "startSec": 171.9,
+          "endSec": 172.3,
+          "text": "means"
+        },
+        {
+          "startSec": 172.3,
+          "endSec": 172.6,
+          "text": "that"
+        },
+        {
+          "startSec": 172.6,
+          "endSec": 173.1,
+          "text": "farmers"
+        },
+        {
+          "startSec": 173.1,
+          "endSec": 173.5,
+          "text": "have"
+        },
+        {
+          "startSec": 173.5,
+          "endSec": 173.6,
+          "text": "to"
+        },
+        {
+          "startSec": 173.6,
+          "endSec": 174.3,
+          "text": "actually"
+        },
+        {
+          "startSec": 174.3,
+          "endSec": 174.9,
+          "text": "provide"
+        },
+        {
+          "startSec": 174.9,
+          "endSec": 175.3,
+          "text": "the"
+        },
+        {
+          "startSec": 175.3,
+          "endSec": 176.7,
+          "text": "geolocations"
+        },
+        {
+          "startSec": 176.7,
+          "endSec": 177,
+          "text": "of"
+        },
+        {
+          "startSec": 177,
+          "endSec": 177.3,
+          "text": "their"
+        },
+        {
+          "startSec": 177.3,
+          "endSec": 178,
+          "text": "plantation"
+        },
+        {
+          "startSec": 178,
+          "endSec": 178.5,
+          "text": "and,"
+        }
+      ]
+    },
+    {
+      "startSec": 178,
+      "endSec": 185.4,
+      "text": "and, you know, for some farmers that are very remote that comes also with a challenge.",
+      "words": [
+        {
+          "startSec": 178,
+          "endSec": 178.5,
+          "text": "and,"
+        },
+        {
+          "startSec": 178.5,
+          "endSec": 178.9,
+          "text": "you"
+        },
+        {
+          "startSec": 178.9,
+          "endSec": 179.5,
+          "text": "know,"
+        },
+        {
+          "startSec": 179.5,
+          "endSec": 179.8,
+          "text": "for"
+        },
+        {
+          "startSec": 179.8,
+          "endSec": 180.2,
+          "text": "some"
+        },
+        {
+          "startSec": 180.2,
+          "endSec": 181,
+          "text": "farmers"
+        },
+        {
+          "startSec": 181,
+          "endSec": 181.4,
+          "text": "that"
+        },
+        {
+          "startSec": 181.4,
+          "endSec": 181.7,
+          "text": "are"
+        },
+        {
+          "startSec": 181.7,
+          "endSec": 182.1,
+          "text": "very"
+        },
+        {
+          "startSec": 182.1,
+          "endSec": 182.8,
+          "text": "remote"
+        },
+        {
+          "startSec": 182.8,
+          "endSec": 183.1,
+          "text": "that"
+        },
+        {
+          "startSec": 183.1,
+          "endSec": 183.6,
+          "text": "comes"
+        },
+        {
+          "startSec": 183.6,
+          "endSec": 183.9,
+          "text": "also"
+        },
+        {
+          "startSec": 183.9,
+          "endSec": 184.2,
+          "text": "with"
+        },
+        {
+          "startSec": 184.2,
+          "endSec": 184.3,
+          "text": "a"
+        },
+        {
+          "startSec": 184.3,
+          "endSec": 185.4,
+          "text": "challenge."
+        },
+        {
+          "startSec": 185.4,
+          "endSec": 185.8,
+          "text": "Albert"
+        }
+      ]
+    },
+    {
+      "startSec": 185.4,
+      "endSec": 191.1,
+      "text": "Albert suggests that giving a geolocation is difficult for some farmers as they live in remote",
+      "words": [
+        {
+          "startSec": 185.4,
+          "endSec": 185.8,
+          "text": "Albert"
+        },
+        {
+          "startSec": 185.8,
+          "endSec": 186.4,
+          "text": "suggests"
+        },
+        {
+          "startSec": 186.4,
+          "endSec": 186.7,
+          "text": "that"
+        },
+        {
+          "startSec": 186.7,
+          "endSec": 187.1,
+          "text": "giving"
+        },
+        {
+          "startSec": 187.1,
+          "endSec": 187.2,
+          "text": "a"
+        },
+        {
+          "startSec": 187.2,
+          "endSec": 188,
+          "text": "geolocation"
+        },
+        {
+          "startSec": 188,
+          "endSec": 188.1,
+          "text": "is"
+        },
+        {
+          "startSec": 188.1,
+          "endSec": 188.8,
+          "text": "difficult"
+        },
+        {
+          "startSec": 188.8,
+          "endSec": 189,
+          "text": "for"
+        },
+        {
+          "startSec": 189,
+          "endSec": 189.3,
+          "text": "some"
+        },
+        {
+          "startSec": 189.3,
+          "endSec": 189.9,
+          "text": "farmers"
+        },
+        {
+          "startSec": 189.9,
+          "endSec": 190,
+          "text": "as"
+        },
+        {
+          "startSec": 190,
+          "endSec": 190.2,
+          "text": "they"
+        },
+        {
+          "startSec": 190.2,
+          "endSec": 190.4,
+          "text": "live"
+        },
+        {
+          "startSec": 190.4,
+          "endSec": 190.6,
+          "text": "in"
+        },
+        {
+          "startSec": 190.6,
+          "endSec": 191.1,
+          "text": "remote"
+        }
+      ]
+    },
+    {
+      "startSec": 191.1,
+      "endSec": 197.3,
+      "text": "places and don't all have mobile phones. Geolocation is data taken from a special device",
+      "words": [
+        {
+          "startSec": 191.3,
+          "endSec": 191.6,
+          "text": "places"
+        },
+        {
+          "startSec": 191.6,
+          "endSec": 191.8,
+          "text": "and"
+        },
+        {
+          "startSec": 191.8,
+          "endSec": 192.2,
+          "text": "don't"
+        },
+        {
+          "startSec": 192.2,
+          "endSec": 192.5,
+          "text": "all"
+        },
+        {
+          "startSec": 192.5,
+          "endSec": 192.8,
+          "text": "have"
+        },
+        {
+          "startSec": 192.8,
+          "endSec": 193.3,
+          "text": "mobile"
+        },
+        {
+          "startSec": 193.3,
+          "endSec": 194,
+          "text": "phones."
+        },
+        {
+          "startSec": 194,
+          "endSec": 194.9,
+          "text": "Geolocation"
+        },
+        {
+          "startSec": 194.9,
+          "endSec": 195,
+          "text": "is"
+        },
+        {
+          "startSec": 195,
+          "endSec": 195.4,
+          "text": "data"
+        },
+        {
+          "startSec": 195.4,
+          "endSec": 195.8,
+          "text": "taken"
+        },
+        {
+          "startSec": 195.8,
+          "endSec": 196.1,
+          "text": "from"
+        },
+        {
+          "startSec": 196.1,
+          "endSec": 196.2,
+          "text": "a"
+        },
+        {
+          "startSec": 196.2,
+          "endSec": 196.7,
+          "text": "special"
+        },
+        {
+          "startSec": 196.7,
+          "endSec": 197.3,
+          "text": "device"
+        },
+        {
+          "startSec": 197.3,
+          "endSec": 197.7,
+          "text": "which"
+        }
+      ]
+    },
+    {
+      "startSec": 197.3,
+      "endSec": 203.5,
+      "text": "which shows exactly where something is. And the term remote means at a large distance from places",
+      "words": [
+        {
+          "startSec": 197.3,
+          "endSec": 197.7,
+          "text": "which"
+        },
+        {
+          "startSec": 197.7,
+          "endSec": 198,
+          "text": "shows"
+        },
+        {
+          "startSec": 198,
+          "endSec": 198.6,
+          "text": "exactly"
+        },
+        {
+          "startSec": 198.6,
+          "endSec": 199,
+          "text": "where"
+        },
+        {
+          "startSec": 199,
+          "endSec": 199.6,
+          "text": "something"
+        },
+        {
+          "startSec": 199.6,
+          "endSec": 200,
+          "text": "is."
+        },
+        {
+          "startSec": 200,
+          "endSec": 200.3,
+          "text": "And"
+        },
+        {
+          "startSec": 200.3,
+          "endSec": 200.5,
+          "text": "the"
+        },
+        {
+          "startSec": 200.5,
+          "endSec": 200.8,
+          "text": "term"
+        },
+        {
+          "startSec": 200.8,
+          "endSec": 201.3,
+          "text": "remote"
+        },
+        {
+          "startSec": 201.3,
+          "endSec": 201.7,
+          "text": "means"
+        },
+        {
+          "startSec": 201.7,
+          "endSec": 201.8,
+          "text": "at"
+        },
+        {
+          "startSec": 201.8,
+          "endSec": 201.9,
+          "text": "a"
+        },
+        {
+          "startSec": 201.9,
+          "endSec": 202.4,
+          "text": "large"
+        },
+        {
+          "startSec": 202.4,
+          "endSec": 202.9,
+          "text": "distance"
+        },
+        {
+          "startSec": 202.9,
+          "endSec": 203.1,
+          "text": "from"
+        },
+        {
+          "startSec": 203.1,
+          "endSec": 203.5,
+          "text": "places"
+        },
+        {
+          "startSec": 203.5,
+          "endSec": 203.9,
+          "text": "where"
+        }
+      ]
+    },
+    {
+      "startSec": 203.5,
+      "endSec": 209.4,
+      "text": "where other people live. Because of these changes, the price of chocolate might go up even more,",
+      "words": [
+        {
+          "startSec": 203.5,
+          "endSec": 203.9,
+          "text": "where"
+        },
+        {
+          "startSec": 203.9,
+          "endSec": 204.2,
+          "text": "other"
+        },
+        {
+          "startSec": 204.2,
+          "endSec": 204.6,
+          "text": "people"
+        },
+        {
+          "startSec": 204.6,
+          "endSec": 205,
+          "text": "live."
+        },
+        {
+          "startSec": 205,
+          "endSec": 205.5,
+          "text": "Because"
+        },
+        {
+          "startSec": 205.5,
+          "endSec": 205.6,
+          "text": "of"
+        },
+        {
+          "startSec": 205.6,
+          "endSec": 205.9,
+          "text": "these"
+        },
+        {
+          "startSec": 205.9,
+          "endSec": 206.6,
+          "text": "changes,"
+        },
+        {
+          "startSec": 206.6,
+          "endSec": 206.7,
+          "text": "the"
+        },
+        {
+          "startSec": 206.7,
+          "endSec": 207,
+          "text": "price"
+        },
+        {
+          "startSec": 207,
+          "endSec": 207.1,
+          "text": "of"
+        },
+        {
+          "startSec": 207.1,
+          "endSec": 207.7,
+          "text": "chocolate"
+        },
+        {
+          "startSec": 207.7,
+          "endSec": 207.9,
+          "text": "might"
+        },
+        {
+          "startSec": 207.9,
+          "endSec": 208.1,
+          "text": "go"
+        },
+        {
+          "startSec": 208.1,
+          "endSec": 208.4,
+          "text": "up"
+        },
+        {
+          "startSec": 208.4,
+          "endSec": 208.9,
+          "text": "even"
+        },
+        {
+          "startSec": 208.9,
+          "endSec": 209.4,
+          "text": "more,"
+        },
+        {
+          "startSec": 209.4,
+          "endSec": 209.7,
+          "text": "meaning"
+        }
+      ]
+    },
+    {
+      "startSec": 209.4,
+      "endSec": 213.9,
+      "text": "meaning that chocolate lovers like us could really notice the difference in our bank accounts.",
+      "words": [
+        {
+          "startSec": 209.4,
+          "endSec": 209.7,
+          "text": "meaning"
+        },
+        {
+          "startSec": 209.7,
+          "endSec": 210,
+          "text": "that"
+        },
+        {
+          "startSec": 210,
+          "endSec": 210.5,
+          "text": "chocolate"
+        },
+        {
+          "startSec": 210.5,
+          "endSec": 210.8,
+          "text": "lovers"
+        },
+        {
+          "startSec": 210.8,
+          "endSec": 211,
+          "text": "like"
+        },
+        {
+          "startSec": 211,
+          "endSec": 211.1,
+          "text": "us"
+        },
+        {
+          "startSec": 211.1,
+          "endSec": 211.4,
+          "text": "could"
+        },
+        {
+          "startSec": 211.4,
+          "endSec": 211.7,
+          "text": "really"
+        },
+        {
+          "startSec": 211.7,
+          "endSec": 212.1,
+          "text": "notice"
+        },
+        {
+          "startSec": 212.1,
+          "endSec": 212.2,
+          "text": "the"
+        },
+        {
+          "startSec": 212.2,
+          "endSec": 212.8,
+          "text": "difference"
+        },
+        {
+          "startSec": 212.8,
+          "endSec": 212.9,
+          "text": "in"
+        },
+        {
+          "startSec": 212.9,
+          "endSec": 213,
+          "text": "our"
+        },
+        {
+          "startSec": 213,
+          "endSec": 213.3,
+          "text": "bank"
+        },
+        {
+          "startSec": 213.3,
+          "endSec": 213.9,
+          "text": "accounts."
+        },
+        {
+          "startSec": 213.9,
+          "endSec": 214.6,
+          "text": "Reporter"
+        }
+      ]
+    },
+    {
+      "startSec": 213.9,
+      "endSec": 219.4,
+      "text": "Reporter Matthew Kenyon asked a chocolate lover on the street if they would pay more for their",
+      "words": [
+        {
+          "startSec": 213.9,
+          "endSec": 214.6,
+          "text": "Reporter"
+        },
+        {
+          "startSec": 214.6,
+          "endSec": 215.1,
+          "text": "Matthew"
+        },
+        {
+          "startSec": 215.1,
+          "endSec": 215.6,
+          "text": "Kenyon"
+        },
+        {
+          "startSec": 215.6,
+          "endSec": 216,
+          "text": "asked"
+        },
+        {
+          "startSec": 216,
+          "endSec": 216.1,
+          "text": "a"
+        },
+        {
+          "startSec": 216.1,
+          "endSec": 216.8,
+          "text": "chocolate"
+        },
+        {
+          "startSec": 216.8,
+          "endSec": 217.2,
+          "text": "lover"
+        },
+        {
+          "startSec": 217.2,
+          "endSec": 217.4,
+          "text": "on"
+        },
+        {
+          "startSec": 217.4,
+          "endSec": 217.6,
+          "text": "the"
+        },
+        {
+          "startSec": 217.6,
+          "endSec": 218.2,
+          "text": "street"
+        },
+        {
+          "startSec": 218.2,
+          "endSec": 218.3,
+          "text": "if"
+        },
+        {
+          "startSec": 218.3,
+          "endSec": 218.5,
+          "text": "they"
+        },
+        {
+          "startSec": 218.5,
+          "endSec": 218.7,
+          "text": "would"
+        },
+        {
+          "startSec": 218.7,
+          "endSec": 218.9,
+          "text": "pay"
+        },
+        {
+          "startSec": 218.9,
+          "endSec": 219,
+          "text": "more"
+        },
+        {
+          "startSec": 219,
+          "endSec": 219.2,
+          "text": "for"
+        },
+        {
+          "startSec": 219.2,
+          "endSec": 219.4,
+          "text": "their"
+        }
+      ]
+    },
+    {
+      "startSec": 219.4,
+      "endSec": 225.1,
+      "text": "chocolate. Absolutely I would do that because I think the normal chocolates are way too cheap.",
+      "words": [
+        {
+          "startSec": 219.5,
+          "endSec": 220.1,
+          "text": "chocolate."
+        },
+        {
+          "startSec": 220.1,
+          "endSec": 220.8,
+          "text": "Absolutely"
+        },
+        {
+          "startSec": 220.8,
+          "endSec": 220.8,
+          "text": "I"
+        },
+        {
+          "startSec": 220.8,
+          "endSec": 221.2,
+          "text": "would"
+        },
+        {
+          "startSec": 221.2,
+          "endSec": 221.3,
+          "text": "do"
+        },
+        {
+          "startSec": 221.3,
+          "endSec": 221.5,
+          "text": "that"
+        },
+        {
+          "startSec": 221.5,
+          "endSec": 222,
+          "text": "because"
+        },
+        {
+          "startSec": 222,
+          "endSec": 222,
+          "text": "I"
+        },
+        {
+          "startSec": 222,
+          "endSec": 222.4,
+          "text": "think"
+        },
+        {
+          "startSec": 222.4,
+          "endSec": 222.6,
+          "text": "the"
+        },
+        {
+          "startSec": 222.6,
+          "endSec": 222.9,
+          "text": "normal"
+        },
+        {
+          "startSec": 222.9,
+          "endSec": 223.6,
+          "text": "chocolates"
+        },
+        {
+          "startSec": 223.6,
+          "endSec": 223.8,
+          "text": "are"
+        },
+        {
+          "startSec": 223.8,
+          "endSec": 224.2,
+          "text": "way"
+        },
+        {
+          "startSec": 224.2,
+          "endSec": 224.5,
+          "text": "too"
+        },
+        {
+          "startSec": 224.5,
+          "endSec": 225.1,
+          "text": "cheap."
+        },
+        {
+          "startSec": 225.1,
+          "endSec": 225.9,
+          "text": "Definitely"
+        }
+      ]
+    },
+    {
+      "startSec": 225.1,
+      "endSec": 233.6,
+      "text": "Definitely we have to pay more because the money will go to local people to give them a better life,",
+      "words": [
+        {
+          "startSec": 225.1,
+          "endSec": 225.9,
+          "text": "Definitely"
+        },
+        {
+          "startSec": 225.9,
+          "endSec": 226.1,
+          "text": "we"
+        },
+        {
+          "startSec": 226.1,
+          "endSec": 226.4,
+          "text": "have"
+        },
+        {
+          "startSec": 226.4,
+          "endSec": 226.6,
+          "text": "to"
+        },
+        {
+          "startSec": 226.6,
+          "endSec": 226.8,
+          "text": "pay"
+        },
+        {
+          "startSec": 226.8,
+          "endSec": 227.1,
+          "text": "more"
+        },
+        {
+          "startSec": 227.1,
+          "endSec": 227.7,
+          "text": "because"
+        },
+        {
+          "startSec": 227.7,
+          "endSec": 227.9,
+          "text": "the"
+        },
+        {
+          "startSec": 227.9,
+          "endSec": 228.3,
+          "text": "money"
+        },
+        {
+          "startSec": 228.3,
+          "endSec": 228.7,
+          "text": "will"
+        },
+        {
+          "startSec": 228.7,
+          "endSec": 228.8,
+          "text": "go"
+        },
+        {
+          "startSec": 228.8,
+          "endSec": 229,
+          "text": "to"
+        },
+        {
+          "startSec": 229,
+          "endSec": 230,
+          "text": "local"
+        },
+        {
+          "startSec": 230,
+          "endSec": 231.1,
+          "text": "people"
+        },
+        {
+          "startSec": 231.1,
+          "endSec": 231.8,
+          "text": "to"
+        },
+        {
+          "startSec": 231.8,
+          "endSec": 232.6,
+          "text": "give"
+        },
+        {
+          "startSec": 232.6,
+          "endSec": 232.8,
+          "text": "them"
+        },
+        {
+          "startSec": 232.8,
+          "endSec": 233.2,
+          "text": "a"
+        },
+        {
+          "startSec": 233.2,
+          "endSec": 233.2,
+          "text": "better"
+        },
+        {
+          "startSec": 233.2,
+          "endSec": 233.6,
+          "text": "life,"
+        },
+        {
+          "startSec": 233.6,
+          "endSec": 234.1,
+          "text": "also"
+        }
+      ]
+    },
+    {
+      "startSec": 233.6,
+      "endSec": 239.9,
+      "text": "also to tackle deforestation. And he asked another chocolate lover about whether he looks at where",
+      "words": [
+        {
+          "startSec": 233.6,
+          "endSec": 234.1,
+          "text": "also"
+        },
+        {
+          "startSec": 234.1,
+          "endSec": 234.3,
+          "text": "to"
+        },
+        {
+          "startSec": 234.3,
+          "endSec": 235,
+          "text": "tackle"
+        },
+        {
+          "startSec": 235,
+          "endSec": 236.8,
+          "text": "deforestation."
+        },
+        {
+          "startSec": 236.8,
+          "endSec": 237,
+          "text": "And"
+        },
+        {
+          "startSec": 237,
+          "endSec": 237.1,
+          "text": "he"
+        },
+        {
+          "startSec": 237.1,
+          "endSec": 237.4,
+          "text": "asked"
+        },
+        {
+          "startSec": 237.4,
+          "endSec": 237.8,
+          "text": "another"
+        },
+        {
+          "startSec": 237.8,
+          "endSec": 238.3,
+          "text": "chocolate"
+        },
+        {
+          "startSec": 238.3,
+          "endSec": 238.6,
+          "text": "lover"
+        },
+        {
+          "startSec": 238.6,
+          "endSec": 238.8,
+          "text": "about"
+        },
+        {
+          "startSec": 238.8,
+          "endSec": 239.1,
+          "text": "whether"
+        },
+        {
+          "startSec": 239.1,
+          "endSec": 239.4,
+          "text": "he"
+        },
+        {
+          "startSec": 239.4,
+          "endSec": 239.6,
+          "text": "looks"
+        },
+        {
+          "startSec": 239.6,
+          "endSec": 239.7,
+          "text": "at"
+        },
+        {
+          "startSec": 239.7,
+          "endSec": 239.9,
+          "text": "where"
+        },
+        {
+          "startSec": 239.9,
+          "endSec": 240.1,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 239.9,
+      "endSec": 246.1,
+      "text": "the cocoa beans come from. For me personally, absolutely not out of principle because I wanted",
+      "words": [
+        {
+          "startSec": 239.9,
+          "endSec": 240.1,
+          "text": "the"
+        },
+        {
+          "startSec": 240.1,
+          "endSec": 240.5,
+          "text": "cocoa"
+        },
+        {
+          "startSec": 240.5,
+          "endSec": 240.9,
+          "text": "beans"
+        },
+        {
+          "startSec": 240.9,
+          "endSec": 241.2,
+          "text": "come"
+        },
+        {
+          "startSec": 241.2,
+          "endSec": 241.7,
+          "text": "from."
+        },
+        {
+          "startSec": 241.7,
+          "endSec": 241.9,
+          "text": "For"
+        },
+        {
+          "startSec": 241.9,
+          "endSec": 242,
+          "text": "me"
+        },
+        {
+          "startSec": 242,
+          "endSec": 242.9,
+          "text": "personally,"
+        },
+        {
+          "startSec": 242.9,
+          "endSec": 243.7,
+          "text": "absolutely"
+        },
+        {
+          "startSec": 243.7,
+          "endSec": 243.9,
+          "text": "not"
+        },
+        {
+          "startSec": 243.9,
+          "endSec": 244.1,
+          "text": "out"
+        },
+        {
+          "startSec": 244.1,
+          "endSec": 244.2,
+          "text": "of"
+        },
+        {
+          "startSec": 244.2,
+          "endSec": 244.9,
+          "text": "principle"
+        },
+        {
+          "startSec": 244.9,
+          "endSec": 245.5,
+          "text": "because"
+        },
+        {
+          "startSec": 245.5,
+          "endSec": 245.7,
+          "text": "I"
+        },
+        {
+          "startSec": 245.7,
+          "endSec": 246.1,
+          "text": "wanted"
+        }
+      ]
+    },
+    {
+      "startSec": 246.1,
+      "endSec": 253.1,
+      "text": "to be produced as most efficiently as possible. The cost is completely irrelevant. But on principle,",
+      "words": [
+        {
+          "startSec": 246.2,
+          "endSec": 246.2,
+          "text": "to"
+        },
+        {
+          "startSec": 246.2,
+          "endSec": 246.4,
+          "text": "be"
+        },
+        {
+          "startSec": 246.4,
+          "endSec": 246.9,
+          "text": "produced"
+        },
+        {
+          "startSec": 246.9,
+          "endSec": 247.1,
+          "text": "as"
+        },
+        {
+          "startSec": 247.1,
+          "endSec": 247.3,
+          "text": "most"
+        },
+        {
+          "startSec": 247.3,
+          "endSec": 248.1,
+          "text": "efficiently"
+        },
+        {
+          "startSec": 248.1,
+          "endSec": 248.2,
+          "text": "as"
+        },
+        {
+          "startSec": 248.2,
+          "endSec": 249,
+          "text": "possible."
+        },
+        {
+          "startSec": 249,
+          "endSec": 249.2,
+          "text": "The"
+        },
+        {
+          "startSec": 249.2,
+          "endSec": 249.4,
+          "text": "cost"
+        },
+        {
+          "startSec": 249.4,
+          "endSec": 249.6,
+          "text": "is"
+        },
+        {
+          "startSec": 249.6,
+          "endSec": 250.3,
+          "text": "completely"
+        },
+        {
+          "startSec": 250.3,
+          "endSec": 251.6,
+          "text": "irrelevant."
+        },
+        {
+          "startSec": 251.6,
+          "endSec": 252.2,
+          "text": "But"
+        },
+        {
+          "startSec": 252.2,
+          "endSec": 252.5,
+          "text": "on"
+        },
+        {
+          "startSec": 252.5,
+          "endSec": 253.1,
+          "text": "principle,"
+        },
+        {
+          "startSec": 253.1,
+          "endSec": 253.2,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 253.1,
+      "endSec": 257.8,
+      "text": "I want production to be as efficient as possible. Otherwise there's a waste of everybody's time.",
+      "words": [
+        {
+          "startSec": 253.1,
+          "endSec": 253.2,
+          "text": "I"
+        },
+        {
+          "startSec": 253.2,
+          "endSec": 253.4,
+          "text": "want"
+        },
+        {
+          "startSec": 253.4,
+          "endSec": 253.9,
+          "text": "production"
+        },
+        {
+          "startSec": 253.9,
+          "endSec": 254,
+          "text": "to"
+        },
+        {
+          "startSec": 254,
+          "endSec": 254.1,
+          "text": "be"
+        },
+        {
+          "startSec": 254.1,
+          "endSec": 254.2,
+          "text": "as"
+        },
+        {
+          "startSec": 254.2,
+          "endSec": 254.7,
+          "text": "efficient"
+        },
+        {
+          "startSec": 254.7,
+          "endSec": 254.8,
+          "text": "as"
+        },
+        {
+          "startSec": 254.8,
+          "endSec": 255.4,
+          "text": "possible."
+        },
+        {
+          "startSec": 255.4,
+          "endSec": 255.9,
+          "text": "Otherwise"
+        },
+        {
+          "startSec": 255.9,
+          "endSec": 256.3,
+          "text": "there's"
+        },
+        {
+          "startSec": 256.3,
+          "endSec": 256.3,
+          "text": "a"
+        },
+        {
+          "startSec": 256.3,
+          "endSec": 256.6,
+          "text": "waste"
+        },
+        {
+          "startSec": 256.6,
+          "endSec": 256.7,
+          "text": "of"
+        },
+        {
+          "startSec": 256.7,
+          "endSec": 257.3,
+          "text": "everybody's"
+        },
+        {
+          "startSec": 257.3,
+          "endSec": 257.8,
+          "text": "time."
+        },
+        {
+          "startSec": 257.8,
+          "endSec": 258.1,
+          "text": "Mixed"
+        }
+      ]
+    },
+    {
+      "startSec": 257.8,
+      "endSec": 262.6,
+      "text": "Mixed opinions it seems there, Becker, whilst one chocolate lover would pay more for chocolate",
+      "words": [
+        {
+          "startSec": 257.8,
+          "endSec": 258.1,
+          "text": "Mixed"
+        },
+        {
+          "startSec": 258.1,
+          "endSec": 258.6,
+          "text": "opinions"
+        },
+        {
+          "startSec": 258.6,
+          "endSec": 258.8,
+          "text": "it"
+        },
+        {
+          "startSec": 258.8,
+          "endSec": 259.1,
+          "text": "seems"
+        },
+        {
+          "startSec": 259.1,
+          "endSec": 259.5,
+          "text": "there,"
+        },
+        {
+          "startSec": 259.5,
+          "endSec": 260.1,
+          "text": "Becker,"
+        },
+        {
+          "startSec": 260.1,
+          "endSec": 260.4,
+          "text": "whilst"
+        },
+        {
+          "startSec": 260.4,
+          "endSec": 260.5,
+          "text": "one"
+        },
+        {
+          "startSec": 260.5,
+          "endSec": 261,
+          "text": "chocolate"
+        },
+        {
+          "startSec": 261,
+          "endSec": 261.3,
+          "text": "lover"
+        },
+        {
+          "startSec": 261.3,
+          "endSec": 261.5,
+          "text": "would"
+        },
+        {
+          "startSec": 261.5,
+          "endSec": 261.8,
+          "text": "pay"
+        },
+        {
+          "startSec": 261.8,
+          "endSec": 262,
+          "text": "more"
+        },
+        {
+          "startSec": 262,
+          "endSec": 262.2,
+          "text": "for"
+        },
+        {
+          "startSec": 262.2,
+          "endSec": 262.6,
+          "text": "chocolate"
+        },
+        {
+          "startSec": 262.6,
+          "endSec": 262.8,
+          "text": "to"
+        }
+      ]
+    },
+    {
+      "startSec": 262.6,
+      "endSec": 267.2,
+      "text": "to support farmers in production. The other doesn't worry too much about the cost but says",
+      "words": [
+        {
+          "startSec": 262.6,
+          "endSec": 262.8,
+          "text": "to"
+        },
+        {
+          "startSec": 262.8,
+          "endSec": 263.2,
+          "text": "support"
+        },
+        {
+          "startSec": 263.2,
+          "endSec": 263.6,
+          "text": "farmers"
+        },
+        {
+          "startSec": 263.6,
+          "endSec": 263.7,
+          "text": "in"
+        },
+        {
+          "startSec": 263.7,
+          "endSec": 264.4,
+          "text": "production."
+        },
+        {
+          "startSec": 264.4,
+          "endSec": 264.6,
+          "text": "The"
+        },
+        {
+          "startSec": 264.6,
+          "endSec": 264.9,
+          "text": "other"
+        },
+        {
+          "startSec": 264.9,
+          "endSec": 265.3,
+          "text": "doesn't"
+        },
+        {
+          "startSec": 265.3,
+          "endSec": 265.6,
+          "text": "worry"
+        },
+        {
+          "startSec": 265.6,
+          "endSec": 265.7,
+          "text": "too"
+        },
+        {
+          "startSec": 265.7,
+          "endSec": 266,
+          "text": "much"
+        },
+        {
+          "startSec": 266,
+          "endSec": 266.3,
+          "text": "about"
+        },
+        {
+          "startSec": 266.3,
+          "endSec": 266.4,
+          "text": "the"
+        },
+        {
+          "startSec": 266.4,
+          "endSec": 266.7,
+          "text": "cost"
+        },
+        {
+          "startSec": 266.7,
+          "endSec": 266.9,
+          "text": "but"
+        },
+        {
+          "startSec": 266.9,
+          "endSec": 267.2,
+          "text": "says"
+        },
+        {
+          "startSec": 267.2,
+          "endSec": 267.4,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 267.2,
+      "endSec": 274,
+      "text": "the production process should be as efficient as possible. Okay, time to answer our quiz question.",
+      "words": [
+        {
+          "startSec": 267.2,
+          "endSec": 267.4,
+          "text": "the"
+        },
+        {
+          "startSec": 267.4,
+          "endSec": 267.9,
+          "text": "production"
+        },
+        {
+          "startSec": 267.9,
+          "endSec": 268.3,
+          "text": "process"
+        },
+        {
+          "startSec": 268.3,
+          "endSec": 268.7,
+          "text": "should"
+        },
+        {
+          "startSec": 268.7,
+          "endSec": 268.8,
+          "text": "be"
+        },
+        {
+          "startSec": 268.8,
+          "endSec": 268.9,
+          "text": "as"
+        },
+        {
+          "startSec": 268.9,
+          "endSec": 269.4,
+          "text": "efficient"
+        },
+        {
+          "startSec": 269.4,
+          "endSec": 269.5,
+          "text": "as"
+        },
+        {
+          "startSec": 269.5,
+          "endSec": 270.2,
+          "text": "possible."
+        },
+        {
+          "startSec": 270.2,
+          "endSec": 270.8,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 270.8,
+          "endSec": 271.3,
+          "text": "time"
+        },
+        {
+          "startSec": 271.3,
+          "endSec": 271.5,
+          "text": "to"
+        },
+        {
+          "startSec": 271.5,
+          "endSec": 272.2,
+          "text": "answer"
+        },
+        {
+          "startSec": 272.2,
+          "endSec": 272.6,
+          "text": "our"
+        },
+        {
+          "startSec": 272.6,
+          "endSec": 273,
+          "text": "quiz"
+        },
+        {
+          "startSec": 273,
+          "endSec": 274,
+          "text": "question."
+        }
+      ]
+    },
+    {
+      "startSec": 274,
+      "endSec": 279.8,
+      "text": "Earlier I asked you how many tonnes of cocoa were imported to Europe in 2023.",
+      "words": [
+        {
+          "startSec": 274.2,
+          "endSec": 274.5,
+          "text": "Earlier"
+        },
+        {
+          "startSec": 274.5,
+          "endSec": 274.6,
+          "text": "I"
+        },
+        {
+          "startSec": 274.6,
+          "endSec": 275,
+          "text": "asked"
+        },
+        {
+          "startSec": 275,
+          "endSec": 275.2,
+          "text": "you"
+        },
+        {
+          "startSec": 275.2,
+          "endSec": 275.4,
+          "text": "how"
+        },
+        {
+          "startSec": 275.4,
+          "endSec": 275.7,
+          "text": "many"
+        },
+        {
+          "startSec": 275.7,
+          "endSec": 276.1,
+          "text": "tonnes"
+        },
+        {
+          "startSec": 276.1,
+          "endSec": 276.3,
+          "text": "of"
+        },
+        {
+          "startSec": 276.3,
+          "endSec": 276.6,
+          "text": "cocoa"
+        },
+        {
+          "startSec": 276.6,
+          "endSec": 276.9,
+          "text": "were"
+        },
+        {
+          "startSec": 276.9,
+          "endSec": 277.5,
+          "text": "imported"
+        },
+        {
+          "startSec": 277.5,
+          "endSec": 277.7,
+          "text": "to"
+        },
+        {
+          "startSec": 277.7,
+          "endSec": 278.1,
+          "text": "Europe"
+        },
+        {
+          "startSec": 278.1,
+          "endSec": 278.3,
+          "text": "in"
+        },
+        {
+          "startSec": 278.3,
+          "endSec": 279.8,
+          "text": "2023."
+        },
+        {
+          "startSec": 279.8,
+          "endSec": 280.1,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 279.8,
+      "endSec": 288,
+      "text": "And you said 500,000 tonnes. Well, Neil, I'll tell you it is 2 million tonnes.",
+      "words": [
+        {
+          "startSec": 279.8,
+          "endSec": 280.1,
+          "text": "And"
+        },
+        {
+          "startSec": 280.1,
+          "endSec": 280.3,
+          "text": "you"
+        },
+        {
+          "startSec": 280.3,
+          "endSec": 280.7,
+          "text": "said"
+        },
+        {
+          "startSec": 280.7,
+          "endSec": 282.3,
+          "text": "500,000"
+        },
+        {
+          "startSec": 282.3,
+          "endSec": 283.1,
+          "text": "tonnes."
+        },
+        {
+          "startSec": 283.1,
+          "endSec": 283.8,
+          "text": "Well,"
+        },
+        {
+          "startSec": 283.8,
+          "endSec": 284.6,
+          "text": "Neil,"
+        },
+        {
+          "startSec": 284.6,
+          "endSec": 285,
+          "text": "I'll"
+        },
+        {
+          "startSec": 285,
+          "endSec": 285.5,
+          "text": "tell"
+        },
+        {
+          "startSec": 285.5,
+          "endSec": 285.9,
+          "text": "you"
+        },
+        {
+          "startSec": 285.9,
+          "endSec": 286.1,
+          "text": "it"
+        },
+        {
+          "startSec": 286.1,
+          "endSec": 286.4,
+          "text": "is"
+        },
+        {
+          "startSec": 286.4,
+          "endSec": 286.7,
+          "text": "2"
+        },
+        {
+          "startSec": 286.7,
+          "endSec": 287.2,
+          "text": "million"
+        },
+        {
+          "startSec": 287.2,
+          "endSec": 288,
+          "text": "tonnes."
+        },
+        {
+          "startSec": 288,
+          "endSec": 288.5,
+          "text": "Wow,"
+        }
+      ]
+    },
+    {
+      "startSec": 288,
+      "endSec": 294.6,
+      "text": "Wow, well I was wrong and that really is a lot. Between us we've probably eaten a few tonnes",
+      "words": [
+        {
+          "startSec": 288,
+          "endSec": 288.5,
+          "text": "Wow,"
+        },
+        {
+          "startSec": 288.5,
+          "endSec": 288.9,
+          "text": "well"
+        },
+        {
+          "startSec": 288.9,
+          "endSec": 289,
+          "text": "I"
+        },
+        {
+          "startSec": 289,
+          "endSec": 289.3,
+          "text": "was"
+        },
+        {
+          "startSec": 289.3,
+          "endSec": 289.7,
+          "text": "wrong"
+        },
+        {
+          "startSec": 289.7,
+          "endSec": 290,
+          "text": "and"
+        },
+        {
+          "startSec": 290,
+          "endSec": 290.4,
+          "text": "that"
+        },
+        {
+          "startSec": 290.4,
+          "endSec": 291,
+          "text": "really"
+        },
+        {
+          "startSec": 291,
+          "endSec": 291.2,
+          "text": "is"
+        },
+        {
+          "startSec": 291.2,
+          "endSec": 291.3,
+          "text": "a"
+        },
+        {
+          "startSec": 291.3,
+          "endSec": 291.9,
+          "text": "lot."
+        },
+        {
+          "startSec": 291.9,
+          "endSec": 292.5,
+          "text": "Between"
+        },
+        {
+          "startSec": 292.5,
+          "endSec": 292.7,
+          "text": "us"
+        },
+        {
+          "startSec": 292.7,
+          "endSec": 293,
+          "text": "we've"
+        },
+        {
+          "startSec": 293,
+          "endSec": 293.5,
+          "text": "probably"
+        },
+        {
+          "startSec": 293.5,
+          "endSec": 293.8,
+          "text": "eaten"
+        },
+        {
+          "startSec": 293.8,
+          "endSec": 293.9,
+          "text": "a"
+        },
+        {
+          "startSec": 293.9,
+          "endSec": 294.2,
+          "text": "few"
+        },
+        {
+          "startSec": 294.2,
+          "endSec": 294.6,
+          "text": "tonnes"
+        },
+        {
+          "startSec": 294.6,
+          "endSec": 295.1,
+          "text": "already"
+        }
+      ]
+    },
+    {
+      "startSec": 294.6,
+      "endSec": 301,
+      "text": "already this year. At least, Becker. I'd be interested to know what kind of chocolate our listeners enjoy.",
+      "words": [
+        {
+          "startSec": 294.6,
+          "endSec": 295.1,
+          "text": "already"
+        },
+        {
+          "startSec": 295.1,
+          "endSec": 295.4,
+          "text": "this"
+        },
+        {
+          "startSec": 295.4,
+          "endSec": 296,
+          "text": "year."
+        },
+        {
+          "startSec": 296,
+          "endSec": 296.1,
+          "text": "At"
+        },
+        {
+          "startSec": 296.1,
+          "endSec": 296.6,
+          "text": "least,"
+        },
+        {
+          "startSec": 296.6,
+          "endSec": 297.4,
+          "text": "Becker."
+        },
+        {
+          "startSec": 297.4,
+          "endSec": 297.5,
+          "text": "I'd"
+        },
+        {
+          "startSec": 297.5,
+          "endSec": 297.6,
+          "text": "be"
+        },
+        {
+          "startSec": 297.6,
+          "endSec": 298.2,
+          "text": "interested"
+        },
+        {
+          "startSec": 298.2,
+          "endSec": 298.3,
+          "text": "to"
+        },
+        {
+          "startSec": 298.3,
+          "endSec": 298.5,
+          "text": "know"
+        },
+        {
+          "startSec": 298.5,
+          "endSec": 298.7,
+          "text": "what"
+        },
+        {
+          "startSec": 298.7,
+          "endSec": 299,
+          "text": "kind"
+        },
+        {
+          "startSec": 299,
+          "endSec": 299.1,
+          "text": "of"
+        },
+        {
+          "startSec": 299.1,
+          "endSec": 299.6,
+          "text": "chocolate"
+        },
+        {
+          "startSec": 299.6,
+          "endSec": 299.8,
+          "text": "our"
+        },
+        {
+          "startSec": 299.8,
+          "endSec": 300.2,
+          "text": "listeners"
+        },
+        {
+          "startSec": 300.2,
+          "endSec": 301,
+          "text": "enjoy."
+        }
+      ]
+    },
+    {
+      "startSec": 301,
+      "endSec": 305.6,
+      "text": "Me too, and whether they would be happy to pay more for their favourite chocolate bar.",
+      "words": [
+        {
+          "startSec": 301.1,
+          "endSec": 301.1,
+          "text": "Me"
+        },
+        {
+          "startSec": 301.1,
+          "endSec": 301.4,
+          "text": "too,"
+        },
+        {
+          "startSec": 301.4,
+          "endSec": 301.6,
+          "text": "and"
+        },
+        {
+          "startSec": 301.6,
+          "endSec": 302,
+          "text": "whether"
+        },
+        {
+          "startSec": 302,
+          "endSec": 302.2,
+          "text": "they"
+        },
+        {
+          "startSec": 302.2,
+          "endSec": 302.5,
+          "text": "would"
+        },
+        {
+          "startSec": 302.5,
+          "endSec": 302.6,
+          "text": "be"
+        },
+        {
+          "startSec": 302.6,
+          "endSec": 302.9,
+          "text": "happy"
+        },
+        {
+          "startSec": 302.9,
+          "endSec": 303.1,
+          "text": "to"
+        },
+        {
+          "startSec": 303.1,
+          "endSec": 303.2,
+          "text": "pay"
+        },
+        {
+          "startSec": 303.2,
+          "endSec": 303.5,
+          "text": "more"
+        },
+        {
+          "startSec": 303.5,
+          "endSec": 303.7,
+          "text": "for"
+        },
+        {
+          "startSec": 303.7,
+          "endSec": 304,
+          "text": "their"
+        },
+        {
+          "startSec": 304,
+          "endSec": 304.6,
+          "text": "favourite"
+        },
+        {
+          "startSec": 304.6,
+          "endSec": 305.2,
+          "text": "chocolate"
+        },
+        {
+          "startSec": 305.2,
+          "endSec": 305.6,
+          "text": "bar."
+        },
+        {
+          "startSec": 305.6,
+          "endSec": 305.9,
+          "text": "Okay,"
+        }
+      ]
+    },
+    {
+      "startSec": 305.6,
+      "endSec": 308.7,
+      "text": "Okay, let's recap some of the vocabulary from this programme.",
+      "words": [
+        {
+          "startSec": 305.6,
+          "endSec": 305.9,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 305.9,
+          "endSec": 306.2,
+          "text": "let's"
+        },
+        {
+          "startSec": 306.2,
+          "endSec": 306.5,
+          "text": "recap"
+        },
+        {
+          "startSec": 306.5,
+          "endSec": 306.7,
+          "text": "some"
+        },
+        {
+          "startSec": 306.7,
+          "endSec": 306.8,
+          "text": "of"
+        },
+        {
+          "startSec": 306.8,
+          "endSec": 307,
+          "text": "the"
+        },
+        {
+          "startSec": 307,
+          "endSec": 307.6,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 307.6,
+          "endSec": 307.8,
+          "text": "from"
+        },
+        {
+          "startSec": 307.8,
+          "endSec": 308,
+          "text": "this"
+        },
+        {
+          "startSec": 308,
+          "endSec": 308.7,
+          "text": "programme."
+        },
+        {
+          "startSec": 308.7,
+          "endSec": 309.9,
+          "text": "Deforestation"
+        }
+      ]
+    },
+    {
+      "startSec": 308.7,
+      "endSec": 313,
+      "text": "Deforestation is the process of cutting down trees.",
+      "words": [
+        {
+          "startSec": 308.7,
+          "endSec": 309.9,
+          "text": "Deforestation"
+        },
+        {
+          "startSec": 309.9,
+          "endSec": 310.1,
+          "text": "is"
+        },
+        {
+          "startSec": 310.1,
+          "endSec": 310.4,
+          "text": "the"
+        },
+        {
+          "startSec": 310.4,
+          "endSec": 311,
+          "text": "process"
+        },
+        {
+          "startSec": 311,
+          "endSec": 311.2,
+          "text": "of"
+        },
+        {
+          "startSec": 311.2,
+          "endSec": 311.9,
+          "text": "cutting"
+        },
+        {
+          "startSec": 311.9,
+          "endSec": 312.2,
+          "text": "down"
+        },
+        {
+          "startSec": 312.2,
+          "endSec": 313,
+          "text": "trees."
+        },
+        {
+          "startSec": 313,
+          "endSec": 313.2,
+          "text": "We"
+        }
+      ]
+    },
+    {
+      "startSec": 313,
+      "endSec": 316.6,
+      "text": "We heard co-op which is a farm owned by its workers.",
+      "words": [
+        {
+          "startSec": 313,
+          "endSec": 313.2,
+          "text": "We"
+        },
+        {
+          "startSec": 313.2,
+          "endSec": 313.6,
+          "text": "heard"
+        },
+        {
+          "startSec": 313.6,
+          "endSec": 314,
+          "text": "co-op"
+        },
+        {
+          "startSec": 314,
+          "endSec": 314.4,
+          "text": "which"
+        },
+        {
+          "startSec": 314.4,
+          "endSec": 314.5,
+          "text": "is"
+        },
+        {
+          "startSec": 314.5,
+          "endSec": 314.6,
+          "text": "a"
+        },
+        {
+          "startSec": 314.6,
+          "endSec": 314.9,
+          "text": "farm"
+        },
+        {
+          "startSec": 314.9,
+          "endSec": 315.3,
+          "text": "owned"
+        },
+        {
+          "startSec": 315.3,
+          "endSec": 315.5,
+          "text": "by"
+        },
+        {
+          "startSec": 315.5,
+          "endSec": 315.7,
+          "text": "its"
+        },
+        {
+          "startSec": 315.7,
+          "endSec": 316.6,
+          "text": "workers."
+        },
+        {
+          "startSec": 316.6,
+          "endSec": 316.7,
+          "text": "A"
+        }
+      ]
+    },
+    {
+      "startSec": 316.6,
+      "endSec": 320.6,
+      "text": "A social enterprise is a business that wants to help the community.",
+      "words": [
+        {
+          "startSec": 316.6,
+          "endSec": 316.7,
+          "text": "A"
+        },
+        {
+          "startSec": 316.7,
+          "endSec": 317,
+          "text": "social"
+        },
+        {
+          "startSec": 317,
+          "endSec": 317.7,
+          "text": "enterprise"
+        },
+        {
+          "startSec": 317.7,
+          "endSec": 317.8,
+          "text": "is"
+        },
+        {
+          "startSec": 317.8,
+          "endSec": 317.9,
+          "text": "a"
+        },
+        {
+          "startSec": 317.9,
+          "endSec": 318.4,
+          "text": "business"
+        },
+        {
+          "startSec": 318.4,
+          "endSec": 318.7,
+          "text": "that"
+        },
+        {
+          "startSec": 318.7,
+          "endSec": 319.1,
+          "text": "wants"
+        },
+        {
+          "startSec": 319.1,
+          "endSec": 319.2,
+          "text": "to"
+        },
+        {
+          "startSec": 319.2,
+          "endSec": 319.5,
+          "text": "help"
+        },
+        {
+          "startSec": 319.5,
+          "endSec": 319.7,
+          "text": "the"
+        },
+        {
+          "startSec": 319.7,
+          "endSec": 320.6,
+          "text": "community."
+        },
+        {
+          "startSec": 320.6,
+          "endSec": 320.7,
+          "text": "To"
+        }
+      ]
+    },
+    {
+      "startSec": 320.6,
+      "endSec": 325.4,
+      "text": "To trace something back to something is to find out where something's come from.",
+      "words": [
+        {
+          "startSec": 320.6,
+          "endSec": 320.7,
+          "text": "To"
+        },
+        {
+          "startSec": 320.7,
+          "endSec": 321.1,
+          "text": "trace"
+        },
+        {
+          "startSec": 321.1,
+          "endSec": 321.7,
+          "text": "something"
+        },
+        {
+          "startSec": 321.7,
+          "endSec": 322,
+          "text": "back"
+        },
+        {
+          "startSec": 322,
+          "endSec": 322.1,
+          "text": "to"
+        },
+        {
+          "startSec": 322.1,
+          "endSec": 322.8,
+          "text": "something"
+        },
+        {
+          "startSec": 322.8,
+          "endSec": 322.9,
+          "text": "is"
+        },
+        {
+          "startSec": 322.9,
+          "endSec": 323,
+          "text": "to"
+        },
+        {
+          "startSec": 323,
+          "endSec": 323.3,
+          "text": "find"
+        },
+        {
+          "startSec": 323.3,
+          "endSec": 323.5,
+          "text": "out"
+        },
+        {
+          "startSec": 323.5,
+          "endSec": 323.9,
+          "text": "where"
+        },
+        {
+          "startSec": 323.9,
+          "endSec": 324.6,
+          "text": "something's"
+        },
+        {
+          "startSec": 324.6,
+          "endSec": 324.9,
+          "text": "come"
+        },
+        {
+          "startSec": 324.9,
+          "endSec": 325.4,
+          "text": "from."
+        }
+      ]
+    },
+    {
+      "startSec": 325.4,
+      "endSec": 332,
+      "text": "Geolocation is data taken from a device which can show you exactly where a person or thing is.",
+      "words": [
+        {
+          "startSec": 325.5,
+          "endSec": 326.3,
+          "text": "Geolocation"
+        },
+        {
+          "startSec": 326.3,
+          "endSec": 326.4,
+          "text": "is"
+        },
+        {
+          "startSec": 326.4,
+          "endSec": 326.7,
+          "text": "data"
+        },
+        {
+          "startSec": 326.7,
+          "endSec": 327.1,
+          "text": "taken"
+        },
+        {
+          "startSec": 327.1,
+          "endSec": 327.5,
+          "text": "from"
+        },
+        {
+          "startSec": 327.5,
+          "endSec": 327.6,
+          "text": "a"
+        },
+        {
+          "startSec": 327.6,
+          "endSec": 328,
+          "text": "device"
+        },
+        {
+          "startSec": 328,
+          "endSec": 328.4,
+          "text": "which"
+        },
+        {
+          "startSec": 328.4,
+          "endSec": 328.7,
+          "text": "can"
+        },
+        {
+          "startSec": 328.7,
+          "endSec": 329,
+          "text": "show"
+        },
+        {
+          "startSec": 329,
+          "endSec": 329.2,
+          "text": "you"
+        },
+        {
+          "startSec": 329.2,
+          "endSec": 329.8,
+          "text": "exactly"
+        },
+        {
+          "startSec": 329.8,
+          "endSec": 330.2,
+          "text": "where"
+        },
+        {
+          "startSec": 330.2,
+          "endSec": 330.3,
+          "text": "a"
+        },
+        {
+          "startSec": 330.3,
+          "endSec": 330.9,
+          "text": "person"
+        },
+        {
+          "startSec": 330.9,
+          "endSec": 331,
+          "text": "or"
+        },
+        {
+          "startSec": 331,
+          "endSec": 331.4,
+          "text": "thing"
+        },
+        {
+          "startSec": 331.4,
+          "endSec": 332,
+          "text": "is."
+        },
+        {
+          "startSec": 332,
+          "endSec": 332.2,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 332,
+      "endSec": 337,
+      "text": "And finally, remote means at a large distance from places where other people live.",
+      "words": [
+        {
+          "startSec": 332,
+          "endSec": 332.2,
+          "text": "And"
+        },
+        {
+          "startSec": 332.2,
+          "endSec": 332.9,
+          "text": "finally,"
+        },
+        {
+          "startSec": 332.9,
+          "endSec": 333.3,
+          "text": "remote"
+        },
+        {
+          "startSec": 333.3,
+          "endSec": 333.7,
+          "text": "means"
+        },
+        {
+          "startSec": 333.7,
+          "endSec": 333.8,
+          "text": "at"
+        },
+        {
+          "startSec": 333.8,
+          "endSec": 333.9,
+          "text": "a"
+        },
+        {
+          "startSec": 333.9,
+          "endSec": 334.3,
+          "text": "large"
+        },
+        {
+          "startSec": 334.3,
+          "endSec": 334.9,
+          "text": "distance"
+        },
+        {
+          "startSec": 334.9,
+          "endSec": 335.1,
+          "text": "from"
+        },
+        {
+          "startSec": 335.1,
+          "endSec": 335.5,
+          "text": "places"
+        },
+        {
+          "startSec": 335.5,
+          "endSec": 335.8,
+          "text": "where"
+        },
+        {
+          "startSec": 335.8,
+          "endSec": 336.2,
+          "text": "other"
+        },
+        {
+          "startSec": 336.2,
+          "endSec": 336.6,
+          "text": "people"
+        },
+        {
+          "startSec": 336.6,
+          "endSec": 337,
+          "text": "live."
+        },
+        {
+          "startSec": 337,
+          "endSec": 337.4,
+          "text": "Once"
+        }
+      ]
+    },
+    {
+      "startSec": 337,
+      "endSec": 342.5,
+      "text": "Once again, our six minutes are up. But if you want to test your knowledge, visit our website",
+      "words": [
+        {
+          "startSec": 337,
+          "endSec": 337.4,
+          "text": "Once"
+        },
+        {
+          "startSec": 337.4,
+          "endSec": 337.9,
+          "text": "again,"
+        },
+        {
+          "startSec": 337.9,
+          "endSec": 338.1,
+          "text": "our"
+        },
+        {
+          "startSec": 338.1,
+          "endSec": 338.4,
+          "text": "six"
+        },
+        {
+          "startSec": 338.4,
+          "endSec": 338.9,
+          "text": "minutes"
+        },
+        {
+          "startSec": 338.9,
+          "endSec": 339.2,
+          "text": "are"
+        },
+        {
+          "startSec": 339.2,
+          "endSec": 339.5,
+          "text": "up."
+        },
+        {
+          "startSec": 339.5,
+          "endSec": 339.7,
+          "text": "But"
+        },
+        {
+          "startSec": 339.7,
+          "endSec": 339.8,
+          "text": "if"
+        },
+        {
+          "startSec": 339.8,
+          "endSec": 339.9,
+          "text": "you"
+        },
+        {
+          "startSec": 339.9,
+          "endSec": 340.2,
+          "text": "want"
+        },
+        {
+          "startSec": 340.2,
+          "endSec": 340.3,
+          "text": "to"
+        },
+        {
+          "startSec": 340.3,
+          "endSec": 340.5,
+          "text": "test"
+        },
+        {
+          "startSec": 340.5,
+          "endSec": 340.7,
+          "text": "your"
+        },
+        {
+          "startSec": 340.7,
+          "endSec": 341.4,
+          "text": "knowledge,"
+        },
+        {
+          "startSec": 341.4,
+          "endSec": 341.6,
+          "text": "visit"
+        },
+        {
+          "startSec": 341.6,
+          "endSec": 341.9,
+          "text": "our"
+        },
+        {
+          "startSec": 341.9,
+          "endSec": 342.5,
+          "text": "website"
+        },
+        {
+          "startSec": 342.5,
+          "endSec": 343.9,
+          "text": "bbclearningenglish.com"
+        }
+      ]
+    },
+    {
+      "startSec": 342.5,
+      "endSec": 347.5,
+      "text": "bbclearningenglish.com where you'll also find a worksheet and quiz for this episode.",
+      "words": [
+        {
+          "startSec": 342.5,
+          "endSec": 343.9,
+          "text": "bbclearningenglish.com"
+        },
+        {
+          "startSec": 343.9,
+          "endSec": 344.2,
+          "text": "where"
+        },
+        {
+          "startSec": 344.2,
+          "endSec": 344.6,
+          "text": "you'll"
+        },
+        {
+          "startSec": 344.6,
+          "endSec": 344.8,
+          "text": "also"
+        },
+        {
+          "startSec": 344.8,
+          "endSec": 345.1,
+          "text": "find"
+        },
+        {
+          "startSec": 345.1,
+          "endSec": 345.1,
+          "text": "a"
+        },
+        {
+          "startSec": 345.1,
+          "endSec": 345.8,
+          "text": "worksheet"
+        },
+        {
+          "startSec": 345.8,
+          "endSec": 345.9,
+          "text": "and"
+        },
+        {
+          "startSec": 345.9,
+          "endSec": 346.2,
+          "text": "quiz"
+        },
+        {
+          "startSec": 346.2,
+          "endSec": 346.3,
+          "text": "for"
+        },
+        {
+          "startSec": 346.3,
+          "endSec": 346.6,
+          "text": "this"
+        },
+        {
+          "startSec": 346.6,
+          "endSec": 347.5,
+          "text": "episode."
+        },
+        {
+          "startSec": 347.5,
+          "endSec": 347.8,
+          "text": "Bye,"
+        }
+      ]
+    },
+    {
+      "startSec": 347.5,
+      "endSec": 349.4,
+      "text": "Bye, see you next time. Goodbye.",
+      "words": [
+        {
+          "startSec": 347.5,
+          "endSec": 347.8,
+          "text": "Bye,"
+        },
+        {
+          "startSec": 347.8,
+          "endSec": 348,
+          "text": "see"
+        },
+        {
+          "startSec": 348,
+          "endSec": 348.1,
+          "text": "you"
+        },
+        {
+          "startSec": 348.1,
+          "endSec": 348.4,
+          "text": "next"
+        },
+        {
+          "startSec": 348.4,
+          "endSec": 348.8,
+          "text": "time."
+        },
+        {
+          "startSec": 348.8,
+          "endSec": 349.4,
+          "text": "Goodbye."
+        }
+      ]
+    }
+  ],
+  "introSec": 0
+}

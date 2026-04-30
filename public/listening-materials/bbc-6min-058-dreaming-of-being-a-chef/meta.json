@@ -1,0 +1,5352 @@
+{
+  "title": "Dreaming of being a chef",
+  "source": "BBC 6 Minute English",
+  "level": "advanced",
+  "durationSec": 368,
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
+  "audioFile": "audio.mp3",
+  "segments": [
+    {
+      "startSec": 0,
+      "endSec": 12.3,
+      "text": "Hello, this is 6 Minute English from bbclearningenglish. I'm Neil.",
+      "words": [
+        {
+          "startSec": 0.2,
+          "endSec": 1.5,
+          "text": "Hello,"
+        },
+        {
+          "startSec": 1.5,
+          "endSec": 2.3,
+          "text": "this"
+        },
+        {
+          "startSec": 2.3,
+          "endSec": 2.8,
+          "text": "is"
+        },
+        {
+          "startSec": 2.8,
+          "endSec": 3.4,
+          "text": "6"
+        },
+        {
+          "startSec": 3.4,
+          "endSec": 4.6,
+          "text": "Minute"
+        },
+        {
+          "startSec": 4.6,
+          "endSec": 6.1,
+          "text": "English"
+        },
+        {
+          "startSec": 6.1,
+          "endSec": 7,
+          "text": "from"
+        },
+        {
+          "startSec": 7,
+          "endSec": 11.5,
+          "text": "bbclearningenglish."
+        },
+        {
+          "startSec": 11.5,
+          "endSec": 11.7,
+          "text": "I'm"
+        },
+        {
+          "startSec": 11.7,
+          "endSec": 12.3,
+          "text": "Neil."
+        },
+        {
+          "startSec": 12.3,
+          "endSec": 12.5,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 12.3,
+      "endSec": 18.6,
+      "text": "And I'm Becca. Do you enjoy cooking, Neil? Yes, I do enjoy cooking. I think it's quite",
+      "words": [
+        {
+          "startSec": 12.3,
+          "endSec": 12.5,
+          "text": "And"
+        },
+        {
+          "startSec": 12.5,
+          "endSec": 12.7,
+          "text": "I'm"
+        },
+        {
+          "startSec": 12.7,
+          "endSec": 13.3,
+          "text": "Becca."
+        },
+        {
+          "startSec": 13.3,
+          "endSec": 13.5,
+          "text": "Do"
+        },
+        {
+          "startSec": 13.5,
+          "endSec": 13.7,
+          "text": "you"
+        },
+        {
+          "startSec": 13.7,
+          "endSec": 14.1,
+          "text": "enjoy"
+        },
+        {
+          "startSec": 14.1,
+          "endSec": 14.8,
+          "text": "cooking,"
+        },
+        {
+          "startSec": 14.8,
+          "endSec": 15.3,
+          "text": "Neil?"
+        },
+        {
+          "startSec": 15.3,
+          "endSec": 15.9,
+          "text": "Yes,"
+        },
+        {
+          "startSec": 15.9,
+          "endSec": 16,
+          "text": "I"
+        },
+        {
+          "startSec": 16,
+          "endSec": 16.2,
+          "text": "do"
+        },
+        {
+          "startSec": 16.2,
+          "endSec": 16.7,
+          "text": "enjoy"
+        },
+        {
+          "startSec": 16.7,
+          "endSec": 17.4,
+          "text": "cooking."
+        },
+        {
+          "startSec": 17.4,
+          "endSec": 17.5,
+          "text": "I"
+        },
+        {
+          "startSec": 17.5,
+          "endSec": 17.9,
+          "text": "think"
+        },
+        {
+          "startSec": 17.9,
+          "endSec": 18.3,
+          "text": "it's"
+        },
+        {
+          "startSec": 18.3,
+          "endSec": 18.6,
+          "text": "quite"
+        },
+        {
+          "startSec": 18.6,
+          "endSec": 19.5,
+          "text": "relaxing,"
+        }
+      ]
+    },
+    {
+      "startSec": 18.6,
+      "endSec": 24.2,
+      "text": "relaxing, especially after a busy day. How about you Becca? I enjoy cooking when I'm",
+      "words": [
+        {
+          "startSec": 18.6,
+          "endSec": 19.5,
+          "text": "relaxing,"
+        },
+        {
+          "startSec": 19.5,
+          "endSec": 20.4,
+          "text": "especially"
+        },
+        {
+          "startSec": 20.4,
+          "endSec": 20.9,
+          "text": "after"
+        },
+        {
+          "startSec": 20.9,
+          "endSec": 20.9,
+          "text": "a"
+        },
+        {
+          "startSec": 20.9,
+          "endSec": 21.3,
+          "text": "busy"
+        },
+        {
+          "startSec": 21.3,
+          "endSec": 21.9,
+          "text": "day."
+        },
+        {
+          "startSec": 21.9,
+          "endSec": 22.1,
+          "text": "How"
+        },
+        {
+          "startSec": 22.1,
+          "endSec": 22.4,
+          "text": "about"
+        },
+        {
+          "startSec": 22.4,
+          "endSec": 22.6,
+          "text": "you"
+        },
+        {
+          "startSec": 22.6,
+          "endSec": 23.1,
+          "text": "Becca?"
+        },
+        {
+          "startSec": 23.1,
+          "endSec": 23.1,
+          "text": "I"
+        },
+        {
+          "startSec": 23.1,
+          "endSec": 23.5,
+          "text": "enjoy"
+        },
+        {
+          "startSec": 23.5,
+          "endSec": 23.9,
+          "text": "cooking"
+        },
+        {
+          "startSec": 23.9,
+          "endSec": 24.2,
+          "text": "when"
+        },
+        {
+          "startSec": 24.2,
+          "endSec": 24.2,
+          "text": "I'm"
+        },
+        {
+          "startSec": 24.2,
+          "endSec": 24.8,
+          "text": "feeding"
+        }
+      ]
+    },
+    {
+      "startSec": 24.2,
+      "endSec": 29.5,
+      "text": "feeding other people, but usually after a busy day at work, I don't enjoy cooking for",
+      "words": [
+        {
+          "startSec": 24.2,
+          "endSec": 24.2,
+          "text": "I'm"
+        },
+        {
+          "startSec": 24.2,
+          "endSec": 24.8,
+          "text": "feeding"
+        },
+        {
+          "startSec": 24.8,
+          "endSec": 25.1,
+          "text": "other"
+        },
+        {
+          "startSec": 25.1,
+          "endSec": 25.7,
+          "text": "people,"
+        },
+        {
+          "startSec": 25.7,
+          "endSec": 25.9,
+          "text": "but"
+        },
+        {
+          "startSec": 25.9,
+          "endSec": 26.4,
+          "text": "usually"
+        },
+        {
+          "startSec": 26.4,
+          "endSec": 26.8,
+          "text": "after"
+        },
+        {
+          "startSec": 26.8,
+          "endSec": 26.9,
+          "text": "a"
+        },
+        {
+          "startSec": 26.9,
+          "endSec": 27.1,
+          "text": "busy"
+        },
+        {
+          "startSec": 27.1,
+          "endSec": 27.4,
+          "text": "day"
+        },
+        {
+          "startSec": 27.4,
+          "endSec": 27.5,
+          "text": "at"
+        },
+        {
+          "startSec": 27.5,
+          "endSec": 27.9,
+          "text": "work,"
+        },
+        {
+          "startSec": 27.9,
+          "endSec": 28,
+          "text": "I"
+        },
+        {
+          "startSec": 28,
+          "endSec": 28.4,
+          "text": "don't"
+        },
+        {
+          "startSec": 28.4,
+          "endSec": 28.7,
+          "text": "enjoy"
+        },
+        {
+          "startSec": 28.7,
+          "endSec": 29.3,
+          "text": "cooking"
+        },
+        {
+          "startSec": 29.3,
+          "endSec": 29.5,
+          "text": "for"
+        }
+      ]
+    },
+    {
+      "startSec": 29.5,
+      "endSec": 35.6,
+      "text": "myself. Well, we're talking about cooking today, and most of us can at least boil an",
+      "words": [
+        {
+          "startSec": 29.6,
+          "endSec": 30.5,
+          "text": "myself."
+        },
+        {
+          "startSec": 30.5,
+          "endSec": 31,
+          "text": "Well,"
+        },
+        {
+          "startSec": 31,
+          "endSec": 31.5,
+          "text": "we're"
+        },
+        {
+          "startSec": 31.5,
+          "endSec": 32.1,
+          "text": "talking"
+        },
+        {
+          "startSec": 32.1,
+          "endSec": 32.5,
+          "text": "about"
+        },
+        {
+          "startSec": 32.5,
+          "endSec": 33.1,
+          "text": "cooking"
+        },
+        {
+          "startSec": 33.1,
+          "endSec": 33.7,
+          "text": "today,"
+        },
+        {
+          "startSec": 33.7,
+          "endSec": 33.8,
+          "text": "and"
+        },
+        {
+          "startSec": 33.8,
+          "endSec": 34.1,
+          "text": "most"
+        },
+        {
+          "startSec": 34.1,
+          "endSec": 34.2,
+          "text": "of"
+        },
+        {
+          "startSec": 34.2,
+          "endSec": 34.4,
+          "text": "us"
+        },
+        {
+          "startSec": 34.4,
+          "endSec": 34.6,
+          "text": "can"
+        },
+        {
+          "startSec": 34.6,
+          "endSec": 34.8,
+          "text": "at"
+        },
+        {
+          "startSec": 34.8,
+          "endSec": 35.1,
+          "text": "least"
+        },
+        {
+          "startSec": 35.1,
+          "endSec": 35.4,
+          "text": "boil"
+        },
+        {
+          "startSec": 35.4,
+          "endSec": 35.6,
+          "text": "an"
+        },
+        {
+          "startSec": 35.6,
+          "endSec": 36,
+          "text": "egg,"
+        }
+      ]
+    },
+    {
+      "startSec": 35.6,
+      "endSec": 39.9,
+      "text": "egg, but not everyone could make it as a professional chef in a world-famous",
+      "words": [
+        {
+          "startSec": 35.6,
+          "endSec": 36,
+          "text": "egg,"
+        },
+        {
+          "startSec": 36,
+          "endSec": 36.2,
+          "text": "but"
+        },
+        {
+          "startSec": 36.2,
+          "endSec": 36.4,
+          "text": "not"
+        },
+        {
+          "startSec": 36.4,
+          "endSec": 36.9,
+          "text": "everyone"
+        },
+        {
+          "startSec": 36.9,
+          "endSec": 37.2,
+          "text": "could"
+        },
+        {
+          "startSec": 37.2,
+          "endSec": 37.5,
+          "text": "make"
+        },
+        {
+          "startSec": 37.5,
+          "endSec": 37.6,
+          "text": "it"
+        },
+        {
+          "startSec": 37.6,
+          "endSec": 37.8,
+          "text": "as"
+        },
+        {
+          "startSec": 37.8,
+          "endSec": 37.8,
+          "text": "a"
+        },
+        {
+          "startSec": 37.8,
+          "endSec": 38.6,
+          "text": "professional"
+        },
+        {
+          "startSec": 38.6,
+          "endSec": 38.9,
+          "text": "chef"
+        },
+        {
+          "startSec": 38.9,
+          "endSec": 39,
+          "text": "in"
+        },
+        {
+          "startSec": 39,
+          "endSec": 39.1,
+          "text": "a"
+        },
+        {
+          "startSec": 39.1,
+          "endSec": 39.9,
+          "text": "world-famous"
+        },
+        {
+          "startSec": 39.9,
+          "endSec": 41,
+          "text": "restaurant."
+        }
+      ]
+    },
+    {
+      "startSec": 39.9,
+      "endSec": 47.7,
+      "text": "restaurant. Being a top chef requires passion, dedication and hard work. Many chefs work 15",
+      "words": [
+        {
+          "startSec": 39.9,
+          "endSec": 41,
+          "text": "restaurant."
+        },
+        {
+          "startSec": 41,
+          "endSec": 41.4,
+          "text": "Being"
+        },
+        {
+          "startSec": 41.4,
+          "endSec": 41.5,
+          "text": "a"
+        },
+        {
+          "startSec": 41.5,
+          "endSec": 41.8,
+          "text": "top"
+        },
+        {
+          "startSec": 41.8,
+          "endSec": 42.1,
+          "text": "chef"
+        },
+        {
+          "startSec": 42.1,
+          "endSec": 42.8,
+          "text": "requires"
+        },
+        {
+          "startSec": 42.8,
+          "endSec": 43.6,
+          "text": "passion,"
+        },
+        {
+          "startSec": 43.6,
+          "endSec": 44.7,
+          "text": "dedication"
+        },
+        {
+          "startSec": 44.7,
+          "endSec": 44.9,
+          "text": "and"
+        },
+        {
+          "startSec": 44.9,
+          "endSec": 45.3,
+          "text": "hard"
+        },
+        {
+          "startSec": 45.3,
+          "endSec": 45.9,
+          "text": "work."
+        },
+        {
+          "startSec": 45.9,
+          "endSec": 46.4,
+          "text": "Many"
+        },
+        {
+          "startSec": 46.4,
+          "endSec": 46.8,
+          "text": "chefs"
+        },
+        {
+          "startSec": 46.8,
+          "endSec": 47.2,
+          "text": "work"
+        },
+        {
+          "startSec": 47.2,
+          "endSec": 47.7,
+          "text": "15"
+        },
+        {
+          "startSec": 47.7,
+          "endSec": 48.1,
+          "text": "hours"
+        }
+      ]
+    },
+    {
+      "startSec": 47.7,
+      "endSec": 52.5,
+      "text": "hours a day, six days a week, and busy kitchens cooking expensive food are very",
+      "words": [
+        {
+          "startSec": 47.7,
+          "endSec": 48.1,
+          "text": "hours"
+        },
+        {
+          "startSec": 48.1,
+          "endSec": 48.1,
+          "text": "a"
+        },
+        {
+          "startSec": 48.1,
+          "endSec": 48.5,
+          "text": "day,"
+        },
+        {
+          "startSec": 48.5,
+          "endSec": 48.7,
+          "text": "six"
+        },
+        {
+          "startSec": 48.7,
+          "endSec": 48.9,
+          "text": "days"
+        },
+        {
+          "startSec": 48.9,
+          "endSec": 49,
+          "text": "a"
+        },
+        {
+          "startSec": 49,
+          "endSec": 49.4,
+          "text": "week,"
+        },
+        {
+          "startSec": 49.4,
+          "endSec": 49.6,
+          "text": "and"
+        },
+        {
+          "startSec": 49.6,
+          "endSec": 49.9,
+          "text": "busy"
+        },
+        {
+          "startSec": 49.9,
+          "endSec": 50.4,
+          "text": "kitchens"
+        },
+        {
+          "startSec": 50.4,
+          "endSec": 50.9,
+          "text": "cooking"
+        },
+        {
+          "startSec": 50.9,
+          "endSec": 51.5,
+          "text": "expensive"
+        },
+        {
+          "startSec": 51.5,
+          "endSec": 51.8,
+          "text": "food"
+        },
+        {
+          "startSec": 51.8,
+          "endSec": 52.1,
+          "text": "are"
+        },
+        {
+          "startSec": 52.1,
+          "endSec": 52.5,
+          "text": "very"
+        },
+        {
+          "startSec": 52.5,
+          "endSec": 53,
+          "text": "stressful"
+        }
+      ]
+    },
+    {
+      "startSec": 52.5,
+      "endSec": 58,
+      "text": "stressful places to work. So, why do they do it? In this episode, we'll hear from",
+      "words": [
+        {
+          "startSec": 52.5,
+          "endSec": 53,
+          "text": "stressful"
+        },
+        {
+          "startSec": 53,
+          "endSec": 53.4,
+          "text": "places"
+        },
+        {
+          "startSec": 53.4,
+          "endSec": 53.5,
+          "text": "to"
+        },
+        {
+          "startSec": 53.5,
+          "endSec": 54,
+          "text": "work."
+        },
+        {
+          "startSec": 54,
+          "endSec": 54.5,
+          "text": "So,"
+        },
+        {
+          "startSec": 54.5,
+          "endSec": 54.8,
+          "text": "why"
+        },
+        {
+          "startSec": 54.8,
+          "endSec": 55,
+          "text": "do"
+        },
+        {
+          "startSec": 55,
+          "endSec": 55.5,
+          "text": "they"
+        },
+        {
+          "startSec": 55.5,
+          "endSec": 55.7,
+          "text": "do"
+        },
+        {
+          "startSec": 55.7,
+          "endSec": 56.3,
+          "text": "it?"
+        },
+        {
+          "startSec": 56.3,
+          "endSec": 56.5,
+          "text": "In"
+        },
+        {
+          "startSec": 56.5,
+          "endSec": 56.7,
+          "text": "this"
+        },
+        {
+          "startSec": 56.7,
+          "endSec": 57.4,
+          "text": "episode,"
+        },
+        {
+          "startSec": 57.4,
+          "endSec": 57.7,
+          "text": "we'll"
+        },
+        {
+          "startSec": 57.7,
+          "endSec": 57.8,
+          "text": "hear"
+        },
+        {
+          "startSec": 57.8,
+          "endSec": 58,
+          "text": "from"
+        }
+      ]
+    },
+    {
+      "startSec": 58,
+      "endSec": 62.2,
+      "text": "one South African chef who started her own award-winning restaurant in the",
+      "words": [
+        {
+          "startSec": 58.1,
+          "endSec": 58.2,
+          "text": "one"
+        },
+        {
+          "startSec": 58.2,
+          "endSec": 58.6,
+          "text": "South"
+        },
+        {
+          "startSec": 58.6,
+          "endSec": 59.1,
+          "text": "African"
+        },
+        {
+          "startSec": 59.1,
+          "endSec": 59.3,
+          "text": "chef"
+        },
+        {
+          "startSec": 59.3,
+          "endSec": 59.5,
+          "text": "who"
+        },
+        {
+          "startSec": 59.5,
+          "endSec": 60,
+          "text": "started"
+        },
+        {
+          "startSec": 60,
+          "endSec": 60.2,
+          "text": "her"
+        },
+        {
+          "startSec": 60.2,
+          "endSec": 60.4,
+          "text": "own"
+        },
+        {
+          "startSec": 60.4,
+          "endSec": 61.3,
+          "text": "award-winning"
+        },
+        {
+          "startSec": 61.3,
+          "endSec": 61.9,
+          "text": "restaurant"
+        },
+        {
+          "startSec": 61.9,
+          "endSec": 62,
+          "text": "in"
+        },
+        {
+          "startSec": 62,
+          "endSec": 62.2,
+          "text": "the"
+        },
+        {
+          "startSec": 62.2,
+          "endSec": 62.8,
+          "text": "country"
+        }
+      ]
+    },
+    {
+      "startSec": 62.2,
+      "endSec": 67.6,
+      "text": "country known as the home of fine dining, France. As usual, we'll be learning some",
+      "words": [
+        {
+          "startSec": 62.2,
+          "endSec": 62.8,
+          "text": "country"
+        },
+        {
+          "startSec": 62.8,
+          "endSec": 63.2,
+          "text": "known"
+        },
+        {
+          "startSec": 63.2,
+          "endSec": 63.3,
+          "text": "as"
+        },
+        {
+          "startSec": 63.3,
+          "endSec": 63.6,
+          "text": "the"
+        },
+        {
+          "startSec": 63.6,
+          "endSec": 63.9,
+          "text": "home"
+        },
+        {
+          "startSec": 63.9,
+          "endSec": 64.1,
+          "text": "of"
+        },
+        {
+          "startSec": 64.1,
+          "endSec": 64.4,
+          "text": "fine"
+        },
+        {
+          "startSec": 64.4,
+          "endSec": 65,
+          "text": "dining,"
+        },
+        {
+          "startSec": 65,
+          "endSec": 65.8,
+          "text": "France."
+        },
+        {
+          "startSec": 65.8,
+          "endSec": 65.9,
+          "text": "As"
+        },
+        {
+          "startSec": 65.9,
+          "endSec": 66.5,
+          "text": "usual,"
+        },
+        {
+          "startSec": 66.5,
+          "endSec": 66.9,
+          "text": "we'll"
+        },
+        {
+          "startSec": 66.9,
+          "endSec": 67.1,
+          "text": "be"
+        },
+        {
+          "startSec": 67.1,
+          "endSec": 67.4,
+          "text": "learning"
+        },
+        {
+          "startSec": 67.4,
+          "endSec": 67.6,
+          "text": "some"
+        },
+        {
+          "startSec": 67.6,
+          "endSec": 68,
+          "text": "useful"
+        }
+      ]
+    },
+    {
+      "startSec": 67.6,
+      "endSec": 72.4,
+      "text": "useful new words and phrases, and remember, you'll find all this episode's vocabulary,",
+      "words": [
+        {
+          "startSec": 67.6,
+          "endSec": 68,
+          "text": "useful"
+        },
+        {
+          "startSec": 68,
+          "endSec": 68.2,
+          "text": "new"
+        },
+        {
+          "startSec": 68.2,
+          "endSec": 68.5,
+          "text": "words"
+        },
+        {
+          "startSec": 68.5,
+          "endSec": 68.7,
+          "text": "and"
+        },
+        {
+          "startSec": 68.7,
+          "endSec": 69.3,
+          "text": "phrases,"
+        },
+        {
+          "startSec": 69.3,
+          "endSec": 69.4,
+          "text": "and"
+        },
+        {
+          "startSec": 69.4,
+          "endSec": 70.1,
+          "text": "remember,"
+        },
+        {
+          "startSec": 70.1,
+          "endSec": 70.5,
+          "text": "you'll"
+        },
+        {
+          "startSec": 70.5,
+          "endSec": 70.7,
+          "text": "find"
+        },
+        {
+          "startSec": 70.7,
+          "endSec": 70.9,
+          "text": "all"
+        },
+        {
+          "startSec": 70.9,
+          "endSec": 71.2,
+          "text": "this"
+        },
+        {
+          "startSec": 71.2,
+          "endSec": 71.8,
+          "text": "episode's"
+        },
+        {
+          "startSec": 71.8,
+          "endSec": 72.4,
+          "text": "vocabulary,"
+        },
+        {
+          "startSec": 72.4,
+          "endSec": 72.8,
+          "text": "along"
+        }
+      ]
+    },
+    {
+      "startSec": 72.4,
+      "endSec": 78.4,
+      "text": "along with the transcript, on our website, bbclearningenglish.com. But first, I have a",
+      "words": [
+        {
+          "startSec": 72.4,
+          "endSec": 72.8,
+          "text": "along"
+        },
+        {
+          "startSec": 72.8,
+          "endSec": 73.1,
+          "text": "with"
+        },
+        {
+          "startSec": 73.1,
+          "endSec": 73.3,
+          "text": "the"
+        },
+        {
+          "startSec": 73.3,
+          "endSec": 74.2,
+          "text": "transcript,"
+        },
+        {
+          "startSec": 74.2,
+          "endSec": 74.3,
+          "text": "on"
+        },
+        {
+          "startSec": 74.3,
+          "endSec": 74.5,
+          "text": "our"
+        },
+        {
+          "startSec": 74.5,
+          "endSec": 75.2,
+          "text": "website,"
+        },
+        {
+          "startSec": 75.2,
+          "endSec": 77.2,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 77.2,
+          "endSec": 77.5,
+          "text": "But"
+        },
+        {
+          "startSec": 77.5,
+          "endSec": 77.8,
+          "text": "first,"
+        },
+        {
+          "startSec": 77.8,
+          "endSec": 78.2,
+          "text": "I"
+        },
+        {
+          "startSec": 78.2,
+          "endSec": 78.4,
+          "text": "have"
+        },
+        {
+          "startSec": 78.4,
+          "endSec": 78.4,
+          "text": "a"
+        },
+        {
+          "startSec": 78.4,
+          "endSec": 78.9,
+          "text": "question"
+        }
+      ]
+    },
+    {
+      "startSec": 78.4,
+      "endSec": 82.8,
+      "text": "question for you, Neil. The top price for any professional chef are Michelin stars,",
+      "words": [
+        {
+          "startSec": 78.4,
+          "endSec": 78.4,
+          "text": "a"
+        },
+        {
+          "startSec": 78.4,
+          "endSec": 78.9,
+          "text": "question"
+        },
+        {
+          "startSec": 78.9,
+          "endSec": 79.1,
+          "text": "for"
+        },
+        {
+          "startSec": 79.1,
+          "endSec": 79.4,
+          "text": "you,"
+        },
+        {
+          "startSec": 79.4,
+          "endSec": 79.8,
+          "text": "Neil."
+        },
+        {
+          "startSec": 79.8,
+          "endSec": 80,
+          "text": "The"
+        },
+        {
+          "startSec": 80,
+          "endSec": 80.2,
+          "text": "top"
+        },
+        {
+          "startSec": 80.2,
+          "endSec": 80.5,
+          "text": "price"
+        },
+        {
+          "startSec": 80.5,
+          "endSec": 80.7,
+          "text": "for"
+        },
+        {
+          "startSec": 80.7,
+          "endSec": 80.8,
+          "text": "any"
+        },
+        {
+          "startSec": 80.8,
+          "endSec": 81.6,
+          "text": "professional"
+        },
+        {
+          "startSec": 81.6,
+          "endSec": 81.8,
+          "text": "chef"
+        },
+        {
+          "startSec": 81.8,
+          "endSec": 82,
+          "text": "are"
+        },
+        {
+          "startSec": 82,
+          "endSec": 82.5,
+          "text": "Michelin"
+        },
+        {
+          "startSec": 82.5,
+          "endSec": 82.8,
+          "text": "stars,"
+        },
+        {
+          "startSec": 82.8,
+          "endSec": 83.2,
+          "text": "awards"
+        }
+      ]
+    },
+    {
+      "startSec": 82.8,
+      "endSec": 87.7,
+      "text": "awards given to restaurants offering outstanding cooking, but who is the",
+      "words": [
+        {
+          "startSec": 82.8,
+          "endSec": 83.2,
+          "text": "awards"
+        },
+        {
+          "startSec": 83.2,
+          "endSec": 83.6,
+          "text": "given"
+        },
+        {
+          "startSec": 83.6,
+          "endSec": 83.7,
+          "text": "to"
+        },
+        {
+          "startSec": 83.7,
+          "endSec": 84.6,
+          "text": "restaurants"
+        },
+        {
+          "startSec": 84.6,
+          "endSec": 85.1,
+          "text": "offering"
+        },
+        {
+          "startSec": 85.1,
+          "endSec": 86,
+          "text": "outstanding"
+        },
+        {
+          "startSec": 86,
+          "endSec": 86.6,
+          "text": "cooking,"
+        },
+        {
+          "startSec": 86.6,
+          "endSec": 87,
+          "text": "but"
+        },
+        {
+          "startSec": 87,
+          "endSec": 87.3,
+          "text": "who"
+        },
+        {
+          "startSec": 87.3,
+          "endSec": 87.6,
+          "text": "is"
+        },
+        {
+          "startSec": 87.6,
+          "endSec": 87.7,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 87.7,
+      "endSec": 94.7,
+      "text": "winner of the most Michelin stars ever? Is it A) Italian chef Enrico Bartolini, B)",
+      "words": [
+        {
+          "startSec": 87.8,
+          "endSec": 88.2,
+          "text": "winner"
+        },
+        {
+          "startSec": 88.2,
+          "endSec": 88.3,
+          "text": "of"
+        },
+        {
+          "startSec": 88.3,
+          "endSec": 88.6,
+          "text": "the"
+        },
+        {
+          "startSec": 88.6,
+          "endSec": 88.9,
+          "text": "most"
+        },
+        {
+          "startSec": 88.9,
+          "endSec": 89.5,
+          "text": "Michelin"
+        },
+        {
+          "startSec": 89.5,
+          "endSec": 89.9,
+          "text": "stars"
+        },
+        {
+          "startSec": 89.9,
+          "endSec": 90.5,
+          "text": "ever?"
+        },
+        {
+          "startSec": 90.5,
+          "endSec": 90.8,
+          "text": "Is"
+        },
+        {
+          "startSec": 90.8,
+          "endSec": 91.1,
+          "text": "it"
+        },
+        {
+          "startSec": 91.1,
+          "endSec": 91.3,
+          "text": "A)"
+        },
+        {
+          "startSec": 91.3,
+          "endSec": 92,
+          "text": "Italian"
+        },
+        {
+          "startSec": 92,
+          "endSec": 92.4,
+          "text": "chef"
+        },
+        {
+          "startSec": 92.4,
+          "endSec": 93.1,
+          "text": "Enrico"
+        },
+        {
+          "startSec": 93.1,
+          "endSec": 94.4,
+          "text": "Bartolini,"
+        },
+        {
+          "startSec": 94.4,
+          "endSec": 94.7,
+          "text": "B)"
+        },
+        {
+          "startSec": 94.7,
+          "endSec": 98.2,
+          "text": "French"
+        }
+      ]
+    },
+    {
+      "startSec": 94.7,
+      "endSec": 101.9,
+      "text": "French chef Chaudelle Rubochon, or C) British chef Gordon Ramsay? I'm gonna say A)",
+      "words": [
+        {
+          "startSec": 94.7,
+          "endSec": 98.2,
+          "text": "French"
+        },
+        {
+          "startSec": 98.2,
+          "endSec": 100.5,
+          "text": "chef"
+        },
+        {
+          "startSec": 100.5,
+          "endSec": 101.7,
+          "text": "Chaudelle"
+        },
+        {
+          "startSec": 101.7,
+          "endSec": 101.7,
+          "text": "Rubochon,"
+        },
+        {
+          "startSec": 101.7,
+          "endSec": 101.7,
+          "text": "or"
+        },
+        {
+          "startSec": 101.7,
+          "endSec": 101.7,
+          "text": "C)"
+        },
+        {
+          "startSec": 101.7,
+          "endSec": 101.7,
+          "text": "British"
+        },
+        {
+          "startSec": 101.7,
+          "endSec": 101.8,
+          "text": "chef"
+        },
+        {
+          "startSec": 101.8,
+          "endSec": 101.8,
+          "text": "Gordon"
+        },
+        {
+          "startSec": 101.8,
+          "endSec": 101.8,
+          "text": "Ramsay?"
+        },
+        {
+          "startSec": 101.8,
+          "endSec": 101.8,
+          "text": "I'm"
+        },
+        {
+          "startSec": 101.8,
+          "endSec": 101.8,
+          "text": "gonna"
+        },
+        {
+          "startSec": 101.8,
+          "endSec": 101.8,
+          "text": "say"
+        },
+        {
+          "startSec": 101.8,
+          "endSec": 101.9,
+          "text": "A)"
+        },
+        {
+          "startSec": 101.9,
+          "endSec": 102.1,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 101.9,
+      "endSec": 107.2,
+      "text": "the Italian chef Enrico Bartolini, because I went to Italy recently, and the food was",
+      "words": [
+        {
+          "startSec": 101.9,
+          "endSec": 102.1,
+          "text": "the"
+        },
+        {
+          "startSec": 102.1,
+          "endSec": 102.8,
+          "text": "Italian"
+        },
+        {
+          "startSec": 102.8,
+          "endSec": 103.1,
+          "text": "chef"
+        },
+        {
+          "startSec": 103.1,
+          "endSec": 103.6,
+          "text": "Enrico"
+        },
+        {
+          "startSec": 103.6,
+          "endSec": 104.6,
+          "text": "Bartolini,"
+        },
+        {
+          "startSec": 104.6,
+          "endSec": 105,
+          "text": "because"
+        },
+        {
+          "startSec": 105,
+          "endSec": 105,
+          "text": "I"
+        },
+        {
+          "startSec": 105,
+          "endSec": 105.3,
+          "text": "went"
+        },
+        {
+          "startSec": 105.3,
+          "endSec": 105.4,
+          "text": "to"
+        },
+        {
+          "startSec": 105.4,
+          "endSec": 105.7,
+          "text": "Italy"
+        },
+        {
+          "startSec": 105.7,
+          "endSec": 106.2,
+          "text": "recently,"
+        },
+        {
+          "startSec": 106.2,
+          "endSec": 106.4,
+          "text": "and"
+        },
+        {
+          "startSec": 106.4,
+          "endSec": 106.6,
+          "text": "the"
+        },
+        {
+          "startSec": 106.6,
+          "endSec": 107,
+          "text": "food"
+        },
+        {
+          "startSec": 107,
+          "endSec": 107.2,
+          "text": "was"
+        },
+        {
+          "startSec": 107.2,
+          "endSec": 108.1,
+          "text": "amazing."
+        }
+      ]
+    },
+    {
+      "startSec": 107.2,
+      "endSec": 113.4,
+      "text": "amazing. Okay, we'll find out the answer later in this episode. Born in South",
+      "words": [
+        {
+          "startSec": 107.2,
+          "endSec": 108.1,
+          "text": "amazing."
+        },
+        {
+          "startSec": 108.1,
+          "endSec": 108.5,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 108.5,
+          "endSec": 108.9,
+          "text": "we'll"
+        },
+        {
+          "startSec": 108.9,
+          "endSec": 109.3,
+          "text": "find"
+        },
+        {
+          "startSec": 109.3,
+          "endSec": 109.5,
+          "text": "out"
+        },
+        {
+          "startSec": 109.5,
+          "endSec": 109.8,
+          "text": "the"
+        },
+        {
+          "startSec": 109.8,
+          "endSec": 110.2,
+          "text": "answer"
+        },
+        {
+          "startSec": 110.2,
+          "endSec": 110.7,
+          "text": "later"
+        },
+        {
+          "startSec": 110.7,
+          "endSec": 110.9,
+          "text": "in"
+        },
+        {
+          "startSec": 110.9,
+          "endSec": 111.1,
+          "text": "this"
+        },
+        {
+          "startSec": 111.1,
+          "endSec": 112.4,
+          "text": "episode."
+        },
+        {
+          "startSec": 112.4,
+          "endSec": 112.9,
+          "text": "Born"
+        },
+        {
+          "startSec": 112.9,
+          "endSec": 113.1,
+          "text": "in"
+        },
+        {
+          "startSec": 113.1,
+          "endSec": 113.4,
+          "text": "South"
+        }
+      ]
+    },
+    {
+      "startSec": 113.4,
+      "endSec": 118.7,
+      "text": "Africa, Chef Chaudelle Dottnall started her culinary career at a three Michelin",
+      "words": [
+        {
+          "startSec": 113.5,
+          "endSec": 114,
+          "text": "Africa,"
+        },
+        {
+          "startSec": 114,
+          "endSec": 114.3,
+          "text": "Chef"
+        },
+        {
+          "startSec": 114.3,
+          "endSec": 115.1,
+          "text": "Chaudelle"
+        },
+        {
+          "startSec": 115.1,
+          "endSec": 115.7,
+          "text": "Dottnall"
+        },
+        {
+          "startSec": 115.7,
+          "endSec": 116.3,
+          "text": "started"
+        },
+        {
+          "startSec": 116.3,
+          "endSec": 116.5,
+          "text": "her"
+        },
+        {
+          "startSec": 116.5,
+          "endSec": 117.2,
+          "text": "culinary"
+        },
+        {
+          "startSec": 117.2,
+          "endSec": 117.6,
+          "text": "career"
+        },
+        {
+          "startSec": 117.6,
+          "endSec": 117.8,
+          "text": "at"
+        },
+        {
+          "startSec": 117.8,
+          "endSec": 117.9,
+          "text": "a"
+        },
+        {
+          "startSec": 117.9,
+          "endSec": 118.3,
+          "text": "three"
+        },
+        {
+          "startSec": 118.3,
+          "endSec": 118.7,
+          "text": "Michelin"
+        },
+        {
+          "startSec": 118.7,
+          "endSec": 119,
+          "text": "star"
+        }
+      ]
+    },
+    {
+      "startSec": 118.7,
+      "endSec": 123.8,
+      "text": "star restaurant in the exclusive Mayfair area of London. Here, she tells Ruth",
+      "words": [
+        {
+          "startSec": 118.7,
+          "endSec": 119,
+          "text": "star"
+        },
+        {
+          "startSec": 119,
+          "endSec": 119.6,
+          "text": "restaurant"
+        },
+        {
+          "startSec": 119.6,
+          "endSec": 119.7,
+          "text": "in"
+        },
+        {
+          "startSec": 119.7,
+          "endSec": 119.9,
+          "text": "the"
+        },
+        {
+          "startSec": 119.9,
+          "endSec": 120.5,
+          "text": "exclusive"
+        },
+        {
+          "startSec": 120.5,
+          "endSec": 120.9,
+          "text": "Mayfair"
+        },
+        {
+          "startSec": 120.9,
+          "endSec": 121.2,
+          "text": "area"
+        },
+        {
+          "startSec": 121.2,
+          "endSec": 121.3,
+          "text": "of"
+        },
+        {
+          "startSec": 121.3,
+          "endSec": 121.9,
+          "text": "London."
+        },
+        {
+          "startSec": 121.9,
+          "endSec": 122.6,
+          "text": "Here,"
+        },
+        {
+          "startSec": 122.6,
+          "endSec": 122.9,
+          "text": "she"
+        },
+        {
+          "startSec": 122.9,
+          "endSec": 123.5,
+          "text": "tells"
+        },
+        {
+          "startSec": 123.5,
+          "endSec": 123.8,
+          "text": "Ruth"
+        },
+        {
+          "startSec": 123.8,
+          "endSec": 124.5,
+          "text": "Alexander,"
+        }
+      ]
+    },
+    {
+      "startSec": 123.8,
+      "endSec": 129,
+      "text": "Alexander, presenter of BBC World Service programme The Food Chain, how it all got",
+      "words": [
+        {
+          "startSec": 123.8,
+          "endSec": 124.5,
+          "text": "Alexander,"
+        },
+        {
+          "startSec": 124.5,
+          "endSec": 125.2,
+          "text": "presenter"
+        },
+        {
+          "startSec": 125.2,
+          "endSec": 125.3,
+          "text": "of"
+        },
+        {
+          "startSec": 125.3,
+          "endSec": 125.5,
+          "text": "BBC"
+        },
+        {
+          "startSec": 125.5,
+          "endSec": 125.8,
+          "text": "World"
+        },
+        {
+          "startSec": 125.8,
+          "endSec": 126.3,
+          "text": "Service"
+        },
+        {
+          "startSec": 126.3,
+          "endSec": 126.9,
+          "text": "programme"
+        },
+        {
+          "startSec": 126.9,
+          "endSec": 127.1,
+          "text": "The"
+        },
+        {
+          "startSec": 127.1,
+          "endSec": 127.4,
+          "text": "Food"
+        },
+        {
+          "startSec": 127.4,
+          "endSec": 127.9,
+          "text": "Chain,"
+        },
+        {
+          "startSec": 127.9,
+          "endSec": 128.3,
+          "text": "how"
+        },
+        {
+          "startSec": 128.3,
+          "endSec": 128.5,
+          "text": "it"
+        },
+        {
+          "startSec": 128.5,
+          "endSec": 128.8,
+          "text": "all"
+        },
+        {
+          "startSec": 128.8,
+          "endSec": 129,
+          "text": "got"
+        },
+        {
+          "startSec": 129,
+          "endSec": 129.7,
+          "text": "started."
+        }
+      ]
+    },
+    {
+      "startSec": 129,
+      "endSec": 133.6,
+      "text": "started. What happened is I had graduated from the Prudy's College of Food and Wine,",
+      "words": [
+        {
+          "startSec": 129,
+          "endSec": 129.7,
+          "text": "started."
+        },
+        {
+          "startSec": 129.7,
+          "endSec": 130,
+          "text": "What"
+        },
+        {
+          "startSec": 130,
+          "endSec": 130.6,
+          "text": "happened"
+        },
+        {
+          "startSec": 130.6,
+          "endSec": 130.8,
+          "text": "is"
+        },
+        {
+          "startSec": 130.8,
+          "endSec": 130.8,
+          "text": "I"
+        },
+        {
+          "startSec": 130.8,
+          "endSec": 131.1,
+          "text": "had"
+        },
+        {
+          "startSec": 131.1,
+          "endSec": 131.7,
+          "text": "graduated"
+        },
+        {
+          "startSec": 131.7,
+          "endSec": 132.1,
+          "text": "from"
+        },
+        {
+          "startSec": 132.1,
+          "endSec": 132.3,
+          "text": "the"
+        },
+        {
+          "startSec": 132.3,
+          "endSec": 132.6,
+          "text": "Prudy's"
+        },
+        {
+          "startSec": 132.6,
+          "endSec": 133,
+          "text": "College"
+        },
+        {
+          "startSec": 133,
+          "endSec": 133.2,
+          "text": "of"
+        },
+        {
+          "startSec": 133.2,
+          "endSec": 133.3,
+          "text": "Food"
+        },
+        {
+          "startSec": 133.3,
+          "endSec": 133.4,
+          "text": "and"
+        },
+        {
+          "startSec": 133.4,
+          "endSec": 133.6,
+          "text": "Wine,"
+        },
+        {
+          "startSec": 133.6,
+          "endSec": 133.9,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 133.6,
+      "endSec": 138.9,
+      "text": "and decided to send my CV to all the three Michelin star restaurants that I",
+      "words": [
+        {
+          "startSec": 133.6,
+          "endSec": 133.9,
+          "text": "and"
+        },
+        {
+          "startSec": 133.9,
+          "endSec": 134.5,
+          "text": "decided"
+        },
+        {
+          "startSec": 134.5,
+          "endSec": 134.7,
+          "text": "to"
+        },
+        {
+          "startSec": 134.7,
+          "endSec": 135,
+          "text": "send"
+        },
+        {
+          "startSec": 135,
+          "endSec": 135.2,
+          "text": "my"
+        },
+        {
+          "startSec": 135.2,
+          "endSec": 135.4,
+          "text": "CV"
+        },
+        {
+          "startSec": 135.4,
+          "endSec": 135.6,
+          "text": "to"
+        },
+        {
+          "startSec": 135.6,
+          "endSec": 135.8,
+          "text": "all"
+        },
+        {
+          "startSec": 135.8,
+          "endSec": 136.1,
+          "text": "the"
+        },
+        {
+          "startSec": 136.1,
+          "endSec": 136.5,
+          "text": "three"
+        },
+        {
+          "startSec": 136.5,
+          "endSec": 137.3,
+          "text": "Michelin"
+        },
+        {
+          "startSec": 137.3,
+          "endSec": 137.6,
+          "text": "star"
+        },
+        {
+          "startSec": 137.6,
+          "endSec": 138.2,
+          "text": "restaurants"
+        },
+        {
+          "startSec": 138.2,
+          "endSec": 138.8,
+          "text": "that"
+        },
+        {
+          "startSec": 138.8,
+          "endSec": 138.9,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "startSec": 138.9,
+      "endSec": 143.7,
+      "text": "could find at that moment in the Michelin guide. So you aim Thai from the off? I",
+      "words": [
+        {
+          "startSec": 139,
+          "endSec": 139.3,
+          "text": "could"
+        },
+        {
+          "startSec": 139.3,
+          "endSec": 139.6,
+          "text": "find"
+        },
+        {
+          "startSec": 139.6,
+          "endSec": 139.7,
+          "text": "at"
+        },
+        {
+          "startSec": 139.7,
+          "endSec": 140,
+          "text": "that"
+        },
+        {
+          "startSec": 140,
+          "endSec": 140.4,
+          "text": "moment"
+        },
+        {
+          "startSec": 140.4,
+          "endSec": 140.6,
+          "text": "in"
+        },
+        {
+          "startSec": 140.6,
+          "endSec": 140.8,
+          "text": "the"
+        },
+        {
+          "startSec": 140.8,
+          "endSec": 141.3,
+          "text": "Michelin"
+        },
+        {
+          "startSec": 141.3,
+          "endSec": 141.9,
+          "text": "guide."
+        },
+        {
+          "startSec": 141.9,
+          "endSec": 142,
+          "text": "So"
+        },
+        {
+          "startSec": 142,
+          "endSec": 142.2,
+          "text": "you"
+        },
+        {
+          "startSec": 142.2,
+          "endSec": 142.5,
+          "text": "aim"
+        },
+        {
+          "startSec": 142.5,
+          "endSec": 142.7,
+          "text": "Thai"
+        },
+        {
+          "startSec": 142.7,
+          "endSec": 143,
+          "text": "from"
+        },
+        {
+          "startSec": 143,
+          "endSec": 143.3,
+          "text": "the"
+        },
+        {
+          "startSec": 143.3,
+          "endSec": 143.6,
+          "text": "off?"
+        },
+        {
+          "startSec": 143.6,
+          "endSec": 143.7,
+          "text": "I"
+        },
+        {
+          "startSec": 143.7,
+          "endSec": 143.8,
+          "text": "aim"
+        }
+      ]
+    },
+    {
+      "startSec": 143.7,
+      "endSec": 147.6,
+      "text": "aim Thai. The only thing that they could say was no, and what would I lose? I",
+      "words": [
+        {
+          "startSec": 143.7,
+          "endSec": 143.8,
+          "text": "aim"
+        },
+        {
+          "startSec": 143.8,
+          "endSec": 144.2,
+          "text": "Thai."
+        },
+        {
+          "startSec": 144.2,
+          "endSec": 144.4,
+          "text": "The"
+        },
+        {
+          "startSec": 144.4,
+          "endSec": 144.6,
+          "text": "only"
+        },
+        {
+          "startSec": 144.6,
+          "endSec": 144.8,
+          "text": "thing"
+        },
+        {
+          "startSec": 144.8,
+          "endSec": 145.1,
+          "text": "that"
+        },
+        {
+          "startSec": 145.1,
+          "endSec": 145.3,
+          "text": "they"
+        },
+        {
+          "startSec": 145.3,
+          "endSec": 145.5,
+          "text": "could"
+        },
+        {
+          "startSec": 145.5,
+          "endSec": 145.7,
+          "text": "say"
+        },
+        {
+          "startSec": 145.7,
+          "endSec": 145.9,
+          "text": "was"
+        },
+        {
+          "startSec": 145.9,
+          "endSec": 146.4,
+          "text": "no,"
+        },
+        {
+          "startSec": 146.4,
+          "endSec": 146.6,
+          "text": "and"
+        },
+        {
+          "startSec": 146.6,
+          "endSec": 146.8,
+          "text": "what"
+        },
+        {
+          "startSec": 146.8,
+          "endSec": 147.1,
+          "text": "would"
+        },
+        {
+          "startSec": 147.1,
+          "endSec": 147.1,
+          "text": "I"
+        },
+        {
+          "startSec": 147.1,
+          "endSec": 147.4,
+          "text": "lose?"
+        },
+        {
+          "startSec": 147.4,
+          "endSec": 147.6,
+          "text": "I"
+        },
+        {
+          "startSec": 147.6,
+          "endSec": 148.3,
+          "text": "received"
+        }
+      ]
+    },
+    {
+      "startSec": 147.6,
+      "endSec": 153.7,
+      "text": "received a call from Chef Paul Rhodes to say when can you start? Wow, and this",
+      "words": [
+        {
+          "startSec": 147.6,
+          "endSec": 148.3,
+          "text": "received"
+        },
+        {
+          "startSec": 148.3,
+          "endSec": 148.4,
+          "text": "a"
+        },
+        {
+          "startSec": 148.4,
+          "endSec": 148.8,
+          "text": "call"
+        },
+        {
+          "startSec": 148.8,
+          "endSec": 149.1,
+          "text": "from"
+        },
+        {
+          "startSec": 149.1,
+          "endSec": 149.4,
+          "text": "Chef"
+        },
+        {
+          "startSec": 149.4,
+          "endSec": 149.8,
+          "text": "Paul"
+        },
+        {
+          "startSec": 149.8,
+          "endSec": 150.3,
+          "text": "Rhodes"
+        },
+        {
+          "startSec": 150.3,
+          "endSec": 150.5,
+          "text": "to"
+        },
+        {
+          "startSec": 150.5,
+          "endSec": 150.7,
+          "text": "say"
+        },
+        {
+          "startSec": 150.7,
+          "endSec": 151.1,
+          "text": "when"
+        },
+        {
+          "startSec": 151.1,
+          "endSec": 151.3,
+          "text": "can"
+        },
+        {
+          "startSec": 151.3,
+          "endSec": 151.6,
+          "text": "you"
+        },
+        {
+          "startSec": 151.6,
+          "endSec": 152.4,
+          "text": "start?"
+        },
+        {
+          "startSec": 152.4,
+          "endSec": 152.4,
+          "text": "Wow,"
+        },
+        {
+          "startSec": 152.4,
+          "endSec": 153.1,
+          "text": "and"
+        },
+        {
+          "startSec": 153.1,
+          "endSec": 153.7,
+          "text": "this"
+        },
+        {
+          "startSec": 153.7,
+          "endSec": 154,
+          "text": "sort"
+        }
+      ]
+    },
+    {
+      "startSec": 153.7,
+      "endSec": 158.6,
+      "text": "sort of just catapulted my career. Chaudelle sent her CV to the world's top",
+      "words": [
+        {
+          "startSec": 153.7,
+          "endSec": 154,
+          "text": "sort"
+        },
+        {
+          "startSec": 154,
+          "endSec": 154.2,
+          "text": "of"
+        },
+        {
+          "startSec": 154.2,
+          "endSec": 154.5,
+          "text": "just"
+        },
+        {
+          "startSec": 154.5,
+          "endSec": 155.3,
+          "text": "catapulted"
+        },
+        {
+          "startSec": 155.3,
+          "endSec": 155.5,
+          "text": "my"
+        },
+        {
+          "startSec": 155.5,
+          "endSec": 156.2,
+          "text": "career."
+        },
+        {
+          "startSec": 156.2,
+          "endSec": 156.9,
+          "text": "Chaudelle"
+        },
+        {
+          "startSec": 156.9,
+          "endSec": 157.2,
+          "text": "sent"
+        },
+        {
+          "startSec": 157.2,
+          "endSec": 157.4,
+          "text": "her"
+        },
+        {
+          "startSec": 157.4,
+          "endSec": 157.6,
+          "text": "CV"
+        },
+        {
+          "startSec": 157.6,
+          "endSec": 157.7,
+          "text": "to"
+        },
+        {
+          "startSec": 157.7,
+          "endSec": 158,
+          "text": "the"
+        },
+        {
+          "startSec": 158,
+          "endSec": 158.4,
+          "text": "world's"
+        },
+        {
+          "startSec": 158.4,
+          "endSec": 158.6,
+          "text": "top"
+        },
+        {
+          "startSec": 158.6,
+          "endSec": 159.8,
+          "text": "restaurants."
+        }
+      ]
+    },
+    {
+      "startSec": 158.6,
+      "endSec": 163.8,
+      "text": "restaurants. CV is short for Curriculum Fatay, a document listing someone's",
+      "words": [
+        {
+          "startSec": 158.6,
+          "endSec": 159.8,
+          "text": "restaurants."
+        },
+        {
+          "startSec": 159.8,
+          "endSec": 159.9,
+          "text": "CV"
+        },
+        {
+          "startSec": 159.9,
+          "endSec": 160.1,
+          "text": "is"
+        },
+        {
+          "startSec": 160.1,
+          "endSec": 160.5,
+          "text": "short"
+        },
+        {
+          "startSec": 160.5,
+          "endSec": 160.7,
+          "text": "for"
+        },
+        {
+          "startSec": 160.7,
+          "endSec": 161.6,
+          "text": "Curriculum"
+        },
+        {
+          "startSec": 161.6,
+          "endSec": 162.1,
+          "text": "Fatay,"
+        },
+        {
+          "startSec": 162.1,
+          "endSec": 162.3,
+          "text": "a"
+        },
+        {
+          "startSec": 162.3,
+          "endSec": 163.1,
+          "text": "document"
+        },
+        {
+          "startSec": 163.1,
+          "endSec": 163.4,
+          "text": "listing"
+        },
+        {
+          "startSec": 163.4,
+          "endSec": 163.8,
+          "text": "someone's"
+        },
+        {
+          "startSec": 163.8,
+          "endSec": 164.6,
+          "text": "education,"
+        }
+      ]
+    },
+    {
+      "startSec": 163.8,
+      "endSec": 168.5,
+      "text": "education, qualifications and work experience, which they write when looking",
+      "words": [
+        {
+          "startSec": 163.8,
+          "endSec": 164.6,
+          "text": "education,"
+        },
+        {
+          "startSec": 164.6,
+          "endSec": 165.6,
+          "text": "qualifications"
+        },
+        {
+          "startSec": 165.6,
+          "endSec": 165.8,
+          "text": "and"
+        },
+        {
+          "startSec": 165.8,
+          "endSec": 166.1,
+          "text": "work"
+        },
+        {
+          "startSec": 166.1,
+          "endSec": 167,
+          "text": "experience,"
+        },
+        {
+          "startSec": 167,
+          "endSec": 167.3,
+          "text": "which"
+        },
+        {
+          "startSec": 167.3,
+          "endSec": 167.6,
+          "text": "they"
+        },
+        {
+          "startSec": 167.6,
+          "endSec": 168,
+          "text": "write"
+        },
+        {
+          "startSec": 168,
+          "endSec": 168.2,
+          "text": "when"
+        },
+        {
+          "startSec": 168.2,
+          "endSec": 168.5,
+          "text": "looking"
+        }
+      ]
+    },
+    {
+      "startSec": 168.5,
+      "endSec": 174,
+      "text": "for a job. In American English, it's called a resume. Chaudelle applied to only",
+      "words": [
+        {
+          "startSec": 168.6,
+          "endSec": 168.7,
+          "text": "for"
+        },
+        {
+          "startSec": 168.7,
+          "endSec": 168.8,
+          "text": "a"
+        },
+        {
+          "startSec": 168.8,
+          "endSec": 169.3,
+          "text": "job."
+        },
+        {
+          "startSec": 169.3,
+          "endSec": 169.4,
+          "text": "In"
+        },
+        {
+          "startSec": 169.4,
+          "endSec": 170,
+          "text": "American"
+        },
+        {
+          "startSec": 170,
+          "endSec": 170.7,
+          "text": "English,"
+        },
+        {
+          "startSec": 170.7,
+          "endSec": 171,
+          "text": "it's"
+        },
+        {
+          "startSec": 171,
+          "endSec": 171.4,
+          "text": "called"
+        },
+        {
+          "startSec": 171.4,
+          "endSec": 171.5,
+          "text": "a"
+        },
+        {
+          "startSec": 171.5,
+          "endSec": 172.3,
+          "text": "resume."
+        },
+        {
+          "startSec": 172.3,
+          "endSec": 172.8,
+          "text": "Chaudelle"
+        },
+        {
+          "startSec": 172.8,
+          "endSec": 173.3,
+          "text": "applied"
+        },
+        {
+          "startSec": 173.3,
+          "endSec": 173.5,
+          "text": "to"
+        },
+        {
+          "startSec": 173.5,
+          "endSec": 174,
+          "text": "only"
+        },
+        {
+          "startSec": 174,
+          "endSec": 174.5,
+          "text": "Michelin"
+        }
+      ]
+    },
+    {
+      "startSec": 174,
+      "endSec": 179.1,
+      "text": "Michelin star winning restaurants. She aimed high, meaning she was ambitious.",
+      "words": [
+        {
+          "startSec": 174,
+          "endSec": 174.5,
+          "text": "Michelin"
+        },
+        {
+          "startSec": 174.5,
+          "endSec": 174.8,
+          "text": "star"
+        },
+        {
+          "startSec": 174.8,
+          "endSec": 175.3,
+          "text": "winning"
+        },
+        {
+          "startSec": 175.3,
+          "endSec": 176.3,
+          "text": "restaurants."
+        },
+        {
+          "startSec": 176.3,
+          "endSec": 176.6,
+          "text": "She"
+        },
+        {
+          "startSec": 176.6,
+          "endSec": 176.9,
+          "text": "aimed"
+        },
+        {
+          "startSec": 176.9,
+          "endSec": 177.4,
+          "text": "high,"
+        },
+        {
+          "startSec": 177.4,
+          "endSec": 177.9,
+          "text": "meaning"
+        },
+        {
+          "startSec": 177.9,
+          "endSec": 178.1,
+          "text": "she"
+        },
+        {
+          "startSec": 178.1,
+          "endSec": 178.4,
+          "text": "was"
+        },
+        {
+          "startSec": 178.4,
+          "endSec": 179.1,
+          "text": "ambitious."
+        },
+        {
+          "startSec": 179.1,
+          "endSec": 179.9,
+          "text": "Chaudelle"
+        }
+      ]
+    },
+    {
+      "startSec": 179.1,
+      "endSec": 184.3,
+      "text": "Chaudelle says the worst they could do is say no, a phrase which means you",
+      "words": [
+        {
+          "startSec": 179.1,
+          "endSec": 179.9,
+          "text": "Chaudelle"
+        },
+        {
+          "startSec": 179.9,
+          "endSec": 180.2,
+          "text": "says"
+        },
+        {
+          "startSec": 180.2,
+          "endSec": 180.5,
+          "text": "the"
+        },
+        {
+          "startSec": 180.5,
+          "endSec": 180.9,
+          "text": "worst"
+        },
+        {
+          "startSec": 180.9,
+          "endSec": 181.3,
+          "text": "they"
+        },
+        {
+          "startSec": 181.3,
+          "endSec": 181.7,
+          "text": "could"
+        },
+        {
+          "startSec": 181.7,
+          "endSec": 181.9,
+          "text": "do"
+        },
+        {
+          "startSec": 181.9,
+          "endSec": 182,
+          "text": "is"
+        },
+        {
+          "startSec": 182,
+          "endSec": 182.3,
+          "text": "say"
+        },
+        {
+          "startSec": 182.3,
+          "endSec": 182.7,
+          "text": "no,"
+        },
+        {
+          "startSec": 182.7,
+          "endSec": 182.8,
+          "text": "a"
+        },
+        {
+          "startSec": 182.8,
+          "endSec": 183.2,
+          "text": "phrase"
+        },
+        {
+          "startSec": 183.2,
+          "endSec": 183.6,
+          "text": "which"
+        },
+        {
+          "startSec": 183.6,
+          "endSec": 184,
+          "text": "means"
+        },
+        {
+          "startSec": 184,
+          "endSec": 184.3,
+          "text": "you"
+        },
+        {
+          "startSec": 184.3,
+          "endSec": 184.8,
+          "text": "shouldn't"
+        }
+      ]
+    },
+    {
+      "startSec": 184.3,
+      "endSec": 188.1,
+      "text": "shouldn't be afraid of trying to do something because the worst outcome is",
+      "words": [
+        {
+          "startSec": 184.3,
+          "endSec": 184.8,
+          "text": "shouldn't"
+        },
+        {
+          "startSec": 184.8,
+          "endSec": 184.9,
+          "text": "be"
+        },
+        {
+          "startSec": 184.9,
+          "endSec": 185.3,
+          "text": "afraid"
+        },
+        {
+          "startSec": 185.3,
+          "endSec": 185.4,
+          "text": "of"
+        },
+        {
+          "startSec": 185.4,
+          "endSec": 185.8,
+          "text": "trying"
+        },
+        {
+          "startSec": 185.8,
+          "endSec": 185.9,
+          "text": "to"
+        },
+        {
+          "startSec": 185.9,
+          "endSec": 186,
+          "text": "do"
+        },
+        {
+          "startSec": 186,
+          "endSec": 186.6,
+          "text": "something"
+        },
+        {
+          "startSec": 186.6,
+          "endSec": 187,
+          "text": "because"
+        },
+        {
+          "startSec": 187,
+          "endSec": 187.2,
+          "text": "the"
+        },
+        {
+          "startSec": 187.2,
+          "endSec": 187.5,
+          "text": "worst"
+        },
+        {
+          "startSec": 187.5,
+          "endSec": 187.9,
+          "text": "outcome"
+        },
+        {
+          "startSec": 187.9,
+          "endSec": 188.1,
+          "text": "is"
+        },
+        {
+          "startSec": 188.1,
+          "endSec": 188.4,
+          "text": "being"
+        }
+      ]
+    },
+    {
+      "startSec": 188.1,
+      "endSec": 193.7,
+      "text": "being rejected. Luckily for Chaudelle, the answer was yes, and learning her trade",
+      "words": [
+        {
+          "startSec": 188.1,
+          "endSec": 188.4,
+          "text": "being"
+        },
+        {
+          "startSec": 188.4,
+          "endSec": 189.2,
+          "text": "rejected."
+        },
+        {
+          "startSec": 189.2,
+          "endSec": 189.8,
+          "text": "Luckily"
+        },
+        {
+          "startSec": 189.8,
+          "endSec": 190,
+          "text": "for"
+        },
+        {
+          "startSec": 190,
+          "endSec": 190.8,
+          "text": "Chaudelle,"
+        },
+        {
+          "startSec": 190.8,
+          "endSec": 191,
+          "text": "the"
+        },
+        {
+          "startSec": 191,
+          "endSec": 191.4,
+          "text": "answer"
+        },
+        {
+          "startSec": 191.4,
+          "endSec": 191.7,
+          "text": "was"
+        },
+        {
+          "startSec": 191.7,
+          "endSec": 192.1,
+          "text": "yes,"
+        },
+        {
+          "startSec": 192.1,
+          "endSec": 192.4,
+          "text": "and"
+        },
+        {
+          "startSec": 192.4,
+          "endSec": 193.2,
+          "text": "learning"
+        },
+        {
+          "startSec": 193.2,
+          "endSec": 193.4,
+          "text": "her"
+        },
+        {
+          "startSec": 193.4,
+          "endSec": 193.7,
+          "text": "trade"
+        },
+        {
+          "startSec": 193.7,
+          "endSec": 193.8,
+          "text": "in"
+        }
+      ]
+    },
+    {
+      "startSec": 193.7,
+      "endSec": 198.8,
+      "text": "in a top London restaurant catapulted, meaning accelerated her career. At the",
+      "words": [
+        {
+          "startSec": 193.7,
+          "endSec": 193.8,
+          "text": "in"
+        },
+        {
+          "startSec": 193.8,
+          "endSec": 193.9,
+          "text": "a"
+        },
+        {
+          "startSec": 193.9,
+          "endSec": 194.1,
+          "text": "top"
+        },
+        {
+          "startSec": 194.1,
+          "endSec": 194.6,
+          "text": "London"
+        },
+        {
+          "startSec": 194.6,
+          "endSec": 195.3,
+          "text": "restaurant"
+        },
+        {
+          "startSec": 195.3,
+          "endSec": 196.2,
+          "text": "catapulted,"
+        },
+        {
+          "startSec": 196.2,
+          "endSec": 196.7,
+          "text": "meaning"
+        },
+        {
+          "startSec": 196.7,
+          "endSec": 197.5,
+          "text": "accelerated"
+        },
+        {
+          "startSec": 197.5,
+          "endSec": 197.7,
+          "text": "her"
+        },
+        {
+          "startSec": 197.7,
+          "endSec": 198.4,
+          "text": "career."
+        },
+        {
+          "startSec": 198.4,
+          "endSec": 198.5,
+          "text": "At"
+        },
+        {
+          "startSec": 198.5,
+          "endSec": 198.8,
+          "text": "the"
+        },
+        {
+          "startSec": 198.8,
+          "endSec": 199,
+          "text": "age"
+        }
+      ]
+    },
+    {
+      "startSec": 198.8,
+      "endSec": 203.4,
+      "text": "age of 26, Chaudelle left London and returned home to open her own restaurant,",
+      "words": [
+        {
+          "startSec": 198.8,
+          "endSec": 199,
+          "text": "age"
+        },
+        {
+          "startSec": 199,
+          "endSec": 199.1,
+          "text": "of"
+        },
+        {
+          "startSec": 199.1,
+          "endSec": 199.7,
+          "text": "26,"
+        },
+        {
+          "startSec": 199.7,
+          "endSec": 200.3,
+          "text": "Chaudelle"
+        },
+        {
+          "startSec": 200.3,
+          "endSec": 200.6,
+          "text": "left"
+        },
+        {
+          "startSec": 200.6,
+          "endSec": 201,
+          "text": "London"
+        },
+        {
+          "startSec": 201,
+          "endSec": 201.2,
+          "text": "and"
+        },
+        {
+          "startSec": 201.2,
+          "endSec": 201.7,
+          "text": "returned"
+        },
+        {
+          "startSec": 201.7,
+          "endSec": 202,
+          "text": "home"
+        },
+        {
+          "startSec": 202,
+          "endSec": 202.1,
+          "text": "to"
+        },
+        {
+          "startSec": 202.1,
+          "endSec": 202.4,
+          "text": "open"
+        },
+        {
+          "startSec": 202.4,
+          "endSec": 202.6,
+          "text": "her"
+        },
+        {
+          "startSec": 202.6,
+          "endSec": 202.9,
+          "text": "own"
+        },
+        {
+          "startSec": 202.9,
+          "endSec": 203.4,
+          "text": "restaurant,"
+        },
+        {
+          "startSec": 203.4,
+          "endSec": 204.1,
+          "text": "Mosaic,"
+        }
+      ]
+    },
+    {
+      "startSec": 203.4,
+      "endSec": 209.5,
+      "text": "Mosaic, near Pretoria in South Africa. She'd been inspired by botanical cuisine,",
+      "words": [
+        {
+          "startSec": 203.4,
+          "endSec": 204.1,
+          "text": "Mosaic,"
+        },
+        {
+          "startSec": 204.1,
+          "endSec": 204.4,
+          "text": "near"
+        },
+        {
+          "startSec": 204.4,
+          "endSec": 205,
+          "text": "Pretoria"
+        },
+        {
+          "startSec": 205,
+          "endSec": 205.1,
+          "text": "in"
+        },
+        {
+          "startSec": 205.1,
+          "endSec": 205.5,
+          "text": "South"
+        },
+        {
+          "startSec": 205.5,
+          "endSec": 206.3,
+          "text": "Africa."
+        },
+        {
+          "startSec": 206.3,
+          "endSec": 206.8,
+          "text": "She'd"
+        },
+        {
+          "startSec": 206.8,
+          "endSec": 207.2,
+          "text": "been"
+        },
+        {
+          "startSec": 207.2,
+          "endSec": 208,
+          "text": "inspired"
+        },
+        {
+          "startSec": 208,
+          "endSec": 208.2,
+          "text": "by"
+        },
+        {
+          "startSec": 208.2,
+          "endSec": 209.1,
+          "text": "botanical"
+        },
+        {
+          "startSec": 209.1,
+          "endSec": 209.5,
+          "text": "cuisine,"
+        },
+        {
+          "startSec": 209.5,
+          "endSec": 209.7,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 209.5,
+      "endSec": 215.1,
+      "text": "the use of edible flowers and herbs to decorate and flavour food. Here, Chaudelle",
+      "words": [
+        {
+          "startSec": 209.5,
+          "endSec": 209.7,
+          "text": "the"
+        },
+        {
+          "startSec": 209.7,
+          "endSec": 209.9,
+          "text": "use"
+        },
+        {
+          "startSec": 209.9,
+          "endSec": 210.1,
+          "text": "of"
+        },
+        {
+          "startSec": 210.1,
+          "endSec": 210.5,
+          "text": "edible"
+        },
+        {
+          "startSec": 210.5,
+          "endSec": 211,
+          "text": "flowers"
+        },
+        {
+          "startSec": 211,
+          "endSec": 211.2,
+          "text": "and"
+        },
+        {
+          "startSec": 211.2,
+          "endSec": 211.6,
+          "text": "herbs"
+        },
+        {
+          "startSec": 211.6,
+          "endSec": 211.7,
+          "text": "to"
+        },
+        {
+          "startSec": 211.7,
+          "endSec": 212.3,
+          "text": "decorate"
+        },
+        {
+          "startSec": 212.3,
+          "endSec": 212.5,
+          "text": "and"
+        },
+        {
+          "startSec": 212.5,
+          "endSec": 213,
+          "text": "flavour"
+        },
+        {
+          "startSec": 213,
+          "endSec": 213.6,
+          "text": "food."
+        },
+        {
+          "startSec": 213.6,
+          "endSec": 214.6,
+          "text": "Here,"
+        },
+        {
+          "startSec": 214.6,
+          "endSec": 215.1,
+          "text": "Chaudelle"
+        },
+        {
+          "startSec": 215.1,
+          "endSec": 215.5,
+          "text": "tells"
+        }
+      ]
+    },
+    {
+      "startSec": 215.1,
+      "endSec": 220.1,
+      "text": "tells more to BBC World Service programme The Food Chain. When I opened",
+      "words": [
+        {
+          "startSec": 215.1,
+          "endSec": 215.5,
+          "text": "tells"
+        },
+        {
+          "startSec": 215.5,
+          "endSec": 215.8,
+          "text": "more"
+        },
+        {
+          "startSec": 215.8,
+          "endSec": 216,
+          "text": "to"
+        },
+        {
+          "startSec": 216,
+          "endSec": 216.2,
+          "text": "BBC"
+        },
+        {
+          "startSec": 216.2,
+          "endSec": 216.6,
+          "text": "World"
+        },
+        {
+          "startSec": 216.6,
+          "endSec": 217.1,
+          "text": "Service"
+        },
+        {
+          "startSec": 217.1,
+          "endSec": 217.8,
+          "text": "programme"
+        },
+        {
+          "startSec": 217.8,
+          "endSec": 218,
+          "text": "The"
+        },
+        {
+          "startSec": 218,
+          "endSec": 218.3,
+          "text": "Food"
+        },
+        {
+          "startSec": 218.3,
+          "endSec": 219,
+          "text": "Chain."
+        },
+        {
+          "startSec": 219,
+          "endSec": 219.4,
+          "text": "When"
+        },
+        {
+          "startSec": 219.4,
+          "endSec": 219.5,
+          "text": "I"
+        },
+        {
+          "startSec": 219.5,
+          "endSec": 220.1,
+          "text": "opened"
+        }
+      ]
+    },
+    {
+      "startSec": 220.1,
+      "endSec": 224.9,
+      "text": "Mosaic in South Africa, I knew I wanted something entirely different and",
+      "words": [
+        {
+          "startSec": 220.2,
+          "endSec": 220.6,
+          "text": "Mosaic"
+        },
+        {
+          "startSec": 220.6,
+          "endSec": 220.8,
+          "text": "in"
+        },
+        {
+          "startSec": 220.8,
+          "endSec": 221.2,
+          "text": "South"
+        },
+        {
+          "startSec": 221.2,
+          "endSec": 221.9,
+          "text": "Africa,"
+        },
+        {
+          "startSec": 221.9,
+          "endSec": 221.9,
+          "text": "I"
+        },
+        {
+          "startSec": 221.9,
+          "endSec": 222.3,
+          "text": "knew"
+        },
+        {
+          "startSec": 222.3,
+          "endSec": 222.4,
+          "text": "I"
+        },
+        {
+          "startSec": 222.4,
+          "endSec": 222.9,
+          "text": "wanted"
+        },
+        {
+          "startSec": 222.9,
+          "endSec": 223.6,
+          "text": "something"
+        },
+        {
+          "startSec": 223.6,
+          "endSec": 224.4,
+          "text": "entirely"
+        },
+        {
+          "startSec": 224.4,
+          "endSec": 224.7,
+          "text": "different"
+        },
+        {
+          "startSec": 224.7,
+          "endSec": 224.9,
+          "text": "and"
+        },
+        {
+          "startSec": 224.9,
+          "endSec": 225.6,
+          "text": "something"
+        }
+      ]
+    },
+    {
+      "startSec": 224.9,
+      "endSec": 230.1,
+      "text": "something which diners had not seen. I wanted to have my own signature and to",
+      "words": [
+        {
+          "startSec": 224.9,
+          "endSec": 225.6,
+          "text": "something"
+        },
+        {
+          "startSec": 225.6,
+          "endSec": 225.9,
+          "text": "which"
+        },
+        {
+          "startSec": 225.9,
+          "endSec": 226.3,
+          "text": "diners"
+        },
+        {
+          "startSec": 226.3,
+          "endSec": 226.5,
+          "text": "had"
+        },
+        {
+          "startSec": 226.5,
+          "endSec": 226.8,
+          "text": "not"
+        },
+        {
+          "startSec": 226.8,
+          "endSec": 227.2,
+          "text": "seen."
+        },
+        {
+          "startSec": 227.2,
+          "endSec": 227.3,
+          "text": "I"
+        },
+        {
+          "startSec": 227.3,
+          "endSec": 227.7,
+          "text": "wanted"
+        },
+        {
+          "startSec": 227.7,
+          "endSec": 227.9,
+          "text": "to"
+        },
+        {
+          "startSec": 227.9,
+          "endSec": 228.2,
+          "text": "have"
+        },
+        {
+          "startSec": 228.2,
+          "endSec": 228.3,
+          "text": "my"
+        },
+        {
+          "startSec": 228.3,
+          "endSec": 228.5,
+          "text": "own"
+        },
+        {
+          "startSec": 228.5,
+          "endSec": 229.2,
+          "text": "signature"
+        },
+        {
+          "startSec": 229.2,
+          "endSec": 229.6,
+          "text": "and"
+        },
+        {
+          "startSec": 229.6,
+          "endSec": 230.1,
+          "text": "to"
+        },
+        {
+          "startSec": 230.1,
+          "endSec": 230.5,
+          "text": "stand"
+        }
+      ]
+    },
+    {
+      "startSec": 230.1,
+      "endSec": 235.3,
+      "text": "stand out and I think especially for botanical cuisine in South Africa, it was",
+      "words": [
+        {
+          "startSec": 230.1,
+          "endSec": 230.5,
+          "text": "stand"
+        },
+        {
+          "startSec": 230.5,
+          "endSec": 230.7,
+          "text": "out"
+        },
+        {
+          "startSec": 230.7,
+          "endSec": 230.9,
+          "text": "and"
+        },
+        {
+          "startSec": 230.9,
+          "endSec": 231,
+          "text": "I"
+        },
+        {
+          "startSec": 231,
+          "endSec": 231.3,
+          "text": "think"
+        },
+        {
+          "startSec": 231.3,
+          "endSec": 232.1,
+          "text": "especially"
+        },
+        {
+          "startSec": 232.1,
+          "endSec": 232.3,
+          "text": "for"
+        },
+        {
+          "startSec": 232.3,
+          "endSec": 233,
+          "text": "botanical"
+        },
+        {
+          "startSec": 233,
+          "endSec": 233.5,
+          "text": "cuisine"
+        },
+        {
+          "startSec": 233.5,
+          "endSec": 233.6,
+          "text": "in"
+        },
+        {
+          "startSec": 233.6,
+          "endSec": 234.1,
+          "text": "South"
+        },
+        {
+          "startSec": 234.1,
+          "endSec": 234.9,
+          "text": "Africa,"
+        },
+        {
+          "startSec": 234.9,
+          "endSec": 234.9,
+          "text": "it"
+        },
+        {
+          "startSec": 234.9,
+          "endSec": 235.3,
+          "text": "was"
+        },
+        {
+          "startSec": 235.3,
+          "endSec": 235.8,
+          "text": "very"
+        }
+      ]
+    },
+    {
+      "startSec": 235.3,
+      "endSec": 241.9,
+      "text": "very much unknown. Chaudelle developed her own signature. A signature item is",
+      "words": [
+        {
+          "startSec": 235.3,
+          "endSec": 235.8,
+          "text": "very"
+        },
+        {
+          "startSec": 235.8,
+          "endSec": 236.2,
+          "text": "much"
+        },
+        {
+          "startSec": 236.2,
+          "endSec": 237.5,
+          "text": "unknown."
+        },
+        {
+          "startSec": 237.5,
+          "endSec": 238.1,
+          "text": "Chaudelle"
+        },
+        {
+          "startSec": 238.1,
+          "endSec": 238.8,
+          "text": "developed"
+        },
+        {
+          "startSec": 238.8,
+          "endSec": 239,
+          "text": "her"
+        },
+        {
+          "startSec": 239,
+          "endSec": 239.2,
+          "text": "own"
+        },
+        {
+          "startSec": 239.2,
+          "endSec": 240.5,
+          "text": "signature."
+        },
+        {
+          "startSec": 240.5,
+          "endSec": 240.6,
+          "text": "A"
+        },
+        {
+          "startSec": 240.6,
+          "endSec": 241.3,
+          "text": "signature"
+        },
+        {
+          "startSec": 241.3,
+          "endSec": 241.8,
+          "text": "item"
+        },
+        {
+          "startSec": 241.8,
+          "endSec": 241.9,
+          "text": "is"
+        },
+        {
+          "startSec": 241.9,
+          "endSec": 242.5,
+          "text": "something"
+        }
+      ]
+    },
+    {
+      "startSec": 241.9,
+      "endSec": 246.7,
+      "text": "something that is typical of or strongly associated with a particular person or",
+      "words": [
+        {
+          "startSec": 241.9,
+          "endSec": 242.5,
+          "text": "something"
+        },
+        {
+          "startSec": 242.5,
+          "endSec": 242.8,
+          "text": "that"
+        },
+        {
+          "startSec": 242.8,
+          "endSec": 242.9,
+          "text": "is"
+        },
+        {
+          "startSec": 242.9,
+          "endSec": 243.4,
+          "text": "typical"
+        },
+        {
+          "startSec": 243.4,
+          "endSec": 243.6,
+          "text": "of"
+        },
+        {
+          "startSec": 243.6,
+          "endSec": 243.7,
+          "text": "or"
+        },
+        {
+          "startSec": 243.7,
+          "endSec": 244.2,
+          "text": "strongly"
+        },
+        {
+          "startSec": 244.2,
+          "endSec": 244.9,
+          "text": "associated"
+        },
+        {
+          "startSec": 244.9,
+          "endSec": 245.2,
+          "text": "with"
+        },
+        {
+          "startSec": 245.2,
+          "endSec": 245.3,
+          "text": "a"
+        },
+        {
+          "startSec": 245.3,
+          "endSec": 246,
+          "text": "particular"
+        },
+        {
+          "startSec": 246,
+          "endSec": 246.5,
+          "text": "person"
+        },
+        {
+          "startSec": 246.5,
+          "endSec": 246.7,
+          "text": "or"
+        }
+      ]
+    },
+    {
+      "startSec": 246.7,
+      "endSec": 253,
+      "text": "place. For example, whiskey is Scotland's signature drink. Chaudelle's signature is",
+      "words": [
+        {
+          "startSec": 246.8,
+          "endSec": 247.4,
+          "text": "place."
+        },
+        {
+          "startSec": 247.4,
+          "endSec": 247.7,
+          "text": "For"
+        },
+        {
+          "startSec": 247.7,
+          "endSec": 248.5,
+          "text": "example,"
+        },
+        {
+          "startSec": 248.5,
+          "endSec": 249.1,
+          "text": "whiskey"
+        },
+        {
+          "startSec": 249.1,
+          "endSec": 249.2,
+          "text": "is"
+        },
+        {
+          "startSec": 249.2,
+          "endSec": 250.1,
+          "text": "Scotland's"
+        },
+        {
+          "startSec": 250.1,
+          "endSec": 250.9,
+          "text": "signature"
+        },
+        {
+          "startSec": 250.9,
+          "endSec": 251.6,
+          "text": "drink."
+        },
+        {
+          "startSec": 251.6,
+          "endSec": 252.2,
+          "text": "Chaudelle's"
+        },
+        {
+          "startSec": 252.2,
+          "endSec": 252.8,
+          "text": "signature"
+        },
+        {
+          "startSec": 252.8,
+          "endSec": 253,
+          "text": "is"
+        },
+        {
+          "startSec": 253,
+          "endSec": 253.6,
+          "text": "cooking"
+        }
+      ]
+    },
+    {
+      "startSec": 253,
+      "endSec": 258.1,
+      "text": "cooking botanical food. Chaudelle's Mosaic restaurant is currently at the Château",
+      "words": [
+        {
+          "startSec": 253,
+          "endSec": 253.6,
+          "text": "cooking"
+        },
+        {
+          "startSec": 253.6,
+          "endSec": 254.2,
+          "text": "botanical"
+        },
+        {
+          "startSec": 254.2,
+          "endSec": 254.8,
+          "text": "food."
+        },
+        {
+          "startSec": 254.8,
+          "endSec": 255.6,
+          "text": "Chaudelle's"
+        },
+        {
+          "startSec": 255.6,
+          "endSec": 256,
+          "text": "Mosaic"
+        },
+        {
+          "startSec": 256,
+          "endSec": 256.8,
+          "text": "restaurant"
+        },
+        {
+          "startSec": 256.8,
+          "endSec": 257,
+          "text": "is"
+        },
+        {
+          "startSec": 257,
+          "endSec": 257.4,
+          "text": "currently"
+        },
+        {
+          "startSec": 257.4,
+          "endSec": 257.6,
+          "text": "at"
+        },
+        {
+          "startSec": 257.6,
+          "endSec": 257.8,
+          "text": "the"
+        },
+        {
+          "startSec": 257.8,
+          "endSec": 258.1,
+          "text": "Château"
+        },
+        {
+          "startSec": 258.1,
+          "endSec": 258.3,
+          "text": "de"
+        }
+      ]
+    },
+    {
+      "startSec": 258.1,
+      "endSec": 263.2,
+      "text": "de Tenere in northern France, where it's listed among the top 200 restaurants in",
+      "words": [
+        {
+          "startSec": 258.1,
+          "endSec": 258.3,
+          "text": "de"
+        },
+        {
+          "startSec": 258.3,
+          "endSec": 258.7,
+          "text": "Tenere"
+        },
+        {
+          "startSec": 258.7,
+          "endSec": 258.8,
+          "text": "in"
+        },
+        {
+          "startSec": 258.8,
+          "endSec": 259.4,
+          "text": "northern"
+        },
+        {
+          "startSec": 259.4,
+          "endSec": 260,
+          "text": "France,"
+        },
+        {
+          "startSec": 260,
+          "endSec": 260.3,
+          "text": "where"
+        },
+        {
+          "startSec": 260.3,
+          "endSec": 260.6,
+          "text": "it's"
+        },
+        {
+          "startSec": 260.6,
+          "endSec": 261,
+          "text": "listed"
+        },
+        {
+          "startSec": 261,
+          "endSec": 261.4,
+          "text": "among"
+        },
+        {
+          "startSec": 261.4,
+          "endSec": 261.6,
+          "text": "the"
+        },
+        {
+          "startSec": 261.6,
+          "endSec": 261.8,
+          "text": "top"
+        },
+        {
+          "startSec": 261.8,
+          "endSec": 262.6,
+          "text": "200"
+        },
+        {
+          "startSec": 262.6,
+          "endSec": 263,
+          "text": "restaurants"
+        },
+        {
+          "startSec": 263,
+          "endSec": 263.2,
+          "text": "in"
+        },
+        {
+          "startSec": 263.2,
+          "endSec": 263.4,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 263.2,
+      "endSec": 270.1,
+      "text": "the world and in 2017 she won the title Best Female Chef in the World. These",
+      "words": [
+        {
+          "startSec": 263.2,
+          "endSec": 263.4,
+          "text": "the"
+        },
+        {
+          "startSec": 263.4,
+          "endSec": 263.9,
+          "text": "world"
+        },
+        {
+          "startSec": 263.9,
+          "endSec": 264.2,
+          "text": "and"
+        },
+        {
+          "startSec": 264.2,
+          "endSec": 264.3,
+          "text": "in"
+        },
+        {
+          "startSec": 264.3,
+          "endSec": 265.4,
+          "text": "2017"
+        },
+        {
+          "startSec": 265.4,
+          "endSec": 265.7,
+          "text": "she"
+        },
+        {
+          "startSec": 265.7,
+          "endSec": 266,
+          "text": "won"
+        },
+        {
+          "startSec": 266,
+          "endSec": 266.2,
+          "text": "the"
+        },
+        {
+          "startSec": 266.2,
+          "endSec": 266.7,
+          "text": "title"
+        },
+        {
+          "startSec": 266.7,
+          "endSec": 267,
+          "text": "Best"
+        },
+        {
+          "startSec": 267,
+          "endSec": 267.6,
+          "text": "Female"
+        },
+        {
+          "startSec": 267.6,
+          "endSec": 267.9,
+          "text": "Chef"
+        },
+        {
+          "startSec": 267.9,
+          "endSec": 268.1,
+          "text": "in"
+        },
+        {
+          "startSec": 268.1,
+          "endSec": 268.4,
+          "text": "the"
+        },
+        {
+          "startSec": 268.4,
+          "endSec": 269.2,
+          "text": "World."
+        },
+        {
+          "startSec": 269.2,
+          "endSec": 270.1,
+          "text": "These"
+        },
+        {
+          "startSec": 270.1,
+          "endSec": 270.9,
+          "text": "achievements"
+        }
+      ]
+    },
+    {
+      "startSec": 270.1,
+      "endSec": 275,
+      "text": "achievements have helped Chaudelle stand out to be more noticeable and better",
+      "words": [
+        {
+          "startSec": 270.1,
+          "endSec": 270.9,
+          "text": "achievements"
+        },
+        {
+          "startSec": 270.9,
+          "endSec": 271.2,
+          "text": "have"
+        },
+        {
+          "startSec": 271.2,
+          "endSec": 271.7,
+          "text": "helped"
+        },
+        {
+          "startSec": 271.7,
+          "endSec": 272.3,
+          "text": "Chaudelle"
+        },
+        {
+          "startSec": 272.3,
+          "endSec": 272.6,
+          "text": "stand"
+        },
+        {
+          "startSec": 272.6,
+          "endSec": 272.9,
+          "text": "out"
+        },
+        {
+          "startSec": 272.9,
+          "endSec": 273,
+          "text": "to"
+        },
+        {
+          "startSec": 273,
+          "endSec": 273.1,
+          "text": "be"
+        },
+        {
+          "startSec": 273.1,
+          "endSec": 273.4,
+          "text": "more"
+        },
+        {
+          "startSec": 273.4,
+          "endSec": 274.2,
+          "text": "noticeable"
+        },
+        {
+          "startSec": 274.2,
+          "endSec": 274.4,
+          "text": "and"
+        },
+        {
+          "startSec": 274.4,
+          "endSec": 275,
+          "text": "better"
+        }
+      ]
+    },
+    {
+      "startSec": 275,
+      "endSec": 280,
+      "text": "than other chefs. Chaudelle is still waiting but surely it's only a matter of",
+      "words": [
+        {
+          "startSec": 275.1,
+          "endSec": 275.3,
+          "text": "than"
+        },
+        {
+          "startSec": 275.3,
+          "endSec": 275.6,
+          "text": "other"
+        },
+        {
+          "startSec": 275.6,
+          "endSec": 276.2,
+          "text": "chefs."
+        },
+        {
+          "startSec": 276.2,
+          "endSec": 276.8,
+          "text": "Chaudelle"
+        },
+        {
+          "startSec": 276.8,
+          "endSec": 276.9,
+          "text": "is"
+        },
+        {
+          "startSec": 276.9,
+          "endSec": 277.2,
+          "text": "still"
+        },
+        {
+          "startSec": 277.2,
+          "endSec": 277.8,
+          "text": "waiting"
+        },
+        {
+          "startSec": 277.8,
+          "endSec": 278.3,
+          "text": "but"
+        },
+        {
+          "startSec": 278.3,
+          "endSec": 278.8,
+          "text": "surely"
+        },
+        {
+          "startSec": 278.8,
+          "endSec": 279.1,
+          "text": "it's"
+        },
+        {
+          "startSec": 279.1,
+          "endSec": 279.4,
+          "text": "only"
+        },
+        {
+          "startSec": 279.4,
+          "endSec": 279.5,
+          "text": "a"
+        },
+        {
+          "startSec": 279.5,
+          "endSec": 279.7,
+          "text": "matter"
+        },
+        {
+          "startSec": 279.7,
+          "endSec": 280,
+          "text": "of"
+        },
+        {
+          "startSec": 280,
+          "endSec": 280.3,
+          "text": "time"
+        }
+      ]
+    },
+    {
+      "startSec": 280,
+      "endSec": 285.4,
+      "text": "time until she wins those coveted Michelin stars. Speaking of which, what was the",
+      "words": [
+        {
+          "startSec": 280,
+          "endSec": 280.3,
+          "text": "time"
+        },
+        {
+          "startSec": 280.3,
+          "endSec": 280.7,
+          "text": "until"
+        },
+        {
+          "startSec": 280.7,
+          "endSec": 280.9,
+          "text": "she"
+        },
+        {
+          "startSec": 280.9,
+          "endSec": 281.2,
+          "text": "wins"
+        },
+        {
+          "startSec": 281.2,
+          "endSec": 281.6,
+          "text": "those"
+        },
+        {
+          "startSec": 281.6,
+          "endSec": 282.2,
+          "text": "coveted"
+        },
+        {
+          "startSec": 282.2,
+          "endSec": 282.8,
+          "text": "Michelin"
+        },
+        {
+          "startSec": 282.8,
+          "endSec": 283.5,
+          "text": "stars."
+        },
+        {
+          "startSec": 283.5,
+          "endSec": 284.1,
+          "text": "Speaking"
+        },
+        {
+          "startSec": 284.1,
+          "endSec": 284.3,
+          "text": "of"
+        },
+        {
+          "startSec": 284.3,
+          "endSec": 284.8,
+          "text": "which,"
+        },
+        {
+          "startSec": 284.8,
+          "endSec": 285,
+          "text": "what"
+        },
+        {
+          "startSec": 285,
+          "endSec": 285.2,
+          "text": "was"
+        },
+        {
+          "startSec": 285.2,
+          "endSec": 285.4,
+          "text": "the"
+        },
+        {
+          "startSec": 285.4,
+          "endSec": 285.9,
+          "text": "answer"
+        }
+      ]
+    },
+    {
+      "startSec": 285.4,
+      "endSec": 290.4,
+      "text": "answer to your question, Becca? Ah yes, I asked you earlier who is the winner of",
+      "words": [
+        {
+          "startSec": 285.4,
+          "endSec": 285.9,
+          "text": "answer"
+        },
+        {
+          "startSec": 285.9,
+          "endSec": 286,
+          "text": "to"
+        },
+        {
+          "startSec": 286,
+          "endSec": 286.3,
+          "text": "your"
+        },
+        {
+          "startSec": 286.3,
+          "endSec": 287.1,
+          "text": "question,"
+        },
+        {
+          "startSec": 287.1,
+          "endSec": 287.7,
+          "text": "Becca?"
+        },
+        {
+          "startSec": 287.7,
+          "endSec": 287.8,
+          "text": "Ah"
+        },
+        {
+          "startSec": 287.8,
+          "endSec": 288.2,
+          "text": "yes,"
+        },
+        {
+          "startSec": 288.2,
+          "endSec": 288.2,
+          "text": "I"
+        },
+        {
+          "startSec": 288.2,
+          "endSec": 288.6,
+          "text": "asked"
+        },
+        {
+          "startSec": 288.6,
+          "endSec": 288.8,
+          "text": "you"
+        },
+        {
+          "startSec": 288.8,
+          "endSec": 289.4,
+          "text": "earlier"
+        },
+        {
+          "startSec": 289.4,
+          "endSec": 289.6,
+          "text": "who"
+        },
+        {
+          "startSec": 289.6,
+          "endSec": 289.8,
+          "text": "is"
+        },
+        {
+          "startSec": 289.8,
+          "endSec": 290,
+          "text": "the"
+        },
+        {
+          "startSec": 290,
+          "endSec": 290.2,
+          "text": "winner"
+        },
+        {
+          "startSec": 290.2,
+          "endSec": 290.4,
+          "text": "of"
+        },
+        {
+          "startSec": 290.4,
+          "endSec": 290.6,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 290.4,
+      "endSec": 297.1,
+      "text": "the most Michelin stars ever? I said that it was the Italian chef and Rico Bartolini.",
+      "words": [
+        {
+          "startSec": 290.4,
+          "endSec": 290.6,
+          "text": "the"
+        },
+        {
+          "startSec": 290.6,
+          "endSec": 291,
+          "text": "most"
+        },
+        {
+          "startSec": 291,
+          "endSec": 291.6,
+          "text": "Michelin"
+        },
+        {
+          "startSec": 291.6,
+          "endSec": 292.1,
+          "text": "stars"
+        },
+        {
+          "startSec": 292.1,
+          "endSec": 292.7,
+          "text": "ever?"
+        },
+        {
+          "startSec": 292.7,
+          "endSec": 292.7,
+          "text": "I"
+        },
+        {
+          "startSec": 292.7,
+          "endSec": 293.1,
+          "text": "said"
+        },
+        {
+          "startSec": 293.1,
+          "endSec": 293.4,
+          "text": "that"
+        },
+        {
+          "startSec": 293.4,
+          "endSec": 293.6,
+          "text": "it"
+        },
+        {
+          "startSec": 293.6,
+          "endSec": 293.8,
+          "text": "was"
+        },
+        {
+          "startSec": 293.8,
+          "endSec": 294.1,
+          "text": "the"
+        },
+        {
+          "startSec": 294.1,
+          "endSec": 294.7,
+          "text": "Italian"
+        },
+        {
+          "startSec": 294.7,
+          "endSec": 295.1,
+          "text": "chef"
+        },
+        {
+          "startSec": 295.1,
+          "endSec": 295.5,
+          "text": "and"
+        },
+        {
+          "startSec": 295.5,
+          "endSec": 296.4,
+          "text": "Rico"
+        },
+        {
+          "startSec": 296.4,
+          "endSec": 297.1,
+          "text": "Bartolini."
+        }
+      ]
+    },
+    {
+      "startSec": 297.1,
+      "endSec": 304.8,
+      "text": "But unfortunately, it was incorrect. The right answer is Be. Chaudelle Rubachon, our",
+      "words": [
+        {
+          "startSec": 297.2,
+          "endSec": 297.4,
+          "text": "But"
+        },
+        {
+          "startSec": 297.4,
+          "endSec": 298.9,
+          "text": "unfortunately,"
+        },
+        {
+          "startSec": 298.9,
+          "endSec": 299.1,
+          "text": "it"
+        },
+        {
+          "startSec": 299.1,
+          "endSec": 299.5,
+          "text": "was"
+        },
+        {
+          "startSec": 299.5,
+          "endSec": 300.7,
+          "text": "incorrect."
+        },
+        {
+          "startSec": 300.7,
+          "endSec": 301,
+          "text": "The"
+        },
+        {
+          "startSec": 301,
+          "endSec": 301.5,
+          "text": "right"
+        },
+        {
+          "startSec": 301.5,
+          "endSec": 302.1,
+          "text": "answer"
+        },
+        {
+          "startSec": 302.1,
+          "endSec": 302.3,
+          "text": "is"
+        },
+        {
+          "startSec": 302.3,
+          "endSec": 302.9,
+          "text": "Be."
+        },
+        {
+          "startSec": 302.9,
+          "endSec": 303.8,
+          "text": "Chaudelle"
+        },
+        {
+          "startSec": 303.8,
+          "endSec": 304.8,
+          "text": "Rubachon,"
+        },
+        {
+          "startSec": 304.8,
+          "endSec": 304.8,
+          "text": "our"
+        },
+        {
+          "startSec": 304.8,
+          "endSec": 305.3,
+          "text": "French"
+        }
+      ]
+    },
+    {
+      "startSec": 304.8,
+      "endSec": 311.4,
+      "text": "French chef with 31 stars, the most decorated chef in history. Okay, let's",
+      "words": [
+        {
+          "startSec": 304.8,
+          "endSec": 304.8,
+          "text": "our"
+        },
+        {
+          "startSec": 304.8,
+          "endSec": 305.3,
+          "text": "French"
+        },
+        {
+          "startSec": 305.3,
+          "endSec": 305.7,
+          "text": "chef"
+        },
+        {
+          "startSec": 305.7,
+          "endSec": 306,
+          "text": "with"
+        },
+        {
+          "startSec": 306,
+          "endSec": 306.5,
+          "text": "31"
+        },
+        {
+          "startSec": 306.5,
+          "endSec": 307.1,
+          "text": "stars,"
+        },
+        {
+          "startSec": 307.1,
+          "endSec": 307.3,
+          "text": "the"
+        },
+        {
+          "startSec": 307.3,
+          "endSec": 307.7,
+          "text": "most"
+        },
+        {
+          "startSec": 307.7,
+          "endSec": 308.4,
+          "text": "decorated"
+        },
+        {
+          "startSec": 308.4,
+          "endSec": 308.7,
+          "text": "chef"
+        },
+        {
+          "startSec": 308.7,
+          "endSec": 308.9,
+          "text": "in"
+        },
+        {
+          "startSec": 308.9,
+          "endSec": 309.8,
+          "text": "history."
+        },
+        {
+          "startSec": 309.8,
+          "endSec": 311,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 311,
+          "endSec": 311.4,
+          "text": "let's"
+        },
+        {
+          "startSec": 311.4,
+          "endSec": 311.9,
+          "text": "recap"
+        }
+      ]
+    },
+    {
+      "startSec": 311.4,
+      "endSec": 316.8,
+      "text": "recap the vocabulary we've learnt, starting with Curriculum Vite, CV or",
+      "words": [
+        {
+          "startSec": 311.4,
+          "endSec": 311.9,
+          "text": "recap"
+        },
+        {
+          "startSec": 311.9,
+          "endSec": 312.1,
+          "text": "the"
+        },
+        {
+          "startSec": 312.1,
+          "endSec": 313,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 313,
+          "endSec": 313.4,
+          "text": "we've"
+        },
+        {
+          "startSec": 313.4,
+          "endSec": 314,
+          "text": "learnt,"
+        },
+        {
+          "startSec": 314,
+          "endSec": 314.7,
+          "text": "starting"
+        },
+        {
+          "startSec": 314.7,
+          "endSec": 315,
+          "text": "with"
+        },
+        {
+          "startSec": 315,
+          "endSec": 315.9,
+          "text": "Curriculum"
+        },
+        {
+          "startSec": 315.9,
+          "endSec": 316.3,
+          "text": "Vite,"
+        },
+        {
+          "startSec": 316.3,
+          "endSec": 316.6,
+          "text": "CV"
+        },
+        {
+          "startSec": 316.6,
+          "endSec": 316.8,
+          "text": "or"
+        },
+        {
+          "startSec": 316.8,
+          "endSec": 317.3,
+          "text": "resume"
+        }
+      ]
+    },
+    {
+      "startSec": 316.8,
+      "endSec": 321.7,
+      "text": "resume in American English. A document outlining someone's education,",
+      "words": [
+        {
+          "startSec": 316.8,
+          "endSec": 317.3,
+          "text": "resume"
+        },
+        {
+          "startSec": 317.3,
+          "endSec": 317.5,
+          "text": "in"
+        },
+        {
+          "startSec": 317.5,
+          "endSec": 318.1,
+          "text": "American"
+        },
+        {
+          "startSec": 318.1,
+          "endSec": 318.8,
+          "text": "English."
+        },
+        {
+          "startSec": 318.8,
+          "endSec": 318.9,
+          "text": "A"
+        },
+        {
+          "startSec": 318.9,
+          "endSec": 319.5,
+          "text": "document"
+        },
+        {
+          "startSec": 319.5,
+          "endSec": 320.2,
+          "text": "outlining"
+        },
+        {
+          "startSec": 320.2,
+          "endSec": 321,
+          "text": "someone's"
+        },
+        {
+          "startSec": 321,
+          "endSec": 321.7,
+          "text": "education,"
+        },
+        {
+          "startSec": 321.7,
+          "endSec": 322.6,
+          "text": "qualifications"
+        }
+      ]
+    },
+    {
+      "startSec": 321.7,
+      "endSec": 326.2,
+      "text": "qualifications and work experience, which they prepare when looking for a job.",
+      "words": [
+        {
+          "startSec": 321.7,
+          "endSec": 322.6,
+          "text": "qualifications"
+        },
+        {
+          "startSec": 322.6,
+          "endSec": 322.8,
+          "text": "and"
+        },
+        {
+          "startSec": 322.8,
+          "endSec": 323.1,
+          "text": "work"
+        },
+        {
+          "startSec": 323.1,
+          "endSec": 323.9,
+          "text": "experience,"
+        },
+        {
+          "startSec": 323.9,
+          "endSec": 324.2,
+          "text": "which"
+        },
+        {
+          "startSec": 324.2,
+          "endSec": 324.5,
+          "text": "they"
+        },
+        {
+          "startSec": 324.5,
+          "endSec": 324.9,
+          "text": "prepare"
+        },
+        {
+          "startSec": 324.9,
+          "endSec": 325.2,
+          "text": "when"
+        },
+        {
+          "startSec": 325.2,
+          "endSec": 325.7,
+          "text": "looking"
+        },
+        {
+          "startSec": 325.7,
+          "endSec": 325.8,
+          "text": "for"
+        },
+        {
+          "startSec": 325.8,
+          "endSec": 326,
+          "text": "a"
+        },
+        {
+          "startSec": 326,
+          "endSec": 326.2,
+          "text": "job."
+        }
+      ]
+    },
+    {
+      "startSec": 326.2,
+      "endSec": 332.3,
+      "text": "To aim high means to be ambitious and set high goals. The phrase, the worst they",
+      "words": [
+        {
+          "startSec": 326.3,
+          "endSec": 326.4,
+          "text": "To"
+        },
+        {
+          "startSec": 326.4,
+          "endSec": 326.7,
+          "text": "aim"
+        },
+        {
+          "startSec": 326.7,
+          "endSec": 327.1,
+          "text": "high"
+        },
+        {
+          "startSec": 327.1,
+          "endSec": 327.6,
+          "text": "means"
+        },
+        {
+          "startSec": 327.6,
+          "endSec": 327.8,
+          "text": "to"
+        },
+        {
+          "startSec": 327.8,
+          "endSec": 328,
+          "text": "be"
+        },
+        {
+          "startSec": 328,
+          "endSec": 329,
+          "text": "ambitious"
+        },
+        {
+          "startSec": 329,
+          "endSec": 329.3,
+          "text": "and"
+        },
+        {
+          "startSec": 329.3,
+          "endSec": 329.6,
+          "text": "set"
+        },
+        {
+          "startSec": 329.6,
+          "endSec": 329.9,
+          "text": "high"
+        },
+        {
+          "startSec": 329.9,
+          "endSec": 330.3,
+          "text": "goals."
+        },
+        {
+          "startSec": 330.3,
+          "endSec": 331.2,
+          "text": "The"
+        },
+        {
+          "startSec": 331.2,
+          "endSec": 331.5,
+          "text": "phrase,"
+        },
+        {
+          "startSec": 331.5,
+          "endSec": 331.9,
+          "text": "the"
+        },
+        {
+          "startSec": 331.9,
+          "endSec": 332.1,
+          "text": "worst"
+        },
+        {
+          "startSec": 332.1,
+          "endSec": 332.3,
+          "text": "they"
+        },
+        {
+          "startSec": 332.3,
+          "endSec": 332.5,
+          "text": "can"
+        }
+      ]
+    },
+    {
+      "startSec": 332.3,
+      "endSec": 337.1,
+      "text": "can do is say no, means don't be afraid of trying to do something for the fear",
+      "words": [
+        {
+          "startSec": 332.3,
+          "endSec": 332.5,
+          "text": "can"
+        },
+        {
+          "startSec": 332.5,
+          "endSec": 332.7,
+          "text": "do"
+        },
+        {
+          "startSec": 332.7,
+          "endSec": 332.9,
+          "text": "is"
+        },
+        {
+          "startSec": 332.9,
+          "endSec": 333.1,
+          "text": "say"
+        },
+        {
+          "startSec": 333.1,
+          "endSec": 333.5,
+          "text": "no,"
+        },
+        {
+          "startSec": 333.5,
+          "endSec": 333.9,
+          "text": "means"
+        },
+        {
+          "startSec": 333.9,
+          "endSec": 334.3,
+          "text": "don't"
+        },
+        {
+          "startSec": 334.3,
+          "endSec": 334.5,
+          "text": "be"
+        },
+        {
+          "startSec": 334.5,
+          "endSec": 335,
+          "text": "afraid"
+        },
+        {
+          "startSec": 335,
+          "endSec": 335.2,
+          "text": "of"
+        },
+        {
+          "startSec": 335.2,
+          "endSec": 335.7,
+          "text": "trying"
+        },
+        {
+          "startSec": 335.7,
+          "endSec": 335.9,
+          "text": "to"
+        },
+        {
+          "startSec": 335.9,
+          "endSec": 336.1,
+          "text": "do"
+        },
+        {
+          "startSec": 336.1,
+          "endSec": 336.6,
+          "text": "something"
+        },
+        {
+          "startSec": 336.6,
+          "endSec": 336.8,
+          "text": "for"
+        },
+        {
+          "startSec": 336.8,
+          "endSec": 336.9,
+          "text": "the"
+        },
+        {
+          "startSec": 336.9,
+          "endSec": 337.1,
+          "text": "fear"
+        },
+        {
+          "startSec": 337.1,
+          "endSec": 337.2,
+          "text": "of"
+        }
+      ]
+    },
+    {
+      "startSec": 337.1,
+      "endSec": 341.9,
+      "text": "of rejection. If something is catapulted, it's suddenly accelerated or launched",
+      "words": [
+        {
+          "startSec": 337.1,
+          "endSec": 337.2,
+          "text": "of"
+        },
+        {
+          "startSec": 337.2,
+          "endSec": 338,
+          "text": "rejection."
+        },
+        {
+          "startSec": 338,
+          "endSec": 338.1,
+          "text": "If"
+        },
+        {
+          "startSec": 338.1,
+          "endSec": 338.7,
+          "text": "something"
+        },
+        {
+          "startSec": 338.7,
+          "endSec": 338.8,
+          "text": "is"
+        },
+        {
+          "startSec": 338.8,
+          "endSec": 339.6,
+          "text": "catapulted,"
+        },
+        {
+          "startSec": 339.6,
+          "endSec": 339.9,
+          "text": "it's"
+        },
+        {
+          "startSec": 339.9,
+          "endSec": 340.3,
+          "text": "suddenly"
+        },
+        {
+          "startSec": 340.3,
+          "endSec": 341.2,
+          "text": "accelerated"
+        },
+        {
+          "startSec": 341.2,
+          "endSec": 341.2,
+          "text": "or"
+        },
+        {
+          "startSec": 341.2,
+          "endSec": 341.9,
+          "text": "launched"
+        },
+        {
+          "startSec": 341.9,
+          "endSec": 342.6,
+          "text": "forward."
+        }
+      ]
+    },
+    {
+      "startSec": 341.9,
+      "endSec": 346.9,
+      "text": "forward. A signature item is something that a person or place is known for. And",
+      "words": [
+        {
+          "startSec": 341.9,
+          "endSec": 342.6,
+          "text": "forward."
+        },
+        {
+          "startSec": 342.6,
+          "endSec": 342.7,
+          "text": "A"
+        },
+        {
+          "startSec": 342.7,
+          "endSec": 343.3,
+          "text": "signature"
+        },
+        {
+          "startSec": 343.3,
+          "endSec": 343.6,
+          "text": "item"
+        },
+        {
+          "startSec": 343.6,
+          "endSec": 343.8,
+          "text": "is"
+        },
+        {
+          "startSec": 343.8,
+          "endSec": 344.4,
+          "text": "something"
+        },
+        {
+          "startSec": 344.4,
+          "endSec": 344.7,
+          "text": "that"
+        },
+        {
+          "startSec": 344.7,
+          "endSec": 344.8,
+          "text": "a"
+        },
+        {
+          "startSec": 344.8,
+          "endSec": 345.3,
+          "text": "person"
+        },
+        {
+          "startSec": 345.3,
+          "endSec": 345.5,
+          "text": "or"
+        },
+        {
+          "startSec": 345.5,
+          "endSec": 345.8,
+          "text": "place"
+        },
+        {
+          "startSec": 345.8,
+          "endSec": 346,
+          "text": "is"
+        },
+        {
+          "startSec": 346,
+          "endSec": 346.4,
+          "text": "known"
+        },
+        {
+          "startSec": 346.4,
+          "endSec": 346.7,
+          "text": "for."
+        },
+        {
+          "startSec": 346.7,
+          "endSec": 346.9,
+          "text": "And"
+        },
+        {
+          "startSec": 346.9,
+          "endSec": 347.6,
+          "text": "finally,"
+        }
+      ]
+    },
+    {
+      "startSec": 346.9,
+      "endSec": 351.9,
+      "text": "finally, to stand out means to be more noticeable or better than other similar",
+      "words": [
+        {
+          "startSec": 346.9,
+          "endSec": 347.6,
+          "text": "finally,"
+        },
+        {
+          "startSec": 347.6,
+          "endSec": 347.7,
+          "text": "to"
+        },
+        {
+          "startSec": 347.7,
+          "endSec": 348.1,
+          "text": "stand"
+        },
+        {
+          "startSec": 348.1,
+          "endSec": 348.3,
+          "text": "out"
+        },
+        {
+          "startSec": 348.3,
+          "endSec": 348.7,
+          "text": "means"
+        },
+        {
+          "startSec": 348.7,
+          "endSec": 348.8,
+          "text": "to"
+        },
+        {
+          "startSec": 348.8,
+          "endSec": 349,
+          "text": "be"
+        },
+        {
+          "startSec": 349,
+          "endSec": 349.3,
+          "text": "more"
+        },
+        {
+          "startSec": 349.3,
+          "endSec": 350,
+          "text": "noticeable"
+        },
+        {
+          "startSec": 350,
+          "endSec": 350.2,
+          "text": "or"
+        },
+        {
+          "startSec": 350.2,
+          "endSec": 350.7,
+          "text": "better"
+        },
+        {
+          "startSec": 350.7,
+          "endSec": 351,
+          "text": "than"
+        },
+        {
+          "startSec": 351,
+          "endSec": 351.4,
+          "text": "other"
+        },
+        {
+          "startSec": 351.4,
+          "endSec": 351.9,
+          "text": "similar"
+        }
+      ]
+    },
+    {
+      "startSec": 351.9,
+      "endSec": 357.1,
+      "text": "things. Once again, our six minutes are up. If you enjoyed this episode, you'll",
+      "words": [
+        {
+          "startSec": 352,
+          "endSec": 352.7,
+          "text": "things."
+        },
+        {
+          "startSec": 352.7,
+          "endSec": 353,
+          "text": "Once"
+        },
+        {
+          "startSec": 353,
+          "endSec": 353.5,
+          "text": "again,"
+        },
+        {
+          "startSec": 353.5,
+          "endSec": 353.8,
+          "text": "our"
+        },
+        {
+          "startSec": 353.8,
+          "endSec": 354,
+          "text": "six"
+        },
+        {
+          "startSec": 354,
+          "endSec": 354.6,
+          "text": "minutes"
+        },
+        {
+          "startSec": 354.6,
+          "endSec": 354.8,
+          "text": "are"
+        },
+        {
+          "startSec": 354.8,
+          "endSec": 355.2,
+          "text": "up."
+        },
+        {
+          "startSec": 355.2,
+          "endSec": 355.4,
+          "text": "If"
+        },
+        {
+          "startSec": 355.4,
+          "endSec": 355.6,
+          "text": "you"
+        },
+        {
+          "startSec": 355.6,
+          "endSec": 356.3,
+          "text": "enjoyed"
+        },
+        {
+          "startSec": 356.3,
+          "endSec": 356.5,
+          "text": "this"
+        },
+        {
+          "startSec": 356.5,
+          "endSec": 356.9,
+          "text": "episode,"
+        },
+        {
+          "startSec": 356.9,
+          "endSec": 357.1,
+          "text": "you'll"
+        },
+        {
+          "startSec": 357.1,
+          "endSec": 357.4,
+          "text": "find"
+        }
+      ]
+    },
+    {
+      "startSec": 357.1,
+      "endSec": 360.7,
+      "text": "find a quiz and worksheet to practice the vocabulary we've learnt on our",
+      "words": [
+        {
+          "startSec": 357.1,
+          "endSec": 357.4,
+          "text": "find"
+        },
+        {
+          "startSec": 357.4,
+          "endSec": 357.4,
+          "text": "a"
+        },
+        {
+          "startSec": 357.4,
+          "endSec": 357.7,
+          "text": "quiz"
+        },
+        {
+          "startSec": 357.7,
+          "endSec": 357.9,
+          "text": "and"
+        },
+        {
+          "startSec": 357.9,
+          "endSec": 358.4,
+          "text": "worksheet"
+        },
+        {
+          "startSec": 358.4,
+          "endSec": 358.6,
+          "text": "to"
+        },
+        {
+          "startSec": 358.6,
+          "endSec": 359.1,
+          "text": "practice"
+        },
+        {
+          "startSec": 359.1,
+          "endSec": 359.3,
+          "text": "the"
+        },
+        {
+          "startSec": 359.3,
+          "endSec": 359.9,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 359.9,
+          "endSec": 360.2,
+          "text": "we've"
+        },
+        {
+          "startSec": 360.2,
+          "endSec": 360.5,
+          "text": "learnt"
+        },
+        {
+          "startSec": 360.5,
+          "endSec": 360.6,
+          "text": "on"
+        },
+        {
+          "startSec": 360.6,
+          "endSec": 360.7,
+          "text": "our"
+        },
+        {
+          "startSec": 360.7,
+          "endSec": 361.6,
+          "text": "website,"
+        }
+      ]
+    },
+    {
+      "startSec": 360.7,
+      "endSec": 366.9,
+      "text": "website, bbclearningenglish.com. See you again soon, but for now, it's goodbye.",
+      "words": [
+        {
+          "startSec": 360.7,
+          "endSec": 361.6,
+          "text": "website,"
+        },
+        {
+          "startSec": 361.6,
+          "endSec": 364,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 364,
+          "endSec": 364.2,
+          "text": "See"
+        },
+        {
+          "startSec": 364.2,
+          "endSec": 364.4,
+          "text": "you"
+        },
+        {
+          "startSec": 364.4,
+          "endSec": 364.7,
+          "text": "again"
+        },
+        {
+          "startSec": 364.7,
+          "endSec": 365.2,
+          "text": "soon,"
+        },
+        {
+          "startSec": 365.2,
+          "endSec": 365.3,
+          "text": "but"
+        },
+        {
+          "startSec": 365.3,
+          "endSec": 365.5,
+          "text": "for"
+        },
+        {
+          "startSec": 365.5,
+          "endSec": 365.8,
+          "text": "now,"
+        },
+        {
+          "startSec": 365.8,
+          "endSec": 366.1,
+          "text": "it's"
+        },
+        {
+          "startSec": 366.1,
+          "endSec": 366.9,
+          "text": "goodbye."
+        },
+        {
+          "startSec": 366.9,
+          "endSec": 368.2,
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "startSec": 366.9,
+      "endSec": 368.2,
+      "text": "Goodbye.",
+      "words": [
+        {
+          "startSec": 366.9,
+          "endSec": 368.2,
+          "text": "Goodbye."
+        }
+      ]
+    }
+  ],
+  "introSec": 0
+}

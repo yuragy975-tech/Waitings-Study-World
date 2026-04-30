@@ -1,0 +1,5845 @@
+{
+  "title": "Do you have good dining etiquette",
+  "source": "BBC 6 Minute English",
+  "level": "advanced",
+  "durationSec": 365,
+  "coverGradient": "from-sky-400 via-blue-500 to-indigo-600",
+  "audioFile": "audio.mp3",
+  "segments": [
+    {
+      "startSec": 0,
+      "endSec": 12.7,
+      "text": "Hello, this is 6 Minute English from BBC Learning English, I'm Phil.",
+      "words": [
+        {
+          "startSec": 0.2,
+          "endSec": 1.6,
+          "text": "Hello,"
+        },
+        {
+          "startSec": 1.6,
+          "endSec": 2.5,
+          "text": "this"
+        },
+        {
+          "startSec": 2.5,
+          "endSec": 3,
+          "text": "is"
+        },
+        {
+          "startSec": 3,
+          "endSec": 3.6,
+          "text": "6"
+        },
+        {
+          "startSec": 3.6,
+          "endSec": 5,
+          "text": "Minute"
+        },
+        {
+          "startSec": 5,
+          "endSec": 6.5,
+          "text": "English"
+        },
+        {
+          "startSec": 6.5,
+          "endSec": 8.1,
+          "text": "from"
+        },
+        {
+          "startSec": 8.1,
+          "endSec": 8.2,
+          "text": "BBC"
+        },
+        {
+          "startSec": 8.2,
+          "endSec": 10,
+          "text": "Learning"
+        },
+        {
+          "startSec": 10,
+          "endSec": 11.8,
+          "text": "English,"
+        },
+        {
+          "startSec": 11.8,
+          "endSec": 12,
+          "text": "I'm"
+        },
+        {
+          "startSec": 12,
+          "endSec": 12.7,
+          "text": "Phil."
+        },
+        {
+          "startSec": 12.7,
+          "endSec": 13,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 12.7,
+      "endSec": 18.4,
+      "text": "And I'm Pippa. In this episode we're discussing etiquette, the rules about what makes polite",
+      "words": [
+        {
+          "startSec": 12.7,
+          "endSec": 13,
+          "text": "And"
+        },
+        {
+          "startSec": 13,
+          "endSec": 13.3,
+          "text": "I'm"
+        },
+        {
+          "startSec": 13.3,
+          "endSec": 14,
+          "text": "Pippa."
+        },
+        {
+          "startSec": 14,
+          "endSec": 14.1,
+          "text": "In"
+        },
+        {
+          "startSec": 14.1,
+          "endSec": 14.4,
+          "text": "this"
+        },
+        {
+          "startSec": 14.4,
+          "endSec": 14.9,
+          "text": "episode"
+        },
+        {
+          "startSec": 14.9,
+          "endSec": 15.2,
+          "text": "we're"
+        },
+        {
+          "startSec": 15.2,
+          "endSec": 15.9,
+          "text": "discussing"
+        },
+        {
+          "startSec": 15.9,
+          "endSec": 16.7,
+          "text": "etiquette,"
+        },
+        {
+          "startSec": 16.7,
+          "endSec": 16.9,
+          "text": "the"
+        },
+        {
+          "startSec": 16.9,
+          "endSec": 17.2,
+          "text": "rules"
+        },
+        {
+          "startSec": 17.2,
+          "endSec": 17.5,
+          "text": "about"
+        },
+        {
+          "startSec": 17.5,
+          "endSec": 17.7,
+          "text": "what"
+        },
+        {
+          "startSec": 17.7,
+          "endSec": 18,
+          "text": "makes"
+        },
+        {
+          "startSec": 18,
+          "endSec": 18.4,
+          "text": "polite"
+        },
+        {
+          "startSec": 18.4,
+          "endSec": 19.1,
+          "text": "behaviour,"
+        }
+      ]
+    },
+    {
+      "startSec": 18.4,
+      "endSec": 23.2,
+      "text": "behaviour, and in particular the do's and don'ts about what you should and shouldn't",
+      "words": [
+        {
+          "startSec": 18.4,
+          "endSec": 19.1,
+          "text": "behaviour,"
+        },
+        {
+          "startSec": 19.1,
+          "endSec": 19.3,
+          "text": "and"
+        },
+        {
+          "startSec": 19.3,
+          "endSec": 19.4,
+          "text": "in"
+        },
+        {
+          "startSec": 19.4,
+          "endSec": 20.1,
+          "text": "particular"
+        },
+        {
+          "startSec": 20.1,
+          "endSec": 20.3,
+          "text": "the"
+        },
+        {
+          "startSec": 20.3,
+          "endSec": 20.6,
+          "text": "do's"
+        },
+        {
+          "startSec": 20.6,
+          "endSec": 20.8,
+          "text": "and"
+        },
+        {
+          "startSec": 20.8,
+          "endSec": 21.1,
+          "text": "don'ts"
+        },
+        {
+          "startSec": 21.1,
+          "endSec": 21.5,
+          "text": "about"
+        },
+        {
+          "startSec": 21.5,
+          "endSec": 21.7,
+          "text": "what"
+        },
+        {
+          "startSec": 21.7,
+          "endSec": 21.9,
+          "text": "you"
+        },
+        {
+          "startSec": 21.9,
+          "endSec": 22.3,
+          "text": "should"
+        },
+        {
+          "startSec": 22.3,
+          "endSec": 22.5,
+          "text": "and"
+        },
+        {
+          "startSec": 22.5,
+          "endSec": 23.2,
+          "text": "shouldn't"
+        },
+        {
+          "startSec": 23.2,
+          "endSec": 23.4,
+          "text": "do"
+        }
+      ]
+    },
+    {
+      "startSec": 23.2,
+      "endSec": 28.5,
+      "text": "do when eating. So Phil, what's the worst thing someone can do while eating, in your",
+      "words": [
+        {
+          "startSec": 23.2,
+          "endSec": 23.4,
+          "text": "do"
+        },
+        {
+          "startSec": 23.4,
+          "endSec": 23.8,
+          "text": "when"
+        },
+        {
+          "startSec": 23.8,
+          "endSec": 24.5,
+          "text": "eating."
+        },
+        {
+          "startSec": 24.5,
+          "endSec": 24.7,
+          "text": "So"
+        },
+        {
+          "startSec": 24.7,
+          "endSec": 25.1,
+          "text": "Phil,"
+        },
+        {
+          "startSec": 25.1,
+          "endSec": 25.5,
+          "text": "what's"
+        },
+        {
+          "startSec": 25.5,
+          "endSec": 25.8,
+          "text": "the"
+        },
+        {
+          "startSec": 25.8,
+          "endSec": 26.1,
+          "text": "worst"
+        },
+        {
+          "startSec": 26.1,
+          "endSec": 26.5,
+          "text": "thing"
+        },
+        {
+          "startSec": 26.5,
+          "endSec": 27,
+          "text": "someone"
+        },
+        {
+          "startSec": 27,
+          "endSec": 27.2,
+          "text": "can"
+        },
+        {
+          "startSec": 27.2,
+          "endSec": 27.4,
+          "text": "do"
+        },
+        {
+          "startSec": 27.4,
+          "endSec": 27.7,
+          "text": "while"
+        },
+        {
+          "startSec": 27.7,
+          "endSec": 28.2,
+          "text": "eating,"
+        },
+        {
+          "startSec": 28.2,
+          "endSec": 28.3,
+          "text": "in"
+        },
+        {
+          "startSec": 28.3,
+          "endSec": 28.5,
+          "text": "your"
+        },
+        {
+          "startSec": 28.5,
+          "endSec": 29.5,
+          "text": "opinion?"
+        }
+      ]
+    },
+    {
+      "startSec": 28.5,
+      "endSec": 29.5,
+      "text": "opinion?",
+      "words": [
+        {
+          "startSec": 28.5,
+          "endSec": 29.5,
+          "text": "opinion?"
+        }
+      ]
+    },
+    {
+      "startSec": 29.5,
+      "endSec": 34.5,
+      "text": "For me, it's being very noisy when you do it. I can't stand it.",
+      "words": [
+        {
+          "startSec": 29.6,
+          "endSec": 29.8,
+          "text": "For"
+        },
+        {
+          "startSec": 29.8,
+          "endSec": 30.1,
+          "text": "me,"
+        },
+        {
+          "startSec": 30.1,
+          "endSec": 30.4,
+          "text": "it's"
+        },
+        {
+          "startSec": 30.4,
+          "endSec": 30.8,
+          "text": "being"
+        },
+        {
+          "startSec": 30.8,
+          "endSec": 31.1,
+          "text": "very"
+        },
+        {
+          "startSec": 31.1,
+          "endSec": 31.5,
+          "text": "noisy"
+        },
+        {
+          "startSec": 31.5,
+          "endSec": 31.8,
+          "text": "when"
+        },
+        {
+          "startSec": 31.8,
+          "endSec": 32,
+          "text": "you"
+        },
+        {
+          "startSec": 32,
+          "endSec": 32.2,
+          "text": "do"
+        },
+        {
+          "startSec": 32.2,
+          "endSec": 32.6,
+          "text": "it."
+        },
+        {
+          "startSec": 32.6,
+          "endSec": 32.8,
+          "text": "I"
+        },
+        {
+          "startSec": 32.8,
+          "endSec": 33.3,
+          "text": "can't"
+        },
+        {
+          "startSec": 33.3,
+          "endSec": 33.9,
+          "text": "stand"
+        },
+        {
+          "startSec": 33.9,
+          "endSec": 34.5,
+          "text": "it."
+        },
+        {
+          "startSec": 34.5,
+          "endSec": 35,
+          "text": "Okay,"
+        }
+      ]
+    },
+    {
+      "startSec": 34.5,
+      "endSec": 40.9,
+      "text": "Okay, I don't have too many rules about eating, but I was always told growing up that you",
+      "words": [
+        {
+          "startSec": 34.5,
+          "endSec": 35,
+          "text": "Okay,"
+        },
+        {
+          "startSec": 35,
+          "endSec": 35.1,
+          "text": "I"
+        },
+        {
+          "startSec": 35.1,
+          "endSec": 35.5,
+          "text": "don't"
+        },
+        {
+          "startSec": 35.5,
+          "endSec": 35.8,
+          "text": "have"
+        },
+        {
+          "startSec": 35.8,
+          "endSec": 36.1,
+          "text": "too"
+        },
+        {
+          "startSec": 36.1,
+          "endSec": 36.4,
+          "text": "many"
+        },
+        {
+          "startSec": 36.4,
+          "endSec": 36.9,
+          "text": "rules"
+        },
+        {
+          "startSec": 36.9,
+          "endSec": 37.3,
+          "text": "about"
+        },
+        {
+          "startSec": 37.3,
+          "endSec": 38,
+          "text": "eating,"
+        },
+        {
+          "startSec": 38,
+          "endSec": 38.2,
+          "text": "but"
+        },
+        {
+          "startSec": 38.2,
+          "endSec": 38.3,
+          "text": "I"
+        },
+        {
+          "startSec": 38.3,
+          "endSec": 38.5,
+          "text": "was"
+        },
+        {
+          "startSec": 38.5,
+          "endSec": 39,
+          "text": "always"
+        },
+        {
+          "startSec": 39,
+          "endSec": 39.4,
+          "text": "told"
+        },
+        {
+          "startSec": 39.4,
+          "endSec": 40,
+          "text": "growing"
+        },
+        {
+          "startSec": 40,
+          "endSec": 40.2,
+          "text": "up"
+        },
+        {
+          "startSec": 40.2,
+          "endSec": 40.5,
+          "text": "that"
+        },
+        {
+          "startSec": 40.5,
+          "endSec": 40.9,
+          "text": "you"
+        },
+        {
+          "startSec": 40.9,
+          "endSec": 41.4,
+          "text": "shouldn't"
+        }
+      ]
+    },
+    {
+      "startSec": 40.9,
+      "endSec": 45.3,
+      "text": "shouldn't have your elbows on the table. And I never really understood why, but I always",
+      "words": [
+        {
+          "startSec": 40.9,
+          "endSec": 41.4,
+          "text": "shouldn't"
+        },
+        {
+          "startSec": 41.4,
+          "endSec": 41.7,
+          "text": "have"
+        },
+        {
+          "startSec": 41.7,
+          "endSec": 41.9,
+          "text": "your"
+        },
+        {
+          "startSec": 41.9,
+          "endSec": 42.3,
+          "text": "elbows"
+        },
+        {
+          "startSec": 42.3,
+          "endSec": 42.4,
+          "text": "on"
+        },
+        {
+          "startSec": 42.4,
+          "endSec": 42.6,
+          "text": "the"
+        },
+        {
+          "startSec": 42.6,
+          "endSec": 43.2,
+          "text": "table."
+        },
+        {
+          "startSec": 43.2,
+          "endSec": 43.3,
+          "text": "And"
+        },
+        {
+          "startSec": 43.3,
+          "endSec": 43.4,
+          "text": "I"
+        },
+        {
+          "startSec": 43.4,
+          "endSec": 43.6,
+          "text": "never"
+        },
+        {
+          "startSec": 43.6,
+          "endSec": 44,
+          "text": "really"
+        },
+        {
+          "startSec": 44,
+          "endSec": 44.5,
+          "text": "understood"
+        },
+        {
+          "startSec": 44.5,
+          "endSec": 44.8,
+          "text": "why,"
+        },
+        {
+          "startSec": 44.8,
+          "endSec": 44.9,
+          "text": "but"
+        },
+        {
+          "startSec": 44.9,
+          "endSec": 45,
+          "text": "I"
+        },
+        {
+          "startSec": 45,
+          "endSec": 45.3,
+          "text": "always"
+        },
+        {
+          "startSec": 45.3,
+          "endSec": 46,
+          "text": "remember"
+        }
+      ]
+    },
+    {
+      "startSec": 45.3,
+      "endSec": 46.8,
+      "text": "remember that one.",
+      "words": [
+        {
+          "startSec": 45.3,
+          "endSec": 46,
+          "text": "remember"
+        },
+        {
+          "startSec": 46,
+          "endSec": 46.3,
+          "text": "that"
+        },
+        {
+          "startSec": 46.3,
+          "endSec": 46.8,
+          "text": "one."
+        },
+        {
+          "startSec": 46.8,
+          "endSec": 47,
+          "text": "So"
+        }
+      ]
+    },
+    {
+      "startSec": 46.8,
+      "endSec": 51.8,
+      "text": "So we'll be hearing more about mealtime manners from some college students and an expert on",
+      "words": [
+        {
+          "startSec": 46.8,
+          "endSec": 47,
+          "text": "So"
+        },
+        {
+          "startSec": 47,
+          "endSec": 47.3,
+          "text": "we'll"
+        },
+        {
+          "startSec": 47.3,
+          "endSec": 47.4,
+          "text": "be"
+        },
+        {
+          "startSec": 47.4,
+          "endSec": 47.8,
+          "text": "hearing"
+        },
+        {
+          "startSec": 47.8,
+          "endSec": 48.1,
+          "text": "more"
+        },
+        {
+          "startSec": 48.1,
+          "endSec": 48.4,
+          "text": "about"
+        },
+        {
+          "startSec": 48.4,
+          "endSec": 48.8,
+          "text": "mealtime"
+        },
+        {
+          "startSec": 48.8,
+          "endSec": 49.3,
+          "text": "manners"
+        },
+        {
+          "startSec": 49.3,
+          "endSec": 49.5,
+          "text": "from"
+        },
+        {
+          "startSec": 49.5,
+          "endSec": 49.7,
+          "text": "some"
+        },
+        {
+          "startSec": 49.7,
+          "endSec": 50.2,
+          "text": "college"
+        },
+        {
+          "startSec": 50.2,
+          "endSec": 50.7,
+          "text": "students"
+        },
+        {
+          "startSec": 50.7,
+          "endSec": 50.8,
+          "text": "and"
+        },
+        {
+          "startSec": 50.8,
+          "endSec": 51,
+          "text": "an"
+        },
+        {
+          "startSec": 51,
+          "endSec": 51.6,
+          "text": "expert"
+        },
+        {
+          "startSec": 51.6,
+          "endSec": 51.8,
+          "text": "on"
+        },
+        {
+          "startSec": 51.8,
+          "endSec": 52.2,
+          "text": "British"
+        }
+      ]
+    },
+    {
+      "startSec": 51.8,
+      "endSec": 56.6,
+      "text": "British etiquette, and as usual we'll be learning some useful new words and phrases,",
+      "words": [
+        {
+          "startSec": 51.8,
+          "endSec": 52.2,
+          "text": "British"
+        },
+        {
+          "startSec": 52.2,
+          "endSec": 52.9,
+          "text": "etiquette,"
+        },
+        {
+          "startSec": 52.9,
+          "endSec": 53.1,
+          "text": "and"
+        },
+        {
+          "startSec": 53.1,
+          "endSec": 53.2,
+          "text": "as"
+        },
+        {
+          "startSec": 53.2,
+          "endSec": 53.5,
+          "text": "usual"
+        },
+        {
+          "startSec": 53.5,
+          "endSec": 53.9,
+          "text": "we'll"
+        },
+        {
+          "startSec": 53.9,
+          "endSec": 54,
+          "text": "be"
+        },
+        {
+          "startSec": 54,
+          "endSec": 54.5,
+          "text": "learning"
+        },
+        {
+          "startSec": 54.5,
+          "endSec": 54.7,
+          "text": "some"
+        },
+        {
+          "startSec": 54.7,
+          "endSec": 55.1,
+          "text": "useful"
+        },
+        {
+          "startSec": 55.1,
+          "endSec": 55.3,
+          "text": "new"
+        },
+        {
+          "startSec": 55.3,
+          "endSec": 55.6,
+          "text": "words"
+        },
+        {
+          "startSec": 55.6,
+          "endSec": 55.8,
+          "text": "and"
+        },
+        {
+          "startSec": 55.8,
+          "endSec": 56.6,
+          "text": "phrases,"
+        },
+        {
+          "startSec": 56.6,
+          "endSec": 56.8,
+          "text": "all"
+        }
+      ]
+    },
+    {
+      "startSec": 56.6,
+      "endSec": 61,
+      "text": "all of which you can find on our website, bbclearningenglish.com.",
+      "words": [
+        {
+          "startSec": 56.6,
+          "endSec": 56.8,
+          "text": "all"
+        },
+        {
+          "startSec": 56.8,
+          "endSec": 56.9,
+          "text": "of"
+        },
+        {
+          "startSec": 56.9,
+          "endSec": 57.3,
+          "text": "which"
+        },
+        {
+          "startSec": 57.3,
+          "endSec": 57.5,
+          "text": "you"
+        },
+        {
+          "startSec": 57.5,
+          "endSec": 57.7,
+          "text": "can"
+        },
+        {
+          "startSec": 57.7,
+          "endSec": 58,
+          "text": "find"
+        },
+        {
+          "startSec": 58,
+          "endSec": 58.2,
+          "text": "on"
+        },
+        {
+          "startSec": 58.2,
+          "endSec": 58.4,
+          "text": "our"
+        },
+        {
+          "startSec": 58.4,
+          "endSec": 59.1,
+          "text": "website,"
+        },
+        {
+          "startSec": 59.1,
+          "endSec": 61,
+          "text": "bbclearningenglish.com."
+        },
+        {
+          "startSec": 61,
+          "endSec": 61.2,
+          "text": "But"
+        }
+      ]
+    },
+    {
+      "startSec": 61,
+      "endSec": 66.5,
+      "text": "But first, I have a question for you, Pippa. Ideas about polite behaviour change a lot",
+      "words": [
+        {
+          "startSec": 61,
+          "endSec": 61.2,
+          "text": "But"
+        },
+        {
+          "startSec": 61.2,
+          "endSec": 61.8,
+          "text": "first,"
+        },
+        {
+          "startSec": 61.8,
+          "endSec": 61.9,
+          "text": "I"
+        },
+        {
+          "startSec": 61.9,
+          "endSec": 62.2,
+          "text": "have"
+        },
+        {
+          "startSec": 62.2,
+          "endSec": 62.3,
+          "text": "a"
+        },
+        {
+          "startSec": 62.3,
+          "endSec": 63,
+          "text": "question"
+        },
+        {
+          "startSec": 63,
+          "endSec": 63.2,
+          "text": "for"
+        },
+        {
+          "startSec": 63.2,
+          "endSec": 63.6,
+          "text": "you,"
+        },
+        {
+          "startSec": 63.6,
+          "endSec": 64.4,
+          "text": "Pippa."
+        },
+        {
+          "startSec": 64.4,
+          "endSec": 64.7,
+          "text": "Ideas"
+        },
+        {
+          "startSec": 64.7,
+          "endSec": 65,
+          "text": "about"
+        },
+        {
+          "startSec": 65,
+          "endSec": 65.3,
+          "text": "polite"
+        },
+        {
+          "startSec": 65.3,
+          "endSec": 65.9,
+          "text": "behaviour"
+        },
+        {
+          "startSec": 65.9,
+          "endSec": 66.2,
+          "text": "change"
+        },
+        {
+          "startSec": 66.2,
+          "endSec": 66.3,
+          "text": "a"
+        },
+        {
+          "startSec": 66.3,
+          "endSec": 66.5,
+          "text": "lot"
+        },
+        {
+          "startSec": 66.5,
+          "endSec": 66.8,
+          "text": "from"
+        }
+      ]
+    },
+    {
+      "startSec": 66.5,
+      "endSec": 72.7,
+      "text": "from country to country. So when BBC programme The Food Chain asked listeners from around",
+      "words": [
+        {
+          "startSec": 66.5,
+          "endSec": 66.8,
+          "text": "from"
+        },
+        {
+          "startSec": 66.8,
+          "endSec": 67.3,
+          "text": "country"
+        },
+        {
+          "startSec": 67.3,
+          "endSec": 67.4,
+          "text": "to"
+        },
+        {
+          "startSec": 67.4,
+          "endSec": 68.2,
+          "text": "country."
+        },
+        {
+          "startSec": 68.2,
+          "endSec": 68.4,
+          "text": "So"
+        },
+        {
+          "startSec": 68.4,
+          "endSec": 68.8,
+          "text": "when"
+        },
+        {
+          "startSec": 68.8,
+          "endSec": 69.1,
+          "text": "BBC"
+        },
+        {
+          "startSec": 69.1,
+          "endSec": 69.9,
+          "text": "programme"
+        },
+        {
+          "startSec": 69.9,
+          "endSec": 70.2,
+          "text": "The"
+        },
+        {
+          "startSec": 70.2,
+          "endSec": 70.6,
+          "text": "Food"
+        },
+        {
+          "startSec": 70.6,
+          "endSec": 71.1,
+          "text": "Chain"
+        },
+        {
+          "startSec": 71.1,
+          "endSec": 71.6,
+          "text": "asked"
+        },
+        {
+          "startSec": 71.6,
+          "endSec": 72,
+          "text": "listeners"
+        },
+        {
+          "startSec": 72,
+          "endSec": 72.3,
+          "text": "from"
+        },
+        {
+          "startSec": 72.3,
+          "endSec": 72.7,
+          "text": "around"
+        },
+        {
+          "startSec": 72.7,
+          "endSec": 73,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 72.7,
+      "endSec": 79.2,
+      "text": "the world about eating manners in their country, what do you think was the most common complaint?",
+      "words": [
+        {
+          "startSec": 72.7,
+          "endSec": 73,
+          "text": "the"
+        },
+        {
+          "startSec": 73,
+          "endSec": 73.3,
+          "text": "world"
+        },
+        {
+          "startSec": 73.3,
+          "endSec": 73.7,
+          "text": "about"
+        },
+        {
+          "startSec": 73.7,
+          "endSec": 74.2,
+          "text": "eating"
+        },
+        {
+          "startSec": 74.2,
+          "endSec": 74.7,
+          "text": "manners"
+        },
+        {
+          "startSec": 74.7,
+          "endSec": 74.9,
+          "text": "in"
+        },
+        {
+          "startSec": 74.9,
+          "endSec": 75.2,
+          "text": "their"
+        },
+        {
+          "startSec": 75.2,
+          "endSec": 75.9,
+          "text": "country,"
+        },
+        {
+          "startSec": 75.9,
+          "endSec": 76.2,
+          "text": "what"
+        },
+        {
+          "startSec": 76.2,
+          "endSec": 76.4,
+          "text": "do"
+        },
+        {
+          "startSec": 76.4,
+          "endSec": 76.6,
+          "text": "you"
+        },
+        {
+          "startSec": 76.6,
+          "endSec": 77,
+          "text": "think"
+        },
+        {
+          "startSec": 77,
+          "endSec": 77.2,
+          "text": "was"
+        },
+        {
+          "startSec": 77.2,
+          "endSec": 77.4,
+          "text": "the"
+        },
+        {
+          "startSec": 77.4,
+          "endSec": 77.7,
+          "text": "most"
+        },
+        {
+          "startSec": 77.7,
+          "endSec": 78.2,
+          "text": "common"
+        },
+        {
+          "startSec": 78.2,
+          "endSec": 79.2,
+          "text": "complaint?"
+        }
+      ]
+    },
+    {
+      "startSec": 79.2,
+      "endSec": 88.4,
+      "text": "Was it a) people eating with their hands, b) people eating noisily, or c) people burping",
+      "words": [
+        {
+          "startSec": 79.3,
+          "endSec": 79.6,
+          "text": "Was"
+        },
+        {
+          "startSec": 79.6,
+          "endSec": 79.8,
+          "text": "it"
+        },
+        {
+          "startSec": 79.8,
+          "endSec": 80.1,
+          "text": "a)"
+        },
+        {
+          "startSec": 80.1,
+          "endSec": 80.8,
+          "text": "people"
+        },
+        {
+          "startSec": 80.8,
+          "endSec": 81.5,
+          "text": "eating"
+        },
+        {
+          "startSec": 81.5,
+          "endSec": 82,
+          "text": "with"
+        },
+        {
+          "startSec": 82,
+          "endSec": 82.7,
+          "text": "their"
+        },
+        {
+          "startSec": 82.7,
+          "endSec": 83.5,
+          "text": "hands,"
+        },
+        {
+          "startSec": 83.5,
+          "endSec": 83.8,
+          "text": "b)"
+        },
+        {
+          "startSec": 83.8,
+          "endSec": 84.5,
+          "text": "people"
+        },
+        {
+          "startSec": 84.5,
+          "endSec": 85.2,
+          "text": "eating"
+        },
+        {
+          "startSec": 85.2,
+          "endSec": 86.3,
+          "text": "noisily,"
+        },
+        {
+          "startSec": 86.3,
+          "endSec": 86.6,
+          "text": "or"
+        },
+        {
+          "startSec": 86.6,
+          "endSec": 87.3,
+          "text": "c)"
+        },
+        {
+          "startSec": 87.3,
+          "endSec": 87.7,
+          "text": "people"
+        },
+        {
+          "startSec": 87.7,
+          "endSec": 88.4,
+          "text": "burping"
+        },
+        {
+          "startSec": 88.4,
+          "endSec": 88.6,
+          "text": "at"
+        }
+      ]
+    },
+    {
+      "startSec": 88.4,
+      "endSec": 89.4,
+      "text": "at the table?",
+      "words": [
+        {
+          "startSec": 88.4,
+          "endSec": 88.6,
+          "text": "at"
+        },
+        {
+          "startSec": 88.6,
+          "endSec": 88.8,
+          "text": "the"
+        },
+        {
+          "startSec": 88.8,
+          "endSec": 89.4,
+          "text": "table?"
+        },
+        {
+          "startSec": 89.4,
+          "endSec": 89.8,
+          "text": "Hmm,"
+        }
+      ]
+    },
+    {
+      "startSec": 89.4,
+      "endSec": 94.4,
+      "text": "Hmm, I don't think it's people eating with their hands, because lots of people around",
+      "words": [
+        {
+          "startSec": 89.4,
+          "endSec": 89.8,
+          "text": "Hmm,"
+        },
+        {
+          "startSec": 89.8,
+          "endSec": 89.8,
+          "text": "I"
+        },
+        {
+          "startSec": 89.8,
+          "endSec": 90.2,
+          "text": "don't"
+        },
+        {
+          "startSec": 90.2,
+          "endSec": 90.5,
+          "text": "think"
+        },
+        {
+          "startSec": 90.5,
+          "endSec": 90.8,
+          "text": "it's"
+        },
+        {
+          "startSec": 90.8,
+          "endSec": 91.2,
+          "text": "people"
+        },
+        {
+          "startSec": 91.2,
+          "endSec": 91.6,
+          "text": "eating"
+        },
+        {
+          "startSec": 91.6,
+          "endSec": 91.9,
+          "text": "with"
+        },
+        {
+          "startSec": 91.9,
+          "endSec": 92.2,
+          "text": "their"
+        },
+        {
+          "startSec": 92.2,
+          "endSec": 92.7,
+          "text": "hands,"
+        },
+        {
+          "startSec": 92.7,
+          "endSec": 93.1,
+          "text": "because"
+        },
+        {
+          "startSec": 93.1,
+          "endSec": 93.4,
+          "text": "lots"
+        },
+        {
+          "startSec": 93.4,
+          "endSec": 93.5,
+          "text": "of"
+        },
+        {
+          "startSec": 93.5,
+          "endSec": 93.9,
+          "text": "people"
+        },
+        {
+          "startSec": 93.9,
+          "endSec": 94.4,
+          "text": "around"
+        },
+        {
+          "startSec": 94.4,
+          "endSec": 94.7,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 94.4,
+      "endSec": 100.4,
+      "text": "the world do that as kind of their normal way of eating. But maybe it's b) people eating",
+      "words": [
+        {
+          "startSec": 94.4,
+          "endSec": 94.7,
+          "text": "the"
+        },
+        {
+          "startSec": 94.7,
+          "endSec": 95,
+          "text": "world"
+        },
+        {
+          "startSec": 95,
+          "endSec": 95.2,
+          "text": "do"
+        },
+        {
+          "startSec": 95.2,
+          "endSec": 95.5,
+          "text": "that"
+        },
+        {
+          "startSec": 95.5,
+          "endSec": 95.6,
+          "text": "as"
+        },
+        {
+          "startSec": 95.6,
+          "endSec": 95.9,
+          "text": "kind"
+        },
+        {
+          "startSec": 95.9,
+          "endSec": 96.1,
+          "text": "of"
+        },
+        {
+          "startSec": 96.1,
+          "endSec": 96.5,
+          "text": "their"
+        },
+        {
+          "startSec": 96.5,
+          "endSec": 96.9,
+          "text": "normal"
+        },
+        {
+          "startSec": 96.9,
+          "endSec": 97.1,
+          "text": "way"
+        },
+        {
+          "startSec": 97.1,
+          "endSec": 97.3,
+          "text": "of"
+        },
+        {
+          "startSec": 97.3,
+          "endSec": 98,
+          "text": "eating."
+        },
+        {
+          "startSec": 98,
+          "endSec": 98.3,
+          "text": "But"
+        },
+        {
+          "startSec": 98.3,
+          "endSec": 98.9,
+          "text": "maybe"
+        },
+        {
+          "startSec": 98.9,
+          "endSec": 99.3,
+          "text": "it's"
+        },
+        {
+          "startSec": 99.3,
+          "endSec": 99.5,
+          "text": "b)"
+        },
+        {
+          "startSec": 99.5,
+          "endSec": 100.2,
+          "text": "people"
+        },
+        {
+          "startSec": 100.2,
+          "endSec": 100.4,
+          "text": "eating"
+        },
+        {
+          "startSec": 100.4,
+          "endSec": 100.9,
+          "text": "noisily,"
+        }
+      ]
+    },
+    {
+      "startSec": 100.4,
+      "endSec": 103.6,
+      "text": "noisily, I think. Like you mentioned Phil, that's quite annoying.",
+      "words": [
+        {
+          "startSec": 100.4,
+          "endSec": 100.9,
+          "text": "noisily,"
+        },
+        {
+          "startSec": 100.9,
+          "endSec": 100.9,
+          "text": "I"
+        },
+        {
+          "startSec": 100.9,
+          "endSec": 101.3,
+          "text": "think."
+        },
+        {
+          "startSec": 101.3,
+          "endSec": 101.5,
+          "text": "Like"
+        },
+        {
+          "startSec": 101.5,
+          "endSec": 101.7,
+          "text": "you"
+        },
+        {
+          "startSec": 101.7,
+          "endSec": 102.1,
+          "text": "mentioned"
+        },
+        {
+          "startSec": 102.1,
+          "endSec": 102.4,
+          "text": "Phil,"
+        },
+        {
+          "startSec": 102.4,
+          "endSec": 102.7,
+          "text": "that's"
+        },
+        {
+          "startSec": 102.7,
+          "endSec": 103,
+          "text": "quite"
+        },
+        {
+          "startSec": 103,
+          "endSec": 103.6,
+          "text": "annoying."
+        },
+        {
+          "startSec": 103.6,
+          "endSec": 103.9,
+          "text": "Well"
+        }
+      ]
+    },
+    {
+      "startSec": 103.6,
+      "endSec": 106.6,
+      "text": "Well we'll find out the answer later in the programme.",
+      "words": [
+        {
+          "startSec": 103.6,
+          "endSec": 103.9,
+          "text": "Well"
+        },
+        {
+          "startSec": 103.9,
+          "endSec": 104.2,
+          "text": "we'll"
+        },
+        {
+          "startSec": 104.2,
+          "endSec": 104.4,
+          "text": "find"
+        },
+        {
+          "startSec": 104.4,
+          "endSec": 104.6,
+          "text": "out"
+        },
+        {
+          "startSec": 104.6,
+          "endSec": 104.8,
+          "text": "the"
+        },
+        {
+          "startSec": 104.8,
+          "endSec": 105.2,
+          "text": "answer"
+        },
+        {
+          "startSec": 105.2,
+          "endSec": 105.5,
+          "text": "later"
+        },
+        {
+          "startSec": 105.5,
+          "endSec": 105.6,
+          "text": "in"
+        },
+        {
+          "startSec": 105.6,
+          "endSec": 105.8,
+          "text": "the"
+        },
+        {
+          "startSec": 105.8,
+          "endSec": 106.6,
+          "text": "programme."
+        },
+        {
+          "startSec": 106.6,
+          "endSec": 106.8,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 106.6,
+      "endSec": 111.6,
+      "text": "The Food Chain also interviewed students at London's City of Westminster College about",
+      "words": [
+        {
+          "startSec": 106.6,
+          "endSec": 106.8,
+          "text": "The"
+        },
+        {
+          "startSec": 106.8,
+          "endSec": 107,
+          "text": "Food"
+        },
+        {
+          "startSec": 107,
+          "endSec": 107.4,
+          "text": "Chain"
+        },
+        {
+          "startSec": 107.4,
+          "endSec": 107.6,
+          "text": "also"
+        },
+        {
+          "startSec": 107.6,
+          "endSec": 108.3,
+          "text": "interviewed"
+        },
+        {
+          "startSec": 108.3,
+          "endSec": 108.9,
+          "text": "students"
+        },
+        {
+          "startSec": 108.9,
+          "endSec": 109,
+          "text": "at"
+        },
+        {
+          "startSec": 109,
+          "endSec": 109.5,
+          "text": "London's"
+        },
+        {
+          "startSec": 109.5,
+          "endSec": 109.8,
+          "text": "City"
+        },
+        {
+          "startSec": 109.8,
+          "endSec": 109.9,
+          "text": "of"
+        },
+        {
+          "startSec": 109.9,
+          "endSec": 110.6,
+          "text": "Westminster"
+        },
+        {
+          "startSec": 110.6,
+          "endSec": 111.2,
+          "text": "College"
+        },
+        {
+          "startSec": 111.2,
+          "endSec": 111.6,
+          "text": "about"
+        },
+        {
+          "startSec": 111.6,
+          "endSec": 112.1,
+          "text": "family"
+        }
+      ]
+    },
+    {
+      "startSec": 111.6,
+      "endSec": 118.3,
+      "text": "family dinner times. Samuel is 19 and from Sierra Leone, and Aya is 18 and British, but",
+      "words": [
+        {
+          "startSec": 111.6,
+          "endSec": 112.1,
+          "text": "family"
+        },
+        {
+          "startSec": 112.1,
+          "endSec": 112.7,
+          "text": "dinner"
+        },
+        {
+          "startSec": 112.7,
+          "endSec": 113.5,
+          "text": "times."
+        },
+        {
+          "startSec": 113.5,
+          "endSec": 114,
+          "text": "Samuel"
+        },
+        {
+          "startSec": 114,
+          "endSec": 114.1,
+          "text": "is"
+        },
+        {
+          "startSec": 114.1,
+          "endSec": 114.5,
+          "text": "19"
+        },
+        {
+          "startSec": 114.5,
+          "endSec": 114.8,
+          "text": "and"
+        },
+        {
+          "startSec": 114.8,
+          "endSec": 115.1,
+          "text": "from"
+        },
+        {
+          "startSec": 115.1,
+          "endSec": 115.5,
+          "text": "Sierra"
+        },
+        {
+          "startSec": 115.5,
+          "endSec": 116,
+          "text": "Leone,"
+        },
+        {
+          "startSec": 116,
+          "endSec": 116.2,
+          "text": "and"
+        },
+        {
+          "startSec": 116.2,
+          "endSec": 116.5,
+          "text": "Aya"
+        },
+        {
+          "startSec": 116.5,
+          "endSec": 116.7,
+          "text": "is"
+        },
+        {
+          "startSec": 116.7,
+          "endSec": 117.2,
+          "text": "18"
+        },
+        {
+          "startSec": 117.2,
+          "endSec": 117.4,
+          "text": "and"
+        },
+        {
+          "startSec": 117.4,
+          "endSec": 118.2,
+          "text": "British,"
+        },
+        {
+          "startSec": 118.2,
+          "endSec": 118.3,
+          "text": "but"
+        },
+        {
+          "startSec": 118.3,
+          "endSec": 118.5,
+          "text": "her"
+        }
+      ]
+    },
+    {
+      "startSec": 118.3,
+      "endSec": 124.4,
+      "text": "her family are from Iraq. Let's listen as they chat with BBC World Services The Food",
+      "words": [
+        {
+          "startSec": 118.3,
+          "endSec": 118.5,
+          "text": "her"
+        },
+        {
+          "startSec": 118.5,
+          "endSec": 119.1,
+          "text": "family"
+        },
+        {
+          "startSec": 119.1,
+          "endSec": 119.3,
+          "text": "are"
+        },
+        {
+          "startSec": 119.3,
+          "endSec": 119.7,
+          "text": "from"
+        },
+        {
+          "startSec": 119.7,
+          "endSec": 120.3,
+          "text": "Iraq."
+        },
+        {
+          "startSec": 120.3,
+          "endSec": 120.7,
+          "text": "Let's"
+        },
+        {
+          "startSec": 120.7,
+          "endSec": 121.2,
+          "text": "listen"
+        },
+        {
+          "startSec": 121.2,
+          "endSec": 121.4,
+          "text": "as"
+        },
+        {
+          "startSec": 121.4,
+          "endSec": 121.7,
+          "text": "they"
+        },
+        {
+          "startSec": 121.7,
+          "endSec": 122,
+          "text": "chat"
+        },
+        {
+          "startSec": 122,
+          "endSec": 122.3,
+          "text": "with"
+        },
+        {
+          "startSec": 122.3,
+          "endSec": 122.6,
+          "text": "BBC"
+        },
+        {
+          "startSec": 122.6,
+          "endSec": 123,
+          "text": "World"
+        },
+        {
+          "startSec": 123,
+          "endSec": 123.7,
+          "text": "Services"
+        },
+        {
+          "startSec": 123.7,
+          "endSec": 124,
+          "text": "The"
+        },
+        {
+          "startSec": 124,
+          "endSec": 124.4,
+          "text": "Food"
+        },
+        {
+          "startSec": 124.4,
+          "endSec": 125.4,
+          "text": "Chain."
+        }
+      ]
+    },
+    {
+      "startSec": 124.4,
+      "endSec": 125.4,
+      "text": "Chain.",
+      "words": [
+        {
+          "startSec": 124.4,
+          "endSec": 125.4,
+          "text": "Chain."
+        },
+        {
+          "startSec": 125.4,
+          "endSec": 125.8,
+          "text": "Yeah,"
+        }
+      ]
+    },
+    {
+      "startSec": 125.4,
+      "endSec": 130.4,
+      "text": "Yeah, I would say first impressions really do matter, because it's really important how",
+      "words": [
+        {
+          "startSec": 125.4,
+          "endSec": 125.8,
+          "text": "Yeah,"
+        },
+        {
+          "startSec": 125.8,
+          "endSec": 125.8,
+          "text": "I"
+        },
+        {
+          "startSec": 125.8,
+          "endSec": 126.1,
+          "text": "would"
+        },
+        {
+          "startSec": 126.1,
+          "endSec": 126.3,
+          "text": "say"
+        },
+        {
+          "startSec": 126.3,
+          "endSec": 126.7,
+          "text": "first"
+        },
+        {
+          "startSec": 126.7,
+          "endSec": 127.4,
+          "text": "impressions"
+        },
+        {
+          "startSec": 127.4,
+          "endSec": 127.8,
+          "text": "really"
+        },
+        {
+          "startSec": 127.8,
+          "endSec": 127.9,
+          "text": "do"
+        },
+        {
+          "startSec": 127.9,
+          "endSec": 128.4,
+          "text": "matter,"
+        },
+        {
+          "startSec": 128.4,
+          "endSec": 128.9,
+          "text": "because"
+        },
+        {
+          "startSec": 128.9,
+          "endSec": 129.1,
+          "text": "it's"
+        },
+        {
+          "startSec": 129.1,
+          "endSec": 129.5,
+          "text": "really"
+        },
+        {
+          "startSec": 129.5,
+          "endSec": 130.2,
+          "text": "important"
+        },
+        {
+          "startSec": 130.2,
+          "endSec": 130.4,
+          "text": "how"
+        },
+        {
+          "startSec": 130.4,
+          "endSec": 130.5,
+          "text": "you"
+        }
+      ]
+    },
+    {
+      "startSec": 130.4,
+      "endSec": 133.6,
+      "text": "you portray yourself, how you present yourself to the person.",
+      "words": [
+        {
+          "startSec": 130.4,
+          "endSec": 130.5,
+          "text": "you"
+        },
+        {
+          "startSec": 130.5,
+          "endSec": 130.9,
+          "text": "portray"
+        },
+        {
+          "startSec": 130.9,
+          "endSec": 131.5,
+          "text": "yourself,"
+        },
+        {
+          "startSec": 131.5,
+          "endSec": 131.7,
+          "text": "how"
+        },
+        {
+          "startSec": 131.7,
+          "endSec": 131.8,
+          "text": "you"
+        },
+        {
+          "startSec": 131.8,
+          "endSec": 132.2,
+          "text": "present"
+        },
+        {
+          "startSec": 132.2,
+          "endSec": 132.7,
+          "text": "yourself"
+        },
+        {
+          "startSec": 132.7,
+          "endSec": 132.8,
+          "text": "to"
+        },
+        {
+          "startSec": 132.8,
+          "endSec": 133,
+          "text": "the"
+        },
+        {
+          "startSec": 133,
+          "endSec": 133.6,
+          "text": "person."
+        },
+        {
+          "startSec": 133.6,
+          "endSec": 133.9,
+          "text": "What"
+        }
+      ]
+    },
+    {
+      "startSec": 133.6,
+      "endSec": 139.4,
+      "text": "What I don't want to see is any loud chewing or with your mouth open, please, and thank",
+      "words": [
+        {
+          "startSec": 133.6,
+          "endSec": 133.9,
+          "text": "What"
+        },
+        {
+          "startSec": 133.9,
+          "endSec": 134,
+          "text": "I"
+        },
+        {
+          "startSec": 134,
+          "endSec": 134.4,
+          "text": "don't"
+        },
+        {
+          "startSec": 134.4,
+          "endSec": 134.7,
+          "text": "want"
+        },
+        {
+          "startSec": 134.7,
+          "endSec": 134.8,
+          "text": "to"
+        },
+        {
+          "startSec": 134.8,
+          "endSec": 135.1,
+          "text": "see"
+        },
+        {
+          "startSec": 135.1,
+          "endSec": 135.2,
+          "text": "is"
+        },
+        {
+          "startSec": 135.2,
+          "endSec": 135.5,
+          "text": "any"
+        },
+        {
+          "startSec": 135.5,
+          "endSec": 135.8,
+          "text": "loud"
+        },
+        {
+          "startSec": 135.8,
+          "endSec": 136.4,
+          "text": "chewing"
+        },
+        {
+          "startSec": 136.4,
+          "endSec": 136.5,
+          "text": "or"
+        },
+        {
+          "startSec": 136.5,
+          "endSec": 136.8,
+          "text": "with"
+        },
+        {
+          "startSec": 136.8,
+          "endSec": 137.2,
+          "text": "your"
+        },
+        {
+          "startSec": 137.2,
+          "endSec": 137.6,
+          "text": "mouth"
+        },
+        {
+          "startSec": 137.6,
+          "endSec": 138,
+          "text": "open,"
+        },
+        {
+          "startSec": 138,
+          "endSec": 138.7,
+          "text": "please,"
+        },
+        {
+          "startSec": 138.7,
+          "endSec": 138.9,
+          "text": "and"
+        },
+        {
+          "startSec": 138.9,
+          "endSec": 139.4,
+          "text": "thank"
+        },
+        {
+          "startSec": 139.4,
+          "endSec": 140.4,
+          "text": "you."
+        }
+      ]
+    },
+    {
+      "startSec": 139.4,
+      "endSec": 146.3,
+      "text": "you. I would like to see though, I contact having a conversation using your cutlery.",
+      "words": [
+        {
+          "startSec": 139.4,
+          "endSec": 140.4,
+          "text": "you."
+        },
+        {
+          "startSec": 140.4,
+          "endSec": 140.5,
+          "text": "I"
+        },
+        {
+          "startSec": 140.5,
+          "endSec": 140.9,
+          "text": "would"
+        },
+        {
+          "startSec": 140.9,
+          "endSec": 141.2,
+          "text": "like"
+        },
+        {
+          "startSec": 141.2,
+          "endSec": 141.3,
+          "text": "to"
+        },
+        {
+          "startSec": 141.3,
+          "endSec": 141.6,
+          "text": "see"
+        },
+        {
+          "startSec": 141.6,
+          "endSec": 142.2,
+          "text": "though,"
+        },
+        {
+          "startSec": 142.2,
+          "endSec": 142.2,
+          "text": "I"
+        },
+        {
+          "startSec": 142.2,
+          "endSec": 142.8,
+          "text": "contact"
+        },
+        {
+          "startSec": 142.8,
+          "endSec": 143.3,
+          "text": "having"
+        },
+        {
+          "startSec": 143.3,
+          "endSec": 143.5,
+          "text": "a"
+        },
+        {
+          "startSec": 143.5,
+          "endSec": 144.4,
+          "text": "conversation"
+        },
+        {
+          "startSec": 144.4,
+          "endSec": 144.8,
+          "text": "using"
+        },
+        {
+          "startSec": 144.8,
+          "endSec": 145.1,
+          "text": "your"
+        },
+        {
+          "startSec": 145.1,
+          "endSec": 146.3,
+          "text": "cutlery."
+        },
+        {
+          "startSec": 146.3,
+          "endSec": 146.8,
+          "text": "Sometimes"
+        }
+      ]
+    },
+    {
+      "startSec": 146.3,
+      "endSec": 150.3,
+      "text": "Sometimes and I thought this could be like picky for everyone else, but having a tissue",
+      "words": [
+        {
+          "startSec": 146.3,
+          "endSec": 146.8,
+          "text": "Sometimes"
+        },
+        {
+          "startSec": 146.8,
+          "endSec": 146.9,
+          "text": "and"
+        },
+        {
+          "startSec": 146.9,
+          "endSec": 147,
+          "text": "I"
+        },
+        {
+          "startSec": 147,
+          "endSec": 147.4,
+          "text": "thought"
+        },
+        {
+          "startSec": 147.4,
+          "endSec": 147.6,
+          "text": "this"
+        },
+        {
+          "startSec": 147.6,
+          "endSec": 147.9,
+          "text": "could"
+        },
+        {
+          "startSec": 147.9,
+          "endSec": 148,
+          "text": "be"
+        },
+        {
+          "startSec": 148,
+          "endSec": 148.2,
+          "text": "like"
+        },
+        {
+          "startSec": 148.2,
+          "endSec": 148.5,
+          "text": "picky"
+        },
+        {
+          "startSec": 148.5,
+          "endSec": 148.6,
+          "text": "for"
+        },
+        {
+          "startSec": 148.6,
+          "endSec": 149.1,
+          "text": "everyone"
+        },
+        {
+          "startSec": 149.1,
+          "endSec": 149.4,
+          "text": "else,"
+        },
+        {
+          "startSec": 149.4,
+          "endSec": 149.5,
+          "text": "but"
+        },
+        {
+          "startSec": 149.5,
+          "endSec": 149.9,
+          "text": "having"
+        },
+        {
+          "startSec": 149.9,
+          "endSec": 149.9,
+          "text": "a"
+        },
+        {
+          "startSec": 149.9,
+          "endSec": 150.3,
+          "text": "tissue"
+        },
+        {
+          "startSec": 150.3,
+          "endSec": 150.5,
+          "text": "or"
+        }
+      ]
+    },
+    {
+      "startSec": 150.3,
+      "endSec": 154,
+      "text": "or a napkin on your lap, just in case you spill anything.",
+      "words": [
+        {
+          "startSec": 150.3,
+          "endSec": 150.5,
+          "text": "or"
+        },
+        {
+          "startSec": 150.5,
+          "endSec": 150.5,
+          "text": "a"
+        },
+        {
+          "startSec": 150.5,
+          "endSec": 151,
+          "text": "napkin"
+        },
+        {
+          "startSec": 151,
+          "endSec": 151.1,
+          "text": "on"
+        },
+        {
+          "startSec": 151.1,
+          "endSec": 151.4,
+          "text": "your"
+        },
+        {
+          "startSec": 151.4,
+          "endSec": 151.8,
+          "text": "lap,"
+        },
+        {
+          "startSec": 151.8,
+          "endSec": 152.1,
+          "text": "just"
+        },
+        {
+          "startSec": 152.1,
+          "endSec": 152.2,
+          "text": "in"
+        },
+        {
+          "startSec": 152.2,
+          "endSec": 152.5,
+          "text": "case"
+        },
+        {
+          "startSec": 152.5,
+          "endSec": 152.8,
+          "text": "you"
+        },
+        {
+          "startSec": 152.8,
+          "endSec": 153.1,
+          "text": "spill"
+        },
+        {
+          "startSec": 153.1,
+          "endSec": 154,
+          "text": "anything."
+        },
+        {
+          "startSec": 154,
+          "endSec": 154.2,
+          "text": "The"
+        }
+      ]
+    },
+    {
+      "startSec": 154,
+      "endSec": 159.4,
+      "text": "The students think etiquette is important. Samuel says it's about making a good first",
+      "words": [
+        {
+          "startSec": 154,
+          "endSec": 154.2,
+          "text": "The"
+        },
+        {
+          "startSec": 154.2,
+          "endSec": 154.8,
+          "text": "students"
+        },
+        {
+          "startSec": 154.8,
+          "endSec": 155.2,
+          "text": "think"
+        },
+        {
+          "startSec": 155.2,
+          "endSec": 155.9,
+          "text": "etiquette"
+        },
+        {
+          "startSec": 155.9,
+          "endSec": 156.1,
+          "text": "is"
+        },
+        {
+          "startSec": 156.1,
+          "endSec": 157,
+          "text": "important."
+        },
+        {
+          "startSec": 157,
+          "endSec": 157.4,
+          "text": "Samuel"
+        },
+        {
+          "startSec": 157.4,
+          "endSec": 157.7,
+          "text": "says"
+        },
+        {
+          "startSec": 157.7,
+          "endSec": 157.9,
+          "text": "it's"
+        },
+        {
+          "startSec": 157.9,
+          "endSec": 158.3,
+          "text": "about"
+        },
+        {
+          "startSec": 158.3,
+          "endSec": 158.7,
+          "text": "making"
+        },
+        {
+          "startSec": 158.7,
+          "endSec": 158.8,
+          "text": "a"
+        },
+        {
+          "startSec": 158.8,
+          "endSec": 159,
+          "text": "good"
+        },
+        {
+          "startSec": 159,
+          "endSec": 159.4,
+          "text": "first"
+        }
+      ]
+    },
+    {
+      "startSec": 159.4,
+      "endSec": 164.3,
+      "text": "impression. Your first impression is the opinion you form about someone when you meet",
+      "words": [
+        {
+          "startSec": 159.5,
+          "endSec": 160.3,
+          "text": "impression."
+        },
+        {
+          "startSec": 160.3,
+          "endSec": 160.5,
+          "text": "Your"
+        },
+        {
+          "startSec": 160.5,
+          "endSec": 160.9,
+          "text": "first"
+        },
+        {
+          "startSec": 160.9,
+          "endSec": 161.5,
+          "text": "impression"
+        },
+        {
+          "startSec": 161.5,
+          "endSec": 161.6,
+          "text": "is"
+        },
+        {
+          "startSec": 161.6,
+          "endSec": 161.8,
+          "text": "the"
+        },
+        {
+          "startSec": 161.8,
+          "endSec": 162.3,
+          "text": "opinion"
+        },
+        {
+          "startSec": 162.3,
+          "endSec": 162.5,
+          "text": "you"
+        },
+        {
+          "startSec": 162.5,
+          "endSec": 162.7,
+          "text": "form"
+        },
+        {
+          "startSec": 162.7,
+          "endSec": 163.1,
+          "text": "about"
+        },
+        {
+          "startSec": 163.1,
+          "endSec": 163.5,
+          "text": "someone"
+        },
+        {
+          "startSec": 163.5,
+          "endSec": 163.8,
+          "text": "when"
+        },
+        {
+          "startSec": 163.8,
+          "endSec": 164,
+          "text": "you"
+        },
+        {
+          "startSec": 164,
+          "endSec": 164.3,
+          "text": "meet"
+        },
+        {
+          "startSec": 164.3,
+          "endSec": 164.6,
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "startSec": 164.3,
+      "endSec": 165.8,
+      "text": "them for the first time.",
+      "words": [
+        {
+          "startSec": 164.3,
+          "endSec": 164.6,
+          "text": "them"
+        },
+        {
+          "startSec": 164.6,
+          "endSec": 164.8,
+          "text": "for"
+        },
+        {
+          "startSec": 164.8,
+          "endSec": 165,
+          "text": "the"
+        },
+        {
+          "startSec": 165,
+          "endSec": 165.3,
+          "text": "first"
+        },
+        {
+          "startSec": 165.3,
+          "endSec": 165.8,
+          "text": "time."
+        },
+        {
+          "startSec": 165.8,
+          "endSec": 166,
+          "text": "For"
+        }
+      ]
+    },
+    {
+      "startSec": 165.8,
+      "endSec": 172.4,
+      "text": "For Aya, eating with your mouth open is definitely rude. She also thinks people should use a napkin,",
+      "words": [
+        {
+          "startSec": 165.8,
+          "endSec": 166,
+          "text": "For"
+        },
+        {
+          "startSec": 166,
+          "endSec": 166.4,
+          "text": "Aya,"
+        },
+        {
+          "startSec": 166.4,
+          "endSec": 166.8,
+          "text": "eating"
+        },
+        {
+          "startSec": 166.8,
+          "endSec": 167.1,
+          "text": "with"
+        },
+        {
+          "startSec": 167.1,
+          "endSec": 167.4,
+          "text": "your"
+        },
+        {
+          "startSec": 167.4,
+          "endSec": 167.8,
+          "text": "mouth"
+        },
+        {
+          "startSec": 167.8,
+          "endSec": 168.1,
+          "text": "open"
+        },
+        {
+          "startSec": 168.1,
+          "endSec": 168.3,
+          "text": "is"
+        },
+        {
+          "startSec": 168.3,
+          "endSec": 169,
+          "text": "definitely"
+        },
+        {
+          "startSec": 169,
+          "endSec": 169.6,
+          "text": "rude."
+        },
+        {
+          "startSec": 169.6,
+          "endSec": 169.8,
+          "text": "She"
+        },
+        {
+          "startSec": 169.8,
+          "endSec": 170,
+          "text": "also"
+        },
+        {
+          "startSec": 170,
+          "endSec": 170.3,
+          "text": "thinks"
+        },
+        {
+          "startSec": 170.3,
+          "endSec": 170.6,
+          "text": "people"
+        },
+        {
+          "startSec": 170.6,
+          "endSec": 171,
+          "text": "should"
+        },
+        {
+          "startSec": 171,
+          "endSec": 171.3,
+          "text": "use"
+        },
+        {
+          "startSec": 171.3,
+          "endSec": 171.4,
+          "text": "a"
+        },
+        {
+          "startSec": 171.4,
+          "endSec": 172.4,
+          "text": "napkin,"
+        },
+        {
+          "startSec": 172.4,
+          "endSec": 172.9,
+          "text": "although"
+        }
+      ]
+    },
+    {
+      "startSec": 172.4,
+      "endSec": 177.9,
+      "text": "although that could be seen as picky. Picky here means being too strict about the rules.",
+      "words": [
+        {
+          "startSec": 172.4,
+          "endSec": 172.9,
+          "text": "although"
+        },
+        {
+          "startSec": 172.9,
+          "endSec": 173.2,
+          "text": "that"
+        },
+        {
+          "startSec": 173.2,
+          "endSec": 173.6,
+          "text": "could"
+        },
+        {
+          "startSec": 173.6,
+          "endSec": 173.7,
+          "text": "be"
+        },
+        {
+          "startSec": 173.7,
+          "endSec": 174,
+          "text": "seen"
+        },
+        {
+          "startSec": 174,
+          "endSec": 174.1,
+          "text": "as"
+        },
+        {
+          "startSec": 174.1,
+          "endSec": 174.7,
+          "text": "picky."
+        },
+        {
+          "startSec": 174.7,
+          "endSec": 175.1,
+          "text": "Picky"
+        },
+        {
+          "startSec": 175.1,
+          "endSec": 175.4,
+          "text": "here"
+        },
+        {
+          "startSec": 175.4,
+          "endSec": 175.7,
+          "text": "means"
+        },
+        {
+          "startSec": 175.7,
+          "endSec": 176.1,
+          "text": "being"
+        },
+        {
+          "startSec": 176.1,
+          "endSec": 176.3,
+          "text": "too"
+        },
+        {
+          "startSec": 176.3,
+          "endSec": 176.7,
+          "text": "strict"
+        },
+        {
+          "startSec": 176.7,
+          "endSec": 177.1,
+          "text": "about"
+        },
+        {
+          "startSec": 177.1,
+          "endSec": 177.3,
+          "text": "the"
+        },
+        {
+          "startSec": 177.3,
+          "endSec": 177.9,
+          "text": "rules."
+        },
+        {
+          "startSec": 177.9,
+          "endSec": 178.1,
+          "text": "For"
+        }
+      ]
+    },
+    {
+      "startSec": 177.9,
+      "endSec": 183.3,
+      "text": "For this group of students, showing respect and appreciation for the meal is very important,",
+      "words": [
+        {
+          "startSec": 177.9,
+          "endSec": 178.1,
+          "text": "For"
+        },
+        {
+          "startSec": 178.1,
+          "endSec": 178.4,
+          "text": "this"
+        },
+        {
+          "startSec": 178.4,
+          "endSec": 178.7,
+          "text": "group"
+        },
+        {
+          "startSec": 178.7,
+          "endSec": 178.8,
+          "text": "of"
+        },
+        {
+          "startSec": 178.8,
+          "endSec": 179.5,
+          "text": "students,"
+        },
+        {
+          "startSec": 179.5,
+          "endSec": 180,
+          "text": "showing"
+        },
+        {
+          "startSec": 180,
+          "endSec": 180.4,
+          "text": "respect"
+        },
+        {
+          "startSec": 180.4,
+          "endSec": 180.6,
+          "text": "and"
+        },
+        {
+          "startSec": 180.6,
+          "endSec": 181.4,
+          "text": "appreciation"
+        },
+        {
+          "startSec": 181.4,
+          "endSec": 181.6,
+          "text": "for"
+        },
+        {
+          "startSec": 181.6,
+          "endSec": 181.8,
+          "text": "the"
+        },
+        {
+          "startSec": 181.8,
+          "endSec": 182.1,
+          "text": "meal"
+        },
+        {
+          "startSec": 182.1,
+          "endSec": 182.2,
+          "text": "is"
+        },
+        {
+          "startSec": 182.2,
+          "endSec": 182.5,
+          "text": "very"
+        },
+        {
+          "startSec": 182.5,
+          "endSec": 183.3,
+          "text": "important,"
+        },
+        {
+          "startSec": 183.3,
+          "endSec": 183.6,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 183.3,
+      "endSec": 188.4,
+      "text": "and this idea is common across most if not all cultures throughout history.",
+      "words": [
+        {
+          "startSec": 183.3,
+          "endSec": 183.6,
+          "text": "and"
+        },
+        {
+          "startSec": 183.6,
+          "endSec": 183.9,
+          "text": "this"
+        },
+        {
+          "startSec": 183.9,
+          "endSec": 184.2,
+          "text": "idea"
+        },
+        {
+          "startSec": 184.2,
+          "endSec": 184.3,
+          "text": "is"
+        },
+        {
+          "startSec": 184.3,
+          "endSec": 184.8,
+          "text": "common"
+        },
+        {
+          "startSec": 184.8,
+          "endSec": 185.2,
+          "text": "across"
+        },
+        {
+          "startSec": 185.2,
+          "endSec": 185.6,
+          "text": "most"
+        },
+        {
+          "startSec": 185.6,
+          "endSec": 185.7,
+          "text": "if"
+        },
+        {
+          "startSec": 185.7,
+          "endSec": 185.9,
+          "text": "not"
+        },
+        {
+          "startSec": 185.9,
+          "endSec": 186.2,
+          "text": "all"
+        },
+        {
+          "startSec": 186.2,
+          "endSec": 186.8,
+          "text": "cultures"
+        },
+        {
+          "startSec": 186.8,
+          "endSec": 187.6,
+          "text": "throughout"
+        },
+        {
+          "startSec": 187.6,
+          "endSec": 188.4,
+          "text": "history."
+        }
+      ]
+    },
+    {
+      "startSec": 188.4,
+      "endSec": 194.2,
+      "text": "So imagine a scene from a TV show like Game of Thrones. Two enemy forces have stopped",
+      "words": [
+        {
+          "startSec": 188.5,
+          "endSec": 188.6,
+          "text": "So"
+        },
+        {
+          "startSec": 188.6,
+          "endSec": 189.2,
+          "text": "imagine"
+        },
+        {
+          "startSec": 189.2,
+          "endSec": 189.3,
+          "text": "a"
+        },
+        {
+          "startSec": 189.3,
+          "endSec": 189.7,
+          "text": "scene"
+        },
+        {
+          "startSec": 189.7,
+          "endSec": 190,
+          "text": "from"
+        },
+        {
+          "startSec": 190,
+          "endSec": 190.1,
+          "text": "a"
+        },
+        {
+          "startSec": 190.1,
+          "endSec": 190.3,
+          "text": "TV"
+        },
+        {
+          "startSec": 190.3,
+          "endSec": 190.6,
+          "text": "show"
+        },
+        {
+          "startSec": 190.6,
+          "endSec": 191,
+          "text": "like"
+        },
+        {
+          "startSec": 191,
+          "endSec": 191.3,
+          "text": "Game"
+        },
+        {
+          "startSec": 191.3,
+          "endSec": 191.5,
+          "text": "of"
+        },
+        {
+          "startSec": 191.5,
+          "endSec": 192.4,
+          "text": "Thrones."
+        },
+        {
+          "startSec": 192.4,
+          "endSec": 192.7,
+          "text": "Two"
+        },
+        {
+          "startSec": 192.7,
+          "endSec": 193,
+          "text": "enemy"
+        },
+        {
+          "startSec": 193,
+          "endSec": 193.4,
+          "text": "forces"
+        },
+        {
+          "startSec": 193.4,
+          "endSec": 193.7,
+          "text": "have"
+        },
+        {
+          "startSec": 193.7,
+          "endSec": 194.2,
+          "text": "stopped"
+        },
+        {
+          "startSec": 194.2,
+          "endSec": 195,
+          "text": "fighting,"
+        }
+      ]
+    },
+    {
+      "startSec": 194.2,
+      "endSec": 199.9,
+      "text": "fighting, made peace and now gather for a meal. The leaders clink glasses, meaning they lift",
+      "words": [
+        {
+          "startSec": 194.2,
+          "endSec": 195,
+          "text": "fighting,"
+        },
+        {
+          "startSec": 195,
+          "endSec": 195.3,
+          "text": "made"
+        },
+        {
+          "startSec": 195.3,
+          "endSec": 195.7,
+          "text": "peace"
+        },
+        {
+          "startSec": 195.7,
+          "endSec": 196,
+          "text": "and"
+        },
+        {
+          "startSec": 196,
+          "endSec": 196.2,
+          "text": "now"
+        },
+        {
+          "startSec": 196.2,
+          "endSec": 196.7,
+          "text": "gather"
+        },
+        {
+          "startSec": 196.7,
+          "endSec": 196.9,
+          "text": "for"
+        },
+        {
+          "startSec": 196.9,
+          "endSec": 197,
+          "text": "a"
+        },
+        {
+          "startSec": 197,
+          "endSec": 197.6,
+          "text": "meal."
+        },
+        {
+          "startSec": 197.6,
+          "endSec": 197.7,
+          "text": "The"
+        },
+        {
+          "startSec": 197.7,
+          "endSec": 198.2,
+          "text": "leaders"
+        },
+        {
+          "startSec": 198.2,
+          "endSec": 198.5,
+          "text": "clink"
+        },
+        {
+          "startSec": 198.5,
+          "endSec": 199,
+          "text": "glasses,"
+        },
+        {
+          "startSec": 199,
+          "endSec": 199.4,
+          "text": "meaning"
+        },
+        {
+          "startSec": 199.4,
+          "endSec": 199.6,
+          "text": "they"
+        },
+        {
+          "startSec": 199.6,
+          "endSec": 199.9,
+          "text": "lift"
+        },
+        {
+          "startSec": 199.9,
+          "endSec": 200.1,
+          "text": "up"
+        }
+      ]
+    },
+    {
+      "startSec": 199.9,
+      "endSec": 204.8,
+      "text": "up and touch drinks and make a toast. They hold up a glass of alcohol and drink it to",
+      "words": [
+        {
+          "startSec": 199.9,
+          "endSec": 200.1,
+          "text": "up"
+        },
+        {
+          "startSec": 200.1,
+          "endSec": 200.3,
+          "text": "and"
+        },
+        {
+          "startSec": 200.3,
+          "endSec": 200.7,
+          "text": "touch"
+        },
+        {
+          "startSec": 200.7,
+          "endSec": 201.3,
+          "text": "drinks"
+        },
+        {
+          "startSec": 201.3,
+          "endSec": 201.5,
+          "text": "and"
+        },
+        {
+          "startSec": 201.5,
+          "endSec": 201.9,
+          "text": "make"
+        },
+        {
+          "startSec": 201.9,
+          "endSec": 202,
+          "text": "a"
+        },
+        {
+          "startSec": 202,
+          "endSec": 202.7,
+          "text": "toast."
+        },
+        {
+          "startSec": 202.7,
+          "endSec": 202.9,
+          "text": "They"
+        },
+        {
+          "startSec": 202.9,
+          "endSec": 203.1,
+          "text": "hold"
+        },
+        {
+          "startSec": 203.1,
+          "endSec": 203.2,
+          "text": "up"
+        },
+        {
+          "startSec": 203.2,
+          "endSec": 203.3,
+          "text": "a"
+        },
+        {
+          "startSec": 203.3,
+          "endSec": 203.6,
+          "text": "glass"
+        },
+        {
+          "startSec": 203.6,
+          "endSec": 203.7,
+          "text": "of"
+        },
+        {
+          "startSec": 203.7,
+          "endSec": 204.1,
+          "text": "alcohol"
+        },
+        {
+          "startSec": 204.1,
+          "endSec": 204.2,
+          "text": "and"
+        },
+        {
+          "startSec": 204.2,
+          "endSec": 204.5,
+          "text": "drink"
+        },
+        {
+          "startSec": 204.5,
+          "endSec": 204.6,
+          "text": "it"
+        },
+        {
+          "startSec": 204.6,
+          "endSec": 204.8,
+          "text": "to"
+        },
+        {
+          "startSec": 204.8,
+          "endSec": 205.2,
+          "text": "show"
+        }
+      ]
+    },
+    {
+      "startSec": 204.8,
+      "endSec": 206.3,
+      "text": "show respect.",
+      "words": [
+        {
+          "startSec": 204.8,
+          "endSec": 205.2,
+          "text": "show"
+        },
+        {
+          "startSec": 205.2,
+          "endSec": 206.3,
+          "text": "respect."
+        },
+        {
+          "startSec": 206.3,
+          "endSec": 206.5,
+          "text": "Now"
+        }
+      ]
+    },
+    {
+      "startSec": 206.3,
+      "endSec": 212.4,
+      "text": "Now keep that image in mind, because we're going to hear British etiquette coach Rupert",
+      "words": [
+        {
+          "startSec": 206.3,
+          "endSec": 206.5,
+          "text": "Now"
+        },
+        {
+          "startSec": 206.5,
+          "endSec": 206.8,
+          "text": "keep"
+        },
+        {
+          "startSec": 206.8,
+          "endSec": 207.2,
+          "text": "that"
+        },
+        {
+          "startSec": 207.2,
+          "endSec": 207.6,
+          "text": "image"
+        },
+        {
+          "startSec": 207.6,
+          "endSec": 207.7,
+          "text": "in"
+        },
+        {
+          "startSec": 207.7,
+          "endSec": 208.2,
+          "text": "mind,"
+        },
+        {
+          "startSec": 208.2,
+          "endSec": 208.8,
+          "text": "because"
+        },
+        {
+          "startSec": 208.8,
+          "endSec": 209.2,
+          "text": "we're"
+        },
+        {
+          "startSec": 209.2,
+          "endSec": 209.6,
+          "text": "going"
+        },
+        {
+          "startSec": 209.6,
+          "endSec": 209.8,
+          "text": "to"
+        },
+        {
+          "startSec": 209.8,
+          "endSec": 210.1,
+          "text": "hear"
+        },
+        {
+          "startSec": 210.1,
+          "endSec": 210.6,
+          "text": "British"
+        },
+        {
+          "startSec": 210.6,
+          "endSec": 211.4,
+          "text": "etiquette"
+        },
+        {
+          "startSec": 211.4,
+          "endSec": 211.8,
+          "text": "coach"
+        },
+        {
+          "startSec": 211.8,
+          "endSec": 212.4,
+          "text": "Rupert"
+        },
+        {
+          "startSec": 212.4,
+          "endSec": 212.9,
+          "text": "Wesson"
+        }
+      ]
+    },
+    {
+      "startSec": 212.4,
+      "endSec": 219.1,
+      "text": "Wesson explaining why people clink glasses. Here he is talking to Ruth Alexander, presenter",
+      "words": [
+        {
+          "startSec": 212.4,
+          "endSec": 212.9,
+          "text": "Wesson"
+        },
+        {
+          "startSec": 212.9,
+          "endSec": 213.7,
+          "text": "explaining"
+        },
+        {
+          "startSec": 213.7,
+          "endSec": 213.9,
+          "text": "why"
+        },
+        {
+          "startSec": 213.9,
+          "endSec": 214.4,
+          "text": "people"
+        },
+        {
+          "startSec": 214.4,
+          "endSec": 214.8,
+          "text": "clink"
+        },
+        {
+          "startSec": 214.8,
+          "endSec": 215.7,
+          "text": "glasses."
+        },
+        {
+          "startSec": 215.7,
+          "endSec": 216,
+          "text": "Here"
+        },
+        {
+          "startSec": 216,
+          "endSec": 216.1,
+          "text": "he"
+        },
+        {
+          "startSec": 216.1,
+          "endSec": 216.3,
+          "text": "is"
+        },
+        {
+          "startSec": 216.3,
+          "endSec": 216.9,
+          "text": "talking"
+        },
+        {
+          "startSec": 216.9,
+          "endSec": 217,
+          "text": "to"
+        },
+        {
+          "startSec": 217,
+          "endSec": 217.4,
+          "text": "Ruth"
+        },
+        {
+          "startSec": 217.4,
+          "endSec": 218.3,
+          "text": "Alexander,"
+        },
+        {
+          "startSec": 218.3,
+          "endSec": 219.1,
+          "text": "presenter"
+        },
+        {
+          "startSec": 219.1,
+          "endSec": 219.3,
+          "text": "of"
+        }
+      ]
+    },
+    {
+      "startSec": 219.1,
+      "endSec": 223.1,
+      "text": "of BBC World Service Program, the food chain.",
+      "words": [
+        {
+          "startSec": 219.1,
+          "endSec": 219.3,
+          "text": "of"
+        },
+        {
+          "startSec": 219.3,
+          "endSec": 219.6,
+          "text": "BBC"
+        },
+        {
+          "startSec": 219.6,
+          "endSec": 220.1,
+          "text": "World"
+        },
+        {
+          "startSec": 220.1,
+          "endSec": 220.8,
+          "text": "Service"
+        },
+        {
+          "startSec": 220.8,
+          "endSec": 221.6,
+          "text": "Program,"
+        },
+        {
+          "startSec": 221.6,
+          "endSec": 221.9,
+          "text": "the"
+        },
+        {
+          "startSec": 221.9,
+          "endSec": 222.3,
+          "text": "food"
+        },
+        {
+          "startSec": 222.3,
+          "endSec": 223.1,
+          "text": "chain."
+        },
+        {
+          "startSec": 223.1,
+          "endSec": 223.6,
+          "text": "Perhaps"
+        }
+      ]
+    },
+    {
+      "startSec": 223.1,
+      "endSec": 227.8,
+      "text": "Perhaps the simplest example is, why do we clink glasses? When we have a toast, if you",
+      "words": [
+        {
+          "startSec": 223.1,
+          "endSec": 223.6,
+          "text": "Perhaps"
+        },
+        {
+          "startSec": 223.6,
+          "endSec": 223.8,
+          "text": "the"
+        },
+        {
+          "startSec": 223.8,
+          "endSec": 224.3,
+          "text": "simplest"
+        },
+        {
+          "startSec": 224.3,
+          "endSec": 224.8,
+          "text": "example"
+        },
+        {
+          "startSec": 224.8,
+          "endSec": 225.1,
+          "text": "is,"
+        },
+        {
+          "startSec": 225.1,
+          "endSec": 225.3,
+          "text": "why"
+        },
+        {
+          "startSec": 225.3,
+          "endSec": 225.4,
+          "text": "do"
+        },
+        {
+          "startSec": 225.4,
+          "endSec": 225.5,
+          "text": "we"
+        },
+        {
+          "startSec": 225.5,
+          "endSec": 225.9,
+          "text": "clink"
+        },
+        {
+          "startSec": 225.9,
+          "endSec": 226.6,
+          "text": "glasses?"
+        },
+        {
+          "startSec": 226.6,
+          "endSec": 226.9,
+          "text": "When"
+        },
+        {
+          "startSec": 226.9,
+          "endSec": 227,
+          "text": "we"
+        },
+        {
+          "startSec": 227,
+          "endSec": 227.2,
+          "text": "have"
+        },
+        {
+          "startSec": 227.2,
+          "endSec": 227.2,
+          "text": "a"
+        },
+        {
+          "startSec": 227.2,
+          "endSec": 227.6,
+          "text": "toast,"
+        },
+        {
+          "startSec": 227.6,
+          "endSec": 227.7,
+          "text": "if"
+        },
+        {
+          "startSec": 227.7,
+          "endSec": 227.8,
+          "text": "you"
+        },
+        {
+          "startSec": 227.8,
+          "endSec": 228.2,
+          "text": "clink"
+        }
+      ]
+    },
+    {
+      "startSec": 227.8,
+      "endSec": 232.5,
+      "text": "clink glasses, you're slopping a bit of your drink into his cup and he's slopping a bit",
+      "words": [
+        {
+          "startSec": 227.8,
+          "endSec": 228.2,
+          "text": "clink"
+        },
+        {
+          "startSec": 228.2,
+          "endSec": 228.8,
+          "text": "glasses,"
+        },
+        {
+          "startSec": 228.8,
+          "endSec": 229.1,
+          "text": "you're"
+        },
+        {
+          "startSec": 229.1,
+          "endSec": 229.7,
+          "text": "slopping"
+        },
+        {
+          "startSec": 229.7,
+          "endSec": 229.7,
+          "text": "a"
+        },
+        {
+          "startSec": 229.7,
+          "endSec": 229.9,
+          "text": "bit"
+        },
+        {
+          "startSec": 229.9,
+          "endSec": 230,
+          "text": "of"
+        },
+        {
+          "startSec": 230,
+          "endSec": 230.3,
+          "text": "your"
+        },
+        {
+          "startSec": 230.3,
+          "endSec": 230.6,
+          "text": "drink"
+        },
+        {
+          "startSec": 230.6,
+          "endSec": 230.9,
+          "text": "into"
+        },
+        {
+          "startSec": 230.9,
+          "endSec": 231.1,
+          "text": "his"
+        },
+        {
+          "startSec": 231.1,
+          "endSec": 231.3,
+          "text": "cup"
+        },
+        {
+          "startSec": 231.3,
+          "endSec": 231.4,
+          "text": "and"
+        },
+        {
+          "startSec": 231.4,
+          "endSec": 231.7,
+          "text": "he's"
+        },
+        {
+          "startSec": 231.7,
+          "endSec": 232.3,
+          "text": "slopping"
+        },
+        {
+          "startSec": 232.3,
+          "endSec": 232.4,
+          "text": "a"
+        },
+        {
+          "startSec": 232.4,
+          "endSec": 232.5,
+          "text": "bit"
+        },
+        {
+          "startSec": 232.5,
+          "endSec": 232.7,
+          "text": "of"
+        }
+      ]
+    },
+    {
+      "startSec": 232.5,
+      "endSec": 238.9,
+      "text": "of drink into your cup. And therefore, by having that toast, you are showing, look, I trust",
+      "words": [
+        {
+          "startSec": 232.5,
+          "endSec": 232.7,
+          "text": "of"
+        },
+        {
+          "startSec": 232.7,
+          "endSec": 233.2,
+          "text": "drink"
+        },
+        {
+          "startSec": 233.2,
+          "endSec": 233.6,
+          "text": "into"
+        },
+        {
+          "startSec": 233.6,
+          "endSec": 233.9,
+          "text": "your"
+        },
+        {
+          "startSec": 233.9,
+          "endSec": 234.5,
+          "text": "cup."
+        },
+        {
+          "startSec": 234.5,
+          "endSec": 234.7,
+          "text": "And"
+        },
+        {
+          "startSec": 234.7,
+          "endSec": 235.5,
+          "text": "therefore,"
+        },
+        {
+          "startSec": 235.5,
+          "endSec": 235.7,
+          "text": "by"
+        },
+        {
+          "startSec": 235.7,
+          "endSec": 236.1,
+          "text": "having"
+        },
+        {
+          "startSec": 236.1,
+          "endSec": 236.4,
+          "text": "that"
+        },
+        {
+          "startSec": 236.4,
+          "endSec": 236.9,
+          "text": "toast,"
+        },
+        {
+          "startSec": 236.9,
+          "endSec": 237.1,
+          "text": "you"
+        },
+        {
+          "startSec": 237.1,
+          "endSec": 237.3,
+          "text": "are"
+        },
+        {
+          "startSec": 237.3,
+          "endSec": 237.9,
+          "text": "showing,"
+        },
+        {
+          "startSec": 237.9,
+          "endSec": 238.4,
+          "text": "look,"
+        },
+        {
+          "startSec": 238.4,
+          "endSec": 238.6,
+          "text": "I"
+        },
+        {
+          "startSec": 238.6,
+          "endSec": 238.9,
+          "text": "trust"
+        },
+        {
+          "startSec": 238.9,
+          "endSec": 239.3,
+          "text": "you,"
+        }
+      ]
+    },
+    {
+      "startSec": 238.9,
+      "endSec": 242,
+      "text": "you, you trust me, and that's why we do it.",
+      "words": [
+        {
+          "startSec": 238.9,
+          "endSec": 239.3,
+          "text": "you,"
+        },
+        {
+          "startSec": 239.3,
+          "endSec": 239.6,
+          "text": "you"
+        },
+        {
+          "startSec": 239.6,
+          "endSec": 239.9,
+          "text": "trust"
+        },
+        {
+          "startSec": 239.9,
+          "endSec": 240.3,
+          "text": "me,"
+        },
+        {
+          "startSec": 240.3,
+          "endSec": 240.5,
+          "text": "and"
+        },
+        {
+          "startSec": 240.5,
+          "endSec": 241,
+          "text": "that's"
+        },
+        {
+          "startSec": 241,
+          "endSec": 241.2,
+          "text": "why"
+        },
+        {
+          "startSec": 241.2,
+          "endSec": 241.4,
+          "text": "we"
+        },
+        {
+          "startSec": 241.4,
+          "endSec": 241.5,
+          "text": "do"
+        },
+        {
+          "startSec": 241.5,
+          "endSec": 242,
+          "text": "it."
+        },
+        {
+          "startSec": 242,
+          "endSec": 242.1,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 242,
+      "endSec": 245.8,
+      "text": "If you've poisoned my drink that's now slopped into your cup, you won't drink it.",
+      "words": [
+        {
+          "startSec": 242,
+          "endSec": 242.1,
+          "text": "If"
+        },
+        {
+          "startSec": 242.1,
+          "endSec": 242.4,
+          "text": "you've"
+        },
+        {
+          "startSec": 242.4,
+          "endSec": 242.8,
+          "text": "poisoned"
+        },
+        {
+          "startSec": 242.8,
+          "endSec": 242.9,
+          "text": "my"
+        },
+        {
+          "startSec": 242.9,
+          "endSec": 243.2,
+          "text": "drink"
+        },
+        {
+          "startSec": 243.2,
+          "endSec": 243.5,
+          "text": "that's"
+        },
+        {
+          "startSec": 243.5,
+          "endSec": 243.7,
+          "text": "now"
+        },
+        {
+          "startSec": 243.7,
+          "endSec": 244.1,
+          "text": "slopped"
+        },
+        {
+          "startSec": 244.1,
+          "endSec": 244.3,
+          "text": "into"
+        },
+        {
+          "startSec": 244.3,
+          "endSec": 244.5,
+          "text": "your"
+        },
+        {
+          "startSec": 244.5,
+          "endSec": 244.7,
+          "text": "cup,"
+        },
+        {
+          "startSec": 244.7,
+          "endSec": 244.9,
+          "text": "you"
+        },
+        {
+          "startSec": 244.9,
+          "endSec": 245.2,
+          "text": "won't"
+        },
+        {
+          "startSec": 245.2,
+          "endSec": 245.4,
+          "text": "drink"
+        },
+        {
+          "startSec": 245.4,
+          "endSec": 245.8,
+          "text": "it."
+        },
+        {
+          "startSec": 245.8,
+          "endSec": 246.8,
+          "text": "Correct."
+        }
+      ]
+    },
+    {
+      "startSec": 245.8,
+      "endSec": 246.8,
+      "text": "Correct.",
+      "words": [
+        {
+          "startSec": 245.8,
+          "endSec": 246.8,
+          "text": "Correct."
+        },
+        {
+          "startSec": 246.8,
+          "endSec": 247,
+          "text": "Hats"
+        }
+      ]
+    },
+    {
+      "startSec": 246.8,
+      "endSec": 251.5,
+      "text": "Hats at the table. We're hearing from BBC World Service listeners that that is a no-no,",
+      "words": [
+        {
+          "startSec": 246.8,
+          "endSec": 247,
+          "text": "Hats"
+        },
+        {
+          "startSec": 247,
+          "endSec": 247.1,
+          "text": "at"
+        },
+        {
+          "startSec": 247.1,
+          "endSec": 247.3,
+          "text": "the"
+        },
+        {
+          "startSec": 247.3,
+          "endSec": 247.8,
+          "text": "table."
+        },
+        {
+          "startSec": 247.8,
+          "endSec": 248.1,
+          "text": "We're"
+        },
+        {
+          "startSec": 248.1,
+          "endSec": 248.5,
+          "text": "hearing"
+        },
+        {
+          "startSec": 248.5,
+          "endSec": 248.8,
+          "text": "from"
+        },
+        {
+          "startSec": 248.8,
+          "endSec": 248.9,
+          "text": "BBC"
+        },
+        {
+          "startSec": 248.9,
+          "endSec": 249.2,
+          "text": "World"
+        },
+        {
+          "startSec": 249.2,
+          "endSec": 249.7,
+          "text": "Service"
+        },
+        {
+          "startSec": 249.7,
+          "endSec": 250.2,
+          "text": "listeners"
+        },
+        {
+          "startSec": 250.2,
+          "endSec": 250.4,
+          "text": "that"
+        },
+        {
+          "startSec": 250.4,
+          "endSec": 250.7,
+          "text": "that"
+        },
+        {
+          "startSec": 250.7,
+          "endSec": 250.8,
+          "text": "is"
+        },
+        {
+          "startSec": 250.8,
+          "endSec": 250.9,
+          "text": "a"
+        },
+        {
+          "startSec": 250.9,
+          "endSec": 251.5,
+          "text": "no-no,"
+        },
+        {
+          "startSec": 251.5,
+          "endSec": 251.7,
+          "text": "is"
+        }
+      ]
+    },
+    {
+      "startSec": 251.5,
+      "endSec": 252.6,
+      "text": "is that right?",
+      "words": [
+        {
+          "startSec": 251.5,
+          "endSec": 251.7,
+          "text": "is"
+        },
+        {
+          "startSec": 251.7,
+          "endSec": 252,
+          "text": "that"
+        },
+        {
+          "startSec": 252,
+          "endSec": 252.6,
+          "text": "right?"
+        },
+        {
+          "startSec": 252.6,
+          "endSec": 252.8,
+          "text": "It's"
+        }
+      ]
+    },
+    {
+      "startSec": 252.6,
+      "endSec": 258.8,
+      "text": "It's not something I would do. In fact, I would not be wearing a hat inside, anyway.",
+      "words": [
+        {
+          "startSec": 252.6,
+          "endSec": 252.8,
+          "text": "It's"
+        },
+        {
+          "startSec": 252.8,
+          "endSec": 253,
+          "text": "not"
+        },
+        {
+          "startSec": 253,
+          "endSec": 253.5,
+          "text": "something"
+        },
+        {
+          "startSec": 253.5,
+          "endSec": 253.5,
+          "text": "I"
+        },
+        {
+          "startSec": 253.5,
+          "endSec": 253.8,
+          "text": "would"
+        },
+        {
+          "startSec": 253.8,
+          "endSec": 254.1,
+          "text": "do."
+        },
+        {
+          "startSec": 254.1,
+          "endSec": 254.3,
+          "text": "In"
+        },
+        {
+          "startSec": 254.3,
+          "endSec": 254.9,
+          "text": "fact,"
+        },
+        {
+          "startSec": 254.9,
+          "endSec": 255,
+          "text": "I"
+        },
+        {
+          "startSec": 255,
+          "endSec": 255.5,
+          "text": "would"
+        },
+        {
+          "startSec": 255.5,
+          "endSec": 255.8,
+          "text": "not"
+        },
+        {
+          "startSec": 255.8,
+          "endSec": 256,
+          "text": "be"
+        },
+        {
+          "startSec": 256,
+          "endSec": 256.6,
+          "text": "wearing"
+        },
+        {
+          "startSec": 256.6,
+          "endSec": 256.7,
+          "text": "a"
+        },
+        {
+          "startSec": 256.7,
+          "endSec": 257,
+          "text": "hat"
+        },
+        {
+          "startSec": 257,
+          "endSec": 257.8,
+          "text": "inside,"
+        },
+        {
+          "startSec": 257.8,
+          "endSec": 258.8,
+          "text": "anyway."
+        },
+        {
+          "startSec": 258.8,
+          "endSec": 258.9,
+          "text": "So"
+        }
+      ]
+    },
+    {
+      "startSec": 258.8,
+      "endSec": 264.8,
+      "text": "So Phil, when we clink glasses in a toast, some of my drink might spill into your glass",
+      "words": [
+        {
+          "startSec": 258.8,
+          "endSec": 258.9,
+          "text": "So"
+        },
+        {
+          "startSec": 258.9,
+          "endSec": 259.4,
+          "text": "Phil,"
+        },
+        {
+          "startSec": 259.4,
+          "endSec": 259.7,
+          "text": "when"
+        },
+        {
+          "startSec": 259.7,
+          "endSec": 259.9,
+          "text": "we"
+        },
+        {
+          "startSec": 259.9,
+          "endSec": 260.3,
+          "text": "clink"
+        },
+        {
+          "startSec": 260.3,
+          "endSec": 260.9,
+          "text": "glasses"
+        },
+        {
+          "startSec": 260.9,
+          "endSec": 261,
+          "text": "in"
+        },
+        {
+          "startSec": 261,
+          "endSec": 261.1,
+          "text": "a"
+        },
+        {
+          "startSec": 261.1,
+          "endSec": 261.7,
+          "text": "toast,"
+        },
+        {
+          "startSec": 261.7,
+          "endSec": 262,
+          "text": "some"
+        },
+        {
+          "startSec": 262,
+          "endSec": 262.2,
+          "text": "of"
+        },
+        {
+          "startSec": 262.2,
+          "endSec": 262.3,
+          "text": "my"
+        },
+        {
+          "startSec": 262.3,
+          "endSec": 262.8,
+          "text": "drink"
+        },
+        {
+          "startSec": 262.8,
+          "endSec": 263.2,
+          "text": "might"
+        },
+        {
+          "startSec": 263.2,
+          "endSec": 263.6,
+          "text": "spill"
+        },
+        {
+          "startSec": 263.6,
+          "endSec": 263.9,
+          "text": "into"
+        },
+        {
+          "startSec": 263.9,
+          "endSec": 264.2,
+          "text": "your"
+        },
+        {
+          "startSec": 264.2,
+          "endSec": 264.8,
+          "text": "glass"
+        },
+        {
+          "startSec": 264.8,
+          "endSec": 265,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "startSec": 264.8,
+      "endSec": 269.5,
+      "text": "and some of your drink might spill into mine. Historically, this mixing of drinks was a",
+      "words": [
+        {
+          "startSec": 264.8,
+          "endSec": 265,
+          "text": "and"
+        },
+        {
+          "startSec": 265,
+          "endSec": 265.3,
+          "text": "some"
+        },
+        {
+          "startSec": 265.3,
+          "endSec": 265.4,
+          "text": "of"
+        },
+        {
+          "startSec": 265.4,
+          "endSec": 265.7,
+          "text": "your"
+        },
+        {
+          "startSec": 265.7,
+          "endSec": 266.1,
+          "text": "drink"
+        },
+        {
+          "startSec": 266.1,
+          "endSec": 266.4,
+          "text": "might"
+        },
+        {
+          "startSec": 266.4,
+          "endSec": 266.8,
+          "text": "spill"
+        },
+        {
+          "startSec": 266.8,
+          "endSec": 267.1,
+          "text": "into"
+        },
+        {
+          "startSec": 267.1,
+          "endSec": 267.6,
+          "text": "mine."
+        },
+        {
+          "startSec": 267.6,
+          "endSec": 268.4,
+          "text": "Historically,"
+        },
+        {
+          "startSec": 268.4,
+          "endSec": 268.6,
+          "text": "this"
+        },
+        {
+          "startSec": 268.6,
+          "endSec": 268.9,
+          "text": "mixing"
+        },
+        {
+          "startSec": 268.9,
+          "endSec": 269,
+          "text": "of"
+        },
+        {
+          "startSec": 269,
+          "endSec": 269.3,
+          "text": "drinks"
+        },
+        {
+          "startSec": 269.3,
+          "endSec": 269.4,
+          "text": "was"
+        },
+        {
+          "startSec": 269.4,
+          "endSec": 269.5,
+          "text": "a"
+        }
+      ]
+    },
+    {
+      "startSec": 269.5,
+      "endSec": 272.2,
+      "text": "way of proving the drinks were not poisoned.",
+      "words": [
+        {
+          "startSec": 269.6,
+          "endSec": 269.7,
+          "text": "way"
+        },
+        {
+          "startSec": 269.7,
+          "endSec": 269.9,
+          "text": "of"
+        },
+        {
+          "startSec": 269.9,
+          "endSec": 270.3,
+          "text": "proving"
+        },
+        {
+          "startSec": 270.3,
+          "endSec": 270.5,
+          "text": "the"
+        },
+        {
+          "startSec": 270.5,
+          "endSec": 270.9,
+          "text": "drinks"
+        },
+        {
+          "startSec": 270.9,
+          "endSec": 271.2,
+          "text": "were"
+        },
+        {
+          "startSec": 271.2,
+          "endSec": 271.4,
+          "text": "not"
+        },
+        {
+          "startSec": 271.4,
+          "endSec": 272.2,
+          "text": "poisoned."
+        },
+        {
+          "startSec": 272.2,
+          "endSec": 272.5,
+          "text": "Ruth"
+        }
+      ]
+    },
+    {
+      "startSec": 272.2,
+      "endSec": 279.4,
+      "text": "Ruth also asks about wearing hats at the table, and Rupert calls this a no-no. A no-no is an",
+      "words": [
+        {
+          "startSec": 272.2,
+          "endSec": 272.5,
+          "text": "Ruth"
+        },
+        {
+          "startSec": 272.5,
+          "endSec": 272.9,
+          "text": "also"
+        },
+        {
+          "startSec": 272.9,
+          "endSec": 273.2,
+          "text": "asks"
+        },
+        {
+          "startSec": 273.2,
+          "endSec": 273.7,
+          "text": "about"
+        },
+        {
+          "startSec": 273.7,
+          "endSec": 274.3,
+          "text": "wearing"
+        },
+        {
+          "startSec": 274.3,
+          "endSec": 274.7,
+          "text": "hats"
+        },
+        {
+          "startSec": 274.7,
+          "endSec": 274.9,
+          "text": "at"
+        },
+        {
+          "startSec": 274.9,
+          "endSec": 275.1,
+          "text": "the"
+        },
+        {
+          "startSec": 275.1,
+          "endSec": 275.8,
+          "text": "table,"
+        },
+        {
+          "startSec": 275.8,
+          "endSec": 276,
+          "text": "and"
+        },
+        {
+          "startSec": 276,
+          "endSec": 276.6,
+          "text": "Rupert"
+        },
+        {
+          "startSec": 276.6,
+          "endSec": 277,
+          "text": "calls"
+        },
+        {
+          "startSec": 277,
+          "endSec": 277.4,
+          "text": "this"
+        },
+        {
+          "startSec": 277.4,
+          "endSec": 277.5,
+          "text": "a"
+        },
+        {
+          "startSec": 277.5,
+          "endSec": 278.2,
+          "text": "no-no."
+        },
+        {
+          "startSec": 278.2,
+          "endSec": 278.5,
+          "text": "A"
+        },
+        {
+          "startSec": 278.5,
+          "endSec": 279.1,
+          "text": "no-no"
+        },
+        {
+          "startSec": 279.1,
+          "endSec": 279.2,
+          "text": "is"
+        },
+        {
+          "startSec": 279.2,
+          "endSec": 279.4,
+          "text": "an"
+        },
+        {
+          "startSec": 279.4,
+          "endSec": 279.9,
+          "text": "informal"
+        }
+      ]
+    },
+    {
+      "startSec": 279.4,
+      "endSec": 283.8,
+      "text": "informal phrase for something that is considered socially unacceptable.",
+      "words": [
+        {
+          "startSec": 279.4,
+          "endSec": 279.9,
+          "text": "informal"
+        },
+        {
+          "startSec": 279.9,
+          "endSec": 280.3,
+          "text": "phrase"
+        },
+        {
+          "startSec": 280.3,
+          "endSec": 280.5,
+          "text": "for"
+        },
+        {
+          "startSec": 280.5,
+          "endSec": 281.1,
+          "text": "something"
+        },
+        {
+          "startSec": 281.1,
+          "endSec": 281.4,
+          "text": "that"
+        },
+        {
+          "startSec": 281.4,
+          "endSec": 281.5,
+          "text": "is"
+        },
+        {
+          "startSec": 281.5,
+          "endSec": 282.2,
+          "text": "considered"
+        },
+        {
+          "startSec": 282.2,
+          "endSec": 282.8,
+          "text": "socially"
+        },
+        {
+          "startSec": 282.8,
+          "endSec": 283.8,
+          "text": "unacceptable."
+        },
+        {
+          "startSec": 283.8,
+          "endSec": 284.4,
+          "text": "Etiquette"
+        }
+      ]
+    },
+    {
+      "startSec": 283.8,
+      "endSec": 289.6,
+      "text": "Etiquette varies a lot over time and culture, but the essential point is always to show appreciation",
+      "words": [
+        {
+          "startSec": 283.8,
+          "endSec": 284.4,
+          "text": "Etiquette"
+        },
+        {
+          "startSec": 284.4,
+          "endSec": 284.8,
+          "text": "varies"
+        },
+        {
+          "startSec": 284.8,
+          "endSec": 284.9,
+          "text": "a"
+        },
+        {
+          "startSec": 284.9,
+          "endSec": 285.1,
+          "text": "lot"
+        },
+        {
+          "startSec": 285.1,
+          "endSec": 285.3,
+          "text": "over"
+        },
+        {
+          "startSec": 285.3,
+          "endSec": 285.6,
+          "text": "time"
+        },
+        {
+          "startSec": 285.6,
+          "endSec": 285.8,
+          "text": "and"
+        },
+        {
+          "startSec": 285.8,
+          "endSec": 286.4,
+          "text": "culture,"
+        },
+        {
+          "startSec": 286.4,
+          "endSec": 286.5,
+          "text": "but"
+        },
+        {
+          "startSec": 286.5,
+          "endSec": 286.7,
+          "text": "the"
+        },
+        {
+          "startSec": 286.7,
+          "endSec": 287.3,
+          "text": "essential"
+        },
+        {
+          "startSec": 287.3,
+          "endSec": 287.6,
+          "text": "point"
+        },
+        {
+          "startSec": 287.6,
+          "endSec": 287.8,
+          "text": "is"
+        },
+        {
+          "startSec": 287.8,
+          "endSec": 288.2,
+          "text": "always"
+        },
+        {
+          "startSec": 288.2,
+          "endSec": 288.3,
+          "text": "to"
+        },
+        {
+          "startSec": 288.3,
+          "endSec": 288.6,
+          "text": "show"
+        },
+        {
+          "startSec": 288.6,
+          "endSec": 289.6,
+          "text": "appreciation"
+        },
+        {
+          "startSec": 289.6,
+          "endSec": 289.7,
+          "text": "by"
+        }
+      ]
+    },
+    {
+      "startSec": 289.6,
+      "endSec": 294.7,
+      "text": "by doing some things and avoiding others. And speaking of things to avoid, what was the",
+      "words": [
+        {
+          "startSec": 289.6,
+          "endSec": 289.7,
+          "text": "by"
+        },
+        {
+          "startSec": 289.7,
+          "endSec": 290.2,
+          "text": "doing"
+        },
+        {
+          "startSec": 290.2,
+          "endSec": 290.5,
+          "text": "some"
+        },
+        {
+          "startSec": 290.5,
+          "endSec": 291,
+          "text": "things"
+        },
+        {
+          "startSec": 291,
+          "endSec": 291.3,
+          "text": "and"
+        },
+        {
+          "startSec": 291.3,
+          "endSec": 292,
+          "text": "avoiding"
+        },
+        {
+          "startSec": 292,
+          "endSec": 292.8,
+          "text": "others."
+        },
+        {
+          "startSec": 292.8,
+          "endSec": 293,
+          "text": "And"
+        },
+        {
+          "startSec": 293,
+          "endSec": 293.4,
+          "text": "speaking"
+        },
+        {
+          "startSec": 293.4,
+          "endSec": 293.5,
+          "text": "of"
+        },
+        {
+          "startSec": 293.5,
+          "endSec": 293.8,
+          "text": "things"
+        },
+        {
+          "startSec": 293.8,
+          "endSec": 293.9,
+          "text": "to"
+        },
+        {
+          "startSec": 293.9,
+          "endSec": 294.2,
+          "text": "avoid,"
+        },
+        {
+          "startSec": 294.2,
+          "endSec": 294.5,
+          "text": "what"
+        },
+        {
+          "startSec": 294.5,
+          "endSec": 294.6,
+          "text": "was"
+        },
+        {
+          "startSec": 294.6,
+          "endSec": 294.7,
+          "text": "the"
+        },
+        {
+          "startSec": 294.7,
+          "endSec": 295.1,
+          "text": "answer"
+        }
+      ]
+    },
+    {
+      "startSec": 294.7,
+      "endSec": 296.4,
+      "text": "answer to your question, Phil?",
+      "words": [
+        {
+          "startSec": 294.7,
+          "endSec": 295.1,
+          "text": "answer"
+        },
+        {
+          "startSec": 295.1,
+          "endSec": 295.2,
+          "text": "to"
+        },
+        {
+          "startSec": 295.2,
+          "endSec": 295.4,
+          "text": "your"
+        },
+        {
+          "startSec": 295.4,
+          "endSec": 296,
+          "text": "question,"
+        },
+        {
+          "startSec": 296,
+          "endSec": 296.4,
+          "text": "Phil?"
+        }
+      ]
+    },
+    {
+      "startSec": 296.4,
+      "endSec": 301.8,
+      "text": "OK, well, I asked you what listeners of the food chain thought was the biggest etiquette",
+      "words": [
+        {
+          "startSec": 296.5,
+          "endSec": 296.7,
+          "text": "OK,"
+        },
+        {
+          "startSec": 296.7,
+          "endSec": 297.1,
+          "text": "well,"
+        },
+        {
+          "startSec": 297.1,
+          "endSec": 297.2,
+          "text": "I"
+        },
+        {
+          "startSec": 297.2,
+          "endSec": 297.5,
+          "text": "asked"
+        },
+        {
+          "startSec": 297.5,
+          "endSec": 297.7,
+          "text": "you"
+        },
+        {
+          "startSec": 297.7,
+          "endSec": 298,
+          "text": "what"
+        },
+        {
+          "startSec": 298,
+          "endSec": 298.7,
+          "text": "listeners"
+        },
+        {
+          "startSec": 298.7,
+          "endSec": 298.8,
+          "text": "of"
+        },
+        {
+          "startSec": 298.8,
+          "endSec": 299,
+          "text": "the"
+        },
+        {
+          "startSec": 299,
+          "endSec": 299.3,
+          "text": "food"
+        },
+        {
+          "startSec": 299.3,
+          "endSec": 299.6,
+          "text": "chain"
+        },
+        {
+          "startSec": 299.6,
+          "endSec": 300.1,
+          "text": "thought"
+        },
+        {
+          "startSec": 300.1,
+          "endSec": 300.3,
+          "text": "was"
+        },
+        {
+          "startSec": 300.3,
+          "endSec": 300.5,
+          "text": "the"
+        },
+        {
+          "startSec": 300.5,
+          "endSec": 301,
+          "text": "biggest"
+        },
+        {
+          "startSec": 301,
+          "endSec": 301.8,
+          "text": "etiquette"
+        },
+        {
+          "startSec": 301.8,
+          "endSec": 302.3,
+          "text": "problem"
+        }
+      ]
+    },
+    {
+      "startSec": 301.8,
+      "endSec": 307.6,
+      "text": "problem when people are eating. You said that it was people eating noisily, and I can reveal.",
+      "words": [
+        {
+          "startSec": 301.8,
+          "endSec": 302.3,
+          "text": "problem"
+        },
+        {
+          "startSec": 302.3,
+          "endSec": 302.6,
+          "text": "when"
+        },
+        {
+          "startSec": 302.6,
+          "endSec": 303,
+          "text": "people"
+        },
+        {
+          "startSec": 303,
+          "endSec": 303.2,
+          "text": "are"
+        },
+        {
+          "startSec": 303.2,
+          "endSec": 303.9,
+          "text": "eating."
+        },
+        {
+          "startSec": 303.9,
+          "endSec": 304.1,
+          "text": "You"
+        },
+        {
+          "startSec": 304.1,
+          "endSec": 304.4,
+          "text": "said"
+        },
+        {
+          "startSec": 304.4,
+          "endSec": 304.7,
+          "text": "that"
+        },
+        {
+          "startSec": 304.7,
+          "endSec": 304.9,
+          "text": "it"
+        },
+        {
+          "startSec": 304.9,
+          "endSec": 305.1,
+          "text": "was"
+        },
+        {
+          "startSec": 305.1,
+          "endSec": 305.5,
+          "text": "people"
+        },
+        {
+          "startSec": 305.5,
+          "endSec": 305.9,
+          "text": "eating"
+        },
+        {
+          "startSec": 305.9,
+          "endSec": 306.6,
+          "text": "noisily,"
+        },
+        {
+          "startSec": 306.6,
+          "endSec": 306.7,
+          "text": "and"
+        },
+        {
+          "startSec": 306.7,
+          "endSec": 306.8,
+          "text": "I"
+        },
+        {
+          "startSec": 306.8,
+          "endSec": 306.9,
+          "text": "can"
+        },
+        {
+          "startSec": 306.9,
+          "endSec": 307.6,
+          "text": "reveal."
+        },
+        {
+          "startSec": 307.6,
+          "endSec": 308,
+          "text": "That's"
+        }
+      ]
+    },
+    {
+      "startSec": 307.6,
+      "endSec": 311.6,
+      "text": "That's the right answer. It was people eating noisily.",
+      "words": [
+        {
+          "startSec": 307.6,
+          "endSec": 308,
+          "text": "That's"
+        },
+        {
+          "startSec": 308,
+          "endSec": 308.2,
+          "text": "the"
+        },
+        {
+          "startSec": 308.2,
+          "endSec": 308.5,
+          "text": "right"
+        },
+        {
+          "startSec": 308.5,
+          "endSec": 309.1,
+          "text": "answer."
+        },
+        {
+          "startSec": 309.1,
+          "endSec": 309.3,
+          "text": "It"
+        },
+        {
+          "startSec": 309.3,
+          "endSec": 309.5,
+          "text": "was"
+        },
+        {
+          "startSec": 309.5,
+          "endSec": 310.1,
+          "text": "people"
+        },
+        {
+          "startSec": 310.1,
+          "endSec": 310.6,
+          "text": "eating"
+        },
+        {
+          "startSec": 310.6,
+          "endSec": 311.6,
+          "text": "noisily."
+        },
+        {
+          "startSec": 311.6,
+          "endSec": 311.9,
+          "text": "OK,"
+        }
+      ]
+    },
+    {
+      "startSec": 311.6,
+      "endSec": 317.6,
+      "text": "OK, let's recap the vocabulary we've learnt about mealtime, do's and don'ts. Rules about",
+      "words": [
+        {
+          "startSec": 311.6,
+          "endSec": 311.9,
+          "text": "OK,"
+        },
+        {
+          "startSec": 311.9,
+          "endSec": 312.3,
+          "text": "let's"
+        },
+        {
+          "startSec": 312.3,
+          "endSec": 312.7,
+          "text": "recap"
+        },
+        {
+          "startSec": 312.7,
+          "endSec": 312.9,
+          "text": "the"
+        },
+        {
+          "startSec": 312.9,
+          "endSec": 313.7,
+          "text": "vocabulary"
+        },
+        {
+          "startSec": 313.7,
+          "endSec": 314.1,
+          "text": "we've"
+        },
+        {
+          "startSec": 314.1,
+          "endSec": 314.6,
+          "text": "learnt"
+        },
+        {
+          "startSec": 314.6,
+          "endSec": 315,
+          "text": "about"
+        },
+        {
+          "startSec": 315,
+          "endSec": 315.8,
+          "text": "mealtime,"
+        },
+        {
+          "startSec": 315.8,
+          "endSec": 316.1,
+          "text": "do's"
+        },
+        {
+          "startSec": 316.1,
+          "endSec": 316.4,
+          "text": "and"
+        },
+        {
+          "startSec": 316.4,
+          "endSec": 317.2,
+          "text": "don'ts."
+        },
+        {
+          "startSec": 317.2,
+          "endSec": 317.3,
+          "text": "Rules"
+        },
+        {
+          "startSec": 317.3,
+          "endSec": 317.6,
+          "text": "about"
+        },
+        {
+          "startSec": 317.6,
+          "endSec": 317.9,
+          "text": "how"
+        }
+      ]
+    },
+    {
+      "startSec": 317.6,
+      "endSec": 320.8,
+      "text": "how you should and shouldn't behave.",
+      "words": [
+        {
+          "startSec": 317.6,
+          "endSec": 317.9,
+          "text": "how"
+        },
+        {
+          "startSec": 317.9,
+          "endSec": 318.1,
+          "text": "you"
+        },
+        {
+          "startSec": 318.1,
+          "endSec": 318.7,
+          "text": "should"
+        },
+        {
+          "startSec": 318.7,
+          "endSec": 319,
+          "text": "and"
+        },
+        {
+          "startSec": 319,
+          "endSec": 319.9,
+          "text": "shouldn't"
+        },
+        {
+          "startSec": 319.9,
+          "endSec": 320.8,
+          "text": "behave."
+        },
+        {
+          "startSec": 320.8,
+          "endSec": 321,
+          "text": "Your"
+        }
+      ]
+    },
+    {
+      "startSec": 320.8,
+      "endSec": 326,
+      "text": "Your first impression of someone is the opinion you form when meeting them for the first time.",
+      "words": [
+        {
+          "startSec": 320.8,
+          "endSec": 321,
+          "text": "Your"
+        },
+        {
+          "startSec": 321,
+          "endSec": 321.3,
+          "text": "first"
+        },
+        {
+          "startSec": 321.3,
+          "endSec": 321.8,
+          "text": "impression"
+        },
+        {
+          "startSec": 321.8,
+          "endSec": 322,
+          "text": "of"
+        },
+        {
+          "startSec": 322,
+          "endSec": 322.3,
+          "text": "someone"
+        },
+        {
+          "startSec": 322.3,
+          "endSec": 322.5,
+          "text": "is"
+        },
+        {
+          "startSec": 322.5,
+          "endSec": 322.6,
+          "text": "the"
+        },
+        {
+          "startSec": 322.6,
+          "endSec": 323,
+          "text": "opinion"
+        },
+        {
+          "startSec": 323,
+          "endSec": 323.2,
+          "text": "you"
+        },
+        {
+          "startSec": 323.2,
+          "endSec": 323.4,
+          "text": "form"
+        },
+        {
+          "startSec": 323.4,
+          "endSec": 323.6,
+          "text": "when"
+        },
+        {
+          "startSec": 323.6,
+          "endSec": 324,
+          "text": "meeting"
+        },
+        {
+          "startSec": 324,
+          "endSec": 324.2,
+          "text": "them"
+        },
+        {
+          "startSec": 324.2,
+          "endSec": 324.4,
+          "text": "for"
+        },
+        {
+          "startSec": 324.4,
+          "endSec": 324.6,
+          "text": "the"
+        },
+        {
+          "startSec": 324.6,
+          "endSec": 325,
+          "text": "first"
+        },
+        {
+          "startSec": 325,
+          "endSec": 326,
+          "text": "time."
+        }
+      ]
+    },
+    {
+      "startSec": 326,
+      "endSec": 331.2,
+      "text": "The word 'picky' is used to describe someone who is too strict about rules.",
+      "words": [
+        {
+          "startSec": 326.1,
+          "endSec": 326.2,
+          "text": "The"
+        },
+        {
+          "startSec": 326.2,
+          "endSec": 326.6,
+          "text": "word"
+        },
+        {
+          "startSec": 326.6,
+          "endSec": 327.1,
+          "text": "'picky'"
+        },
+        {
+          "startSec": 327.1,
+          "endSec": 327.3,
+          "text": "is"
+        },
+        {
+          "startSec": 327.3,
+          "endSec": 327.6,
+          "text": "used"
+        },
+        {
+          "startSec": 327.6,
+          "endSec": 327.8,
+          "text": "to"
+        },
+        {
+          "startSec": 327.8,
+          "endSec": 328.4,
+          "text": "describe"
+        },
+        {
+          "startSec": 328.4,
+          "endSec": 329,
+          "text": "someone"
+        },
+        {
+          "startSec": 329,
+          "endSec": 329.2,
+          "text": "who"
+        },
+        {
+          "startSec": 329.2,
+          "endSec": 329.4,
+          "text": "is"
+        },
+        {
+          "startSec": 329.4,
+          "endSec": 329.6,
+          "text": "too"
+        },
+        {
+          "startSec": 329.6,
+          "endSec": 330.1,
+          "text": "strict"
+        },
+        {
+          "startSec": 330.1,
+          "endSec": 330.5,
+          "text": "about"
+        },
+        {
+          "startSec": 330.5,
+          "endSec": 331.2,
+          "text": "rules."
+        },
+        {
+          "startSec": 331.2,
+          "endSec": 331.3,
+          "text": "If"
+        }
+      ]
+    },
+    {
+      "startSec": 331.2,
+      "endSec": 336.6,
+      "text": "If you clink glasses, you touch two drinking glasses together as a gesture of friendship,",
+      "words": [
+        {
+          "startSec": 331.2,
+          "endSec": 331.3,
+          "text": "If"
+        },
+        {
+          "startSec": 331.3,
+          "endSec": 331.5,
+          "text": "you"
+        },
+        {
+          "startSec": 331.5,
+          "endSec": 331.8,
+          "text": "clink"
+        },
+        {
+          "startSec": 331.8,
+          "endSec": 332.4,
+          "text": "glasses,"
+        },
+        {
+          "startSec": 332.4,
+          "endSec": 332.6,
+          "text": "you"
+        },
+        {
+          "startSec": 332.6,
+          "endSec": 332.9,
+          "text": "touch"
+        },
+        {
+          "startSec": 332.9,
+          "endSec": 333.1,
+          "text": "two"
+        },
+        {
+          "startSec": 333.1,
+          "endSec": 333.6,
+          "text": "drinking"
+        },
+        {
+          "startSec": 333.6,
+          "endSec": 334.1,
+          "text": "glasses"
+        },
+        {
+          "startSec": 334.1,
+          "endSec": 334.6,
+          "text": "together"
+        },
+        {
+          "startSec": 334.6,
+          "endSec": 334.7,
+          "text": "as"
+        },
+        {
+          "startSec": 334.7,
+          "endSec": 334.8,
+          "text": "a"
+        },
+        {
+          "startSec": 334.8,
+          "endSec": 335.3,
+          "text": "gesture"
+        },
+        {
+          "startSec": 335.3,
+          "endSec": 335.4,
+          "text": "of"
+        },
+        {
+          "startSec": 335.4,
+          "endSec": 336.6,
+          "text": "friendship,"
+        },
+        {
+          "startSec": 336.6,
+          "endSec": 337.1,
+          "text": "probably"
+        }
+      ]
+    },
+    {
+      "startSec": 336.6,
+      "endSec": 340.6,
+      "text": "probably because you're making a toast, a show of respect that involves drinking from",
+      "words": [
+        {
+          "startSec": 336.6,
+          "endSec": 337.1,
+          "text": "probably"
+        },
+        {
+          "startSec": 337.1,
+          "endSec": 337.5,
+          "text": "because"
+        },
+        {
+          "startSec": 337.5,
+          "endSec": 337.8,
+          "text": "you're"
+        },
+        {
+          "startSec": 337.8,
+          "endSec": 338.1,
+          "text": "making"
+        },
+        {
+          "startSec": 338.1,
+          "endSec": 338.1,
+          "text": "a"
+        },
+        {
+          "startSec": 338.1,
+          "endSec": 338.5,
+          "text": "toast,"
+        },
+        {
+          "startSec": 338.5,
+          "endSec": 338.6,
+          "text": "a"
+        },
+        {
+          "startSec": 338.6,
+          "endSec": 338.8,
+          "text": "show"
+        },
+        {
+          "startSec": 338.8,
+          "endSec": 338.9,
+          "text": "of"
+        },
+        {
+          "startSec": 338.9,
+          "endSec": 339.3,
+          "text": "respect"
+        },
+        {
+          "startSec": 339.3,
+          "endSec": 339.5,
+          "text": "that"
+        },
+        {
+          "startSec": 339.5,
+          "endSec": 339.9,
+          "text": "involves"
+        },
+        {
+          "startSec": 339.9,
+          "endSec": 340.4,
+          "text": "drinking"
+        },
+        {
+          "startSec": 340.4,
+          "endSec": 340.6,
+          "text": "from"
+        },
+        {
+          "startSec": 340.6,
+          "endSec": 340.7,
+          "text": "a"
+        }
+      ]
+    },
+    {
+      "startSec": 340.6,
+      "endSec": 342,
+      "text": "a glass of alcohol.",
+      "words": [
+        {
+          "startSec": 340.6,
+          "endSec": 340.7,
+          "text": "a"
+        },
+        {
+          "startSec": 340.7,
+          "endSec": 341.1,
+          "text": "glass"
+        },
+        {
+          "startSec": 341.1,
+          "endSec": 341.2,
+          "text": "of"
+        },
+        {
+          "startSec": 341.2,
+          "endSec": 342,
+          "text": "alcohol."
+        },
+        {
+          "startSec": 342,
+          "endSec": 342.3,
+          "text": "And"
+        }
+      ]
+    },
+    {
+      "startSec": 342,
+      "endSec": 349,
+      "text": "And finally, a no-no is an informal word for something considered socially unacceptable.",
+      "words": [
+        {
+          "startSec": 342,
+          "endSec": 342.3,
+          "text": "And"
+        },
+        {
+          "startSec": 342.3,
+          "endSec": 343.1,
+          "text": "finally,"
+        },
+        {
+          "startSec": 343.1,
+          "endSec": 343.2,
+          "text": "a"
+        },
+        {
+          "startSec": 343.2,
+          "endSec": 343.6,
+          "text": "no-no"
+        },
+        {
+          "startSec": 343.6,
+          "endSec": 343.8,
+          "text": "is"
+        },
+        {
+          "startSec": 343.8,
+          "endSec": 343.9,
+          "text": "an"
+        },
+        {
+          "startSec": 343.9,
+          "endSec": 344.6,
+          "text": "informal"
+        },
+        {
+          "startSec": 344.6,
+          "endSec": 345,
+          "text": "word"
+        },
+        {
+          "startSec": 345,
+          "endSec": 345.2,
+          "text": "for"
+        },
+        {
+          "startSec": 345.2,
+          "endSec": 346,
+          "text": "something"
+        },
+        {
+          "startSec": 346,
+          "endSec": 346.9,
+          "text": "considered"
+        },
+        {
+          "startSec": 346.9,
+          "endSec": 347.6,
+          "text": "socially"
+        },
+        {
+          "startSec": 347.6,
+          "endSec": 349,
+          "text": "unacceptable."
+        },
+        {
+          "startSec": 349,
+          "endSec": 349.3,
+          "text": "Once"
+        }
+      ]
+    },
+    {
+      "startSec": 349,
+      "endSec": 353.8,
+      "text": "Once again, our six minutes are up, but if you'd like to find out more about dining etiquette,",
+      "words": [
+        {
+          "startSec": 349,
+          "endSec": 349.3,
+          "text": "Once"
+        },
+        {
+          "startSec": 349.3,
+          "endSec": 349.7,
+          "text": "again,"
+        },
+        {
+          "startSec": 349.7,
+          "endSec": 349.8,
+          "text": "our"
+        },
+        {
+          "startSec": 349.8,
+          "endSec": 350,
+          "text": "six"
+        },
+        {
+          "startSec": 350,
+          "endSec": 350.4,
+          "text": "minutes"
+        },
+        {
+          "startSec": 350.4,
+          "endSec": 350.6,
+          "text": "are"
+        },
+        {
+          "startSec": 350.6,
+          "endSec": 350.8,
+          "text": "up,"
+        },
+        {
+          "startSec": 350.8,
+          "endSec": 351,
+          "text": "but"
+        },
+        {
+          "startSec": 351,
+          "endSec": 351.1,
+          "text": "if"
+        },
+        {
+          "startSec": 351.1,
+          "endSec": 351.4,
+          "text": "you'd"
+        },
+        {
+          "startSec": 351.4,
+          "endSec": 351.6,
+          "text": "like"
+        },
+        {
+          "startSec": 351.6,
+          "endSec": 351.7,
+          "text": "to"
+        },
+        {
+          "startSec": 351.7,
+          "endSec": 351.9,
+          "text": "find"
+        },
+        {
+          "startSec": 351.9,
+          "endSec": 352.1,
+          "text": "out"
+        },
+        {
+          "startSec": 352.1,
+          "endSec": 352.3,
+          "text": "more"
+        },
+        {
+          "startSec": 352.3,
+          "endSec": 352.6,
+          "text": "about"
+        },
+        {
+          "startSec": 352.6,
+          "endSec": 353.1,
+          "text": "dining"
+        },
+        {
+          "startSec": 353.1,
+          "endSec": 353.8,
+          "text": "etiquette,"
+        }
+      ]
+    },
+    {
+      "startSec": 353.8,
+      "endSec": 360.4,
+      "text": "then head over to our website, bbclearningenglish.com to download a programme worksheet and try",
+      "words": [
+        {
+          "startSec": 353.9,
+          "endSec": 354.1,
+          "text": "then"
+        },
+        {
+          "startSec": 354.1,
+          "endSec": 354.4,
+          "text": "head"
+        },
+        {
+          "startSec": 354.4,
+          "endSec": 354.8,
+          "text": "over"
+        },
+        {
+          "startSec": 354.8,
+          "endSec": 354.9,
+          "text": "to"
+        },
+        {
+          "startSec": 354.9,
+          "endSec": 355.2,
+          "text": "our"
+        },
+        {
+          "startSec": 355.2,
+          "endSec": 355.9,
+          "text": "website,"
+        },
+        {
+          "startSec": 355.9,
+          "endSec": 357.8,
+          "text": "bbclearningenglish.com"
+        },
+        {
+          "startSec": 357.8,
+          "endSec": 357.9,
+          "text": "to"
+        },
+        {
+          "startSec": 357.9,
+          "endSec": 358.5,
+          "text": "download"
+        },
+        {
+          "startSec": 358.5,
+          "endSec": 358.6,
+          "text": "a"
+        },
+        {
+          "startSec": 358.6,
+          "endSec": 359.2,
+          "text": "programme"
+        },
+        {
+          "startSec": 359.2,
+          "endSec": 359.9,
+          "text": "worksheet"
+        },
+        {
+          "startSec": 359.9,
+          "endSec": 360.1,
+          "text": "and"
+        },
+        {
+          "startSec": 360.1,
+          "endSec": 360.4,
+          "text": "try"
+        },
+        {
+          "startSec": 360.4,
+          "endSec": 360.7,
+          "text": "the"
+        }
+      ]
+    },
+    {
+      "startSec": 360.4,
+      "endSec": 364.6,
+      "text": "the quiz. See you again soon, but for now, it's goodbye.",
+      "words": [
+        {
+          "startSec": 360.4,
+          "endSec": 360.7,
+          "text": "the"
+        },
+        {
+          "startSec": 360.7,
+          "endSec": 361.4,
+          "text": "quiz."
+        },
+        {
+          "startSec": 361.4,
+          "endSec": 361.6,
+          "text": "See"
+        },
+        {
+          "startSec": 361.6,
+          "endSec": 361.8,
+          "text": "you"
+        },
+        {
+          "startSec": 361.8,
+          "endSec": 362.2,
+          "text": "again"
+        },
+        {
+          "startSec": 362.2,
+          "endSec": 362.7,
+          "text": "soon,"
+        },
+        {
+          "startSec": 362.7,
+          "endSec": 362.9,
+          "text": "but"
+        },
+        {
+          "startSec": 362.9,
+          "endSec": 363.1,
+          "text": "for"
+        },
+        {
+          "startSec": 363.1,
+          "endSec": 363.5,
+          "text": "now,"
+        },
+        {
+          "startSec": 363.5,
+          "endSec": 363.8,
+          "text": "it's"
+        },
+        {
+          "startSec": 363.8,
+          "endSec": 364.6,
+          "text": "goodbye."
+        },
+        {
+          "startSec": 364.6,
+          "endSec": 365.4,
+          "text": "Bye."
+        }
+      ]
+    },
+    {
+      "startSec": 364.6,
+      "endSec": 365.4,
+      "text": "Bye.",
+      "words": [
+        {
+          "startSec": 364.6,
+          "endSec": 365.4,
+          "text": "Bye."
+        }
+      ]
+    }
+  ],
+  "introSec": 0
+}
