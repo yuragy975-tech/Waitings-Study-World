@@ -267,6 +267,7 @@ export function ListeningPlayer({
           <div key={i}>
             <SegmentLine
               segment={seg}
+              prevSegmentEndSec={i > 0 ? scaledSegments[i - 1].endSec : undefined}
               mode={mode}
               active={i === activeIndex}
               past={activeIndex > i}
@@ -293,6 +294,7 @@ export function ListeningPlayer({
 
 function SegmentLine({
   segment,
+  prevSegmentEndSec,
   mode,
   active,
   past,
@@ -301,6 +303,7 @@ function SegmentLine({
   onJump,
 }: {
   segment: Segment;
+  prevSegmentEndSec?: number;
   mode: DisplayMode;
   active: boolean;
   past: boolean;
@@ -329,7 +332,7 @@ function SegmentLine({
       </button>
       <span className={blurClass}>
         {hasWordTimings
-          ? renderKaraoke(segment, mode, currentTime, active, past, onClickWord)
+          ? renderKaraoke(segment, prevSegmentEndSec, mode, currentTime, active, past, onClickWord)
           : renderFromText(segment.text, mode, past, onClickWord)}
       </span>
     </p>
@@ -338,15 +341,19 @@ function SegmentLine({
 
 function renderKaraoke(
   segment: Segment,
+  prevSegmentEndSec: number | undefined,
   mode: DisplayMode,
   currentTime: number,
   active: boolean,
   past: boolean,
   onClickWord: (w: string) => void,
 ) {
-  const words = segment.words!.filter(
-    (w) => w.startSec < segment.endSec && w.endSec > segment.startSec,
-  );
+  // Remove words that belong to the previous segment (startSec <= prevSegment.endSec)
+  // This prevents the duplicate word that appears at both the end of segment N
+  // and the start of segment N+1 due to Whisper alignment overlap.
+  const words = prevSegmentEndSec !== undefined
+    ? segment.words!.filter((w) => w.startSec >= prevSegmentEndSec)
+    : segment.words!;
   return words.map((w, i) => {
     const cleanWord = w.text.replace(/[^A-Za-z']/g, "");
     const isFn = isFunctionWord(cleanWord);
