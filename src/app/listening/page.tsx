@@ -23,12 +23,20 @@ export default async function ListeningHomePage() {
               盲听 → 对照听 → 再盲听。把一篇音频啃透，比泛听十篇都强。
             </p>
           </div>
-          <Link
-            href="/"
-            className="text-sm text-zinc-500 hover:text-zinc-900 dark:hover:text-zinc-50"
-          >
-            ← 首页
-          </Link>
+          <div className="flex items-center gap-4">
+            <Link
+              href="/upload"
+              className="text-sm px-3 py-1.5 rounded-lg bg-zinc-900 dark:bg-zinc-100 text-white dark:text-zinc-900 font-medium hover:bg-zinc-700 dark:hover:bg-zinc-300 transition-colors"
+            >
+              + 导入素材
+            </Link>
+            <Link
+              href="/"
+              className="text-sm text-zinc-500 hover:text-zinc-900 dark:hover:text-zinc-50"
+            >
+              ← 首页
+            </Link>
+          </div>
         </header>
 
         {materials.length === 0 ? (
@@ -87,10 +95,11 @@ export default async function ListeningHomePage() {
         )}
 
         <p className="mt-10 text-xs text-zinc-400 dark:text-zinc-600 text-center">
-          想加新素材？看{" "}
-          <code className="px-1 rounded bg-zinc-100 dark:bg-zinc-800">
-            public/listening-materials/README.md
-          </code>
+          想加新素材？
+          <Link href="/upload" className="underline hover:text-zinc-600 dark:hover:text-zinc-300">
+            点这里上传 mp3
+          </Link>
+          ，AI 自动转写
         </p>
       </div>
     </div>

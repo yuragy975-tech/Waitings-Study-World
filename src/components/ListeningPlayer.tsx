@@ -7,6 +7,7 @@ import {
   type DisplayMode,
   type Material,
   type Segment,
+  type WordTiming,
 } from "@/lib/listening";
 import { SentenceActionBar } from "@/components/SentenceActionBar";
 import { ShadowingPanel } from "@/components/ShadowingPanel";
@@ -55,8 +56,20 @@ export function ListeningPlayer({
   const [realDuration, setRealDuration] = useState<number | null>(null);
   const [showShadowing, setShowShadowing] = useState(false);
 
-  // Whisper 时间戳直接来自真实音频，不需要 scale 校正；
-  // 只有估算时间戳的素材（无 words）才需要用 realDuration 来修正。
+  // 用 requestAnimationFrame 做 60fps 平滑时间更新
+  const rafRef = useRef<number>(0);
+  useEffect(() => {
+    function tick() {
+      const audio = audioRef.current;
+      if (audio && !audio.paused) {
+        setCurrentTime(audio.currentTime);
+      }
+      rafRef.current = requestAnimationFrame(tick);
+    }
+    rafRef.current = requestAnimationFrame(tick);
+    return () => cancelAnimationFrame(rafRef.current);
+  }, []);
+
   const hasWhisperAlignment = material.segments.some(
     (s) => s.words && s.words.length > 0,
   );
@@ -81,12 +94,17 @@ export function ListeningPlayer({
   );
 
   const displayDuration = realDuration ?? material.durationSec;
+  const introSec = material.introSec ?? 0;
+
+  // 前奏期间不移动光标
+  const effectiveTime = currentTime < introSec ? -1 : currentTime;
 
   const activeIndex = useMemo(() => {
+    if (effectiveTime < 0) return -1;
     return scaledSegments.findIndex(
-      (s) => currentTime >= s.startSec && currentTime < s.endSec,
+      (s) => effectiveTime >= s.startSec && effectiveTime < s.endSec,
     );
-  }, [currentTime, scaledSegments]);
+  }, [effectiveTime, scaledSegments]);
 
   useEffect(() => {
     const audio = audioRef.current;
@@ -108,7 +126,6 @@ export function ListeningPlayer({
     setCurrentTime(sec);
   }
 
-  // 播放某一段（用真音频，到 endSec 自动停）
   const segmentStopRef = useRef<number | null>(null);
   function playSegment(seg: Segment) {
     const audio = audioRef.current;
@@ -119,7 +136,6 @@ export function ListeningPlayer({
       !isNaN(audio.duration) &&
       audio.duration > 0;
     if (!usable) {
-      // 真音频不可用，用最好的美式 TTS 兜底
       setAudioMissing(true);
       speakEnglish(seg.text);
       return;
@@ -151,7 +167,6 @@ export function ListeningPlayer({
             const d = e.currentTarget.duration;
             if (!isNaN(d) && d > 0) setRealDuration(d);
           }}
-          onTimeUpdate={(e) => setCurrentTime(e.currentTarget.currentTime)}
           onPlay={() => setPlaying(true)}
           onPause={() => setPlaying(false)}
           onError={() => setAudioMissing(true)}
@@ -256,7 +271,8 @@ export function ListeningPlayer({
               segment={seg}
               mode={mode}
               active={i === activeIndex}
-              currentTime={currentTime}
+              past={activeIndex > i}
+              currentTime={effectiveTime}
               onClickWord={onWordClick}
               onJump={() => jumpTo(seg.startSec)}
             />
@@ -277,10 +293,13 @@ export function ListeningPlayer({
   );
 }
 
+/* ── 句子行 ────────────────────────────────────────── */
+
 function SegmentLine({
   segment,
   mode,
   active,
+  past,
   currentTime,
   onClickWord,
   onJump,
@@ -288,6 +307,7 @@ function SegmentLine({
   segment: Segment;
   mode: DisplayMode;
   active: boolean;
+  past: boolean;
   currentTime: number;
   onClickWord: (w: string) => void;
   onJump: () => void;
@@ -299,7 +319,7 @@ function SegmentLine({
     <p
       className={`relative rounded-lg transition-all px-2 py-1 -mx-2 ${
         active
-          ? "bg-emerald-50 dark:bg-emerald-950/40 ring-2 ring-emerald-400 dark:ring-emerald-700"
+          ? "bg-emerald-50/60 dark:bg-emerald-950/30"
           : ""
       }`}
     >
@@ -313,30 +333,27 @@ function SegmentLine({
       </button>
       <span className={blurClass}>
         {hasWordTimings
-          ? renderWithWordTimings(segment, mode, currentTime, active, onClickWord)
-          : renderFromText(segment.text, mode, onClickWord)}
+          ? renderKaraoke(segment, mode, currentTime, active, past, onClickWord)
+          : renderFromText(segment.text, mode, past, onClickWord)}
       </span>
     </p>
   );
 }
 
-// 用 whisper 给的逐词时间戳渲染：当前时间在某词区间内 → 高亮那个词
-function renderWithWordTimings(
+/* ── 卡拉OK歌词效果 ──────────────────────────────── */
+
+function renderKaraoke(
   segment: Segment,
   mode: DisplayMode,
   currentTime: number,
   active: boolean,
+  past: boolean,
   onClickWord: (w: string) => void,
 ) {
   const words = segment.words!;
   return words.map((w, i) => {
     const cleanWord = w.text.replace(/[^A-Za-z']/g, "");
     const isFn = isFunctionWord(cleanWord);
-    // 高亮延续到下一个词开始，填满词间空隙；最后一词延续到段尾
-    const highlightEnd =
-      i < words.length - 1 ? words[i + 1].startSec : segment.endSec;
-    const isCurrent =
-      active && currentTime >= w.startSec && currentTime < highlightEnd;
     const showMask = mode === "half" && !isFn && cleanWord.length > 0;
 
     if (showMask) {
@@ -349,30 +366,101 @@ function renderWithWordTimings(
         </span>
       );
     }
+
+    // 每个词的有效区间：从自己的 startSec 到下一个词的 startSec
+    const zoneEnd = i < words.length - 1 ? words[i + 1].startSec : segment.endSec;
+    let progress: number;
+    if (past) {
+      progress = 1;
+    } else if (!active) {
+      progress = 0;
+    } else if (currentTime <= w.startSec) {
+      progress = 0;
+    } else if (currentTime >= zoneEnd) {
+      progress = 1;
+    } else {
+      const d = zoneEnd - w.startSec;
+      progress = d > 0 ? (currentTime - w.startSec) / d : 1;
+    }
+
     return (
       <span key={i}>
-        <button
-          type="button"
+        <KaraokeWord
+          text={w.text}
+          progress={progress}
           onClick={() => cleanWord && onClickWord(cleanWord)}
-          className={
-            "rounded px-0.5 transition-colors cursor-pointer " +
-            (isCurrent
-              ? "bg-emerald-400/80 dark:bg-emerald-500/70 text-white font-semibold"
-              : "hover:bg-emerald-100 dark:hover:bg-emerald-900/50 hover:text-emerald-900 dark:hover:text-emerald-200")
-          }
-        >
-          {w.text}
-        </button>
+        />
         {" "}
       </span>
     );
   });
 }
 
-// 老逻辑：没有逐词时间戳时按文本切分
+function KaraokeWord({
+  text,
+  progress,
+  onClick,
+}: {
+  text: string;
+  progress: number;
+  onClick: () => void;
+}) {
+  if (progress <= 0) {
+    return (
+      <button
+        type="button"
+        onClick={onClick}
+        className="relative text-zinc-400 dark:text-zinc-500 hover:text-zinc-600 dark:hover:text-zinc-300 cursor-pointer transition-colors"
+      >
+        {text}
+      </button>
+    );
+  }
+
+  if (progress >= 1) {
+    return (
+      <button
+        type="button"
+        onClick={onClick}
+        className="relative text-emerald-600 dark:text-emerald-400 cursor-pointer"
+      >
+        {text}
+      </button>
+    );
+  }
+
+  // 正在播放的词：渐进填色 + 竖线光标
+  const pct = `${Math.round(progress * 100)}%`;
+  return (
+    <button
+      type="button"
+      onClick={onClick}
+      className="relative inline-block cursor-pointer"
+    >
+      {/* 底层：未播放颜色 */}
+      <span className="text-zinc-400 dark:text-zinc-500">{text}</span>
+      {/* 顶层：已播放颜色，宽度随进度裁剪 */}
+      <span
+        className="absolute left-0 top-0 text-emerald-600 dark:text-emerald-400 overflow-hidden whitespace-nowrap pointer-events-none"
+        style={{ width: pct }}
+      >
+        {text}
+      </span>
+      {/* 竖线光标 */}
+      <span
+        className="absolute top-0 w-[2px] h-full bg-emerald-500 dark:bg-emerald-400 pointer-events-none"
+        style={{ left: pct }}
+      />
+    </button>
+  );
+}
+
+/* ── 无逐词时间戳的降级渲染 ────────────────────────── */
+
 function renderFromText(
   text: string,
   mode: DisplayMode,
+  past: boolean,
   onClickWord: (w: string) => void,
 ) {
   const tokens = tokenize(text);
@@ -393,7 +481,11 @@ function renderFromText(
         key={i}
         type="button"
         onClick={() => onClickWord(t.text)}
-        className="hover:bg-emerald-100 dark:hover:bg-emerald-900/50 hover:text-emerald-900 dark:hover:text-emerald-200 rounded px-0.5 transition-colors cursor-pointer"
+        className={`rounded px-0.5 transition-colors cursor-pointer ${
+          past
+            ? "text-emerald-600 dark:text-emerald-400"
+            : "text-zinc-400 dark:text-zinc-500 hover:text-zinc-600 dark:hover:text-zinc-300"
+        }`}
       >
         {t.text}
       </button>

@@ -23,6 +23,7 @@ export type Material = {
   durationSec: number;
   coverGradient: string;
   audioUrl: string;
+  introSec: number;           // 前奏时长（秒），光标从此刻才开始移动
   segments: Segment[];
 };
 

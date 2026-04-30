@@ -14,6 +14,7 @@ interface MetaJson {
   durationSec: number;
   coverGradient: string;
   audioFile?: string; // 默认 audio.mp3
+  introSec?: number;  // 前奏时长
   segments: Segment[];
 }
 
@@ -58,6 +59,7 @@ async function readMeta(id: string): Promise<Material | null> {
     durationSec: parsed.durationSec,
     coverGradient: parsed.coverGradient,
     audioUrl: `/listening-materials/${id}/${audioFile}`,
+    introSec: typeof parsed.introSec === "number" ? parsed.introSec : 0,
     segments: parsed.segments,
   };
 }
