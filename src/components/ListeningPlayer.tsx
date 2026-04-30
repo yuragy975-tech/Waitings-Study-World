@@ -55,11 +55,15 @@ export function ListeningPlayer({
   const [realDuration, setRealDuration] = useState<number | null>(null);
   const [showShadowing, setShowShadowing] = useState(false);
 
-  // 用真实音频时长重算尺度。meta 里的 durationSec 可能是估算的。
+  // Whisper 时间戳直接来自真实音频，不需要 scale 校正；
+  // 只有估算时间戳的素材（无 words）才需要用 realDuration 来修正。
+  const hasWhisperAlignment = material.segments.some(
+    (s) => s.words && s.words.length > 0,
+  );
   const scale =
-    realDuration && material.durationSec > 0
-      ? realDuration / material.durationSec
-      : 1;
+    hasWhisperAlignment || !realDuration || material.durationSec <= 0
+      ? 1
+      : realDuration / material.durationSec;
 
   const scaledSegments = useMemo(
     () =>
@@ -328,8 +332,11 @@ function renderWithWordTimings(
   return words.map((w, i) => {
     const cleanWord = w.text.replace(/[^A-Za-z']/g, "");
     const isFn = isFunctionWord(cleanWord);
+    // 高亮延续到下一个词开始，填满词间空隙；最后一词延续到段尾
+    const highlightEnd =
+      i < words.length - 1 ? words[i + 1].startSec : segment.endSec;
     const isCurrent =
-      active && currentTime >= w.startSec && currentTime < w.endSec;
+      active && currentTime >= w.startSec && currentTime < highlightEnd;
     const showMask = mode === "half" && !isFn && cleanWord.length > 0;
 
     if (showMask) {
