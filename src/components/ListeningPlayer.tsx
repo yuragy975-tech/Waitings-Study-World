@@ -9,6 +9,7 @@ import {
   type Segment,
 } from "@/lib/listening";
 import { SentenceActionBar } from "@/components/SentenceActionBar";
+import { ShadowingPanel } from "@/components/ShadowingPanel";
 import { speakEnglish } from "@/lib/tts";
 
 const MODE_OPTIONS: { value: DisplayMode; label: string; hint: string }[] = [
@@ -52,6 +53,7 @@ export function ListeningPlayer({
   const [mode, setMode] = useState<DisplayMode>("blind");
   const [audioMissing, setAudioMissing] = useState(false);
   const [realDuration, setRealDuration] = useState<number | null>(null);
+  const [showShadowing, setShowShadowing] = useState(false);
 
   // 用真实音频时长重算尺度。meta 里的 durationSec 可能是估算的。
   const scale =
@@ -163,6 +165,17 @@ export function ListeningPlayer({
             {formatDuration(currentTime)} / {formatDuration(displayDuration)}
           </span>
           <div className="ml-auto flex items-center gap-1.5 text-xs">
+            <button
+              type="button"
+              onClick={() => setShowShadowing((v) => !v)}
+              className={`px-2.5 py-1.5 rounded-md font-medium transition-colors ${
+                showShadowing
+                  ? "bg-red-500 text-white hover:bg-red-600"
+                  : "bg-red-100 dark:bg-red-950/60 text-red-800 dark:text-red-300 hover:bg-red-200 dark:hover:bg-red-900/60"
+              }`}
+            >
+              🎤 跟读
+            </button>
             {RATE_OPTIONS.map((r) => (
               <button
                 key={r}
@@ -189,6 +202,18 @@ export function ListeningPlayer({
           onChange={(e) => jumpTo(Number(e.target.value))}
           className="w-full mt-3 accent-zinc-900 dark:accent-zinc-100"
         />
+
+        {showShadowing && (
+          <ShadowingPanel
+            durationSec={displayDuration}
+            onPlayFromStart={() => {
+              jumpTo(0);
+              const audio = audioRef.current;
+              if (audio) audio.play().catch(() => setAudioMissing(true));
+            }}
+            onClose={() => setShowShadowing(false)}
+          />
+        )}
 
         {audioMissing && (
           <p className="mt-3 text-xs text-amber-700 dark:text-amber-400 bg-amber-50 dark:bg-amber-950/40 rounded-lg p-2.5 leading-relaxed">
@@ -240,7 +265,6 @@ export function ListeningPlayer({
               }}
               visible={mode !== "blind"}
               onPlay={() => playSegment(seg)}
-              durationSec={seg.endSec - seg.startSec}
             />
           </div>
         ))}

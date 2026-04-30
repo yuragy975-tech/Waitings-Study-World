@@ -3,7 +3,6 @@
 import { useState } from "react";
 import { useSentenceBook, type GrammarNote } from "@/lib/sentencebook";
 import { speakEnglish } from "@/lib/tts";
-import { ShadowingPanel } from "@/components/ShadowingPanel";
 
 type ParaphraseResp = {
   paraphrase: string;
@@ -16,19 +15,16 @@ export function SentenceActionBar({
   source,
   visible,
   onPlay,
-  durationSec,
 }: {
   sentence: string;
   source: { materialId: string; materialTitle: string; segmentIndex: number };
   visible: boolean;
   onPlay?: () => void;
-  durationSec?: number;
 }) {
   const { addSentence, entries } = useSentenceBook();
   const [busy, setBusy] = useState<"none" | "ai" | "save">("none");
   const [error, setError] = useState<string | null>(null);
   const [flash, setFlash] = useState<string | null>(null);
-  const [showShadowing, setShowShadowing] = useState(false);
 
   const alreadySaved = entries.some(
     (e) => e.original.trim().toLowerCase() === sentence.trim().toLowerCase(),
@@ -87,7 +83,6 @@ export function SentenceActionBar({
 
   if (!visible) return null;
 
-  // 句子本里这一句的当前数据（决定是否在训练页内联展示改写/翻译/语法点）
   const saved = entries.find(
     (e) => e.original.trim().toLowerCase() === sentence.trim().toLowerCase(),
   );
@@ -120,19 +115,6 @@ export function SentenceActionBar({
         >
           {busy === "ai" ? "改写中…" : "✨ 同义改写"}
         </button>
-        {durationSec !== undefined && (
-          <button
-            type="button"
-            onClick={() => setShowShadowing((v) => !v)}
-            className={`px-2.5 py-1 rounded-md text-xs font-medium transition-colors ${
-              showShadowing
-                ? "bg-red-500 text-white hover:bg-red-600"
-                : "bg-red-100 dark:bg-red-950/60 text-red-800 dark:text-red-300 hover:bg-red-200 dark:hover:bg-red-900/60"
-            }`}
-          >
-            🎤 跟读
-          </button>
-        )}
         {flash && (
           <span className="text-emerald-700 dark:text-emerald-400">{flash}</span>
         )}
@@ -140,14 +122,6 @@ export function SentenceActionBar({
           <span className="text-amber-700 dark:text-amber-400">⚠️ {error}</span>
         )}
       </div>
-
-      {showShadowing && durationSec !== undefined && (
-        <ShadowingPanel
-          durationSec={durationSec}
-          onPlayOriginal={play}
-          onClose={() => setShowShadowing(false)}
-        />
-      )}
 
       {hasInline && (
         <div className="mt-2 space-y-2">
