@@ -166,7 +166,7 @@ export default function DictationPage() {
 
 function Shell({ children }: { children: React.ReactNode }) {
   return (
-    <div className="flex-1 px-6 py-12 bg-background">
+    <div className="flex-1 px-4 sm:px-6 py-8 sm:py-12 bg-background">
       <div className="max-w-2xl mx-auto">
         <header className="mb-8 flex items-end justify-between">
           <h1 className="text-3xl font-bold text-foreground">

@@ -156,11 +156,11 @@ export function AiChat({
   function handleTextareaInput(e: React.FormEvent<HTMLTextAreaElement>) {
     const el = e.currentTarget;
     el.style.height = "auto";
-    el.style.height = Math.min(el.scrollHeight, 120) + "px";
+    el.style.height = Math.min(el.scrollHeight, 150) + "px";
   }
 
   return (
-    <div className="flex flex-col h-screen max-w-3xl mx-auto">
+    <div className="flex flex-col h-screen max-w-3xl mx-auto w-full">
       {/* Header */}
       <div className="flex items-center gap-3 px-4 py-3 border-b border-card-border">
         <button
@@ -190,7 +190,7 @@ export function AiChat({
               className={`flex ${msg.role === "user" ? "justify-end" : "justify-start"}`}
             >
               <div
-                className={`max-w-[85%] rounded-2xl px-4 py-3 text-sm leading-relaxed ${
+                className={`max-w-[80%] sm:max-w-[75%] rounded-2xl px-3 sm:px-4 py-2.5 sm:py-3 text-sm leading-relaxed ${
                   msg.role === "user"
                     ? "bg-accent text-accent-fg"
                     : "bg-accent-light text-foreground"
@@ -221,7 +221,7 @@ export function AiChat({
       </div>
 
       {/* Input */}
-      <div className="border-t border-card-border px-4 py-3">
+      <div className="border-t border-card-border px-3 sm:px-4 py-2.5 sm:py-3">
         <div className="flex items-end gap-2">
           <textarea
             ref={inputRef}

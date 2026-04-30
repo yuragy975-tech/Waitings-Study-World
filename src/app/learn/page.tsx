@@ -229,7 +229,7 @@ export default function LearnPage() {
               onDragLeave={() => setDragOver(false)}
               onDrop={handleDrop}
               onClick={() => fileRef.current?.click()}
-              className={`relative rounded-2xl border-2 border-dashed p-8 text-center cursor-pointer transition-colors ${
+              className={`relative rounded-2xl border-2 border-dashed p-5 sm:p-8 text-center cursor-pointer transition-colors ${
                 dragOver
                   ? "border-accent bg-accent-light"
                   : "border-card-border hover:border-muted"

@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import { ClerkProvider } from "@clerk/nextjs";
 import { zhCN } from "@clerk/localizations";
@@ -18,6 +18,34 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Waiting's Study World",
   description: "我的私人学习空间 — 单词本·听写·语法·AI学习教练",
+  manifest: "/manifest.json",
+  icons: {
+    icon: [
+      { url: "/icons/favicon-32.png", sizes: "32x32", type: "image/png" },
+      { url: "/icons/favicon-16.png", sizes: "16x16", type: "image/png" },
+    ],
+    apple: "/icons/apple-touch-icon.png",
+  },
+  appleWebApp: {
+    capable: true,
+    title: "Study World",
+    statusBarStyle: "black-translucent",
+  },
+  other: {
+    "mobile-web-app-capable": "yes",
+  },
+};
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 1,
+  userScalable: false,
+  viewportFit: "cover",
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#ffffff" },
+    { media: "(prefers-color-scheme: dark)", color: "#0a0a0a" },
+  ],
 };
 
 const themeScript = `(function(){var h=new Date().getHours();if(h>=18||h<6)document.documentElement.classList.add('dark')})()`;
@@ -37,7 +65,7 @@ export default function RootLayout({
         <head>
           <script dangerouslySetInnerHTML={{ __html: themeScript }} />
         </head>
-        <body className="h-full">
+        <body className="h-full env-safe">
           <div className="flex h-full">
             <AppSidebar />
             <main className="flex-1 overflow-auto">{children}</main>

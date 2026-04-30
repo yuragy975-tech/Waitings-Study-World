@@ -64,7 +64,7 @@ export default async function ListeningHomePage() {
                 className="group block rounded-3xl overflow-hidden shadow-sm hover:shadow-xl transition-all hover:-translate-y-0.5"
               >
                 <div
-                  className={`relative aspect-[16/9] sm:aspect-[2/1] bg-gradient-to-br ${LEVEL_GRADIENT[m.level]} flex items-end p-6 sm:p-8`}
+                  className={`relative aspect-[4/3] sm:aspect-[2/1] bg-gradient-to-br ${LEVEL_GRADIENT[m.level]} flex items-end p-5 sm:p-8`}
                 >
                   <div className="absolute top-4 left-4 flex items-center gap-2 flex-wrap">
                     <span
