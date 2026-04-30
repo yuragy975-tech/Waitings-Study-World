@@ -95,7 +95,7 @@ export function SentenceActionBar({
         <button
           type="button"
           onClick={play}
-          className="px-2.5 py-1 rounded-md bg-zinc-100 dark:bg-zinc-800 text-zinc-600 dark:text-zinc-300 hover:bg-zinc-200 dark:hover:bg-zinc-700"
+          className="px-2.5 py-1 rounded-md bg-accent-light text-muted hover:opacity-80"
         >
           🔊 朗读
         </button>
@@ -144,7 +144,7 @@ export function SentenceActionBar({
             </div>
           )}
           {saved!.translation && (
-            <p className="text-xs text-zinc-600 dark:text-zinc-400 px-1">
+            <p className="text-xs text-muted px-1">
               🇨🇳 {saved!.translation}
             </p>
           )}

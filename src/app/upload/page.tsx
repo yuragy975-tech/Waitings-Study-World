@@ -104,22 +104,22 @@ export default function UploadPage() {
   };
 
   return (
-    <div className="flex-1 px-4 sm:px-6 py-8 bg-zinc-50 dark:bg-zinc-950">
+    <div className="flex-1 px-4 sm:px-6 py-8 bg-background">
       <div className="max-w-xl mx-auto">
         <header className="mb-8 flex items-end justify-between gap-4">
           <div>
-            <h1 className="text-4xl font-bold text-zinc-900 dark:text-zinc-50 tracking-tight">
+            <h1 className="text-4xl font-bold text-foreground tracking-tight">
               导入素材
             </h1>
-            <p className="mt-2 text-zinc-500 dark:text-zinc-400">
+            <p className="mt-2 text-muted">
               上传 mp3，AI 自动转写生成字幕和时间戳
             </p>
           </div>
           <Link
             href="/listening"
-            className="text-sm text-zinc-500 hover:text-zinc-900 dark:hover:text-zinc-50"
+            className="text-sm text-muted hover:text-foreground transition-colors"
           >
-            ← 啃料训练
+            ← 精听研习
           </Link>
         </header>
 
@@ -137,13 +137,13 @@ export default function UploadPage() {
             <div className="flex gap-3 justify-center pt-2">
               <Link
                 href={`/listening/${result.id}`}
-                className="px-5 py-2.5 rounded-xl bg-emerald-600 text-white text-sm font-semibold hover:bg-emerald-700 transition-colors"
+                className="px-5 py-2.5 rounded-xl bg-accent text-accent-fg text-sm font-semibold hover:opacity-90 transition-opacity"
               >
                 去练习
               </Link>
               <button
                 onClick={reset}
-                className="px-5 py-2.5 rounded-xl bg-zinc-200 dark:bg-zinc-800 text-zinc-700 dark:text-zinc-300 text-sm font-semibold hover:bg-zinc-300 dark:hover:bg-zinc-700 transition-colors"
+                className="px-5 py-2.5 rounded-xl bg-accent-light text-foreground text-sm font-semibold hover:opacity-80 transition-opacity"
               >
                 继续导入
               </button>
@@ -151,7 +151,6 @@ export default function UploadPage() {
           </div>
         ) : (
           <div className="space-y-6">
-            {/* 拖拽区 */}
             <div
               onDragOver={(e) => { e.preventDefault(); setDragging(true); }}
               onDragLeave={() => setDragging(false)}
@@ -159,10 +158,10 @@ export default function UploadPage() {
               onClick={() => inputRef.current?.click()}
               className={`relative rounded-2xl border-2 border-dashed p-10 text-center cursor-pointer transition-all ${
                 dragging
-                  ? "border-blue-400 bg-blue-50 dark:bg-blue-950/30"
+                  ? "border-accent bg-accent-light"
                   : file
                     ? "border-emerald-300 dark:border-emerald-700 bg-emerald-50/50 dark:bg-emerald-950/20"
-                    : "border-zinc-300 dark:border-zinc-700 hover:border-zinc-400 dark:hover:border-zinc-600"
+                    : "border-card-border hover:border-muted"
               }`}
             >
               <input
@@ -174,27 +173,26 @@ export default function UploadPage() {
               />
               {file ? (
                 <div className="space-y-2">
-                  <p className="text-lg font-semibold text-zinc-900 dark:text-zinc-100">
+                  <p className="text-lg font-semibold text-foreground">
                     {file.name}
                   </p>
-                  <p className="text-sm text-zinc-500">
+                  <p className="text-sm text-muted">
                     {(file.size / 1024 / 1024).toFixed(1)} MB · 点击可更换
                   </p>
                 </div>
               ) : (
                 <div className="space-y-2">
                   <p className="text-3xl">&#127925;</p>
-                  <p className="text-zinc-600 dark:text-zinc-400 font-medium">
+                  <p className="text-foreground font-medium">
                     拖入 mp3 文件，或点击选择
                   </p>
-                  <p className="text-xs text-zinc-400 dark:text-zinc-600">
+                  <p className="text-xs text-muted/60">
                     支持英语音频，建议 2-15 分钟
                   </p>
                 </div>
               )}
             </div>
 
-            {/* 表单字段 */}
             <div className="space-y-4">
               <Field label="标题" hint="默认用文件名">
                 <input
@@ -202,7 +200,7 @@ export default function UploadPage() {
                   value={title}
                   onChange={(e) => setTitle(e.target.value)}
                   placeholder="Why People Love Coffee"
-                  className="w-full rounded-xl border border-zinc-200 dark:border-zinc-700 bg-white dark:bg-zinc-900 px-4 py-2.5 text-sm text-zinc-900 dark:text-zinc-100 placeholder:text-zinc-400 focus:outline-none focus:ring-2 focus:ring-blue-500/40"
+                  className="w-full rounded-xl border border-card-border bg-card-bg px-4 py-2.5 text-sm text-foreground placeholder:text-muted focus:outline-none focus:ring-2 focus:ring-accent/30"
                 />
               </Field>
 
@@ -212,7 +210,7 @@ export default function UploadPage() {
                   value={source}
                   onChange={(e) => setSource(e.target.value)}
                   placeholder="BBC / TED / NPR ..."
-                  className="w-full rounded-xl border border-zinc-200 dark:border-zinc-700 bg-white dark:bg-zinc-900 px-4 py-2.5 text-sm text-zinc-900 dark:text-zinc-100 placeholder:text-zinc-400 focus:outline-none focus:ring-2 focus:ring-blue-500/40"
+                  className="w-full rounded-xl border border-card-border bg-card-bg px-4 py-2.5 text-sm text-foreground placeholder:text-muted focus:outline-none focus:ring-2 focus:ring-accent/30"
                 />
               </Field>
 
@@ -224,8 +222,8 @@ export default function UploadPage() {
                       onClick={() => setLevel(opt.value)}
                       className={`flex-1 py-2 rounded-xl text-sm font-medium transition-all ${
                         level === opt.value
-                          ? "bg-zinc-900 dark:bg-zinc-100 text-white dark:text-zinc-900"
-                          : "bg-zinc-100 dark:bg-zinc-800 text-zinc-600 dark:text-zinc-400 hover:bg-zinc-200 dark:hover:bg-zinc-700"
+                          ? "bg-accent text-accent-fg"
+                          : "bg-accent-light text-foreground hover:opacity-80"
                       }`}
                     >
                       {opt.label}
@@ -242,7 +240,7 @@ export default function UploadPage() {
                       onClick={() => setGradient(opt.value)}
                       className={`flex-1 h-10 rounded-xl bg-gradient-to-br ${opt.preview} transition-all ${
                         gradient === opt.value
-                          ? "ring-2 ring-offset-2 ring-zinc-900 dark:ring-zinc-100 dark:ring-offset-zinc-950 scale-105"
+                          ? "ring-2 ring-offset-2 ring-accent dark:ring-offset-background scale-105"
                           : "opacity-60 hover:opacity-80"
                       }`}
                       title={opt.label}
@@ -252,21 +250,19 @@ export default function UploadPage() {
               </Field>
             </div>
 
-            {/* 错误提示 */}
             {errorMsg && (
               <div className="rounded-xl bg-red-50 dark:bg-red-950/40 border border-red-200 dark:border-red-800 px-4 py-3 text-sm text-red-700 dark:text-red-300">
                 {errorMsg}
               </div>
             )}
 
-            {/* 提交按钮 */}
             <button
               onClick={handleSubmit}
               disabled={!file || status === "uploading"}
               className={`w-full py-3 rounded-xl text-sm font-semibold transition-all ${
                 !file || status === "uploading"
-                  ? "bg-zinc-200 dark:bg-zinc-800 text-zinc-400 dark:text-zinc-600 cursor-not-allowed"
-                  : "bg-zinc-900 dark:bg-zinc-100 text-white dark:text-zinc-900 hover:bg-zinc-800 dark:hover:bg-zinc-200 active:scale-[0.98]"
+                  ? "bg-accent-light text-muted cursor-not-allowed"
+                  : "bg-accent text-accent-fg hover:opacity-90 active:scale-[0.98]"
               }`}
             >
               {status === "uploading" ? (
@@ -280,7 +276,7 @@ export default function UploadPage() {
             </button>
 
             {status === "uploading" && (
-              <p className="text-center text-xs text-zinc-400 dark:text-zinc-600">
+              <p className="text-center text-xs text-muted/60">
                 Whisper 正在识别语音并生成时间戳，请不要关闭页面
               </p>
             )}
@@ -294,9 +290,9 @@ export default function UploadPage() {
 function Field({ label, hint, children }: { label: string; hint?: string; children: React.ReactNode }) {
   return (
     <label className="block space-y-1.5">
-      <span className="text-sm font-medium text-zinc-700 dark:text-zinc-300">
+      <span className="text-sm font-medium text-foreground">
         {label}
-        {hint && <span className="ml-2 font-normal text-zinc-400 dark:text-zinc-600">({hint})</span>}
+        {hint && <span className="ml-2 font-normal text-muted">({hint})</span>}
       </span>
       {children}
     </label>

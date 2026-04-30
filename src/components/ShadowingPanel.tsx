@@ -160,7 +160,7 @@ export function ShadowingPanel({
         <button
           type="button"
           onClick={onClose}
-          className="text-xs text-zinc-400 hover:text-zinc-700 dark:hover:text-zinc-200 px-1.5 py-0.5 rounded hover:bg-zinc-100 dark:hover:bg-zinc-800"
+          className="text-xs text-muted hover:text-foreground px-1.5 py-0.5 rounded hover:bg-accent-light"
         >
           ✕ 关闭
         </button>
@@ -174,7 +174,7 @@ export function ShadowingPanel({
           <button
             type="button"
             onClick={skipToRecord}
-            className="text-xs px-3 py-1.5 rounded-lg bg-zinc-100 dark:bg-zinc-800 text-zinc-600 dark:text-zinc-300 hover:bg-zinc-200 dark:hover:bg-zinc-700"
+            className="text-xs px-3 py-1.5 rounded-lg bg-accent-light text-muted hover:opacity-80"
           >
             跳过，直接跟读 →
           </button>
@@ -213,7 +213,7 @@ export function ShadowingPanel({
             ref={canvasRef}
             width={600}
             height={56}
-            className="w-full rounded-xl bg-white dark:bg-zinc-900 border border-red-100 dark:border-red-900"
+            className="w-full rounded-xl bg-card-bg border border-red-100 dark:border-red-900"
           />
         </div>
       )}
@@ -226,11 +226,11 @@ export function ShadowingPanel({
             </p>
           ) : audioUrl ? (
             <>
-              <p className="text-xs text-zinc-500 dark:text-zinc-400 font-medium">你的跟读录音：</p>
+              <p className="text-xs text-muted font-medium">你的跟读录音：</p>
               <audio controls src={audioUrl} className="w-full" />
             </>
           ) : (
-            <p className="text-sm text-zinc-400 animate-pulse">处理中...</p>
+            <p className="text-sm text-muted animate-pulse">处理中...</p>
           )}
           <div className="flex gap-2 flex-wrap pt-1">
             <button
@@ -243,14 +243,14 @@ export function ShadowingPanel({
             <button
               type="button"
               onClick={skipToRecord}
-              className="text-xs px-3 py-1.5 rounded-lg bg-zinc-100 dark:bg-zinc-800 text-zinc-700 dark:text-zinc-200 hover:bg-zinc-200 dark:hover:bg-zinc-700"
+              className="text-xs px-3 py-1.5 rounded-lg bg-accent-light text-foreground hover:opacity-80"
             >
               🎤 直接再录一遍
             </button>
             <button
               type="button"
               onClick={() => { onPlayFromStart(); }}
-              className="text-xs px-3 py-1.5 rounded-lg bg-zinc-100 dark:bg-zinc-800 text-zinc-700 dark:text-zinc-200 hover:bg-zinc-200 dark:hover:bg-zinc-700"
+              className="text-xs px-3 py-1.5 rounded-lg bg-accent-light text-foreground hover:opacity-80"
             >
               🔊 再听原声
             </button>

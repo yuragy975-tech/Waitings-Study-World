@@ -59,16 +59,16 @@ export function WordPopover({
     >
       <div className="absolute inset-0 bg-black/40" />
       <div
-        className="relative w-full max-w-2xl rounded-t-3xl bg-white dark:bg-zinc-900 border-t border-x border-zinc-200 dark:border-zinc-800 p-5 sm:p-6 max-h-[70vh] overflow-y-auto"
+        className="relative w-full max-w-2xl rounded-t-3xl bg-card-bg border-t border-x border-card-border p-5 sm:p-6 max-h-[70vh] overflow-y-auto"
         onClick={(e) => e.stopPropagation()}
       >
-        <div className="mx-auto mb-3 h-1 w-10 rounded-full bg-zinc-300 dark:bg-zinc-700" />
+        <div className="mx-auto mb-3 h-1 w-10 rounded-full bg-card-border" />
         {loading && (
-          <p className="text-sm text-zinc-500 dark:text-zinc-400">查词中…</p>
+          <p className="text-sm text-muted">查词中…</p>
         )}
         {!loading && data && !data.found && (
           <div>
-            <p className="text-lg font-semibold text-zinc-900 dark:text-zinc-50">
+            <p className="text-lg font-semibold text-foreground">
               {word}
             </p>
             <p className="mt-1 text-sm text-amber-700 dark:text-amber-400">
@@ -79,11 +79,11 @@ export function WordPopover({
         {!loading && data && data.found && (
           <div>
             <div className="flex items-center gap-2 flex-wrap">
-              <h3 className="text-2xl font-bold text-zinc-900 dark:text-zinc-50">
+              <h3 className="text-2xl font-bold text-foreground">
                 {data.entry.word}
               </h3>
               {data.entry.phonetic && (
-                <span className="text-sm text-zinc-500 dark:text-zinc-400">
+                <span className="text-sm text-muted">
                   /{data.entry.phonetic}/
                 </span>
               )}
@@ -94,19 +94,19 @@ export function WordPopover({
               </span>
             </div>
             {data.entry.translation && (
-              <p className="mt-3 text-zinc-800 dark:text-zinc-200 whitespace-pre-line">
+              <p className="mt-3 text-foreground whitespace-pre-line">
                 {data.entry.translation}
               </p>
             )}
             {data.entry.definition && (
-              <p className="mt-2 text-sm text-zinc-600 dark:text-zinc-400 whitespace-pre-line">
+              <p className="mt-2 text-sm text-muted whitespace-pre-line">
                 {data.entry.definition}
               </p>
             )}
             {data.entry.examples && data.entry.examples.length > 0 && (
-              <ul className="mt-3 space-y-1.5 text-sm text-zinc-700 dark:text-zinc-300">
+              <ul className="mt-3 space-y-1.5 text-sm text-foreground">
                 {data.entry.examples.slice(0, 3).map((ex, i) => (
-                  <li key={i} className="pl-3 border-l-2 border-emerald-300 dark:border-emerald-800">
+                  <li key={i} className="pl-3 border-l-2 border-card-border">
                     {ex}
                   </li>
                 ))}
@@ -117,7 +117,7 @@ export function WordPopover({
         <button
           type="button"
           onClick={onClose}
-          className="mt-5 w-full py-2.5 rounded-xl bg-zinc-100 dark:bg-zinc-800 text-zinc-700 dark:text-zinc-200 font-medium hover:bg-zinc-200 dark:hover:bg-zinc-700 transition-colors"
+          className="mt-5 w-full py-2.5 rounded-xl bg-accent-light text-foreground font-medium hover:opacity-80 transition-opacity"
         >
           关闭
         </button>

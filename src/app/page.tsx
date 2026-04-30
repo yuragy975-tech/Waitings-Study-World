@@ -1,96 +1,171 @@
+"use client";
+
 import Link from "next/link";
+import { SignInButton, SignUpButton } from "@clerk/nextjs";
+import { useUser } from "@clerk/nextjs";
+import {
+  BookOpen,
+  Brain,
+  Headphones,
+  Lightbulb,
+  NotebookPen,
+  PenLine,
+  Sparkles,
+  Upload,
+} from "lucide-react";
+import { useEffect, useState } from "react";
 
-export default function Home() {
-  return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 dark:bg-zinc-950 px-6">
-      <main className="w-full max-w-3xl flex flex-col items-center text-center gap-12 py-24">
-        <header className="flex flex-col items-center gap-4">
-          <h1 className="text-5xl sm:text-6xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50">
-            生词宝典
-          </h1>
-          <p className="text-lg text-zinc-500 dark:text-zinc-400">
-            ShengCi BaoDian · 我的私人英语学习助手
-          </p>
-        </header>
-
-        <section className="grid gap-4 sm:grid-cols-2 w-full">
-          <FeatureCard
-            href="/notebook"
-            title="我的生词本"
-            description="输入陌生单词 → 加入笔记本，自动获取中文 / 音标 / 词形 + 美英双发音。每记一次自动累计。"
-            status="可用"
-            statusTone="ready"
-          />
-          <FeatureCard
-            href="/dictation"
-            title="每日听写"
-            description="从笔记本随机抽词，给中文、朗读英文，你来拼写，自动判分 + 错题回顾。"
-            status="可用"
-            statusTone="ready"
-          />
-          <FeatureCard
-            href="/listening"
-            title="啃料训练"
-            description="选一篇音频，模糊文本盲听 → 对照听 → 再盲听。三档挖空切换，点词即查，自动入生词本。"
-            status="新功能"
-            statusTone="ready"
-          />
-          <FeatureCard
-            href="/sentences"
-            title="我的句子本"
-            description="收藏好句子，AI 一键给出同义改写 + 中文翻译 + 语法点提示，随时朗读复习。"
-            status="新功能"
-            statusTone="ready"
-          />
-        </section>
-
-        <footer className="text-sm text-zinc-400 dark:text-zinc-600 pt-8">
-          搭建中 · v0.1.0
-        </footer>
-      </main>
-    </div>
-  );
+function getGreeting() {
+  const h = new Date().getHours();
+  if (h < 6) return "夜深了，注意休息";
+  if (h < 12) return "早上好";
+  if (h < 14) return "中午好";
+  if (h < 18) return "下午好";
+  return "晚上好";
 }
 
-function FeatureCard({
-  title,
-  description,
-  status,
-  statusTone,
-  href,
-}: {
-  title: string;
-  description: string;
-  status: string;
-  statusTone: "ready" | "upcoming";
-  href?: string;
-}) {
-  const statusClass =
-    statusTone === "ready"
-      ? "bg-emerald-100 dark:bg-emerald-950 text-emerald-900 dark:text-emerald-200"
-      : "bg-zinc-100 dark:bg-zinc-800 text-zinc-600 dark:text-zinc-400";
+const FEATURES = [
+  {
+    href: "/notebook",
+    icon: BookOpen,
+    title: "生词本",
+    desc: "查词 · 收藏 · 复习",
+    color: "text-blue-600 dark:text-blue-400",
+    bg: "bg-blue-50 dark:bg-blue-950/40",
+    border: "border-blue-100 dark:border-blue-900/50",
+  },
+  {
+    href: "/dictation",
+    icon: PenLine,
+    title: "每日听写",
+    desc: "听音 · 拼写 · 打分",
+    color: "text-violet-600 dark:text-violet-400",
+    bg: "bg-violet-50 dark:bg-violet-950/40",
+    border: "border-violet-100 dark:border-violet-900/50",
+  },
+  {
+    href: "/listening",
+    icon: Headphones,
+    title: "精听研习",
+    desc: "盲听 · 对照 · 精听",
+    color: "text-teal-600 dark:text-teal-400",
+    bg: "bg-teal-50 dark:bg-teal-950/40",
+    border: "border-teal-100 dark:border-teal-900/50",
+  },
+  {
+    href: "/sentences",
+    icon: NotebookPen,
+    title: "句子本",
+    desc: "收藏 · 改写 · 语法",
+    color: "text-amber-600 dark:text-amber-400",
+    bg: "bg-amber-50 dark:bg-amber-950/40",
+    border: "border-amber-100 dark:border-amber-900/50",
+  },
+  {
+    href: "/grammar",
+    icon: Brain,
+    title: "语法学习",
+    desc: "费曼学习法 · AI教练",
+    color: "text-rose-600 dark:text-rose-400",
+    bg: "bg-rose-50 dark:bg-rose-950/40",
+    border: "border-rose-100 dark:border-rose-900/50",
+  },
+  {
+    href: "/learn",
+    icon: Lightbulb,
+    title: "博学研习",
+    desc: "任意话题 · 上传文档",
+    color: "text-indigo-600 dark:text-indigo-400",
+    bg: "bg-indigo-50 dark:bg-indigo-950/40",
+    border: "border-indigo-100 dark:border-indigo-900/50",
+  },
+];
 
-  const inner = (
-    <div className="flex flex-col gap-3 rounded-2xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-6 text-left transition-all hover:shadow-md hover:border-zinc-300 dark:hover:border-zinc-700 h-full">
-      <div className="flex items-center justify-between">
-        <h2 className="text-lg font-semibold text-zinc-900 dark:text-zinc-50">
-          {title}
-        </h2>
-        <span className={`text-xs px-2 py-0.5 rounded-full ${statusClass}`}>
-          {status}
-        </span>
+export default function Home() {
+  const { isSignedIn, user } = useUser();
+  const [greeting, setGreeting] = useState("你好");
+  useEffect(() => setGreeting(getGreeting()), []);
+
+  return (
+    <div className="min-h-full bg-background px-4 sm:px-8 py-8 lg:py-10">
+      <div className="max-w-5xl mx-auto">
+        {/* Welcome */}
+        <header className="mb-10">
+          <div className="flex items-center gap-2 mb-1">
+            <Sparkles size={18} className="text-accent" />
+            <span className="text-sm text-muted">{greeting}</span>
+          </div>
+          <h1 className="text-3xl sm:text-4xl font-bold tracking-tight">
+            {isSignedIn && user?.firstName
+              ? `${user.firstName} 的 Study World`
+              : "Waiting's Study World"}
+          </h1>
+          <p className="mt-1 text-muted text-sm">
+            选择一个模块开始学习，每天进步一点点
+          </p>
+
+          {!isSignedIn && (
+            <div className="mt-4 flex items-center gap-3">
+              <SignInButton mode="modal">
+                <button className="px-5 py-2.5 rounded-xl bg-accent text-accent-fg text-sm font-medium hover:opacity-90 transition-opacity">
+                  登录
+                </button>
+              </SignInButton>
+              <SignUpButton mode="modal">
+                <button className="px-5 py-2.5 rounded-xl border border-card-border text-foreground text-sm font-medium hover:bg-accent-light transition-colors">
+                  注册
+                </button>
+              </SignUpButton>
+            </div>
+          )}
+        </header>
+
+        {/* Feature cards */}
+        <section className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {FEATURES.map((f) => {
+            const Icon = f.icon;
+            return (
+              <Link
+                key={f.href}
+                href={f.href}
+                className={`
+                  group flex items-start gap-4 rounded-2xl border p-5 transition-all
+                  ${f.bg} ${f.border}
+                  hover:shadow-lg hover:scale-[1.02] active:scale-[0.98]
+                `}
+              >
+                <div
+                  className={`shrink-0 rounded-xl p-2.5 ${f.color} bg-white/70 dark:bg-white/5 shadow-sm`}
+                >
+                  <Icon size={22} />
+                </div>
+                <div>
+                  <h2 className="font-semibold text-foreground group-hover:text-accent transition-colors">
+                    {f.title}
+                  </h2>
+                  <p className="text-sm text-muted mt-0.5">{f.desc}</p>
+                </div>
+              </Link>
+            );
+          })}
+        </section>
+
+        {/* Quick actions */}
+        <section className="mt-8 flex flex-wrap gap-3">
+          <Link
+            href="/upload"
+            className="inline-flex items-center gap-2 rounded-xl border border-card-border bg-card-bg px-4 py-2.5 text-sm font-medium text-muted hover:text-foreground hover:border-accent/30 transition-colors"
+          >
+            <Upload size={16} />
+            上传听力素材
+          </Link>
+        </section>
+
+        {/* Footer */}
+        <footer className="mt-16 text-center text-xs text-muted/60">
+          Waiting&apos;s Study World · v0.2.0
+        </footer>
       </div>
-      <p className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
-        {description}
-      </p>
     </div>
-  );
-
-  return href ? (
-    <Link href={href} className="block">
-      {inner}
-    </Link>
-  ) : (
-    inner
   );
 }

@@ -46,8 +46,8 @@ next-env.d.ts
 # 生成的 SQLite 词典：要部署到 Vercel 必须上 git（33MB，可接受）
 # /data/ecdict.db   ← 不再 ignore
 
-# 啃料音频文件：要部署到 Vercel 必须上 git（约 90MB）
-# 临时缓存文件还是要忽略：
+# 听力素材：已追踪的保留，新增 BBC 6min 系列太大(525MB)暂不入库
+/public/listening-materials/bbc-6min-*
 /public/listening-materials/**/_tmp.*
 /public/listening-materials/**/_w_*
 
@@ -55,3 +55,6 @@ next-env.d.ts
 .vscode/
 .idea/
 *.swp
+
+# clerk configuration (can include secrets)
+/.clerk/

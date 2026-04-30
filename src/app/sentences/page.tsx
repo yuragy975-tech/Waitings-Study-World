@@ -17,34 +17,34 @@ export default function SentenceBookPage() {
   const { entries, hydrated, removeSentence } = useSentenceBook();
 
   return (
-    <div className="flex-1 px-4 sm:px-6 py-10 bg-zinc-50 dark:bg-zinc-950">
+    <div className="flex-1 px-4 sm:px-6 py-10 bg-background">
       <div className="max-w-4xl mx-auto">
         <header className="mb-6 flex items-end justify-between gap-4 flex-wrap">
           <div>
-            <h1 className="text-3xl font-bold text-zinc-900 dark:text-zinc-50">
+            <h1 className="text-3xl font-bold text-foreground">
               我的句子本
             </h1>
-            <p className="text-sm text-zinc-500 dark:text-zinc-400 mt-1">
+            <p className="text-sm text-muted mt-1">
               {hydrated ? `共 ${entries.length} 条` : "加载中..."}
             </p>
           </div>
           <Link
             href="/"
-            className="text-sm text-zinc-500 hover:text-zinc-900 dark:hover:text-zinc-50"
+            className="text-sm text-muted hover:text-foreground transition-colors"
           >
             ← 首页
           </Link>
         </header>
 
         {hydrated && entries.length === 0 && (
-          <div className="rounded-2xl border-2 border-dashed border-zinc-200 dark:border-zinc-800 p-12 text-center">
-            <p className="text-zinc-400 dark:text-zinc-600">
+          <div className="rounded-2xl border-2 border-dashed border-card-border p-12 text-center">
+            <p className="text-muted">
               还没有句子。去{" "}
               <Link
                 href="/listening"
-                className="text-emerald-700 dark:text-emerald-400 hover:underline"
+                className="text-accent hover:underline"
               >
-                啃料训练
+                精听研习
               </Link>{" "}
               里点击 ✨ 同义改写就会自动入本。
             </p>
@@ -73,9 +73,9 @@ function SentenceCard({
   onRemove: () => void;
 }) {
   return (
-    <article className="rounded-2xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-5">
+    <article className="rounded-2xl border border-card-border bg-card-bg p-5">
       <div className="flex items-start gap-2">
-        <p className="flex-1 text-lg text-zinc-900 dark:text-zinc-50 leading-relaxed">
+        <p className="flex-1 text-lg text-foreground leading-relaxed">
           {entry.original}
         </p>
         <div className="flex items-center gap-1 shrink-0">
@@ -83,7 +83,7 @@ function SentenceCard({
             type="button"
             onClick={() => speak(entry.original)}
             title="朗读"
-            className="px-2 py-1 rounded-md text-zinc-500 hover:bg-zinc-100 dark:hover:bg-zinc-800 text-xs"
+            className="px-2 py-1 rounded-md text-muted hover:bg-accent-light text-xs"
           >
             🔊
           </button>
@@ -93,7 +93,7 @@ function SentenceCard({
               if (confirm("从句子本移除这条吗？")) onRemove();
             }}
             title="删除"
-            className="px-2 py-1 rounded-md text-zinc-400 hover:text-red-600 hover:bg-red-50 dark:hover:bg-red-950/40 text-xs"
+            className="px-2 py-1 rounded-md text-muted hover:text-red-600 hover:bg-red-50 dark:hover:bg-red-950/40 text-xs"
           >
             ✕
           </button>
@@ -101,7 +101,7 @@ function SentenceCard({
       </div>
 
       {entry.translation && (
-        <p className="mt-2 text-sm text-zinc-600 dark:text-zinc-400">
+        <p className="mt-2 text-sm text-muted">
           🇨🇳 {entry.translation}
         </p>
       )}
@@ -129,7 +129,7 @@ function SentenceCard({
 
       {entry.grammar.length > 0 && (
         <div className="mt-3 space-y-2">
-          <p className="text-xs font-semibold text-zinc-500 dark:text-zinc-400 uppercase tracking-wide">
+          <p className="text-xs font-semibold text-muted uppercase tracking-wide">
             语法点
           </p>
           {entry.grammar.map((g, i) => (
@@ -148,7 +148,7 @@ function SentenceCard({
         </div>
       )}
 
-      <p className="mt-3 text-xs text-zinc-400 dark:text-zinc-600">
+      <p className="mt-3 text-xs text-muted/60">
         加入 {formatTime(entry.addedAt)}
         {entry.source.materialTitle && ` · 来自《${entry.source.materialTitle}》`}
       </p>

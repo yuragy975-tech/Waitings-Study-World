@@ -1,5 +1,8 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import { ClerkProvider } from "@clerk/nextjs";
+import { zhCN } from "@clerk/localizations";
+import { AppSidebar } from "@/components/AppSidebar";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -13,9 +16,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "生词宝典 · 我的英语学习站",
-  description: "用 RAG 技术打造的个人英语单词记忆本与听写助手",
+  title: "Waiting's Study World",
+  description: "我的私人学习空间 — 单词本·听写·语法·AI学习教练",
 };
+
+const themeScript = `(function(){var h=new Date().getHours();if(h>=18||h<6)document.documentElement.classList.add('dark')})()`;
 
 export default function RootLayout({
   children,
@@ -23,11 +28,22 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html
-      lang="zh-CN"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
-    >
-      <body className="min-h-full flex flex-col">{children}</body>
-    </html>
+    <ClerkProvider localization={zhCN}>
+      <html
+        lang="zh-CN"
+        className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+        suppressHydrationWarning
+      >
+        <head>
+          <script dangerouslySetInnerHTML={{ __html: themeScript }} />
+        </head>
+        <body className="h-full">
+          <div className="flex h-full">
+            <AppSidebar />
+            <main className="flex-1 overflow-auto">{children}</main>
+          </div>
+        </body>
+      </html>
+    </ClerkProvider>
   );
 }

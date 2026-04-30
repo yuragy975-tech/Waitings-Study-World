@@ -60,7 +60,7 @@ function Row({
 }) {
   return (
     <div className="flex gap-3 leading-relaxed">
-      <span className="shrink-0 w-9 text-xs text-zinc-400 dark:text-zinc-600 pt-0.5 select-none">
+      <span className="shrink-0 w-9 text-xs text-muted/60 pt-0.5 select-none">
         {label}
       </span>
       <span className="flex-1 min-w-0">{children}</span>
@@ -93,12 +93,11 @@ export function WordCard({
   const [input, setInput] = useState("");
   const inputRef = useRef<HTMLInputElement>(null);
   const exchangeText = formatExchange(entry.exchange);
-  // 兼容老缓存：给笔记本里旧版未规范化的英文释义在显示前再规范一次
   const definition = normalizeDefinition(entry.definition);
   const examples = entry.examples ?? [];
   const hasTags =
     entry.tag.length > 0 || entry.collins > 0 || entry.oxford > 0;
-  const isHidden = spell.mode === "input"; // 此模式下隐藏会泄漏拼写的字段
+  const isHidden = spell.mode === "input";
 
   useEffect(() => {
     if (spell.mode === "input") inputRef.current?.focus();
@@ -134,10 +133,9 @@ export function WordCard({
 
   return (
     <article className="space-y-1.5">
-      {/* 顶部：单词 + 发音 + 音标 + 标签 + 操作 */}
       <header className="flex items-center gap-2 flex-wrap">
         {isHidden ? (
-          <h2 className="text-xl font-semibold tracking-tight text-zinc-300 dark:text-zinc-700 select-none font-mono">
+          <h2 className="text-xl font-semibold tracking-tight text-muted/40 select-none font-mono">
             {"•".repeat(Math.min(entry.word.length, 12))}
           </h2>
         ) : (
@@ -147,7 +145,7 @@ export function WordCard({
                 ? "text-emerald-700 dark:text-emerald-400"
                 : spell.mode === "wrong"
                 ? "text-rose-700 dark:text-rose-400"
-                : "text-zinc-900 dark:text-zinc-50"
+                : "text-foreground"
             }`}
           >
             {entry.word}
@@ -158,7 +156,7 @@ export function WordCard({
         <SpeakButton word={entry.word} accent="uk" size="sm" />
 
         {!isHidden && entry.phonetic && (
-          <span className="text-sm text-zinc-500 dark:text-zinc-400 font-mono">
+          <span className="text-sm text-muted font-mono">
             /{entry.phonetic}/
           </span>
         )}
@@ -177,14 +175,13 @@ export function WordCard({
           </div>
         )}
 
-        {/* 操作按钮区：盲拼按钮 + 父组件传入的额外按钮 */}
         <div className="ml-auto flex items-center gap-1.5">
           {spellable && spell.mode === "idle" && (
             <button
               type="button"
               onClick={startSpell}
               title="盲拼这个词"
-              className="text-xs px-2 py-1 rounded-md bg-zinc-100 hover:bg-zinc-200 dark:bg-zinc-800 dark:hover:bg-zinc-700 text-zinc-700 dark:text-zinc-300 leading-none transition-colors"
+              className="text-xs px-2 py-1 rounded-md bg-accent-light hover:opacity-80 text-foreground leading-none transition-opacity"
             >
               盲拼
             </button>
@@ -193,7 +190,7 @@ export function WordCard({
             <button
               type="button"
               onClick={cancelSpell}
-              className="text-xs px-2 py-1 rounded-md text-zinc-400 hover:text-zinc-700 dark:hover:text-zinc-200 leading-none"
+              className="text-xs px-2 py-1 rounded-md text-muted hover:text-foreground leading-none"
             >
               取消
             </button>
@@ -202,7 +199,6 @@ export function WordCard({
         </div>
       </header>
 
-      {/* 盲拼输入区 */}
       {spell.mode === "input" && (
         <form
           onSubmit={handleSpellSubmit}
@@ -214,21 +210,20 @@ export function WordCard({
             value={input}
             onChange={(e) => setInput(e.target.value)}
             placeholder="拼出这个词，回车提交"
-            className="flex-1 px-3 py-2 rounded-lg border border-zinc-300 dark:border-zinc-700 bg-white dark:bg-zinc-900 text-base font-mono focus:outline-none focus:ring-2 focus:ring-zinc-900 dark:focus:ring-zinc-100"
+            className="flex-1 px-3 py-2 rounded-lg border border-card-border bg-card-bg text-base font-mono focus:outline-none focus:ring-2 focus:ring-accent/30"
             spellCheck={false}
             autoComplete="off"
             autoCapitalize="off"
           />
           <button
             type="submit"
-            className="px-4 py-2 rounded-lg bg-zinc-900 dark:bg-zinc-100 text-white dark:text-zinc-900 text-sm font-medium hover:opacity-90 transition-opacity"
+            className="px-4 py-2 rounded-lg bg-accent text-accent-fg text-sm font-medium hover:opacity-90 transition-opacity"
           >
             对答案
           </button>
         </form>
       )}
 
-      {/* 答错时显示用户输入 */}
       {spell.mode === "wrong" && (
         <div className="ml-12 text-sm text-rose-700 dark:text-rose-400">
           ✗ 你写的：
@@ -251,36 +246,35 @@ export function WordCard({
         </div>
       )}
 
-      {/* 内容：中文 + 英文 + 词形 + 例句 */}
       <div className="text-sm space-y-1">
         {entry.translation && (
           <Row label="中">
-            <span className="whitespace-pre-line text-zinc-800 dark:text-zinc-200">
+            <span className="whitespace-pre-line text-foreground">
               {entry.translation}
             </span>
           </Row>
         )}
         {!isHidden && definition && (
           <Row label="英">
-            <span className="whitespace-pre-line text-zinc-600 dark:text-zinc-400">
+            <span className="whitespace-pre-line text-muted">
               {definition}
             </span>
           </Row>
         )}
         {!isHidden && exchangeText && (
           <Row label="词形">
-            <span className="text-zinc-700 dark:text-zinc-300">
+            <span className="text-foreground">
               {exchangeText}
             </span>
           </Row>
         )}
         {!isHidden && examples.length > 0 && (
           <Row label="例">
-            <ul className="space-y-0.5 text-zinc-700 dark:text-zinc-300">
+            <ul className="space-y-0.5 text-foreground">
               {examples.map((ex, i) => (
                 <li
                   key={i}
-                  className="leading-relaxed before:content-['—_'] before:text-zinc-400 before:dark:text-zinc-600"
+                  className="leading-relaxed before:content-['—_'] before:text-muted/40"
                 >
                   {ex}
                 </li>
@@ -291,7 +285,7 @@ export function WordCard({
       </div>
 
       {footer && (
-        <div className="text-[11px] text-zinc-400 dark:text-zinc-600 pl-12 pt-0.5">
+        <div className="text-[11px] text-muted/60 pl-12 pt-0.5">
           {footer}
         </div>
       )}

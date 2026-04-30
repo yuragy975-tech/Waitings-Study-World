@@ -56,7 +56,6 @@ export function ListeningPlayer({
   const [realDuration, setRealDuration] = useState<number | null>(null);
   const [showShadowing, setShowShadowing] = useState(false);
 
-  // 用 requestAnimationFrame 做 60fps 平滑时间更新
   const rafRef = useRef<number>(0);
   useEffect(() => {
     function tick() {
@@ -96,7 +95,6 @@ export function ListeningPlayer({
   const displayDuration = realDuration ?? material.durationSec;
   const introSec = material.introSec ?? 0;
 
-  // 前奏期间不移动光标
   const effectiveTime = currentTime < introSec ? -1 : currentTime;
 
   const activeIndex = useMemo(() => {
@@ -158,7 +156,7 @@ export function ListeningPlayer({
 
   return (
     <div className="space-y-5">
-      <div className="rounded-2xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-4 sm:p-5">
+      <div className="rounded-2xl border border-card-border bg-card-bg p-4 sm:p-5">
         <audio
           ref={audioRef}
           src={material.audioUrl}
@@ -176,11 +174,11 @@ export function ListeningPlayer({
           <button
             type="button"
             onClick={togglePlay}
-            className="px-4 py-2 rounded-xl bg-zinc-900 dark:bg-zinc-100 text-white dark:text-zinc-900 font-medium hover:opacity-90"
+            className="px-4 py-2 rounded-xl bg-accent text-accent-fg font-medium hover:opacity-90"
           >
             {playing ? "⏸ 暂停" : "▶ 播放"}
           </button>
-          <span className="text-sm text-zinc-500 dark:text-zinc-400 tabular-nums">
+          <span className="text-sm text-muted tabular-nums">
             {formatDuration(currentTime)} / {formatDuration(displayDuration)}
           </span>
           <div className="ml-auto flex items-center gap-1.5 text-xs">
@@ -202,8 +200,8 @@ export function ListeningPlayer({
                 onClick={() => setRate(r)}
                 className={`px-2.5 py-1 rounded-md font-medium ${
                   rate === r
-                    ? "bg-zinc-900 dark:bg-zinc-100 text-white dark:text-zinc-900"
-                    : "bg-zinc-100 dark:bg-zinc-800 text-zinc-600 dark:text-zinc-400 hover:bg-zinc-200 dark:hover:bg-zinc-700"
+                    ? "bg-accent text-accent-fg"
+                    : "bg-accent-light text-muted hover:text-foreground"
                 }`}
               >
                 {r}x
@@ -219,7 +217,7 @@ export function ListeningPlayer({
           step={0.1}
           value={currentTime}
           onChange={(e) => jumpTo(Number(e.target.value))}
-          className="w-full mt-3 accent-zinc-900 dark:accent-zinc-100"
+          className="w-full mt-3 accent-foreground"
         />
 
         {showShadowing && (
@@ -246,7 +244,7 @@ export function ListeningPlayer({
       </div>
 
       <div className="flex items-center gap-2 flex-wrap text-sm">
-        <span className="text-zinc-500 dark:text-zinc-400">挖空：</span>
+        <span className="text-muted">挖空：</span>
         {MODE_OPTIONS.map((opt) => (
           <button
             key={opt.value}
@@ -255,8 +253,8 @@ export function ListeningPlayer({
             title={opt.hint}
             className={`px-3 py-1.5 rounded-lg font-medium transition-colors ${
               mode === opt.value
-                ? "bg-zinc-900 dark:bg-zinc-100 text-white dark:text-zinc-900"
-                : "bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 text-zinc-700 dark:text-zinc-200 hover:bg-zinc-50 dark:hover:bg-zinc-800"
+                ? "bg-accent text-accent-fg"
+                : "bg-card-bg border border-card-border text-foreground hover:bg-accent-light"
             }`}
           >
             {opt.label}
@@ -264,7 +262,7 @@ export function ListeningPlayer({
         ))}
       </div>
 
-      <div className="rounded-2xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-5 sm:p-7 space-y-4 text-lg leading-loose">
+      <div className="rounded-2xl border border-card-border bg-card-bg p-5 sm:p-7 space-y-4 text-lg leading-loose">
         {scaledSegments.map((seg, i) => (
           <div key={i}>
             <SegmentLine
@@ -293,8 +291,6 @@ export function ListeningPlayer({
   );
 }
 
-/* ── 句子行 ────────────────────────────────────────── */
-
 function SegmentLine({
   segment,
   mode,
@@ -319,7 +315,7 @@ function SegmentLine({
     <p
       className={`relative rounded-lg transition-all px-2 py-1 -mx-2 ${
         active
-          ? "bg-emerald-50/60 dark:bg-emerald-950/30"
+          ? "bg-accent-light"
           : ""
       }`}
     >
@@ -327,7 +323,7 @@ function SegmentLine({
         type="button"
         onClick={onJump}
         title="跳到这一句"
-        className="absolute -left-7 top-2 text-xs text-zinc-300 dark:text-zinc-700 hover:text-emerald-600 dark:hover:text-emerald-400 hidden sm:block"
+        className="absolute -left-7 top-2 text-xs text-muted/40 hover:text-foreground hidden sm:block"
       >
         ▶
       </button>
@@ -339,8 +335,6 @@ function SegmentLine({
     </p>
   );
 }
-
-/* ── 卡拉OK歌词效果 ──────────────────────────────── */
 
 function renderKaraoke(
   segment: Segment,
@@ -359,7 +353,7 @@ function renderKaraoke(
     if (showMask) {
       return (
         <span key={i}>
-          <span className="text-zinc-400 dark:text-zinc-600 font-mono tracking-wider">
+          <span className="text-muted/60 font-mono tracking-wider">
             {maskWord(cleanWord)}
           </span>
           {" "}
@@ -367,7 +361,6 @@ function renderKaraoke(
       );
     }
 
-    // 每个词的有效区间：从自己的 startSec 到下一个词的 startSec
     const zoneEnd = i < words.length - 1 ? words[i + 1].startSec : segment.endSec;
     let progress: number;
     if (past) {
@@ -410,7 +403,7 @@ function KaraokeWord({
       <button
         type="button"
         onClick={onClick}
-        className="relative text-zinc-400 dark:text-zinc-500 hover:text-zinc-600 dark:hover:text-zinc-300 cursor-pointer transition-colors"
+        className="relative text-muted hover:text-foreground cursor-pointer transition-colors"
       >
         {text}
       </button>
@@ -422,14 +415,13 @@ function KaraokeWord({
       <button
         type="button"
         onClick={onClick}
-        className="relative text-emerald-600 dark:text-emerald-400 cursor-pointer"
+        className="relative text-foreground cursor-pointer"
       >
         {text}
       </button>
     );
   }
 
-  // 正在播放的词：渐进填色 + 竖线光标
   const pct = `${Math.round(progress * 100)}%`;
   return (
     <button
@@ -437,25 +429,20 @@ function KaraokeWord({
       onClick={onClick}
       className="relative inline-block cursor-pointer"
     >
-      {/* 底层：未播放颜色 */}
-      <span className="text-zinc-400 dark:text-zinc-500">{text}</span>
-      {/* 顶层：已播放颜色，宽度随进度裁剪 */}
+      <span className="text-muted">{text}</span>
       <span
-        className="absolute left-0 top-0 text-emerald-600 dark:text-emerald-400 overflow-hidden whitespace-nowrap pointer-events-none"
+        className="absolute left-0 top-0 text-foreground overflow-hidden whitespace-nowrap pointer-events-none"
         style={{ width: pct }}
       >
         {text}
       </span>
-      {/* 竖线光标 */}
       <span
-        className="absolute top-0 w-[2px] h-full bg-emerald-500 dark:bg-emerald-400 pointer-events-none"
+        className="absolute top-0 w-[2px] h-full bg-foreground pointer-events-none"
         style={{ left: pct }}
       />
     </button>
   );
 }
-
-/* ── 无逐词时间戳的降级渲染 ────────────────────────── */
 
 function renderFromText(
   text: string,
@@ -470,7 +457,7 @@ function renderFromText(
       return (
         <span
           key={i}
-          className="text-zinc-400 dark:text-zinc-600 font-mono tracking-wider"
+          className="text-muted/60 font-mono tracking-wider"
         >
           {maskWord(t.text)}
         </span>
@@ -483,8 +470,8 @@ function renderFromText(
         onClick={() => onClickWord(t.text)}
         className={`rounded px-0.5 transition-colors cursor-pointer ${
           past
-            ? "text-emerald-600 dark:text-emerald-400"
-            : "text-zinc-400 dark:text-zinc-500 hover:text-zinc-600 dark:hover:text-zinc-300"
+            ? "text-foreground"
+            : "text-muted hover:text-foreground"
         }`}
       >
         {t.text}

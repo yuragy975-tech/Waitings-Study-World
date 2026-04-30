@@ -70,27 +70,27 @@ export default function NotebookPage() {
   }
 
   return (
-    <div className="flex-1 px-4 sm:px-6 py-10 bg-zinc-50 dark:bg-zinc-950">
+    <div className="flex-1 px-4 sm:px-6 py-10 bg-background">
       <div className="max-w-7xl mx-auto">
         <header className="mb-6 flex items-end justify-between gap-4 flex-wrap">
           <div>
-            <h1 className="text-3xl font-bold text-zinc-900 dark:text-zinc-50">
+            <h1 className="text-3xl font-bold text-foreground">
               我的生词本
             </h1>
-            <p className="text-sm text-zinc-500 dark:text-zinc-400 mt-1">
+            <p className="text-sm text-muted mt-1">
               {hydrated ? `共 ${entries.length} 个生词` : "加载中..."}
             </p>
           </div>
           <nav className="flex items-center gap-4 text-sm">
             <Link
               href="/dictation"
-              className="font-medium text-emerald-700 dark:text-emerald-400 hover:underline"
+              className="font-medium text-accent hover:underline"
             >
               开始听写 →
             </Link>
             <Link
               href="/"
-              className="text-zinc-500 hover:text-zinc-900 dark:hover:text-zinc-50"
+              className="text-muted hover:text-foreground transition-colors"
             >
               首页
             </Link>
@@ -103,7 +103,7 @@ export default function NotebookPage() {
             value={input}
             onChange={(e) => setInput(e.target.value)}
             placeholder="输入英文单词，回车加入笔记本"
-            className="flex-1 px-4 py-2.5 rounded-xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 text-zinc-900 dark:text-zinc-50 focus:outline-none focus:ring-2 focus:ring-zinc-900 dark:focus:ring-zinc-100"
+            className="flex-1 px-4 py-2.5 rounded-xl border border-card-border bg-card-bg text-foreground focus:outline-none focus:ring-2 focus:ring-accent/30 placeholder:text-muted"
             autoFocus
             spellCheck={false}
             autoComplete="off"
@@ -111,7 +111,7 @@ export default function NotebookPage() {
           <button
             type="submit"
             disabled={loading || !input.trim()}
-            className="px-5 py-2.5 rounded-xl bg-zinc-900 dark:bg-zinc-100 text-white dark:text-zinc-900 font-medium disabled:opacity-50 disabled:cursor-not-allowed hover:opacity-90 transition-opacity"
+            className="px-5 py-2.5 rounded-xl bg-accent text-accent-fg font-medium disabled:opacity-50 disabled:cursor-not-allowed hover:opacity-90 transition-opacity"
           >
             {loading ? "查..." : "+ 加入"}
           </button>
@@ -124,8 +124,8 @@ export default function NotebookPage() {
         )}
 
         {hydrated && entries.length === 0 && (
-          <div className="rounded-2xl border-2 border-dashed border-zinc-200 dark:border-zinc-800 p-12 text-center max-w-3xl">
-            <p className="text-zinc-400 dark:text-zinc-600">
+          <div className="rounded-2xl border-2 border-dashed border-card-border p-12 text-center max-w-3xl">
+            <p className="text-muted">
               你的生词本是空的，从上方输入框开始记录第一个词吧 ✨
             </p>
           </div>
@@ -152,11 +152,11 @@ export default function NotebookPage() {
                   type="button"
                   onClick={() => setCurrentPage((p) => Math.max(1, p - 1))}
                   disabled={currentPage === 1}
-                  className="px-4 py-2 rounded-lg border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 text-zinc-700 dark:text-zinc-200 disabled:opacity-40 disabled:cursor-not-allowed hover:bg-zinc-100 dark:hover:bg-zinc-800 transition-colors"
+                  className="px-4 py-2 rounded-lg border border-card-border bg-card-bg text-slate-700 dark:text-slate-200 disabled:opacity-40 disabled:cursor-not-allowed hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors"
                 >
                   ← 上一页
                 </button>
-                <span className="text-zinc-500 dark:text-zinc-400 min-w-[80px] text-center">
+                <span className="text-muted min-w-[80px] text-center">
                   第 {currentPage} / {totalPages} 页
                 </span>
                 <button
@@ -165,7 +165,7 @@ export default function NotebookPage() {
                     setCurrentPage((p) => Math.min(totalPages, p + 1))
                   }
                   disabled={currentPage === totalPages}
-                  className="px-4 py-2 rounded-lg border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 text-zinc-700 dark:text-zinc-200 disabled:opacity-40 disabled:cursor-not-allowed hover:bg-zinc-100 dark:hover:bg-zinc-800 transition-colors"
+                  className="px-4 py-2 rounded-lg border border-card-border bg-card-bg text-slate-700 dark:text-slate-200 disabled:opacity-40 disabled:cursor-not-allowed hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors"
                 >
                   下一页 →
                 </button>
@@ -192,7 +192,7 @@ function NotebookItem({
   onRemove: () => void;
 }) {
   return (
-    <div className="rounded-xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-4 sm:p-5">
+    <div className="rounded-xl border border-card-border bg-card-bg p-4 sm:p-5">
       <WordCard
         entry={nb.entry}
         spellable
@@ -212,7 +212,7 @@ function NotebookItem({
               type="button"
               onClick={onManualReview}
               title="又记了一次"
-              className="text-xs px-2 py-1 rounded-md bg-emerald-600 hover:bg-emerald-700 text-white font-medium leading-none transition-colors"
+              className="text-xs px-2 py-1 rounded-md bg-accent hover:opacity-90 text-white font-medium leading-none transition-opacity"
             >
               +1
             </button>
@@ -222,7 +222,7 @@ function NotebookItem({
                 if (confirm(`从笔记本移除 "${nb.word}" 吗？`)) onRemove();
               }}
               title="删除"
-              className="text-xs px-2 py-1 rounded-md text-zinc-400 hover:text-red-600 hover:bg-red-50 dark:hover:bg-red-950/40 leading-none transition-colors"
+              className="text-xs px-2 py-1 rounded-md text-muted hover:text-red-600 hover:bg-red-50 dark:hover:bg-red-950/40 leading-none transition-colors"
             >
               ✕
             </button>

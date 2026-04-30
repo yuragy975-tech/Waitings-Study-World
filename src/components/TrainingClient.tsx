@@ -10,25 +10,25 @@ export function TrainingClient({ material }: { material: Material }) {
   const [activeWord, setActiveWord] = useState<string | null>(null);
 
   return (
-    <div className="flex-1 px-4 sm:px-6 py-6 bg-zinc-50 dark:bg-zinc-950">
+    <div className="flex-1 px-4 sm:px-6 py-6 bg-background">
       <div className="max-w-3xl mx-auto">
         <header className="mb-5">
           <Link
             href="/listening"
-            className="text-sm text-zinc-500 hover:text-zinc-900 dark:hover:text-zinc-50"
+            className="text-sm text-muted hover:text-foreground transition-colors"
           >
             ← 全部素材
           </Link>
-          <h1 className="mt-3 text-2xl sm:text-3xl font-bold text-zinc-900 dark:text-zinc-50">
+          <h1 className="mt-3 text-2xl sm:text-3xl font-bold text-foreground">
             {material.title}
           </h1>
-          <p className="mt-1 text-sm text-zinc-500 dark:text-zinc-400">
+          <p className="mt-1 text-sm text-muted">
             {material.source} · {levelLabel(material.level)}
             {material.cefr ? ` · ${material.cefr}` : ""} ·{" "}
             {formatDuration(material.durationSec)}
           </p>
           {material.difficultyReason && (
-            <p className="mt-1 text-xs text-zinc-400 dark:text-zinc-500">
+            <p className="mt-1 text-xs text-muted/60">
               {material.difficultyReason}
             </p>
           )}

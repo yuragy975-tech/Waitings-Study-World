@@ -14,7 +14,7 @@ const nextConfig: NextConfig = {
     "/listening/[id]": ["./public/listening-materials/**/*.mp3"],
   },
   // better-sqlite3 是原生模块，要告诉 Next 别试图把它打包进客户端
-  serverExternalPackages: ["better-sqlite3"],
+  serverExternalPackages: ["better-sqlite3", "pdf-parse"],
 };
 
 export default nextConfig;
