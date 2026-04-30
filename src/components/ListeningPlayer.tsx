@@ -344,7 +344,9 @@ function renderKaraoke(
   past: boolean,
   onClickWord: (w: string) => void,
 ) {
-  const words = segment.words!;
+  const words = segment.words!.filter(
+    (w) => w.startSec < segment.endSec && w.endSec > segment.startSec,
+  );
   return words.map((w, i) => {
     const cleanWord = w.text.replace(/[^A-Za-z']/g, "");
     const isFn = isFunctionWord(cleanWord);
