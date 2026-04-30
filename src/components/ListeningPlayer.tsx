@@ -398,48 +398,20 @@ function KaraokeWord({
   progress: number;
   onClick: () => void;
 }) {
-  if (progress <= 0) {
-    return (
-      <button
-        type="button"
-        onClick={onClick}
-        className="relative text-muted hover:text-foreground cursor-pointer transition-colors"
-      >
-        {text}
-      </button>
-    );
-  }
+  const color =
+    progress <= 0
+      ? "text-muted"
+      : progress < 1
+        ? "text-amber-500 dark:text-amber-400"
+        : "text-foreground";
 
-  if (progress >= 1) {
-    return (
-      <button
-        type="button"
-        onClick={onClick}
-        className="relative text-foreground cursor-pointer"
-      >
-        {text}
-      </button>
-    );
-  }
-
-  const pct = `${Math.round(progress * 100)}%`;
   return (
     <button
       type="button"
       onClick={onClick}
-      className="relative inline-block cursor-pointer"
+      className={`cursor-pointer transition-colors duration-150 ${color}`}
     >
-      <span className="text-muted">{text}</span>
-      <span
-        className="absolute left-0 top-0 text-foreground overflow-hidden whitespace-nowrap pointer-events-none"
-        style={{ width: pct }}
-      >
-        {text}
-      </span>
-      <span
-        className="absolute top-0 w-[2px] h-full bg-foreground pointer-events-none"
-        style={{ left: pct }}
-      />
+      {text}
     </button>
   );
 }

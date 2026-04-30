@@ -26,6 +26,15 @@ function getGreeting() {
 
 const FEATURES = [
   {
+    href: "/listening",
+    icon: Headphones,
+    title: "精听研习",
+    desc: "盲听 · 对照 · 精听",
+    color: "text-teal-600 dark:text-teal-400",
+    bg: "bg-teal-50 dark:bg-teal-950/40",
+    border: "border-teal-100 dark:border-teal-900/50",
+  },
+  {
     href: "/notebook",
     icon: BookOpen,
     title: "生词本",
@@ -44,13 +53,13 @@ const FEATURES = [
     border: "border-violet-100 dark:border-violet-900/50",
   },
   {
-    href: "/listening",
-    icon: Headphones,
-    title: "精听研习",
-    desc: "盲听 · 对照 · 精听",
-    color: "text-teal-600 dark:text-teal-400",
-    bg: "bg-teal-50 dark:bg-teal-950/40",
-    border: "border-teal-100 dark:border-teal-900/50",
+    href: "/learn",
+    icon: Lightbulb,
+    title: "博学研习",
+    desc: "任意话题 · 上传文档",
+    color: "text-indigo-600 dark:text-indigo-400",
+    bg: "bg-indigo-50 dark:bg-indigo-950/40",
+    border: "border-indigo-100 dark:border-indigo-900/50",
   },
   {
     href: "/sentences",
@@ -69,15 +78,6 @@ const FEATURES = [
     color: "text-rose-600 dark:text-rose-400",
     bg: "bg-rose-50 dark:bg-rose-950/40",
     border: "border-rose-100 dark:border-rose-900/50",
-  },
-  {
-    href: "/learn",
-    icon: Lightbulb,
-    title: "博学研习",
-    desc: "任意话题 · 上传文档",
-    color: "text-indigo-600 dark:text-indigo-400",
-    bg: "bg-indigo-50 dark:bg-indigo-950/40",
-    border: "border-indigo-100 dark:border-indigo-900/50",
   },
 ];
 

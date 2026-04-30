@@ -22,13 +22,13 @@ import { useEffect, useState } from "react";
 const NAV_ITEMS = [
   { href: "/", label: "Dashboard", icon: LayoutDashboard },
   { kind: "divider" as const, label: "英语学习" },
+  { href: "/listening", label: "精听研习", icon: Headphones },
   { href: "/notebook", label: "生词本", icon: BookOpen },
   { href: "/dictation", label: "听写", icon: PenLine },
-  { href: "/listening", label: "精听研习", icon: Headphones },
   { href: "/sentences", label: "句子本", icon: NotebookPen },
   { kind: "divider" as const, label: "AI 学习" },
-  { href: "/grammar", label: "语法学习", icon: Brain },
   { href: "/learn", label: "博学研习", icon: Lightbulb },
+  { href: "/grammar", label: "语法学习", icon: Brain },
   { kind: "divider" as const, label: "管理" },
   { href: "/upload", label: "上传素材", icon: Upload },
 ];
